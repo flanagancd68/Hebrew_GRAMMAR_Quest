@@ -1,6 +1,8 @@
 # Preface: The philosophy of this book and course  {-}
 
-![](images/torah_scroll.jpg)
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/torah_scroll.jpg")
+```
 
 ## What is the format/structure of Hebrew GRAMMAR Quest? {-}
 
@@ -31,8 +33,9 @@ Before a big trip, you need to know the basics.  Geography, what type of current
 
 Each lesson in this book/course will provide a high-level summary of the concepts taught in "Basics of Biblical Hebrew", by Gary Pratico, PhD, and Miles Van Pelt, PhD.^[More specifically, we have made extensive use of the many resources that have been developed to accompany this textbook; most notably, the vast amount of materials published by John Beckman, PhD, copyright under the Creative Commons "Share Alike" license.]
 
-<center>
-![Basics of Biblical Hebrew](images/BBH_cover.png)
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/BBH_cover.png")
+```
 
 ## _Physical_ Preparation: Anki Aerobics and Quest Quizzes {-}
 

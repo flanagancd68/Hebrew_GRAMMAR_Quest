@@ -1,8 +1,8 @@
 # About Holy Language Institute {-}
 
-<center>
-![](images/following_yeshua.jpg)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/following_yeshua.jpg")
+```
 
 ## ***Jesus is Jewish.*** {-}
 

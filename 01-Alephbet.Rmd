@@ -4,17 +4,19 @@
 
 <br>
 <br>
-<center>
-![4000 years of Hebrew](images/alephbet_multi.png)
-</center>
+
+```{r, out.width = "500px", fig.align='center'}
+
+include_graphics("images/alephbet_multi.png")
+```
 
 
 
 ## The Consonants
 
-<center>
-![4000 years of Hebrew](images/alephbet.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/alephbet.png")
+```
 
 
 
@@ -32,44 +34,41 @@
 
 ## Twenty-two Consonants(?)
 
-<center>
-![[](images/shinsin.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/shinsin.png")
+```
 
 * Twenty-two vs twenty-three letters depends on how you count ש:
-
-* One letter with two forms = 22
-* Two separate letters = 23
+    * One letter with two forms = 22
+    * Two separate letters = 23
 
 * Most sources would align with 22 letters
 * When you look words up in a Hebrew lexicon^[A "lexicon" is another word for a dictionary], words beginning with שׁ are segregated from words that begin with שֹ.
 
-### How do you tell the difference between שׁ and שׁׁ?  {-}
+### How do you tell the difference between שׁ and ֹש?  {-}
 
 * Look at the location of the dot  
-    * RIGHT side = SHIN ׁׁשׁ
-    * LEFT side = SIN   שֹ
-# One way you can remember this is “SIN IS NEVER RIGHT!"
+    * RIGHT side = SHIN **שׁ**
+    * LEFT side = SIN   **שֹ**
+* One way you can remember this is “SIN IS NEVER RIGHT!"
 
 
 ## Written and read from Right to Left
 
-<center>
-![](images/right_to_left.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/right_to_left.png")
+```
 
 Note the front of a Hebrew book:
 
-<center>
-![](images/hebrewbook.png)
-</center>
+```{r, out.width = "300px", fig.align='center'}
+include_graphics("images/hebrewbook.png")
+```
 
-֝* To our western eyes, this looks "backwards" (but Israelis would say _we_ are reading backwards!)
+* To our western eyes, this looks "backwards" (but Israelis would say _we_ are reading backwards!)
 * When reading Hebrew, always start at the "back" and go from RIGHT to LEFT
 
-
-
-## Five Final (“Sofit”) Forms {-}
+## Three important groups of letters
 
 Of the 22 Hebrew consonants, there are three sub-groups of letters you need to memorize for this lesson:
 
@@ -79,9 +78,11 @@ Of the 22 Hebrew consonants, there are three sub-groups of letters you need to m
 
 Let's look at the sofit letters first.
 
-<center>
-![[](images/kimnepatz.png)
-</center>
+## Five Final (“Sofit”) Forms 
+
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/kimnepatz.png")
+```
 
 * Hebrew does not have capital letters the way English does, but it does have a generally similiar concept
 * Certain letters take what are called “Final” or “Sofit” forms when they appear at the END of a word
@@ -94,11 +95,11 @@ Let's look at the sofit letters first.
 * The five letters that have these forms are the letters, kaf, mem, nun, pei and Tsaddi:  ך ם ן ף ץ   
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 
-### KiMNePaTZ sofit forms can look like other letters.
+## KiMNePaTZ sofit forms can look like other letters.
 
-<center>
-![[](images/kimnepatz-q.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/kimnepatz-q.png")
+```
 
 * Some of the KimNepatz letters look like other letters
 * Note that four of the five letters extend below the writing line
@@ -106,12 +107,12 @@ Let's look at the sofit letters first.
     * The Quf is one of those fortunate letters that has no look alike
 * If you see a letter that goes below the line and it’s not a Quf, it can only be a Sofit form
 
-### Kaf Sofit and Look-alikes
+## Kaf Sofit and Look-alikes
 
 
-<center>
-![[](images/kimnepatz-drch.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/kimnepatz-drch.png")
+```
 
 * The three letters above actually spell a Hebrew word. We haven’t learned the vowels yet so they are omitted but the word pronounced "derech" means road or way.  
 * דרך is a good word so you can see the differences between the Dalet, the first letter, the Resh, the middle letter, and the Kaf Sofit, the last letter (did you catch that we're reading right to left?)
@@ -122,20 +123,20 @@ Let's look at the sofit letters first.
     * Resh has a rounded corner
     * Resh doesn’t extend below the line
 
-### Nun Sofit and Look-alikes
+## Nun Sofit and Look-alikes
 
-<center>
-![[](images/kimnepatz-zaqen.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/kimnepatz-zaqen.png")
+```
 
 * This is a word pronounced "zaqen", and means old man or elder
 * Here you can see some similarities between the Zayin, the first letter and the Nun Sofit
     * Again, note the Nun Sofit extends below the line
 
 
-<center>
-![[](images/Kimnepatz-ion.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/Kimnepatz-ion.png")
+```
 
 * Here are three letters that can often be confused with each-other
 * This is actually a borrowed word, ion (yes, referring tot he sub-atomic particle)^[In lesson 2, we will learn about vowel letters and how the vav can be an "o" or "u" vowel}. 
@@ -146,9 +147,9 @@ Let's look at the sofit letters first.
 ## Six “BeGaD KePHaT” Consonants take a "Daghesh Lene"
 
 
-<center>
-![[](images/bgdkpt.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/bgdkpt.png")
+```
 
 
 * The next sub-group of letters you need to study are the "BeGaD Kephat" letters.  
@@ -157,9 +158,9 @@ Let's look at the sofit letters first.
 * At one time all six of these letters had different pronunciation - a hard form and a soft form.  A dot called a **DAGHESH LENE** is inserted into the middle of the consonant which makes the letter hard.   
 
 
-<center>
-![[](images/bdgkpt_with_lene.png)
-</center>
+```{r, out.width = "300px", fig.align='center'}
+include_graphics("images/bdgkpt_with_lene.png")
+```
 
 In Sephardic pronunciation, only three of these letters actually change pronunciation:
 |Letter | Pronunciation|
@@ -173,20 +174,22 @@ In Sephardic pronunciation, only three of these letters actually change pronunci
 
 Since the letters without the Daghesh Lene want to be "lazy" - for example a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"
 
-<center>
-![[](images/buckup.png)
+```{r, out.width = "300px", fig.align='center'}
+include_graphics("images/buckup.png")
+```
 
 * When will I see a בגד כפת letter with and without the Daghesh Forte?
     * There is a rule:  <u>A Daghesh Lene is not used whenever the BDGKPT letter follows a Vowel</u>
 
 You don’t need to memorise this right now and if this doesn’t make any sense, that’s ok.  We’ll dig deeper into the Daghesh Lene, and his twin, the Daghesh Forte over the next few lessons.
 
-</center>
+
 
 ## Four Guttural Consonants and ר
-<center>
-![[](images/gutturals.png)
-</center>
+
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/gutturals.png")
+```
 
 The third of our three sub-groups are called the gutturals.
 
@@ -206,9 +209,9 @@ The good news is this bad boy behavior of the gutturals and Resh is entirely pre
 
 ## Look-alike Letters
 
-<center>
-![](images/lookalikes.png)
-</center>
+```{r, out.width = "300px", fig.align='center'}
+include_graphics("images/lookalikes.png")
+```
 
 We met some of these letters earlier when we learned the Sofit forms, but Hebrew has many letters that can look similar, especially to someone just learning the Aleph-bet
 
@@ -219,9 +222,9 @@ Also, when Izzy reviewed the Aleph-Bet in lessons 2-11, he also talked about eac
 
 ## Sephardic vs "Seminary" Pronunciation
 
-<center>
-![Waw! It's Vav!](images/vav.png)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/vav.png")
+```
 
 
 We've already talked about how only three of the Daghesh Lene letters need to "buckup".  There is one other major difference between Sephardic and Seminary pronunciation, which is how to pronounce ו.  
@@ -229,12 +232,7 @@ We've already talked about how only three of the Daghesh Lene letters need to "b
 In academia, the consonant receives the "w" sound and is called "Waw."  In most non-academic circles, it receives the "v" sound and is pronounced "vav".
 
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
-* Some terms in the world of Hebrew grammar are so common, we are not going to try to fight them.  The reason for this is that if you use a Bible Study software package, you are much more likely to encounter the "w" versions.  Examples:
-    * We will say "shewa" and not "sheva" (Lesson 2)
-    * You may see "wayyiqtol" and not "vayyiqtol" (verbs) ![](images/wayyiqtol.png)
-    * There is a concept called the "vav/waw consecutive" - when we get to verbs, we will learn some shorthand.  You will see "wc" for Waw Consecutive, even though we may call it the "Vav Consecutive".
-    
-You'll get used to it!
+
 
 
 
@@ -246,3 +244,4 @@ You'll get used to it!
     * Grammar - letter identification and pronunciation, look-alike letters
     * Translation - there is no translation yet but we will learn some grammar shorthand we will use when we get to the study verses
 * Letter writing worksheet to practice writing the letters
+* Ruth Pursuit - Find all of the consonants and the five Sofit forms in Ruth 1

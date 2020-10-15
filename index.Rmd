@@ -17,15 +17,19 @@ lof: no
 mainfont: Ezra SIL
 
 ---
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = FALSE)
 
-
+```
 # Hebrew GRAMMAR Quest {-}
 
 > Biblical Hebrew Grammar the Holy Language way
 
-<center>
-![](images/hli_cover.jpg)
-</center>
+```{r, out.width = "500px", fig.align='center'}
+include_graphics("images/hli_cover.jpg")
+```
+
 
 
 

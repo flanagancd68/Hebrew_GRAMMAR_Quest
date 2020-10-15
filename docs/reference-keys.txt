@@ -2,6 +2,8 @@ alephbet
 the-consonants
 twenty-two-consonants
 written-and-read-from-right-to-left
+three-important-groups-of-letters
+five-final-sofit-forms
 kimnepatz-sofit-forms-can-look-like-other-letters.
 kaf-sofit-and-look-alikes
 nun-sofit-and-look-alikes
