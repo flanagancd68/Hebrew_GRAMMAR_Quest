@@ -1,0 +1,21 @@
+# (APPENDIX) Appendix {-} 
+
+# About Anki {-}
+
+
+> Anki is like gym equipment for your brain
+
+|:-----:|:-----:|
+|![](images/weight.png) | ![](images/treadmill.png)
+| Heavy lifting | Cardio |
+
+If one wants to build strength she might use the weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
+
+What if I told you you could have the equivalent pieces of equipment, only for your brain instead of your physical health and the machine didn’t cost you a penny? It’s true! That machine is called Anki. 
+
+Anki is a tremendous tool for learning and it is where we will be spending the bulk of your time in the course.  In fact it has become the “go to” for many medical school students for learning all the intricate facts they have to know.
+
+![](images/Anki_home_screen.png)
+
+## The Forgetting Curve
+

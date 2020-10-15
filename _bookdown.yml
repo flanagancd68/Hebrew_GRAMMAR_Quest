@@ -1,0 +1,8 @@
+book_filename: "Hebrew Grammar Quest"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Lesson "
+    
+output_dir: _book
+clean: [packages.bib]
