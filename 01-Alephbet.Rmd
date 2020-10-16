@@ -20,6 +20,8 @@ include_graphics("images/alephbet_multi.png")
 1. [Differentiate among "look-alike" letters](#one_6)
 1. [Note differences between "seminary" and "Sephardic" pronunciation](#one_7)
 
+[Lesson 1 ACTIVities](#one_8)
+
 
 ## The Hebrew Alephbet {#one_1}
 
@@ -152,7 +154,7 @@ include_graphics("images/lookalikes.png")
 
 
 
-## Sephardic vs "Seminary" Pronunciation  {#one_7}
+## Sephardic vs "Seminary" Pronunciation {#one_7}
 
 ```{r, out.width = "500px", fig.align='center'}
 include_graphics("images/vav.png")
@@ -175,17 +177,18 @@ include_graphics("images/wayyiqtol.png")
 * This course will use "Adonai" or "the LORD" when we encounter the Tetragramaton^[Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew" you would see the name "Y--w-h" used frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name, so this is not a hard and fast "Academic" distinction].
 
 
-## Lesson 1 ACTIVities
+## Lesson 1 ACTIVities {#one_8}
 
 |Preparation|Type|Instructions|Link
 |:-----|:-----|:-----|:---|
 |Physical Preparation|Anki Aerobics| Vocabulary - Learn (or relearn) the Aleph-Bet with Izzy 
 ||Grammar - Identify look-alike Hebrew letters
-||Worksheet |Practice writing the letters|[Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view) /n[Letter Writing Guide](https://drive.google.com/file/d/1cmrCXcafjwvbMNj7GgX7UPMGA0FcwvWN/view)
+||Worksheet |Practice writing the letters|[Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view) 
+||||[Letter Writing Guide](https://drive.google.com/file/d/1cmrCXcafjwvbMNj7GgX7UPMGA0FcwvWN/view)
 |||Practice writing the AlephBet in order until you can do it at least five times from memory | [Blank writing paper](https://drive.google.com/file/d/1mQcP6MMPDU--r374dZii7PxNzyd5NU6F/view?usp=sharing)
 |Spiritual | Anki Aerobics|Study-Verses - there is no translation yet but we will learn some grammar shorthand that we will use when we get to the study verses
-|| Ruth Pursuit|1. Identify the four guttural letters (pink)^[The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.]|[Ruth 1 Blank Copy](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing)^[Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters. ] - [(Answer Key)](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing)
-|||2. Identify the one half-guttural (red)|
+|| Ruth Pursuit|1. Identify the four guttural letters (pink)^[The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.]|[Ruth 1 Blank Copy](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing)^[Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters. ] 
+|||2. Identify the one half-guttural (red)|  [(Answer Key #1)](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing)
 |||3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene for a total of 12 letters (green)
 |||4. Identify the five final/sofit forms (blue)
 |||5. Identify the remaining letters (yellow)  

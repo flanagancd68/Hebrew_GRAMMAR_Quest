@@ -7,7 +7,7 @@ one_4
 one_5
 one_6
 one_7
-lesson-1-activities
+one_8
 hebrew-vowels
 two_1
 two_2
@@ -16,7 +16,7 @@ two_4
 two_5
 two_6
 two_7
-lesson-2-activities-two_8
+two_8
 syllabification-and-pronunciation
 hebrew-nouns
 definite-article-and-conjunction-vav
