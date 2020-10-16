@@ -10,18 +10,18 @@ include_graphics("images/alephbet_multi.png")
 ```
 ^[This graphic shows the evolution of Hebrew.  Top to bottom: proto-canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block. and contemporary cursive.  This course will use contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.]
 
-### Lesson 1 Practical Preparation {-}
+### Seven Practical Points for Lesson 1 {-}
 
-1. Memorize the consonants
-1. Understand that Hebrew is written and read from RIGHT to LEFT
-1. Identify the group of five letters that have final/Sofit forms
-1. Identify the group of six letters that can take a Daghesh Lene
-1. Identify the group of four "guttural" letters that cause significant changes in spelling and punctuation (and the one additional letter that sometimes acts as a guttural)
-1. Differentiate among "look-alike" letters
-1. Note differences between "seminary" and "Sephardic" pronunciation
+1. [Memorize the consonants](#one_1)
+1. [Understand that Hebrew is written and read from RIGHT to LEFT](#one_2)
+1. [Identify the group of five letters that have final/Sofit forms](#one_3)
+1. [Identify the group of six letters that can take a Daghesh Lene](#one_4)
+1. [Identify the group of four "guttural" letters that cause significant changes in spelling and punctuation (and the one additional letter that sometimes acts as a guttural)](#one_5)
+1. [Differentiate among "look-alike" letters](#one_6)
+1. [Note differences between "seminary" and "Sephardic" pronunciation](#one_7)
 
 
-## The Hebrew Alephbet
+## The Hebrew Alephbet {#one_1}
 
 ```{r, out.width = "500px", fig.align='center'}
 include_graphics("images/alephbet.png")
@@ -47,7 +47,7 @@ Notes:
     * Spiritual insights - what the letter teaches us
 
 
-## Hebrew is written and read from RIGHT-to-LEFT
+## Hebrew is written and read from RIGHT-to-LEFT {#one_2}
 
 ```{r, out.width = "300px", fig.align='center'}
 include_graphics("images/right_to_left.png")
@@ -64,7 +64,7 @@ include_graphics("images/hebrewbook.png")
 * When reading Hebrew, always start at the "back" and go from RIGHT to LEFT
 
 
-## Five letters have final (“sofit”) forms
+## Five letters have final (“sofit”) forms {#one_3}
 
 ```{r, out.width = "500px", fig.align='center'}
 include_graphics("images/kimnepatz.png")
@@ -89,7 +89,7 @@ include_graphics("images/kimnepatz.png")
 * The KiMNePaTZ sofit forms can look like other letters - your Anki work will give you practice with identifying look-alike letters
 
 
-## Six letters take a "Daghesh Lene" 
+## Six letters take a "Daghesh Lene" {#one_4}
 
 ```{r, out.width = "500px", fig.align='center'}
 include_graphics("images/bgdkpt.png")
@@ -121,7 +121,7 @@ include_graphics("images/buckup.png")
 We’ll dig deeper into the Daghesh Lene, and its twin, the Daghesh Forte, over the next few lessons.
 
 
-## Four letters are classified as guttural Consonants (and one is a sometimes-guttural)
+## Four letters are classified as guttural Consonants (and one is a sometimes-guttural) {#one_5}
 
 ```{r, out.width = "500px", fig.align='center'}
 include_graphics("images/gutturals.png")
@@ -139,7 +139,7 @@ include_graphics("images/gutturals.png")
     * For now just memorize the four guttural consonants in red, and Resh, the sometimes-guttural-like letter in orange.
 
 
-## Look out for look-alike Letters
+## Look out for look-alike Letters {#one_6}
 
 ```{r, out.width = "300px", fig.align='center'}
 include_graphics("images/lookalikes.png")
@@ -152,16 +152,14 @@ include_graphics("images/lookalikes.png")
 
 
 
-## Sephardic vs "Seminary" Pronunciation
+## Sephardic vs "Seminary" Pronunciation  {#one_7}
 
 ```{r, out.width = "500px", fig.align='center'}
 include_graphics("images/vav.png")
 ```
 
 * There are some notable differences between what we might call academic or "seminary" Hebrew and "real-world" Hebrew.
-    * Real-world Hebrew is based on Sephardic pronunciation^[so we can give the topic the shorhand label of "Seminary vs. Sephardic".  We don't say "Seminary Hebrew" to be disrespectful. We only mean to differentiate between the two pronunciation types.]
-
-
+    * Real-world Hebrew is based on Sephardic pronunciation^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]
 * We've already talked about how only three of the Daghesh Lene letters need to "buckup"^[With "Seminary Hebrew", the ג without the Daghesh Lene receives something like the gh in "aGHast" and the ד and ת without the Daghesh Lene are closer to the English th like "this".]
 * Another difference between Sephardic and Seminary pronunciation is how to pronounce ו 
     * In academia, the consonant receives the "w" sound and is called "Waw." 

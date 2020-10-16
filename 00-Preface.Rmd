@@ -41,9 +41,6 @@ This is where _physical preparation_ comes in.
 
 <!-- The lessons are inspired by the book, "Basics of Biblical Hebrew", by Gary Pratico, PhD, and Miles Van Pelt, PhD.^[More specifically, we have made extensive use of the many resources that have been developed to accompany this textbook; most notably, the vast amount of materials published by John Beckman, PhD, copyright under the Creative Commons "Share Alike" license.] -->
 
-```{r, out.width = "500px", fig.align='center'}
-include_graphics("images/BBH_cover.png")
-```
 
 ## _Physical_ Preparation: Anki Aerobics {-}
 
