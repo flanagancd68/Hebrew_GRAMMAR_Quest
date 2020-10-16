@@ -5,10 +5,11 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
 bibliography: [book.bib, packages.bib]
-biblio-style: apalike
+biblio-style: turabian
 link-citations: yes
 description: "A Hebrew Grammar resource for students of Holy Language Institute."
-
+header-includes:
+  - \usepackage{pdfpages}
 
 colorlinks: yes
 graphics: yes
@@ -19,6 +20,7 @@ mainfont: Ezra SIL
 ---
 ```{r setup, include=FALSE}
 library(knitr)
+library(fontawesome)
 knitr::opts_chunk$set(echo = FALSE)
 
 ```

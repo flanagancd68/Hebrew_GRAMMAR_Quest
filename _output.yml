@@ -1,7 +1,7 @@
 bookdown::gitbook:
 #bookdown::tufte_html_book:
   css: style.css
-  split_by: subsection
+  split_by: section
   config:
     toc:
       before:
@@ -17,7 +17,7 @@ bookdown::gitbook:
     fontsettings:
       theme: white
       family: serif
-      size: 3
+      size: 1
     sharing:
       # facebook: no
       # github: no
