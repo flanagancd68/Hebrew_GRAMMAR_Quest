@@ -24,9 +24,7 @@ library(fontawesome)
 knitr::opts_chunk$set(echo = FALSE)
 
 ```
-# Hebrew GRAMMAR Quest {-}
-
-> Biblical Hebrew Grammar the Holy Language way
+# Biblical Hebrew Grammar, the Holy Language way {-}
 
 ```{r, out.width = "500px", fig.align='center'}
 include_graphics("images/hli_cover.jpg")

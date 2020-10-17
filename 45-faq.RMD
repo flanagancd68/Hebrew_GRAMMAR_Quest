@@ -1,7 +1,7 @@
-# Appendix B: Questions and Answers about Hebrew GRAMMAR Quest {-}
+# Appendix B: Questions and Answers about Hebrew GRAMMAR Quest {- #faq}
 
 
-## What is the difference between Hebrew Quest and Hebrew GRAMMAR Quest? {-}
+## What is the difference between Hebrew Quest and Hebrew GRAMMAR Quest? {- #difference}
 
 * Both courses are born of the same Holy Language Learning philosophy: the optimal way to interact with the Sacred Scriptures is by *doing*
 * Hebrew Quest was intentionally designed to get students into Hebrew texts with as little "grammar" as possible
