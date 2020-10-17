@@ -36,11 +36,13 @@ According to Dr. Wayne Stiles, to get the most out of a tour to Israel, one must
 2. Physical Preparation
 3. Spiritual Preparation
 
-We believe the exact three principles of preparation apply to learning Hebrew the Holy Language way.  Read on for an explanation.
+We believe the exact three principles of preparation apply to learning Hebrew the Holy Language way.  
+
+Read on for an explanation.
 
 ## _Practical_ Preparation {-}
 
->In each lesson of Hebrew Grammar Quest, we will give you the lay of the Hebrew Grammar land
+>In each lesson of Hebrew GRAMMAR Quest, we will give you the lay of the Hebrew Grammar land
 
 Before a big trip, you need to know the basics.  For example, you need to know some basic geography: what happened where. This way, you aren't totally lost when you arrive at a site and have no idea why it is significant.  Since we all have electronics, you also need to know what type of electrical current and outlets are used in Israel.  There are also some cultural differences, such as a more formal dress code for "holy sites" than we might be used to at home.  You might call this "getting the lay of the land". 
 
@@ -53,9 +55,11 @@ Before a big trip, you need to know the basics.  For example, you need to know s
 <!-- | Modest Dress   | ![image](images/Qamets.png) If the rules say you need to be covered with a Qamets, don't show up wearing nothing but a pathach!^[These are vowels we will study in Lesson 2]  | -->
 
 
-For _Practical Preparation_, we will give you the seven most significant things you need to know about the lesson.  You might call these our learning objectives.  
+For _Practical Preparation_, we will give you the seven most significant things you need to know about the lesson.  You might call these our learning objectives.  We call them "Seven Practical Points."  
 
-Most importantly, our goal is to keep this discussion at a high-level.  We believe that you will learn best not from reading it in a book or watching a video, but you will learn best by doing.  
+Most importantly, our goal is to keep this discussion at a high-level. This means, where other textbooks might spend time explaining concepts to you in great detail, we will not.  Our goal is to give you just enough to pique your interest and get you pointed in the right direction.
+
+We believe that you will learn best not from reading it in a book or watching a video, but you will learn best by putting concepts into practice.  
 
 This is where _physical preparation_ comes in.
 <!-- We have a special subcategory called "Like A Robot  `r fa("robot")` -->
@@ -74,17 +78,17 @@ This is where _physical preparation_ comes in.
 
 Israel is a rocky, hilly place and many of the best sites require some walking.  Those who hope to passively see the country from a bus window but who could have done more had they done some exercising befhorehand, are going to miss out. For maximum benefit, travelers must be ready for a lot of walking. 
 
-Similarly, if you watched Lesson 1 of Hebrew Quest (and if you haven't you should!  It's free on Youtube), you know that the Holy Language Learning Philosophy is that of active, not passive, learning. 
+Most of your class time will be spent not in reading this book or watching lectures. In Hebrew GRAMMAR Quest, your **TRUE** learning will take place during what we call "ACTIVities."   
 
-Most of your class time will be spent not in reading this book or watching lectures. In Hebrew GRAMMAR Quest, your **TRUE** learning will take place during what we call "ACTIVities."  
+In fact, we'd like this book to be like be your personal trainer.  A trainer shows you how to do your workout safely and effectively, and then turns it over to you to do the actual lifting.  In our case, your brain is doing the lifting instead of your biceps.
 
 * The majority of your learning time will be spent in a free flashcard program called Anki.  Please see [About Anki](#Anki) for additional information on Anki if you are not familiar with it.
-    * **Anki** is your gym and cardio equipment for Hebrew Health
+    * **Anki** is the equivalent of your gym and cardio equipment for Hebrew Health
     * Just like working out is not easy and you don’t always see quick results, don’t expect Anki to be easy or expect to breeze through it
     * Just like physical exercise, if you stick with it, you will see the rewards over time
 * In addition to Anki, some lessons will have worksheets to reinforce concepts
 
-
+There is an additional part of physical preparation for an Israel tour and that is dealing with jet lag after a long flight.  Believe it or not, this also has a parallel with learning Hebrew Grammar.  We call it, "The Fog."
 
 ### Prepare for "The Fog" {-}
 
