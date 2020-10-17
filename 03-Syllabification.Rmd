@@ -1,2 +1,15 @@
-# Syllabification and Pronunciation {.Syllabification}
+# Syllabification and Pronunciation {#Syllabification}
+
+## Equipment Check {-}
+
+```{r, out.width = "300px", fig.align='center'}
+
+include_graphics("images/stopil.svg")
+```
+
+Before continuing, can you describe the following concepts?
+
+* The vowels that are not letters, including their type (long, short, reduced) and class (a,e,i,o,u)
+* The vowels that are letters, including which are the "irreducible long" type
+* The difference between a Daghesh Forte and a Daghesh Lene
 

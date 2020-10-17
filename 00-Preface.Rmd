@@ -61,7 +61,17 @@ Most importantly, our goal is to keep this discussion at a high-level. This mean
 
 We believe that you will learn best not from reading it in a book or watching a video, but you will learn best by putting concepts into practice.  
 
-This is where _physical preparation_ comes in.
+This is where _physical preparation_ comes in. But first, let's talk for a minute about safety . . . your "syntactical safety!"
+
+
+### Equipment Check {-}
+
+Each lesson of Hebrew GRAMMAR Quest builds upon the previous one. At the beginning of each chapter, you will have an opportunity to check whether you are familiar enough with the major concepts (and memorization where needed) from the previous lesson before you move on with your journey.
+
+We call this "Equipment Check."  
+
+Here, we leave the decision to proceed with your quest up to you.  Be honest with yourself.  If you are unsure about any area, we strongly encourage you to return to Anki for some more review.  
+
 <!-- We have a special subcategory called "Like A Robot  `r fa("robot")` -->
 
 <!-- * Dr. Van Pelt, one of the authors of Basics of Biblical Hebrew, says in his lectures that, while the textbook tries to keep rote memorization to a minimum, there are just certain things that students will have to have a robotic-like, automatic recall -->

@@ -17,7 +17,7 @@ two_5
 two_6
 two_7
 two_8
-syllabification-and-pronunciation
+Syllabification
 hebrew-nouns
 definite-article-and-conjunction-vav
 hebrew-prepositions

@@ -23,7 +23,18 @@ include_graphics("images/02.Gen0101.png")
 
 [Lesson 2 ACTIVities](#two_8)
 
+## Equipment Check {-}
 
+```{r, out.width = "300px", fig.align='center'}
+
+include_graphics("images/stopil.svg")
+```
+Before continuing, can you name the following letters?
+
+* The twenty-two Aleph-Bet letters
+* The four BeGaD KePHaT letters
+* The five KiMNePaTZ letters
+* The four guttural letters and the one sometimes-guttural letter
 
 ## Memorize vowels that are not vowel letters {#two_1}
 
