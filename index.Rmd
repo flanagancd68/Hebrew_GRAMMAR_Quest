@@ -15,7 +15,7 @@ colorlinks: yes
 graphics: yes
 lot: no
 lof: no
-mainfont: Ezra SIL
+#mainfont: Ezra SIL
 
 ---
 ```{r setup, include=FALSE}
