@@ -1,15 +1,17 @@
 # Hebrew Vowels {.vowels}
 
 >And what is required first of all for training men for such a ministry is that the book should be given them in its very words [Hebrew, Aramaic, and Greek] as it has come from God's hand and in the fullness of its meaning, as that meaning has been ascertained by the labors of generations of men of God who have brought to bear upon it all the resources of sanctified scholarship and consecrated thought.”
----B. B. Warfield (@warfield2007bobhg)
+---B. B. Warfield^[Warfield, Benjamin Breckenridge. “The Languages of Pastoral Ministry.” In Basics of Biblical Hebrew: Grammar, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007.  
+B.B. Warfield was a Presbyterian minister and professor of theology at Princeton Seminary from 1887 to 1921. ([wikipedia link](https://en.wikipedia.org/wiki/B._B._Warfield))]
 
 <br>
 
 ```{r, out.width = "500px", fig.align='center'}
 library(knitr)
-include_graphics("images/02.Gen0101.png")
+include_graphics("images/02Gen0109.svg")
 ```
-^[As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see three different versions of Genesis 1:1.  The top line has no vowels. Over time, vowel notation was developed by the Masorites - these are the symbols in the middle line in red that are usually under, but sometimes in the middle of, or over the affected consonant to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these dots and dashes is _nikudot_. The third line has additional accent marks, which are used for accents which we’ll discuss on the next lesson and also for chanting the verses.]
+^[As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, vowel notation was developed by the Masorites - these are the symbols in red that are usually under, but sometimes in the middle of, or over the affected consonant to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which are used for chanting the verses.  These marks also show where the word's accent is.  
+  Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. ]
 
 ### Seven Practical Points for Lesson 2 {-}
 
@@ -44,8 +46,7 @@ Vowels come in five classes: A, E, I, O, U
 Like the Aleph-bet, we are simply going to have to commit the table below to memory
 
 * The letter בּ is provided as a placeholder
-* Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break rules.  In the next lesson we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.]
-* So the first vowel example is "ba" not "ab"
+* Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break rules.  In the next lesson we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.] So the first vowel example is "baw" not "awb".
 
 ```{r, out.width = "500px", fig.align='center'}
 
@@ -66,7 +67,7 @@ Notes:
 VOCAL Sheva is a REDUCED vowel / SILENT Sheva is NOT A Vowel
 
 
-* Vocal Sheva
+* Vocal Sheva^[Most academic textbooks will use the term "shewa" instead of "sheva".]
     * Only non-gutturals can take a Vocal Sheva
     * Pronounced like tthe A in <u>A</u>muse (same as Hateph Pathach)
     * Is a REDUCED Vowel
@@ -128,18 +129,25 @@ Over time, you’ll start to develop a mental checklist when you encounter somet
 
 Notice the שּׁ in הַשָּׁמַיִם:
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "300px", fig.align='center'}
 
 include_graphics("images/02.Hashamayim.png")
 ```
  
 * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Daghesh Lene, but it is a Daghesh **Forte**
 * The letter with the Daghesh Forte both ends one syllable and begins the next syllable
-    * If we were to syllabify הַשָּׁמַיִם, it would look something like the bottom line in the picture above (pronounce: hash-sha-mayim^[Mayim is one syllable as we will learn in Lesson 3.]) - הַשָּׁמַיִם means "the heavans"
+    * If we were to syllabify הַשָּׁמַיִם, it would look something like the bottom line in the picture above (pronounce: hash-sha-mayim^[Mayim is one syllable as we will learn in Lesson 3.])^[הַשָּׁמַיִם means "the heavens".  Going forward, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!]
 * A similar word in English might be better = bet | ter
     * If we were to hypothetically transliterate into Hebrew,  it might look like: בּטֶּר*^[The * means this is not a real Hebrew word, but is only given for illustration.]
+* Notice the syllable breaks in these words that have a Daghesh Forte:
+```{r, out.width = "200px", fig.align='center'}
+
+include_graphics("images/02.forte.png")
+```
 * Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including בגד כפת letter, which can take either a Daghesh Lene or a Daghesh Forte
     * The "Buck-up" letters will take the **hard** pronunciation regardless of a Daghesh Lene or Daghesh Forte
+        * See the final word אַתָּה in the image above
+
 
 
 ## Know the rule for a Daghesh mark in a בגד כפת letter {#two_6}
@@ -147,12 +155,17 @@ include_graphics("images/02.Hashamayim.png")
 > "A Daghesh is a Forte
 if, and only if, it's
 preceeded by a vowel that is 
-not a shewa"
+not a sheva." ---John Beckman
 
-That's it.  That's the rule.  
+That's it.  That's the rule^[Strictly speaking, there are exceptions, but you won't encounter them in a first-year Hebrew course].  
 
+Examples:
 
-You'll get practice in Anki Aerobics.
+* אַתָּה = Is the Daghesh preceeded by a vowel that is not a sheva?^[Yes, a pathach. Daghesh Forte]
+* בְּרֵאשִׁית = Is the Daghesh preceeded by a vowel that is not a sheva?^[No. Daghesh Lene]
+* עַל־פְּנֵי = Is the Daghesh preceeded by a vowel that is not a sheva?^[No. Daghesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the exact same function as the Hyphen does in English.]
+* מַבְדִּיל = Is the Daghesh preceeded by a vowel that is not a sheva?^[No, it is preceeded by a sheva. Daghesh Lene.]
+* מִתַּחַת  = Is the Daghesh preceeded by a vowel that is not a sheva?^[Yes, a Hiriq. Daghesh Forte]
 
 
 ## Know that the Gutturals and Resh reject Daghesh Forte {#two_7}

@@ -143,7 +143,7 @@ include_graphics("images/gutturals.png")
 
 ## Look out for look-alike Letters {#one_6}
 
-```{r, out.width = "300px", fig.align='center'}
+```{r, out.width = "400px", fig.align='center'}
 include_graphics("images/lookalikes.png")
 ```
 

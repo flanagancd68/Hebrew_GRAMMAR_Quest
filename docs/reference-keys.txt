@@ -18,6 +18,14 @@ two_6
 two_7
 two_8
 Syllabification
+three_1
+three_2
+silent-sheva
+vocal-sheva
+hebrew-diphthong
+vowels-and-syllable-preference
+qamets-hatuf-furtive-pathach-quiescent-alef
+less
 hebrew-nouns
 definite-article-and-conjunction-vav
 hebrew-prepositions
