@@ -6,7 +6,7 @@
     * This work is simply a compilation of many various first-year Hebrew resources, which he has knitted together to present in an original and engaging format
     * For this reason, he likes to refer to himself as the "designer" or "compiler" of this dynamic Hebrew learning tool, and not the "author" of a static book
 * Professionally, Chris has worked in the healthcare compliance field for over 30 years
-* Personally, Chris is married and has two men in college.  He and his wife, Sarah, love to travel, especially to Israel
+* Personally, Chris is married and has two men in college.  He and his wife, Sarah, love to travel, especially to Israel; (which, as you can tell, has inspired the format of each lesson in this book)
 
 <center>
 ![image](images/cf.jpg) 

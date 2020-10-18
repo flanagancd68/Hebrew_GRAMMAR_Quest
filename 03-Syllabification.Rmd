@@ -76,6 +76,8 @@ include_graphics("images/03.accent_stress.png")
 
 ## Silent sheva
 
+* The Shewa is silent if the previous vowel is short. 
+
 ## Vocal Sheva
 
 ## Hebrew Diphthong
