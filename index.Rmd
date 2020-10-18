@@ -32,18 +32,20 @@ include_graphics("images/hli_cover.jpg")
 ```
 
 
-# Note for Preview/Demo Version {-}
+# This is a Preview/Demo Version of Hebrew GRAMMAR Quest {-}
 
-You are currently reading a demo/preview version of Hebrew GRAMMAR Quest.  This book covers the first three lessons:
+This book covers the first three  of the thirty-five total lessons:
 
 1. The Hebrew Aleph-Bet
 2. The Hebrew Vowels
 3. Hebrew syllabification and Pronunciation
 
+In addition, the preface, which outlines our vision for the course, and some Appendices are complete and available.
+
 We have two goals for this version:
 
 1. Create a "proof of concept" version for our Holy Language ministry volunteers.  We want to gather feedback on content and overall direction before proceeding with development of all 35 lessons.
-2. Eventually, these three lessons will comprise a "demo" version of Hebrew GRAMMAR Quest to be made available to non-subscribers.  The goal is that they will like see and wish to become a support of Holy Language Institute, giving them access to not only the entire grammar course, but Hebrew Quest and all the other amazing teaching content. 
+2. Eventually, these three lessons will comprise a "demo" version of Hebrew GRAMMAR Quest to be made available to non-subscribers.  The goal is that they will see, like and become supporters of Holy Language Institute, giving them access to not only the entire grammar course, but Hebrew Quest and all the other amazing teaching content. 
 
 The anticipated full course availability date is Q2 2021.
 
