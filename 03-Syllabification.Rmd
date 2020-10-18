@@ -15,7 +15,7 @@
 ## Equipment Check {-}
 
 ```{r, out.width = "300px", fig.align='center'}
-
+library(knitr)
 include_graphics("images/stopil.svg")
 ```
 
@@ -35,16 +35,18 @@ If not, then come back here and re-read the material again. Then go back to Anki
 
 You absolutely must have the concepts from this lesson hard-wired before you continue to Lesson 4.  The good news is once you get this lesson down, every other lesson is going to be relatively straightforward in comparison to the amount of new concepts you are facing in Lesson 3.
 
-In addition to all of these new concepts, the authors have also seen fit to introduce a full set of vocabulary words AND study verses beginning with Lesson 3.
+In addition to all of these new concepts, the authors have also seen fit to introduce a full set of vocabulary words AND study verses beginning with Lesson 3.  So the overall workload will increase starting with this lesson.
 
 We're praying for you in advance as we compile this section!  Now, go climb the mountain!
 
 
 ## Hebrew Syllables {#three_1}
 
->Two basic concepts:  
-1. Every syllable begins with one consonant and has only one vowel  
-2. There are only open and closed syllables
+There are two basic concepts when it comes to Hebrew Syllables:
+
+### Every syllable begins with one consonant and has only one vowel {-}
+
+### There are only open or closed syllables {-}
 
 ```{r, out.width = "200px", fig.align='center'}
 
@@ -55,18 +57,19 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 * The two syllables each begin with a consonant and have one vowel
     * דָּ begins with the consonant Dalet, and has one vowel, Qamets
+      * This is also an example of an "open" syllable - open syllables end with a _vowel_, not a consonant
     * בָר begins with the consonant Bet, and has one vowel, also a Qamets
-* The first syllable of דָּ ׀ בָר is open and the second is closed
-    * An open syllable ends with a vowel
-    * A closed syllable ends with a consonant 
+      * This is an example of a "closed" syllable - closed syllables end with a _consonant_, not a vowel 
 * If you need to know how many syllables are in a Hebrew word, just count the vowels
     * Remember that vowel letters, such as the Hiriq-Yod, and Diphthongs we will later in this lesson count as a single vowel unit
 
 ## Hebrew Word Accents {#three_2}
 
-> Hebrew words are usually stressed on the last syllable.  
-If not, then the the accent will be on the next-to-last syllable.  
-Never anywhere else.
+### Most frequently, Hebrew words are stressed on the last syllable.  {-}
+
+### If not, then the the accent will be on the next-to-last syllable {-}
+
+Unlike English, Biblical Hebrew words are never stressed anywhere else^[Modern Hebrew has words (mostly borrowed from other languages) that don't follow this rule].
 
 ```{r, out.width = "200px", fig.align='center'}
 
@@ -77,7 +80,7 @@ include_graphics("images/03.accent_stress.png")
 * The word on the right (pronounced "SAY-pher" or "SEH-pher" and means book, scroll, or document) is stressed on the next to last syllable
     * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)^[Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.]
 
-### Syllable Nominclature {-}
+### Tonic, Pretonic, and Propretonic Syllables {-}
 
 * We will encounter specific terms for a syllable's position respective to the word's accent
 * Let's use the plural of דָּבָר to illustrate: דְּ ׀ בָ ׀ רִים
@@ -87,33 +90,37 @@ include_graphics("images/03.accent_stress.png")
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
     * The **Tonic** syllable is the one with the accent = רִים^[Additional info in the textbook that you don't need to know: 1) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic" but you will not encounter this term again for the remainder of this course. 2) There is an additional set of terms that signifies a syllable's position irrespective of the accent: _ultima_ = the last syllable; _penultima_ is the next to last syllable; _antepenultima_ is the syllable before the _penultima_ ]
 
-## Silent Sheva
+## Silent Sheva {#three_3}
 
-### The Sheva is silent if the previous vowel is short {-}
+Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
+
+### SILENT when previous vowel is short {-}
 
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.sheva-shortvowel.png")
 ```
 
-### The first of two consecutive Shevas within a word is silent {-}
+### SILENT when the first of two consecutive Shevas _within a word_ {-}
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.sheva-firstoftwo.png")
 ```
 
-### A Sheva at the end of a word is silent {-}
+### SILENT when at the end of a word {-}
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.sheva-endofword.png")
 ```
 
-## Vocal Sheva
+## Vocal Sheva {#three_4}
 
-### Initial Sheva is vocal {-}
+Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
+
+### VOCAL when the initial Sheva in a word {-}
 
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.sheva-initialvocal.png")
 ```
 
-### The second of two consecutive Shevas _within a word_ is vocal {-}
+### VOCAL when the second of two consecutive Shevas _within a word_  {-}
 
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.sheva-secondoftwovocal.png")
@@ -121,13 +128,13 @@ include_graphics("images/03.sheva-secondoftwovocal.png")
 
 A Sheva at the **end of a word is always silent**, even if it is the second of two consecutive shevas.
 
-### A Sheva under any consonant with Daghesh Forte is vocal {-}
+### VOCAL when under a Daghesh Forte {-}
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.sheva-fortevocal.png")
 ```
 
 
-### A Shewa after an unaccented long vowel is vocal {-}
+### VOCAL after an unaccented long vowel {-}
 
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.sheva-unaccentedlongvocal.png")
@@ -135,17 +142,17 @@ include_graphics("images/03.sheva-unaccentedlongvocal.png")
 
 This one may seem random but it is fairly common with long vowels in a propretonic position^[These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.]  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
-## Hebrew Diphthong = Pathach-Yod-Hiriq
+## Hebrew Diphthong = Accented Pathach-Yod-Hiriq {#three_5}
 
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.diphthong.png")
 ```
 
 * The important concept is that the diphthong is one vowel unit, which means it is only one syllable
-    * The words above are not "buy-it" but "bayit", not sha-may-im but "sha-mayim"
+    * The words above are not pronounced "BUY-it", but monosyllabic "BUYIT"; and not "sh-MY-im" but "sh-MYIM"
 
 
-## Vowels and Syllable Preference
+## Vowels and Syllable Preference {#three_6}
 
 ```{r, out.width = "200px", fig.align='center'}
 include_graphics("images/03.vowelpreferencetable.png")
@@ -158,7 +165,7 @@ This table may seem like minutiae, but do yourself a favor: memorize it!
     * The vowel preferance table explains why the vowel under the dalet changes from Qamets in the open pretonic to Vocal Shewa (reduced vowel) in the open propretonic when the plural suffix "im" is added
   * As we saw with כֹּתְבִים, propretonic long vowels do not always reduce (and unchangeable long vowels never will)
 
-## Qamets Hatuf, Furtive Pathach, Quiescent Alef
+## Qamets Hatuf, Furtive Pathach, Quiescent Alef {#three_7}
 
 These are three miscellaneous but straightforward rules.
 
@@ -196,10 +203,9 @@ Congratulations for getting this far!  This is a tough chapter and, as is our pa
 
 We realize that there are a lot of heavy concepts you face in this Lesson.
 
-Some of you may try to read this lesson then go do the Anki work (perhaps repeated a few times), and you still aren't getting it.
+Some of you may try to read this lesson then go do the Anki work (perhaps repeated a few times), and you still aren't getting it.  The Fog just isn't clearing.  If this is the case, and you want a more in-depth lecture covering this material, we can recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){}
 
-If this is the case, and you want a more in-depth lecture covering this material, we recommend [John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){}
-## Lesson 3 ACTIVities
+## Lesson 3 ACTIVities {#three_8}
 
 * Physical
     * Anki Aerobics
@@ -208,7 +214,10 @@ If this is the case, and you want a more in-depth lecture covering this material
             * Like we said in the Equipment Check section, if you absolutely are getting frustrated, take a break or check out the additional in-depth video by Dr. Beckman
 * Spiritual
     * Anki Aerobics
-        * Study-Verses - welcome to our fisrt grouping of study verses, featuring audio by Izzy. These are designed to highlight the vocabularly words learned.
+        * Study-Verses - welcome to our first grouping of study verses, featuring audio by Izzy
+          * These versus are designed to highlight the vocabularly words learned
+          * At first, translation might seem difficult.  We'll give you hints as to word meanins along the way until you can build up your vocabulary
+        * Over the entire 35 lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
     * Ruth Pursuit [(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing)
         1. Identify |
         2. Identify  (Green)

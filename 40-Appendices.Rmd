@@ -6,7 +6,7 @@
 > Anki is like gym equipment for your brain
 
 |:-----:|:-----:|
-|![](images/weight.png) | ![](images/treadmill.png)
+|![](images/weight.png) | ![](images/treadmill.png)|
 | Heavy lifting | Cardio |
 
 If one wants to build strength she might use the weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!

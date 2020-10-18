@@ -10,7 +10,7 @@ B.B. Warfield was a Presbyterian minister and professor of theology at Princeton
 library(knitr)
 include_graphics("images/02Gen0109.svg")
 ```
-^[As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, vowel notation was developed by the Masorites - these are the symbols in red that are usually under, but sometimes in the middle of, or over the affected consonant to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which are used for chanting the verses.  These marks also show where the word's accent is.  
+^[As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, vowel notation was developed by the Masorites - these are the symbols in red that are usually under, but sometimes in the middle of, or over the affected consonant to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_ . The blue font shows additional cantillation marks, which are used for chanting the verses.  These marks also show where the word's accent is.  
   Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. ]
 
 ### Seven Practical Points for Lesson 2 {-}
@@ -80,7 +80,7 @@ VOCAL Sheva is a REDUCED vowel / SILENT Sheva is NOT A Vowel
 
 ## Memorize the vowel letters {#two_3}
 
-> Vowel letters use a consonant plus a nikkud to form a vowel
+### Vowel letters use a consonant plus a nikkud to form a vowel {-}
 
 Another table to memorize:
 
@@ -102,9 +102,9 @@ include_graphics("images/02.vowels_letters.png")
     * Hei vowels are extremely common in Hebrew
 
 
-## Meet "defective" and "plene" writing {#two_4}
+## "Defective" and "plene" writing {#two_4}
 
-> Letter vowels can sometimes drop their letter and take on the corresponding non-letter vowel.  We call this "defective" spelling.  The meaning of word doesn’t change.
+### In "defective" writing, letter vowels can sometimes drop their letter and take on the corresponding non-letter vowel. The meaning of word doesn’t change. {-}
 
 This is the word for "laws" showing both "plene" spelling (left) and "defective" spelling (right):
 
@@ -118,14 +118,11 @@ include_graphics("images/02.defective.png")
     * Holem-vav can drop the Vav and contract to Holem, as in the example above
     * Shuruq, can drop the Vav and it's associated nikkud and contract to Qibbuts
     
-Over time, you’ll start to develop a mental checklist when you encounter something that doesn’t make sense.“Could this be a defective spelling?” will be one of those checklist items.
-
-
-
+Over time, you’ll start to develop a mental checklist when you encounter something that doesn’t make sense. “Could this be a defective spelling?” will be one of those checklist items.
 
 ## Meet Daghesh Lene's twin, Daghesh Forte {#two_5}
 
-> A Daghesh Forte doubles the consonant 
+### A Daghesh Forte doubles the consonant {-}
 
 Notice the שּׁ in הַשָּׁמַיִם:
 
@@ -150,12 +147,9 @@ include_graphics("images/02.forte.png")
 
 
 
-## Know the rule for a Daghesh mark in a בגד כפת letter {#two_6}
+## Daghesh Forte Rule {#two_6}
 
-> "A Daghesh is a Forte
-if, and only if, it's
-preceeded by a vowel that is 
-not a sheva." ---John Beckman
+### "A Daghesh is a Forte if, and only if, it's preceeded by a vowel^[Remember the rule for the Daghesh Lene?  See Lesson 1.4] that is not a sheva." ---John Beckman {-}
 
 That's it.  That's the rule^[Strictly speaking, there are exceptions, but you won't encounter them in a first-year Hebrew course].  
 
@@ -168,9 +162,7 @@ Examples:
 * מִתַּחַת  = Is the Daghesh preceeded by a vowel that is not a sheva?^[Yes, a Hiriq. Daghesh Forte]
 
 
-## Know that the Gutturals and Resh reject Daghesh Forte {#two_7}
-
-> Gutturals + ר reject Daghesh Forte
+## Gutturals and Resh reject Daghesh Forte {#two_7}
 
 * We said in lesson one that the Gutturals don’t play nice with the other Hebrew Rules, and this rejection of the Daghesh Forte is one of those ways
 * A Hebrew collision like this means something has to give - the gutturals tend to get their way

@@ -38,7 +38,7 @@ You are currently reading a demo/preview version of Hebrew GRAMMAR Quest.  This 
 
 1. The Hebrew Aleph-Bet
 2. The Hebrew Vowels
-3. Hebrew syllabification
+3. Hebrew syllabification and Pronunciation
 
 We have two goals for this version:
 
