@@ -25,6 +25,19 @@ Before continuing, can you describe the following concepts?
 * The vowels that are letters, including which are the "irreducible long" type
 * The difference between a Daghesh Forte and a Daghesh Lene
 
+### **The authors of Basics of Biblical Hebrew believe Lesson 3 could be the most difficult and time-consuming chapter in the book.** {-}
+
+If you do not have the vowels and, particularly, the vowel types memorized, this chapter is going to be all the more confusing.
+
+Assuming you've checked your equipment as directed above, and everything is in tip-top shape for your Lesson 3 adventure, just take your time.  Work through the written material then do a little Anki work and see if it starts to click. 
+
+If not, then come back here and re-read the material again. Then go back to Anki.  If you find yourself getting frustrated, take a break and come back to it later.  Continue to work through "the fog."
+
+You absolutely must have the concepts from this lesson hard-wired before you continue to Lesson 4.  The good news is once you get this lesson down, every other lesson is going to be relatively straightforward in comparison to the amount of new concepts you are facing in Lesson 3.
+
+In addition to all of these new concepts, the authors have also seen fit to introduce a full set of vocabulary words AND study verses beginning with Lesson 3.
+
+We're praying for you in advance as we compile this section!  Now, go climb the mountain!
 
 
 ## Hebrew Syllables {#three_1}
@@ -74,16 +87,131 @@ include_graphics("images/03.accent_stress.png")
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
     * The **Tonic** syllable is the one with the accent = רִים^[Additional info in the textbook that you don't need to know: 1) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic" but you will not encounter this term again for the remainder of this course. 2) There is an additional set of terms that signifies a syllable's position irrespective of the accent: _ultima_ = the last syllable; _penultima_ is the next to last syllable; _antepenultima_ is the syllable before the _penultima_ ]
 
-## Silent sheva
+## Silent Sheva
 
-* The Shewa is silent if the previous vowel is short. 
+### The Sheva is silent if the previous vowel is short {-}
+
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.sheva-shortvowel.png")
+```
+
+### The first of two consecutive Shevas within a word is silent {-}
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.sheva-firstoftwo.png")
+```
+
+### A Sheva at the end of a word is silent {-}
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.sheva-endofword.png")
+```
 
 ## Vocal Sheva
 
-## Hebrew Diphthong
+### Initial Sheva is vocal {-}
+
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.sheva-initialvocal.png")
+```
+
+### The second of two consecutive Shevas _within a word_ is vocal {-}
+
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.sheva-secondoftwovocal.png")
+```
+
+A Sheva at the **end of a word is always silent**, even if it is the second of two consecutive shevas.
+
+### A Sheva under any consonant with Daghesh Forte is vocal {-}
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.sheva-fortevocal.png")
+```
+
+
+### A Shewa after an unaccented long vowel is vocal {-}
+
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.sheva-unaccentedlongvocal.png")
+```
+
+This one may seem random but it is fairly common with long vowels in a propretonic position^[These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.]  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
+
+## Hebrew Diphthong = Pathach-Yod-Hiriq
+
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.diphthong.png")
+```
+
+* The important concept is that the diphthong is one vowel unit, which means it is only one syllable
+    * The words above are not "buy-it" but "bayit", not sha-may-im but "sha-mayim"
+
 
 ## Vowels and Syllable Preference
 
-## Qamets Hatuf, Furtive Pathach Quiescent Alef
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.vowelpreferencetable.png")
+```
 
-## Less
+This table may seem like minutiae, but do yourself a favor: memorize it!  
+
+* Open/Propretonic _prefer_ reduced vowels but this is why the concept of unchangeable long vowels matter.
+  * Go back and look at דָּבָר and דְּבָרִים
+    * The vowel preferance table explains why the vowel under the dalet changes from Qamets in the open pretonic to Vocal Shewa (reduced vowel) in the open propretonic when the plural suffix "im" is added
+  * As we saw with כֹּתְבִים, propretonic long vowels do not always reduce (and unchangeable long vowels never will)
+
+## Qamets Hatuf, Furtive Pathach, Quiescent Alef
+
+These are three miscellaneous but straightforward rules.
+
+### Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable {-}
+
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.qametshatuf.png")
+```
+
+There are many instances where the vowel could be a short qamets-hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable.  When this ambiguity occurrs, many printings will print a vertical line called a methet.  This tells you the vowel is the **long, a-class**
+
+### Furtive Pathach under final ח or ע is said BEFORE the guttural letter and is not a full vowel
+
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.furtivepathach.png")
+```
+
+* The Furtive Pathach is a significant exception to just about everything else we've discussed related to vowels and syllabification:
+    * The vowel is pronounced *before* the guttural - so the above word is **Ruach** not "rucha"
+    * The Furtive Pathach is not a full vowel and is counted in syllabification - so the above word is **Ruach** not "ru-ach"
+    
+### Quiescent Aleph is silent, neither a consonant nor a vowel {-}
+
+```{r, out.width = "200px", fig.align='center'}
+include_graphics("images/03.quiescentaleph.png")
+```
+
+* When you see an Aleph with no vowels, it is acting as a silent letter
+    * English has all kinds of silent letters, like the 'p' in receipt - the Quiescent Aleph works the same way
+    * In terms of syllabification, the Aleph is neither a vowel nor a consonant, so it doesn't count at all - it is just an extra letter
+    
+## Conclusion {-}
+
+Congratulations for getting this far!  This is a tough chapter and, as is our pace, we moved through the "teaching" aspects of it quickly to allow you to get started and get learning in Anki.
+
+We realize that there are a lot of heavy concepts you face in this Lesson.
+
+Some of you may try to read this lesson then go do the Anki work (perhaps repeated a few times), and you still aren't getting it.
+
+If this is the case, and you want a more in-depth lecture covering this material, we recommend [John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){}
+## Lesson 3 ACTIVities
+
+* Physical
+    * Anki Aerobics
+        * Vocabulary - first lesson with a full set of vocabulary words, featuring audio by Izzy!
+        * Grammar - All of the concepts you learned in the sections above will be reinforced in Anki
+            * Like we said in the Equipment Check section, if you absolutely are getting frustrated, take a break or check out the additional in-depth video by Dr. Beckman
+* Spiritual
+    * Anki Aerobics
+        * Study-Verses - welcome to our fisrt grouping of study verses, featuring audio by Izzy. These are designed to highlight the vocabularly words learned.
+    * Ruth Pursuit [(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing)
+        1. Identify |
+        2. Identify  (Green)
+        3. Identify (Purple)
+        4. Identify  (yellow)  
+        * [Ruth Pursuit Answer Key #3](

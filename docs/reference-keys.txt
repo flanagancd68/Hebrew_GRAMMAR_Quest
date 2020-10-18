@@ -22,10 +22,10 @@ three_1
 three_2
 silent-sheva
 vocal-sheva
-hebrew-diphthong
+hebrew-diphthong-pathach-yod-hiriq
 vowels-and-syllable-preference
 qamets-hatuf-furtive-pathach-quiescent-alef
-less
+furtive-pathach-under-final-ח-or-ע-is-said-before-the-guttural-letter-and-is-not-a-full-vowel
 hebrew-nouns
 definite-article-and-conjunction-vav
 hebrew-prepositions
