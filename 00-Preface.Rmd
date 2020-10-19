@@ -14,7 +14,7 @@ That's where our Holy Language Learning Philosophy comes in.
 
 ## Our Learning Philosophy = ACTIVE Engagement {-}
 
-Learning Hebrew the Holy Language Way is designed not just to feed you fish, but to teach you to fish^[Refer to Hebrew Quest, lesson 1.].  When someone feeds you fish, you are only passively receiving.  When you learn to fish you are being active; being intentional.
+Learning Hebrew the Holy Language Way is designed not just to feed you fish, but to teach you to fish<small>^[<small>Refer to Hebrew Quest, lesson 1.</small>]</small>.  When someone feeds you fish, you are only passively receiving.  When you learn to fish you are being active; being intentional.
 
 In other words, we believe you will learn best when you actively (and dare we say "passionately") ***engage*** with the Holy Scriptures.  If done this way, learning Hebrew will not merely be another academic course you take, but it can be a life-changing experience. 
 
@@ -26,13 +26,13 @@ With Hebrew GRAMMAR Quest, Holy Language Institute is offering yet another way f
 
 ***Hebrew GRAMMAR Quest*** is designed to take you to the next stage of that friendship.  It is designed to take you *inside* the Hebrew Scriptures. Maybe it's like progressing from a "good friend" to an "intimate" friend. A friend for whom you are there during the good and the bad . . . and that friend is there for you offering you wisdom and counsel.  
 
-Such a friendship can be challenging, and even difficult at times^[see Philippians 2:12], but it can also be one of the most rewarding relationships you can have this side of heaven.
+Such a friendship can be challenging, and even difficult at times<small>^[<small>see Philippians 2:12</small>]</small>, but it can also be one of the most rewarding relationships you can have this side of heaven.
 
 Whether or not you have finished (or even started) Hebrew Quest, we believe you will find Hebrew GRAMMAR quest a fruitful and life-changing experience. See [Appendix Q&A](#difference) for a larger discussion on how Hebrew Quest and Hebrew GRAMMAR Quest work together.
 
 ## Three Stages of Preparation {-}
 
-According to Dr. Wayne Stiles, to get the most out of a tour to Israel, one must actively prepare.  In fact, there are three stages of preparation Stiles says a traveler must undertake to gain maximum benefit from a Holy Land tour^[Stiles, Wayne. “How to Prepare for a Holy Land Tour.” Wayne Stiles. February 20, 2013. https://waynestiles.com/how-to-prepare-for-a-holy-land-tour/. Accessed September 28, 2020.]
+According to Dr. Wayne Stiles, to get the most out of a tour to Israel, one must actively prepare.  In fact, there are three stages of preparation Stiles says a traveler must undertake to gain maximum benefit from a Holy Land tour<small>^[<small>Stiles, Wayne. “How to Prepare for a Holy Land Tour.” Wayne Stiles. February 20, 2013. https://waynestiles.com/how-to-prepare-for-a-holy-land-tour/. Accessed September 28, 2020.</small>]</small>
 
 1. Practical Preparation
 2. Physical Preparation
@@ -66,7 +66,7 @@ You might call this "getting the lay of the land".
 <!-- | :-----------: | :-----------: | -->
 <!-- |Overview of Geography | Overview of Grammar | -->
 <!-- | Different Electrical Outlets      | ![image](images/seghol_tsere.png)  Don't use a seghol-shaped plug in a tsere-shaped outlet!   | -->
-<!-- | Modest Dress   | ![image](images/Qamets.png) If the rules say you need to be covered with a Qamets, don't show up wearing nothing but a pathach!^[These are vowels we will study in Lesson 2]  | -->
+<!-- | Modest Dress   | ![image](images/Qamets.png) If the rules say you need to be covered with a Qamets, don't show up wearing nothing but a pathach!<small>^[<small>These are vowels we will study in Lesson 2]  | -->
 
 
 In our application, we will give you "Seven Practical Points."  These are the most significant things you will need to know about the lesson. 
@@ -121,13 +121,13 @@ For most of us, Israel is close to halfway around the globe away from home.  Aft
 <!-- | Israel      | Grammar | -->
 <!-- | ----------- | ----------- | -->
 <!-- | Get in shape      | ![image](images/anki.png) Anki software - Gym equipment for your brain!   | -->
-<!-- | Prepare for Jet Lag   | ![image](images/fog.jpg)^[By Ilias81 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1651258] "The Fog"   | -->
+<!-- | Prepare for Jet Lag   | ![image](images/fog.jpg)<small>^[<small>By Ilias81 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1651258] "The Fog"   | -->
 
 
 Jet lag is similar to a phenomenon we can encounter when we undertake a study of a new language. Dr. Bill Mounce calls "the fog.'
 
 * Many times, things won’t make sense until a lesson or two later
-* A strategy suggested by Dr. Mounce is to "look back at your previous victories to assure you of your progres"s^[https://medium.com/@ellingburg/surviving-the-fog-dcb3f148ffa1]
+* A strategy suggested by Dr. Mounce is to "look back at your previous victories to assure you of your progress"<small>^[<small>https://medium.com/@ellingburg/surviving-the-fog-dcb3f148ffa1</small>]</small>
 * In addition to a steady flow of new material, Anki has an algorhithm to deliver structured reviews.  These reviews will help you keep working through your grammar jet lag
 
 * Periodically, there will be **Quest Quizzes** in the online course

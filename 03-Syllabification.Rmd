@@ -6,7 +6,7 @@
 library(knitr)
 include_graphics("images/03.tel-dan.jpg")
 ```
-Originally, the Bible and other ancient documents, like the "Tel Dan Stele" pictured above^[The Tel Dan Stele was a significant archaeological find of the late 20th century.  Written in Aramaic, closely related to Hebrew, the carving dates to the 9th Century BCE.  It is notable for containing a reference to the "house of David", and is the earliest known extra-biblical reference to King David.  Prior to its discovery, many scholars had cast doubt on whether David really existed. It was discovered at the archeological site of "Dan" near the Lebanon border in modern Israel.  (Photo Credit: By Oren Rozen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47055869)], were written without spaces.  In addition to vowels, the ancient scribes and readers organically adopted a system of syllables and accents.  They knew where one word ended and another began without needing to write it down.  
+Originally, the Bible and other ancient documents, like the "Tel Dan Stele" pictured above<small>^[<small>The Tel Dan Stele was a significant archaeological find of the late 20th century.  Written in Aramaic, closely related to Hebrew, the carving dates to the 9th Century BCE.  It is notable for containing a reference to the "house of David", and is the earliest known extra-biblical reference to King David.  Prior to its discovery, many scholars had cast doubt on whether David really existed. It was discovered at the archeological site of "Dan" near the Lebanon border in modern Israel.  (Photo Credit: By Oren Rozen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47055869)</small>]</small>, were written without spaces.  In addition to vowels, the ancient scribes and readers organically adopted a system of syllables and accents.  They knew where one word ended and another began without needing to write it down.  
 
 What we call "Hebrew grammar" is truly an exciting journey into the system of spoken and written Hebrew, which had its formation thousands of years ago!
 
@@ -80,7 +80,7 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 ### If not, then the the accent will be on the next-to-last syllable {-}
 
-Unlike English, Biblical Hebrew words are never stressed anywhere else^[Modern Hebrew has words (mostly borrowed from other languages) that don't follow this rule].
+Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<small>Modern Hebrew has words (mostly borrowed from other languages) that don't follow this rule</small>]</small>.
 
 ```{r, out.width = "200pt", fig.align='center'}
 
@@ -89,7 +89,7 @@ include_graphics("images/03.accent_stress.png")
 
 * The word on the left is stressed on the last syllable
 * The word on the right (pronounced "SAY-pher" or "SEH-pher" and means book, scroll, or document) is stressed on the next to last syllable
-    * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)^[Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.]
+    * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)<small>^[<small>Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.</small>]</small>
 
 ### Tonic, Pretonic, and Propretonic Syllables {-}
 
@@ -99,7 +99,7 @@ include_graphics("images/03.accent_stress.png")
         * Notice how the vowel changed from the Qamets in דָּבָר to a Vocal Shewa in דְּבָרִים
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
-    * The **Tonic** syllable is the one with the accent = רִים^[Additional info in the textbook that you don't need to know: 1) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic" but you will not encounter this term again for the remainder of this course. 2) There is an additional set of terms that signifies a syllable's position irrespective of the accent: _ultima_ = the last syllable; _penultima_ is the next to last syllable; _antepenultima_ is the syllable before the _penultima_ ]
+    * The **Tonic** syllable is the one with the accent = רִים<small>^[<small>Additional info in the textbook that you don't need to know: 1) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic" but you will not encounter this term again for the remainder of this course. 2) There is an additional set of terms that signifies a syllable's position irrespective of the accent: _ultima_ = the last syllable; _penultima_ is the next to last syllable; _antepenultima_ is the syllable before the _penultima_ </small>]</small>
 
 ## Silent Sheva {#three_3}
 
@@ -133,7 +133,7 @@ include_graphics("images/03.sheva-initialvocal.png")
 
 "buh-rei-sheet" and "buh-ra-cha"
 
-### VOCAL when the second of two consecutive Shevas _within a word_^[A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive shevas.]:  {-}
+### VOCAL when the second of two consecutive Shevas _within a word_<small>^[<small>A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive shevas.</small>]</small>:  {-}
 
 ```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-secondoftwovocal.png")
@@ -154,7 +154,7 @@ include_graphics("images/03.sheva-fortevocal.png")
 include_graphics("images/03.sheva-unaccentedlongvocal.png")
 ```
 
-This one may seem random but it is fairly common with long vowels in a propretonic position^[These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.]  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
+This one may seem random but it is fairly common with long vowels in a propretonic position<small>^[<small>These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.</small>]</small>  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
 ## Hebrew Diphthong = Accented Pathach-Yod-Hiriq {#three_5}
 
