@@ -57,12 +57,11 @@ include_graphics("images/right_to_left.png")
 
 Note the front of a Hebrew book is in the same location as the back of an English book:
 
-```{r, out.width = "250px", fig.align='center'}
+```{r, out.width = "150px", fig.align='center'}
 include_graphics("images/hebrewbook.png")
 ```
 
 * To our western eyes, this looks "backwards" (but Israelis would say _we_ are reading backwards!)
-
 * When reading Hebrew, always start at the "back" and go from RIGHT to LEFT
 
 
@@ -112,7 +111,7 @@ include_graphics("images/buckup.png")
 We’ll dig deeper into the Daghesh Lene, and its twin, the Daghesh Forte, over the next few lessons.
 
 
-## Four letters are classified as guttural Consonants (and one is a sometimes-guttural) {#one_5}
+## Four letters are classified as guttural consonants (and one is a sometimes-guttural) {#one_5}
 
 ```{r, out.width = "500px", fig.align='center'}
 include_graphics("images/gutturals.png")
@@ -169,21 +168,20 @@ include_graphics("images/wayyiqtol.png")
     * Anki Aerobics
         * Vocabulary - Learn (or relearn) the Aleph-Bet with Izzy 
         * Grammar - Identify look-alike Hebrew letters
-    * Worksheets
-        * Practice writing the letters using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view) 
-        * Practice writing the AlephBet in order until you can do it at least five times from memory using the [Blank writing paper](https://drive.google.com/file/d/1mQcP6MMPDU--r374dZii7PxNzyd5NU6F/view?usp=sharing)
+    * [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view) for practice writing the letters one by one
+    * [Blank writing paper](https://drive.google.com/file/d/1mQcP6MMPDU--r374dZii7PxNzyd5NU6F/view?usp=sharing) to practice writing the AlephBet in order.  Repeat until you can do it at least five times from memory
 * Spiritual
     * Anki Aerobics
         * Study-Verses - there is no translation yet but we will learn some grammar shorthand that we will use when we get to the study verses
-    * Ruth Pursuit (Use [Ruth 1 Blank Copy](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing)^[Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.])
+    * [Ruth Pursuit](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing)^[Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.]
+    * Instructions:
         1. Identify the four guttural letters (pink)^[The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.]
         2. Identify the one half-guttural (red)
         3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene for a total of 12 letters (green)
         4. Identify the five final/sofit forms (blue)
         5. Identify the remaining letters (yellow)
         * [(Ruth Answer Key #1)](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing)
-* Physical
-    * Quest Quiz #1
-        * After completing all of the other ACTIVities, complete the [Quest Quiz #1](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform)^[Please remember that the Quest Quizzes are intended as a checkpoint of your learning after you have completed the Physical and Spiritual Preparation ACTIVities.] to assess your progress
+* Physical - [Quest Quiz #1](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform)^[Please remember that the Quest Quizzes are intended as a checkpoint of your learning after you have completed the Physical and Spiritual Preparation ACTIVities.]
+    * After completing all of the other ACTIVities, complete the Quest Quiz to assess your progress
 
 

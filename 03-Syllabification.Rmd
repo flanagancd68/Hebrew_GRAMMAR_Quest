@@ -1,5 +1,16 @@
 # Syllabification and Pronunciation {#Syllabification}
 
+>
+
+```{r, out.width = "300px", fig.align='center'}
+library(knitr)
+include_graphics("images/03.tel-dan.jpg")
+```
+Originally, the Bible and other ancient documents, like the "Tel Dan Stele" pictured above^[The Tel Dan Stele was a significant archaeological find of the late 20th century.  Written in Aramaic, closely related to Hebrew, the carving dates to the 9th Century BCE.  It is notable for containing a reference to the "house of David", and is the earliest known extra-biblical reference to King David.  Prior to its discovery, many scholars had cast doubt on whether David really existed. It was discovered at the archeological site of "Dan" near the Lebanon border in modern Israel.  (Photo Credit: By Oren Rozen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47055869)], were written without spaces.  In addition to vowels, the ancient scribes and readers organically adopted a system of syllables and accents.  They knew where one word ended and another began without needing to write it down.  
+
+What we call "Hebrew grammar" is truly an exciting journey into the system of spoken and written Hebrew, which had its formation thousands of years ago!
+
+
 ## Seven Practical Points for Lesson 2 {-}
 
 1. Learn the two basic concepts of [Hebrew Syllables](#three_1)

@@ -1,4 +1,4 @@
-fig:unnamed-chunk-14
+fig:unnamed-chunk-15
 alephbet
 one_1
 one_2
@@ -11,6 +11,7 @@ one_8
 hebrew-vowels
 two_1
 two_2
+both-are-written-as-בְּ-vocal-sheva-is-a-reduced-vowel-silent-sheva-is-not-a-vowel
 two_3
 two_4
 two_5
