@@ -8,11 +8,13 @@ Many Hebrew grammar courses and books treat learning God's Holy Language as if i
 
 We wish it were that simple.  
 
-Hebrew, the Holy Language Way, requires **active** participation.  That's where our Holy Language Learning Philosophy comes in.
+Hebrew, the Holy Language Way, requires **active** participation.  
+
+That's where our Holy Language Learning Philosophy comes in.
 
 ## Our Learning Philosophy = ACTIVE Engagement {-}
 
-In contrast, learning Hebrew the Holy Language Way is designed not just to feed you fish, but to teach you to fish^[Refer to Hebrew Quest, lesson 1.].  When someone feeds you fish, you are only passively receiving.  When you learn to fish you are being active; being intentional.
+Learning Hebrew the Holy Language Way is designed not just to feed you fish, but to teach you to fish^[Refer to Hebrew Quest, lesson 1.].  When someone feeds you fish, you are only passively receiving.  When you learn to fish you are being active; being intentional.
 
 In other words, we believe you will learn best when you actively (and dare we say "passionately") ***engage*** with the Holy Scriptures.  If done this way, learning Hebrew will not merely be another academic course you take, but it can be a life-changing experience. 
 
@@ -46,17 +48,19 @@ Read on for an explanation.
 
 Before the big trip to Israel, you need to know some basics.  
 
-* Geography 
+* You need some basic Holy Land Geography 
     * You need some basics as to what happened where
     * This way, you won't be completely lost when you arrive at a specific site, say Capernaum or Mount Carmel
-    * You need to know why that place is significant and why you are stopping there.  
-* Even more practical: Electricity and Cultural differences
+    * You need to know why that place has meaning and is worth your time 
+* Even more practical, you need to know electrical and cultural differences
     * Since we all have electronics that need to be recharged, you also need to know what type of electrical current and outlets are used in Israel
         * You better bring the right adapter or your camera won't have the power to capture all of those amazing memories
     * There are also some cultural differences, such as a more formal dress code for "holy sites" than we might be used to at home
         * You need to know the dress code so you don't look out of place (or worse, are refused admission)  
     
-You might call this "getting the lay of the land".  **Primarily, what this book consists of, is giving you the lay of the Hebrew Grammar land**.       
+You might call this "getting the lay of the land".  
+
+**Primarily, what this book consists of, is giving you the lay of the Hebrew Grammar land**.       
 
 
 
@@ -88,11 +92,11 @@ Here, we leave the decision to proceed with your quest up to you.  Be honest wit
 
 ### We will get into Hebrew Health by using Anki {-}
 
-Israel is a rocky, hilly place and many of the best sites require some walking.  Those who hope to passively see the country from a bus window but who could have done more had they done some exercising befhorehand, are going to miss out. For maximum benefit, travelers must be ready for a lot of walking. 
+Israel is a rocky, hilly place. Many of the best sites require some walking, or even a small hike from the parking lot.  Those who hope to passively see the country from a bus window but who could have done more had they done some exercising beforehand, are going to miss out on the best parts. For maximum benefit, travelers must be ready for a lot of walking. 
 
 Most of your class time will be spent not in reading this book or watching lectures. In Hebrew GRAMMAR Quest, your **TRUE** learning will take place during what we call "ACTIVities."   
 
-In fact, we'd like this book to be like be your personal trainer.  A trainer shows you how to do your workout safely and effectively, and then turns it over to you to do the actual lifting.  In our case, your brain is doing the lifting instead of your biceps.
+In fact, we'd like this book to be like be your personal trainer.  A trainer shows you how to do your workout safely and effectively.  She gives you some "practical" pointers and then turns it over to you to do the actual lifting.  In our case, your brain will be doing the lifting instead of your biceps.
 
 * The majority of your learning time will be spent in a free flashcard program called Anki.  Please see [About Anki](#Anki) for additional information on Anki if you are not familiar with it.
     * **Anki** is the equivalent of your gym and cardio equipment for Hebrew Health
@@ -100,7 +104,7 @@ In fact, we'd like this book to be like be your personal trainer.  A trainer sho
     * Just like physical exercise, if you stick with it, you will see the rewards over time
 * In addition to Anki, some lessons will have worksheets to reinforce concepts
 
-There is an additional part of physical preparation for an Israel tour and that is dealing with jet lag after a long flight.  Believe it or not, this also has a parallel with learning Hebrew Grammar.  We call it, "The Fog."
+
 
 ### Prepare for Grammar jet lag, called "The Fog" {-}
 
@@ -115,9 +119,9 @@ For most of us, Israel is close to halfway around the globe away from home.  Aft
 
 Jet lag is similar to a phenomenon we can encounter when we undertake a study of a new language. Dr. Bill Mounce calls "the fog.'
 
-* Many times things won’t make sense until a lesson or two later
+* Many times, things won’t make sense until a lesson or two later
 * A strategy suggested by Dr. Mounce is to "look back at your previous victories to assure you of your progres"s^[https://medium.com/@ellingburg/surviving-the-fog-dcb3f148ffa1]
-* Anki has structured reviews to help you keep working through your grammar jet lag
+* In addition to a steady flow of new material, Anki has an algorhithm to deliver structured reviews.  These reviews will help you keep working through your grammar jet lag
 
 * Periodically, there will be **Quest Quizzes** in the online course
     * Periodic checkpoints for you to assess your progress
@@ -131,7 +135,7 @@ Jet lag is similar to a phenomenon we can encounter when we undertake a study of
 
 ## _Spiritual_ Preparation {-}
 
->Hebrew GRAMMAR Quest is a spiritual journey!
+### Hebrew GRAMMAR Quest is a spiritual journey! {-}
 
 A trip to Israel is not like any other "vacation" - it's a spiritual journey. If all you do see some cool sites and take some pictures, you would have missed out on a tremendous opportunity to meet Yeshua in His special Land.
 
@@ -142,12 +146,13 @@ We will be reading a lot of Scripture!
 
 * Ruth Pursuits - learning grammar concepts while learning Ruth 1
 * Anki Study Verses - you will read and begin to translate passages in Anki
+    * You'll also listen to the audio by Izzy so you can begin to hear the sound of the language
 
 View each ACTIVity as an act of worship!
 
-## Typical Lesson {-}
+## What will a typical lesson look like? {-}
 
-1. **Practical Preparation** - Seven learning objectives from each lesson
+1. **Practical Preparation** - Seven key learning objectives from each lesson
 
 2. **Physical Preparation**
     1. Anki Aerobics - This is where your primary vocabulary and grammar learning will occur
