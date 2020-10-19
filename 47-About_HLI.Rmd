@@ -1,6 +1,6 @@
 # About Holy Language Institute {-}
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/following_yeshua.jpg")
 ```
 

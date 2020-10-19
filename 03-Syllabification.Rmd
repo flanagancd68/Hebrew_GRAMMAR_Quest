@@ -2,7 +2,7 @@
 
 >
 
-```{r, out.width = "300px", fig.align='center'}
+```{r, out.width = "300pt", fig.align='center'}
 library(knitr)
 include_graphics("images/03.tel-dan.jpg")
 ```
@@ -25,9 +25,9 @@ What we call "Hebrew grammar" is truly an exciting journey into the system of sp
 
 ## Equipment Check {-}
 
-```{r, out.width = "300px", fig.align='center'}
+```{r, out.width = "300pt", fig.align='center'}
 library(knitr)
-include_graphics("images/stopil.svg")
+include_graphics("images/stopil.png")
 ```
 
 Before continuing, can you describe the following concepts?
@@ -59,7 +59,7 @@ There are two basic concepts when it comes to Hebrew Syllables:
 
 ### There are only open or closed syllables {-}
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 
 include_graphics("images/03.syllable.png")
 ```
@@ -82,7 +82,7 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 Unlike English, Biblical Hebrew words are never stressed anywhere else^[Modern Hebrew has words (mostly borrowed from other languages) that don't follow this rule].
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 
 include_graphics("images/03.accent_stress.png")
 ```
@@ -107,17 +107,17 @@ Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
 
 ### SILENT when previous vowel is short {-}
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-shortvowel.png")
 ```
 
 ### SILENT when the first of two consecutive Shevas _within a word_ {-}
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-firstoftwo.png")
 ```
 
 ### SILENT when at the end of a word {-}
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-endofword.png")
 ```
 
@@ -125,29 +125,32 @@ include_graphics("images/03.sheva-endofword.png")
 
 Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
 
-### VOCAL when the initial Sheva in a word {-}
+### VOCAL when the initial Sheva in a word: {-}
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "300pt", fig.align='center'}
 include_graphics("images/03.sheva-initialvocal.png")
 ```
 
-### VOCAL when the second of two consecutive Shevas _within a word_  {-}
+"buh-rei-sheet" and "buh-ra-cha"
 
-```{r, out.width = "200px", fig.align='center'}
+### VOCAL when the second of two consecutive Shevas _within a word_^[A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive shevas.]:  {-}
+
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-secondoftwovocal.png")
 ```
 
-A Sheva at the **end of a word is always silent**, even if it is the second of two consecutive shevas.
+"mish-puh-tai"
 
-### VOCAL when under a Daghesh Forte {-}
-```{r, out.width = "200px", fig.align='center'}
+### VOCAL when under a Daghesh Forte: {-}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-fortevocal.png")
 ```
 
+"ham-muh-la-kim"
 
-### VOCAL after an unaccented long vowel {-}
+### VOCAL after an unaccented long vowel: {-}
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-unaccentedlongvocal.png")
 ```
 
@@ -155,7 +158,7 @@ This one may seem random but it is fairly common with long vowels in a propreton
 
 ## Hebrew Diphthong = Accented Pathach-Yod-Hiriq {#three_5}
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.diphthong.png")
 ```
 
@@ -165,7 +168,7 @@ include_graphics("images/03.diphthong.png")
 
 ## Vowels and Syllable Preference {#three_6}
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.vowelpreferencetable.png")
 ```
 
@@ -182,7 +185,7 @@ These are three miscellaneous but straightforward rules.
 
 ### Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable {-}
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.qametshatuf.png")
 ```
 
@@ -190,7 +193,7 @@ There are many instances where the vowel could be a short qamets-hatuf vowel in 
 
 ### Furtive Pathach under final ח or ע is said BEFORE the guttural letter and is not a full vowel
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.furtivepathach.png")
 ```
 
@@ -200,7 +203,7 @@ include_graphics("images/03.furtivepathach.png")
     
 ### Quiescent Aleph is silent, neither a consonant nor a vowel {-}
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.quiescentaleph.png")
 ```
 

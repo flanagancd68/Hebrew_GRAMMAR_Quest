@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 # Biblical Hebrew Grammar, the Holy Language way {-}
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/hli_cover.jpg")
 ```
 

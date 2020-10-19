@@ -6,9 +6,9 @@ B.B. Warfield was a Presbyterian minister and professor of theology at Princeton
 
 <br>
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 library(knitr)
-include_graphics("images/02Gen0109.svg")
+include_graphics("images/02.Gen0109.png")
 ```
 ^[As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, vowel notation was developed by the Masorites - these are the symbols in red that are usually under, but sometimes in the middle of, or over the affected consonant to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_ . The blue font shows additional cantillation marks, which are used for chanting the verses.  These marks also show where the word's accent is.  
   Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. ]
@@ -27,9 +27,9 @@ include_graphics("images/02Gen0109.svg")
 
 ## Equipment Check {-}
 
-```{r, out.width = "300px", fig.align='center'}
+```{r, out.width = "300pt", fig.align='center'}
 
-include_graphics("images/stopil.svg")
+include_graphics("images/stopil.png")
 ```
 Before continuing, can you name the following letters?
 
@@ -47,7 +47,7 @@ Like the Aleph-bet, we are simply going to have to commit the table below to mem
 * The letter בּ is provided as a placeholder
 * Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break rules.  In the next lesson we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.] So the first vowel example is "baw" not "awb".
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 
 include_graphics("images/02.vowels_not_letters.png")
 ```
@@ -82,7 +82,7 @@ Notes:
 
 Another table to memorize:
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 
 include_graphics("images/02.vowels_letters.png")
 ```
@@ -106,7 +106,7 @@ include_graphics("images/02.vowels_letters.png")
 
 This is the word for "laws" showing both "plene" spelling (left) and "defective" spelling (right):
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 
 include_graphics("images/02.defective.png")
 ```
@@ -124,7 +124,7 @@ Over time, you’ll start to develop a mental checklist when you encounter somet
 
 Notice the שּׁ in הַשָּׁמַיִם:
 
-```{r, out.width = "300px", fig.align='center'}
+```{r, out.width = "300pt", fig.align='center'}
 
 include_graphics("images/02.Hashamayim.png")
 ```
@@ -135,7 +135,7 @@ include_graphics("images/02.Hashamayim.png")
 * A similar word in English might be better = bet | ter
     * If we were to hypothetically transliterate into Hebrew,  it might look like: בּטֶּר*^[The * means this is not a real Hebrew word, but is only given for illustration.]
 * Notice the syllable breaks in these words that have a Daghesh Forte:
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 
 include_graphics("images/02.forte.png")
 ```

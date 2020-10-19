@@ -1,6 +1,6 @@
 # Preface: The philosophy of this book and course  {- #preface}
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/torah_scroll.jpg")
 ```
 
@@ -83,9 +83,9 @@ Each lesson of Hebrew GRAMMAR Quest builds upon the previous one.
 
 At the beginning of each chapter, you will see an Israeli stop sign with a few questions.
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 
-include_graphics("images/stopil.svg")
+include_graphics("images/stopil.png")
 ```
 
 Use this as an opportunity to check whether you are familiar enough with the major concepts (and memorization where needed) from the previous lesson before you move on with your journey.
@@ -108,6 +108,9 @@ In fact, we'd like this book to be like be your personal trainer.  A trainer sho
     * Just like physical exercise, if you stick with it, you will see the rewards over time
 * In addition to Anki, some lessons will have worksheets to reinforce concepts
 
+### [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg) {-}
+
+* See [Anki discussion in the appendix](#Anki) for additional information on Anki, including installation and settings
 
 
 ## _Physical_ Preparation: Combat "the fog" (aka grammar jet lag) {-}

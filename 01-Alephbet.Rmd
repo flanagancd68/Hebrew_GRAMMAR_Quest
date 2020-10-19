@@ -4,7 +4,7 @@
 
 <br>
 
-```{r, out.width = "400px", fig.align='center'}
+```{r, out.width = "400pt", fig.align='center'}
 
 include_graphics("images/alephbet_multi.png")
 ```
@@ -25,7 +25,7 @@ include_graphics("images/alephbet_multi.png")
 
 ## The Hebrew Aleph-Bet {#one_1}
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/alephbet.png")
 ```
 
@@ -51,13 +51,13 @@ Notes:
 
 ## Hebrew is written and read from RIGHT-to-LEFT {#one_2}
 
-```{r, out.width = "400px", fig.align='center'}
+```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/right_to_left.png")
 ```
 
 Note the front of a Hebrew book is in the same location as the back of an English book:
 
-```{r, out.width = "150px", fig.align='center'}
+```{r, out.width = "150pt", fig.align='center'}
 include_graphics("images/hebrewbook.png")
 ```
 
@@ -67,7 +67,7 @@ include_graphics("images/hebrewbook.png")
 
 ## Five letters have final (“sofit”) forms {#one_3}
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/kimnepatz.png")
 ```
 
@@ -84,13 +84,13 @@ include_graphics("images/kimnepatz.png")
 
 ## Six letters take a "Daghesh Lene" {#one_4}
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/bgdkpt.png")
 ```
 
 * The next sub-group of letters you need to study are the "BeGaD Kephat" letters^[See also Lesson 3 of Hebrew Quest]
 
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/bdgkpt_with_lene.png")
 ```    
     
@@ -101,7 +101,7 @@ include_graphics("images/bdgkpt_with_lene.png")
 * At one time all six of these letters had different pronunciation - a hard form and a soft form
     * Today only three do: **בּ כּ פּ**
     * Since the letters without the Daghesh Lene want to be "lazy" - for example a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"^[You will learn the specific differences in your Anki work for this lesson.]
-```{r, out.width = "200px", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/buckup.png")
 ```
 
@@ -113,7 +113,7 @@ We’ll dig deeper into the Daghesh Lene, and its twin, the Daghesh Forte, over 
 
 ## Four letters are classified as guttural consonants (and one is a sometimes-guttural) {#one_5}
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/gutturals.png")
 ```
 
@@ -130,7 +130,7 @@ include_graphics("images/gutturals.png")
 
 ## Look out for look-alike Letters {#one_6}
 
-```{r, out.width = "400px", fig.align='center'}
+```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/lookalikes.png")
 ```
 
@@ -143,7 +143,7 @@ include_graphics("images/lookalikes.png")
 
 ## Sephardic vs "Seminary" Pronunciation {#one_7}
 
-```{r, out.width = "500px", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/vav.png")
 ```
 
@@ -156,7 +156,7 @@ include_graphics("images/vav.png")
 * There are also significant differences when it comes to pronouncing vowels, which we will talk about in Lesson 2.
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
 * Some terms like "Waw consective" and "wayyiqtol" are prevalent in the field of Hebrew Grammar, including modern Bible software (see image).
-```{r, out.width = "400px", fig.align='center', fig.cap="Wayyiqtol from Logos8 software"}
+```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/wayyiqtol.png")
 ```
 * This course will use "Adonai" or "the LORD" when we encounter the Tetragramaton^[Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew" you would see the name "Y--w-h" used frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name, so this is not a hard and fast "seminary" distinction].
