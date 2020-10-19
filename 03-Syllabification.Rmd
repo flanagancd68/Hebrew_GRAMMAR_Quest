@@ -217,7 +217,7 @@ Congratulations for getting this far!  This is a tough chapter and, as is our pa
 
 We realize that there are a lot of heavy concepts you face in this Lesson.
 
-Some of you may try to read this lesson then go do the Anki work (perhaps repeated a few times), and you still aren't getting it.  The Fog just isn't clearing.  If this is the case, and you want a more in-depth lecture covering this material, we can recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){}
+Some of you may try to read this lesson then go do the Anki work (perhaps repeated a few times), and you still aren't getting it.  The Fog just isn't clearing.  If this is the case, and you want a more in-depth lecture covering this material, we can recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){target="_blank"}
 
 ## Lesson 3 ACTIVities {#three_8}
 
@@ -232,9 +232,12 @@ Some of you may try to read this lesson then go do the Anki work (perhaps repeat
           * These versus are designed to highlight the vocabularly words learned
           * At first, translation might seem difficult.  We'll give you hints as to word meanins along the way until you can build up your vocabulary
         * Over the entire 35 lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
-    * Ruth Pursuit [(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing)
-        1. Identify |
-        2. Identify  (Green)
-        3. Identify (Purple)
-        4. Identify  (yellow)  
-        * [Ruth Pursuit Answer Key #3](
+    * Ruth Pursuit [(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+        1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
+        2. In verse 16, highlight, "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי" in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is אֱלֹהִים. In the last two words of what you just highlighted, you can still see the core portion of אֱלֹהִים present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my".
+       3. In verse 1, find one sheva that begins a word and one sheva that concludes a word.  Which one is a silent sheva and which one is the vocal sheva?<small>^[<small>A sheva that appears under the initial consonant a word is always vocal, and a sheva that appears under the final consonant of a word is always silent.</small>]</small>
+      4. Find the quiescnt Aleph in verse 1 (pink)
+      5. Find the Hebrew words for Judah, Moab, and Bethlehem in Verse 1. (gray).  Bethlehem is two separate words in Hebrew, and the first word has a single-letter preposition (מ) that means "from".
+      6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both אֱלֹהִים and the Tetragramaton in verses 16 and 17 respectively.  Why do you think this might be? Would you say the names are used interchangibly or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
+      * [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
+  
