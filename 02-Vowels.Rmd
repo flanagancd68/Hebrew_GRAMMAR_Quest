@@ -13,7 +13,7 @@ include_graphics("images/02Gen0109.svg")
 ^[As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, vowel notation was developed by the Masorites - these are the symbols in red that are usually under, but sometimes in the middle of, or over the affected consonant to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_ . The blue font shows additional cantillation marks, which are used for chanting the verses.  These marks also show where the word's accent is.  
   Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. ]
 
-### Seven Practical Points for Lesson 2 {-}
+## Seven Practical Points for Lesson 2 {-}
 
 1. [Memorize vowels that are not vowel letters](#two_1)
 1. [Learn vocal sheva and silent sheva](#two_2)

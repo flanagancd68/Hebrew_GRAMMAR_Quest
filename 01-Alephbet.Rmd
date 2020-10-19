@@ -10,7 +10,7 @@ include_graphics("images/alephbet_multi.png")
 ```
 ^[This graphic shows the evolution of Hebrew.  Top to bottom: proto-canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block. and contemporary cursive.  This course will use contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.]
 
-### Seven Practical Points for Lesson 1 {-}
+## Seven Practical Points for Lesson 1 {-}
 
 1. [Memorize the consonants](#one_1)
 1. [Understand that Hebrew is written and read from RIGHT to LEFT](#one_2)

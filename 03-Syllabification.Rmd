@@ -1,6 +1,6 @@
 # Syllabification and Pronunciation {#Syllabification}
 
-### Seven Practical Points for Lesson 2 {-}
+## Seven Practical Points for Lesson 2 {-}
 
 1. Learn the two basic concepts of [Hebrew Syllables](#three_1)
 1. Learn the rules and terminology related to [Hebrew Word Accents](#three_2)
