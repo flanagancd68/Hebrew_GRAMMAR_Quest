@@ -1,7 +1,7 @@
 # Hebrew Vowels {.vowels}
 
 >And what is required first of all for training men for such a ministry is that the book should be given them in its very words [Hebrew, Aramaic, and Greek] as it has come from God's hand and in the fullness of its meaning, as that meaning has been ascertained by the labors of generations of men of God who have brought to bear upon it all the resources of sanctified scholarship and consecrated thought.”
----B. B. Warfield^[Warfield, Benjamin Breckenridge. “The Languages of Pastoral Ministry.” In Basics of Biblical Hebrew: Grammar, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007.  
+---B. B. Warfield^[Warfield, Benjamin Breckenridge. “The Languages of Pastoral Ministry,” in <u>Basics of Biblical Hebrew: Grammar</u>, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007
 B.B. Warfield was a Presbyterian minister and professor of theology at Princeton Seminary from 1887 to 1921. ([wikipedia link](https://en.wikipedia.org/wiki/B._B._Warfield))]
 
 <br>
@@ -15,13 +15,13 @@ include_graphics("images/02Gen0109.svg")
 
 ## Seven Practical Points for Lesson 2 {-}
 
-1. [Memorize vowels that are not vowel letters](#two_1)
-1. [Learn vocal sheva and silent sheva](#two_2)
-1. [Memorize the vowel letters](#two_3)
-1. [Meet "defective" and "plene" writing](#two_4) 
-1. [Meet Daghesh Lene's twin, Daghesh Forte](#two_5)
-1. [Know the rule for a Daghesh mark in a בגד כפת letter](#two_6) 
-1. [Know that the Gutturals and Resh reject Daghesh Forte](#two_7)
+1. Memorize [vowels that are not vowel letters](#two_1)
+1. Learn [vocal sheva and silent sheva](#two_2)
+1. Memorize the [vowel letters](#two_3)
+1. Meet ["defective" and "plene" writing](#two_4) 
+1. Meet Daghesh Lene's twin, [Daghesh Forte](#two_5)
+1. Know the [rule for a Daghesh Forte](#two_6) 
+1. Know that the [Gutturals and Resh reject Daghesh Forte](#two_7)
 
 [Lesson 2 ACTIVities](#two_8)
 
@@ -38,10 +38,9 @@ Before continuing, can you name the following letters?
 * The five KiMNePaTZ letters
 * The four guttural letters and the one sometimes-guttural letter
 
-## Memorize vowels that are not vowel letters {#two_1}
+## Vowels that are not vowel letters {#two_1}
 
-> Vowels come in three types: Long, Short, Reduced\
-Vowels come in five classes: A, E, I, O, U
+### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
 
 Like the Aleph-bet, we are simply going to have to commit the table below to memory
 
@@ -61,24 +60,23 @@ Notes:
 * You might see Kibbuts, Kibbutz, Qibbutz, and Qibbuts used interchangeably
 
 
-## Learn vocal sheva and silent sheva {#two_2}
+## Vocal silent sheva {#two_2}
 
-> Both are written as: בְּ\
-VOCAL Sheva is a REDUCED vowel / SILENT Sheva is NOT A Vowel
+### Both are written as: בְּ |   VOCAL Sheva is a REDUCED vowel | SILENT Sheva is NOT A Vowel
 
 
 * Vocal Sheva^[Most academic textbooks will use the term "shewa" instead of "sheva".]
     * Only non-gutturals can take a Vocal Sheva
-    * Pronounced like tthe A in <u>A</u>muse (same as Hateph Pathach)
+    * Pronounced like the A in <u>A</u>muse (same as Hateph Pathach)
     * Is a REDUCED Vowel
 * Silent Sheva    
     * Any letter can take a Silent Sheva
     * Silent/ No sound
     * Is NOT A Vowel
-* Both Sheva mark the end of a syllable
+* _Both Sheva mark the **END** of a syllable
 * We will learn how to distinguish between the two kinds of sheva in the next lesson
 
-## Memorize the vowel letters {#two_3}
+## Vowel letters {#two_3}
 
 ### Vowel letters use a consonant plus a nikkud to form a vowel {-}
 
@@ -120,7 +118,7 @@ include_graphics("images/02.defective.png")
     
 Over time, you’ll start to develop a mental checklist when you encounter something that doesn’t make sense. “Could this be a defective spelling?” will be one of those checklist items.
 
-## Meet Daghesh Lene's twin, Daghesh Forte {#two_5}
+## The Daghesh Forte {#two_5}
 
 ### A Daghesh Forte doubles the consonant {-}
 
