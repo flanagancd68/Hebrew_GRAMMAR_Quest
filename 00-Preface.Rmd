@@ -1,4 +1,4 @@
-# Preface: The philosophy of this book and course  {- #preface}
+# Introduction: The philosophy of this book and course  {- #preface}
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/torah_scroll.jpg")

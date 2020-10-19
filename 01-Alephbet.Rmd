@@ -1,6 +1,6 @@
-# Aleph-bet {#alephbet}
+# The Hebrew Aleph-bet {#alephbet}
 
-> Knowledge of the Hebrew alphabet opens the door of understanding . . . Pastor Roger Valci^[Valci, Roger. “The Hebrew Acrostic,” in <u>Basics of Biblical Hebrew: Grammar</u>, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007.
+> Knowledge of the Hebrew alphabet opens the door of understanding . . . Pastor Roger Valci^[Valci, Roger. “The Hebrew Acrostic,” in <u>Basics of Biblical Hebrew: Grammar</u>, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007.]
 
 <br>
 
@@ -13,12 +13,12 @@ include_graphics("images/alephbet_multi.png")
 ## Seven Practical Points for Lesson 1 {-}
 
 1. Memorize the [Hebrew Aleph-Bet](#one_1)
-1. Understand that [Hebrew is written and read from RIGHT to LEFT](#one_2)
-1. Identify the group of [five letters that have final/Sofit forms](#one_3)
-1. Identify the group of [six letters that can take a Daghesh Lene](#one_4)
-1. Identify the group of [four "guttural" letters that cause significant changes in spelling and punctuation (and the one additional letter that sometimes acts as a guttural)](#one_5)
+1. Understand that Hebrew is written and read from [RIGHT to LEFT](#one_2)
+1. Identify the group of five letters that have [final/Sofit forms](#one_3)
+1. Identify the group of six letters that can take a [Daghesh Lene](#one_4)
+1. Identify the group of [four "guttural" letters](#one_5) that cause significant changes in spelling and punctuation (and the one additional letter that sometimes acts as a guttural)
 1. Differentiate among ["look-alike" letters](#one_6)
-1. Note [differences between "seminary" and "Sephardic" pronunciation](#one_7)
+1. Note differences between ["Seminary" and "Sephardic" pronunciation](#one_7)
 
 [Lesson 1 ACTIVities](#one_8)
 
@@ -29,22 +29,23 @@ include_graphics("images/alephbet_multi.png")
 include_graphics("images/alephbet.png")
 ```
 
-Immediately you will notice that Hebrew GRAMMAR Quest is going to be different from other "learn Hebrew" books!
+Almost every other grammar book would start with a lengthy description of each letter, how to write it and how to pronounce it
+    * But Hebrew GRAMMAR Quest is not just another grammar book
+    * With Hebrew GRAMMAR Quest, **we** are not going to teach you the Aleph-Bet...
 
-* Almost every other grammar book would start with a lengthy description of each letter, how to write it and how to pronounce it
-    * But with Hebrew GRAMMAR Quest:
+> *YOU* are going to teach yourself the Aleph-Bet using Anki
 
-> *We* are not going to teach you the Aleph-Bet - *YOU* are going to teach you the Aleph-Bet!
+This is not to say that we view learning the Aleph-Bet as unimportant. Just the opposite: **you will not want to move on to lesson 2 until you have the Aleph-bet memorized.**
 
-* You will accomplish this in Anki.  **You will not want to move on to lesson 2 until you have the Aleph-bet memorized.**
+As we said in the Introduction, we believe this type of learning is best accomplished when **you** are learning and challenging (and maybe struggling a bit) yourself. We are just here to give you some pointers so your journey gets started in the right direction.
 
 Notes: 
 
 * All letters you see in the picture of the Aleph-Bet above are classified as "consonants"
     * Whereas English has the vowel letters (A, E, I, O, U) as a core part of the Aleph-Bet, Hebrew treats vowels differently
-    * We'll see more in the next lesson
+    * We'll talk about vowels in the next lesson
 
-* This would be a great time to review those introductory lessons in Hebrew Quest
+* This would be a great time to review those introductory lessons in *Hebrew Quest*
     * Practical teaching on how to write the letter
     * Spiritual insights - what the letter teaches us
 
@@ -72,12 +73,11 @@ include_graphics("images/kimnepatz.png")
 ```
 
 * Hebrew does not have capital letters the way English does, but it does have a generally similiar concept
-* Certain letters take what are called “Final” or “Sofit” forms when they appear at the END of a word
+* Certain letters take what are called “Final” or “Sofit”^[_Sofit_ is just the Hebrew word for final] forms when they appear at the END of a word
     * Those letters are in red text above
-    * _Sofit_ is just the Hebrew word for final
 * The names of these letters is quite simple
     * Take the letter Kaf כּ, which is the first letter in the Aleph-bet with a sofit form
-    * The final form is simply named Kaf Sofit ך (or "final kaf").  Same for Mem מ and Mem sofit ם and so on^["Final Kaf", "Final Mem", etc., are also terms you may hear.]
+    * The final form is simply named Kaf Sofit ך.  Same for Mem מ and Mem sofit ם and so on^["Final Kaf", "Final Mem", etc., are also terms you may hear.]
 * The five letters that have these forms are the letters, kaf, mem, nun, pei and Tsaddi:  ך ם ן ף ץ
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 * The KiMNePaTZ sofit forms can look like other letters - your Anki work will give you practice with identifying look-alike letters
