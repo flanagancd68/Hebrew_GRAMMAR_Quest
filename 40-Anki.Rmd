@@ -1,26 +1,98 @@
 # Appendix A: About Anki {- #Anki}
 
 
-> Anki is like gym equipment for your brain
+> Strength and Endurance Builds Muscle
 
 
-```{r, out.width = "150pt", fig.align='center', fig.cap="Strength"}
+```{r, fig.show="hold", out.width = "250pt", fig.align='center', fig.cap="Strength and Endurance"}
 
 include_graphics("images/weight.png")
-```
-
-```{r, out.width = "150pt", fig.align='center', fig.cap="Endurance"}
-
 include_graphics("images/treadmill.png")
 ```
 
+
 If one wants to build strength she might use the weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
 
-What if I told you you could have the equivalent pieces of equipment, only for your brain instead of your physical health and the machine didn’t cost you a penny? It’s true! That machine is called Anki. 
 
-Anki is a tremendous tool for learning and it is where we will be spending the bulk of your time in the course.  In fact it has become the “go to” for many medical school students for learning all the intricate facts they have to know.
+## Anki is Gym Equipment for your Brain {-}
 
-![](images/Anki_home_screen.png)
+```{r, out.width = "150pt", fig.align='center', fig.cap="Anki Home Screen"}
 
-## The Forgetting Curve
+include_graphics("images/Anki_home_screen.png")
+```
 
+Anki is free<small>^[<small>all platforms are free, except for the iOS app. This costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a special algorithm to present you with cards to review at just the right times.
+
+Because of this, it is not just a flashcard program, but is a tremendous strength and endurance tool for learning and it is where we will be spending the bulk of your time in the course.  In fact it has become the “go to” for many medical school students for learning all the intricate facts they have to know.
+
+## How to install Anki {-}
+
+While eventually, you can do all work from a mobile device, you do need to do the initial set up from a desktop.  I'm not really sure why, but this is how it is.  Once you do this and then synch to the free Anki cloud, you'll be off and running with mobile use.
+
+1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}
+1. [Sign up for a free account here](https://ankiweb.net/account/register){target="_blank"}
+1. [Download the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}
+
+## Change some Anki Settings {-}
+
+1. Change USER1 Name 
+    1. In Anki, click File, then Switch Profile  
+    2. Select “User 1” then Rename and type your name
+1. Change global settings
+    1. Click "Tools", then "Preferences"
+        1. On the "Basic" tab, some people prefer "night mode" - if this is you, check the "Night Mode" box
+        2. On the "Scheduling" tab:
+            1. Check the box that says "Anki 2.1 Scheduler"
+            2. Note the hour the "next day" starts - 
+                * You want to set this for a time where you will NOT be doing reviews.  
+                * For most people, 4:00am is a safe time, but if you're routinely awake at 4:00am, set this field to be earlier or later.
+
+### Below is the main set you will want to change.  Enter these numbers carefully: {-}
+
+1. Back on the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select “Options”
+    1. Change settings on each tab to match this picture
+```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
+
+include_graphics("images/a.Anki_custom.png")
+```
+
+## [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"} {-}
+
+
+## Navigating within Anki {-}
+
+* Click the +/- buttons to expand/collapse the folders within the Anki deck
+```{r, out.width = "400pt", fig.align='center', fig.cap="Anki - subdecks collapsed"}
+
+include_graphics("images/anki.png")
+```
+    * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on "Lesson 01 Vocabulary" and click the "STUDY NOW" button
+* Many cards have "hints" - click on the "hint" button to reveal
+    * If you needed a hint, be sure to select "Again" on the answer side. See discussion below.
+    ```{r, out.width = "800pt", fig.align='center', fig.cap="Revealing a hint in Anki"}
+
+include_graphics("images/a.anki_hint.gif")
+```  
+* For cards that have audio, it should play automatically when you are first shown the card. If you need to hear the audio again, hit the "play" button
+* If you would like to edit a card, such as to add your own picture, or change/add a hint - you can do this.  Just press "E"
+    * You can do this from either the "question" or the "answer" side of the card
+    * We do not recommend you change the "word", "definition" or "audio" fields
+    * To add an image simply copy and paste into the image field
+```{r, out.width = "800pt", fig.align='center', fig.cap="Adding a custom image in Anki"}
+
+include_graphics("images/a.anki_image.gif")
+```  
+* When you are ready to see the answer, click Spacebar, Enter, or the "Show Answer" button
+
+## Answering an Anki card {-}
+
+We suggest using the following guidelines to select the most appropriate answer
+
+```{r, out.width = "700pt", fig.align='center', fig.cap="Anki Response Definitions"}
+
+include_graphics("images/A.anki.answer_grid.png")
+```     
+
+* There is no “value judgment” to hitting “again” – you will learn on your own timeline
+* Just be honest with yourself! 
+* If you are in doubt, between “again” and “good”, select “again”

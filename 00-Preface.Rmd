@@ -108,7 +108,7 @@ In fact, we'd like this book to be like be your personal trainer.  A trainer sho
     * Just like physical exercise, if you stick with it, you will see the rewards over time
 * In addition to Anki, some lessons will have worksheets to reinforce concepts
 
-### [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg) {-}
+### [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"} {-}
 
 * See [Anki discussion in the appendix](#Anki) for additional information on Anki, including installation and settings
 

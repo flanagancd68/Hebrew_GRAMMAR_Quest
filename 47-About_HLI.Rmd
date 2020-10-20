@@ -4,7 +4,7 @@
 include_graphics("images/following_yeshua.jpg")
 ```
 
-***Jesus is Jewish.*** {-}
+***Jesus is Jewish.*** 
 
 What if you could get closer to him through Hebrew?
 
