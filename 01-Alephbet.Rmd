@@ -1,3 +1,5 @@
+# (PART) Hebrew Grammar Foundations {-}
+
 # The Hebrew Aleph-bet {#alephbet}
 
 > Knowledge of the Hebrew alphabet opens the door of understanding . . . Pastor Roger Valci<small>^[<small>Valci, Roger. “The Hebrew Acrostic,” in <u>Basics of Biblical Hebrew: Grammar</u>, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007.</small>]</small>
@@ -45,6 +47,7 @@ Notes:
 
 * All letters you see in the picture of the Aleph-Bet above are classified as "consonants"
     * Whereas English has the vowel letters (A, E, I, O, U) as a core part of the Aleph-Bet, Hebrew treats vowels differently
+    * א and ע are not vowels but silent consonants; in Sephardic pronunciation they take on the prounuciation of their associated vowel (if there is one)
     * We'll talk about vowels in the next lesson
 
 * This would be a great time to review the [Letter lessons in *Hebrew Quest*](https://holylanguage.com/letters.html)
@@ -170,7 +173,7 @@ include_graphics("images/wayyiqtol.png")
 * This course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew" you would see the name "Y--w-h" used frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
 
 
-## Lesson 1 ACTIVities {#one_8}
+## Lesson 1 ACTIVities {#one_8 .unnumbered}
 
 * Physical
     * Anki Aerobics
@@ -192,4 +195,6 @@ include_graphics("images/wayyiqtol.png")
 * Physical - [Quest Quiz #1](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}<small>^[<small>Please remember that the Quest Quizzes are intended as a checkpoint of your learning after you have completed the Physical and Spiritual Preparation ACTIVities.</small>]</small>
     * After completing all of the other ACTIVities, complete the Quest Quiz to assess your progress
 
+## Quest Quiz #1 {-}
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0">Loading…</iframe>

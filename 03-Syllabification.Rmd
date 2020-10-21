@@ -19,7 +19,7 @@ What we call "Hebrew grammar" is truly an exciting journey into the system of sp
 1. Know the Four RulesRecognizing Vocal sheva: Four Rules Gutturals Reject [Vocal Sheva](#three_4)
 1. Learn the primary [Hebrew Diphthong](#three_5)
 1. Understand [Vowels and Syllable Preference](#three_6)
-1. Learn three simple miscellaneous concepts: [Qamets and Qamets Hatuf, Furtive Pathach Quiescent Alef](#three_7)
+1. Learn three simple miscellaneous concepts: [Qamets and Qamets Hatuf, Furtive Patach Quiescent Alef](#three_7)
 
 [Lesson 3 ACTIVities](#three_8)
 
@@ -156,10 +156,10 @@ include_graphics("images/03.sheva-unaccentedlongvocal.png")
 
 This one may seem random but it is fairly common with long vowels in a propretonic position<small>^[<small>These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.</small>]</small>  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
-## Hebrew Diphthong = Accented Pathach-Yod-Hiriq {#three_5}
+## Hebrew Diphthong = Accented Patach-Yod-Hiriq {#three_5}
 
 ```{r, out.width = "200pt", fig.align='center'}
-include_graphics("images/03.diphthong.png")
+knitr::include_graphics("images/03.diphthong.png")
 ```
 
 * The important concept is that the diphthong is one vowel unit, which means it is only one syllable
@@ -168,7 +168,7 @@ include_graphics("images/03.diphthong.png")
 
 ## Vowels and Syllable Preference {#three_6}
 
-```{r, out.width = "200pt", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/03.vowelpreferencetable.png")
 ```
 
@@ -177,9 +177,10 @@ This table may seem like minutiae, but do yourself a favor: memorize it!
 * Open/Propretonic _prefer_ reduced vowels but this is why the concept of unchangeable long vowels matter.
   * Go back and look at דָּבָר and דְּבָרִים
     * The vowel preferance table explains why the vowel under the dalet changes from Qamets in the open pretonic to Vocal Shewa (reduced vowel) in the open propretonic when the plural suffix "im" is added
+    * This is called "_propretonic reduction_" - you will encounter this topic frequently
   * As we saw with כֹּתְבִים, propretonic long vowels do not always reduce (and unchangeable long vowels never will)
 
-## Qamets Hatuf, Furtive Pathach, Quiescent Alef {#three_7}
+## Qamets Hatuf, Furtive Patach, Quiescent Alef {#three_7}
 
 These are three miscellaneous but straightforward rules.
 
@@ -189,22 +190,27 @@ These are three miscellaneous but straightforward rules.
 include_graphics("images/03.qametshatuf.png")
 ```
 
-There are many instances where the vowel could be a short qamets-hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable.  When this ambiguity occurrs, many printings will print a vertical line called a methet.  This tells you the vowel is the **long, a-class**
+There are many instances where the vowel could be a short qamets-hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable.  When this ambiguity occurrs, many printings will print a vertical line called a meteg בָּֽ.  This tells you the vowel is the **long, a-class**
 
-### Furtive Pathach under final ח or ע is said BEFORE the guttural letter and is not a full vowel
+```{r, out.width = "200pt", fig.align='center', fig.cap="Meteg"}
+include_graphics("images/03.meteg.png")
+```
+
+
+### Furtive Patach under final ח or ע is said BEFORE the guttural letter and is not a full vowel {-}
 
 ```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.furtivepathach.png")
 ```
 
-* The Furtive Pathach is a significant exception to just about everything else we've discussed related to vowels and syllabification:
+* The Furtive Patach is a significant exception to just about everything else we've discussed related to vowels and syllabification:
     * The vowel is pronounced *before* the guttural - so the above word is **Ruach** not "rucha"
-    * The Furtive Pathach is not a full vowel and is counted in syllabification - so the above word is **Ruach** not "ru-ach"
+    * The Furtive Patach is not a full vowel and is counted in syllabification - so the above word is **Ruach** not "ru-ach"
     
 ### Quiescent Aleph is silent, neither a consonant nor a vowel {-}
 
 ```{r, out.width = "200pt", fig.align='center'}
-include_graphics("images/03.quiescentaleph.png")
+knitr::include_graphics("images/03.quiescentaleph.png")
 ```
 
 * When you see an Aleph with no vowels, it is acting as a silent letter
@@ -241,7 +247,16 @@ Some of you may try to read this lesson then go do the Anki work (perhaps repeat
       6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both אֱלֹהִים and the Tetragramaton in verses 16 and 17 respectively.  Why do you think this might be? Would you say the names are used interchangibly or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
       * [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
 * Physical - [Quest Quiz #3](https://forms.gle/L76QkM5LzspvZ9sZ7){target="_blank"}
-    * After completing all of the other ACTIVities, complete the Quest Quiz to assess your progress
+    
+## Quest Quiz #3 {-}
 
+After completing all of the other ACTIVities, complete the Quest Quiz to assess your progress
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0">Loading…</iframe>
+
+## 1st Hebrew GRAMMAR Quest Badge {-}
+
+If you have completed all of the checklist requirements for Lessons 1 and 2, complete the form below and claim your badge!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0">Loading…</iframe>
   

@@ -60,20 +60,21 @@ Notes:
 * You might see Kibbuts, Kibbutz, Qibbutz, and Qibbuts used interchangeably
 
 
-## Vocal silent sheva {#two_2}
+## Vocal  and Silent Sheva {#two_2}
 
-### Both are written as: בְּ |   VOCAL Sheva is a REDUCED vowel | SILENT Sheva is NOT A Vowel
+### Both are written as: בְּ |   VOCAL Sheva is a REDUCED vowel | SILENT Sheva is NOT A Vowel {-}
 
 
 * Vocal Sheva<small>^[<small>Most academic textbooks will use the term "shewa" instead of "sheva".</small>]</small>
     * Only non-gutturals can take a Vocal Sheva
-    * Pronounced like the A in <u>A</u>muse (same as Hateph Pathach)
+      * Gutturals reject the Vocal Sheva and take the Hateph vowels instead (see 2.1)
+    * Pronounced like the A in <u>A</u>muse (same as Hateph Patach)
     * Is a REDUCED Vowel
 * Silent Sheva    
     * Any letter can take a Silent Sheva
     * Silent/ No sound
     * Is NOT A Vowel
-* _Both Sheva mark the **END** of a syllable
+* _Both_ Sheva mark the **END** of a syllable
 * We will learn how to distinguish between the two kinds of sheva in the next lesson
 
 ## Vowel letters {#two_3}
@@ -90,11 +91,11 @@ include_graphics("images/02.vowels_letters.png")
 * Shureq is pronounced like Qibbuts (r<u>u</u>ler)
 * Hireq Yod is pronounced like the i in mach<u>i</u>ne
 * All others are pronounced like their non-vowel-letter counterparts
-* Yod and Vav vowels
+* Yod and Vav vowels - י,ו 
     * These are Long Vowels that do not reduce
     * Therefore they are called "irreducible (unchangeable) long vowels"<small>^[<small>We'll explain what this means in the next lesson</small>]</small>
     * These occur in the middle or at the end of a word
-* Hey Vowels
+* Hei Vowels - ה
     * Seghol Hei is a short vowel - the other Hei vowels are long
     * Hei vowels **ONLY** occur at the end of a word 
     * Hei vowels are extremely common in Hebrew
@@ -111,10 +112,12 @@ This is the word for "laws" showing both "plene" spelling (left) and "defective"
 include_graphics("images/02.defective.png")
 ```
 
-* Three vowel letters can take "defective" forms<small>^[<small>"Defective", in this sense, does not have a negative connotation.</small>]</small>
+* Three vowel letters commonly take "defective" forms<small>^[<small>"Defective", in this sense, does not have a negative connotation.</small>]</small>
     * Hireq-Yod can drop the Yod and contract to Hireq
     * Holem-vav can drop the Vav and contract to Holem, as in the example above
     * Shuruq, can drop the Vav and it's associated nikkud and contract to Qibbuts
+    
+Also the qamets-hei ה ָ  sometimes drops the final ה, leaving just the qamets under the now-final letter.
     
 Over time, you’ll start to develop a mental checklist when you encounter something that doesn’t make sense. “Could this be a defective spelling?” will be one of those checklist items.
 
@@ -139,7 +142,7 @@ include_graphics("images/02.Hashamayim.png")
 
 include_graphics("images/02.forte.png")
 ```
-* Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including בגד כפת letter, which can take either a Daghesh Lene or a Daghesh Forte
+* Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter, which can take either a Daghesh Lene or a Daghesh Forte
     * The "Buck-up" letters will take the **hard** pronunciation regardless of a Daghesh Lene or Daghesh Forte - See the final word אַתָּה in the image above
 
 _Advanced tip:_ When you see a Daghesh Forte, it often means that another letter has disappeared<small>^[<small>Not entirely unlike the the English apostrophe in words like _can't_.</small>]</small>.  We will talk more about this later in the course.
@@ -153,7 +156,7 @@ That's it.  That's the rule<small>^[<small>Strictly speaking, there are exceptio
 
 Examples:
 
-* אַתָּה = Is the Daghesh preceeded by a vowel that is not a sheva?<small>^[<small>Yes, a pathach. Daghesh Forte</small>]</small>
+* אַתָּה = Is the Daghesh preceeded by a vowel that is not a sheva?<small>^[<small>Yes, a patach. Daghesh Forte</small>]</small>
 * בְּרֵאשִׁית = Is the Daghesh preceeded by a vowel that is not a sheva?<small>^[<small>No. Daghesh Lene</small>]</small>
 * עַל־פְּנֵי = Is the Daghesh preceeded by a vowel that is not a sheva?<small>^[<small>No. Daghesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the exact same function as the Hyphen does in English.</small>]</small>
 * מַבְדִּיל = Is the Daghesh preceeded by a vowel that is not a sheva?<small>^[<small>No, it is preceeded by a sheva. Daghesh Lene.</small>]</small>
@@ -180,7 +183,7 @@ include_graphics("images/02.reject.gif")
         * Vocabulary - Learn (or relearn) the Vowels with Izzy 
         * Grammar - More vowel drills.  Learn the material in the "Vocabularly" deck really well and the "Grammar" deck should go smoother.
     * Worksheet
-        * Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/view?usp=sharing){target="_blank"} See note<small>^[<small>ignore the "transliteration" column.  An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory.]
+        * Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/view?usp=sharing){target="_blank"} See note<small>^[<small>ignore the "transliteration" column.  An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory.</small>]</small>
 * Spiritual
     * Anki Aerobics
         * Study-Verses - there is no translation yet but we will learn some very common Hebrew names that we will use when we get to the study verses
@@ -192,8 +195,17 @@ include_graphics("images/02.reject.gif")
         5. Identify three of the five SHORT vowels in Verse 1 (that are not part of a vowel letter)<small>^[<small>We haven't learned to spot Qamets Hatuf yet, and Qibbuts does not appear in this passage</small>]</small> (red)
         6. Five the three REDUCED/HATEPHH vowels, including Hateph Qamets Hatuf<small>^[<small>You should be able to make out the word that has the Hateph Qamets Hatuph</small>]</small>.  They are in verses 2-4. (grey)
         7. One of the more common verbs in the Tanach is **וַיֹּאמֶר **, which means "(and) he said. 
-            * Vav-Pathach-**Yod**-Daghesh Forte --וַיּ to start a verb means "And he (did or was something)  
+            * Vav-Patach-**Yod**-Daghesh Forte --וַיּ to start a verb means "And he (did or was something)  
             * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ "and **S**he (did or was something).  
             * Thus, וַתֹּאמֶר  means "and she said".  
             * Challenge: Find the five instances of וַתֹּאמֶר in Ruth Chapter 1<small>^[<small>In at least three of the instances, you should be able to figure out who is speaking.</small>]</small>  (yellow)  
         * [Ruth Pursuit Answer Key #2](https://drive.google.com/file/d/1xtcXRb1PWbt-qkbVWW9yGfkC40_d8gtf/view?usp=sharing){target="_blank"}
+        
+## Claim your "12 Tribes" Badge! {-}
+
+If you have completed **all activities** in Lessons 1 and 2, you may claim the first of our "12 Tribes" badges<small>^[<small>Once published, the full 35-Lesson course will have a badge to be claimed after every 2-3 Lessons.  There is only one badge available in the preview version of the course.</small>]</small>.
+
+[Check the requirements here]{https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing}{target="_blank"}, then complete the certification and claim your badge below:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
