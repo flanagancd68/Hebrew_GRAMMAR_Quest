@@ -1,8 +1,9 @@
 --- 
 title: "Hebrew GRAMMAR Quest"
+subtitle: "Biblical Hebrew Grammar, the Holy Language Way"
 author: "Chris Flanagan"
 date: "`r Sys.Date()`"
-
+cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
 bibliography: [book.bib, packages.bib]
@@ -25,10 +26,12 @@ library(fontawesome)
 knitr::opts_chunk$set(echo = FALSE)
 
 ```
-# Biblical Hebrew Grammar, the Holy Language way {-}
+
+
+#  {-}
 
 ```{r, out.width = "500pt", fig.align='center'}
-include_graphics("images/hli_cover.jpg")
+include_graphics("images/HGQ_book_cover.png")
 ```
 
 
@@ -38,14 +41,14 @@ This book covers the first three  of the thirty-five total lessons:
 
 1. The Hebrew Aleph-Bet
 2. The Hebrew Vowels
-3. Hebrew syllabification and Pronunciation
+3. Hebrew Syllabification and Pronunciation
 
-In addition, the preface, which outlines our vision for the course, and some Appendices are complete and available.
+Besides the first three modules, the Preface, which outlines what you can expect from the course, and some Appendices are complete and available.
 
 We have two goals for this version:
 
-1. Create a "proof of concept" version for our Holy Language ministry volunteers.  We want to gather feedback on content and overall direction before proceeding with development of all 35 lessons.
-2. Eventually, these three lessons will comprise a "demo" version of Hebrew GRAMMAR Quest to be made available to non-subscribers.  The goal is that they will see, like and become supporters of Holy Language Institute, giving them access to not only the entire grammar course, but Hebrew Quest and all the other amazing teaching content. 
+1. Create a "proof of concept" version for our Holy Language ministry volunteers.  We want to gather feedback on content and overall direction before proceeding with compiling all 35 lessons.
+2. Eventually, these three lessons will comprise a "demo" version of Hebrew GRAMMAR Quest to be made available to non-subscribers.  The goal is that they will see, like and become supporters of Holy Language Institute. 
 
 The anticipated full course availability date is Q2 2021.
 

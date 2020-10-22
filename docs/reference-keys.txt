@@ -15,6 +15,8 @@ one_4
 one_5
 one_6
 one_7
+spiritual
+ruth-pursuit
 hebrew-vowels
 two_1
 two_2
@@ -24,6 +26,7 @@ two_5
 two_6
 two_7
 two_8
+ruth-pursuit-blank-copy
 Syllabification
 three_1
 three_2

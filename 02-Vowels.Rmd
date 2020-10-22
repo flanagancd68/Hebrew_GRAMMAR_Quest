@@ -169,25 +169,20 @@ Examples:
 
 * A Hebrew collision like this means something has to give - the gutturals tend to get their way - it's like they have a force-field shielding them from other Hebrew grammar rules!
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="The Gutturals and Resh reject the Daghesh Forte"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="That's no moon.  That's a Guttural!"}
 
-include_graphics("images/02.reject.gif")
+knitr::include_graphics("images/02.reject.gif")
 ```
 
 * A large chunk of Hebrew GRAMMAR Quest will involve how to resolve these situations - more to come!
 
 ## Lesson 2 ACTIVities {#two_8}
 
-* Physical
-    * Anki Aerobics
-        * Vocabulary - Learn (or relearn) the Vowels with Izzy 
-        * Grammar - More vowel drills.  Learn the material in the "Vocabularly" deck really well and the "Grammar" deck should go smoother.
-    * Worksheet
-        * Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/view?usp=sharing){target="_blank"} See note<small>^[<small>ignore the "transliteration" column.  An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory.</small>]</small>
-* Spiritual
-    * Anki Aerobics
-        * Study-Verses - there is no translation yet but we will learn some very common Hebrew names that we will use when we get to the study verses
-    * Ruth Pursuit [(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* Complete Anki Aerobics for Lesson 2
+* Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/view?usp=sharing){target="_blank"} See note<small>^[<small>ignore the "transliteration" column.  An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory.</small>]</small>
+
+
+### Ruth Pursuit [(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
         1. Identify the four UNCHANGEABLE LONG vowels that use YOD in Verse 1 (blue)<small>^[<small>In most word processors you won't be able to isolate the vowel to highlight. Just get as close as you can.</small>]</small>|
         2. Identify the two UNCHANGEABLE LONG vowels that use VAV in Verse 1 (Green)
         3. Identify QAMETS HEI in Verse 1.  There is a TSERE Hei between Verses 5-10.  Can you find it?<small>^[<small>The other vowels that use hei are less common, but we will see them when we discuss verbs.</small>]</small> (Purple)
