@@ -197,6 +197,12 @@ knitr::include_graphics("images/02.reject.gif")
             * Challenge: Find the five instances of וַתֹּאמֶר in Ruth Chapter 1<small>^[<small>In at least three of the instances, you should be able to figure out who is speaking.</small>]</small>  (yellow)  
         * [Ruth Pursuit Answer Key #2](https://drive.google.com/file/d/1xtcXRb1PWbt-qkbVWW9yGfkC40_d8gtf/view?usp=sharing){target="_blank"}
         
+## Quest Quiz #2
+
+[Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+
 ## Claim your "12 Tribes" Badge! {-}
 
 If you have completed **all activities** in Lessons 1 and 2, you may claim the first of our "12 Tribes" badges<small>^[<small>Once published, the full 35-Lesson course will have a badge to be claimed after every 2-3 Lessons.  There is only one badge available in the preview version of the course.</small>]</small>.
