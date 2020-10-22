@@ -201,7 +201,7 @@ knitr::include_graphics("images/02.reject.gif")
 
 If you have completed **all activities** in Lessons 1 and 2, you may claim the first of our "12 Tribes" badges<small>^[<small>Once published, the full 35-Lesson course will have a badge to be claimed after every 2-3 Lessons.  There is only one badge available in the preview version of the course.</small>]</small>.
 
-[Check the requirements here]{https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
+[Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
