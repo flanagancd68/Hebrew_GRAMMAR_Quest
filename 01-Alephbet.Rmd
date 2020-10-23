@@ -10,7 +10,7 @@
 
 include_graphics("images/alephbet_multi.png")
 ``` 
-<small>^[<small>This graphic shows the evolution of Hebrew. Top to bottom: proto-canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block. and contemporary cursive. This course will use contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.</small>]</small>
+<small>^[<small>This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.</small>]</small>
 
 ## Seven Practical Points for Lesson 1 {-}
 
@@ -31,7 +31,7 @@ include_graphics("images/alephbet_multi.png")
 include_graphics("images/alephbet.png")
 ```
 
-Almost every other grammar book would start with a lengthy description of each letter, how to write it and how to pronounce it
+Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.
 
 * But Hebrew GRAMMAR Quest is not just another grammar book
 * With Hebrew GRAMMAR Quest, **we** are not going to teach you the Aleph-Bet...
@@ -41,13 +41,13 @@ Almost every other grammar book would start with a lengthy description of each l
 * This is not to say that we view learning the Aleph-Bet as unimportant. 
     * Just the opposite: **you will not want to move on to lesson 2 until you have the Aleph-bet memorized.**
 
-As we said in the Introduction, we believe this type of learning is best accomplished when **you** are learning and challenging (and maybe struggling a bit) yourself. We are just here to give you some pointers so your journey gets started in the right direction.
+We believe learning is best accomplished when **you** are learning and challenging (and maybe struggling a bit) yourself. We are just here to give you some pointers, so your journey gets started in the right direction.
 
 Notes: 
 
-* All letters you see in the picture of the Aleph-Bet above are classified as "consonants"
+* All letters you see in the picture of the Aleph-Bet above are classified as "consonants."
     * Whereas English has the vowel letters (A, E, I, O, U) as a core part of the Aleph-Bet, Hebrew treats vowels differently
-    * א and ע are not vowels but silent consonants; in Sephardic pronunciation they take on the prounuciation of their associated vowel (if there is one)
+    * א and ע are not vowels but silent consonants; in Sephardic pronunciation, they take on the pronunciation of their associated vowel (if there is one)
     * We'll talk about vowels in the next lesson
 
 * This would be a great time to review the [Letter lessons in *Hebrew Quest*](https://holylanguage.com/letters.html)
@@ -61,13 +61,13 @@ Notes:
 include_graphics("images/right_to_left.png")
 ```
 
-Note the front of a Hebrew book is in the same location as the back of an English book:
+Note the front of a Hebrew book is in the same location as the back of an English one:
 
 ```{r, out.width = "150pt", fig.align='center'}
 include_graphics("images/hebrewbook.png")
 ```
 
-* To our western eyes, this looks "backwards" (but Israelis would say _we_ are reading backwards!)
+* To our western eyes, this looks "backward" (but Israelis would say _we_ are reading backward!)
 * When reading Hebrew, always start at the "back" and go from RIGHT to LEFT
 * **Hebrew Quest** discussion on Right to Left
 
@@ -82,13 +82,13 @@ include_graphics("images/hebrewbook.png")
 include_graphics("images/kimnepatz.png")
 ```
 
-* Hebrew does not have capital letters the way English does, but it does have a generally similiar concept
-* Certain letters take what are called “Final” or “Sofit”<small>^[<small>_Sofit_ is just the Hebrew word for final</small>]</small> forms when they appear at the END of a word
+* Hebrew does not have capital letters the way English does, but it does have a generally similar concept
+* Five letters take what are called “Final” or “Sofit”<small>^[<small>_Sofit_ is just the Hebrew word for final</small>]</small> forms when they appear at the END of a word
     * Those letters are in red text above
 * The names of these letters is quite simple
     * Take the letter Kaf כּ, which is the first letter in the Aleph-bet with a sofit form
-    * The final form is simply named Kaf Sofit ך. Same for Mem מ and Mem sofit ם and so on<small>^[<small>"Final Kaf", "Final Mem", etc., are also terms you may hear.</small>]</small>
-* The five letters that have these forms are the letters, kaf, mem, nun, pei and Tsaddi: ך ם ן ף ץ
+    * The final form is simply named Kaf Sofit ך. Same for Mem מ and Mem sofit ם and so on<small>^[<small>"Final Kaf," "Final Mem," etc., are also terms you may hear.</small>]</small>
+* The five letters that have these forms are the letters, Kaf, Mem, Nun, Pei, and Tsaddi: ך ם ן ף ץ
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 * The KiMNePaTZ sofit forms can look like other letters - your Anki work will give you practice with identifying look-alike letters
 
@@ -106,11 +106,11 @@ include_graphics("images/bdgkpt_with_lene.png")
    
 * The red dot in the above letters is called a **DAGHESH LENE**
 * The Daghesh Lene is inserted into the middle of the consonant
-    * The pronunciation of the letter is hard if the Daghesh Lene present, or soft if not present
+    * The pronunciation of the letter is hard if the Daghesh Lene present or soft if not present
     * This ONLY applies to Bet - Gimmel - Dalet - Kaf - Pei - and Tav 
     * We call then "BeGaD KePHaT" letters because that's what you get when you pronounce the six letters together
     * Only these six can take a Daghesh Lene<small>^[<small>If you see a dot in a letter other than these six, then you know it can't be a Daghesh Lene</small>]</small>
-* At one time all six of these letters had different pronunciations but today, only three do: **בּ כּ פּ**
+* At one time, all six of these letters had different pronunciations, but today, only three do: **בּ כּ פּ**
     * Since the letters without the Daghesh Lene want to be "lazy" - for example a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"<small>^[<small>You will learn the specific differences in your Anki work for this lesson.</small>]</small>
 ```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/buckup.png")
@@ -118,7 +118,7 @@ include_graphics("images/buckup.png")
 
 * Grammar rule: <u>A Daghesh Lene is not used whenever the BDGKPT letter follows a Vowel</u>
 
-We’ll dig deeper into the Daghesh Lene, and its twin, the Daghesh Forte, over the next few lessons.
+We’ll dig deeper into the Daghesh Lene and its twin, the Daghesh Forte, over the next few lessons.
 
 
 ## Four letters are classified as guttural consonants (and one is a sometimes-guttural) {#one_5}
@@ -127,14 +127,14 @@ We’ll dig deeper into the Daghesh Lene, and its twin, the Daghesh Forte, over 
 include_graphics("images/gutturals.png")
 ```
 
-### Knowing the gutturals and how they behave will turn out to be one of the most important facets of Hebrew grammar {-}
+### Knowing the gutturals and how they behave will turn out to be one of the most critical facets of Hebrew grammar {-}
 
 * There are four proper gutturals: Aleph, Hei, Chet, and Ayin (in red above)
  * The letter Resh ר (in orange above) is not formally a guttural; but since it can’t decide whether to behave or not, it is often grouped in as a guttural
 * We like to say that the gutturals will be our ‘problem children’ because they tend not to play nice with the other Hebrew rules 
     * The good news is this bad-boy behavior of the gutturals and Resh is entirely predictable
     * We will learn this over the next few lessons (and indeed, the rest of the course) 
-* For now, just memorize the four guttural consonants in red, and Resh, the sometimes-guttural-like letter in orange.
+* For now, just memorize the four guttural consonants in red and Resh, the sometimes-guttural-like letter in orange.
 
 
 ## Look out for look-alike Letters {#one_6}
@@ -160,17 +160,17 @@ include_graphics("images/vav.png")
 
 * There are some notable differences between what we might call academic or "seminary" Hebrew and "real-world" Hebrew.
     * Real-world Hebrew is based on Sephardic pronunciation<small>^[<small>"Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.</small>]</small>
-* We've already talked about how only three of the Daghesh Lene letters need to "buckup"<small>^[<small>With "Seminary Hebrew", the ג without the Daghesh Lene receives something like the gh in "aGHast" and the ד and ת without the Daghesh Lene are closer to the English th like "this".</small>]</small>
+* We've already talked about how only three of the Daghesh Lene letters need to "buck up"<small>^[<small>With "Seminary Hebrew," the ג without the Daghesh Lene receives something like the gh in "aGHast." The ד and ת without the Daghesh Lene are closer to the English th like "this." </small>]</small>
 * Another difference between Sephardic and Seminary pronunciation is how to pronounce ו 
     * In academia, the consonant receives the "w" sound and is called "Waw." 
-    * In most non-academic circles, it receives the "v" sound and is pronounced "vav".
+    * In most non-academic circles, it receives the "v" sound and is pronounced "vav."
 * There are also significant differences in pronouncing vowels, which we will talk about in Lesson 2.
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
 * Some terms like "Waw consective" and "wayyiqtol" are prevalent in the field of Hebrew Grammar, including modern Bible software (see image).
 ```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/wayyiqtol.png")
 ```
-* This course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew" you would see the name "Y--w-h" used frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
+* This course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew," you would see the name "Y--w-h" frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
 
 
 ## Lesson 1 ACTIVities {#one_8 .unnumbered}
@@ -186,15 +186,15 @@ include_graphics("images/wayyiqtol.png")
 ### Spiritual
 
 * Anki Aerobics
-    * Study-Verses - there is no translation yet but we will learn some grammar shorthand that we will use when we get to the study verses
+    * Study-Verses - there is no translation yet, but we will learn some grammar shorthand that we will use when we get to the study verses
 
 ### [Ruth Pursuit](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>
-          1. Identify the four guttural letters (pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
-        2. Identify the one half-guttural (red)
-        3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene for a total of 12 letters (green)
-        4. Identify the five final/sofit forms (blue)
-        5. Identify the remaining letters (yellow)
-        * [(Ruth Answer Key #1)](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing){target="_blank"}
+1. Identify the four guttural letters (pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
+2. Identify the one half-guttural (red)
+3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
+4. Identify the five final/sofit forms (blue)
+5. Identify the remaining letters (yellow)
+* [(Ruth Answer Key #1)](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing){target="_blank"}
 
 
 

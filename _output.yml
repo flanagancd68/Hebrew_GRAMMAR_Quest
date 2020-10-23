@@ -36,3 +36,5 @@ bookdown::gitbook:
 # bookdown::epub_book: default
 bookdown::word_document2:
     toc: true
+    toc_depth: 1
+    reference_docx: images/hgq_template.docm

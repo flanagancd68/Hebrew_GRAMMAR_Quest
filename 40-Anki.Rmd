@@ -21,7 +21,7 @@ If one wants to build strength she might use the weight machine.  If one wants t
 include_graphics("images/Anki_home_screen.png")
 ```
 
-Anki is free<small>^[<small>all platforms are free, except for the iOS app. This costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a special algorithm to present you with cards to review at just the right times.
+Anki is free<small>^[<small>all platforms are free, except for the iOS app. This costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
 
 Because of this, it is not just a flashcard program, but is a tremendous strength and endurance tool for learning and it is where we will be spending the bulk of your time in the course.  In fact it has become the “go to” for many medical school students for learning all the intricate facts they have to know.
 

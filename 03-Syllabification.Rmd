@@ -21,7 +21,6 @@ What we call "Hebrew grammar" is truly an exciting journey into the system of sp
 1. Understand [Vowels and Syllable Preference](#three_6)
 1. Learn three simple miscellaneous concepts: [Qamets and Qamets Hatuf, Furtive Patach Quiescent Alef](#three_7)
 
-[Lesson 3 ACTIVities](#three_8)
 
 ## Equipment Check {-}
 
@@ -36,15 +35,15 @@ Before continuing, can you describe the following concepts?
 * The vowels that are letters, including which are the "irreducible long" type
 * The difference between a Daghesh Forte and a Daghesh Lene
 
-### **The authors of Basics of Biblical Hebrew believe Lesson 3 could be the most difficult and time-consuming chapter in the book.** {-}
+### **The authors of <u>Basics of Biblical Hebrew</u> believe Lesson 3 could be the most challenging chapter in the book.** {-}
 
-If you do not have the vowels and, particularly, the vowel types memorized, this chapter is going to be all the more confusing.
+If you do not have the vowels and, particularly, the vowel types memorized, this chapter is going to be all the more difficult.
 
 Assuming you've checked your equipment as directed above, and everything is in tip-top shape for your Lesson 3 adventure, just take your time.  Work through the written material then do a little Anki work and see if it starts to click. 
 
 If not, then come back here and re-read the material again. Then go back to Anki.  If you find yourself getting frustrated, take a break and come back to it later.  Continue to work through "the fog."
 
-You absolutely must have the concepts from this lesson hard-wired before you continue to Lesson 4.  The good news is once you get this lesson down, every other lesson is going to be relatively straightforward in comparison to the amount of new concepts you are facing in Lesson 3.
+You absolutely must have the concepts from this lesson hard-wired before you continue to Lesson 4.  The good news is once you get this lesson down, the ones that follow are going to be relatively straightforward.
 
 In addition to all of these new concepts, the authors have also seen fit to introduce a full set of vocabulary words AND study verses beginning with Lesson 3.  So the overall workload will increase starting with this lesson.
 
@@ -67,9 +66,9 @@ include_graphics("images/03.syllable.png")
 We see the two basic concepts at play in this simple word (pronounced "da-var" and means word, matter, thing):
 
 * The two syllables each begin with a consonant and have one vowel
-    * דָּ begins with the consonant Dalet, and has one vowel, Qamets
+    * דָּ starts with the consonant Dalet, and has one vowel, Qamets
       * This is also an example of an "open" syllable - open syllables end with a _vowel_, not a consonant
-    * בָר begins with the consonant Bet, and has one vowel, also a Qamets
+    * בָר starts with the consonant Bet, and has one vowel, also a Qamets
       * This is an example of a "closed" syllable - closed syllables end with a _consonant_, not a vowel 
 * If you need to know how many syllables are in a Hebrew word, just count the vowels
     * Remember that vowel letters, such as the Hiriq-Yod, and Diphthongs we will later in this lesson count as a single vowel unit
@@ -154,7 +153,7 @@ include_graphics("images/03.sheva-fortevocal.png")
 include_graphics("images/03.sheva-unaccentedlongvocal.png")
 ```
 
-This one may seem random but it is fairly common with long vowels in a propretonic position<small>^[<small>These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.</small>]</small>  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
+This one may seem random but it is relatively common with _long_ vowels in a propretonic position<small>^[<small>These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.</small>]</small>  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
 ## Hebrew Diphthong = Accented Patach-Yod-Hiriq {#three_5}
 
@@ -162,7 +161,7 @@ This one may seem random but it is fairly common with long vowels in a propreton
 knitr::include_graphics("images/03.diphthong.png")
 ```
 
-* The important concept is that the diphthong is one vowel unit, which means it is only one syllable
+* The key concept is that the diphthong is one vowel unit, which means it is only one syllable
     * The words above are not pronounced "BUY-it", but monosyllabic "BUYIT"; and not "sh-MY-im" but "sh-MYIM"
 
 
@@ -217,46 +216,64 @@ knitr::include_graphics("images/03.quiescentaleph.png")
     * English has all kinds of silent letters, like the 'p' in receipt - the Quiescent Aleph works the same way
     * In terms of syllabification, the Aleph is neither a vowel nor a consonant, so it doesn't count at all - it is just an extra letter
     
-## Conclusion {-}
+## Final note on Lesson 3 {-}
 
-Congratulations for getting this far!  This is a tough chapter and, as is our pace, we moved through the "teaching" aspects of it quickly to allow you to get started and get learning in Anki.
-
-We realize that there are a lot of heavy concepts you face in this Lesson.
+Congratulations for getting this far! We realize that there are a lot of heavy concepts you face in this Lesson.
 
 Some of you may try to read this lesson then go do the Anki work (perhaps repeated a few times), and you still aren't getting it.  The Fog just isn't clearing.  If this is the case, and you want a more in-depth lecture covering this material, we can recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){target="_blank"}
 
-## Lesson 3 ACTIVities {#three_8}
 
-* Physical
-    * Anki Aerobics
+## Video Warm-ups {-}
+
+* Welcome to our first group of vocabularly and study verses, featuring audio by Izzy
+* Below is a video of the vocabularly words, and below that is a video of the study verses
+* Practice speaking the word/verses aloud, following along with Izzy 
+* You may not know what the words mean yet and that's fine (that's where Anki comes in)
+* Consider this some "syllabic stretching" before you do your full Anki workout!
+
+## Vocab Warm-up {-}
+
+[Click to open vocabulary video in a new tab](https://www.youtube.com/embed/Rz470ZcP6_c){target=
+"_blank"}
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Rz470ZcP6_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Verses Warm-up {-}
+
+[Click to open verses video in a new tab](https://www.youtube.com/embed/dWCt38ANtic){target=
+"_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dWCt38ANtic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Lesson 3 ACTIVities {-}
+
+* Anki Aerobics - your formal vocabulary and study verses work starts with Lesson 3
         * Vocabulary - first lesson with a full set of vocabulary words, featuring audio by Izzy!
-        * Grammar - All of the concepts you learned in the sections above will be reinforced in Anki
-            * Like we said in the Equipment Check section, if you absolutely are getting frustrated, take a break or check out the additional in-depth video by Dr. Beckman
+
 * Spiritual
+    * Study Verses Warm-up - 
+ 
     * Anki Aerobics
-        * Study-Verses - welcome to our first grouping of study verses, featuring audio by Izzy
-          * These versus are designed to highlight the vocabularly words learned
-          * At first, translation might seem difficult.  We'll give you hints as to word meanins along the way until you can build up your vocabulary
+        * Study-Verses - At first, translation might seem difficult.  We'll give you hints as to word meanins along the way until you can build up your vocabulary
         * Over the entire 35 lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
-    * Ruth Pursuit [(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-        1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
-        2. In verse 16, highlight, "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי" in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is אֱלֹהִים. In the last two words of what you just highlighted, you can still see the core portion of אֱלֹהִים present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my".
-       3. In verse 1, find one sheva that begins a word and one sheva that concludes a word.  Which one is a silent sheva and which one is the vocal sheva?<small>^[<small>A sheva that appears under the initial consonant a word is always vocal, and a sheva that appears under the final consonant of a word is always silent.</small>]</small>
-      4. Find the quiescnt Aleph in verse 1 (pink)
-      5. Find the Hebrew words for Judah, Moab, and Bethlehem in Verse 1. (gray).  Bethlehem is two separate words in Hebrew, and the first word has a single-letter preposition (מ) that means "from".
-      6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both אֱלֹהִים and the Tetragramaton in verses 16 and 17 respectively.  Why do you think this might be? Would you say the names are used interchangibly or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
-      * [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
-* Physical - [Quest Quiz #3](https://forms.gle/L76QkM5LzspvZ9sZ7){target="_blank"}
+        
+### Ruth Pursuit {-}        
+
+1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
+2. In verse 16, highlight, "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי" in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is אֱלֹהִים. In the last two words of what you just highlighted, you can still see the core portion of אֱלֹהִים present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my".
+3. In verse 1, find one sheva that begins a word and one sheva that concludes a word.  Which one is a silent sheva and which one is the vocal sheva?<small>^[<small>A sheva that appears under the initial consonant a word is always vocal, and a sheva that appears under the final consonant of a word is always silent.</small>]</small>
+4. Find the quiescnt Aleph in verse 1 (pink)
+5. Find the Hebrew words for Judah, Moab, and Bethlehem in Verse 1. (gray).  Bethlehem is two separate words in Hebrew, and the first word has a single-letter preposition (מ) that means "from".
+6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both אֱלֹהִים and the Tetragramaton in verses 16 and 17 respectively.  Why do you think this might be? Would you say the names are used interchangibly or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
+
+ Physical - [Quest Quiz #3](https://forms.gle/L76QkM5LzspvZ9sZ7){target="_blank"}
     
 ## Quest Quiz #3 {-}
 
-After completing all of the other ACTIVities, complete the Quest Quiz to assess your progress
+[Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
 
-## 1st Hebrew GRAMMAR Quest Badge {-}
 
-If you have completed all of the checklist requirements for Lessons 1 and 2, complete the form below and claim your badge!
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0">Loading…</iframe>
   
