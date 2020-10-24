@@ -173,22 +173,26 @@ include_graphics("images/wayyiqtol.png")
 * This course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew," you would see the name "Y--w-h" frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
 
 
-## Lesson 1 ACTIVities {#one_8 .unnumbered}
+## ACTIVity: Letter Writing {-}
 
-### Physical {-}
-
-* Anki Aerobics
-        * Vocabulary - Learn (or relearn) the Aleph-Bet with Izzy 
-        * Grammar - Identify look-alike Hebrew letters
 * Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
 * Practice writing the entire AlephBet until you can do it five times from memory.
+
+## ACTIVity: Anki Aerobics {-}
+    * Vocabulary - Learn (or relearn) the Aleph-Bet with Izzy 
+    * Grammar - Identify look-alike Hebrew letters
+    * Verses - we won't be working on any verses just yet, but we will learn some grammar shorthand that we will use when we get to the study verses
+
+
+
 
 ### Spiritual
 
 * Anki Aerobics
-    * Study-Verses - there is no translation yet, but we will learn some grammar shorthand that we will use when we get to the study verses
+    * Study-Verses - there is no translation yet, 
 
-### [Ruth Pursuit](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>
+## ACTIVity: Ruth Pursuit #1
+[Ruth Pursuit](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>
 1. Identify the four guttural letters (pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
 2. Identify the one half-guttural (red)
 3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
@@ -198,7 +202,7 @@ include_graphics("images/wayyiqtol.png")
 
 
 
-## Quest Quiz #1 {-}
+## ACTIVity: Quest Quiz #1 {-}
 
 [Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 

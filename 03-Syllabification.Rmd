@@ -223,40 +223,29 @@ Congratulations for getting this far! We realize that there are a lot of heavy c
 Some of you may try to read this lesson then go do the Anki work (perhaps repeated a few times), and you still aren't getting it.  The Fog just isn't clearing.  If this is the case, and you want a more in-depth lecture covering this material, we can recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){target="_blank"}
 
 
-## Video Warm-ups {-}
+## ACTIVity: Video Warm-ups {-}
 
-* Welcome to our first group of vocabularly and study verses, featuring audio by Izzy
-* Below is a video of the vocabularly words, and below that is a video of the study verses
+* Welcome to our first group of vocabulary and study verses, featuring audio by Izzy
+* Below is a video of the vocabulary words, and below that is a video of the study verses
 * Practice speaking the word/verses aloud, following along with Izzy 
 * You may not know what the words mean yet and that's fine (that's where Anki comes in)
 * Consider this some "syllabic stretching" before you do your full Anki workout!
 
-## Vocab Warm-up {-}
+## ACTIVity: Vocab Warm-up {-}
 
-[Click to open vocabulary video in a new tab](https://www.youtube.com/embed/Rz470ZcP6_c){target=
-"_blank"}
+[Click to open vocabulary video in a new tab](https://www.youtube.com/embed/D0uG3_PTzGA){target="_blank"}
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Rz470ZcP6_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D0uG3_PTzGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Verses Warm-up {-}
+## ACTIVity: Verses Warm-up {-}
 
-[Click to open verses video in a new tab](https://www.youtube.com/embed/dWCt38ANtic){target=
-"_blank"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dWCt38ANtic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Lesson 3 ACTIVities {-}
-
-* Anki Aerobics - your formal vocabulary and study verses work starts with Lesson 3
-        * Vocabulary - first lesson with a full set of vocabulary words, featuring audio by Izzy!
-
-* Spiritual
-    * Study Verses Warm-up - 
- 
-    * Anki Aerobics
-        * Study-Verses - At first, translation might seem difficult.  We'll give you hints as to word meanins along the way until you can build up your vocabulary
-        * Over the entire 35 lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
+* Over the entire 35 lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
         
-### Ruth Pursuit {-}        
+[Click to open verses video in a new tab](https://www.youtube.com/embed/_BD0WD2cQ7c){target="_blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_BD0WD2cQ7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## ACTIVity: Ruth Pursuit #3 {-}        
 
 1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
 2. In verse 16, highlight, "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי" in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is אֱלֹהִים. In the last two words of what you just highlighted, you can still see the core portion of אֱלֹהִים present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my".
@@ -267,9 +256,15 @@ Some of you may try to read this lesson then go do the Anki work (perhaps repeat
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
 
- Physical - [Quest Quiz #3](https://forms.gle/L76QkM5LzspvZ9sZ7){target="_blank"}
-    
-## Quest Quiz #3 {-}
+## ACTIVity: Anki Lesson 3
+
+* Vocab - First Lesson with `Basics of Biblical Hebrew` vocabulary list
+* Grammar
+* Verses - First Lesson with `Basics of Biblical Hebrew` Study Verses
+  * The translation may be difficult at first and it may take you several attempts before you can select `Good`
+  * Be patient and stick with it - you'll get it!
+
+## ACTIVity: Quest Quiz #3 {-}
 
 [Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 

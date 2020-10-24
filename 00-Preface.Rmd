@@ -1,4 +1,4 @@
-# Introduction: The philosophy of this book and course {- #preface}
+# Introduction: The philosophy of this guidebook and course {- #preface}
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/torah_scroll.jpg")
@@ -50,11 +50,11 @@ Before a big trip to Israel, you need to know some basics. For example, you need
    
 You might call this "getting the lay of the land." 
 
-### Primarily, what this book consists of, is giving you the lay of the Hebrew Grammar land {-}
+### Primarily, what this Guidebook consists of, is giving you the lay of the Hebrew Grammar land {-}
 
 Just like a tour guide might give you a few pointers on a site to fully experience it, we will provide you with the most essential things you will need to know about each Lesson. We call these the "seven practical points." 
 
-Our goal is to keep this discussion at a high-level. Other textbooks and lectures might spend time explaining concepts to you in great detail. We will not. Our goal is to give you just enough to get you pointed in the right direction.
+Our goal is to keep this discussion at a high-level. Other textbooks and lectures might spend time explaining concepts to you in great detail. We will not. Our goal is to give you just enough to get you pointed in the right direction.  What you're reading right now is not just another grammar textbook.  It is your <u>Hebrew GRAMMAR Quest Guidebook</u> packed with useful information and hands-on activities.
 
 But don't feel that we've let you fend for yourself like a tourist in a Jerusalem traffic jam!  We have a workout plan to get you into Hebrew Health, and we have established checks to make sure you have all the right equipment in your pack before you continue in your quest.
 
@@ -83,7 +83,7 @@ Israel is a rocky, hilly place. Many of the best sites require a walk or even a 
 
 In Hebrew GRAMMAR Quest, we want to emphasize active, not passive, learning. So we call our learning exercises "ACTIVities." 
 
-The way we think of it, this book can be compared to your personal trainer. A trainer shows you how to do your workout safely and effectively. He or she gives you some "practical" pointers and then turns it over to you to do the actual strength and endurance training. In our case, your brain will be doing the lifting instead of your biceps.
+The way we think of it, another function of this Guidebook is to be your personal trainer. A trainer shows you how to do your workout safely and effectively. He or she gives you some "practical" pointers and then turns it over to you to do the actual strength and endurance training. In our case, your brain will be doing the lifting instead of your biceps.
 
 * The majority of your learning time will be spent in a free flashcard program called Anki. 
     * **Anki** is the equivalent of your gym and cardio equipment for Hebrew Health
