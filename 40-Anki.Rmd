@@ -175,6 +175,6 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="With `Custom Study` you can temporarily increase your daily new cards"}
 
-include_graphics("images/a.anki_custom_study")
+include_graphics("images/a.anki_custom_study.png")
 ``` 
 

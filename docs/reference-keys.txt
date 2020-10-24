@@ -7,6 +7,8 @@ fig:unnamed-chunk-45
 fig:unnamed-chunk-46
 fig:unnamed-chunk-47
 fig:unnamed-chunk-48
+fig:unnamed-chunk-49
+fig:unnamed-chunk-50
 alephbet
 one_1
 one_2
@@ -15,8 +17,7 @@ one_4
 one_5
 one_6
 one_7
-spiritual
-ruth-pursuit
+activity-ruth-pursuit-1
 hebrew-vowels
 two_1
 two_2
@@ -33,3 +34,4 @@ three_4
 three_5
 three_6
 three_7
+activity-anki-lesson-3
