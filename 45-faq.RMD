@@ -1,5 +1,6 @@
 # Appendix B: Questions and Answers about Hebrew GRAMMAR Quest {- #faq}
 
+<!-- Grammarly check: 10/24/2020 108 lines -->
 
 ## What is the difference between Hebrew Quest and Hebrew GRAMMAR Quest? {- #difference}
 
@@ -105,4 +106,3 @@ We cover all of this in the [Preface: this book's philosophy and direction](#pre
 
 * We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or teacher of a traditional Christian congregation to have a basic understanding of the Hebrew text to be able to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience
     * Additionally, for those who have had first-year Hebrew at seminary (perhaps many years ago) but have struggled to apply knowledge of the original language to their vocation, or for those pastors/teachers who may have never taken a grammar course in Hebrew, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***<small>^[<small>This book's author can testify to this!</small>]</small>
- 

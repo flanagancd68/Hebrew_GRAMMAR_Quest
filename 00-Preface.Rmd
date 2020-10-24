@@ -1,4 +1,6 @@
-# Introduction: The philosophy of this guidebook and course {- #preface}
+# Introduction: The philosophy of this Guidebook and course {- #preface}
+
+<!-- GRAMMARLY Check: 10/24/2020 172 lines -->
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/torah_scroll.jpg")
@@ -14,17 +16,17 @@ That's where our Holy Language Learning Philosophy comes in.
 
 ## Our Learning Philosophy = ACTIVE Engagement {-}
 
-Learning Hebrew the Holy Language Way is designed not just to feed you fish but also to teach you to fish<small>^[<small>Refer to Hebrew Quest, Lesson 1.</small>]</small>. When someone provides you fish, you are only passively receiving. When you learn to fish, you are being active and intentional.
+Learning Hebrew the Holy Language Way is designed not just to feed you fish but also to teach you to fish<small>^[<small>Refer to Hebrew Quest, Lesson 1.</small>]</small>. When someone provides you fish, you are only passively receiving. When you learn to fish, you are active and intentional.
 
 In other words, we believe you will learn best when you actively (and dare we say "passionately") ***engage*** with the Holy Scriptures. If done this way, learning Hebrew will not merely be another academic course you take, but it can be a life-changing experience. 
 
-With the addition of Hebrew GRAMMAR Quest, Holy Language Institute offers yet another way for you to actively embrace Yeshua, the Jewish Messiah.
+With the addition of Hebrew GRAMMAR Quest, Holy Language Institute offers yet another way for you to embrace Yeshua, the Jewish Messiah.
 
 ## Relationship to Hebrew Quest {-}
 
 ***Hebrew Quest*** took you directly *to* the Hebrew Scriptures. It brought you in touch with the Hebraic side of the Bible that, perhaps, you had never experienced before. We introduced you to a different aspect of what you may have known as "the Old Testament." Maybe before Hebrew Quest, you had kept this "Old Testament" at a safe distance. Now, you may have a new appreciation. Perhaps you are building a closer friendship with what you now know as the "Tanach" or the "Hebrew Scriptures."
 
-***Hebrew GRAMMAR Quest*** is designed to take you to the next stage of that friendship. It is designed to take you *inside* the Hebrew Scriptures. Maybe it's like progressing from a "good friend" to an "intimate" friend. A friend who is always there for you.  A friend who offers you wisdom and counsel you can consistently rely upon.
+***Hebrew GRAMMAR Quest*** is designed to take you to the next stage of that friendship. It takes you *inside* the Hebrew Scriptures. Maybe it's like progressing from a "good friend" to an "intimate" friend. A friend who is always there for you.  A friend who offers you consistently reliable wisdom and counsel.
 
 Such a friendship can be challenging and even difficult at times<small>^[<small>see Philippians 2:12</small>]</small>. Maybe when such a friend tells it like it is, you don't always like to hear it. But deep down, you know this type of friendship is one of the most rewarding relationships you can have this side of heaven.
 
@@ -52,7 +54,7 @@ You might call this "getting the lay of the land."
 
 ### Primarily, what this Guidebook consists of, is giving you the lay of the Hebrew Grammar land {-}
 
-Just like a tour guide might give you a few pointers on a site to fully experience it, we will provide you with the most essential things you will need to know about each Lesson. We call these the "seven practical points." 
+Just like a tour guide might give you a few pointers on a site to fully experience it, we will provide you with the essential things you will need to know about each lesson. We call these the "seven practical points." 
 
 Our goal is to keep this discussion at a high-level. Other textbooks and lectures might spend time explaining concepts to you in great detail. We will not. Our goal is to give you just enough to get you pointed in the right direction.  What you're reading right now is not just another grammar textbook.  It is your <u>Hebrew GRAMMAR Quest Guidebook</u> packed with useful information and hands-on activities.
 
@@ -79,13 +81,13 @@ Here, we leave the decision to proceed with your quest up to you. Be honest with
 
 ### Strength: Get Hebrew healthy with Anki Aerobics {-}
 
-Israel is a rocky, hilly place. Many of the best sites require a walk or even a small hike from the parking lot. Those who hope to passively see the country from a bus window but who could have done more had they done some exercising beforehand are going to miss out on the best parts. For maximum benefit, travelers must be ready for a lot of walking. 
+Israel is a rocky, hilly place. Many of the best sites require a walk or even a small hike from the parking lot. Those who hope to see the country from a bus window but who could have done more had they done some exercising beforehand are going to miss out on the best parts. For maximum benefit, travelers must be ready for a lot of walking. 
 
 In Hebrew GRAMMAR Quest, we want to emphasize active, not passive, learning. So we call our learning exercises "ACTIVities." 
 
 The way we think of it, another function of this Guidebook is to be your personal trainer. A trainer shows you how to do your workout safely and effectively. He or she gives you some "practical" pointers and then turns it over to you to do the actual strength and endurance training. In our case, your brain will be doing the lifting instead of your biceps.
 
-* The majority of your learning time will be spent in a free flashcard program called Anki. 
+* You will spend the majority of your learning time in a free flashcard program called Anki. 
     * **Anki** is the equivalent of your gym and cardio equipment for Hebrew Health
     * Just like working out is not easy and you don’t always see quick results, Anki will not always be quick and easy.
     * Just like physical exercise, if you stick with it, you will see the rewards over time
@@ -99,7 +101,7 @@ The way we think of it, another function of this Guidebook is to be your persona
 ### Endurance: Combat "the fog" (aka grammar jet lag) {-}
 
 
-For most of us, Israel is close to halfway around the globe away from home. After such a long flight, we are unlikely to altogether avoid jet lag. We can take steps to minimize the effects and work through it as quickly as possible.
+For most of us, Israel is close to halfway around the globe away from home. After such a long flight, we are unlikely to avoid jet lag entirely. We can take steps to minimize the effects and work through it as quickly as possible.
 
 * Jet lag is similar to a phenomenon we can encounter when studying a new language. Dr. Bill Mounce calls "the fog.'
     * It may take a lesson or two (or longer) for some concepts to make sense and the "fog to lift."
@@ -115,13 +117,13 @@ For most of us, Israel is close to halfway around the globe away from home. Afte
 
 ### Hebrew GRAMMAR Quest is a spiritual journey! {-}
 
-A trip to Israel is not like any other "vacation" - it's a spiritual journey. Unfortunately, all some do is see some cool sites and take some pictures.  This is tragic to go all that way and miss out on a tremendous opportunity to meet Yeshua in His extraordinary Land.
+A trip to Israel is not like any other "vacation" - it's a spiritual journey. Unfortunately, all some do is see some cool sites and take some pictures.  Imagine going all that way only to miss a tremendous opportunity to meet Yeshua in His extraordinary Land.
 
 Similarly, suppose we view learning grammar as strictly an academic effort. We would risk missing insights Yeshua might want to teach us. We have three aspects of being spiritually intentional in Hebrew GRAMMAR Quest: prayer, scripture reading, and encouragement.
 
 ### **Prayer** (Philippians 4:6-7<small>^[<small>Philippians 4:6-7 (NASB) Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. 7 And the peace of God, which surpasses all comprehension will guard your hearts and your minds in Yeshua our Messiah.</small>]</small>) {-}
 
-* We want to begin each Lesson with prayer
+* We want to begin each lesson with prayer
     * Each lesson will start with a suggested prayer topic
     * You can focus on this, or maybe something else that is on your heart
     * Pray and be open to what Yeshua may be teaching you
@@ -150,10 +152,11 @@ Similarly, suppose we view learning grammar as strictly an academic effort. We w
 View each ACTIVity as an act of worship!
 
 
-## What will a typical lesson look like? {-}
+## A typical guidebook lesson {-}
 
 1. **Practical Preparation** - Seven key learning objectives from each Lesson
 2. **Physical Preparation**
+    1. Video Warm-ups (starting with Lesson 3)
     1. Anki Aerobics
     2. Worksheets (selected lessons only)
     3. Quest Quiz 

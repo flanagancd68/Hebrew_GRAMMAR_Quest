@@ -1,5 +1,7 @@
 # (PART) Hebrew Grammar Foundations {-}
 
+<!-- Grammarly check: 10/24/20 204 lines -->
+
 # The Hebrew Aleph-bet {#alephbet}
 
 > Knowledge of the Hebrew alphabet opens the door of understanding . . . Pastor Roger Valci<small>^[<small>Valci, Roger. “The Hebrew Acrostic,” in <u>Basics of Biblical Hebrew: Grammar</u>, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007.</small>]</small>
@@ -87,7 +89,7 @@ include_graphics("images/kimnepatz.png")
     * Those letters are in red text above
 * The names of these letters is quite simple
     * Take the letter Kaf כּ, which is the first letter in the Aleph-bet with a sofit form
-    * The final form is simply named Kaf Sofit ך. Same for Mem מ and Mem sofit ם and so on<small>^[<small>"Final Kaf," "Final Mem," etc., are also terms you may hear.</small>]</small>
+    * The final form is named Kaf Sofit ך. Same for Mem מ and Mem sofit ם and so on<small>^[<small>"Final Kaf," "Final Mem," etc., are also terms you may hear.</small>]</small>
 * The five letters that have these forms are the letters, Kaf, Mem, Nun, Pei, and Tsaddi: ך ם ן ף ץ
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 * The KiMNePaTZ sofit forms can look like other letters - your Anki work will give you practice with identifying look-alike letters
@@ -121,20 +123,20 @@ include_graphics("images/buckup.png")
 We’ll dig deeper into the Daghesh Lene and its twin, the Daghesh Forte, over the next few lessons.
 
 
-## Four letters are classified as guttural consonants (and one is a sometimes-guttural) {#one_5}
+## We classify four letters as **Guttural Consonants** (and one is a sometimes-guttural) {#one_5}
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/gutturals.png")
 ```
 
-### Knowing the gutturals and how they behave will turn out to be one of the most critical facets of Hebrew grammar {-}
+### Knowing the Gutturals and how they behave will turn out to be one of the most critical facets of Hebrew grammar {-}
 
 * There are four proper gutturals: Aleph, Hei, Chet, and Ayin (in red above)
- * The letter Resh ר (in orange above) is not formally a guttural; but since it can’t decide whether to behave or not, it is often grouped in as a guttural
+ * The letter Resh ר (in orange above) is not formally a Guttural; but since it can’t decide whether to behave or not, sometimes we include Resh with the other Gutturalsl
 * We like to say that the gutturals will be our ‘problem children’ because they tend not to play nice with the other Hebrew rules 
     * The good news is this bad-boy behavior of the gutturals and Resh is entirely predictable
     * We will learn this over the next few lessons (and indeed, the rest of the course) 
-* For now, just memorize the four guttural consonants in red and Resh, the sometimes-guttural-like letter in orange.
+* For now, memorize the four guttural consonants in red and Resh, the sometimes-guttural-like letter in orange.
 
 
 ## Look out for look-alike Letters {#one_6}
@@ -160,7 +162,7 @@ include_graphics("images/vav.png")
 
 * There are some notable differences between what we might call academic or "seminary" Hebrew and "real-world" Hebrew.
     * Real-world Hebrew is based on Sephardic pronunciation<small>^[<small>"Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.</small>]</small>
-* We've already talked about how only three of the Daghesh Lene letters need to "buck up"<small>^[<small>With "Seminary Hebrew," the ג without the Daghesh Lene receives something like the gh in "aGHast." The ד and ת without the Daghesh Lene are closer to the English th like "this." </small>]</small>
+* We've already talked about how only three of the Daghesh Lene letters need to "buck up"<small>^[<small>With "Seminary Hebrew," the ג without the Daghesh Lene receives something like the GH in "aGHast." The ד and ת without the Daghesh Lene are closer to the English TH like "this." </small>]</small>
 * Another difference between Sephardic and Seminary pronunciation is how to pronounce ו 
     * In academia, the consonant receives the "w" sound and is called "Waw." 
     * In most non-academic circles, it receives the "v" sound and is pronounced "vav."
@@ -170,7 +172,7 @@ include_graphics("images/vav.png")
 ```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/wayyiqtol.png")
 ```
-* This course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew," you would see the name "Y--w-h" frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
+* This Guidebook and course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew," you would see the name "Y--w-h" frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
 
 
 ## ACTIVity: Letter Writing {-}
@@ -183,13 +185,6 @@ include_graphics("images/wayyiqtol.png")
     * Grammar - Identify look-alike Hebrew letters
     * Verses - we won't be working on any verses just yet, but we will learn some grammar shorthand that we will use when we get to the study verses
 
-
-
-
-### Spiritual
-
-* Anki Aerobics
-    * Study-Verses - there is no translation yet, 
 
 ## ACTIVity: Ruth Pursuit #1
 [Ruth Pursuit](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>

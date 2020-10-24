@@ -1,5 +1,7 @@
 # Hebrew Vowels {.vowels}
 
+<!-- Grammarly check: 10/24/2020 213 lines -->
+
 >And what is required first of all for training men for such a ministry is that the book should be given them in its very words [Hebrew, Aramaic, and Greek] as it has come from God's hand and in the fullness of its meaning, as that meaning has been ascertained by the labors of generations of men of God who have brought to bear upon it all the resources of sanctified scholarship and consecrated thought.”
 ---B. B. Warfield<small>^[<small>Warfield, Benjamin Breckenridge. “The Languages of Pastoral Ministry,” in <u>Basics of Biblical Hebrew: Grammar</u>, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007
 B.B. Warfield was a Presbyterian minister and professor of theology at Princeton Seminary from 1887 to 1921. ([wikipedia link](https://en.wikipedia.org/wiki/B._B._Warfield))</small>]</small>
@@ -10,7 +12,7 @@ B.B. Warfield was a Presbyterian minister and professor of theology at Princeton
 library(knitr)
 include_graphics("images/02.Gen0109.png")
 ```
-<small>^[<small>As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, vowel notation was developed by the Masorites. These are the symbols in red.  These are usually under, but sometimes in the middle of or over the affected consonant. This vowel system intends to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which are used for chanting the verses.  These marks also show where the word's accent is.  
+<small>^[<small>As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, a group known as the Masorites developed the vowel notation we use today. These are the symbols in red.  These are usually under, but sometimes in the middle of or over the affected consonant. This vowel system intends to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which synagogues use for chanting the verses.  These marks also show where the word's accent is.  
   Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. </small>]</small>
 
 ## Seven Practical Points for Lesson 2 {-}
@@ -132,9 +134,9 @@ include_graphics("images/02.Hashamayim.png")
  
 * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Daghesh Lene, but it is a Daghesh **Forte**
 * The letter with the Daghesh Forte both ends one syllable and begins the next syllable
-    * If we were to syllabify הַשָּׁמַיִם, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  הַשָּׁמַיִם means "the heavens."  Going forward, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
+    * If we were to syllabify הַשָּׁמַיִם, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  הַשָּׁמַיִם means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
 * A similar word in English might be better = bet | ter
-    * If we were to hypothetically transliterate into Hebrew,  it might look like: בּטֶּר*<small>^[<small>The * means this is not a real Hebrew word but is only given for illustration.</small>]</small>
+    * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*<small>^[<small>The * means this is not a real Hebrew word, but we show it in this form for illustration.</small>]</small>
 * Notice the syllable breaks in these words that have a Daghesh Forte:
 ```{r, out.width = "200pt", fig.align='center'}
 
@@ -179,12 +181,11 @@ knitr::include_graphics("images/02.reject.gif")
 * Complete Anki Aerobics for Lesson 2
 * Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/view?usp=sharing){target="_blank"} See note<small>^[<small>ignore the "transliteration" column.  An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory.</small>]</small>
 
-
 ## Ruth Pursuit {-}
 
 [(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"} 
 
-1. Identify the four UNCHANGEABLE LONG vowels that use YOD in Verse 1 (blue)<small>^[<small>In most word processors, you won't be able to isolate the vowel to highlight. Just get as close as you can.</small>]</small>|
+1. Identify the four UNCHANGEABLE LONG vowels that use YOD in Verse 1 (blue)<small>^[<small>In most word processors, you won't be able to isolate the vowel to highlight. Get as close as you can.</small>]</small>|
 2. Identify the two UNCHANGEABLE LONG vowels that use VAV in Verse 1 (Green)
 3. Identify QAMETS HEI in Verse 1.  There is a TSERE Hei between Verses 5-10.  Can you find it?<small>^[<small>The other vowels that use hei are less common, but we will see them when we discuss verbs.</small>]</small> (Purple)
 4. Identify the three LONG vowels in Verse 1 (that are not part of a vowel letter) (pink)|
