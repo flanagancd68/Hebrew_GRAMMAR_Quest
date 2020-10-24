@@ -256,7 +256,7 @@ Some of you may try to read this lesson then do the Anki work (perhaps repeated 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
 
-## ACTIVity: Anki Lesson 3
+## ACTIVity: Anki Lesson 3 {-}
 
 * Vocab - First Lesson with `Basics of Biblical Hebrew` vocabulary list
 * Grammar

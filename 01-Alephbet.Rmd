@@ -186,7 +186,8 @@ include_graphics("images/wayyiqtol.png")
     * Verses - we won't be working on any verses just yet, but we will learn some grammar shorthand that we will use when we get to the study verses
 
 
-## ACTIVity: Ruth Pursuit #1
+## ACTIVity: Ruth Pursuit #1 {-}
+
 [Ruth Pursuit](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>
 1. Identify the four guttural letters (pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
 2. Identify the one half-guttural (red)
