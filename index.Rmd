@@ -35,20 +35,17 @@ include_graphics("images/HGQ_book_cover.png")
 ```
 
 
-# This is a Preview/Demo Version of Hebrew GRAMMAR Quest {-}
+# This is a Preview Version of Hebrew GRAMMAR Quest {-}
 
-In addition to the introduction, which describes the philosophy and structure of the course, we will cover the first three lessons:
-
-1. The Hebrew Aleph-Bet
-2. The Hebrew Vowels
-3. Hebrew Syllabification and Pronunciation
-
+The full version will have 35 lessons.  We are offering the first three lessons as a preview.
 
 We have two goals for this version:
 
-1. Create a "proof of concept" version for our Holy Language ministry volunteers.  We want to gather feedback on content and overall direction before compiling all 35 lessons.
+1. Gather feedback on content and overall direction from Holy Language Volunteers before compiling all 35 lessons.
 2. Eventually, these three lessons will comprise a demo/trial version of Hebrew GRAMMAR Quest made available to the general public. 
 
-The anticipated full course availability date, with all thirty-five lessons is June 2021.
+The anticipated course availability date, with all thirty-five lessons is June 2021.
 
-Thank you in advance for your review.  After Lesson 3, there will be a brief [survey](https://forms.gle/GZac85rd4FHQt8KeA){target="_blank"} to get your feedback.  Also please do not hesitate to email errors, omissions, comments, or suggestions to holylanguagecourses@gmail.com (in fact we'd rather hear about mistakes sooner rather than later!)
+Thank you in advance for your review.  After Lesson 3, there will be a brief [survey](https://forms.gle/GZac85rd4FHQt8KeA){target="_blank"} to get your feedback.  
+
+Also please do not hesitate to email errors, omissions, comments, or suggestions to holylanguagecourses@gmail.com (in fact we'd rather hear about mistakes sooner rather than later!)
