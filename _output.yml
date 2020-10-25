@@ -34,7 +34,7 @@ bookdown::gitbook:
 #   citation_package: natbib
 #   keep_tex: yes
 # bookdown::epub_book: default
-bookdown::word_document2:
-    toc: true
-    toc_depth: 1
-    reference_docx: images/hgq_template.docm
+# bookdown::word_document2:
+#     toc: true
+#     toc_depth: 1
+#     reference_docx: images/hgq_template.docm

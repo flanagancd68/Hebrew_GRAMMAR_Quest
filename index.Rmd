@@ -1,6 +1,6 @@
 --- 
-title: "Hebrew GRAMMAR Quest"
-date: "`r Sys.Date()`"
+#title: "Hebrew GRAMMAR Quest"
+#date: "`r Sys.Date()`"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,10 +28,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #  {-}
 
-```{r, out.width = "500pt", fig.align='center'}
+```{r, out.width = "700pt", fig.align='center'}
 include_graphics("images/HGQ_book_cover.png")
 ```
 
+<small>_Updated_: `r Sys.Date()`</small>
 
 # Preface {- #preface}
 
