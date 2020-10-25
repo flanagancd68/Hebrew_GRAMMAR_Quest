@@ -1,6 +1,5 @@
-# Introduction: Our learning philosophy {- #preface}
+# Introduction {- #introduction}
 
-<!-- GRAMMARLY Check: 10/24/2020 172 lines -->
 
 ```{r, out.width = "300pt", fig.align='center'}
 include_graphics("images/torah_scroll.jpg")
@@ -10,14 +9,14 @@ Many Hebrew grammar courses and books treat learning God's Holy Language as if i
 
 At Holy Language, we believe that we learn best by doing. If you watched the original Hebrew Quest, you might remember Izzy Avraham, our founder, talking about feeding someone a fish, versus showing someone how to fish<small>^[<small>Refer to Hebrew Quest, Lesson 1.</small>]</small>.  While other approaches may "feed" you Hebrew, learning  Hebrew grammar, the Holy Language Way, means we're going to show you how to teach yourself Hebrew and actively (dare we say "passionately") ***engage*** with the Scriptures.
 
-So what you're reading right now is not just a textbook.  It is an interactive guidebook to your PERSONAL Hebrew _Grammar_ Quest!
+So what you're reading right now is not just a textbook.  It is an interactive guidebook to your PERSONAL Hebrew _Grammar_ <u>Quest</u>!
 
 
 ## Relationship to Hebrew Quest {-}
 
 If you are familiar with our ministry, you likely know about our flagship course ***Hebrew Quest***.  You may be wondering how Hebrew Quest and Hebrew GRAMMAR Quest work together.
 
-We have [FAQs](#faq) in the appendix where we can have a longer discussion, but in a nutshell, here is how we would characterize the two courses:
+We have [FAQs](#faq) in the appendix where we have a broader discussion, but in a nutshell, here is how we would characterize the two courses:
 
 **Hebrew Quest** took you directly *to* the Hebrew Scriptures. It brought you in touch with the Hebraic side of the Bible that, perhaps, you had never experienced before.  Maybe even now, you are building a closer friendship with what you now know as the "Tanach" or the "Hebrew Scriptures."
 
@@ -32,79 +31,84 @@ As we were thinking about how to design the book, we were struck by the similari
 
 According to Dr. Wayne Stiles, to get the most out of a tour to Israel, one must actively undergo three stages of preparation<small>^[<small>Stiles, Wayne. “How to Prepare for a Holy Land Tour.” Wayne Stiles. February 20, 2013. https://waynestiles.com/how-to-prepare-for-a-holy-land-tour/. Accessed September 28, 2020.</small>]</small>:
 
-1. Practical Preparation - getting a geographical lay of the land
+1. Practical Preparation - getting a "lay of the land"
 2. Physical Preparation - getting in shape to do a lot of walking and combating jet lag
 3. Spiritual Preparation - preparing to meet Yeshua in a life-changing way
 
 ### We believe these exact principles apply when learning Hebrew the Holy Language way! {-}
 
 
-## 1. Practical Preparation - getting a grammatical lay of the land {-}
-* This guidebook<small>^[<small>We view our role as your Hebrew grammar tourguide.  This is why why we are calling this a "guidebook" instead of a "textbook"!</small>]</small> has 35 lessons, each with "Seven Practical Points."  
-* This is not meant to be an exhaustive discussion of the topic but an overview to get your journey started in the right direction.
+## 1. Practical Preparation - getting a grammatical lay of the land {- .unlisted}
+
+* In Israel, things like electrical outlets and certain customs are different. In the same way, Hebrew has characteristics and "customs" that are very different from English.
+* This guidebook<small>^[<small>We are your Hebrew grammar tour guide.  This is why why we are calling this a "guidebook" instead of a "textbook"!</small>]</small> has 35 lessons, each with a set of learning objectives we call "Seven Practical Points."<small>^[<small>The lesson format generally follows that of <u>Basics of Biblical Hebrew</u> by Dr. Gary Pratico and Dr. Myles Van Pelt.  We make extensive use of derivative works by Dr. John Beckman, whose material accombanying <u>Basics of Biblical Hebrew</u> is freely available under the Creative Commons (CC-BY-SA) license.</small>]</small>   
+* This is not meant to be an exhaustive discussion of the topic, but an overview to get your journey started in the right direction.
 
 But don't feel that we've let you fend for yourself like a tourist in a Jerusalem traffic jam!  We have a workout plan to get you into Hebrew Health, and we have established checks to make sure you have all the right equipment in your pack before you continue in your quest.
 
-## 2a. Physical Preparation - getting into Hebrew Health  {-}
+## 2a. Physical Preparation - getting Hebrew Healthy  {- .unlisted}
 
-* We're not going to go to a physical gym but there is a powerful piece of equipment that will build your Hebrew strength and endurance called **Anki**.  
+* In Israel you do a lot of walking so you need to be in physical shape.  Hebrew similarly has a lot of grammatical hills to climb, so we need to get Hebrew Healthy.
+* To get in Hebrew shape, we're not going to go to a physical gym, but there is a powerful piece of equipment that will build your Hebrew strength and endurance.  It's called **Anki**.  
     * The majority of your work in this course will be doing what we call **Anki Aerobics**
     * There is an entire section in the Appendices devoted to [Anki](#anki).  It will show you how to get the program set up and how to get our custom **Hebrew GRAMMAR Quest** deck loaded. (***YOU MIGHT WANT TO DO THIS NOW***)
     * There will be three phases of Anki Aerobics with each Lesson: Vocabulary, Grammar concepts, and Study verse translation
 
-## 2b. Physical Preparation - combating "the fog" {-}
-* "The Fog" is grammar's version of jet lag
+## 2b. Physical Preparation - combating "the fog" {- .unlisted}
+
+* One can't fly halfway around the world and not experience jet lag. "The Fog"<small>^[<small>"The Fog" is a term coined by Dr. Bill Mounce, author of <u>Basics of Biblical Greek</u>.</small>]</small>  is grammar's version of jet lag.
     * Often, concepts you learn may not make sense until a lesson or two later.  This is natural and we just need to go with it. We can't avoid it completely, but we can control it.
     * Anki's automatic review process<small>^[<small>By this we mean the *scheduling* and *queuing* of items to review is automatic.  You still need to do the work!</small>]</small> will be a huge help in working through The Fog
-    * Each lesson will have a **Quest Quiz** for you to assess your progress. No grades are ever recorded in the course, but if you do get a lower score on a Quest Quiz, that could be an indication you aren't quite ready to move on.
-    * Most lessons will have an **Equipment Check** - We just want to make sure you have the right supplies<small>^[<small>i.e. grammar concepts from the previous chapter.</small>]</small> in your backpack before you journey forward.
+    * Each lesson will have a __Quest Quiz__ for you to assess your progress. No grades are ever recorded in the course, but if you do get a lower score on a Quest Quiz, that could be an indication you aren't quite ready to move on.
+    * Most lessons will have an **Equipment Check** - We want to make sure you have the right supplies (i.e. grammar concepts from the previous chapter) in your backpack before you journey forward.
 
-## 3. Spiritual Preparation - preparing to meet Yeshua in a life-changing way {-}
+## 3. Spiritual Preparation - preparing to meet Yeshua in a life-changing way {- .unlisted}
 
-### Hebrew GRAMMAR Quest is a spiritual journey! {-}
+### Hebrew GRAMMAR Quest is a spiritual journey! {- .unlisted}
 
 A trip to Israel is not like any other "vacation" - it's a spiritual journey. Unfortunately, all some do is see some cool sites and take some pictures.  Imagine going all that way only to miss a tremendous opportunity to meet Yeshua in His extraordinary Land.
 
-Similarly, suppose we view learning grammar as strictly an academic effort. We would risk missing insights Yeshua might want to teach us. We have three aspects of being spiritually intentional in Hebrew GRAMMAR Quest: prayer, scripture reading, and encouragement.
+Similarly, suppose we view learning grammar as strictly an academic effort. We would risk missing insights Yeshua might want to teach us. 
 
-Since this is the most important aspect of the course, we're going to take each of these sections individually.
+We have three aspects of being spiritually intentional in Hebrew GRAMMAR Quest: prayer, scripture reading, and encouragement. Since this is the most important part of the course, we're going to take each of these aspects as individual sections.
 
-## 3a. Spiritual Preparation: **Prayer** (Philippians 4:6-7<small>^[<small>Philippians 4:6-7 (NASB) Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. 7 And the peace of God, which surpasses all comprehension will guard your hearts and your minds in Yeshua our Messiah.</small>]</small>) {-}
+## 3a. Spiritual Preparation: **Prayer** (Philippians 4:6-7<small>^[<small>Philippians 4:6-7 (NASB) Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. 7 And the peace of God, which surpasses all comprehension will guard your hearts and your minds in Yeshua our Messiah.</small>]</small>) {- .unlisted}
 
 * We want to begin each lesson with prayer
     * Each lesson will start with a suggested prayer topic
     * You can focus on this, or maybe something else that is on your heart
     * Pray and be open to what Yeshua may be teaching you
     
-## 3b. Spiritual Preparation: **Scripture** (2 Timothy 3:16-17<small>^[<small>2 Timothy 3:16-17 (NASB) All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; 17 so that the man of God may be adequate, equipped for every good work.</small>]</small>) {-}
+## 3b. Spiritual Preparation: **Scripture** (2 Timothy 3:16-17<small>^[<small>2 Timothy 3:16-17 (NASB) All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; 17 so that the man of God may be adequate, equipped for every good work.</small>]</small>) {- .unlisted}
 
+* In a "Biblical Hebrew" class, there should be a lot of "Bible"!  We have "Ruth Pursuits" and Anki Study verses that will accompany each lesson.
 * _Ruth Pursuits_ - learning grammar concepts while learning Ruth 1, the beautiful passage of Scripture where a gentile bride commits herself to serve the God of Israel
 * _Anki Study Verses_ 
     * You will read and begin to translate passages in Anki
     * You'll also listen to the audio by Izzy to begin to hear the sound of the language
     * There are over 400 study verses!
 
-## 3c. Spiritual Preparation: **Encouragement** (1 Thessalonians 5:11<small>^[<small>1 Thessalonians 5:11 (NASB) Therefore, encourage one another and build up one another, just as you also are doing.</small>]</small>) {-}
+## 3c. Spiritual Preparation: **Encouragement** (1 Thessalonians 5:11<small>^[<small>1 Thessalonians 5:11 (NASB) Therefore, encourage one another and build up one another, just as you also are doing.</small>]</small>) {.unnumbered .unlisted}
 
-* Hebrew GRAMMAR Quest is not a quick sprint - as we've been saying, it's a long journey for which you will need intense training - it will be critical to stay encouraged to finish the quest!
-    * _Twelve Tribes Badges_<small>^[<small>Only one badge is available in the preview version of the course.</small>]</small>
+* Hebrew GRAMMAR Quest is not a quick sprint.  It's a long journey for which you will need intense training. It will be critical to stay encouraged to finish the quest!
+* _Twelve Tribes Badges_<small>^[<small>Only one badge is available in the preview version of the course.</small>]</small>
     * Each of the Twelve Tribes has an emblem or symbol that has traditionally be associated with that tribe
     * Taken in total, all Twelve Tribes can teach us different aspects of our relationships with God and our neighbors
     * After two or three lessons, you will have the ability to "unlock" a new badge and learn more about what that tribe represents for us
     * We will ask you to confirm that you have completed all listed ACTIVities up to that point. Once you do this, you will receive your badge!
-    * _Graduation Process_<small>^[<small>Not available in the preview version of the course.</small>]</small>
+* _Graduation Process_<small>^[<small>Not available in the preview version of the course.</small>]</small>
         * For Hebrew GRAMMAR Quest, there will be a Graduation Process, similar to what we have for [Hebrew Quest](https://holylanguage.com/graduate.html){target="_blank"}
         * At the end of each unit, you will be eligible for a certificate of completion
         * When you finish the entire course, we'll send you a printable diploma and your choice of a clay lamp or Hebrew letters mug<small>^[<small>Why not complete both Hebrew Quest and Hebrew GRAMMAR Quest so you can earn the lamp **AND** the mug!</small>]</small>
 
 ## ACTIVities {-}
 
-So you can see this course is going to be jam-packed full of things to do.  In keeping with our philosophy that active learning is better than passive learning, collectively we call Anki, Ruth Pursuits, Quizzes and anything else like that `ACTIVities`.
+So you can see, this course is going to be jam-packed with things to do.  In keeping with our philosophy that active learning is better than passive learning, collectively we call Anki, Ruth Pursuits, Quizzes and anything else like that `ACTIVities`.
 
 When you see an ACTIVity, just remember that it's all part of us showing you how to fish instead of just telling you about fishing!
 
 
-## A typical lesson's ACTIVities {-}
+### A typical lesson's ACTIVities {-}
 
 1. **Practical Preparation** - Seven key learning objectives from each Lesson
 2. **Physical Preparation**
@@ -119,8 +123,8 @@ When you see an ACTIVity, just remember that it's all part of us showing you how
     4. Badges and Graduation after selected lessons as encouragement
 
 
-## Let’s get started! {-}
+## ACTIVities Checklist {-}
 
 Here is a link to a [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}. Save a copy to your personal computer or cloud drive and keep track of your progress!
 
-
+### Let's get started! {-}

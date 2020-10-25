@@ -1,7 +1,5 @@
 --- 
 title: "Hebrew GRAMMAR Quest"
-subtitle: "Your guide to Biblical Hebrew grammar, the Holy Language Way"
-author: "Chris Flanagan"
 date: "`r Sys.Date()`"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
@@ -35,17 +33,13 @@ include_graphics("images/HGQ_book_cover.png")
 ```
 
 
-# This is a Preview Version of Hebrew GRAMMAR Quest {-}
+# Preface {- #preface}
 
-The full version will have 35 lessons.  We are offering the first three lessons as a preview.
+Welcome to the preview version of Hebrew GRAMMAR Quest.  Here, we are offering the first three lessons. The complete version, expected in late Spring 2021, will have thirty-five lessons.
 
-We have two goals for this version:
+We have two purposes for this preview:
 
-1. Gather feedback on content and overall direction from Holy Language Volunteers before compiling all 35 lessons.
+1. Gather feedback on content and overall direction from Holy Language Volunteers before compiling all thirty-five lessons.
 2. Eventually, these three lessons will comprise a demo/trial version of Hebrew GRAMMAR Quest made available to the general public. 
 
-The anticipated course availability date, with all thirty-five lessons is June 2021.
-
-Thank you in advance for your review.  After Lesson 3, there will be a brief [survey](https://forms.gle/GZac85rd4FHQt8KeA){target="_blank"} to get your feedback.  
-
-Also please do not hesitate to email errors, omissions, comments, or suggestions to holylanguagecourses@gmail.com (in fact we'd rather hear about mistakes sooner rather than later!)
+Please do not hesitate to email errors, omissions, comments, or suggestions to holylanguagecourses@gmail.com (in fact we'd rather hear about mistakes sooner rather than later!)
