@@ -263,13 +263,6 @@ Some of you may try to read this lesson then do the Anki work (perhaps repeated 
   * The translation may be difficult at first, and it may take you several attempts before you can select `Good` without using the `Hints`.
   * Be patient and stick with it - you'll get it!
   
-Use your laptop or mobile device or the web version below
-``` {r}
-knitr::include_url('https://ankiweb.net/decks/', height = '800px')
-```
-
-<iframe src="https://ankiweb.net/decks/" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
-
 ## `Ruth Pursuit` {-}        
 
 ### Your Quest: {-}
@@ -289,12 +282,4 @@ knitr::include_url('https://ankiweb.net/decks/', height = '800px')
 [Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
-
-## `Quest Quiz` {-}
-
-``` {r}
-knitr::include_url('https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform', height = '800px')
-```
-
-[Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 
