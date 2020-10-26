@@ -17,7 +17,7 @@ If one wants to build strength, she might use the weight machine.  If one wants 
 
 ## Anki is Gym Equipment for your Brain {-}
 
-```{r, out.width = "150pt", fig.align='center', fig.cap="Anki Home Screen"}
+```{r, out.width = "350pt", fig.align='center', fig.cap="Anki Home Screen"}
 
 include_graphics("images/Anki_home_screen.png")
 ```
@@ -53,13 +53,31 @@ While eventually, you can do all work from a mobile device, you do need to do th
 ### Below is the main set you will want to change.  Enter these numbers carefully: {-}
 
 1. Back on the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select “Options”
-    1. Change settings on each tab to match this picture
+    1. `New Cards`
+        * `New cards/day` = 200
+        * `Graduating interval` = 15
+        * `Easy interval` = 60
+        * `Starting ease` = 250%
+        * `Bury related new cards...` = CHECKED
+    2. `Reviews`
+        * `Maximum reviews/day` = 9999
+        * `Easy bonus` = 130%
+        * `Interval modifier` = 100
+        * `Maximum interval` = 210
+        * `Bury related reviews...` = CHECKED    
+    3. `Lapses`
+        * `Steps` = 10
+        * `New interval` = 1
+        * `Leech threshold` = 8
+        * `Leech action` = TAG ONLY
+
+Your settings should look like this:
 ```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
 
-knitr::include_graphics("images/a.Anki_custom.png")
+knitr::include_graphics("images/anki_custom_new.png")
 ```
 
-## How do I access the Anki Hebrew GRAMMAR Questdeck? {-}
+## How do I access the Anki Hebrew GRAMMAR Quest deck? {-}
 
 ### [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"} {-}
 
