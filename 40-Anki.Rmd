@@ -83,6 +83,21 @@ knitr::include_graphics("images/anki_custom_new.png")
 
 * The full program including all 35 Lessons in this book and the complete Anki package will be are available to subscribers of Holy Language Institute in 2021
 
+## How do I access Anki on my mobile device?
+
+After you have installed Anki, loaded a deck and then synched to your Ankiweb account, theorhetically, you do not ever need to access the non-mobile version again.
+
+There are versions of the mobile app in the Google or Apple store.  As we mentioned above, the apple version is a one-time cost of $25 (worth the cost in our opinion). Once you download the app, you can login with your same Ankiweb account and, if you synched from the desktop version of the software, you should see the Hebrew GRAMMAR Quest deck appear.
+
+You can also access a [web-based version of Anki (login with your Ankiweb credentials)](https://ankiweb.net/decks/).  Functionality is a bit more limited, but it is generally sufficient.  
+
+One note: if you plan to go back and forth between a computer and a mobile device, make sure you sync after each session.
+
+```{r, fig.show="hold", out.width = "250pt", fig.align='center', fig.cap="Anki web and mobile views"}
+include_graphics("images/anki_web-based.png")
+include_graphics("images/anki_mobile_decks.PNG")
+include_graphics("images/anki_mobile_card.PNG")
+```
 ## Navigating within Anki {-}
 
 * Click the +/- buttons to expand/collapse the folders within the Anki deck

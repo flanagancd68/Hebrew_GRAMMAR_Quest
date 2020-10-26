@@ -9,6 +9,7 @@ fig:unnamed-chunk-47
 fig:unnamed-chunk-48
 fig:unnamed-chunk-49
 fig:unnamed-chunk-50
+fig:unnamed-chunk-51
 alephbet
 consonants
 right_to_left
@@ -33,3 +34,4 @@ v_sheva
 diphthong
 vowel_pref
 misc_vowels
+how-do-i-access-anki-on-my-mobile-device

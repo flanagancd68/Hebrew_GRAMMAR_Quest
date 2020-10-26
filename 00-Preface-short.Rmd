@@ -1,4 +1,4 @@
-# Introduction {- #introduction}
+# Course Introduction {- #introduction}
 
 
 ```{r, out.width = "300pt", fig.align='center'}
@@ -25,7 +25,7 @@ According to Dr. Wayne Stiles, to get the most out of a tour to Israel, one must
 ### We believe these exact principles apply when learning Hebrew the Holy Language way! {-}
 
 
-## 1. Practical Preparation - `Seven Practical Points` {-}
+## 1. Practical Preparation - Seven Practical Points {-}
 
 ### Getting a grammatical lay of the land {- .unlisted}
 
@@ -43,7 +43,7 @@ But don't feel that we've let you fend for yourself like a tourist in a Jerusale
 * To get in Hebrew shape, we're not going to go to a physical gym, but there is a powerful piece of equipment that will build your Hebrew strength and endurance.  It's called Anki.  
     * The majority of your work in this course will be doing what we call `Anki Aerobics`
     * There is an entire section in the Appendices devoted to [Anki](#anki_faq).  It will show you how to get the program set up and how to get our custom **Hebrew GRAMMAR Quest** deck loaded. (***YOU MIGHT WANT TO DO THIS NOW***)
-    * There will be three phases of Anki Aerobics with each Lesson: `Vocabulary`, `Grammar` concepts from the Lesson (expanding on the `Seven Practical Points`), and `Verses` (Bible verse translation)
+    * There will be three phases of Anki Aerobics with each Lesson: `Vocabulary`, `Grammar` concepts from the Lesson (expanding on the Seven Practical Points), and `Verses` (Bible verse translation)
 
 ## 2b. Physical Preparation - `Quest Quiz` / `Equipment Check` {-}
 
@@ -81,20 +81,28 @@ Since this is the most important part of the course, we're going to take each of
     * You can focus on this, or maybe something else that is on your heart
     * Pray and be open to what Yeshua may be teaching you
     
-## 3b. **Scripture**: `Verses Warm-up Video` / Anki Study `Verses` / `Ruth Pursuits` {- .unlisted}
+## 3b. **Scripture**: `Verses Warm-up Video` /  `Study Verses` / `Ruth Pursuits` {- .unlisted}
 
 > 2 Timothy 3:16-17 (NASB) All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; 17 so that the man of God may be adequate, equipped for every good work.
 
-* In a "Biblical Hebrew" class, there should be a lot of "Bible"!  We have `Ruth Pursuits` and Anki Study `Verses` that will accompany each lesson.
-* `Ruth Pursuits` - learning grammar concepts while learning Ruth 1, the beautiful passage of Scripture where a gentile bride commits herself to serve the God of Israel.
+* In a "Biblical Hebrew" class, it goes to follow that there should be a lot of "Bible"!  
+
+We have `Ruth Pursuits` "scavenger hunts" and `Study Verses` in Anki that will accompany each lesson.  Eventually, we will link up with Hebrew Quest and have a look at the [`Study Passages`](https://holylanguage.com/ot-readings.html)
+
+* `Ruth Pursuits` - 
+    * We will grammar concepts while learning to read Ruth 1, the beautiful passage of Scripture where a gentile bride commits herself to serve the God of Israel.
     * If you recall the "bag the letter" activities from the initial Hebrew Quest lessons, the `Ruth Pursuits` are similar.
     * We will give you some things to find (like a scavenger hunt) and then we send you off into the grammar wilderness for you to find them in the Hebrew of Ruth Chapter 1.
-* Anki Study `Verses` 
-    * You will read and begin to translate passages in Anki
+* `Study Verses` 
+    * You will read and begin to translate passages of Scripture in Anki
     * Similar to the `Vocab Warm-up Video`, we have the `Verses Warm-up Video`. You'll also listen to the audio by Izzy to begin to hear the sound of the language
     * There are over 400 study verses across all 35 lessons!
+* `Study Passages`
+    * Starting with Lesson 18, we will add an additional ACTIVity to read one of the `Study Passages` from **Hebrew Quest**<small>^[<small>If you're wondering about ACTIVity workload, starting with the second half of the course, the `Ruth Pursuits` will gradually give way to the Hebrew Quest `Study Passages`. The second half of the course is all about the derived verb stems.  Ruth 1 has comparatively few of these to be found.</small>]</small>.
+    * You will read it initially on your own and highlight anything you don't know
+    * Then you will watch the video with Izzy's guided reading and commentary
 
-## 3c. **Encouragement**: `Twelve Tribes Badges` and `Graduation Process` {.unnumbered .unlisted}
+## 3c. **Encouragement**: `Twelve Tribes Badges` and `Graduation` {.unnumbered .unlisted}
 
 > 1 Thessalonians 5:11 (NASB) Therefore, encourage one another and build up one another, just as you also are doing.
 
@@ -104,21 +112,21 @@ Since this is the most important part of the course, we're going to take each of
     * Taken in total, all Twelve Tribes can teach us different aspects of our relationships with God and our neighbors
     * After two or three lessons, you will have the ability to "unlock" a new badge and learn more about what that tribe represents for us
     * We will ask you to confirm that you have completed all listed ACTIVities up to that point. Once you do this, you will receive your badge!
-* `Graduation Process`<small>^[<small>Not available in the preview version of the course.</small>]</small>
-        * For Hebrew GRAMMAR Quest, there will be a `Graduation Process`, similar to what we have for [Hebrew Quest](https://holylanguage.com/graduate.html){target="_blank"}
+* `Graduation`<small>^[<small>Not available in the preview version of the course.</small>]</small>
+        * For Hebrew GRAMMAR Quest, there will be a `Graduation ` process, similar to what we have for [Hebrew Quest](https://holylanguage.com/graduate.html){target="_blank"}
         * At the end of each unit, you will be eligible for a `Certificate`
         * When you finish the entire course, we'll send you a printable `Diploma` and your choice of a clay lamp or Hebrew letters mug<small>^[<small>Why not complete both Hebrew Quest and Hebrew GRAMMAR Quest so you can earn the lamp **AND** the mug!</small>]</small>
 
 ## ACTIVities {-}
 
-So you can see this course is going to be jam-packed with things to do.  In keeping with our philosophy that active learning is better than passive learning, we refer to our activities as as `ACTIVities`.  You'll recognize an ACTIVity by `this special font`.
+So you can see this course is going to be jam-packed with things to do.  In keeping with our philosophy that active learning is better than passive learning, we refer to our activities as as `ACTIVities`.  You'll recognize an ACTIVity in this book by `this special font`.
 
 When you see an ACTIVity, just remember that it's all part of us showing you how to fish instead of just telling you about fishing!
 
 
 ### A typical lesson's ACTIVities {-}
 
-1. **Practical Preparation** - `Seven Practical Points`, the key learning objectives from each Lesson
+1. **Practical Preparation** - Seven Practical Points, the key learning objectives from each Lesson
 2. **Physical Preparation**
     1. `Video Warm-ups` (starting with Lesson 3)
     1. `Anki Aerobics`
@@ -127,13 +135,14 @@ When you see an ACTIVity, just remember that it's all part of us showing you how
 3. **Spiritual Preparation** 
     1. `Lesson Prayer` before each Lesson
     1. `Ruth Pursuit`
-    2. Anki Study `Verses`
-    4. `Twelve Tribes Badges` and `Graduation Process` after selected lessons as encouragement
+    2. `Study Verses`
+    3. `Study Passages` (starting with Lesson 18)
+    4. `Twelve Tribes Badges` and `Graduation` after selected lessons as encouragement
 
 
 ## Course Checklist {-}
 
-Here is a link to a [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"} for you to keep track of your progress in this course.
+Now that you have a good idea of the flow of the course, here is a link to a [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"} for you to keep track of your progress in this course.
 
 * PLEASE DO NOT ``Request Edit Access`
 * Instead to save your personal/private copy seelect one of the following:
