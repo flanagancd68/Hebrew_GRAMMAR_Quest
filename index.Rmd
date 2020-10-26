@@ -1,5 +1,5 @@
 ---
-#title: "Hebrew GRAMMAR Quest"
+title: "Hebrew GRAMMAR Quest"
 #date: "`r Sys.Date()`"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site

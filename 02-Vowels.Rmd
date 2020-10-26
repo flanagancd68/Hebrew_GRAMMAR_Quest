@@ -15,17 +15,23 @@ include_graphics("images/02.Gen0109.png")
 <small>^[<small>As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, a group known as the Masorites developed the vowel notation we use today. These are the symbols in red.  These are usually under, but sometimes in the middle of or over the affected consonant. This vowel system intends to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which synagogues use for chanting the verses.  These marks also show where the word's accent is.  
   Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. </small>]</small>
 
-## Seven Practical Points for Lesson 2 {-}
+## `Seven Practical Points` for Lesson 2 {-}
 
-1. Memorize [vowels that are not vowel letters](#two_1)
-1. Learn [vocal sheva and silent sheva](#two_2)
-1. Memorize the [vowel letters](#two_3)
-1. Meet ["defective" and "plene" spelling](#two_4) 
-1. Meet Daghesh Lene's twin, [Daghesh Forte](#two_5)
-1. Know the [rule for a Daghesh Forte](#two_6) 
-1. Know that the [Gutturals and Resh reject Daghesh Forte](#two_7)
+1. Memorize [vowels that are not vowel letters](#vowels)
+1. Learn [vocal sheva and silent sheva](#sheva)
+1. Memorize the [vowel letters](#vowel_letters)
+1. Meet ["defective" and "plene" spelling](#defective_spelling) 
+1. Meet Daghesh Lene's twin, [Daghesh Forte](#daghesh_forte)
+1. Know the [rule for a Daghesh Forte](#daghesh_forte_in_bgdkpt) 
+1. Know that the [Gutturals and Resh reject Daghesh Forte](#gutturals_reject_daghesh_forte)
 
-## Equipment Check {-}
+### `Lesson Prayer` {-}
+
+Pray not just for knowledge, but for wisdom.
+
+> (James 1:5 NASB) But if any of you lacks wisdom, let him ask of God, who gives to all generously and without reproach, and it will be given to him.
+
+## `Equipment Check` {-}
 
 ```{r, out.width = "300pt", fig.align='center'}
 
@@ -38,7 +44,7 @@ Before continuing, can you name the following letters?
 * The five KiMNePaTZ letters
 * The four guttural letters and the one sometimes-guttural letter
 
-## Vowels that are not vowel letters {#two_1}
+## Vowels that are not vowel letters {#vowels}
 
 ### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
 
@@ -60,7 +66,7 @@ Notes:
 * You might see Kibbuts, Kibbutz, Qibbutz, and Qibbuts used interchangeably
 
 
-## Vocal  and Silent Sheva {#two_2}
+## Vocal  and Silent Sheva {#sheva}
 
 ### Both are written as בְּ |   VOCAL Sheva is a REDUCED vowel | SILENT Sheva is NOT A Vowel {-}
 
@@ -77,7 +83,7 @@ Notes:
 * _Both_ Sheva mark the **END** of a syllable
 * We will learn how to distinguish between the two kinds of Sheva in the next lesson
 
-## Vowel letters {#two_3}
+## Vowel letters {#vowel_letters}
 
 ### Vowel letters use a consonant plus a nikkud to form a vowel {-}
 
@@ -101,7 +107,7 @@ include_graphics("images/02.vowels_letters.png")
     * Hei vowels are extremely common in Hebrew
 
 
-## "Defective" and "plene" spelling {#two_4}
+## "Defective" and "plene" spelling {#defective_spelling}
 
 ### In "defective" spelling, letter vowels can sometimes drop their letter and take on the corresponding non-letter vowel. The meaning of the word doesn’t change. {-}
 
@@ -121,7 +127,7 @@ The qamets-hei ה ָ  sometimes drops the final ה, leaving just the qamets unde
     
 Over time, you’ll start to develop a mental checklist when you encounter something that doesn’t make sense. “Could this be a defective spelling?” will be one of those checklist items.
 
-## The Daghesh Forte {#two_5}
+## The Daghesh Forte {#daghesh_forte}
 
 ### A Daghesh Forte doubles the consonant {-}
 
@@ -148,7 +154,7 @@ include_graphics("images/02.forte.png")
 _Advanced tip:_ When you see a Daghesh Forte, it often means that another letter has disappeared<small>^[<small>Not entirely unlike the English apostrophe in words like _can't_.</small>]</small>.  We will talk more about this later in the course.
 
 
-## Daghesh Forte Rule {#two_6}
+## Daghesh Forte Rule {#daghesh_forte_in_bgdkpt}
 
 ### "A Daghesh is a Forte if, and only if, it's preceded by a vowel <small>^[<small>Remember the rule for the Daghesh Lene?  See Lesson 1.4</small>]</small>that is not a Sheva." ---John Beckman {-}
 
@@ -163,7 +169,7 @@ Examples:
 * מִתַּחַת  = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a Hiriq. Daghesh Forte</small>]</small>
 
 
-## Gutturals and Resh reject Daghesh Forte {#two_7}
+## Gutturals and Resh reject Daghesh Forte {#gutturals_reject_daghesh_forte}
 
 * We said in lesson one that the Gutturals don’t play nice with the other Hebrew Rules, and this rejection of the Daghesh Forte is one of those ways
 
@@ -176,14 +182,23 @@ knitr::include_graphics("images/02.reject.gif")
 
 * A large chunk of Hebrew GRAMMAR Quest will involve our learning to resolve these situations - more to come!
 
-## Lesson 2 ACTIVities {-}
 
-* Complete Anki Aerobics for Lesson 2
+## `Vowel worksheet` {-}
 * Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/view?usp=sharing){target="_blank"} See note<small>^[<small>ignore the "transliteration" column.  An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory.</small>]</small>
 
-## Ruth Pursuit {-}
+## `Anki Aerobics` {-}
 
-[(blank copy)](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"} 
+* Lesson 02 A.Vocab
+* Lesson 02 B.Grammar
+* Lesson 02 C.Verses
+  * True verses will arrive next Lesson
+  * In this module, we will be learning common Hebrew names
+  * Sound out the words using your knowledge of Hebrew consonants and vowels
+  * As a general hint, with a couple of exceptions, the English names are pretty close to how they sound in Hebrew
+
+## `Ruth Pursuit` {-}
+
+### Your Quest: {-}
 
 1. Identify the four UNCHANGEABLE LONG vowels that use YOD in Verse 1 (blue)<small>^[<small>In most word processors, you won't be able to isolate the vowel to highlight. Get as close as you can.</small>]</small>|
 2. Identify the two UNCHANGEABLE LONG vowels that use VAV in Verse 1 (Green)
@@ -196,15 +211,17 @@ knitr::include_graphics("images/02.reject.gif")
     * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ, "and **S**he (did or was something).  
             * Thus, וַתֹּאמֶר means "and she said."  
             * Challenge: Find the five instances of וַתֹּאמֶר in Ruth Chapter 1<small>^[<small>In at least three of the cases, you should be able to figure out who is speaking.</small>]</small>  (yellow)  
-        * [Ruth Pursuit Answer Key #2](https://drive.google.com/file/d/1xtcXRb1PWbt-qkbVWW9yGfkC40_d8gtf/view?usp=sharing){target="_blank"}
+
+* [Blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #2](https://drive.google.com/file/d/1xtcXRb1PWbt-qkbVWW9yGfkC40_d8gtf/view?usp=sharing){target="_blank"}
         
-## Quest Quiz #2 {-}
+## `Quest Quiz` {-}
 
 [Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
-## Claim your "12 Tribes" Badge! {-}
+## Claim your `12 Tribes Badge`! {-}
 
 If you have completed **all activities** in Lessons 1 and 2, you may claim the first of our "12 Tribes" badges<small>^[<small>Once published, the full 35-Lesson course will have a badge to be claimed after every 2-3 Lessons.  There is only one badge available in the preview version of the course.</small>]</small>.
 

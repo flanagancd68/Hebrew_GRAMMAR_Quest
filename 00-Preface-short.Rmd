@@ -135,7 +135,7 @@ Since this is the most important part of the course, we're going to take each of
 
 ## ACTIVities {-}
 
-So you can see this course is going to be jam-packed with things to do.  In keeping with our philosophy that active learning is better than passive learning, collectively we call Anki, Ruth Pursuits, Quizzes and anything else like that `ACTIVities`.
+So you can see this course is going to be jam-packed with things to do.  In keeping with our philosophy that active learning is better than passive learning, we refer to our activities as as `ACTIVities`.  You'll recognize an ACTIVity by `this special font`.
 
 When you see an ACTIVity, just remember that it's all part of us showing you how to fish instead of just telling you about fishing!
 

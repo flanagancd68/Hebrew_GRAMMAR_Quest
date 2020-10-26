@@ -14,22 +14,25 @@ include_graphics("images/alephbet_multi.png")
 ``` 
 <small>^[<small>This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.</small>]</small>
 
-## Seven Practical Points for Lesson 1 {-}
+## `Seven Practical Points` {-}
 
-1. Memorize the [Hebrew Aleph-Bet](#one_1)
-1. Understand that Hebrew is written and read from [RIGHT to LEFT](#one_2)
-1. Identify the group of five letters that have [final/Sofit forms](#one_3)
-1. Identify the group of six letters that can take a [Daghesh Lene](#one_4)
-1. Identify the group of [four "guttural" letters](#one_5) that cause significant changes in spelling and punctuation (and the one additional letter that sometimes acts as a guttural)
-1. Differentiate among ["look-alike" letters](#one_6)
-1. Note differences between ["Seminary" and "Sephardic" pronunciation](#one_7)
+1. Memorize the [Hebrew Aleph-Bet](#consonants)
+1. Understand that Hebrew is written and read from [RIGHT to LEFT](#right_to_left)
+1. Identify the group of five letters that have [final/Sofit forms](#sofit_letters)
+1. Identify the group of six letters that can take a [Daghesh Lene](#daghesh_lene)
+1. Identify the group of [four "guttural" letters](#gutturals) that cause significant changes in spelling and punctuation (and the one additional letter that sometimes acts as a guttural)
+1. Differentiate among ["look-alike" letters](#look-alike_letters)
+1. Note differences between ["Seminary" and "Sephardic" pronunciation](#pronunciation)
 
 ### `Lesson Prayer` {-}
 
 As you undertake this new study, pray for this Grammar adventure to be fruitful.  May God use you as an instrument to advance His Kingdom.
 
+> (Ezra 7:10 NASB) For Ezra had set his heart to study the law of the LORD and to practice it, and to teach His statutes and ordinances in Israel.
 
-## The Hebrew Aleph-Bet {#one_1}
+
+
+## The Hebrew Aleph-Bet {#consonants}
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/alephbet.png")
@@ -59,7 +62,7 @@ Notes:
     * Spiritual insights - what the letter teaches us
 
 
-## Hebrew is written and read from RIGHT-to-LEFT {#one_2}
+## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
 
 ```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/right_to_left.png")
@@ -80,7 +83,7 @@ include_graphics("images/hebrewbook.png")
 </center>
 
 
-## Five letters have final (“sofit”) forms {#one_3}
+## Five letters have final (“sofit”) forms {#sofit_letters}
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/kimnepatz.png")
@@ -96,7 +99,7 @@ include_graphics("images/kimnepatz.png")
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 * The KiMNePaTZ sofit forms can look like other letters - your Anki work will give you practice with identifying look-alike letters
 
-## Six letters take a "Daghesh Lene" {#one_4}
+## Six letters take a "Daghesh Lene" {#daghesh_lene}
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/bgdkpt.png")
@@ -125,7 +128,7 @@ include_graphics("images/buckup.png")
 We’ll dig deeper into the Daghesh Lene and its twin, the Daghesh Forte, over the next few lessons.
 
 
-## We classify four letters as **Guttural Consonants** (and one is a sometimes-guttural) {#one_5}
+## We classify four consonants as **Gutturals** (and one is a sometimes-guttural) {#gutturals}
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/gutturals.png")
@@ -141,7 +144,7 @@ include_graphics("images/gutturals.png")
 * For now, memorize the four guttural consonants in red and Resh, the sometimes-guttural-like letter in orange.
 
 
-## Look out for look-alike Letters {#one_6}
+## Look out for look-alike Letters {#look-alike_letters}
 
 ```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/lookalikes.png")
@@ -156,7 +159,7 @@ include_graphics("images/lookalikes.png")
 include_graphics("images/01.izzy_aleph.jpg")
 ```
 
-## Sephardic vs "Seminary" Pronunciation {#one_7}
+## Sephardic vs "Seminary" Pronunciation {#pronunciation}
 
 ```{r, out.width = "500pt", fig.align='center'}
 include_graphics("images/vav.png")
@@ -177,30 +180,34 @@ include_graphics("images/wayyiqtol.png")
 * This Guidebook and course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew," you would see the name "Y--w-h" frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
 
 
-## ACTIVity: Letter Writing {-}
+## `Letter writing worksheet` {-}
 
 * Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
 * Practice writing the entire AlephBet until you can do it five times from memory.
 
-## ACTIVity: Anki Aerobics {-}
+## `Anki Aerobics` {-}
     * Vocabulary - Learn (or relearn) the Aleph-Bet with Izzy 
     * Grammar - Identify look-alike Hebrew letters
     * Verses - we won't be working on any verses just yet, but we will learn some grammar shorthand that we will use when we get to the study verses
 
 
-## ACTIVity: Ruth Pursuit #1 {-}
+## `Ruth Pursuit` {-}
 
-[Ruth Pursuit](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>
+
+### Your Quest: {-}
+
 1. Identify the four guttural letters (pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
 2. Identify the one half-guttural (red)
 3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
 4. Identify the five final/sofit forms (blue)
 5. Identify the remaining letters (yellow)
-* [(Ruth Answer Key #1)](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing){target="_blank"}
+
+* [Blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>
+* [Ruth Pursuit #1 Answer Key](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing){target="_blank"}
 
 
 
-## ACTIVity: Quest Quiz #1 {-}
+## `Quest Quiz`{-}
 
 [Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 
