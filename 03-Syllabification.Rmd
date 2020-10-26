@@ -240,19 +240,19 @@ Some of you may try to read this lesson then do the Anki work (perhaps repeated 
 * You may not know what the words mean yet, and that's fine (that's where Anki comes in)
 * Consider this some "syllabic stretching" before you do your full Anki workout!
 
-## `Vocab Video Warm-up` {-}
+## `Word Warm-up` {-}
 
-[Click to open vocabulary video in a new tab](https://www.youtube.com/embed/D0uG3_PTzGA){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://www.youtube.com/embed/D0uG3_PTzGA){target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D0uG3_PTzGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/D0uG3_PTzGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## `Verses Video Warm-up` {-}
+## `Verses Warm-up` {-}
 
 * Over the entire 35 lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
         
-[Click to open verses video in a new tab](https://www.youtube.com/embed/_BD0WD2cQ7c){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://www.youtube.com/embed/_BD0WD2cQ7c){target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_BD0WD2cQ7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/_BD0WD2cQ7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Anki Aerobics` {-}
 
@@ -262,6 +262,13 @@ Some of you may try to read this lesson then do the Anki work (perhaps repeated 
   * This is also the verse lesson using the <u>Basics of Biblical Hebrew</u> study verses.
   * The translation may be difficult at first, and it may take you several attempts before you can select `Good` without using the `Hints`.
   * Be patient and stick with it - you'll get it!
+  
+Use your laptop or mobile device or the web version below
+``` {r}
+knitr::include_url('https://ankiweb.net/decks/', height = '800px')
+```
+
+<iframe src="https://ankiweb.net/decks/" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
 
 ## `Ruth Pursuit` {-}        
 
@@ -282,3 +289,12 @@ Some of you may try to read this lesson then do the Anki work (perhaps repeated 
 [Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+
+## `Quest Quiz` {-}
+
+``` {r}
+knitr::include_url('https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform', height = '800px')
+```
+
+[Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
+
