@@ -26,17 +26,8 @@ Anki is free<small>^[<small>all platforms are free, except for the iOS app, whic
 
 Thus, it is not just a flashcard program but is a tremendous strength and endurance tool for learning, and it is where we will be spending the bulk of your time in the course.  It has become the “go-to” for many medical school students to learn all the intricate facts they have to know.
 
-## How to install Anki {-}
 
-While eventually, you can do all work from a mobile device, you do need to do the initial set up from a desktop.  We're not sure why, but this is how it is.  Once you do this and then synch to the free Anki cloud, you'll be off and running with mobile use.
-
-1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}
-1. [Sign up for a free account here](https://ankiweb.net/account/register){target="_blank"}
-1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}
-    * If you do not have access to a desktop/laptop computer to install Anki, but do have access to a mobile device, we can help.
-    * Contact us for assistance at holylanguagecourses at gmail dot com.
-
-## Change some Anki Settings {-}
+## Customize Anki Settings {- #anki_settings}
 
 1. Change USER1 Name 
     1. In Anki, click File, then Switch Profile  
@@ -77,11 +68,7 @@ Your settings should look like this:
 knitr::include_graphics("images/anki_custom_new.png")
 ```
 
-## How do I access the Anki Hebrew GRAMMAR Quest deck? {-}
 
-### [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"} {-}
-
-* The full program including all 35 Lessons in this book and the complete Anki package will be are available to subscribers of Holy Language Institute in 2021
 
 ## How do I access Anki on my mobile device?
 

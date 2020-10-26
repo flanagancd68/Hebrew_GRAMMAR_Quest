@@ -33,7 +33,7 @@ include_graphics("images/HGQ_book_cover.png")
 
 <small>*Updated*: `r Sys.Date()`</small>
 
-# Preface {#preface .unnumbered}
+# Preview Version {#preface .unnumbered}
 
 Welcome to the preview version of Hebrew GRAMMAR Quest. Here, we are offering the first three lessons. The complete version, expected in late Spring 2021, will have thirty-five lessons.
 

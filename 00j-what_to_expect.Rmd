@@ -1,4 +1,4 @@
-# Course Introduction {- #introduction}
+# What to expect {- #introduction}
 
 
 ```{r, out.width = "300pt", fig.align='center'}
@@ -140,13 +140,4 @@ When you see an ACTIVity, just remember that it's all part of us showing you how
     4. `Twelve Tribes Badges` and `Graduation` after selected lessons as encouragement
 
 
-## Course Checklist {-}
-
-Now that you have a good idea of the flow of the course, here is a link to a [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"} for you to keep track of your progress in this course.
-
-* PLEASE DO NOT ``Request Edit Access`
-* Instead to save your personal/private copy seelect one of the following:
-    * `File` then select `Make a copy` to save a copy to your Google drive
-    * `File` then select `Download` to save a copy to your local computer (you may lose the checkbox functionality when you do this)
-
-### Let's get started! {-}
+## Let's get started! {-}
