@@ -14,7 +14,7 @@ include_graphics("images/alephbet_multi.png")
 ``` 
 <small>^[<small>This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.</small>]</small>
 
-## `Seven Practical Points` {-}
+## Seven Practical Points for Lesson 1 {-}
 
 1. Memorize the [Hebrew Aleph-Bet](#consonants)
 1. Understand that Hebrew is written and read from [RIGHT to LEFT](#right_to_left)
@@ -186,13 +186,14 @@ include_graphics("images/wayyiqtol.png")
 * Practice writing the entire AlephBet until you can do it five times from memory.
 
 ## `Anki Aerobics` {-}
-    * Vocabulary - Learn (or relearn) the Aleph-Bet with Izzy 
-    * Grammar - Identify look-alike Hebrew letters
-    * Verses - we won't be working on any verses just yet, but we will learn some grammar shorthand that we will use when we get to the study verses
 
+* `Lesson 01 A.Vocab` - Learn (or relearn) the Aleph-Bet with Izzy. 
+* `Lesson 01 B.Grammar` - Identify look-alike Hebrew letters.
+* `Lesson 01 C.Verses` - we won't be working on any verses just yet, but we will learn some grammar shorthand that we will use when we get to Lesson 3.
+
+Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/)
 
 ## `Ruth Pursuit` {-}
-
 
 ### Your Quest: {-}
 
@@ -207,7 +208,7 @@ include_graphics("images/wayyiqtol.png")
 
 
 
-## `Quest Quiz`{-}
+## `Quest Quiz` {-}
 
 [Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 

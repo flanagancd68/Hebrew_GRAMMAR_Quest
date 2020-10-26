@@ -17,7 +17,6 @@ daghesh_lene
 gutturals
 look-alike_letters
 pronunciation
-quest-quiz
 hebrew-vowels
 vowels
 sheva

@@ -15,7 +15,7 @@ include_graphics("images/02.Gen0109.png")
 <small>^[<small>As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, a group known as the Masorites developed the vowel notation we use today. These are the symbols in red.  These are usually under, but sometimes in the middle of or over the affected consonant. This vowel system intends to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which synagogues use for chanting the verses.  These marks also show where the word's accent is.  
   Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. </small>]</small>
 
-## `Seven Practical Points` for Lesson 2 {-}
+## Seven Practical Points for Lesson 2 {-}
 
 1. Memorize [vowels that are not vowel letters](#vowels)
 1. Learn [vocal sheva and silent sheva](#sheva)
@@ -188,13 +188,16 @@ knitr::include_graphics("images/02.reject.gif")
 
 ## `Anki Aerobics` {-}
 
-* Lesson 02 A.Vocab
-* Lesson 02 B.Grammar
-* Lesson 02 C.Verses
-  * True verses will arrive next Lesson
-  * In this module, we will be learning common Hebrew names
-  * Sound out the words using your knowledge of Hebrew consonants and vowels
-  * As a general hint, with a couple of exceptions, the English names are pretty close to how they sound in Hebrew
+* `Lesson 02 A.Vocab`
+* `Lesson 02 B.Grammar`
+* `Lesson 02 C.Verses`
+  * Bible verses will arrive next Lesson
+  * In this module, we will be learning common Hebrew names.
+  * Sound out the words using your knowledge of Hebrew consonants and vowels.
+  * As a general hint, with a couple of exceptions, the English names are pretty close to how they sound in Hebrew.
+  
+Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/)
+
 
 ## `Ruth Pursuit` {-}
 
@@ -221,9 +224,9 @@ knitr::include_graphics("images/02.reject.gif")
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
-## Claim your `12 Tribes Badge`! {-}
+## Claim your `Twelve Tribes Badge`! {-}
 
-If you have completed **all activities** in Lessons 1 and 2, you may claim the first of our "12 Tribes" badges<small>^[<small>Once published, the full 35-Lesson course will have a badge to be claimed after every 2-3 Lessons.  There is only one badge available in the preview version of the course.</small>]</small>.
+If you have completed **all activities** in Lessons 1 and 2, you may claim the first of our "Twelve Tribes" badges<small>^[<small>Once published, the full thirty-five lesson course will have a badge to be claimed after every two to three lessons.  There is only one badge available in the preview version of the course.</small>]</small>.
 
 [Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
 
