@@ -1,6 +1,5 @@
-fig:unnamed-chunk-23
-fig:unnamed-chunk-38
-fig:unnamed-chunk-41
+fig:unnamed-chunk-24
+fig:unnamed-chunk-39
 fig:unnamed-chunk-42
 fig:unnamed-chunk-43
 fig:unnamed-chunk-44
@@ -9,9 +8,7 @@ fig:unnamed-chunk-46
 fig:unnamed-chunk-47
 fig:unnamed-chunk-48
 fig:unnamed-chunk-49
-a.-physical-preparation---anki
-b.-physical-preparation---quest-quiz-equipment-check
-spiritual-preparation
+fig:unnamed-chunk-50
 alephbet
 one_1
 one_2

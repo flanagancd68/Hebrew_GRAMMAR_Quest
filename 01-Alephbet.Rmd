@@ -24,7 +24,9 @@ include_graphics("images/alephbet_multi.png")
 1. Differentiate among ["look-alike" letters](#one_6)
 1. Note differences between ["Seminary" and "Sephardic" pronunciation](#one_7)
 
-[Lesson 1 ACTIVities](#one_8)
+### `Lesson Prayer` {-}
+
+As you undertake this new study, pray for this Grammar adventure to be fruitful.  May God use you as an instrument to advance His Kingdom.
 
 
 ## The Hebrew Aleph-Bet {#one_1}
