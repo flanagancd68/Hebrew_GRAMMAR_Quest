@@ -172,15 +172,15 @@ Examples:
 ## Gutturals and Resh reject Daghesh Forte {#gutturals_reject_daghesh_forte}
 
 * We said in lesson one that the Gutturals don’t play nice with the other Hebrew Rules, and this rejection of the Daghesh Forte is one of those ways
-
-* A Hebrew collision like this means something has to give - the gutturals tend to get their way - it's like they have a force-field shielding them from other Hebrew grammar rules!
+* A Hebrew collision like this means something has to give. . . and the gutturals tend to get their way.
+* It's like they have a force-field shielding them from other Hebrew grammar rules!
 
 ```{r, out.width = "600pt", fig.align='center', fig.cap="That's no moon.  That's a Guttural!"}
 
 knitr::include_graphics("images/02.reject.gif")
 ```
 
-* A large chunk of Hebrew GRAMMAR Quest will involve our learning to resolve these situations - more to come!
+* A large chunk of Hebrew GRAMMAR Quest will involve our learning to resolve these situations.
 
 
 ## `Vowel worksheet` {-}
