@@ -65,6 +65,9 @@ a[aria-describedby="footnote-label"] {
   outline: none; /* 2 */
 }
 
+.footnote .footnote-label {
+   font-size: 8pt;
+}
 /**
  * Actual numbered references
  * 1. Display the current state of the counter (e.g. `[1]`)

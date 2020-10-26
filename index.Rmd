@@ -1,4 +1,4 @@
---- 
+---
 #title: "Hebrew GRAMMAR Quest"
 #date: "`r Sys.Date()`"
 cover-image: images/HGQ_book_cover.png
@@ -16,8 +16,8 @@ graphics: yes
 lot: no
 lof: no
 #mainfont: Ezra SIL
-
 ---
+
 ```{r setup, include=FALSE}
 library(knitr)
 library(fontawesome)
@@ -25,22 +25,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
-#  {-}
+#  {.unnumbered}
 
 ```{r, out.width = "700pt", fig.align='center'}
 include_graphics("images/HGQ_book_cover.png")
 ```
 
-<small>_Updated_: `r Sys.Date()`</small>
+<small>*Updated*: `r Sys.Date()`</small>
 
-# Preface {- #preface}
+# Preface {#preface .unnumbered}
 
-Welcome to the preview version of Hebrew GRAMMAR Quest.  Here, we are offering the first three lessons. The complete version, expected in late Spring 2021, will have thirty-five lessons.
+Welcome to the preview version of Hebrew GRAMMAR Quest. Here, we are offering the first three lessons. The complete version, expected in late Spring 2021, will have thirty-five lessons.
 
 We have two purposes for this preview:
 
-1. Gather feedback on content and overall direction from Holy Language Volunteers before compiling all thirty-five lessons<small>^[<small>Specifically, we seek your help us with proofing the style and content of this guidebook (typos and readability), and also reviewing the Anki deck.</small>]</small>. 
-2. Eventually, these three lessons will comprise a demo/trial version of Hebrew GRAMMAR Quest made available to the general public. 
+1.  Gather feedback on content and overall direction from Holy Language Volunteers before compiling all thirty-five lessons<small>[^index-1]</small>.
+2.  Eventually, these three lessons will comprise a demo/trial version of Hebrew GRAMMAR Quest made available to the general public.
 
-Please do not hesitate to email errors, omissions, comments, or suggestions to holylanguagecourses@gmail.com (in fact we'd rather hear about mistakes sooner rather than later!)
+[^index-1]: <small>Specifically, we seek your help us with proofing the style and content of this guidebook (typos and readability), and also reviewing the Anki deck.</small>
+
+Please do not hesitate to email errors, omissions, comments, or suggestions to [holylanguagecourses\@gmail.com](mailto:holylanguagecourses@gmail.com){.email} (in fact we'd rather hear about mistakes sooner rather than later!)
