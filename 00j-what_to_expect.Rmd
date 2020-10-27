@@ -1,4 +1,4 @@
-# What to expect {- #introduction}
+# What to expect {- #what_to_expect}
 
 
 ```{r, out.width = "300pt", fig.align='center'}

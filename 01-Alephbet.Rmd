@@ -30,11 +30,11 @@ As you undertake this new study, pray for this Grammar adventure to be fruitful.
 
 > (Ezra 7:10 NASB) For Ezra had set his heart to study the law of the LORD and to practice it, and to teach His statutes and ordinances in Israel.
 
-## Reminder: Course Checklist {.unnumbered .unlisted}
+## Reminder: `Course Checklist` {.unnumbered .unlisted}
 
-If you are eager to jump right in with Lesson 1, and skipped reading the course [Introduction](#introduction), we understand totally.  We are also excited for you to start!
+If you are eager to jump right in with Lesson 1, and skipped reading the course [Quick Start](#get_started), we understand totally.  We are also excited for you to start!
 
-The Introduction has useful information about the course, as well as a _Course Checklist_ you can download to help keep you organized and on track.
+The articles in the Introduction section provide useful information about the course, as well as a _Course Checklist_ you can download to help keep you organized and on track.
 
 Now would be a good time to read the Introduction and get the checklist if you missed it the first time.
 

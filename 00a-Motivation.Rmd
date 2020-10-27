@@ -2,24 +2,44 @@
 
 # Motivation for building this course {- #motivation}
 
-Hebrew is an amazing language. If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students (who frequently have a background of traditional Christianity) to the Jewishness of our Messiah and of our Bible.
+Hebrew is an amazing language. If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students (who frequently have a background in traditional Christianity) to the Jewishness of our Messiah and of our Bible.
 
-***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, almost by immersion.  There was not focus on learning rules.  For many of our students, this approach was very successful. We started noticing that other students began to drop off between lessons 12 and 16<small>^[<small>These are the "bridge" lessons in between the Aleph-Bet (1-11) and the study passages (16-40), where Hebrew grammar concepts were introduced.]</small>. The feedback we received was many students were getting "stuck" on grammar.
+***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful. 
 
-As we searched for Biblical Hebrew grammar resources to recommend to our students, we noticed that they tended to fall into one of two camps:
+Despite this, we started noticing that other students began to drop off between lessons 12 and 16<small>^[<small>These are the "bridge" lessons in between the Aleph-Bet (1-11) and the study passages (16-40), where Hebrew grammar concepts were introduced.]</small>. The feedback we received was many students were getting "stuck" on grammar.
 
-1. A workbook or a series of videos that are completely self-paced/self-directed. There may be a some exercises, but in general, is not very rigorous from an academic standpoint and there is no feedback on a student's progress.
-2. Academic/Seminary level textbooks or courses. These are extremely rigorous with copious amounts of reading, lectures and exams. The pace of these courses is usually fast and the stress is high.  There is a large focus on due dates and grades.
+As we searched for Biblical Hebrew grammar resources to recommend to our students as a supplement to ***Hebrew Quest***, we noticed that they tended to fall into one of two camps:
 
-Although many of these resources are top-notch, here is what ***we** wanted to see in a grammar course:
+1. <u>A workbook or a series of videos that are completely self-paced/self-directed</u>. 
+    * There may be a some exercises, but in general, these tend to not be rigorous from an academic standpoint
+    * Additionally, with this format, there is no way for feedback on a student's progress
+    
+2. <u>Academic/Seminary level textbooks and courses</u>. 
+    * These materials are __extremely__ rigorous with copious amounts of reading, rote memorization of paradigms, lectures, and exams
+    * The textbooks generally are much more detailed than most of our students need (or would enjoy)
+    * The pace of these courses is usually fast and the stress level is high, with a large focus on due dates and grades
+
+Additionally, materials from both categories would have required significant additional fees from our students.
+
+
+(continued)
+
+
+
+## What WE wanted in a course {-}
+
+---
+
+
+Although many of the resources we researched are top-notch, here is what ***we*** wanted to see in a Hebrew grammar course:
 
 * In terms of rigor, not necessarily easy, but also enjoyable and low-stress
 * Self-paced and independent, but provides feedback and encouragement
 * Aligns with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): a course that emphasizes active forms of learning more than tons of reading and long lectures
-* Technologically simple and inexpensive to develop, deliver, and maintain, easy for our students to use, but also high-quality and visually pleasant
+* Technologically simple and inexpensive to develop, deliver, and maintain, easy (and free, if possible) for our students to use, but also high-quality and visually pleasant
 * Most importantly, Yeshua-centered that approaches learning Hebrew as a spiritual as well as academic endeavor
 
-We couldn't find a course like this...so we BUILT one!
+We couldn't find a course like this...so we BUILT it ourselves!
 
 > Welcome to Hebrew GRAMMAR Quest: Biblical Hebrew, the Holy Language way!
 

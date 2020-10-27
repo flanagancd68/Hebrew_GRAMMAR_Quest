@@ -5,9 +5,9 @@ include_graphics("images/01.izzy_aleph.jpg")
 ```
 
 
-> The reason we study Biblical Hebrew grammar is so we can better comprehend Biblical Hebrew.
+> The reason we study Biblical Hebrew grammar is so we can better understand Biblical Hebrew.
 
-Both courses work together to advance you towards the primary goal of independently reading and comprehending the Hebrew Scriptures.
+You may be wondering how Hebrew Quest and Hebrew GRAMMAR Quest work together.  We like to think of Hebrew GRAMMAR Quest as an extension of Hebrew Quest. Both courses work to advance you towards the primary goal of independently reading and comprehending the Hebrew Scriptures.
 
 For those who finished Hebrew Quest, Hebrew GRAMMAR Quest will be logical next step.  For others who have started Hebrew Quest but hit some roadblocks, we believe Hebrew GRAMMAR Quest can provide you with important underlying Hebrew concepts, which you can then use to finish Hebrew Quest.  
 

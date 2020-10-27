@@ -44,4 +44,4 @@ We have two purposes for this preview:
 
 [^index-1]: <small>Specifically, we seek your help us with proofing the style and content of this guidebook (typos and readability), and also reviewing the Anki deck.</small>
 
-Please do not hesitate to email errors, omissions, comments, or suggestions to [holylanguagecourses at gmail dot com](mailto:holylanguagecourses@gmail.com){.email} (in fact we'd rather hear about mistakes sooner rather than later!)
+Please do not hesitate to email errors, omissions, comments, or suggestions to [holylanguagecourses@gmail.com](mailto:holylanguagecourses@gmail.com){.email} (in fact we'd rather hear about mistakes sooner rather than later!)

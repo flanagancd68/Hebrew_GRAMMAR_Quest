@@ -1,4 +1,9 @@
-# Appendix B: Additional Hebrew Quest and Hebrew GRAMMAR Quest FAQ{- #hq_hgq_faq}
+# More Hebrew Quest and Hebrew GRAMMAR Quest FAQ{- #hq_hgq_faq}
+
+* [What is the difference between Hebrew Quest and Hebrew GRAMMAR Quest?](#difference)
+* [Do I need to complete Hebrew Quest before I start Hebrew GRAMMAR Quest?](#complete_hq_first)
+* [When I complete this course, should I go back and finish Hebrew Quest?](#need_to_finish_hq)
+*  [I haven't started either course.  Which should I do first?](#which_first)
 
 <!-- Grammarly check: 10/24/2020 108 lines -->
 
@@ -13,12 +18,11 @@
     * Still others made it through some or all of Hebrew Quest and have a desire to know more
 * [As we said earlier](#hgq_and_hq), wherever you find yourself, if you are interested in digging deeper, you have come to the right place!
 
-## Do I need to have completed Hebrew Quest before I start Hebrew GRAMMAR Quest? {-}
+## Do I need to complete Hebrew Quest before I start Hebrew GRAMMAR Quest? {- #complete_hq_first}
 
 * Emphatically - **No!** 
     * This grammar course starts from the beginning (with learning the Aleph-bet) and assumes no prior knowledge of Hebrew
 * With that said, the more of Hebrew Quest you have completed, the more comfortable you may find it is to work through the grammar material
-
 * If we were to categorize as "good," "better," "best" in terms of Hebrew Quest completion, here's what we would say:
     * **Good**: 
         * You have completed some or no Hebrew Quest lessons  
@@ -30,31 +34,26 @@
         * You have completed through Lesson 15 (verbs) and beyond
         * This means that more of the concepts presented in Hebrew GRAMMAR Quest will tend to be things you have heard before versus brand new
 
-## When I complete this course, should I go back and finish Hebrew Quest? {-}
+## When I complete this course, should I go back and finish Hebrew Quest? {- #need_to_finish_hq}
 
-* **ABSOLUTELY!**
-* In fact, the most logical next step after completing a first-year Hebrew grammar course is to dig into the Scriptures and start reading  
-* Hebrew Quest, starting with Lesson 16, is all about reading Hebrew<small>^[<small>Although, with your more in-depth knowledge, you may be able to go a little faster. If the Hebrew Quest videos are too slow for you, click the "Settings" gear icon in the bottom right corner of the video, click "Speed," and then select a faster speed.</small>]</small>
+> Hebrew GRAMMAR Quest is an extension of Hebrew Quest, not a substitute.
+
+* So the answer to the question is, **ABSOLUTELY!**
+* In fact, the most logical next step after completing a first-year Hebrew grammar course is to dig into the Scriptures and start reading.
+* Hebrew Quest, starting with Lesson 16, is all about reading Hebrew<small>^[<small>Although, with your more in-depth knowledge, you may be able to go a little faster. If the Hebrew Quest videos are too slow for you, click the "Settings" gear icon in the bottom right corner of the video, click "Speed," and then select a faster speed.</small>]</small>.
 * To say it differently, Hebrew Quest and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
     * The more Hebrew Quest you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
     * The more Hebrew GRAMMAR Quest you have completed, the more you will get out of Hebrew Quest
-    * Either way, you can't go wrong!
+    * Either way, you can't go wrong!  The most important thing is to start.
 
-## I haven't started either course.  Which should I do first? {-}
+## I haven't started either course.  Which should I do first? {- #which_first}
 
-Which one are you more interested in?  It's more important to pick one, jump in, and start learning Hebrew. 
-* If the word "grammar" makes your stomach churn, then start with **Hebrew Quest**.  
-* If you feel like you might want to build of a traditional foundation, then start with **Hebrew GRAMMAR Quest**.
-* For a blend, we recommend you do the first 11 lessons of **Hebrew Quest** to learn the Aleph-Bet, and then come over to **Hebrew GRAMMAR Quest**.
-
-## I really don't know.  Can you just tell me where to start? {-}
-
-OK! Here's a sequence we might recommend:
-
-* Do the first 11 lessons of **Hebrew Quest** - this will take you in-depth through the Aleph-bet, not just academically but spiritually.
-* After you learn the Aleph-bet, give **Hebrew Quest** Lessons 12-15 a try.  
-    * If the grammar pieces are clicking, then definitely go on to lesson 16 and the study passages.  You always have the option starting this course at anytime.
-    * Conversely, we've found that a lot of folks get stuck on these lessons  If this is you, then know you're one of the reasons we designed this grammar course. You might want to pause **Hebrew Quest**, and immediately jump into **Hebrew GRAMMAR Quest**
+* If the word "grammar" makes your stomach churn, then start with (and stick with) **Hebrew Quest**!
+* Otherwise, we can suggest doing the first 16 lessons of **Hebrew Quest** - this will take you in-depth through the Aleph-bet and give you an overview of Grammar and give you an introduction to reading Proverbs.
+    * Also plan to do Hebrew Quest Memrise or Anki so you can pick up your first two Certificates as outlined [here](https://holylanguage.com/graduate.html)
+* Then hop over to this course and get a firm foundation of Hebrew grammar
+* Then go back to Hebrew Quest lesson 17 and the study passages will have extra life for you
+* This will likely take you a long time to complete both<small>^[<small>It probably is not entirely unreasonable to be able to do two lessons per week, but be prepared to spend a LOT of time in Anki (or Memrise, for Hebrew Quest).  One lesson per week is probably a better pace.  In any case remember you get out of it what you put into it.  It's a marathon, not a sprint!</small>]</small>, but remember the proverb about the best time to plant a tree:  "The best time was 20 years ago.  The second-best time is today."
     
 Whichever direction you take, we would encourage you to ultimately complete both **Hebrew Quest** and **Hebrew GRAMMAR Quest**.
 

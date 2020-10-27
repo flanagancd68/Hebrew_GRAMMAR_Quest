@@ -1,4 +1,4 @@
-# Appendix A: Anki FAQ {- #anki_faq}
+# Anki info and FAQ {- #anki_faq}
 
 <!-- Grammarly check: 10/24/2020 - 179 lines -->
 

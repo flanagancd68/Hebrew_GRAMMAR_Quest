@@ -2,7 +2,7 @@
 
 This page will get you up and running with the course.  We encourage you to read the other introductory materials before you jump in.
 
-NOTE: Eventually, you can do all work from a mobile device.  For the initial install, you do need to do these steps from a desktop or laptop. 
+NOTE: Eventually, you can do all work from a mobile device.  For the initial Anki install, you do need to do these steps from a desktop or laptop. 
 
 1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}
 1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}

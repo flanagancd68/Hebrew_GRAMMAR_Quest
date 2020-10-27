@@ -1,6 +1,13 @@
-# Appendix C: Other Hebrew GRAMMAR Quest FAQ{- #other_faq}
+# Other Hebrew GRAMMAR Quest FAQ{- #other_faq}
 
-## There are many books out there to learn Hebrew.  What makes Hebrew GRAMMAR Quest different? {-}
+* [There are many books out there to learn Hebrew.  What makes Hebrew GRAMMAR Quest different?](#hgq_difference)
+* [What is a "flipped classroom" and how are we using it here?](#flipped_classroom)
+* [What are the course ACTIVities?](#activities_faq)
+* [Will I be required to buy anything?](#buy_materials)
+* [Who will (and who might not) benefit from Hebrew GRAMMAR Quest?](#who_benefits)
+* [What if I am a Bible teacher? Should I take this course?](#bible_teacher)
+
+## There are many books out there to learn Hebrew.  What makes Hebrew GRAMMAR Quest different? {- #hgq_difference}
 
 * As we say above, we want students to learn by **doing**
     * While **Hebrew GRAMMAR Quest** will cover the same concepts as a typical first-year Hebrew textbook, the instructional design team at Holy Language Institute are big proponents of _active_ learning as opposed to passive learning
@@ -9,7 +16,7 @@
 * Textbooks have their place, but in our view, your "real" learning will take place when you complete the ACTIVities (see the root of the word "active" in there?)
     * This is the impetus behind the current "flipped classroom" philosophy in traditional education
 
-## What is a "flipped classroom"? {-}
+## What is a "flipped classroom" and how are we using it here? {- #flipped_classroom}
 
 * Hebrew GRAMMAR Quest applies concepts from what is called a "flipped classroom."
 * In a traditional classroom, lecture and exams are the priority
@@ -19,13 +26,13 @@
 * Therefore, there is a deliberate emphasis on activities over lectures, assigned reading, and exams.  To emphasize this emphasis, we call these "**ACTIV**ities"!
 
 
-## What are the ACTIVities? {-}
+## What are the ACTIVities? {- #activities_faq}
 
-We cover all of this in the [Preface: this book's philosophy and direction](#preface) section!
+We cover all of this in the [What to expect](#what_to_expect) section!
 
 
 
-## Will I need to buy anything? {-} 
+## Will I be required to buy anything? {- #buy_materials} 
 
 * **NO**.  Other than being a subscriber to Holy Language Institute, you will not need to purchase anything for this course (unless you want to)
 * We would like to disclose that the iOS version of the Anki app requires a one-time purchase through the Apple store of $25
@@ -42,22 +49,22 @@ We cover all of this in the [Preface: this book's philosophy and direction](#pre
     * [Basics of Biblical Hebrew Laminated Reference Card](https://www.amazon.com/gp/product/031026295X/&tag=holylanginst-20)
     * We would appreciate it if you would use one of the affiliate links, which allows Holy Language Institute to receive a small commission
     
-## Who will (and who might not) benefit from Hebrew GRAMMAR Quest? {-}
+## Who will (and who might not) benefit from Hebrew GRAMMAR Quest? {- #who_benefits}
 
-* Hebrew GRAMMAR Quest is focused on reading and understanding Hebrew for the English speaker
+* Hebrew GRAMMAR Quest is focused on reading and understanding Hebrew for the English speaker.
     * If you desire to read the Hebrew Scriptures in the original language and have a greater comprehension of what you read, this course is for you!
-    * If one was looking to be a fluent writer or speaker<small>^[<small>There are speaking activities beginning with Lesson 3, but this is more to engage additional senses in the learning process and not to become a fluent reader.</small>]</small> of Hebrew, or teach Hebrew in a formal academic setting, this course probably would not fully meet that person's goals (although it would be a terrific first step)
-* This course focuses on Biblical Hebrew, not Modern Hebrew
+    * If one was looking to be a fluent writer or speaker<small>^[<small>There are speaking activities beginning with Lesson 3, but this is more to engage additional senses in the learning process and not to become a fluent reader.</small>]</small> of Hebrew, or teach Hebrew in a formal academic setting, this course probably would not fully meet that person's goals (although it would be a terrific first step).
+* This course focuses on Biblical Hebrew, not Modern Hebrew.
     * If you are looking to translate "can you direct me to the railway station?", we apologize, but this course will not benefit you!
-* Hebrew GRAMMAR Quest is designed to be self-directed and (mostly) stress-free
-    * By design, it does not have the accountability and rigor of a traditional academic program
-        * By saying it does not have "academic rigor," we are **NOT** saying this course will be __easy__
-        * You will likely spend _many_ hours on this course, mostly in Anki
-        * We believe it will be a tremendous investment you can make for the kingdom and the impact you can have on others
-        * When you start to see your knowledge building up in Anki, we believe you will find it rewarding and perhaps even fun as well
-    * Those who are seeking more of an academic/seminary type of setting might fare better with a traditional, instructor-led, Hebrew course
+* Hebrew GRAMMAR Quest is designed to be self-directed and (mostly) stress-free.
+    * By design, it does not have the accountability and rigor of a traditional academic program.
+        * By saying it does not have "academic rigor," we are **NOT** saying this course will be __easy__.
+        * You will likely spend _many_ hours on this course, mostly in Anki.
+        * We believe it will be a tremendous investment you can make for the kingdom and the impact you can have on others.
+        * When you start to see your knowledge building up in Anki, we believe you will find it rewarding and fun as well.
+    * Those who are seeking more of an academic/seminary type of setting might fare better with a traditional, instructor-led, Hebrew course (but the more of THIS course you complete, the easier THAT course will be!).
     
-### What if I am a Bible teacher? Should I take this course? {-}
+## What if I am a Bible teacher? Should I take this course? {- #bible_teacher}
 
-* We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or teacher of a traditional Christian congregation to have a basic understanding of the Hebrew text to be able to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience
-    * Additionally, for those who have had first-year Hebrew at seminary (perhaps many years ago) but have struggled to apply knowledge of the original language to their vocation, or for those pastors/teachers who may have never taken a grammar course in Hebrew, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***<small>^[<small>This book's author can testify to this!</small>]</small>
+* We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or teacher of a traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text to be able to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.
+    * Additionally, for those who have had first-year Hebrew at seminary (perhaps many years ago) but have struggled to apply knowledge of the original language to their vocation, or for those pastors/teachers who may have never taken a grammar course in Hebrew, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***<small>^[<small>This book's compiler can testify to this!</small>]</small>.
