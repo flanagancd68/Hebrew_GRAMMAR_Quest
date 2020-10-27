@@ -1,17 +1,20 @@
 bookdown::gitbook:
 #bookdown::tufte_html_book:
   css: style.css
+  pandoc_args: [ "--csl", "turabian-author-date.csl" ]
   split_by: section
+  citation_package: none
   config:
     toc:
-      before:
+      before: |
+        <li><a href="./">Hebrew GRAMMAR Quest</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       collapse: section
       scroll_highlight: yes
     toolbar:
       position: fixed
-    edit :
+   # edit :
     #download: ["pdf", "epub"]
     search: yes
     fontsettings:
@@ -33,7 +36,8 @@ bookdown::gitbook:
 #   latex_engine: xelatex
 #   citation_package: natbib
 #   keep_tex: yes
-# bookdown::epub_book: default
+bookdown::epub_book:
+  pandoc_args: [ "--csl", "turabian-author-date.csl" ]
 # bookdown::word_document2:
 #     toc: true
 #     toc_depth: 1

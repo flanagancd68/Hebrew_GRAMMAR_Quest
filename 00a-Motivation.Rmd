@@ -6,7 +6,7 @@ If you are familiar with our ministry, you know our flagship course ***Hebrew Qu
 
 ***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful. 
 
-We noticed other students began to drop off between lessons 12 and 16<small>^[<small>These are the "bridge" lessons in between the Aleph-Bet (1-11) and the study passages (17-40), where Izzy introduced Hebrew grammar concepts.</small>]</small>. The feedback we received was many students were getting "stuck" on grammar concepts.
+We noticed other students began to drop off between lessons 12 and 16<small>^[<small>These are the "bridge" lessons in between the Aleph-Bet (1-11) and the study passages (17-40), where Izzy introduced Hebrew grammar concepts.</small>]</small>. Feedback from these students indicated they were getting "stuck" on grammar concepts.
 
 As we searched for external Biblical Hebrew grammar resources to recommend to our students, we noticed that they tended to fall into one of two camps:
 
@@ -23,13 +23,13 @@ Additionally, materials from both categories would have required significant add
 
 (continued)
 
-## What WE wanted in a course {-}
+## What WE wanted in our course {- #our_course}
 
 ---
 
 Although many of the resources we researched are top-notch, here is what ***we*** wanted to see in our ideal Hebrew grammar course:
 
-* In terms of content and rigor, the course would <u>not</u> necessarily be easy but still enjoyable, with a low-stress level.
+* In terms of content and rigor, the course would <u>not</u> necessarily be easy, but it would still be enjoyable, with a low-stress level.
 * The course would be self-paced for independent learning but provide feedback<small>^[<small>At its core, a grade is simply a feedback mechanism to tell us how well we know a given topic. Then problem comes when we focus on the grade and not the feedback it is telling us. In Hebrew GRAMMAR Quest, the `Quest Quizzes` are scored so you can know how you did, but we do not give any grades for the course.</small>]</small>. and encouragement.
 * The course must align with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning more than tons of reading and long lectures (which are passive learning components).
 * From a technological standpoint, the course must be inexpensive and straightforward to deliver and maintain and high-quality and visually pleasant.

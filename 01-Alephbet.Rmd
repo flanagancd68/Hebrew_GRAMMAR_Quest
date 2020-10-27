@@ -186,7 +186,7 @@ include_graphics("images/wayyiqtol.png")
 * This Guidebook and course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew," you would see the name "Y--w-h" frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
 
 
-## `Letter writing worksheet` {-}
+## `Letter Writing worksheet` {-}
 
 * Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
 * Practice writing the entire AlephBet until you can do it five times from memory.
@@ -195,7 +195,7 @@ include_graphics("images/wayyiqtol.png")
 
 * `Lesson 01 A.Vocab` - Learn (or relearn) the Aleph-Bet with Izzy. 
 * `Lesson 01 B.Grammar` - Identify look-alike Hebrew letters.
-* `Lesson 01 C.Verses` - we won't be working on any verses just yet, but we will learn some grammar shorthand that we will use when we get to Lesson 3.
+* `Lesson 01 C.Study Verses` - we won't be working on any Study Verses just yet, but we will learn some grammar shorthand that we will use when we get to Lesson 3.
 
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/)
 
@@ -211,7 +211,6 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 
 * [Blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>
 * [Ruth Pursuit #1 Answer Key](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing){target="_blank"}
-
 
 
 ## `Quest Quiz` {-}

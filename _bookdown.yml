@@ -1,8 +1,7 @@
-book_filename: "Hebrew Grammar Quest"
+book_filename: "Hebrew_Grammar_Quest"
 delete_merged_file: true
 language:
   ui:
     chapter_name: "Lesson "
-    
 output_dir: docs
 clean: [packages.bib]
