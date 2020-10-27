@@ -7,13 +7,13 @@ include_graphics("images/01.izzy_aleph.jpg")
 
 > The reason we study Biblical Hebrew grammar is so we can better understand Biblical Hebrew.
 
-You may be wondering how Hebrew Quest and Hebrew GRAMMAR Quest work together.  We like to think of Hebrew GRAMMAR Quest as an extension of Hebrew Quest. Both courses work to advance you towards the primary goal of independently reading and comprehending the Hebrew Scriptures.
+We like to think of Hebrew GRAMMAR Quest as an extension of Hebrew Quest. Both courses work to advance you towards the primary goal of independently reading and comprehending the Hebrew Scriptures.
 
-For those who finished Hebrew Quest, Hebrew GRAMMAR Quest will be a logical next step.  For others who have started Hebrew Quest but hit some roadblocks, we believe Hebrew GRAMMAR Quest can provide you with important underlying Hebrew concepts, which you can then use to finish Hebrew Quest.  
+For those who finished Hebrew Quest, Hebrew GRAMMAR Quest will be a logical next step.  For those who have started Hebrew Quest but hit some roadblocks, we believe Hebrew GRAMMAR Quest can provide you with important underlying Hebrew concepts. 
 
-Whether you have completed, all, some<small>^[<small>As we said in the [Motivation for this course](#motivation) section, we know there are a many folks who got stuck in the grammar lessons of Hebrew Quest.  We wrote this course specifically with you in mind!</small>]</small>, or none<small>^[<small>If you're in the "none" category, you might want to watch the Hebrew Quest Aleph-Bet lectures (Lessons 1-11) and then return to this course; but this is entirely optional.</small>]</small>. of Hebrew Quest, and have an interest in learning some of the inner workings of Hebrew, you're in the right place!
+Whether you have completed all, some<small>^[<small>As we said in the [Motivation for this course](#motivation) section, we know many folks got stuck in the grammar lessons of Hebrew Quest.  We wrote this course specifically with you in mind!</small>]</small>, or none<small>^[<small>If you're in the "none" category, you might want to watch the Hebrew Quest Aleph-Bet lectures (Lessons 1-11) and then return to this course; but this is entirely optional.</small>]</small>. of Hebrew Quest, and have an interest in learning some of the inner workings of Hebrew, you're in the right place!
 
-Also, in the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of Hebrew Quest.  
+Additionally, in the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of Hebrew Quest.  
 
 Check out the [Hebrew Quest and Hebrew GRAMMAR Quest FAQs](#hq_hgq_faq) for a more in-depth discussion on this topic.
 

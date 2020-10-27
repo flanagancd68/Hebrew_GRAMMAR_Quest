@@ -7,20 +7,20 @@ include_graphics("images/torah_scroll.jpg")
 
 Many Hebrew grammar courses and books treat learning God's Holy Language as if it were just another academic exercise. Listen to a lecture, read a chapter, take a test, and you'll learn Hebrew. 
 
-At Holy Language, we believe that we learn best by doing. If you watched the original Hebrew Quest, you might remember Izzy Avraham, our founder, talking about feeding someone a fish, versus showing someone how to fish<small>^[<small>Refer to Hebrew Quest, Lesson 1.</small>]</small>.  Other approaches may "feed" you Hebrew. Learning  Hebrew grammar, the Holy Language Way, means we're going to show you how to teach yourself Hebrew and actively (dare we say "passionately") ***engage*** with the Hebrew Scriptures.
+At Holy Language, we believe that we learn best by doing, not by being passive. Suppose you watched the original Hebrew Quest videos. In that case, you might remember Izzy Avraham, our founder, talking about giving someone a fish versus showing that person how to fish<small>^[<small>See [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php)</small>]</small>.  Other approaches may "feed" you Hebrew. Learning  Hebrew grammar, the Holy Language Way, means we're going to show you how to catch your own  Hebrew fish.  
 
 So what you're reading right now is not just a textbook.  It is an interactive guidebook to your PERSONAL Hebrew _Grammar_ <u>Quest</u>!
 
 
-## How the lessons are arranged {-}
+## Flow of each Lesson {-}
 
-As we were thinking about how to design the book, we were struck by the similarities between traveling to Israel and learning Hebrew Grammar.
+As we were thinking about designing the book, we noticed many similarities between preparing to travel to Israel and learning Hebrew Grammar.
 
 According to Dr. Wayne Stiles, to get the most out of a tour to Israel, one must actively undergo three stages of preparation<small>^[<small>Stiles, Wayne. “How to Prepare for a Holy Land Tour.” Wayne Stiles. February 20, 2013. https://waynestiles.com/how-to-prepare-for-a-holy-land-tour/. Accessed September 28, 2020.</small>]</small>:
 
-1. Practical Preparation - getting a "lay of the land"
-2. Physical Preparation - getting in shape to do a lot of walking and combating jet lag
-3. Spiritual Preparation - preparing to meet Yeshua in a life-changing way
+1. Practical Preparation - getting a "lay of the land."
+2. Physical Preparation - getting in shape to do a lot of walking and combating jet lag.
+3. Spiritual Preparation - preparing to meet Yeshua in a life-changing way.
 
 ### We believe these exact principles apply when learning Hebrew Grammar, the Holy Language way! {-}
 
@@ -30,8 +30,8 @@ According to Dr. Wayne Stiles, to get the most out of a tour to Israel, one must
 ### Getting a grammatical lay of the land {- }
 
 * In Israel, things like electrical outlets and certain customs are different. In the same way, Hebrew has characteristics and "customs" that are very different from English.
-* This guidebook<small>^[<small>We are your Hebrew grammar tour guide.  This is why why we are calling this a "guidebook" instead of a "textbook"!</small>]</small> has 35 lessons, each with a set of learning objectives we call __Seven Practical Points__`<small>^[<small>The lesson format generally follows that of <u>Basics of Biblical Hebrew</u> by Dr. Gary Pratico and Dr. Myles Van Pelt.  We make extensive use of derivative works by Dr. John Beckman, whose material accombanying <u>Basics of Biblical Hebrew</u> is freely available under the Creative Commons (CC-BY-SA) license.</small>]</small>   
-* These __Seven Practical Points__ are not meant to be an exhaustive discussion of the given topic.  We just want to give you an overview to get your journey started in the right direction.
+* This guidebook<small>^[<small>We are your Hebrew grammar tour guide.  This is why why we are calling this a "guidebook" instead of a "textbook"!</small>]</small> has 35 lessons, each with a set of learning objectives we call __Seven Practical Points__`<small>^[<small>The lesson format generally follows that of <u>Basics of Biblical Hebrew</u> by Dr. Gary Pratico and Dr. Myles Van Pelt.  We make extensive use of derivative works by Dr. John Beckman. His material accompanying <u>Basics of Biblical Hebrew</u> is freely available under the Creative Commons (CC-BY-SA) license.</small>]</small>   
+* These __Seven Practical Points__ are not an exhaustive discussion of the given topic.  We want to provide you with an overview to get your journey started in the right direction.
 
 But don't feel that we've let you fend for yourself like a tourist in a Jerusalem traffic jam!  We have a workout plan to get you into Hebrew Health, and we have established checks to make sure you have all the right equipment in your pack before you continue in your quest.
 
@@ -39,24 +39,25 @@ But don't feel that we've let you fend for yourself like a tourist in a Jerusale
 
 ### Getting Hebrew Healthy  {- }
 
-* In Israel you do a lot of walking so you need to be in physical shape.  Hebrew also has a lot of grammatical hills to climb, so we need to get Hebrew Healthy.
+* In Israel, you do a lot of walking, so you need to be in physical shape.  Hebrew also has a lot of grammatical hills to climb, so we need to get Hebrew Healthy.
 * To get in Hebrew shape, we're not going to go to a physical gym, but there is a powerful piece of equipment that will build your Hebrew strength and endurance.  It's called Anki.  
-    * The majority of your work in this course will be doing what we call `Anki Aerobics`.
-    * There will be three phases of Anki Aerobics with each Lesson: `Vocabulary`, `Grammar` concepts from the Lesson (expanding on the Seven Practical Points), and `Verses` (Bible verse translation).
-    * We will also have brief `Word Warm-up` videos designed to give you an introduction to that lesosn's vocabulary list
-    * There is an entire section in the Appendices devoted to [Anki](#anki_faq). 
+    * The majority of your work in this course will be doing what we call `Anki Aerobics.`
+    * There will be three phases of Anki Aerobics in each lesson: `Vocabulary,` `Grammar` concepts, reinforcing and expanding on the Seven Practical Points, and `Study Verses` (Bible verse translation).
+    * Beginning with Lesson 3, we will also have a brief `Word Warm-ups` video designed to give you an audio and visual introduction to that lesson's vocabulary list.
+    * There is an entire section in the Appendices devoted to [Anki](#anki_faq) if you'd like to read more. 
 
 ## 2b. Physical Preparation - `Quest Quiz` / `Equipment Check` {-}
 
 ### Combating "the fog" {- }
 
-* One can't fly halfway around the world and not experience jet lag. "The Fog"<small>^[<small>"The Fog" is a term coined by Dr. Bill Mounce, author of <u>Basics of Biblical Greek</u>, to describe the phenomenon of studying a grammar concept, thinking you understand it; but, you don't really understand it. .</small>]</small>  is grammar's version of jet lag.
-* Often, concepts you learn may not make sense until a lesson or two later.  This is natural and we just need to go with it.
-* Just like jet lag after a flight that lasts over 10 hours, we can't avoid the grammar fog completely, but we can minimize it.
-    * Anki's automatic review process<small>^[<small>By this we mean the *scheduling* and *queuing* of items to review is automatic.  You still need to do the work!</small>]</small> will be a huge help in working through The Fog.
-    * Each lesson will have a `Quest Quiz` for you to assess your progress. No grades are ever recorded in the course, but if you do get a lower score on a `Quest Quiz`, that could be an indication you aren't quite ready to move on.
-    * Most lessons will have an `Equipment Check` - We want to make sure you have the right supplies (i.e. grammar concepts from the previous chapter) in your backpack before you journey forward.
-* As Dr. Mounce says, if you find yourself getting discouraged, just look a couple of chapters back and you will probably now understand that chapter clearly.
+* One can't fly halfway around the world and not experience jet lag. "The Fog"<small>^[<small>"The Fog" is a term coined by Dr. Bill Mounce, author of <u>Basics of Biblical Greek</u>, to describe the phenomenon of studying a grammar concept, thinking you understand it; but, you come to find you don't fully understand it. .</small>]</small>  is grammar's version of jet lag.
+* Often, concepts you learn may not make sense until a lesson or two later.  Such "fog" is natural, and we need to go with it.
+* Just like jet lag after a flight that lasts over 10 hours, we can't avoid the grammar fog entirely.  What we can do is take steps to minimize it.
+    * Anki's automated review process<small>^[<small>By this, we mean the *scheduling* and *queuing* of items to review is automatic.  You will still need to do the work!</small>]</small> will be a huge help in working through The Fog.
+    * Each lesson will have a `Quest Quiz` for you to assess your progress. We do not assign grades for this course, but if you happen to get a lower score on a `Quest Quiz`, that could indicate you aren't quite ready to move on.
+    * Most lessons will have an `Equipment Check`. 
+       * We want to make sure you have the right "supplies," meaning the most significant grammar concepts from the previous chapter, in your backpack before you journey forward.
+* As Dr. Mounce says, if you find yourself getting discouraged, look a couple of chapters back, and you will likely realize that you are retaining more than you think you are.
 
 ## 3. Spiritual Preparation {-}
 
@@ -71,37 +72,35 @@ Suppose we view learning grammar as strictly an academic effort. We would risk m
 
 We have three aspects of being spiritually intentional in Hebrew GRAMMAR Quest: *prayer*, *scripture reading*, and *encouragement.*
 
-Since this is the most important part of the course, we're going to take each of these aspects as individual sections.
-
 ## 3a. **Prayer**: `Lesson Prayer` {- }
 
-> Philippians 4:6-7 Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. 7 And the peace of God, which surpasses all comprehension will guard your hearts and your minds in Yeshua our Messiah. 
+> Philippians 4:6-7 Be anxious for nothing, but in everything by prayer and supplication with thanksgiving, let your requests be made known to God. 7 And the peace of God, which surpasses all comprehension, will guard your hearts and your minds in Yeshua our Messiah. 
 
 * We want to begin each lesson with `Lesson Prayer`.
     * Each lesson will start with a suggested prayer topic.
     * You can focus on this, or maybe something else that is on your heart.
     * Pray and be open to what Yeshua may be teaching you!
     
-## 3b. **Scripture**: `Verses Warm-up` videos /  `Study Verses` / `Ruth Pursuits` {- }
+## 3b. **Scripture**: `Verse Warm-up` videos /  Anki `Study Verses` / `Ruth Pursuits` {- }
 
 > 2 Timothy 3:16-17 (NASB) All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; 17 so that the man of God may be adequate, equipped for every good work.
 
 * In a "Biblical Hebrew" class, it goes to follow that there should be a lot of "Bible"!  
 
-We have `Ruth Pursuits` "scavenger hunts" and `Study Verses` in Anki that will accompany each lesson.  Eventually, we will link up with Hebrew Quest and have a look at the [`Study Passages`](https://holylanguage.com/ot-readings.html).
+We have `Ruth Pursuits` and `Study Verses` in Anki to accompany each lesson.  We will eventually link up with Hebrew Quest and read selected [`Hebrew Quest Study Passages`](https://holylanguage.com/ot-readings.html) from Hebrew Quest Lessons 17-40.
 
 * `Ruth Pursuits` 
-    * We will grammar concepts while learning to read Ruth 1, the beautiful passage of Scripture where a gentile bride commits herself to serve the God of Israel.
+    * We will reinforce grammar concepts while learning to read Ruth 1.  Ruth 1 is the beautiful passage of Scripture where a gentile bride commits herself to serve the God of Israel.
     * If you recall the "bag the letter" activities from the initial Hebrew Quest lessons, the `Ruth Pursuits` are similar.
-    * We will give you some things to find (like a scavenger hunt) and then we send you off into the grammar wilderness for you to find them in the Hebrew of Ruth Chapter 1.
-* `Study Verses` 
+    * We will give you some things to find (like a scavenger hunt), and then we send you off into the grammar wilderness for you to find them in the Hebrew of Ruth Chapter 1.
+* `Verse Warm-up` video and Anki`Study Verses` 
     * You will read and begin to translate passages of Scripture in Anki.
-    * Similar to the `Vocab Warm-up Video`, we have the `Verses Warm-up Video`. You'll also listen to the audio by Izzy to begin to hear the sound of the language.
+    * Similar to the `Word Warm-up`, we have the `Verse Warm-up` Video. You'll also listen to the audio by Izzy to begin to hear the sound of the language.
     * There are over 400 study verses across all 35 lessons!
 * `Hebrew Quest Study Passages`
-    * Starting with Lesson 18, we will add an additional ACTIVity to read one of the `Hebrew Quest Study Passages` from **Hebrew Quest**<small>^[<small>If you're wondering about ACTIVity workload, starting with the second half of the course, the `Ruth Pursuits` will gradually give way to the Hebrew Quest `Study Passages`. The second half of the course is all about the derived verb stems.  Ruth 1 has comparatively few of these to be found.</small>]</small>.
+    * Starting with Lesson 18, we will add an ACTIVity to read one of the `Hebrew Quest Study Passages` from **Hebrew Quest**<small>^[<small>If you're wondering about ACTIVity workload, starting with the second half of the course, the `Ruth Pursuits` will gradually give way to the Hebrew Quest `Study Passages`. The second half of the course is all about the derived verb stems.  Ruth 1 has comparatively few of these to be found.</small>]</small>.
     * You will read it initially on your own and highlight anything you don't know.
-    * Then you will watch the video with Izzy's guided reading and commentary.
+    * Then, you will watch the video with Izzy's guided reading and commentary.
 
 ## 3c. **Encouragement**: `Twelve Tribes Badges` and `Graduation` {.unnumbered }
 
@@ -118,27 +117,28 @@ We have `Ruth Pursuits` "scavenger hunts" and `Study Verses` in Anki that will a
         * At the end of each unit, you will be eligible for a `Certificate`.
         * When you finish the entire course, we'll send you a printable `Diploma` and your choice of a clay lamp or Hebrew letters mug<small>^[<small>Why not complete both Hebrew Quest and Hebrew GRAMMAR Quest so you can earn the lamp **AND** the mug!</small>]</small>.
 
-## ACTIVities {-}
+## A typical lesson {-}
 
-So you can see this course is going to be jam-packed with things to do.  In keeping with our philosophy that active learning is better than passive learning, we refer to our activities as as `ACTIVities`.  You'll recognize an ACTIVity in this book by `this special font`.
+In keeping with our philosophy that active learning is better than passive learning, we refer to our activities as `ACTIVities`.  You'll recognize an ACTIVity in this book by `this special font`.
 
-When you see an ACTIVity, just remember that it's all part of us showing you how to fish instead of just telling you about fishing!
+Here is what will be inside a typical lesson:
 
+1. `Lesson Prayer` before each lesson
+1. `Equipment Check` from the previous lesson
+1. Seven Practical Points - the lesson's key learning objectives
+2. `Worksheets` (selected lessons only)
+1. `Word and Verse Warm-ups` (starting with Lesson 3)
+1. `Anki Aerobics`
+    1. `A. Vocab`
+    1. `B. Grammar`
+    2. `C. Study Verses`
+1. `Ruth Pursuit`
+3. `Hebrew Quest Study Passages` (starting with Lesson 18)
+3. `Quest Quiz` 
 
-### A typical lesson's ACTIVities {-}
+Additionally, there will be `Twelve Tribes Badges` and `Graduation` after selected lessons as encouragement
 
-1. **Practical Preparation** - Seven Practical Points, the key learning objectives from each Lesson
-2. **Physical Preparation**
-    1. `Video Warm-ups` (starting with Lesson 3)
-    1. `Anki Aerobics`
-    2. `Worksheets` (selected lessons only)
-    3. `Quest Quiz` 
-3. **Spiritual Preparation** 
-    1. `Lesson Prayer` before each Lesson
-    1. `Ruth Pursuit`
-    2. `Study Verses`
-    3. `Hebrew Quest Study Passages` (starting with Lesson 18)
-    4. `Twelve Tribes Badges` and `Graduation` after selected lessons as encouragement
+So you can see, this course is going to be jam-packed with things to do. 
+When you encounter an ACTIVity, remember that it's all part of showing you how to fish instead of just our telling you about fishing!
 
-
-## Let's get started! {-}
+### Let's get started! {-}
