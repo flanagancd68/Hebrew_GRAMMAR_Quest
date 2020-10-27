@@ -11,7 +11,7 @@ We noticed other students began to drop off between lessons 12 and 16<small>^[<s
 As we searched for external Biblical Hebrew grammar resources to recommend to our students, we noticed that they tended to fall into one of two camps:
 
 1. <u>A workbook or a series of videos that are completely self-paced/self-directed</u>. 
-    * There may be a some exercises, but in general, tend to not be rigorous from an academic standpoint.
+    * There may be some exercises, but in general, tend to not be rigorous from an academic standpoint.
     * Additionally, with this format there is no way for a student to get feedback on progress.
     
 2. <u>Academic/Seminary level textbooks and courses</u>. 
@@ -29,14 +29,14 @@ Additionally, materials from both categories would have required significant add
 
 Although many of the resources we researched are top-notch, here is what ***we*** wanted to see in our ideal Hebrew grammar course:
 
-* In terms of rigor, the course would necessarily be easy (maybe partway between the self-paced workbooks and an academic course), but it would enjoyable with a low-stress level.
+* In terms of content and rigor, the course would <u>not</u> necessarily be easy (perhaps something partway between the self-paced workbooks and an academic course), but it would enjoyable with a low-stress level.
 * The course would be self-paced for independent learning, but provide feedback and encouragement
 * The course must align with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphazise active forms of learning more than tons of reading and long lectures (which are passive learning components)
-* From a technological standpoint, the course simple and inexpensive to deliver, and maintain, but also high-quality and visually pleasant.
-* It would be easy (and free, if possible) for our students to use.
-* Most importantly, the course would be Yeshua-centered that approaches learning Hebrew as a spiritual as well as academic endeavor
+* From a technological standpoint, the course must be simple and inexpensive to deliver and maintain, but also high-quality and visually pleasant.
+* The course should be straightforward (and free, if possible) for our students to use.
+* Most importantly, the course must be Yeshua-centered that approaches learning Hebrew as a spiritual as well as academic endeavor.
 
 We couldn't find a course like this...so we BUILT it ourselves!
 
-> Welcome to Hebrew GRAMMAR Quest: Biblical Hebrew, the Holy Language way!
+> Welcome to Hebrew GRAMMAR Quest: Biblical Hebrew Grammar, the Holy Language way!
 
