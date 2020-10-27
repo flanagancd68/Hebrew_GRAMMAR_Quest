@@ -1,14 +1,14 @@
 # Quick start {.unnumbered #get_started}
 
-This page will get you up and running with the course.  We encourage you to read the other introductory materials before you jump in.
+This page will get you up and running with the course.  We do encourage you to read the other introductory materials before you jump in.
 
 NOTE: Eventually, you can do all work from a mobile device.  For the initial Anki install, you do need to do these steps from a desktop or laptop. 
 
-1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}
-1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}
-1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}<small>^[<small>If you do not have access to a desktop/laptop computer to install Anki, but do have access to a mobile device, we likely can help. Contact us for assistance at holylanguagecourses@gmail.com.</small>]</small>
-1. [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"}<small>^[<small>The full program including all 35 Lessons in this book and the complete Anki package will be are available to subscribers of Holy Language Institute in 2021.</small>]</small>
-1. Change the settings [as described here](#anki_settings)
+1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}.
+1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}.
+1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}<small>^[<small>If you do not have access to a desktop/laptop computer to install Anki, but do have access to a mobile device, we likely can help. Contact us for assistance at holylanguagecourses@gmail.com.</small>]</small>.
+1. [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"}<small>^[<small>The full program including all 35 Lessons in this book and the complete Anki package will be are available to subscribers of Holy Language Institute in 2021.</small>]</small>.
+1. Change the settings [as described here](#anki_settings).
 1. Download the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"} for you to keep track of your progress in this course.
     * Make a copy:
         * `File` then select `Make a copy` to save a copy to your Google drive (recommended)
