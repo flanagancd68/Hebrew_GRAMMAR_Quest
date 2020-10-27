@@ -15,7 +15,7 @@ include_graphics("images/treadmill.png")
 If one wants to build strength, she might use the weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
 
 
-## Anki is Gym Equipment for your Brain {-}
+> Anki is Gym Equipment for your Brain 
 
 ```{r, out.width = "350pt", fig.align='center', fig.cap="Anki Home Screen"}
 
@@ -44,18 +44,19 @@ Thus, it is not just a flashcard program but is a tremendous strength and endura
 ### Below is the main set you will want to change.  Enter these numbers carefully: {-}
 
 1. Back on the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select “Options”
-    1. `New Cards`
+    1. `New Cards`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information</small>]</small>
+        * `Steps` = 10 1440 4320
         * `New cards/day` = 200
         * `Graduating interval` = 15
         * `Easy interval` = 60
         * `Starting ease` = 250%
-        * `Bury related new cards...` = CHECKED
-    2. `Reviews`
+        * `Bury related new cards...` = Up to you but we recommend - CHECKED
+    2. `Reviews`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=reviews for additional information</small>]</small>
         * `Maximum reviews/day` = 9999
         * `Easy bonus` = 130%
         * `Interval modifier` = 100
         * `Maximum interval` = 210
-        * `Bury related reviews...` = CHECKED    
+        * `Bury related reviews...` = Up to you but we recommend - CHECKED    
     3. `Lapses`
         * `Steps` = 10
         * `New interval` = 1
@@ -85,7 +86,8 @@ include_graphics("images/anki_web-based.png")
 include_graphics("images/anki_mobile_decks.PNG")
 include_graphics("images/anki_mobile_card.PNG")
 ```
-## Navigating within Anki {-}
+
+## How do I navigate within Anki? {-}
 
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Anki - subdecks collapsed"}
@@ -129,7 +131,7 @@ Most importantly, be patient with yourself.  It may take you many tries in the e
 
 Learning a new language is not easy.  We applaud you for the Hebrew learning road you are now taking!
 
-## Anki Add-ons {-}
+## What are Anki Add-ons? {-}
 
 * Add-ons are small packages that extend the base application of Anki.
 * Many add-ons are geared towards the developers/editors of decks, but there are a few that enhance the end-user experience
@@ -156,6 +158,32 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 include_graphics("images/a.year_heatmap.png")
 ```  
 
+## How do I know when I'm done with a deck? {-}
+
+Learning and active-recall is an on-going process. In theory, Anki will keep scheduling reviews until you delete the deck.  This follows a "use it or lose it" philosophy.  If we spend a day learning some material but then don't think about it again for two weeks, we're likely to forget most of it.
+
+_At a minimum_ to be eligible for the `Certificate`<small>^[<small>Certificates are not available in the Preview Version of Hebrew GRAMMAR Quest.</small>]</small> and `Diploma`, you will need to provide a screenshot from the Anki `Stats`.  The `Card Counts` pie chart should reflect ALL cards for the unit are in the `Mature` row.
+
+```{r, out.width = "300pt", fig.align='center', fig.cap="Card Counts chart from Anki Stats showing all cards = Mature"}
+
+knitr::include_graphics("images/anki_mature.png")
+``` 
+
+<!-- Please see [`Graduation` process page]() for additional information -->
+
+## What do the different card stages mean? {-}
+
+There are a few different terms Anki uses for different stages of card maturity:
+
+
+* `New` Cards
+    * `Unseen` - A card you have not seen!
+    * `Learn` - a card you have seen that is in the initial learning phase. Based on our settings above, you need to get a card correctly three consecutive times for three days in a row (4320 minutes) to move from `Learn` to `Young`.
+* `Review` Cards
+    * `Young` - a card that has "graduated" from the `Learn` stage, but has a calculated review interval of less than 21 days
+    * `Mature` - a card that has a calculated review interval greater than 21 days
+* `Lapse` - a card formerly in the `Review` category that was answered incorrectly
+    * `Relearn` - the phase to describe a lapsed card that you are relearning
 
 ## Can I add an image or a hint? {-}
 
