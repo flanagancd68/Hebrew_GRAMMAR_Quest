@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 h1.title {
-  font-weight: 700;
+  font-weight: 100;
 }
 .book .book-body .page-wrapper .page-inner section.normal strong {
   font-weight: 500;
@@ -92,4 +92,12 @@ a[aria-describedby="footnote-label"]::after {
 a[aria-describedby="footnote-label"]:focus::after {
   outline: thin dotted;
   outline-offset: 2px;
+} 
+
+/**
+Added 10/28/2020 
+*/
+
+.title {
+    visibility: hidden;
 }
