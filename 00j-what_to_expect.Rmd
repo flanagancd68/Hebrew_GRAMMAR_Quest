@@ -7,7 +7,7 @@ include_graphics("images/torah_scroll.jpg")
 
 Many Hebrew grammar courses and books treat learning God's Holy Language as if it were just another academic exercise. Listen to a lecture, read a chapter, take a test, and you'll learn Hebrew. 
 
-At Holy Language, we believe that we learn best by doing, not by being passive. Suppose you watched the original Hebrew Quest videos. In that case, you might remember Izzy Avraham, our founder, talking about giving someone a fish versus showing that person how to fish<small>^[<small>See [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php)</small>]</small>.  Other approaches may "feed" you Hebrew. Learning  Hebrew grammar, the Holy Language Way, means we're going to show you how to catch your own  Hebrew fish.  
+At Holy Language, we believe that we learn best by _doing_. Suppose you watched the original Hebrew Quest videos. In that case, you might remember Izzy Avraham, our founder, talking about giving someone a fish versus showing that person how to fish<small>^[<small>See [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php)</small>]</small>.  Other approaches may "feed" you Hebrew. Learning  Hebrew grammar, the Holy Language Way, means we're going to show you how to catch your own  Hebrew fish.  
 
 So what you're reading right now is not just a textbook.  It is an interactive guidebook to your PERSONAL Hebrew _Grammar_ <u>Quest</u>!
 
@@ -29,7 +29,7 @@ According to Dr. Wayne Stiles, to get the most out of a tour to Israel, one must
 
 ### Getting a grammatical lay of the land {- }
 
-* In Israel, things like electrical outlets and certain customs are different. In the same way, Hebrew has characteristics and "customs" that are very different from English.
+* In Israel, things like electrical outlets and certain customs are different. The temperature difference between the Dead Sea and Jerusalem, a distance of just 70 miles, can be 30 degrees (F) or more. In the same way, Hebrew has characteristics, customs, climates that are *very* different from English.
 * This guidebook<small>^[<small>We are your Hebrew grammar tour guide.  This is why why we are calling this a "guidebook" instead of a "textbook"!</small>]</small> has 35 lessons, each with a set of learning objectives we call __Seven Practical Points__`<small>^[<small>The lesson format generally follows that of <u>Basics of Biblical Hebrew</u> by Dr. Gary Pratico and Dr. Myles Van Pelt.  We make extensive use of derivative works by Dr. John Beckman. His material accompanying <u>Basics of Biblical Hebrew</u> is freely available under the Creative Commons (CC-BY-SA) license.</small>]</small>   
 * These __Seven Practical Points__ are not an exhaustive discussion of the given topic.  We want to provide you with an overview to get your journey started in the right direction.
 
@@ -48,27 +48,27 @@ But don't feel that we've let you fend for yourself like a tourist in a Jerusale
 
 ## 2b. Physical Preparation - `Quest Quiz` / `Equipment Check` {-}
 
-### Combating "the fog" {- }
+### Combating "The tTog" {- }
 
 * One can't fly halfway around the world and not experience jet lag. "The Fog"<small>^[<small>"The Fog" is a term coined by Dr. Bill Mounce, author of <u>Basics of Biblical Greek</u>, to describe the phenomenon of studying a grammar concept, thinking you understand it; but, you come to find you don't fully understand it. .</small>]</small>  is grammar's version of jet lag.
-* Often, concepts you learn may not make sense until a lesson or two later.  Such "fog" is natural, and we need to go with it.
-* Just like jet lag after a flight that lasts over 10 hours, we can't avoid the grammar fog entirely.  What we can do is take steps to minimize it.
+* Often, concepts you learn may not make sense until a lesson or two later.  Such "fog" is natural.
+* Just like jet lag after a flight that lasts over 10 hours, we can't avoid the grammar Fog entirely.  What we can do is take steps to minimize it.
     * Anki's automated review process<small>^[<small>By this, we mean the *scheduling* and *queuing* of items to review is automatic.  You will still need to do the work!</small>]</small> will be a huge help in working through The Fog.
-    * Each lesson will have a `Quest Quiz` for you to assess your progress. We do not assign grades for this course, but if you happen to get a lower score on a `Quest Quiz`, that could indicate you aren't quite ready to move on.
-    * Most lessons will have an `Equipment Check`. 
-       * We want to make sure you have the right "supplies," meaning the most significant grammar concepts from the previous chapter, in your backpack before you journey forward.
-* As Dr. Mounce says, if you find yourself getting discouraged, look a couple of chapters back, and you will likely realize that you are retaining more than you think you are.
+    * Each lesson will also have a `Quest Quiz` for you to assess your progress. We do not assign grades for this course, but if you happen to get a lower score on a `Quest Quiz`, that could indicate you need some more exercise time before moving on.
+    * As an additional counter-balance against The Fog, most lessons will have an `Equipment Check`. 
+       * We want to make sure you have the right "supplies," meaning the most significant concepts from the previous chapter, savely in your grammar backpack before you journey forward.
+* As Dr. Mounce says, if you find yourself getting discouraged, look a couple of chapters back, and you will realize that you are likely retaining more than you think you are.
 
 ## 3. Spiritual Preparation {-}
 
 ### Preparing to meet Yeshua in a life-changing way {- }
 
 
-A trip to Israel is not like any other "vacation" - it's a spiritual journey. Unfortunately, all some do is see some cool sites and take some pictures.  Imagine going all that way only to miss a tremendous opportunity to meet Yeshua in His extraordinary Land.
+A trip to Israel is not like any other "vacation" - it's a spiritual journey. Unfortunately, all some people do is see a few cool sites and take some pictures.  Imagine going all that way only to miss a tremendous opportunity to meet Yeshua in His extraordinary Land!
 
-Similarly, Hebrew GRAMMAR Quest is a spiritual journey! 
+Similarly, Hebrew GRAMMAR Quest is a spiritual journey! We could treat learning grammar as strictly an academic effort. Then, we would risk missing insights Yeshua might want to teach us to deepen our faith.  
 
-Suppose we view learning grammar as strictly an academic effort. We would risk missing insights Yeshua might want to teach us. 
+It's important to be spiritually mindful both when traveling to Israel and when learning Hebrew Grammar. 
 
 We have three aspects of being spiritually intentional in Hebrew GRAMMAR Quest: *prayer*, *scripture reading*, and *encouragement.*
 
@@ -87,7 +87,7 @@ We have three aspects of being spiritually intentional in Hebrew GRAMMAR Quest: 
 
 * In a "Biblical Hebrew" class, it goes to follow that there should be a lot of "Bible"!  
 
-We have `Ruth Pursuits` and `Study Verses` in Anki to accompany each lesson.  We will eventually link up with Hebrew Quest and read selected [`Hebrew Quest Study Passages`](https://holylanguage.com/ot-readings.html) from Hebrew Quest Lessons 17-40.
+We have `Ruth Pursuits` and `Study Verses` in Anki to accompany each lesson.  Later in the course, we will link up with Hebrew Quest and read selected [`Hebrew Quest Study Passages`](https://holylanguage.com/ot-readings.html) from Hebrew Quest Lessons 17-40.
 
 * `Ruth Pursuits` 
     * We will reinforce grammar concepts while learning to read Ruth 1.  Ruth 1 is the beautiful passage of Scripture where a gentile bride commits herself to serve the God of Israel.
@@ -99,23 +99,26 @@ We have `Ruth Pursuits` and `Study Verses` in Anki to accompany each lesson.  We
     * There are over 400 study verses across all 35 lessons!
 * `Hebrew Quest Study Passages`
     * Starting with Lesson 18, we will add an ACTIVity to read one of the `Hebrew Quest Study Passages` from **Hebrew Quest**<small>^[<small>If you're wondering about ACTIVity workload, starting with the second half of the course, the `Ruth Pursuits` will gradually give way to the Hebrew Quest `Study Passages`. The second half of the course is all about the derived verb stems.  Ruth 1 has comparatively few of these to be found.</small>]</small>.
-    * You will read it initially on your own and highlight anything you don't know.
+    * We believe this is where the grammar rubber will meet the biblical road!
+    * You will read the passage initially on your own and highlight anything you don't know.
     * Then, you will watch the video with Izzy's guided reading and commentary.
 
 ## 3c. **Encouragement**: `Twelve Tribes Badges` and `Graduation` {.unnumbered }
 
 > 1 Thessalonians 5:11 (NASB) Therefore, encourage one another and build up one another, just as you also are doing.
 
-* Hebrew GRAMMAR Quest is not a quick sprint.  It's a long journey for which you will need intense training. It will be critical to stay encouraged to finish the quest!
+* Hebrew GRAMMAR Quest is not a quick sprint.  It's a long trek for which you will need intense training and a significant time commitment. It will be critical to stay encouraged to finish the quest!
 * `Twelve Tribes Badges`<small>^[<small>Only one badge is available in the preview version of the course.</small>]</small>
     * Each of the Twelve Tribes has an emblem or symbol that has traditionally be associated with that tribe.
     * Taken in total, all Twelve Tribes can teach us different aspects of our relationships with God and our neighbors.
     * After two or three lessons, you will have the ability to "unlock" a new badge and learn more about what that tribe represents for us.
-    * We will ask you to confirm that you have completed all listed ACTIVities up to that point. Once you do this, you will receive your badge!
+    * We will ask you to confirm that you have completed all listed ACTIVities up to that point using our [Course Checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing). Once you do this, you will receive your badge!
 * `Graduation`<small>^[<small>Not available in the preview version of the course.</small>]</small>
-        * For Hebrew GRAMMAR Quest, there will be a `Graduation ` process, similar to what we have for [Hebrew Quest](https://holylanguage.com/graduate.html){target="_blank"}
-        * At the end of each unit, you will be eligible for a `Certificate`.
-        * When you finish the entire course, we'll send you a printable `Diploma` and your choice of a clay lamp or Hebrew letters mug<small>^[<small>Why not complete both Hebrew Quest and Hebrew GRAMMAR Quest so you can earn the lamp **AND** the mug!</small>]</small>.
+    * For Hebrew GRAMMAR Quest, there will be a `Graduation ` process, similar to what we have for [Hebrew Quest](https://holylanguage.com/graduate.html){target="_blank"}
+    * At the end of each unit, you will be eligible for a `Certificate`.
+    * You will need to submit your completed Course Checklist along with a screenshot from Anki showing that you have studied all of the concepts.  It won't be quick or easy but we know you can do it!
+    * When you finish the entire course and submit your completed Course Checklist and Anki screen shot, we'll send you a printable `Diploma` and your choice of a clay lamp or Hebrew letters mug
+    * In fact, why not complete both Hebrew Quest and Hebrew GRAMMAR Quest so you can earn the lamp **AND** the mug!
 
 ## A typical lesson {-}
 
@@ -139,6 +142,7 @@ Here is what will be inside a typical lesson:
 Additionally, there will be `Twelve Tribes Badges` and `Graduation` after selected lessons as encouragement
 
 So you can see, this course is going to be jam-packed with things to do. 
+
 When you encounter an ACTIVity, remember that it's all part of showing you how to fish instead of just our telling you about fishing!
 
 ### Let's get started! {-}

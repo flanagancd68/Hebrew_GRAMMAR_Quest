@@ -69,7 +69,7 @@ Your settings should look like this:
 knitr::include_graphics("images/anki_custom_new.png")
 ```
 
-
+[Return to Quick Start page](#get_started)
 
 ## How do I access Anki on my mobile device?
 
