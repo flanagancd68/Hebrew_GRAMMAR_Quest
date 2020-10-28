@@ -43,8 +43,3 @@ Additional topics to be covered in the full ***Hebrew GRAMMAR Quest*** book/cour
 34 The Hithpael Stem - Strong Verbs   
 35 The Hithpael Stem - Weak Verbs  
 
-# Post Course Survey {-}
-
-[Open survey in new tab](https://docs.google.com/forms/d/e/1FAIpQLSdIPNJZyUnAuuQ-sfX3Tx0OxvlqoNw7LmkYvc-NUpYdyiYwxQ/viewform?usp=sf_link){target="_blank}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIPNJZyUnAuuQ-sfX3Tx0OxvlqoNw7LmkYvc-NUpYdyiYwxQ/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>

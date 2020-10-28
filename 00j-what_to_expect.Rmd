@@ -41,7 +41,7 @@ include_graphics("images/euro_adapter.jpg")
 
 But don't feel that we've let you fend for yourself like a tourist in a [Jerusalem traffic jam](https://blog.dashburst.com/wp-content/uploads/2014/03/traffic-jam-in-jerusalem-israel-1024x590.jpg){target="_blank"}!  We have a workout plan to get you into Hebrew Health, and we have established checks to make sure you have all the right equipment in your pack before you continue in your quest.
 
-## 2a. Physical Preparation - `Anki Aerobics` and `Word Warm-up` videos {-}
+## 2a. Physical - `Anki Aerobics` and `Word Warm-up` videos {-}
 
 ```{r, out.width = "300pt", fig.align='center'}
 knitr::include_graphics("images/hiking.jpg")
@@ -51,13 +51,13 @@ knitr::include_graphics("images/hiking.jpg")
 ### Get Hebrew Healthy  {- }
 
 * In Israel, there are a lot of hills and tourists do a lot of walking, so one needs to be in physical shape.  Hebrew also has a lot of grammatical hills to climb, so we need to get Hebrew Healthy.
-* To get in Hebrew shape, we're not going to go to a physical gym, but there is a powerful piece of equipment that will build your Hebrew strength and endurance.  It's called Anki.  
+* To get in Hebrew shape, we won't go to a physical gym, but there is a powerful piece of equipment that will build your Hebrew strength and endurance.  It's called Anki.  
     * The majority of your work in this course will be doing what we call `Anki Aerobics.`
     * There will be three phases of Anki Aerobics in each lesson: `Vocabulary,` `Grammar` concepts, reinforcing and expanding on the Seven Practical Points, and `Study Verses` (Bible verse translation).
     * Beginning with Lesson 3, we will also have a brief `Word Warm-ups` video designed to give you an audio and visual introduction to that lesson's vocabulary list.
-    * There is an entire section in the Appendices devoted to [Anki](#anki_faq) if you'd like to read more. 
+    * There is an entire section in the Appendices devoted to [Anki](#anki_faq) as well as the [Anki official documentation](https://docs.ankiweb.net/#/background){target="_blank"} if you'd like to read more. 
 
-## 2b. Physical Preparation - `Quest Quiz` / `Equipment Check` {-}
+## 2b. Physical - `Quest Quiz` / `Equipment Check` {-}
 
 ### Combat "The Fog" {- }
 
@@ -96,13 +96,11 @@ We have three aspects of being spiritually intentional in Hebrew GRAMMAR Quest: 
     * You can focus on this, or maybe something else that is on your heart.
     * Pray and be open to what Yeshua may be teaching you!
     
-## 3b. **Scripture**: `Verse Warm-up` videos /  Anki `Study Verses` / `Ruth Pursuits` {- }
+## 3b. **Scripture**: `Verse Warm-up` videos,  Anki `Study Verses` / `Ruth Pursuits`, `Hebrew Quest Study Passages` {- }
 
 > 2 Timothy 3:16-17 (NASB) All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; 17 so that the man of God may be adequate, equipped for every good work.
 
 * In a "Biblical Hebrew" class, it goes to follow that there should be a lot of "Bible"!  
-
-We have `Ruth Pursuits` and `Study Verses` in Anki to accompany each lesson.  Later in the course, we will link up with Hebrew Quest and read selected [`Hebrew Quest Study Passages`](https://holylanguage.com/ot-readings.html) from Hebrew Quest Lessons 17-40.
 
 * `Ruth Pursuits` 
     * We will reinforce grammar concepts while learning to read Ruth 1.  Ruth 1 is the beautiful passage of Scripture where a gentile bride commits herself to serve the God of Israel.
@@ -110,7 +108,7 @@ We have `Ruth Pursuits` and `Study Verses` in Anki to accompany each lesson.  La
     * We will give you some things to find (like a scavenger hunt), and then we send you off into the grammar wilderness for you to find them in the Hebrew of Ruth Chapter 1.
 * `Verse Warm-up` video and Anki`Study Verses` 
     * You will read and begin to translate passages of Scripture in Anki.
-    * Similar to the `Word Warm-up`, we have the `Verse Warm-up` Video. You'll also listen to the audio by Izzy to begin to hear the sound of the language.
+    * Similar to the `Word Warm-up`, we have the `Verse Warm-up` video. You'll also listen to the audio by Izzy to begin to hear the sound of the language.
     * There are over 400 study verses across all 35 lessons!
 * `Hebrew Quest Study Passages`
     * Starting with Lesson 18, we will add an ACTIVity to read one of the `Hebrew Quest Study Passages` from **Hebrew Quest**<small>^[<small>If you're wondering about ACTIVity workload, starting with the second half of the course, the `Ruth Pursuits` will gradually give way to the Hebrew Quest `Study Passages`. The second half of the course is all about the derived verb stems.  Ruth 1 has comparatively few of these to be found.</small>]</small>.
@@ -134,36 +132,3 @@ We have `Ruth Pursuits` and `Study Verses` in Anki to accompany each lesson.  La
     * You will need to submit your completed Course Checklist along with a screenshot from Anki showing that you have studied all of the concepts.  It won't be quick or easy but we know you can do it!
     * When you finish the entire course and submit your completed Course Checklist and Anki screen shot, we'll send you a printable `Diploma` and your choice of a clay lamp or Hebrew letters mug
     * In fact, why not complete both Hebrew Quest and Hebrew GRAMMAR Quest so you can earn the lamp **AND** the mug!
-
-# A typical lesson {-}
-
-```{r, out.width = "400pt", fig.align='center'}
-knitr::include_graphics("images/checklist.png")
-```
-
-In keeping with our philosophy that active learning is better than passive learning, we refer to our activities as `ACTIVities`.  You'll recognize an ACTIVity in this book by `this special font`.
-
-Here is what will be inside a typical lesson:
-
-1. `Lesson Prayer` before each lesson
-1. `Equipment Check` from the previous lesson
-1. Seven Practical Points - the lesson's key learning objectives
-2. `Worksheets` (selected lessons only)
-1. `Word and Verse Warm-ups` (starting with Lesson 3)
-1. `Anki Aerobics`
-    1. `A. Vocab`
-    1. `B. Grammar`
-    2. `C. Study Verses`
-1. `Ruth Pursuit`
-3. `Hebrew Quest Study Passages` (starting with Lesson 18)
-3. `Quest Quiz` 
-
-Additionally, there will be `Twelve Tribes Badges` and `Graduation` after selected lessons as encouragement
-
-So you can see, this course is going to be jam-packed with things to do. 
-
-When you encounter an ACTIVity, remember that it's all part of showing you how to fish instead of just our telling you about fishing! 
-
-So, grab your [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"} and...
-
-### Let's get started! {-}

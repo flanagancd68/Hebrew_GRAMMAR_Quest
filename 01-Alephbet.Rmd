@@ -171,8 +171,8 @@ include_graphics("images/01.izzy_aleph.jpg")
 include_graphics("images/vav.png")
 ```
 
-* There are some notable differences between what we might call academic or "seminary" Hebrew and "real-world" Hebrew.
-    * Real-world Hebrew is based on Sephardic pronunciation<small>^[<small>"Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.</small>]</small>
+* There are some notable differences between what we might call academic or "seminary<small>^[<small>"Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.</small>]</small>" Hebrew and "real-world" Hebrew.
+    * Real-world Hebrew is based on Sephardic pronunciation
 * We've already talked about how only three of the Daghesh Lene letters need to "buck up"<small>^[<small>With "Seminary Hebrew," the ג without the Daghesh Lene receives something like the GH in "aGHast." The ד and ת without the Daghesh Lene are closer to the English TH like "this." </small>]</small>
 * Another difference between Sephardic and Seminary pronunciation is how to pronounce ו 
     * In academia, the consonant receives the "w" sound and is called "Waw." 
@@ -180,15 +180,21 @@ include_graphics("images/vav.png")
 * There are also significant differences in pronouncing vowels, which we will talk about in Lesson 2.
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
 * Some terms like "Waw consective" and "wayyiqtol" are prevalent in the field of Hebrew Grammar, including modern Bible software (see image).
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "600pt", fig.align='center'}
 include_graphics("images/wayyiqtol.png")
 ```
-* This Guidebook and course will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Holy Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew," you would see the name "Y--w-h" frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the name (and request their students do the same), so this is not a hard and fast "academic" distinction</small>]</small>.
+* We will use "Adonai" or "the LORD" when we encounter the Tetragramaton<small>^[<small>Pronouncing/writing/transliterating the Covenang Name of God tends to be much more common in Christian academic circles. If you were to read "Basics of Biblical Hebrew," you would see the name "Y--w-h" frequently. We do know of academians, such as Dr. John Beckman and Dr. Robert Cargill, who will use the circumlocution of respect instead of pronouncing the Name (and request their students do the same), so this is not a hard and fast "academic" distinction.  Also we know circomlocutions were common in Yeshua's day.  We can infer that He never called His Father by the Covenant Name.  If Yeshua had, the religious establishment likely would have added this breach of decorum to their list of complaints about Him.</small>]</small>.
 
 
-## `Letter Writing worksheet` {-}
+## `Worksheets`: Letter Writing {-}
 
-* Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
+Welcome to your first "Physical" ACTIVity!
+
+There are two separate components:
+
+1. Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
+    * If you would like some tips on how to write the letters, you can use [this guide](https://drive.google.com/file/d/1cmrCXcafjwvbMNj7GgX7UPMGA0FcwvWN/view?usp=sharing){target="_blank"} from Dr. Beckman.
+    * As we've said before, we strongly encourage everone to watch (or re-watch) the [_Hebrew Quest_ lessons on the Aleph-Bet](https://holylanguage.com/letters.html){target="_blank"}
 * Practice writing the entire AlephBet until you can do it five times from memory.
 
 ## `Anki Aerobics` {-}

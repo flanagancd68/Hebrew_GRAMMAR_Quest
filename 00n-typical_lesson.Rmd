@@ -1,0 +1,32 @@
+# A typical lesson {-}
+
+```{r, out.width = "400pt", fig.align='center'}
+knitr::include_graphics("images/checklist.png")
+```
+
+In keeping with our philosophy that active learning is better than passive learning, we refer to our activities as `ACTIVities`.  You'll recognize an ACTIVity in this book by `this special font`.
+
+Here is what will be inside a typical lesson:
+
+1. `Lesson Prayer` before each lesson
+1. `Equipment Check` from the previous lesson
+1. Seven Practical Points - the lesson's key learning objectives
+2. `Worksheets` (selected lessons only)
+1. `Word and Verse Warm-ups` (starting with Lesson 3)
+1. `Anki Aerobics`
+    1. `A. Vocab`
+    1. `B. Grammar`
+    2. `C. Study Verses`
+1. `Ruth Pursuit`
+3. `Hebrew Quest Study Passages` (starting with Lesson 18)
+3. `Quest Quiz` 
+
+Additionally, there will be `Twelve Tribes Badges` and `Graduation` after selected lessons as encouragement
+
+So you can see, this course is going to be jam-packed with things to do. 
+
+When you encounter an ACTIVity, remember that it's all part of showing you how to fish instead of just our telling you about fishing! 
+
+So, grab your [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"} and...
+
+### Let's get started! {-}
