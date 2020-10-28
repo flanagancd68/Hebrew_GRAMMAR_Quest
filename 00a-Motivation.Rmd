@@ -1,5 +1,10 @@
 # (PART\*) Introduction {-}
 
+```{r, out.width = "300pt", fig.align='center'}
+
+include_graphics("images/hq_grammar.jpg")
+``` 
+
 # Motivation for building this course {- #motivation}
 
 If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to the Jewishness of our Messiah and our Bible.
@@ -26,7 +31,7 @@ Although many of the resources we researched are top-notch, they were not quite 
 
 (continued)
 
-## Holy Language grammar course wishlist {- #our_course}
+## Grammar course wishlist {- #our_course}
 
 ---
 
@@ -37,9 +42,9 @@ So what _were_ we seeking?
 * The course must align with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning, not tons of reading and long lectures (which are passive learning components).
 * From a technological standpoint, the course must be inexpensive and straightforward to deliver and maintain, while at the same time being high-quality and visually pleasant.
 * The course should be easy to use (and if at all possible, free) for our students.
-* Most importantly, the course must be Yeshua-centered that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor.
+* Most importantly, the course must be Yeshua-centered that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy).
 
 We couldn't find a course like this...so we BUILT it ourselves!
 
-### Welcome to Hebrew GRAMMAR Quest: Biblical Hebrew Grammar, the Holy Language way! {-}
+### Welcome to Hebrew GRAMMAR Quest - Experience Biblical Hebrew Grammar, the Holy Language Way! {-}
 

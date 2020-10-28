@@ -1,11 +1,11 @@
-# Relationship with Hebrew Quest {- #hgq_and_hq}
+# An extension of Hebrew Quest {- #hgq_and_hq}
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "300pt", fig.align='center'}
 include_graphics("images/01.izzy_aleph.jpg")
 ```
 
 
-The reason we study Biblical Hebrew grammar is so we can better understand Biblical Hebrew.
+The reason we study Biblical Hebrew grammar is so we can better experience Biblical Hebrew.
 
 We'd like you to think of Hebrew GRAMMAR Quest as an extension of _Hebrew Quest_.   If you were to take a hypothetical microscope and inspect Lessons 12-15 of _Hebrew Quest_, Hebrew GRAMMAR Quest is what you would see. 
 

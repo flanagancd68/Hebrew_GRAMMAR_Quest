@@ -36,8 +36,8 @@ bookdown::gitbook:
 #   latex_engine: xelatex
 #   citation_package: natbib
 #   keep_tex: yes
-bookdown::epub_book:
-  pandoc_args: [ "--csl", "turabian-author-date.csl" ]
+# bookdown::epub_book:
+#  pandoc_args: [ "--csl", "turabian-author-date.csl" ]
 # bookdown::word_document2:
 #     toc: true
 #     toc_depth: 1

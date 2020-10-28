@@ -46,7 +46,7 @@ We have two purposes for this preview:
 
 [^index-1]: <small>Specifically, we seek your help us with proofing the style and content of this guidebook (typos and readability) and reviewing the Anki deck.</small>
 
-# REPORT AN ISSUE {-}
+# REPORT AN ISSUE {- #report_issue}
 
 Please do not hesitate to report errors, omissions, or improvement opportunities (in fact, we'd rather hear about mistakes sooner rather than later)! Feedback is anonymous.
 [Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}
