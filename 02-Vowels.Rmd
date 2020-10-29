@@ -2,7 +2,7 @@
 
 <!-- Grammarly check: 10/24/2020 213 lines -->
 
->And what is required first of all for training men for such a ministry is that the book should be given them in its very words [Hebrew, Aramaic, and Greek] as it has come from God's hand and in the fullness of its meaning, as that meaning has been ascertained by the labors of generations of men of God who have brought to bear upon it all the resources of sanctified scholarship and consecrated thought.”
+> "And what is required first of all for training men for such a ministry is that the book should be given them in its very words [Hebrew, Aramaic, and Greek] as it has come from God's hand and in the fullness of its meaning, as that meaning has been ascertained by the labors of generations of men of God who have brought to bear upon it all the resources of sanctified scholarship and consecrated thought.”
 ---B. B. Warfield<small>^[<small>Warfield, Benjamin Breckenridge. “The Languages of Pastoral Ministry,” in <u>Basics of Biblical Hebrew: Grammar</u>, edited by Gary D Pratico and Miles V Van Pelt. Grand Rapids, MI: Zondervan. 2007
 B.B. Warfield was a Presbyterian minister and professor of theology at Princeton Seminary from 1887 to 1921. ([wikipedia link](https://en.wikipedia.org/wiki/B._B._Warfield))</small>]</small>
 
@@ -40,7 +40,7 @@ include_graphics("images/stopil.png")
 Before continuing, can you name the following letters?
 
 * The twenty-two Aleph-Bet letters
-* The four BeGaD KePHaT letters
+* The six BeGaD KePHaT letters
 * The five KiMNePaTZ letters
 * The four guttural letters and the one sometimes-guttural letter
 
@@ -48,8 +48,9 @@ Before continuing, can you name the following letters?
 
 ### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
 
-Like the Aleph-bet, we are merely going to have to commit the table below to memory.
+Like the Aleph-bet, we are going to have to commit the table below to memory. Knowing the vowel types and classes will make your grammatical life much easier in the future.  The Anki exercises will break down each component and quiz you on small sections at a a time.  Eventually you'll get it!
 
+Notes:
 * The letter בּ is provided as a placeholder
 * Say the vowel _after_ saying the associated consonant<small>^[<small>We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.</small>]</small> So the first vowel example is "baw" not "awb".
 
@@ -64,6 +65,7 @@ Notes:
 * Future lessons will explain the difference between Qamets and Qamets Hatuf
 * Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
 * You might see Kibbuts, Kibbutz, Qibbutz, and Qibbuts used interchangeably
+* Interestingly, if you ever learned Spanish, the name of the vowels in Spanish are roughly how the long and short vowels are pronounced in Hebrew.  Perhaps you remember the Spanish mnemonic "a e i o u - arbolito de Peru"!
 
 
 ## Vocal  and Silent Sheva {#sheva}

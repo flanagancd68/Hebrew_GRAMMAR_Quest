@@ -195,7 +195,7 @@ There are two separate components:
 1. Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
     * If you would like some tips on how to write the letters, you can use [this guide](https://drive.google.com/file/d/1cmrCXcafjwvbMNj7GgX7UPMGA0FcwvWN/view?usp=sharing){target="_blank"} from Dr. Beckman.
     * As we've said before, we strongly encourage everone to watch (or re-watch) the [_Hebrew Quest_ lessons on the Aleph-Bet](https://holylanguage.com/letters.html){target="_blank"}
-* Practice writing the entire AlephBet until you can do it five times from memory.
+2. Practice writing the entire AlephBet until you can do it five times from memory.
 
 ## `Anki Aerobics` {-}
 
@@ -203,7 +203,7 @@ There are two separate components:
 * `Lesson 01 B.Grammar` - Identify look-alike Hebrew letters.
 * `Lesson 01 C.Study Verses` - we won't be working on any Study Verses just yet, but we will learn some grammar shorthand that we will use when we get to Lesson 3.
 
-Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/)
+Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
 
 ## `Ruth Pursuit` {-}
 
@@ -213,7 +213,7 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 2. Identify the one half-guttural (red)
 3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
 4. Identify the five final/sofit forms (blue)
-5. Identify the remaining letters (yellow)
+5. Identify the 12 remaining consonants not included in the above categories (including both forms of ש)(yellow)
 
 * [Blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}<small>^[<small>Click the link (and sign in with a Google account if necessary), then click "Open with Google Docs" to highlight the letters.</small>]</small>
 * [Ruth Pursuit #1 Answer Key](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing){target="_blank"}

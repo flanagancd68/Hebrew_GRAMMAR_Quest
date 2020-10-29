@@ -67,7 +67,7 @@ knitr::include_graphics("images/hiking.jpg")
     * Anki's automated review process<small>^[<small>By this, we mean the *scheduling* and *queuing* of items to review is automatic.  You will still need to do the work!</small>]</small> will be a huge help in working through The Fog.
     * Each lesson will also have a `Quest Quiz` for you to assess your progress. We do not assign grades for this course, but if you happen to get a lower score on a `Quest Quiz`, that could indicate you need some more exercise time before moving on.
     * As an additional counter-balance against The Fog, most lessons will have an `Equipment Check`. 
-       * We want to make sure you have the right "supplies," meaning the most significant concepts from the previous chapter, savely in your grammar backpack before you journey forward.
+       * We want to make sure you have the right "supplies," meaning the most significant concepts from the previous chapter, safely in your grammar backpack before you journey forward.
 * As Dr. Mounce says, if you find yourself getting discouraged, look a couple of chapters back, and you will realize that you are likely retaining more than you think you are.
 
 ## 3. Spiritual Preparation {-}

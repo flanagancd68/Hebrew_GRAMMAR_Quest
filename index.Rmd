@@ -41,7 +41,7 @@ Welcome to the preview version of Hebrew GRAMMAR Quest. Here, we are offering th
 
 We have two purposes for this preview:
 
-1.  Gather feedback on content and overall direction from Holy Language Volunteers before compiling all thirty-five lessons<small>[^index-1]</small>.
+1.  Gather feedback on content and overall direction from a select group of Holy Language volunteers and members before compiling all thirty-five lessons<small>[^index-1]</small>.
 2.  Eventually, these three lessons will comprise a demo/trial version of Hebrew GRAMMAR Quest made available to the general public.
 
-[^index-1]: <small>Specifically, we seek your help us with proofing the style and content of this guidebook (typos and readability) and reviewing the Anki deck.</small>
+[^index-1]: <small>Specifically, we seek your help us with proofing the style and content of this guidebook (typos and readability) and reviewing the Anki deck.  Please report any issues [here](#report_issue).</small>
