@@ -36,6 +36,8 @@ blockquote > p:first-child {
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
+    margin-top: 6px;
+
 }
 h1.title {
   font-weight: 100;

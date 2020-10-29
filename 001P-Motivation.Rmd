@@ -9,11 +9,9 @@ include_graphics("images/hq_grammar.jpg")
 
 If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to the Jewishness of our Messiah and our Bible.
 
-***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful. 
+***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful; but, we also noticed other students began to drop off between lessons 12 and 16. These are the grammar lessons in between the Aleph-Bet (1-11) and the study passages (17-40). For some, these lessons were too much Hebrew grammar too fast, and for others it was not enough Hebrew grammar.
 
-We noticed other students began to drop off between lessons 12 and 16<small>^[<small>These are the "bridge" lessons in between the Aleph-Bet (1-11) and the study passages (17-40), where Izzy introduced Hebrew grammar.</small>]</small>. Feedback from these students indicated they were getting "stuck" on grammar concepts.
-
-As we searched for external Biblical Hebrew grammar resources to recommend to our students, we noticed that they tended to fall into one of two camps:
+As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
 
 1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u>. 
     * There may be some exercises, but generally tend to not be rigorous from an academic standpoint.
@@ -24,12 +22,11 @@ As we searched for external Biblical Hebrew grammar resources to recommend to ou
     * The textbooks generally are much more detailed and advanced than most of our students need (or would enjoy).
     * The pace of these courses is usually fast, and the stress level is high, focusing on due dates and grades.
 
-Additionally, materials from both categories would have required significant additional fees from our students.
+Additionally, our students would incur additional fees to purchase these materials, which is something we wanted to avoid.
 
 Although many of the resources we researched are top-notch, they were not quite what we were seeking for our students.
 
-
-(continued)
+<div align="right">_(continued)_</div>
 
 ## Grammar course wishlist {- #our_course}
 

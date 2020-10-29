@@ -35,7 +35,7 @@ include_graphics("images/euro_adapter.jpg")
 
 ### Get a grammatical lay of the land {- }
 
-* In Israel, things like electrical outlets and certain customs are different. The temperature difference between the Dead Sea and Jerusalem, a distance of just 70 miles, can be 30 degrees (F) or more. In the same way, Hebrew has metaphorical currents, customs, and climates that are *very* different from English.
+* In Israel, things like electrical outlets, certain protocols, and even the weather can be quite different that what we're used to. Hebrew has many0 metaphorical currents, customs, and climates that are *very* different from English.
 * This guidebook<small>^[<small>We are your Hebrew grammar tour guide.  This is why why we are calling this a "guidebook" instead of a "textbook"!</small>]</small> has 35 lessons, each with a set of learning objectives we call __Seven Practical Points__`<small>^[<small>The lesson format generally follows that of <u>Basics of Biblical Hebrew</u> by Dr. Gary Pratico and Dr. Myles Van Pelt.  We make extensive use of derivative works by Dr. John Beckman. His material accompanying <u>Basics of Biblical Hebrew</u> is freely available under the Creative Commons (CC-BY-SA) license.</small>]</small>   
 * These __Seven Practical Points__ are not an exhaustive discussion of the given topic.  We want to provide you with an overview to get your journey started in the right direction.
 
@@ -50,7 +50,7 @@ knitr::include_graphics("images/hiking.jpg")
 
 ### Get Hebrew Healthy  {- }
 
-* In Israel, there are a lot of hills and tourists do a lot of walking, so one needs to be in physical shape.  Hebrew also has a lot of grammatical hills to climb, so we need to get Hebrew Healthy.
+* In Israel, there are a lot of hills and tourists must be in shape to do a lot of walking. Hebrew also has a lot of grammatical hills to climb, so we need to get Hebrew Healthy.
 * To get in Hebrew shape, we won't go to a physical gym, but there is a powerful piece of equipment that will build your Hebrew strength and endurance.  It's called Anki.  
     * The majority of your work in this course will be doing what we call `Anki Aerobics.`
     * There will be three phases of Anki Aerobics in each lesson: `Vocabulary,` `Grammar` concepts, reinforcing and expanding on the Seven Practical Points, and `Study Verses` (Bible verse translation).
@@ -79,7 +79,7 @@ knitr::include_graphics("images/following_yeshua.jpg")
 ### Prepare to meet Yeshua in a life-changing way {- }
 
 
-A trip to Israel is not like any other "vacation" - it's a spiritual journey. Unfortunately, all some people do is see a few cool sites and take some pictures.  Imagine going all that way only to miss a tremendous opportunity to meet Yeshua in His extraordinary Land!
+A trip to Israel is not like any other "vacation" - it's a spiritual journey. Yes, people can visit cool sites and take neat pictures. But only in Israel we can meet Yeshua in a unique way in His extraordinary Land!
 
 Similarly, Hebrew GRAMMAR Quest is a spiritual journey! We could treat learning grammar as strictly an academic effort. Then, we would risk missing insights Yeshua might want to teach us to deepen our faith.  
 
