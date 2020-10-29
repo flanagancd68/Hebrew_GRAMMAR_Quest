@@ -26,6 +26,12 @@ Anki is free<small>^[<small>all platforms are free, except for the iOS app, whic
 
 Thus, it is not just a flashcard program but is a tremendous strength and endurance tool for learning, and it is where we will be spending the bulk of your time in the course.  It has become the “go-to” for many medical school students to learn all the intricate facts they have to know.
 
+## Installation {- #installation_anki}
+
+**Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop<small>^[<small>By "desktop" we generically mean a desktop or laptop computer (as opposed to a mobile device) running a Windows, Mac, or Linux operating system.</small>]</small] computer_.
+1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}.
+1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}.
+1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}.
 
 ## Customize Anki Settings {- #anki_settings}
 
@@ -71,13 +77,13 @@ knitr::include_graphics("images/anki_custom_new.png")
 
 [Return to Quick Start page](#get_started)
 
-## How do I access Anki on my mobile device?
+## How do I access Anki on my mobile device? {-}
 
-After you have installed Anki, loaded a deck and then synched to your Ankiweb account, theorhetically, you do not ever need to access the non-mobile version again.
+After you have installed Anki, loaded a deck and then synched to your Ankiweb account, theoretically, you do not ever need to access the non-mobile version again.
 
 There are versions of the mobile app in the Google or Apple store.  As we mentioned above, the apple version is a one-time cost of $25 (worth the cost in our opinion). Once you download the app, you can login with your same Ankiweb account and, if you synched from the desktop version of the software, you should see the Hebrew GRAMMAR Quest deck appear.
 
-You can also access a [web-based version of Anki (login with your Ankiweb credentials)](https://ankiweb.net/decks/).  Functionality is a bit more limited, but it is generally sufficient.  
+You can also access a [web-based version of Anki (login with your Ankiweb credentials)](https://ankiweb.net/decks/).  Functionality is a bit more limited, but it is generally sufficient for the learning aspects.  Please note you will need the not be able to meet the `Graduation Process` requirements for the `Certificate` or `Diploma` using only ankiweb.net  
 
 One note: if you plan to go back and forth between a computer and a mobile device, make sure you sync after each session.
 
@@ -162,13 +168,60 @@ include_graphics("images/a.year_heatmap.png")
 
 Learning and active-recall is an on-going process. In theory, Anki will keep scheduling reviews until you delete the deck.  This follows a "use it or lose it" philosophy.  If we spend a day learning some material but then don't think about it again for two weeks, we're likely to forget most of it.
 
-_At a minimum_ to be eligible for the `Certificate`<small>^[<small>Certificates are not available in the Preview Version of Hebrew GRAMMAR Quest.</small>]</small> and `Diploma`, you will need to provide a screenshot from the Anki `Stats`.  The `Card Counts` pie chart should reflect ALL cards for the unit are in the `Mature` row.
+So while this could be an indefinite process, we do have some guidelines as they pertain to the `Course Checklist` and the `Certificate`/`Diploma`.
 
-```{r, out.width = "300pt", fig.align='center', fig.cap="Card Counts chart from Anki Stats showing all cards = Mature"}
+* For the `Course Checklist`, all cards should be moved out of the `New` category and into the `Young` or `Mature` categories, with no cards `Suspended` or `Buried`. 
+* To qualify for a `Certificate` or `Diploma`, all cards must be in the `Mature` category with no cards `New`, `Young`, `Suspended`, or `Buried`.
+
+```{r, out.width = "900pt", fig.align='center', fig.cap="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature"}
+
+knitr::include_graphics("images/anki_comparison.png")
+``` 
+
+See the next two pages for more information on how to locate your statistics.
+
+## `Course Checklist` Anki Completion Requirements {-}
+
+For each lesson, we are looking for all cards to be moved out of the `New` category and into the `Young` or `Mature` categories, with no cards `Suspended` or `Buried`.  Below are the steps to check.
+
+_You must do the steps below  from a Desktop (or laptop) or the ios/Android mobile app.  Statistics are not available from the ankiweb.net site_.
+
+1. In Anki, select the applicable deck, for example "`Lesson 01 A.Vocab`"
+    1. On mobile, once you tap the deck it may take you into the deck information section.
+    1. Click the left arrow in the upper left of the screen to access the bar chart icon
+2. Click on `Stats` (desktop) or tap the Bar chart icon (mobile)
+3. Scroll down to the `Card Counts` pie graph
+4. If all cards are `Young` or `Mature` with no cards `New`, `Suspended`, or `Buried` as shown on the acceptable examples below, you can mark that deck as completed on your `Course Checklist`
+
+```{r, out.width = "900pt", fig.align='center', fig.cap="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature"}
+
+knitr::include_graphics("images/anki_comparison.png")
+``` 
+
+
+## `Certificate` Anki Completion {-}
+
+To be eligible for the `Certificate`<small>^[<small>Certificates are not available in the Preview Version of Hebrew GRAMMAR Quest.</small>]</small> and `Diploma`, you will need to provide a screenshot from the Anki `Stats`.  The `Card Counts` pie chart should reflect ALL cards for the unit are in the `Mature` row.
+
+_You must do the steps below  from a Desktop (or laptop) or the ios/Android mobile app.  Statistics are not available from the ankiweb.net site_.
+
+1. In Anki, select the applicable unit, for example "`Hebrew Grammar Quest::1. Lessons 1-3`"
+    1. On mobile, once you tap the deck it may take you into the deck information section.
+    1. Click the left arrow in the upper left of the screen to access the bar chart icon
+2. Click on `Stats` (desktop) or tap the Bar chart icon (mobile)
+3. Scroll down to the `Card Counts` pie graph
+4. If all cards are  `Mature` with no cards `New`, `Young`, `Suspended`, or `Buried`, and you have done everything else for that unit on the `Course Checklist`, you are ready to apply for your unit completion `Certificate` or `Diploma`.  CAPTURE A SCREENSHOT as directed below:
+    * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
+```{r, out.width = "300pt", fig.align='center', fig.cap="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature"}
 
 knitr::include_graphics("images/anki_mature.png")
 ``` 
+    * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
+    
+```{r, out.width = "300pt", fig.align='center', fig.cap="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature"}
 
+knitr::include_graphics("images/Anki_mature_mobile.png")
+``` 
 <!-- Please see [`Graduation` process page]() for additional information -->
 
 ## What do the different card stages mean? {-}
@@ -231,3 +284,6 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 include_graphics("images/a.anki_custom_study.png")
 ``` 
 
+
+
+## How do I submit screenshots for the `Certificate`? {-}
