@@ -35,6 +35,8 @@ include_graphics("images/HGQ_book_cover.png")
 
 <small>*Updated*: `r Sys.Date()`</small>
 
+# (PART\*) Preliminary {-}
+
 # Preview Version {#preface .unnumbered}
 
 Welcome to the preview version of Hebrew GRAMMAR Quest. Here, we are offering the first three lessons. The complete version, expected in late Spring 2021, will have thirty-five lessons.
@@ -45,3 +47,5 @@ We have two purposes for this preview:
 2.  Eventually, these three lessons will comprise a demo/trial version of Hebrew GRAMMAR Quest made available to the general public.
 
 [^index-1]: <small>Specifically, we seek your help us with proofing the style and content of this guidebook (typos and readability) and reviewing the Anki deck.  Please report any issues [here](#report_issue).</small>
+
+
