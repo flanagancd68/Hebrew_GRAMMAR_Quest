@@ -1,3 +1,5 @@
+# (PART\*) About us and this book {-}
+
 # About Holy Language Institute {-}
 
 ```{r, out.width = "500pt", fig.align='center'}

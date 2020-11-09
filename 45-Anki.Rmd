@@ -1,4 +1,4 @@
-# Anki info and FAQ {- #anki_faq}
+# Anki info and FAQ {#anki_faq}
 
 <!-- Grammarly check: 10/24/2020 - 179 lines -->
 
@@ -28,7 +28,8 @@ Thus, it is not just a flashcard program but is a tremendous strength and endura
 
 ## Installation {- #installation_anki}
 
-**Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop<small>^[<small>By "desktop" we generically mean a desktop or laptop computer (as opposed to a mobile device) running a Windows, Mac, or Linux operating system.</small>]</small] computer_.
+**Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop<small>^[<small>By "desktop" we generically mean a desktop or laptop computer (as opposed to a mobile device) running a Windows, Mac, or Linux operating system.</small>]</small> computer_.
+
 1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}.
 1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}.
 1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}.
@@ -81,11 +82,21 @@ knitr::include_graphics("images/anki_custom_new.png")
 
 After you have installed Anki, loaded a deck and then synched to your Ankiweb account, theoretically, you do not ever need to access the non-mobile version again.
 
-There are versions of the mobile app in the Google or Apple store.  As we mentioned above, the apple version is a one-time cost of $25 (worth the cost in our opinion). Once you download the app, you can login with your same Ankiweb account and, if you synched from the desktop version of the software, you should see the Hebrew GRAMMAR Quest deck appear.
+There are versions of the mobile app in the Google or Apple store.  As we mentioned above, the apple version is a one-time cost of $25. Once you download the app, you can login with your same Ankiweb account and, if you synched from the desktop version of the software, you should see the Hebrew GRAMMAR Quest deck appear.
 
 You can also access a [web-based version of Anki (login with your Ankiweb credentials)](https://ankiweb.net/decks/).  Functionality is a bit more limited, but it is generally sufficient for the learning aspects.  Please note you will need the not be able to meet the `Graduation Process` requirements for the `Certificate` or `Diploma` using only ankiweb.net  
 
 One note: if you plan to go back and forth between a computer and a mobile device, make sure you sync after each session.
+
+Here are the steps:
+
+1. On your laptop/desktop: Sync → Log In → log in using your account information
+1. If a pop-up window asks you, choose "**Upload to** AnkiWeb"
+1. On your phone, download and install the Anki app.
+    * The Android app is free. The iPhone app costs $25.
+1. On your phone, start the Anki app and log in using your account information
+1. If a pop-up window asks you, choose "**Download from** AnkiWeb"
+1. Anki will now automatically keep your work on your phone and laptop/desktop in sync.
 
 ```{r, fig.show="hold", out.width = "250pt", fig.align='center', fig.cap="Anki web and mobile views"}
 include_graphics("images/anki_web-based.png")
@@ -180,7 +191,7 @@ knitr::include_graphics("images/anki_comparison.png")
 
 See the next two pages for more information on how to locate your statistics.
 
-## `Course Checklist` Anki Completion Requirements {-}
+## Anki Completion Requirements for the`Course Checklist` {-}
 
 For each lesson, we are looking for all cards to be moved out of the `New` category and into the `Young` or `Mature` categories, with no cards `Suspended` or `Buried`.  Below are the steps to check.
 
@@ -193,13 +204,13 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 3. Scroll down to the `Card Counts` pie graph
 4. If all cards are `Young` or `Mature` with no cards `New`, `Suspended`, or `Buried` as shown on the acceptable examples below, you can mark that deck as completed on your `Course Checklist`
 
-```{r, out.width = "900pt", fig.align='center', fig.cap="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature"}
+```{r, out.width = "1000pt", fig.align='center', fig.cap="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature"}
 
 knitr::include_graphics("images/anki_comparison.png")
 ``` 
 
 
-## `Certificate` Anki Completion {-}
+## Anki Completion Requirements for the `Certificate` {-}
 
 To be eligible for the `Certificate`<small>^[<small>Certificates are not available in the Preview Version of Hebrew GRAMMAR Quest.</small>]</small> and `Diploma`, you will need to provide a screenshot from the Anki `Stats`.  The `Card Counts` pie chart should reflect ALL cards for the unit are in the `Mature` row.
 

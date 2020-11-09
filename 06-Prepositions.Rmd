@@ -1,0 +1,170 @@
+# Hebrew Prepositions 
+
+> In order to comprehend Biblical Hebrew, we must be able to identify prepositions, which give us a sense of space and location as we read the Text.
+
+<!--Graphic or Quote -->
+
+```{r, out.width = "300pt", fig.align='center'}
+library(knitr)
+include_graphics("images/03.tel-dan.jpg")
+```
+
+Say something about the graphic or quote
+
+
+## Seven Practical Points for Lesson 06 {-}
+
+1. More Sheva Rules: Nun with Silent Sheva becomes a Daghesh Forte
+2. Independent prepositions
+3. Maqqef prepositions
+4. Inseperable prepositions
+5. The flexible מִן: construction
+6. The flexible מִן: meanings
+7. The Definite Direct Object marker
+
+
+### `Lesson Prayer` {-}
+
+Lesson prayer
+
+> scripture quotation
+
+
+
+## Equipment Check {-}
+
+```{r, out.width = "300pt", fig.align='center'}
+library(knitr)
+include_graphics("images/stopil.png")
+```
+
+Before continuing, can you describe the following concepts?
+
+*
+
+
+## Nun with Silent Sheva Becomes Daghesh Forte
+
+You may be wondering what this has to do with prepositions, but stick with us.  It will make sense by the end of the lesson!
+
+Nun is considered a "weak letter" and it has a tendency to drop out of a word under certain scenarios. When the nun appears with a SILENT sheva נְ is one of those times.  You remember how we said that the Daghesh Forte is your friend, because it tells you that something has changed?  When then nun drops, whenever possible it will be replaced with a Daghesh Forte.  The technical term for this is called "assimilation".   
+
+מִנְזָהָב* > מִזָּהָב
+
+
+This is why we spend time talking about when the Daghesh Forte might get rejected.  Do you remember the three times we have studied where the Daghesh Forte may be rejected?  
+
+* Gutturals and Resh
+* At the end of a word
+* With a SQiN eM LeVY with a Sheva: מִנְקְצֵה* > מִקְּצֵה* > מִקְצֵה
+
+## Independent prepositions 
+
+There are three different types of Hebrew prepositions: independent, Maqqef, and inseparable. 
+
+An independent preposition is a separate word with a space before it and after it.
+
+The preposition comes first, followed by its object (just like English).
+
+* Most Hebrew prepositions are written this way. – E.g.,  תַּחַת אֹתוֹ
+* English prepositions are written this way. – E.g., Under it
+
+## Maqqef prepositions 
+
+Maqqef is the Hebrew word for dash.  They are nearly identical in meaning and appearance except the Hebrew Maqqef is raised ־ whereas the English is middle -
+
+A Maqqef connects a preposition to its object. Again, the preposition comes first.
+
+עָל־מֶלֶךְ
+
+English prepositions are NOT written this way.  You would never see on-a-king
+
+You may see the same preposition written both with and without the Maqqef.  The meaning does not change.  עַל מֶלֶךְ means the same as עַל־מֶלֶךְ
+
+
+## Inseperable prepositions
+
+Like וְ for the word "and", an inseperable preposition is a one-letter prefix that is affixed to its object.
+
+Three Hebrew prepositions are **ALWAYS** written this way, usually with a Vocal Sheva:
+
+```{r, out.width = "200pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/05.inseparable.png")
+```
+
+If there is a Sheva after the preposition, the Rules of Sheva come into play:
+
+
+## The flexible מִן: construction
+## The flexible מִן: meanings 
+## The Definite Direct Object marker 
+
+## `Word Warm-up` {-}
+
+[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+
+<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## `Verses Warm-up` {-}
+
+[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+
+<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## `Anki` {-}
+
+* `Lesson 0x A.Vocab`
+* `Lesson 06 B.Grammar` 
+* `Lesson 06 C.Verses`
+
+## `Worksheets`: NameOfWorksheet {-}
+
+<describe the worksheet>
+
+[Name of worksheet](){target="_blank"}
+
+## `Ruth Pursuit` {-}        
+
+### Your Quest: {-}
+
+1. Instruction#1 (Yellow)
+2. Instruction#2 (Green)
+3. Instruction3 (Light Blue)
+4. Instruction4 (Pink)
+5. Instruction5 (Light Grey)
+6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
+7. instruction7 (Blue)
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #06](){target="_blank"}
+
+## `Hebrew Quest Study Passage`: Book Chapter# {-}
+
+1. Read through the passage on your own.
+2. Using a [Blank copy of the passage](){target="_blank"}:
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.    
+    2. Parse as many verbs as you can.
+    3. Sketch out a translation.
+3. Watch Izzy's _Hebrew Quest_ video below [(Click to open video in a new tab)](https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1){target="_blank"}
+    1. How close was your translation?
+    2. How did the Ruach HaQodesh speak to you?
+4. Check your parsing against [this key](){target="_blank"}
+
+<iframe width="768" height="432" src="https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+## `Quest Quiz` {-}
+
+[Open Quest Quiz #06 in a new window](){target="_blank"}
+
+<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+
+## Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<iframe src="" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+

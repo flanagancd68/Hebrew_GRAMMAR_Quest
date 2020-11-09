@@ -1,0 +1,38 @@
+# A Typical Lesson {- #typical-lesson}
+
+```{r, out.width = "400pt", fig.align='center'}
+knitr::include_graphics("images/checklist.png")
+```
+
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities.  You'll recognize an activity in this book by `this unique font`.  You can read more in our [Course Structure](#what_to_expect) article. Below is what will be inside a typical lesson<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
+
+
+**Activity**|**Description**
+:-----|:-----
+ `Lesson Prayer`|A brief reminder to focus on what is important.
+ `Equipment Check`|Things you must have in your backpack before proceeding with the next phase of your journey.
+ Seven Practical Points|The lesson's key learning objectives.
+ `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy!
+ `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be three stages to each Lesson.
+`A. Vocab`|By the end of the course, you will have around 500 words memorized
+ `B. Grammar`|Here, you will work through (and at times grapple with) the main grammar concepts discussed in the Lesson.
+ `C. Study Verses`|You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Keep in mind the goal is translation and comprehension, not rote memorization.
+`Worksheets`|Additional activities to reinforce learning (selected lessons)
+`Ruth Pursuit`|Similar to the "bag the letter" in _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1.
+`Hebrew Quest Study Passages`|Beginning with Lesson 18, we will link-up with the Hebrew Quest study passages.
+`Quest Quiz`|Self-assessment activity to measure your familiarity with the material.  No grades are recorded or granted in this course. 
+`Twelve Tribes Badges` and `Graduation`|Fun things that mark the completion of various stages of your GRAMMAR Quest.
+
+
+We have also created a Course Checklist to help keep you organized. Instructions for accessing this are on the next page.
+
+Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/
+Ex9mBMAqWhI?start=2823
+&rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+

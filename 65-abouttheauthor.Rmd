@@ -8,6 +8,8 @@
 * Professionally, Chris has worked in the healthcare compliance field for over 30 years
 * Personally, Chris is married and has two men in college.  He and his wife, Sarah, love to travel, especially to Israel; (which, as you can tell, has inspired the format of each lesson in this book)
 
-<center>
-![image](images/cf.jpg) 
-</center>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Chris Flanagan"}
+
+knitr::include_graphics("images/cf.jpg")
+```
+

@@ -1,8 +1,7 @@
-# Other Hebrew GRAMMAR Quest FAQ{- #other_faq}
+# Other FAQ {#other_faq}
 
 * [There are many books out there to learn Hebrew.  What makes Hebrew GRAMMAR Quest different?](#hgq_difference)
-* [What is a "flipped classroom" and how are we using it here?](#flipped_classroom)
-* [What are the course ACTIVities?](#activities_faq)
+* [What are the course Activities?](#activities_faq)
 * [Will I be required to buy anything?](#buy_materials)
 * [Who will (and who might not) benefit from Hebrew GRAMMAR Quest?](#who_benefits)
 * [What if I am a Bible teacher? Should I take this course?](#bible_teacher)
@@ -15,21 +14,6 @@
     * Therefore, our goal for this interactive, self-contained book is to provide a quick orientation to the concepts<small>^[<small>If you're looking for a stand-alone textbook, there is none better than <u>Basics of Biblical Hebrew</u>.</small>]</small>
 * Textbooks have their place, but in our view, your "real" learning will take place when you complete the ACTIVities (see the root of the word "active" in there?)
     * This is the impetus behind the current "flipped classroom" philosophy in traditional education
-
-## What is a "flipped classroom" and how are we using it here? {- #flipped_classroom}
-
-* Hebrew GRAMMAR Quest applies concepts from what is called a "flipped classroom."
-* In a traditional classroom, lecture and exams are the priority
-    * What educators have started to notice was that these two aspects of teaching, though valuable for different reasons, are not when the student's primary learning occurs
-* In a flipped classroom, the activities usually thought of as "homework" are the priority
-    * Interactive reading (with note-taking and active-recall), worksheets, and discussion are much better vehicles for learning than a lecture
-* Therefore, there is a deliberate emphasis on activities over lectures, assigned reading, and exams.  To emphasize this emphasis, we call these "**ACTIV**ities"!
-
-
-## What are the ACTIVities? {- #activities_faq}
-
-We cover all of this in the [What to expect](#what_to_expect) section!
-
 
 
 ## Will I be required to buy anything? {- #buy_materials} 

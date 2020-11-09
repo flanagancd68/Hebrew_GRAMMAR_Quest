@@ -1,11 +1,11 @@
 ---
-title: "Hebrew GRAMMAR Quest"
+title: "Hebrew GRAMMAR Quest - Preview"
 #date: "`r Sys.Date()`"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
 bibliography: [book.bib, packages.bib]
-biblio-style: APA-like
+#biblio-style: APA-like
 link-citations: yes
 nocite: |
     @rmarkdown2020, @bookdown2016, @stiles2013wsa, @pratico2007, @avraham2012, @beckman, @beckman2012, @beckmana
@@ -27,25 +27,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-#  {.unnumbered}
+<div style="display:none">
+# Cover {.unnumbered}
+</div>
 
 ```{r, out.width = "800pt", fig.align='center'}
 include_graphics("images/HGQ_book_cover.png")
 ```
 
 <small>*Updated*: `r Sys.Date()`</small>
-
-# (PART\*) Preliminary {-}
-
-# Preview Version {#preface .unnumbered}
-
-Welcome to the preview version of Hebrew GRAMMAR Quest. Here, we are offering the first three lessons. The complete version, expected in late Spring 2021, will have thirty-five lessons.
-
-We have two purposes for this preview:
-
-1.  Gather feedback on content and overall direction from a select group of Holy Language volunteers and members before compiling all thirty-five lessons<small>[^index-1]</small>.
-2.  Eventually, these three lessons will comprise a demo/trial version of Hebrew GRAMMAR Quest made available to the general public.
-
-[^index-1]: <small>Specifically, we seek your help us with proofing the style and content of this guidebook (typos and readability) and reviewing the Anki deck.  Please report any issues [here](#report_issue).</small>
-
 

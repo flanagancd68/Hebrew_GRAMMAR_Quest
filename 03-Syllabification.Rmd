@@ -1,6 +1,7 @@
 # Syllabification and Pronunciation {#Syllabification}
 
-<!-- Grammarly check 10/24/20 273 lines -->
+> To comprehend Biblical Hebrew, we must know how syllables function
+
 
 ```{r, out.width = "300pt", fig.align='center'}
 library(knitr)
@@ -11,19 +12,19 @@ Originally, the Bible and other ancient documents, like the "Tel Dan Stele" pict
 What we call "Hebrew grammar" is truly an exciting journey into the system of spoken and written Hebrew, which had its formation thousands of years ago!
 
 
-## Seven Practical Points for Lesson 2 {-}
+## Seven Practical Points for Lesson 3 {-}
 
-1. Learn the two basic concepts of [Hebrew Syllables](#syllables)
-1. Learn the rules and terminology related to [Hebrew Word Accents](#accents)
-1. Know the Three Rules for Recognizing [Silent Sheva](#s_sheva)
-1. Know the Four RulesRecognizing Vocal Sheva: Four Rules Gutturals Reject [Vocal Sheva](#v_sheva)
-1. Learn the primary [Hebrew Diphthong](#diphthong)
-1. Understand [Vowels and Syllable Preference](#vowel_pref)
-1. Learn three simple miscellaneous concepts: [Qamets and Qamets Hatuf, Furtive Patach Quiescent Alef](#misc_vowels)
+1. Learn the two basic concepts of Hebrew Syllables
+1. Learn the rules and terminology related to Hebrew Word Accents
+1. Know the Three Rules for Recognizing Silent Sheva
+1. Know the Four Rules for Recognizing Vocal Sheva: Four Rules Gutturals Reject Vocal Sheva
+1. Learn the primary Hebrew Diphthong
+1. Understand Vowels and Syllable Preference
+1. Learn three simple miscellaneous concepts: Qamets and Qamets Hatuf, Furtive Patach Quiescent Alef
 
 ### `Lesson Prayer` {-}
 
-Pray for anything that has you you worried or anxious.
+Pray for anything that has you worried or anxious.
 
 > (Matthew 6:27 NASB) "And who of you by being worried can add a single hour to his life?"  
 > (Philippians 4:6 NASB) Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.
@@ -74,7 +75,7 @@ include_graphics("images/03.syllable.png")
 We see the two basic concepts at play in this simple word (pronounced "da-var" and means word, matter, thing):
 
 * The two syllables each begin with a consonant and have one vowel
-    * דָּ starts with the consonant Dalet, and has one vowel, Qamets
+    * דָּ starts with the consonant Dalet and has one vowel, Qamets
       * This is also an example of an "open" syllable - open syllables end with a _vowel_, not a consonant
     * בָר starts with the consonant Bet and has one vowel, also a Qamets
       * This is an example of a "closed" syllable - closed syllables end with a _consonant_, not a vowel 
@@ -89,13 +90,13 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<small>Modern Hebrew has words (mostly borrowed from other languages) that don't follow this rule</small>]</small>.
 
-```{r, out.width = "200pt", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 
 include_graphics("images/03.accent_stress.png")
 ```
 
 * The word on the left is stressed on the last syllable
-* The word on the right (pronounced "SAY-pher" or "SEH-pher" and means book, scroll, or document) is stressed on the next to last syllable
+* The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
     * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)<small>^[<small>Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.</small>]</small>
 
 ### Tonic, Pretonic, and Propretonic Syllables {-}
@@ -106,24 +107,32 @@ include_graphics("images/03.accent_stress.png")
         * Notice how the vowel changed from the Qamets in דָּבָר to a Vocal Shewa in דְּבָרִים
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
-    * The **Tonic** syllable is the one with the accent = רִים<small>^[<small>Additional info in the textbook that you don't need to know: 1) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course. 2) There is an additional set of words that signifies a syllable's position irrespective of the accent: _ultima_ = the last syllable; _penultima_ is the next to last syllable; _antepenultima_ is the syllable before the _penultima_ </small>]</small>
+    * The **Tonic** syllable is the one with the accent = רִים<small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
+    
+### Ultima, Penultima, and Antepenultima syllables
+
+Since the accent is not always in a fixed location, we sometimes will use other words that describes a syllable's position irrespective of the accent. 
+
+  * _ultima_ = the last syllable
+  * _penultima_ = the next to last syllable
+  * _antepenultima_ = the syllable(s) before the _penultima_
 
 ## Rules for Silent Sheva {#s_sheva}
 
 Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
 
-### SILENT when the previous vowel is short {-}
+### SILENT when the previous vowel is short: {-}
 
 ```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-shortvowel.png")
 ```
 
-### SILENT when the first of two consecutive Shevas _within a word_ {-}
+### SILENT when the first of two consecutive Shevas _within a word_: {-}
 ```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-firstoftwo.png")
 ```
 
-### SILENT when at the end of a word {-}
+### SILENT when at the end of a word: {-}
 ```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-endofword.png")
 ```
@@ -138,23 +147,18 @@ Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
 include_graphics("images/03.sheva-initialvocal.png")
 ```
 
-"buh-rei-sheet" and "buh-ra-cha"
-
 ### VOCAL when the second of two consecutive Shevas _within a word_<small>^[<small>A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive Shevas.</small>]</small>:  {-}
 
 ```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-secondoftwovocal.png")
 ```
 
-"mish-puh-tai"
 
 ### VOCAL when under a Daghesh Forte: {-}
 
 ```{r, out.width = "200pt", fig.align='center'}
 include_graphics("images/03.sheva-fortevocal.png")
 ```
-
-"ham-muh-la-kim"
 
 ### VOCAL after an unaccented long vowel: {-}
 
@@ -166,7 +170,7 @@ This one may seem random, but it is relatively common with _long_ vowels in a pr
 
 ## Hebrew Diphthong = Accented Patach-Yod-Hiriq {#diphthong}
 
-```{r, out.width = "200pt", fig.align='center'}
+```{r, out.width = "600pt", fig.align='center'}
 knitr::include_graphics("images/03.diphthong.png")
 ```
 
@@ -180,13 +184,15 @@ knitr::include_graphics("images/03.diphthong.png")
 include_graphics("images/03.vowelpreferencetable.png")
 ```
 
-This table may seem like minutiae, but do yourself a favor: memorize it!  
+This table may seem like minutiae, but do yourself a favor: memorize it, noting the following:
 
-* Open/Propretonic _prefer_ reduced vowels, but this is why the concept of unchangeable long vowels matter.
+* *In an open pretonic syllable, Hebrew REQUIRES a long vowel.
+* *In a closed unaccented syllable, Hebrew REQUIRES a short vowel.
+* **Open/Propretonic _must_ reduce from a long vowel to Vocal Sheva (or Hateph if guttural), _except_ when there is an unchangeable long vowel
   * Go back and look at דָּבָר and דְּבָרִים
     * The vowel preference table explains why the vowel under the Dalet changes from Qamets in the open pretonic to Vocal Shewa (reduced vowel) in the open propretonic when the plural suffix "im" is added
-    * This is called "_propretonic reduction_" - you will encounter this topic frequently
-  * As we saw with כֹּתְבִים, propretonic long vowels do not always reduce (and unchangeable long vowels never will)
+    * This is called "_propretonic reduction_" - you will encounter this topic frequently.   
+  * As we saw with כֹּתְבִים, uunchangeable long vowels written "defectively" will not reduce - at their essence, they are still unchangable.
 
 ## Qamets Hatuf, Furtive Patach, Quiescent Alef {#misc_vowels}
 
@@ -200,7 +206,7 @@ include_graphics("images/03.qametshatuf.png")
 
 There are many instances where the vowel could be a short qamets-hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable.  When this ambiguity occurs, many printings will print a vertical line called a meteg בָּֽ.  The meteg tells you the vowel is the **long, a-class**
 
-```{r, out.width = "200pt", fig.align='center', fig.cap="Meteg"}
+```{r, out.width = "100pt", fig.align='center'}
 include_graphics("images/03.meteg.png")
 ```
 
@@ -225,43 +231,45 @@ knitr::include_graphics("images/03.quiescentaleph.png")
     * English has all kinds of silent letters, like the 'p' in receipt - the Quiescent Aleph works the same way
     * In terms of syllabification, the Aleph is neither a vowel nor a consonant, so it doesn't count at all - it is just an extra letter
     
-## Final note on Lesson 3 {-}
+## Lesson Conclusion and Activities {-}
 
 Congratulations on getting this far! We realize that there are a lot of heavy concepts you face in this Lesson.
 
 Some of you may try to read this lesson then do the Anki work (perhaps repeated a few times), and you still aren't getting it.  The Fog isn't clearing.  If this is the case, and you want a more in-depth lecture covering this material, we recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){target="_blank"}
 
+For this lesson, we are introducing two new activities that correspond with the official launch of `Vocabulary` and `Study Verses` you will see in `Anki`.
 
-## Introduction to Video Warm-ups {-}
+### Introduction to Video Warm-ups {-}
 
-* Welcome to our first group of vocabulary and study verses, featuring audio by Izzy
-* Below is a video of the vocabulary words, and below that is a video of the study verses
+* On the next two pages are videos of the vocabulary words and then the study verses
 * Practice speaking the word/verses aloud, following along with Izzy 
 * You may not know what the words mean yet, and that's fine (that's where Anki comes in)
 * Consider this some "syllabic stretching" before you do your full Anki workout!
 
+Then after watching these, go ahead and jump into `Anki`.
+
+* `Lesson 03 A.Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
+* `Lesson 03 B.Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
+* `Lesson 03 C.Verses`
+  * This is also the verse lesson using the <u>Basics of Biblical Hebrew</u> study verses.
+  * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
+  * Be patient and stick with it - you'll get it!
+
 ## `Word Warm-up` {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://www.youtube.com/embed/D0uG3_PTzGA){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/WBDxQB-ix4g){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/D0uG3_PTzGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/WBDxQB-ix4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Verses Warm-up` {-}
 
 * Over the entire 35 lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
         
-[Click to open `Verses Warm-up` video in a new tab](https://www.youtube.com/embed/_BD0WD2cQ7c){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/HhnKPxKvUcE){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/_BD0WD2cQ7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/HhnKPxKvUcE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## `Anki Aerobics` {-}
 
-* `Lesson 03 A.Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
-* `Lesson 03 B.Grammar` - This module will reenforce and expand on the Seven Practical Points for this lesson.
-* `Lesson 03 C.Verses`
-  * This is also the verse lesson using the <u>Basics of Biblical Hebrew</u> study verses.
-  * The translation may be difficult at first, and it may take you several attempts before you can select `Good` without using the `Hints`.
-  * Be patient and stick with it - you'll get it!
   
 ## `Ruth Pursuit` {-}        
 
@@ -269,7 +277,7 @@ Some of you may try to read this lesson then do the Anki work (perhaps repeated 
 
 1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
 2. In verse 16, highlight, "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי" in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is אֱלֹהִים. In the last two words of what you just highlighted, you can still see the core portion of אֱלֹהִים present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
-3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word.  Which one is a silent Sheva, and which one is the vocal Sheva?<small>^[<small>A Sheva that appears under the initial consonant of a word is always vocal, and a Sheva that appears under the final consonant of a word is always silent.</small>]</small>
+3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word.  Which one is a silent Sheva, and which one is the vocal Sheva?
 4. Find the quiescent Aleph in verse 1 (pink)
 5. Find the Hebrew words for Judah, Moab, and Bethlehem in Verse 1. (gray).  Bethlehem is two separate words in Hebrew. The first word has a single-letter preposition (מ) that means "from."
 6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both אֱלֹהִים and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
@@ -282,4 +290,3 @@ Some of you may try to read this lesson then do the Anki work (perhaps repeated 
 [Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
-

@@ -12,6 +12,7 @@ bookdown::gitbook:
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       collapse: section
       scroll_highlight: yes
+    toc_depth: 1
     toolbar:
       position: fixed
    # edit :

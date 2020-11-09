@@ -1,0 +1,224 @@
+# Definite Article and Conjunction Vav {.Article}
+
+> In order to comprehend Biblical Hebrew, we must be able to identify the definite article and the conjunction Vav whenever we see them in a word.
+
+As we say often, our focus with Hebrew GRAMMAR Quest is not on writing Biblical Hebrew, but in _comprehending_ Biblical Hebrew.  In this lesson, the sections that deal with meaning are more important than those that deal with the specific spelling<small>^[<small>In contrast, _Basics of Biblical Hebrew_ places significant emphasizes on learning the spelling rules. This is not wrong; it is just not our approach.</small>]</small> 
+
+It is unlikely you will ever need to write the article or the conjunction with the correct vowel. We discuss these spelling details, as well as have some Anki work in these areas, because it is important to know how to recognize them in the Bible when you encounter them.
+
+
+## Seven Practical Points for Lesson 5 {-}
+
+1. Translate the Vav conjunction
+2. Identify the Vav conjunction
+3. Understand why the Daghesh Forte is important (even when it's not there)
+4. Translate The article 
+5. Identify the article
+6. Understand the concepts of definiteness vs indefiniteness in Hebrew
+7. When is a noun definite
+
+### `Lesson Prayer` {-}
+
+Pray that we be kept from sinful inclination and pride:
+
+Blessed are You, LORD our God, King of the universe, who removes sleep from my eyes and slumber from my eyelids. May it be Your will, LORD our God and God of our fathers to accustom us to Your Torah and attach us to Your commands. Do not lead us into the hands of sin, nor into the hands of pride or perversity, nor into the hands of temptation, nor into the hands of shame, and do not let the evil inclination rule over us.
+
+> (Matthew 6:13 NASB)'And do not lead us into temptation, but deliver us from evil.'
+
+
+
+## Equipment Check {-}
+
+```{r, out.width = "300pt", fig.align='center'}
+library(knitr)
+include_graphics("images/stopil.png")
+```
+
+Before continuing, can you describe the following concepts?
+
+* Identifying the lexical form of a noun
+* The "rule of Sheva", including what happens in different combinations of two contiguous reduced vowels
+* How vowels can shift when the number of syllables changes
+* The masculine and feminine plural endings
+
+
+## Translate the Vav Conjunction {#vav_translate}
+
+The Vav conjunction serves _many_ different purposes in Hebrew.  Some of these can be translated into English, but others are more like "stage directions" in a play.
+
+When translating (or not) the Vav, it is very important to make sure it fits the context.  Admittedly, this is a challenge for us as we are just learning Hebrew Grammar, but it is important to keep this in mind. Most often, it simply means "and".  Other options include: then, and then, but, also, even, together with, that is.
+
+As you advance in Hebrew, you will enjoy seeing how the authors employ the Vav at the beginning of a sentence or clause to evoke different meanings.
+
+* For example, when added to a verb, it often indicates a advancing the narrative.  It also has a special use on a verb (depending on the vowel) of changing the verb's aspect.  We'll address that in Chapter 17.
+* When added to a non-verb it is often those stage directions we mentioned: a contrast, a scene shift, or a parenthetical comment. 
+
+Many times, it makes the most sense in English to leave the Vav untranslated.  For example, suppose you read and translate the story of David and Goliath in 1 Samuel 17.  You would discover that nearly every sentence would begin with "and".  In English, we would consider these "run-on" sentences.  What is exciting about the Hebrew, and this passage in particular, is that the reader can feel the sense of tension and action building in the narrative by the use of the Vav.
+
+
+
+## Identify the Vav Conjunction {#vav_identify}
+
+```{r, out.width = "200pt", fig.align='center'}
+library(knitr)
+include_graphics("images/05.vav_conjunction.png")
+```
+
+* The Vav conjunction is usually וְ prefixed to a word
+* You will see וּ before  במפ - remember "BuMP"- this is the ONLY time a vowel will ever begin a syllable
+    * The ב and פ will lose their Daghesh Lene 
+        * It's בֵּן, (between), but it's וּבֵן (and between)
+    * The conjunction will also be וּ before a consonant that has a Sheva
+* You may see וָ before some accented syllables (remember the Vowel-Syllable preferences)
+* The Rule of Sheva that we studied in Lesson 4 applies when וְ is prefixed to a word beginning with a reduced vowel (Vocal Sheva or Hateph vowel)
+
+How to tell the difference between the conjunction and words that start with ו?
+
+99.99% of the time **any Vav or Shureq as the first letter of a word is the conjunction Vav.**
+
+* Only 10 words start with Vav, and only two occur more than once
+    * וָו means "hook" and  וָוִים means "hooks - occurs 13 times in Exodus 26-38 in reference to the Tabernacle
+    * וַשְׁתִּי - Queen Vashti - occurs only in the book of Esther
+
+## Loss of Daghesh Forte {#loss_daghesh_forte}
+
+We've been referencing the Daghesh Forte in almost every Lesson of this course.  Now we're about to meet it face to face as we discuss the Hebrew Article. 
+
+We like to think of the Daghesh Forte as your friend.  When you see it, it is Hebrew's way of saying "pay attention; something's different."
+
+As we've discussed, sometimes the Daghesh Forte gets rejected from time to time (everybody say "awwww.")  We've discussed two of those already:
+
+1. It is ALWAYS rejected by the Gutturals and Resh (2.7)
+2. It is ALWAYS rejected when it would go inside the last consonant of a word when it has no vowel (4.5)
+
+Now we add a third.  This one is very technical, so please don't worry if you don't understand this at first.
+
+3. There is a group of consonants that SOMETIMES rejects the Daghesh Forte, but *only* when those consonants have a Sheva
+    * They are called the _SQiN eM LeVY_ letters
+        * S - the sibilants (letters that make an S sound): סשׁשֹצ
+        * Q - ק
+        * N - נ
+        * M - מ
+        * L - ל
+        * V - ו
+        * Y - י
+        
+
+If you're expecting a Daghesh Forte and there isn't one, look to see if the next letter has a SQiN eM LeVY letter with a Sheva.
+
+See [this handout](./images/05_sqin_em_levy.pdf){target="_blank"} for additional discussion on SQiN eM LeVY consonants.
+
+## Translate the Article {#article_translate}
+
+In English, we have two "Indefinite Articles" = "a" or "an", and one "Definite" article = "the".  Hebrew just has one article for definiteness (so we just call it the "Article").
+
+The Article has many translations: "the", "this", "o" (as in "O king"), "his", "her", "my".
+
+הַיּוֹם is literally "the day", however a better translation is "today", or sometimes "this day".
+
+It can make an adjective superlative: הַתּוֹב is literally "the good", but can mean "the best".
+
+
+
+## Identify the Article {#article_identify}
+
+```{r, out.width = "200pt", fig.align='center'}
+library(knitr)
+include_graphics("images/05.def_art.png")
+```
+
+The usual form is Hei with a patach and a Daghesh Forte in the next letter.
+
+As we've been saying, some unusual things can happen when the letter following the ה rejects the Daghesh Forte:
+
+* ּ הַ becomes simply הַ (no Daghesh Forte):
+    * Before SQiN eM LeVY with a Sheva
+    * Before a ח or another ה (see הֶ note below)- this is called "Virtual doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
+* Becomes הָ (no daghesh forte and patach lengthens to Qamets):
+    * Before א ע ר or הָ֫ - 
+        * This is called "Compensatory Lengthening", and is quite common with these gutturals.  
+        * In Compensatory Lengthening, a short vowel _lengthens_ to become a long vowel to _compensate_ for the loss of a Dagesh Forte (or sometimes a vowel) in the following consonant
+            * Compensatory Lengthening can also occur in a Quiescent Aleph that rejects a Sheva
+* Becomes הֶ (no Daghesh Forte and a Seghol instead of a Patach):
+    * Before accented or unaccented חָ, or unaccented הָ or עָ
+
+Once again, the goal is not to memorize the alternate forms as much as recognize that they exist.  ּ הַ is the one you need to memorize.
+
+## Hebrew Indefiniteness {#indefiniteness}
+
+Hebrew (and Greek) lacks an indefinite article.  
+
+A word without the Article is indefinite.
+
+Occasionally you will see "one" - אַחַת אֶהַר to indicate indefiniteness
+
+## Hebrew Definiteness {#definiteness}
+
+The Article is not the only way Hebrew indicates definiteness
+
+An individual's name and most proper nouns are definite by definition.  דָּוִד is definite.  You will never see: הַדָּוִד . On the other hand names of people groups and some geographic features often take the article. הַיַּרְדֵּנ = the Jordan River.
+
+A word with a pronominal suffix is definite, since the suffix indicates possession, and possession is definite. See Lesson 9.
+
+A word in its construct state is definite when the last word in the construct chain is definite. See Lesson 10.
+
+## Lesson Conclusion and Activities {-}
+
+You made it through another lesson!  Way to go!  Even though we only studied two concepts - the word for "and" and the word for "the", you can see how even with these concepts there is a lot more going on.  We were introduced to several technical aspects in this lesson, such as "SQiN eM LeVY" and "Compensatory Lengthening".
+
+You may be noticing how each new lesson builds upon the previous ones. If something isn't fully making sense, or if you find yourself asking "why in the world do I need to know this?", just be patient and it should start to come together in a lesson or two.  Now might also be a good time to look back and see how far you have come in just five lessons.
+
+As far as activities, we have the warm-up videos, Anki, the Ruth Pursuit and the Quest Quiz. When you finish all of that, we have our second `Twelve Tribes Badge` you can claim.
+
+Take your time and let the simple, but not so simple, concepts in this chapter sink in.  You're about half-way through "non-verbs" portion of the course.  Lessons 6-10 will be continuing to build out sentences with prepositions, adjectives and pronouns.  Then we'll take a little bit of a break with numbers in Lesson 11, before we move on to verbs.
+
+Keep with it; you're doing great!
+
+
+## `Word Warm-up` {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/fYwaA5f-XGc){target="_blank"}
+
+<iframe width="768" height="432" src="https://youtu.be/fYwaA5f-XGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## `Verses Warm-up` {-}
+
+[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+
+<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## `Anki` {-}
+
+* `Lesson 05 A.Vocab`
+* `Lesson 05 B.Grammar` 
+* `Lesson 05 C.Verses`
+
+
+## `Ruth Pursuit` {-}        
+
+### Your Quest: {-}
+
+1. Find five examples of the conjunction vav: וְ (note the Vocal Sheva) (Yellow)
+2. find five examples of the standard definite article ּ  הַ (Green)
+3. Find the first three examples of "Compensatory Lengthening" of the definite article.  There is one example of "Virtual Doubling" of the definite article in verses 10-15.  Can you find it?(Light Blue)
+4. הִנֵה is a very common Biblical expression that meaans, "look!" or "behold". Find the one example of הִנֵה in Ruth 1 (Pink)
+
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #05](./images/05_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+## `Quest Quiz` {-}
+
+[Open Quest Quiz #05 in a new window](https://forms.gle/NsrAS9XKMbtLToW1A){target="_blank"}
+
+<iframe src="https://forms.gle/NsrAS9XKMbtLToW1A" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+
+## Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](https://forms.gle/vgjsvL4QNMXzkcAE6){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<iframe src="https://forms.gle/vgjsvL4QNMXzkcAE6" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+

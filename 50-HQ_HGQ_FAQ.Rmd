@@ -1,4 +1,4 @@
-# More Hebrew Quest and Hebrew GRAMMAR Quest FAQ{- #hq_hgq_faq}
+# More Hebrew Quest and Hebrew GRAMMAR Quest FAQ {#hq_hgq_faq}
 
 * [What is the difference between Hebrew Quest and Hebrew GRAMMAR Quest?](#difference)
 * [Do I need to complete Hebrew Quest before I start Hebrew GRAMMAR Quest?](#complete_hq_first)
