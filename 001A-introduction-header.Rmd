@@ -1,1 +1,19 @@
-# (PART\*) Introduction {-}
+
+# Navigating this book {-}
+
+In the upper-left corner of this page you will see a series of icons.  These do the following tasks:
+
+* the file drawer expands/collapses the sidebar table of contents; you can also click `s`
+* the magnifying glass toggles search input; you can also click `f`
+* the big `A` allows you to change the font size and theme
+* the little `i` shows you available keyboard shortcuts
+
+
+There are several ways to navigate from page to page within this guidebook:
+
+* Use the left-navigation sidebar (type `s` to reveal/hide)
+* Click the left or right arrow on each page to go forward or back
+* Use the left or right arrow keys on your keyboard to move forward or back
+* Use hyperlinks on selected pages, like this one: [Continue to Introduction section](#motivation)
+
+

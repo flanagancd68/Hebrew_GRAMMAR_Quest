@@ -4,7 +4,7 @@
 
 
 
-## Seven Practical Points for Lesson xx {-}
+## Seven Practical Points for Lesson 07 {-}
 
 1. Inflecting Adjectives
 1. Substantival Use
@@ -140,9 +140,9 @@ Note that אֶל־הָאָ֫רֶץ and אַ֫רְצָה are essentially synonymo
 
 ## `Word Warm-up` {-}
 
-[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://youtu.be/8GIYqACoOcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Verses Warm-up` {-}
 
@@ -175,26 +175,12 @@ Note that אֶל־הָאָ֫רֶץ and אַ֫רְצָה are essentially synonymo
 7. instruction7 (Blue)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](){target="_blank"}
+* [Ruth Pursuit Answer Key #7](){target="_blank"}
 
-## `Hebrew Quest Study Passage`: Book Chapter# {-}
-
-1. Read through the passage on your own.
-2. Using a [Blank copy of the passage](){target="_blank"}:
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.    
-    2. Parse as many verbs as you can.
-    3. Sketch out a translation.
-3. Watch Izzy's _Hebrew Quest_ video below [(Click to open video in a new tab)](https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1){target="_blank"}
-    1. How close was your translation?
-    2. How did the Ruach HaQodesh speak to you?
-4. Check your parsing against [this key](){target="_blank"}
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
+[Open Quest Quiz #07 in a new window](){target="_blank"}
 
 <iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
 
