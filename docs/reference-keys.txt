@@ -1,5 +1,4 @@
 fig:unnamed-chunk-21
-fig:unnamed-chunk-59
 fig:unnamed-chunk-60
 fig:unnamed-chunk-61
 fig:unnamed-chunk-62
@@ -13,7 +12,8 @@ fig:unnamed-chunk-69
 fig:unnamed-chunk-70
 fig:unnamed-chunk-71
 fig:unnamed-chunk-72
-fig:unnamed-chunk-74
+fig:unnamed-chunk-73
+fig:unnamed-chunk-75
 alephbet
 consonants
 right_to_left
@@ -33,7 +33,6 @@ gutturals_reject_daghesh_forte
 Syllabification
 syllables
 accents
-ultima-penultima-and-antepenultima-syllables
 s_sheva
 v_sheva
 diphthong
@@ -57,9 +56,9 @@ indefiniteness
 definiteness
 hebrew-prepositions
 nun-with-silent-sheva-becomes-daghesh-forte
-independent-prepositions
-maqqef-prepositions
-inseperable-prepositions
+independent-and-maqqef-prepositions
+inseparable-prepositions
+the-article-and-inseparable-prepositions
 the-flexible-מִן-construction
 the-flexible-מִן-meanings
 the-definite-direct-object-marker
@@ -68,7 +67,7 @@ inflecting-adjectives
 substantival-use
 attributive-use
 predicative-use
-adjective-use-decision-tree
+adjective-use-summary
 the-mappiq
 the-directional-ending
 hebrew-pronouns

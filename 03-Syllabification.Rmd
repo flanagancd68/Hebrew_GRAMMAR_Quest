@@ -109,7 +109,7 @@ include_graphics("images/03.accent_stress.png")
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
     * The **Tonic** syllable is the one with the accent = רִים<small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
     
-### Ultima, Penultima, and Antepenultima syllables
+### Ultima, Penultima, and Antepenultima syllables {-}
 
 Since the accent is not always in a fixed location, we sometimes will use other words that describes a syllable's position irrespective of the accent. 
 

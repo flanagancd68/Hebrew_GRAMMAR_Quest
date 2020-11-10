@@ -1,15 +1,7 @@
 # Hebrew Adjectives
 
-> To comprehend Biblical Hebrew, we must be able to translate an adjective based on its usage, gender, and number
+> To comprehend Biblical Hebrew, we must be able to identify and translate an adjective based on its usage, gender, and number
 
-<!--Graphic or Quote -->
-
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/03.tel-dan.jpg")
-```
-
-Say something about the graphic or quote
 
 
 ## Seven Practical Points for Lesson xx {-}
@@ -18,16 +10,15 @@ Say something about the graphic or quote
 1. Substantival Use
 1. Attributive Use
 1. Predicative Use
-1. Adjective Use Decision Tree
+1. Adjective Use Summary
 1. The Mappiq
 1. The Directional Ending
 
 ### `Lesson Prayer` {-}
 
-Lesson prayer
+Pray to be filled with His Shalom.
 
-> scripture quotation
-
+> (Philippians 4:7 NASB) And the peace of God, which surpasses all comprehension, will guard your hearts and your minds in Christ Jesus.
 
 
 ## Equipment Check {-}
@@ -39,16 +30,113 @@ include_graphics("images/stopil.png")
 
 Before continuing, can you describe the following concepts?
 
-*
-
+* Inseparable prepositions with and without the definite article
+* Construction and meaning of מִן, including assimilation of the נ
 
 ## Inflecting Adjectives
+
+Adjective inflection is relatively straight-forward.
+
+We will use the paradigm word טוֹב to illustrate
+
+```{r, out.width = "300pt", fig.align='center'}
+library(knitr)
+include_graphics("images/07.tov-inflection.png")
+```
+
+
+1. An adjective is either masculine or feminine
+2. An adjective is either singular or plural (dual nouns take plural adjectives)
+3. An adjective will match the gender and number of the noun that it modifies or for which it substitutes
+    * Note that for irregular nouns, the adjective will not necessarily match the exact ending
+    * נָשִׁים טוֹבוֹת - even though "נָשִׁים" has the irregular -im ending, the adjective טוֹבוֹת remains the regular feminine plural
+4. An adjectives will use expected endings
+
+
+Unlike nouns, adjectives can inflect across genders in order to match the respective gender of the noun.  
+
+The Lexical Form of an adjective is the MS.  MS is usually endingless but can be seghol hei as in יָפֶה, which is MS for pleasing, beautiful.
+
+Note that unlike טוֹב, most adjectives undergo vowel changes when the inflectional endings are added.  The good news is you already know this, because it is the same for adjectives as it is for nouns.
+
+Perhaps a bit more foreign (unless you were an English major) are the concepts of Substantival, Attributive and Predicative uses of the adjective.  We use these forms in English all the time but you probably don't call them by these names.  Let's look at each one.
+
 ## Substantival Use
+
+In the Substantival use, the adjective acts as a noun.  Perhaps the most obvious example of this from pop culture is the film, "The Good, The Bad, and The Ugly."  The three words, "good", "bad" and "ugly" are adjectives being used as nouns.  In a sense the noun is implied.  It could be the "good ones" or the "bad man".
+
+The Substantival use in Hebrew is relatively easy to identify.  You will see an adjective but there will be no related noun that matches in gender and number.
+
+הַטּוֹבָה - "the good" (feminine singular something). So depending on the context it could be "the good woman", or a feminine object like "the good Torah."
+
+If there were a noun that matches Gender and Number, then this would not be a Substantival use.
+
 ## Attributive Use
+
+The Attributive use is usually what we think of with respect to adjectives. The adjective modifies and describes a noun. "The good book" is an example of the Attributive use.
+
+Hebrew makes it much easier to identify the Attributive use.  The adjective MUST come AFTER the noun it modifies, and it MUST match in definiteness - meaning either both the noun and the adjective have the definite article or they both will not have the article.
+
+In fact, there is an easy mnemonic we can use: **A**ttributive **A**fter noun, **A**rticle **A**grees
+
+* הָאִשָּׁה הָטּוֹבָה - the good woman
+* אִשָּׁה טוֹבָה - a good woman (or "the woman is good"-predicate use; see next section)
+
 ## Predicative Use
-## Adjective Use Decision Tree
+
+The Predicative use (often called the predicate use) asserts something about the noun. The noun is the subject and the adjective is the predicate of the sentence: "The book is good."
+
+The Predicative use is more flexible than the Attributive, in that the adjective can be either before or after the noun.  One way to differentiate it from the Attributive use is the Predicative use WILL NOT have the Article.
+
+So a similar mnemonic could be: **P**redicative de**P**rived of the article; **P**erhaps **P**rior
+
+All of the options below can mean "the woman is good":
+
+* טוֹבָה הָאִשָּׁה
+* הָאִשָּׁה טוֹבָה
+* טוֹבָה אִשָּׁה
+* אִשָּׁה טוֹבָה (or "attributative")
+
+As this illustrates, the only time there can be any ambiguity between Attributative and Predicative is when the adjective follows the noun and both are indefinite.  In these situations, we need to let context determine the use.
+
+## Adjective Use Summary
+
+Here is a decision tree:
+
+* Is the adjective modifying a noun?
+    * No - *Substantival*
+    * Yes - does the adjective have the article?
+        * Yes - *Attributive* (Predicate dePrived of Article)
+        * No - is the adjective before the noun?
+            * Yes - *Predicate* (Attributive Always After)
+            * No - Potentially ambiguous when both noun and following adjective are indefinite: Predicate or Attributive depending on context
+
 ## The Mappiq 
+
+The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in a Hei, and only when the Hei is at the end of a word.
+
+It is virtually impossible to confuse a Daghesh and a Mappiq because ה can never take a Daghesh.
+
+A ה at the end of a word is always a vowel, except when it has a mappiq (הּ).
+
+The mappiq is a sign that the breathy sound of the consonantal hei should be accentuated slightly.
+
+At the end of a word:
+
+ה ָ  - "aaw"(long A sound)
+הּ ָ  - "ahh"(breathy)
+
 ## The Directional Ending 
+
+We've studied the fact that the ה ָ  is the Feminine Singular ending.  We now need to refine this definition slightly.  An ACCENTED ה ָ  is the FS ending; however, an UNACCENTED ה ָ  is known as a "directional ending".  It is used to indicate motion towards or to, whatever the noun is.
+
+Common examples:
+
+* אַ֫רְצָה - to/toward a land
+* הָעִ֫ירָה - to/toward the city
+
+Note that אֶל־הָאָ֫רֶץ and אַ֫רְצָה are essentially synonymous.
+
 
 ## `Word Warm-up` {-}
 
@@ -58,15 +146,15 @@ Before continuing, can you describe the following concepts?
 
 ## `Verses Warm-up` {-}
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/s0JvZ9z0jAg){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://youtu.be/s0JvZ9z0jAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Anki` {-}
 
-* `Lesson xx A.Vocab`
-* `Lesson xx B.Grammar` 
-* `Lesson xx C.Verses`
+* `Lesson 07 A.Vocab`
+* `Lesson 07 B.Grammar` 
+* `Lesson 07 C.Verses`
 
 ## `Worksheets`: NameOfWorksheet {-}
 
