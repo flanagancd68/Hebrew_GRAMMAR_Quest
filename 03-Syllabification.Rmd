@@ -11,8 +11,8 @@ Originally, the Bible and other ancient documents, like the "Tel Dan Stele" pict
 
 What we call "Hebrew grammar" is truly an exciting journey into the system of spoken and written Hebrew, which had its formation thousands of years ago!
 
-
-## Seven Practical Points for Lesson 3 {-}
+::: {.infobox}
+**Seven Practical Points for Lesson 3**
 
 1. Learn the two basic concepts of Hebrew Syllables
 1. Learn the rules and terminology related to Hebrew Word Accents
@@ -21,15 +21,31 @@ What we call "Hebrew grammar" is truly an exciting journey into the system of sp
 1. Learn the primary Hebrew Diphthong
 1. Understand Vowels and Syllable Preference
 1. Learn three simple miscellaneous concepts: Qamets and Qamets Hatuf, Furtive Patach Quiescent Alef
+:::
 
-### `Lesson Prayer` {-}
+## First Thought {-}
 
-Pray for anything that has you worried or anxious.
+Thank God for his blessings and meditate upon them
 
-> (Matthew 6:27 NASB) "And who of you by being worried can add a single hour to his life?"  
-> (Philippians 4:6 NASB) Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.
+> (Psalms 32:2 NASB) "How blessed is the man to whom the LORD does not impute iniquity."  
+> אַשְׁרֵי אָדָם לֹא יַחְשֹׁב יְהוָה לוֹ
 
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/03.Ps3202.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
+*****
+
+```{r, out.width = "600pt", fig.align='center', fig.cap="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg")
+``` 
 
 ## Equipment Check {-}
 

@@ -1,5 +1,6 @@
 bookdown::gitbook:
 #bookdown::tufte_html_book:
+  keep_md: yes
   css: style.css
   pandoc_args: [ "--csl", "turabian-author-date.csl" ]
   split_by: section

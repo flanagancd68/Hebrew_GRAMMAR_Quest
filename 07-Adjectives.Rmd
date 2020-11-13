@@ -3,23 +3,42 @@
 > To comprehend Biblical Hebrew, we must be able to identify and translate an adjective based on its usage, gender, and number
 
 
+::: {.infobox}
+**Seven Practical Points for Lesson 7**
 
-## Seven Practical Points for Lesson 07 {-}
 
-1. Inflecting Adjectives
-1. Substantival Use
-1. Attributive Use
-1. Predicative Use
-1. Adjective Use Summary
-1. The Mappiq
-1. The Directional Ending
+1. Understand how an adjective relates to the noun it is modifying
+1. Define and identify Substantival se
+1. Define and identify Attributive use
+1. Define and identify Predicative use
+1. Determine the appropriate adjectival use in a passage
+1. Define the function of the Mappiq and differentiate it from Daghesh marks
+1. Recognize the Directional Ending and differentiate it from the vowel ה ָ
+:::
 
-### `Lesson Prayer` {-}
+## First Thought {-}
 
-Pray to be filled with His Shalom.
+Offer a word of gratitude that HaShem has made you beautiful!
 
-> (Philippians 4:7 NASB) And the peace of God, which surpasses all comprehension, will guard your hearts and your minds in Christ Jesus.
+> (Ecclesiastes 3:11 NASB) He has made everything appropriate (beautiful) in its time.  
+אֶת־הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ
 
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/07.ecc0311.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+*****
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 ## Equipment Check {-}
 
@@ -152,9 +171,12 @@ Note that אֶל־הָאָ֫רֶץ and אַ֫רְצָה are essentially synonymo
 
 ## `Anki` {-}
 
-* `Lesson 07 A.Vocab`
-* `Lesson 07 B.Grammar` 
-* `Lesson 07 C.Verses`
+* `Lesson 07 A. Vocab`
+* `Lesson 07 B. Grammar` 
+* `Lesson 07 C. Workbook`
+    * In this activity, we will have very short passages of scripture that illustrate adjectives, including examples of attributive and predicate use
+    * Be sure to look up any words you do not know.  
+* `Lesson 07 D. Verses`
 
 ## `Worksheets`: NameOfWorksheet {-}
 

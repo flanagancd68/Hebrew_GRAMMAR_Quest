@@ -16,7 +16,8 @@ include_graphics("images/02.Gen0109.png")
 
 As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, a group known as the Masorites developed the vowel notation we use today. These are the symbols in red.  These are usually under, but sometimes in the middle of or over the affected consonant. This vowel system intends to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which synagogues use for chanting the verses.  These marks also show where the word's accent is.<small>^[<small>Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. </small>]</small>
 
-## Seven Practical Points for Lesson 2 {-}
+::: {.infobox}
+**Seven Practical Points for Lesson 2**
 
 1. Memorize vowels that are not vowel letters
 1. Learn vocal sheva and silent sheva
@@ -26,11 +27,32 @@ As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you s
 1. Know the rule for a Daghesh Forte
 1. Know that the Gutturals and Resh reject Daghesh Forte
 
-### `Lesson Prayer` {-}
+:::
 
-Pray not just for knowledge, but for wisdom.
+## First Thought {-}
 
-> (James 1:5 NASB) But if any of you lacks wisdom, let him ask of God, who gives to all generously and without reproach, and it will be given to him.
+Reflect on the works of HaShem that you have seen
+
+> (Psalms 107:24 NASB) They have seen the works of Adonai  
+> הֵמָּה רָאוּ מַעֲשֵׂי יְהוָה
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/02.ps107024.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+*****
+
+```{r, out.width = "600pt", fig.align='center', fig.cap="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/02-Plain of Bethsaida with green grass, tb110206630.jpg")
+``` 
+
 
 ## `Equipment Check` {-}
 

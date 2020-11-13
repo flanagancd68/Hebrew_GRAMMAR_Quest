@@ -7,7 +7,9 @@ As we say often, our focus with Hebrew GRAMMAR Quest is not on writing Biblical 
 It is unlikely you will ever need to write the article or the conjunction with the correct vowel. We discuss these spelling details, as well as have some Anki work in these areas, because it is important to know how to recognize them in the Bible when you encounter them.
 
 
-## Seven Practical Points for Lesson 5 {-}
+::: {.infobox}
+**Seven Practical Points for Lesson 5**
+
 
 1. Translate the Vav conjunction
 2. Identify the Vav conjunction
@@ -15,17 +17,32 @@ It is unlikely you will ever need to write the article or the conjunction with t
 4. Translate The article 
 5. Identify the article
 6. Understand the concepts of definiteness vs indefiniteness in Hebrew
-7. When is a noun definite
+7. Discuss what makes a noun definite
+:::
 
-### `Lesson Prayer` {-}
+## First Thought {-}
 
-Pray that we be kept from sinful inclination and pride:
+Give thanks to the Creator for the beauty and precision of His creation
 
-Blessed are You, LORD our God, King of the universe, who removes sleep from my eyes and slumber from my eyelids. May it be Your will, LORD our God and God of our fathers to accustom us to Your Torah and attach us to Your commands. Do not lead us into the hands of sin, nor into the hands of pride or perversity, nor into the hands of temptation, nor into the hands of shame, and do not let the evil inclination rule over us.
+> (Isaiah 40:12 NASB)'Who has measured the waters in the hollow of His hand, And marked off the heavens'  
+מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם
 
-> (Matthew 6:13 NASB)'And do not lead us into temptation, but deliver us from evil.'
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/05.isa0412.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
+*****
 
+```{r, out.width = "400pt", fig.align='center', fig.cap="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg")
+``` 
 
 ## Equipment Check {-}
 
@@ -189,10 +206,12 @@ Keep with it; you're doing great!
 
 ## `Anki` {-}
 
-* `Lesson 05 A.Vocab`
-* `Lesson 05 B.Grammar` 
-* `Lesson 05 C.Verses`
-
+* `Lesson 05 A. Vocab`
+* `Lesson 05 B. Grammar` 
+* `Lesson 05 C. Workbook`
+    * In this activity, we will have very short passages of scripture that illustrate the definite article and the Vav conjunction.
+    * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
+* `Lesson 05 D. Verses`
 
 ## `Ruth Pursuit` {-}        
 

@@ -3,17 +3,15 @@
 > In order to comprehend Biblical Hebrew, we must be able to figure out numbers, with or without a dictionary, when we encounter them in the Bible
 
 
-<!--Graphic or Quote -->
+You have worked very hard on the first 10 lessons!  Way to go!  While a discussion on numbers and counting is often interweaved in a discussion with the Aleph-Bet, the authors of <u>Basics of Biblical Hebrew</u>, wisely in our opinion, strategically placed a necessary but lighter discussion on numerals right here in Lesson 11.  We are emerging from what may be a lot of foggy concepts with all of the noun, pronoun, and adjective concepts in lessons 4-10 (particularly Lessons 8-10).  The bulk of the work in this Lesson will be in `Anki` learning numbers from _Hebrew Quest_.
 
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/03.tel-dan.jpg")
-```
+For the next 25 lessons we will be exclusively focused on the Hebrew verbal system and -- the entire point of this course -- reading and understanding Scripture.
 
-Say something about the graphic or quote
+Enjoy this brief lesson on numbers!
 
+::: {.infobox}
+**Seven Practical Points for Lesson 11**
 
-## Seven Practical Points for Lesson xx {-}
 
 1. The Biblical text always spells out numbers
 2. Notes and footnotes use symbols for numbers
@@ -22,15 +20,32 @@ Say something about the graphic or quote
 5. Digits 1 and 2 match the gender of the noun
 6. Digits 3-10 take the opposite gender of the noun
 7. Learn the Cardinal Numbers Above 10
+:::
 
 
-### `Lesson Prayer` {-}
+## First Thought {-}
 
-Lesson prayer
+Give Him praise that you are among those counted as His talmidim (disciples)!
 
-> scripture quotation
+> (Joshua 4:2 NASB) Take for yourselves twelve men from the people  
+> קְחוּ לָכֶם מִן־הָעָם שְׁנֵים עָשָׂר אֲנָשִׁים
 
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/11.jos0402.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
+---
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/11-Tabgha from boat, tb011500051.jpg")
+``` 
 
 ## Equipment Check {-}
 
@@ -44,19 +59,96 @@ Before continuing, can you describe the following concepts?
 *
 
 
-## The Biblical text always spells out numbers {#spp1}
-## Notes and footnotes use symbols for numbers {#spp2}
-## Be Familiar with Hebrew Ordinal Numbers - First through Tenth {#spp3}
-## Point4
-## Point5
-## Point6
-## Point7
+## The Biblical text always spells out numbers
+
+This is point number 1.  There is not a lot of elaboration needed except to note that this is the case.  You will not see "1", "200", or "969", either in modern symbols or in Rabbinic symbols (using the Aleph-bet) in the Hebrew text.
+
+## Notes and footnotes use symbols for numbers
+
+You may come across a system of counting that uses numerical values for each of the Hebrew letters.  This is interesting and the Rabbis have a lot of fun with comparing words that have identical numerical values.
+
+* א ב ג ד ה ו ז ח ת represent 1-9
+* י כ ל מ נ ס ע פ צ represent 10-90 by tens
+    * So to say 33, would be 30 and 3 = לג or often ל״ג, with the ״ indicating that this is not a real word
+* ק ר ש ת are 100, 200, 300, and 400, then we go to the sofit forms ך ם ן ף ץ for 500-900
+* In some reckonings, a series of dots or diamonds above the letters, or ’ is used for numbers above 999.  For example 1000 is ’א
+
+
+## Be Familiar with Hebrew Ordinal Numbers - First through Tenth
+
+Ordinal numbers denote order.  first, second, third
+
+In Hebrew, these are attributive adjectives, so they follow the noun and match in gender, number and definiteness (Attributive Always After, Always Agree).
+
+* יוֹם רִאשׁוֹן or הַיּוֹם הָרִאשׁוֹן = first day or the first day
+
+To denote the 11th position or higher, we would use cardinal numbers
+
+* בִּשְׁנַת הָאַרְבָּעִים  = in the year of the forty = in the 40th year
+
+We encourage you to learn the "days of the week" song with Izzy in the video below.
+
+https://youtu.be/MlfwNNuWgto?t=2545
+
+### Hebrew Quest Ordinal Numbers Video {-}
+
+[Open video in new window](https://www.youtube.com/embed/MlfwNNuWgto?t=2542){target="_blank"}
+
+<iframe width="768" height="432" src="https://www.youtube.com/embed/MlfwNNuWgto?t=2542" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Hebrew Cardinal Numbers
+
+* One is an attributive adjective - it follows its noun and agrees in gender, number and definiteness
+    * As we mentioned previously, it is sometimes used as an indefinite article
+    * אִישׁ אֵחָד = one man = a man
+* Two through Ten are nouns
+    * They have both masculine and feminine forms
+    * They have absolute and construct forms
+* Higher numbers are nouns with no specific gender
+
+
+## Digits 1 and 2 match the gender of the noun
+
+For example:
+
+* בֵּן אֶחָד = one son
+* בַּת אַחַת = one daughter
+
+## Digits 3-10 take the opposite gender of the noun
+
+Additionally they are "singular" even though the noun is plural.  This makes sense when you think that the plural form of 3 is actually the word for 30 (see next section).
+
+For example:
+
+* שְׁלֹשָׁה בָּנִים = three sons
+* שְׁלֹשׁ בָּנוֹת = three daughters
+
+The technical term for this is "chiastic concord" (you don't need to know this)
+
+## Learn the Cardinal Numbers Above 10
+
+* 11-19
+    * 11-12 match gender, 13-19 swap
+        * 11 אַחַד אָשָֹר
+        * 13 שְׁלֹשָׁה אָשָֹר
+* Decades are spelled as masculine plural of the unit
+    * 3 = שָׁלֹשׁ  
+    * 30 = שְׁלֹשִׁים
+        
+## Conclusion
+
+This chapter omits many details about numbers and counting.  Our aim was to provide an introduction so that when you encounter numbers in the Bible, you will have some basic familiarity.
+
+If you are interested in going a little deeper, we encourage you to view the complete [Hebrew Quest segment on numerals](https://holylanguage.com/grammar-1.php){target="_blank"}. 
+
+For Hebrew GRAMMAR quest it is sufficient for you to learn the Ordinals (first through 10th - for 1-7 we will learn Izzy's days of the week song) and the Cardinals 1-10, then 20-100 by 10s, and 1000.
 
 ## `Word Warm-up` {-}
 
-[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/3OuD2Snu-Uk){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://youtu.be/3OuD2Snu-Uk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Verses Warm-up` {-}
 
@@ -66,53 +158,20 @@ Before continuing, can you describe the following concepts?
 
 ## `Anki` {-}
 
-* `Lesson xx A.Vocab`
-* `Lesson xx B.Grammar` 
-* `Lesson xx C.Verses`
-
-## `Worksheets`: NameOfWorksheet {-}
-
-<describe the worksheet>
-
-[Name of worksheet](){target="_blank"}
+* `Lesson 11 A.Vocab` 
+* `Lesson 11 B.Grammar` 
+* `Lesson 11 C.Verses` - Note: there is no `Workbook` component to this lesson.
 
 ## `Ruth Pursuit` {-}        
 
-### Your Quest: {-}
+### Your Quest: Locate numerals {-}
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+1. Find the numbers one, two (the first instance only), and ten (Yellow)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](){target="_blank"}
 
-## `Hebrew Quest Study Passage`: Numbers and Days of the Week {-}
+* [Ruth Pursuit Answer Key #11](./images/11_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-1. Read through the passage on your own.
-2. Using a [Blank copy of the passage](){target="_blank"}:
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.    
-    2. Parse as many verbs as you can.
-    3. Sketch out a translation.
-3. Watch Izzy's _Hebrew Quest_ video below [(Click to open video in a new tab)](https://holylanguage.com/grammar-1.php){target="_blank"}
-    1. How close was your translation?
-    2. How did the Ruach HaQodesh speak to you?
-4. Check your parsing against [this key](){target="_blank"}
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/
-MlfwNNuWgto?start=1675&end=2710
-&rel=0&showinfo=0&autohide=1&autoplay=1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-
-## `Quest Quiz` {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 

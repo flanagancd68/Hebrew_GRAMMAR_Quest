@@ -2,18 +2,9 @@
 
 > In order to comprehend Biblical Hebrew, we must be able to . . . 
 
+Say something general bridging the desired outcome above with the learning objectives below
 
-<!--Graphic or Quote -->
-
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/03.tel-dan.jpg")
-```
-
-Say something about the graphic or quote
-
-
-## Seven Practical Points for Lesson xx {-}
+<u>**Seven Practical Points for Lesson xx**</u>
 
 1. learning_objective_1
 1. learning_objective_2
@@ -23,13 +14,19 @@ Say something about the graphic or quote
 1. learning_objective_6
 1. learning_objective_7
 
-### `Lesson Prayer` {-}
+## `Lesson Prayer` {-}
 
 Lesson prayer
 
 > scripture quotation
 
+---
 
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 ## Equipment Check {-}
 
@@ -44,12 +41,33 @@ Before continuing, can you describe the following concepts?
 
 
 ## Point1 
+
+
+
 ## Point2 
+
+
+
 ## Point3 
+
+
+
 ## Point4 
+
+
+
 ## Point5 
+
+
+
 ## Point6 
+
+
+
 ## Point7 
+
+
+
 
 ## `Word Warm-up` {-}
 
@@ -65,9 +83,10 @@ Before continuing, can you describe the following concepts?
 
 ## `Anki` {-}
 
-* `Lesson xx A.Vocab`
-* `Lesson xx B.Grammar` 
-* `Lesson xx C.Verses`
+* `Lesson xx A. Vocab`
+* `Lesson xx B. Grammar` 
+* `Lesson xx C. Verses`
+* `Lesson xx D. Workbook`
 
 ## `Worksheets`: NameOfWorksheet {-}
 

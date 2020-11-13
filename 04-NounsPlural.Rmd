@@ -6,31 +6,49 @@
 > In order to comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.
 
 
+Nouns consist of a person, place, thing, or idea and can be singular or plural.  Hebrew also introduces the concept of "gender".  In this lesson we will review aspects of the Hebrew noun with specific attention focused on the rules of pluralization.
 
+::: {.infobox}
+**Seven Practical Points for Lesson 4**
 
-## Seven Practical Points for Lesson 4 {-}
-
-
-1. Hebrew Nouns have Gender and Number
-2. Singular noun endings and "endingless" nouns
-3. Plural and Dual Noun Endings
-4. Special dual forms
-6. Other/Irregular Pluralization
-7. Rule of Sheva
-1. Understand "Lexical Form"
+1. Understand Noun Gender and Number
+2. Examine singular noun endings and "endingless" nouns for both Masculine and Feminine nouns
+3. Examine endings for plural and dual nouns
+4. Identify special dual forms
+6. Examine other/irregular Pluralization
+7. Describe the Rule of Sheva
+1. Define what is meant by "Lexical Form"
+:::
 
 Additionally, starting with this lesson we will invoke the shorthand we've been learning in Anki (e.g. MP = Masculine Plural, FS = Feminine singular).
 
 **Digging deeper:** Many Hebrew grammar books expect students to know how to pluralize nouns in writing. Our objective with Hebrew GRAMMAR Quest is only that you recognize how nouns are pluralized so you can break down the word to identify the lexical form in the dictionary. If you wish to dig deeper, we encourage you to check out chapter 4 of <u>Basics of Biblical Hebrew</u>.
 
 
-### `Lesson Prayer` {-}
+## First Thought {-}
 
-Continue to pray for wisdom.  Fear of the Lord is the beginning.
+Give thanks to God for His Word and ask that you never depart from His commands
 
-> (Psalms 111:10) The fear of the LORD is the beginning of wisdom; A good understanding have all those who do His commandments; His praise endures forever.
+> (Deuteronomy 4:5 NASB) See, I have taught you statutes and judgments  
+רְאֵה לִמַּדְתִּי אֶתְכֶם חֻקִּים וּמִשְׁפָּטִים 
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/04.deu0405.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 
+*****
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg")
+``` 
 
 
 ## Equipment Check {-}
@@ -224,22 +242,25 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 ## `Anki` {-}
 
-* `Lesson 04 A.Vocab`
-* `Lesson 04 B.Grammar` 
-    * With Lesson 4, we are gradually increasing the depth of work.
-    * From here on out, we will be doing an activity called "Parsing"
+* `Lesson 04 A. Vocab`
+* `Lesson 04 B. Grammar` 
+* `Lesson 04 C. Workbook`
+    * With Lesson 4, we are gradually increasing the depth of work in `Anki`
+    * The `Workbook` will have short activities such as translation examples of concepts taught in the lesson and word "parsing"
     * When we parse a Hebrew word, we identify three things:
-        * the Number and Gender of the word
+        * the Person (if applicable), Number and Gender of the word
         * the Lexical form
         * the definition of the original word
     * For example if the instruction is to parse שִׁירִים  , we would respond with: "MP שִׁיר  Songs"
     * You may not know every word -
-        * That is the point of this exercise!  As you read your Hebrew Bible, you will invariably come across words you don't know.  
+        * **That is the point of this exercise!**  
+        * As you read your Hebrew Bible, you will invariably come across words you don't know.  
         * You will need to be able to break down a word into its Lexical form so you can look it up
-        * "Extra points" if you look up words you don't yet know in this Anki lesson!
-    * As we advance, in future lessons, we will incorporate additional aspects into our parsing activities such as person and verb conjugation.
-* `Lesson 04 C.Verses`
-
+        * In the [appendix](#lexicon), we have links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"} 
+    * As we continue to advance, future lessons will incorporate additional aspects into our parsing activities such as verb conjugation.
+* `Lesson 04 D. Verses`
+    * We will continue with study verses that provide examples of the Lesson's vocabulary
+    * Hints will be provided for less familiar verbs
 
 ## `Ruth Pursuit` {-}        
 

@@ -1,6 +1,6 @@
 # (PART) Hebrew Grammar Foundations {-}
 
-<!-- Grammarly check: 10/24/20 204 lines -->
+
 
 # The Hebrew Aleph-bet {#alephbet}
 
@@ -11,14 +11,17 @@
 
 ```{r, out.width = "500pt", fig.align='center'}
 
-include_graphics("images/alephbet_multi.png")
+knitr::include_graphics("images/alephbet_multi.png")
 ``` 
 
-This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.
+This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson we will meet the Hebrew Aleph-Bet.  The letters are like a family, and with any family there can be interesting dynamics (including not always playing nice with each other!).  The bulk of the lesson will take a look at some of those dynamics.
 
-## Seven Practical Points for Lesson 1 {-}
+---
 
-1. Memorize the Hebrew Aleph-Bet
+::: {.infobox}
+**Seven Practical Points for Lesson 1**
+
+1. Meet the Hebrew Aleph-Bet
 1. Understand that Hebrew is written and read from RIGHT to LEFT
 1. Identify the group of five letters that have final/Sofit forms
 1. Identify the group of six letters that can take a Daghesh Lene
@@ -26,17 +29,39 @@ This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~160
 1. Differentiate among "look-alike" letters
 1. Note differences between "Seminary" and "Sephardic" pronunciation
 
-### `Lesson Prayer` {- #lesson-prayer-1}
+:::
+
+## First Thought {- #lesson-prayer-1}
 
 As you undertake this new study, pray for this Grammar adventure to be fruitful.  May God use you as an instrument to advance His Kingdom.
 
-> (Ezra 7:10 NASB) For Ezra had set his heart to study the law of the LORD and to practice it, and to teach His statutes and ordinances in Israel.
+> (Deuteronomy 32:3 NASB) For I proclaim the name of Adonai  
+> שֵׁם יְהוָה אֶקְרָא
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/01.Deu3203.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+*****
+
+```{r, out.width = "600pt", fig.align='center', fig.cap="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
+``` 
+
+<small>Note: acoustic tests have been performed at this location that have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment (and Yeshua didn't have to deal with road noise!).  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
 
 ## `Equipment Check` {- #equipment-check-1}
 
 ```{r, out.width = "300pt", fig.align='center'}
 
-include_graphics("images/stopil.png")
+knitr::include_graphics("images/stopil.png")
 ```
 
 
@@ -184,9 +209,9 @@ Now we'll move into the Physical Activity<small>^[<small>If you're wondering why
 
 ### `Anki` {- #anki-1}
 
-* `Lesson 01 A.Vocab` - Learn (or relearn) the Aleph-Bet with Izzy. 
-* `Lesson 01 B.Grammar` - Identify look-alike Hebrew letters.
-* `Lesson 01 C.Study Verses` - we won't be working on any Study Verses just yet, but we will learn some grammar shorthand that we will use when we get to Lesson 3.
+* `Lesson 01 A. Vocab` - Learn (or relearn) the Aleph-Bet with Izzy. 
+* `Lesson 01 B. Grammar` - Identify look-alike Hebrew letters.
+* `Lesson 01 C. Study Verses` - we won't be working on any Study Verses just yet, but we will learn some grammar shorthand that we will use when we get to Lesson 3.
 
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
 

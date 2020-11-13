@@ -1,7 +1,14 @@
 
 # Navigating this book {-}
 
-In the upper-left corner of this page you will see a series of icons.  These do the following tasks:
+In the upper-left corner of this page you will see a series of icons.  
+
+```{r, out.width = "300pt", fig.align='center'}
+
+knitr::include_graphics("images/toolbar.png")
+``` 
+
+These do the following tasks:
 
 * the file drawer expands/collapses the sidebar table of contents; you can also click `s`
 * the magnifying glass toggles search input; you can also click `f`

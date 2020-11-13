@@ -6,7 +6,9 @@ Pronouns are essentially a language's shorthand so we don't have to keep repeati
 
 As such, this is an important chapter.  If you want to understand what you're reading, you will need a firm grasp of pronouns to help decipher what is happening in the narrative.
 
-## Seven Practical Points for Lesson 08 {-}
+::: {.infobox}
+**Seven Practical Points for Lesson 8**
+
 
 1. Independent Personal Pronoun
 2. Relative Pronoun
@@ -15,15 +17,31 @@ As such, this is an important chapter.  If you want to understand what you're re
 5. Near and Far Demonstratives
 6. Demonstrative Adjective
 7. Demonstrative Pronoun
+:::
 
+## First Thoughts {-}
 
-### `Lesson Prayer` {-}
+Pray that you continually walk in His way, not your own way
 
-Lesson prayer
+> (Isaiah 30:21 NASB) This is the way, walk in it  
+זֶה הַדֶּרֶךְ לְכוּ בוֹ
 
-> scripture quotation
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/08.is3021.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
+*****
 
+```{r, out.width = "600pt", fig.align='center', fig.cap="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked through the valley below on His way from Nazareth to Capernaum. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg")
+``` 
 
 ## Equipment Check {-}
 
@@ -169,9 +187,11 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 ## `Anki` {-}
 
-* `Lesson 08 A.Vocab`
-* `Lesson 08 B.Grammar` 
-* `Lesson 08 C.Verses`
+* `Lesson 08 A. Vocab`
+* `Lesson 08 B. Grammar` 
+* `Lesson 08 C. Workbook`
+    * In this activity, we will have very short passages of scripture that illustrate pronouns
+* `Lesson 08 D. Verses`
 
 ## `Worksheets`: Pronouns {-}
 

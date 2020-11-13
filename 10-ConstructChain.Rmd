@@ -1,29 +1,53 @@
 # Hebrew Construct Chain {.ConstructChain}
 
-> In order to comprehend Biblical Hebrew, we must be able to . . . 
+> In order to comprehend Biblical Hebrew, we must be able to parse words in the construct state.
 
 
-<!--Graphic or Quote -->
 
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/03.tel-dan.jpg")
-```
+For most English speakers, this may be one of the least-familiar topics in this book.  Even with verbs, we have many of the same aspects of active, passive, or reflexive in English as in Hebrew.  But if you have never heard of a "construct chain" you're not alone.  After some introduction in this lesson, and of course the getting to know each other phase in `Anki`, it will make sense.
 
-Say something about the graphic or quote
+There are a lot of parameters that must be followed in a construct chain.  Keep in mind that we do not need to be able to write the construct state for a noun.  Our primary goal is to recognize it and translate adequately when we read our Bibles.
 
 
-## Seven Practical Points for Lesson xx {-}
 
-learning objectives
 
-### `Lesson Prayer` {-}
+::: {.infobox}
+**Seven Practical Points for Lesson 10**
+
+
+1. Meaning of a construct chain
+2. What makes a construct chain 
+3. Review: what makes a word definite 
+4. The Last word sets the definiteness of a chain
+5. How to Recognize a Construct Chain 
+6. Identifying Construct state by Noun Endings
+7. Construct Chain Summary
+:::
+
+
+## First Thoughts {-}
 
 Lesson prayer
 
-> scripture quotation
+> (Proverbs 8:8 NASB) All the utterances of my mouth are in righteousness  
+בְּצֶדֶק כָּל־אִמְרֵי־פִי
 
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/10.09.pro0808.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
+---
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced it rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/10-Capernaum synagogue interior, tb102702014.jpg")
+``` 
 
 ## Equipment Check {-}
 
@@ -37,37 +61,135 @@ Before continuing, can you describe the following concepts?
 *
 
 
-## Point1 
-## Point2 
-## Point3 
-## Point4 
-## Point5 
-## Point6 
-## Point7 
+## What is a Construct Chain?
+
+You might remember Izzy referencing the construct state in _Hebrew Quest_.  A construct chain consists of at least two nouns linked together.  The very last noun is said to be in the "absolute state".  All words before the absolute noun are said to be in "construct state."
+
+If we had a phrase like "the servant of the son of the king," "king" is the absolute noun, with "servant" and "son" in construct.  The entire phrase would be called a "construct chain."
+
+In English we would add the word "of" after each word in the construct state.  Similarly we could say "the King's son's servant" or "the servant of the King's son."
+
+Just like we may add 's, Hebrew has different spelling for nouns in construct.  The absolute noun is the "normal" spelling and meaning.
+
+## What makes a construct chain
+
+What makes a Hebrew construct chain different is that noting else comes between the words of the chain.  In English we could add in an adjective like "the servant of the _wicked_ son of the king," in Hebrew, any adjectives must come after the whole chain.
+
+We then would need to go back and figure out which word the adjective modifies by matching the gender and number.  This creates some potential ambiguity.  Literally, a Hebrew construct chain followed by an adjective could read "the servant of the son of the king the wicked."  It can be difficult to determine which of the three men is the wicked one.
+
+It gets a little easier when the nouns in the construct chain are of mixed number and/or gender.  For example: "the wife of David the strong the smart, the beautiful", if "strong" and "beautiful" were FS and "smart" were MS, the sentence translation would be clear.
+
+## Review: what makes a word definite 
+
+Construct Chains have strict rules regarding definiteness, so now would be good time to refresh our list of what makes a noun definite in light of this lesson and Lesson 9.
+
+A word is definite if it:
+
+* Has the article - הַמֶּלֶךְ
+* Has a pronominal suffix - מַלְכִּי
+* Is a proper noun - דָּוִיד
+* Is in a construct chain where the last, absolute, word is definite - בֶּן הַמֶּלֶךְ = THE son of the king
+
+This brings us to a key concept about construct chains:
+
+> Nouns in construct state NEVER take the article.
+
+So what the last bullet point above is saying is even though a noun in construct may not have the definite article, it is considered definite when the last work is definite.  We explain more on the next page.
+
+## The Last Word sets the definiteness of a chain
+
+A construct chain is either entirely definite, or entirely indefinite and it is the last, absolute, word that defines whether the chain is definite or indefinite.
+
+* בֵּנ הַמֶּלֶךְ = the son of the king
+* בֶּן מֶלֶךְ = a son of a king
+
+> A construct chain cannot mix definite an indefinite.
+
+You will never see "a son of the king" or "the son of a king" in a construct chain.  It's only one or the other.
+
+There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains<small>^[<small>While מִ֭שְׁלֵי שְׁלֹמֹ֣ה is a construct chain that means "THE proverbs of Solomon", מִזְמ֗וֹר לְדָ֫וִ֥ד is not a construct chain.  By using an inseparable preposition, this phrase means "A Psalm to David", or we would say "A Psalm of David".</small>]</small>.
+
+
+
+
+## How to Recognize a Construct Chain
+
+The following are characteristics of nouns in the construct state:
+
+* Never an article
+* Never a pronominal suffix
+* Never a long vowel that isn't a vowel letter (i.e. no Holem, Qamets, or Tsere)
+    * EXCEPT an accented long vowel in the penult<small>^[<small>That is the next to last syllable position.</small>]</small> - סֵ֫פֶר
+* No diphthong (will see Tsere+Yod or Holem-Vav)
+* May have a reduced vowel in the penult
+* Noun endings may change (next page)
+* Two nouns connected by maqqef is a construct chain
+    * כְּבוֹד־יְהוָה = The glory of the LORD
+    
+> Long vowel, not a vowel letter = absolute
+
+## Identifying Construct state by Noun Endings
+
+Nouns in construct often sometimes change endings.  The table below shows the Absolute ending and then the difference in the Construct form. 
+
+```{r, out.width = "300pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/10_construct_endings.png")
+```
+Other nouns may not change endings but will exhibit a loss of long vowels as discussed in the previous section.
+
+
+
+## Construct Chain Summary
+
+* Remember the rules for what makes a noun definite.  This will help you determine whether the entire construct chain is definite or indefinite (for it can only be entirely definite or entirely indefinite)
+    * "THE son of the queen" OR "A son of a queen"
+* All words except for the last are in the "construct state"
+    * No article or pronominal suffix
+    * Long vowels are limited
+        * ("Long vowel, not a vowel letter = Absolute" - Dr. Beckman)
+    * No diphthong
+    * Review ending changes chart
+        * Tsere+yod is a very common ending for a masculine plural construct noun
+    * A reduced vowel in the penult is usually construct - נְבִיא
+    * Noun with Maqqef is construct - בֶּן־
+
+There are four extremely common constructs in the Bible so we must be able to recognize them.  These will be reviewed in `Anki`.
+
+כָּל־ - all of
+אֲבִי־ = father of
+אֲחִי־ = brother of
+אֵ֫שֶׁת־ = wife of
 
 ## `Word Warm-up` {-}
 
-[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/1bvZ74a1SYU){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://youtu.be/1bvZ74a1SYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Verses Warm-up` {-}
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/1JWesFEa2_c){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://youtu.be/1JWesFEa2_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Anki` {-}
 
-* `Lesson xx A.Vocab`
-* `Lesson xx B.Grammar` 
-* `Lesson xx C.Verses`
+* `Lesson 10 A. Vocab`
+* `Lesson 10 B. Grammar` 
+* `Lesson 10 C. Workbook`
+* `Lesson 10 D. Verses`
 
-## `Worksheets`: NameOfWorksheet {-}
+## `Worksheets`: Construct Identification {-}
 
-<describe the worksheet>
+This attachment has a list of words, some are in absolute and some are in construct. See if you can determine the differences<small>^[<small>Odd 1-35, 39, 41, 42, 44, 45, 47 are Absolute; 37 and 38 are ambiguous; even 2-36, 40, 43, 46, and 48 are Construct. Most often it is "Long vowel, not a vowel letter" that identifies absolute.</small>]</small>.
 
-[Name of worksheet](){target="_blank"}
+[Construct Practice](./images/10_construct_practice.pdf){target="_blank"}
+
+This next attachment is not really a worksheet but is a summary of common construct vocabulary that occurs in the Bible for your review.
+
+[Construct Vocabulary](./images/10_construct_vocab.pdf){target="_blank"}
+
 
 ## `Ruth Pursuit` {-}        
 
@@ -82,34 +204,12 @@ Before continuing, can you describe the following concepts?
 7. instruction7 (Blue)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](){target="_blank"}
+* [Ruth Pursuit Answer Key #10](){target="_blank"}
 
-## `Hebrew Quest Study Passage`: Book Chapter# {-}
-
-1. Read through the passage on your own.
-2. Using a [Blank copy of the passage](){target="_blank"}:
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.    
-    2. Parse as many verbs as you can.
-    3. Sketch out a translation.
-3. Watch Izzy's _Hebrew Quest_ video below [(Click to open video in a new tab)](https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1){target="_blank"}
-    1. How close was your translation?
-    2. How did the Ruach HaQodesh speak to you?
-4. Check your parsing against [this key](){target="_blank"}
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
+[Open Quest Quiz #10 in a new window](){target="_blank"}
 
 <iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
-
-## Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<iframe src="" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 

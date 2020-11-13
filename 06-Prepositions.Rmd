@@ -1,33 +1,44 @@
-# Hebrew Prepositions 
+# Hebrew Prepositions
 
-> In order to comprehend Biblical Hebrew, we must be able to identify prepositions, which give us a sense of space and location as we read the Text.
+> In order to comprehend Biblical Hebrew, we must be able to identify prepositions as we read the Text.
 
-<!--Graphic or Quote -->
+Prepositions give us space and context.  Given that much of the Tanach is narrative, prepositions are on almost every page that we read as the authors describe the events to us.  There is one Hebrew word, מִן, that is classified as a preposition but depending on the context can convey a wide array of meanings. 
 
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/03.tel-dan.jpg")
-```
+::: {.infobox}
+**Seven Practical Points for Lesson 6**
 
-Say something about the graphic or quote
+1. Recognize that a Nun with Silent Sheva becomes a Daghesh Forte
+2. Describe Independent and Maqqef prepositions
+3. Define Inseparable prepositions
+4. Identify when a word with an inseparable preposition also has the definite article
+5. Understand how מִן is constructed
+6. Define how מִן is used
+7. Identify the Definite Direct Object (DDO) marker
+:::
 
+## First Thought {-}
 
-## Seven Practical Points for Lesson 06 {-}
+Meditate and celebrate that the Lord is in the midst of our troubles.
 
-1. More Sheva Rules: Nun with Silent Sheva becomes a Daghesh Forte
-2. Independent and Maqqef prepositions
-3. Inseparable prepositions
-4. The Article and Inseparable prepositions
-5. The flexible מִן: construction
-6. The flexible מִן: meanings
-7. The Definite Direct Object marker
+> (Psalms 77:3 NASB) In the day of my trouble I sought the Lord  
+בְּיוֹם צָרָתִי אֲדֹנָי דָּרָשְׁתִּי
 
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/06.ps7702.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
-### `Lesson Prayer` {-}
+*****
 
-Let us continue to pray that our Hebrew studies are a Spirit-filled exercise and not just an academic one.  Our goal is not merely our own knowledge, but an increased ability to worship God and serve others.
+```{r, out.width = "600pt", fig.align='center', fig.cap="Mt. Precipice in Nazareth - likely location of Luke 4:29 when the townsfolk wanted to throw Yeshua off the cliff. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
-> (Romans 8:5-6 NASB) 5 For those who are in accord with the flesh set their minds on the things of the flesh, but those who are in accord with the Spirit, the things of the Spirit. 6 For the mind set on the flesh is death, but the mind set on the Spirit is life and peace
+knitr::include_graphics("images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg")
+``` 
 
 ## Equipment Check {-}
 
@@ -168,9 +179,12 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 
 ### `Anki` {-}
 
-* `Lesson 06 A.Vocab`
-* `Lesson 06 B.Grammar` 
-* `Lesson 06 C.Verses`
+* `Lesson 06 A. Vocab`
+* `Lesson 06 B. Grammar` 
+* `Lesson 06 C. Workbook`
+    *     * In this activity, we will have very short passages of scripture that illustrate prepositions.
+    * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
+* `Lesson 06 D. Verses`
 
 
 ## `Word Warm-up` {-}

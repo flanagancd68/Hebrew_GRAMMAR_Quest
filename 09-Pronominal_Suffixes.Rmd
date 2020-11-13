@@ -5,22 +5,43 @@
 
 
 
-## Seven Practical Points for Lesson 9 {-}
+::: {.infobox}
+**Seven Practical Points for Lesson 9**
 
-1.  Meaning of pronominal suffixes
-2.  Type 1 vs Type 2 suffixes
-3.  How to tell Type 1 apart from Type 2
-4.  Finding the Lexical Form of a Noun with a Type 1 Suffix
-5.  Finding the Lexical Form of a Noun with a Type 2 Suffix
-6.  Unexpected changes with pronominal suffixes
-7.  Look-alike words involving pronominal suffixes
 
-### `Lesson Prayer` {-}
+1.  Understand the meaning of pronominal suffixes
+2.  Define Type 1 vs Type 2 suffixes
+3.  Differentiate Type 1 from Type 2
+4.  Identify the Lexical Form of a Noun with a Type 1 Suffix
+5.  Identify the Lexical Form of a Noun with a Type 2 Suffix
+6.  Recognize unusual changes with pronominal suffixes
+7.  Identify look-alike words involving pronominal suffixes
+:::
 
-Lesson prayer
+## First Thoughts {-}
 
-> scripture quotation
+In addition to offering up our petitions, let us be sure to listen for God's questions
 
+> (Genesis 43:7) This man heavily questioned us and our kindred  
+וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/09.gen4327.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+*****
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Banias waterfall. Region of Caesarea Philippi where Yeshua asked a very important question, 'who do YOU say that I am?'. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/09-Banias waterfall, tb032704275.jpg")
+``` 
 
 
 ## Equipment Check {-}
@@ -215,9 +236,10 @@ We have created a special `Word Warm-up` for the pronominal suffixes.
 
 ## `Anki` {-}
 
-* `Lesson 09 A.Vocab`
-* `Lesson 09 B.Grammar` 
-* `Lesson 09 C.Verses`
+* `Lesson 09 A. Vocab`
+* `Lesson 09 B. Grammar` 
+* `Lesson 09 C. Workbook`
+* `Lesson 09 D. Verses`
 
 ## `Worksheets`: NameOfWorksheet {-}
 
