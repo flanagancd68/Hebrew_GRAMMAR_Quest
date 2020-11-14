@@ -8,7 +8,7 @@
 
 Nouns consist of a person, place, thing, or idea and can be singular or plural.  Hebrew also introduces the concept of "gender".  In this lesson we will review aspects of the Hebrew noun with specific attention focused on the rules of pluralization.
 
-::: {.infobox}
+::: {.infobox .map}
 **Seven Practical Points for Lesson 4**
 
 1. Understand Noun Gender and Number
@@ -20,17 +20,32 @@ Nouns consist of a person, place, thing, or idea and can be singular or plural. 
 1. Define what is meant by "Lexical Form"
 :::
 
+::: {.infobox .stop}
+Before continuing, can you describe the following concepts?
+
+* Vowel and syllable preference
+* The rules for Silent Sheva and Vocal Sheva
+:::
+
 Additionally, starting with this lesson we will invoke the shorthand we've been learning in Anki (e.g. MP = Masculine Plural, FS = Feminine singular).
 
-**Digging deeper:** Many Hebrew grammar books expect students to know how to pluralize nouns in writing. Our objective with Hebrew GRAMMAR Quest is only that you recognize how nouns are pluralized so you can break down the word to identify the lexical form in the dictionary. If you wish to dig deeper, we encourage you to check out chapter 4 of <u>Basics of Biblical Hebrew</u>.
+
+**Parsing vs Inflecting:** Many Hebrew grammar books expect students to know how to pluralize nouns in writing. This is called inflecting.  Inflecting is when we take a base word and do something with it, such as change its gender or number.  When those books get to verbs, they spend a lot of effort focused on taking a base verb and inflecting it into all the different forms (person, gender, number, active, passive, reflexive, and so forth).  _Parsing_ is somewhat of the opposite concept where you take an inflected word and break it down into its base form.
+
+Reading the Hebrew Bible does not require you to inflect a noun or a verb; however, reading the Bible **does** require you to parse a word. 
+
+This is so that you are able identify the lexical form and understand what the word means means (or if you don't know what it means, how to look it up in a dictionary).
+
+Our objective with Hebrew GRAMMAR Quest is only that you know how to parse words. Beginning with this lesson you will see an `Anki` chapter called `Workbook`, which will have some activities like parsing. The ability to inflect **IS** a great skill to have to master the language.  If you wish to dig deeper and get into inflecting, we encourage you to check out <u>Basics of Biblical Hebrew</u> or another suitable textbook or workbook.
 
 
 ## First Thought {-}
 
-Give thanks to God for His Word and ask that you never depart from His commands
+### רְאֵה לִמַּדְתִּי אֶתְכֶם חֻקִּים וּמִשְׁפָּטִים {-}
 
-> (Deuteronomy 4:5 NASB) See, I have taught you statutes and judgments  
-רְאֵה לִמַּדְתִּי אֶתְכֶם חֻקִּים וּמִשְׁפָּטִים 
+*See, I have taught you statutes and judgments (Deuteronomy 4:5)*
+
+Give thanks to God for His Word and ask that you never depart from His commands
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -51,17 +66,6 @@ knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of
 ``` 
 
 
-## Equipment Check {-}
-
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/stopil.png")
-```
-
-Before continuing, can you describe the following concepts?
-
-* Vowel and syllable preference
-* The rules for Silent Sheva and Vocal Sheva
 
 
 
@@ -75,14 +79,14 @@ All Hebrew nouns have Gender and Number.
     * The gender of a noun never changes
     
 * Number
-    * A noun is either singular (S), plural (P), or infrequently, dual (D)
+    * A noun is either singular (S), plural (P), or less frequently, dual (D)
         * Dual is exactly two of something
         * Apart from the words "pair" or "both", English doesn't have too many dual forms
         * In Hebrew, typically paired body parts are in the dual form
     * The number of a noun CAN change
     * A word's ending indicates the number
     
-Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, this refers to "person, gender, number"; e.g. "3MS".
+Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, this refers to "person, gender, number"; e.g. "3MS" means "3rd person, masculine, singualr".
 
 ## Singular Noun Endings {#sing_noun_endings}
 
@@ -95,6 +99,10 @@ Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, th
         * בְּרִית (covenant)
         * מַלְכּוּת (kingdom)
         * אֶ֫רֶץ (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: אֶ֫רֶץ (land), עִיר (city), and אֶ֫בֶן (stone). When this occurs, most vocabulary lists will mark the word as "(F)".</small>]</small>
+        
+::: {.box .info}
+Some students fall into a habit of thinking every word-final ה is feminine.  Remember ה ֶ֫  is masculine
+:::
 
 ## Plural and Dual Noun Endings {#noun_pluralization}
 
@@ -150,7 +158,9 @@ Hebrew has three common words that have the dual ending but are usually translat
 
 An important note is that the plural forms still retain the gender of their singular noun.  אָבוֹת is still masculine,  and נָשִׁים is still feminine, despite the plural endings.
 
-A tip: when you see an _internal_ (not word-final) tsere+yod, as in בָּתִּים, the vowel pattern in the 'original' word was likely Accented-patach-yod-hiriq, as in בַּ֫יִת.
+::: {.box .info}
+When you see an _internal_ (not word-final) tsere+yod, as in בָּתִּים, the vowel pattern in the 'original' word was likely the accented-patach-yod-hiriq diphthong, as in בַּ֫יִת.
+:::
 
 The next two categories of irregular words are more straightforward:
 
@@ -158,7 +168,9 @@ The next two categories of irregular words are more straightforward:
 
 You may have noticed something interesting about the words, דֶּ֫רֶךְ  and סֵ֫פֶר . The Two syllable nouns where the accent is on the first syllable are classified as _Segholate_ nouns.  They get this name because frequently, though not always, there are two Seghol vowels. נַ֫עַר  (boy, youth) is a segholate noun even though it doesn't have any Seghol vowels.
 
+::: {.box .info}
 If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending, the word is likely a Segholate noun.
+:::
 
 * מֶ֫לֶךְ to מְלָכִים
 * סֵ֫פֶר to סְפָרִים
@@ -169,7 +181,9 @@ If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets und
 _Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal"), but at one point the second consonant appeared twice.  Example עַם (people) was once *עמם.
 The lexical form drops the extra consonant.
 
+::: {.box .info}
 When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example, עַם becomes עַמִּים (peoples).
+:::
 
 The reason we don't have a Daghesh Forte in עַם is that **the last consonant of a word rejects the Daghesh Forte when it has no vowel.**
 
@@ -177,10 +191,12 @@ The reason we don't have a Daghesh Forte in עַם is that **the last consonant 
 
 Sometimes, according to other rules of grammar, we end up with a scenario where we have two reduced vowels, such as two vocal sheva, back to back.  However, an overarching facet of Hebrew is that two reduced vowels in a row cannot stand.  
 
-> The Rule of Sheva changes the first of two reduced vowels into the corresponding short vowel.
+::: {.box .light}
+The Rule of Sheva changes the first of two reduced vowels into the corresponding short vowel.
+The first of two contiguous Vocal Sheva will usually change to a Hireq.  
+:::
 
-
-* The first of two contiguous Vocal Sheva will usually change to a Hireq.  Note the unique situation when the second consonant is a Yod:
+* Note the unique situation when the second consonant is a Yod:
 ```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
 include_graphics("images/04.vocal_vocal_hireq.png")
@@ -235,13 +251,14 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/n9HYIqqvA0I){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="768" height="432" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/89pLvO3wg6s){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/89pLvO3wg6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Anki` {-}
 
@@ -282,6 +299,6 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 [Open Quest Quiz #04 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
 
-<iframe src="https://forms.gle/2LCEgvmpHr5mqB5Z6" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+<iframe src="https://forms.gle/2LCEgvmpHr5mqB5Z6" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
 

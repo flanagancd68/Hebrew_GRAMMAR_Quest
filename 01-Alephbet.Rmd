@@ -17,8 +17,8 @@ knitr::include_graphics("images/alephbet_multi.png")
 This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson we will meet the Hebrew Aleph-Bet.  The letters are like a family, and with any family there can be interesting dynamics (including not always playing nice with each other!).  The bulk of the lesson will take a look at some of those dynamics.
 
 
-::: {.infobox-points .map}
-**Lesson Itinerary**
+::: {.infobox .map}
+**LESSON ITINERARY**
 
 1. Meet the Hebrew Aleph-Bet
 1. Understand that Hebrew is written and read from RIGHT to LEFT
@@ -30,11 +30,10 @@ This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~160
 
 :::
 
-*****
 
-::: {.infobox-stop .stop}
+::: {.infobox .stop}
 
-**Equipment Check**
+**EQUIPMENT CHECK**
 
 If you are eager to jump right in with Lesson 1, we understand totally.  We are also excited for you to start!
 
@@ -49,15 +48,16 @@ Before continuing, make sure of the following:
  
 :::
 
-## First Thought {- #lesson-prayer-1}
+## First Thought {-}
 
-As you undertake this study, pray for this Grammar adventure to be fruitful.  May God use your growing knowledge of Hebrew as an instrument to advance His Kingdom.
+### שֵׁם יְהוָה אֶקְרָא {-}
 
-> (Deuteronomy 32:3 NASB) For I proclaim the name of Adonai  
-> שֵׁם יְהוָה אֶקְרָא
+*For I proclaim the name of Adonai  (Deuteronomy 32:3)*  
+
+As you undertake this study, pray for this Grammar adventure to be fruitful.  May God use your growing knowledge of Hebrew as an instrument to advance His Kingdom, and may you never cease to proclaim His Name! 
 
 <figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <figcaption>Listen to this verse in Hebrew, then say it out loud:</figcaption>
     <audio
         controls controlsList="nodownload"
         src="./images/01.Deu3203.mp3">
@@ -106,7 +106,7 @@ include_graphics("images/hebrewbook.png")
 
 * When reading Hebrew, always start at the "back" and go from RIGHT to LEFT
 
-***
+*****
 
 See **Hebrew Quest** discussion on Right to Left:
 
@@ -148,9 +148,9 @@ knitr::include_graphics("images/bdgkpt.gif")
 * At one time, all six of these letters had different pronunciations, but today, only three do.  These are the letters in blue above: **בּ כּ פּ**
     * Since the letters without the Daghesh Lene want to be "lazy" - for example a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"
 
-
+::: {.infobox .info}
 We’ll dig deeper into the Daghesh Lene and its much more important twin, the Daghesh Forte, over the next few lessons.
-
+:::
 
 ## We classify four consonants as **Gutturals** (and one is a sometimes-guttural) {#gutturals}
 
@@ -158,7 +158,6 @@ We’ll dig deeper into the Daghesh Lene and its much more important twin, the D
 knitr::include_graphics("images/gutturals.gif")
 ```
 
-### How the Gutturals behave is one of the most critical facets of Hebrew grammar {-}
 
 * There are four proper gutturals: Aleph, Hei, Chet, and Ayin (in red above)
  * The letter Resh ר (in orange above) is not formally a Guttural; but since it can’t decide whether to behave or not, sometimes we include Resh with the other Gutturalsl
@@ -167,6 +166,9 @@ knitr::include_graphics("images/gutturals.gif")
     * We will learn this over the next few lessons (and indeed, the rest of the course) 
 * For now, memorize the group of four guttural consonants in red and Resh, the sometimes-guttural-like letter in orange.
 
+::: {.infobox .info}
+Learning how the Gutturals behave and what spelling changes they cause is one of the most critical facets of Hebrew grammar
+:::
 
 ## Look out for look-alike Letters {#look-alike-letters}
 
@@ -202,7 +204,7 @@ knitr::include_graphics("images/vav.png")
 
 ## Lesson Conclusion and Activities {-}
 
-Congratulations on completing your first lesson.  If you look to the left, you should see 1.1 through 1.7 (hit the `s` key if you don't see it).  After each lesson, take a moment to review list of the Seven Practical Points. Don't hesitate to go back and re-review anything that might be a bit fuzzy.
+Congratulations on completing your first lesson.  If you look to the left, you should see 1.1 through 1.7 (hit the `s` key if you don't see the sidebar).  After each lesson, take a moment to review list of the Seven Practical Points. Don't hesitate to go back and re-review anything that might be a bit fuzzy.
 
 Now we'll move into the Physical Activity<small>^[<small>If you're wondering why we call it a "physical" activity, see [this discussion](#physical) in the appendix.</small>]</small> stage of the Lesson.  This is where you take what you learned above and put it into practice using `Anki`.  For this lesson, we also have a `worksheet` and an additional writing activity.
 
@@ -232,7 +234,7 @@ You can do this activity online using Google Docs, or you can download/print and
 
 ### Your Quest: {-}
 
-1. Identify the four guttural letters (pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
+1. Identify the four guttural letters in Ruth chapter 1(pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
 2. Identify the one half-guttural (red)
 3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
 4. Identify the five final/sofit forms (blue)

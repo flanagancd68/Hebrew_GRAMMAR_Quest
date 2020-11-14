@@ -16,8 +16,8 @@ include_graphics("images/02.Gen0109.png")
 
 As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, a group known as the Masorites developed the vowel notation we use today. These are the symbols in red.  These are usually under, but sometimes in the middle of or over the affected consonant. This vowel system intends to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which synagogues use for chanting the verses.  These marks also show where the word's accent is.<small>^[<small>Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. </small>]</small>
 
-::: {.infobox}
-**Seven Practical Points for Lesson 2**
+::: {.infobox .map}
+**LESSON ITINERARY**
 
 1. Memorize vowels that are not vowel letters
 1. Learn vocal sheva and silent sheva
@@ -26,18 +26,29 @@ As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you s
 1. Meet Daghesh Lene's twin, Daghesh Forte
 1. Know the rule for a Daghesh Forte
 1. Know that the Gutturals and Resh reject Daghesh Forte
+::: 
 
+::: {.infobox .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you recite the following groups of letters from memory?
+
+* All twenty-two consonants of the Hebrew Aleph-Bet 
+* The six BeGaD KePHaT letters
+* The five KiMNePaTZ letters
+* The four guttural letters and the one sometimes-guttural letter
 :::
 
 ## First Thought {-}
 
-Reflect on the works of HaShem that you have seen
+###  הֵמָּה רָאוּ מַעֲשֵׂי יְהוָה {-}
 
-> (Psalms 107:24 NASB) They have seen the works of Adonai  
-> הֵמָּה רָאוּ מַעֲשֵׂי יְהוָה
+*They have seen the works of Adonai (Psalms 107:24)*
+
+Reflect on the works of HaShem that you have seen.
 
 <figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <figcaption>Listen to this verse in Hebrew, then say it out loud:</figcaption>
     <audio
         controls controlsList="nodownload"
         src="./images/02.ps107024.mp3">
@@ -54,30 +65,17 @@ knitr::include_graphics("images/02-Plain of Bethsaida with green grass, tb110206
 ``` 
 
 
-## `Equipment Check` {-}
 
-```{r, out.width = "300pt", fig.align='center'}
-
-include_graphics("images/stopil.png")
-```
-
-Before continuing, can you recite the following groups of letters from memory?
-
-* All twenty-two consonants of the Hebrew Aleph-Bet 
-* The six BeGaD KePHaT letters
-* The five KiMNePaTZ letters
-* The four guttural letters and the one sometimes-guttural letter
 
 ## Vowels that are not vowel letters {#vowels}
 
 ### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
 
-Like the Aleph-bet, we are going to have to commit the vowels in the table below to memory. Knowing the vowel types and classes will make your grammatical life much more comfortable in the future.  The Anki exercises will break down each component and quiz you on small sections at a time.  Eventually, you'll get it!
-
-Notes:
+Like the Aleph-bet, we are going to have to commit the vowels in the table below to memory. You will do this in `Anki`. Knowing the vowel types and classes will make your grammatical life much more comfortable in the future.  
 
 * The letter בּ is provided as a placeholder
 * Say the vowel _after_ saying the associated consonant<small>^[<small>We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.</small>]</small> So the first vowel example is "baw" not "awb".
+*  Future lessons will explain the difference between Qamets and Qamets Hatuf
 
 ```{r, out.width = "500pt", fig.align='center'}
 
@@ -85,16 +83,15 @@ include_graphics("images/02.vowels_not_letters.png")
 ```
 
 
-Notes:
 
-* Future lessons will explain the difference between Qamets and Qamets Hatuf
-* Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
-  * Hateph vowels are used because Guturals reject vocal sheva (2.2)
-* You might see Kibbuts, Kibbutz, Qibbutz, and Qibbuts used interchangeably
-* Interestingly, if you ever learned Spanish, the name of the vowels in Spanish are roughly how the long and short vowels are pronounced in Hebrew.  Perhaps you remember the Spanish mnemonic "a e i o u - arbolito de Peru"!
+::: {.infobox .light}
+Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
+
+Hateph vowels are used because Gutturals reject vocal sheva (2.2)
+:::
 
 
-## Vocal  and Silent Sheva {#sheva}
+## Vocal and Silent Sheva {#sheva}
 
 * Both are written as בְּ 
   * Both mark the END of a syllable
@@ -105,10 +102,12 @@ Notes:
 * SILENT Sheva is NOT A Vowel
     * <u>Any</u> letter can take a Silent Sheva
     * Silent/ No sound
+    
+::: {.infobox .info}
+ We will learn how to distinguish between the two kinds of Sheva in the next lesson
+:::
 
-> We will learn how to distinguish between the two kinds of Sheva in the next lesson
-
-It is worth pointing out that in Hebrew Bibles you may come across a mark that looks like a super-sized sheva.  In English we might say it looks like a colon (:).  In Hebrew this mark is called a sof pasuq and it is used to mark the end of the verse.  It is no other effect on grammar or pronunciation.  (סוֹף=end; פָּסוּק=verse).  And while we're on this note, sometimes you may see a vertical line |.  This has no meaning for us whatsoever.  You may ignore it when you encounter it.
+It is worth pointing out that in Hebrew Bibles you may come across a mark that looks like a super-sized sheva.  In English, we might say it looks like a colon (:).  In Hebrew this mark is called a sof pasuq and it is used to mark the end of the verse.  It is no other effect on grammar or pronunciation.  (סוֹף=end; פָּסוּק=verse).  And while we're on this note, sometimes you may see a vertical line |.  This has no meaning for us whatsoever.  You may ignore it when you encounter it.
 
 ## Vowel letters {#vowel_letters}
 
@@ -128,7 +127,11 @@ include_graphics("images/02.vowels_letters.png")
     * These are Long Vowels that do not reduce
     * Therefore they are called "irreducible (unchangeable) long vowels"<small>^[<small>We'll explain what this means in the next lesson</small>]</small>
     * These occur in the middle or at the end of a word
-    * If the Yod or Vav has a vowel of it's own, then the Yod/Vav is acting as a _consonant_, not an irreducible long vowel.
+
+::: {.infobox .info}
+If the Yod or Vav has a vowel of it's own, then the Yod/Vav is acting as a _consonant_, not an irreducible long vowel.
+:::
+
 * Hei Vowels - ה
     * Seghol Hei is a short vowel - the other Hei vowels are long
     * Hei vowels **ONLY** occur at the end of a word (often called "word-final hei")
@@ -137,7 +140,7 @@ include_graphics("images/02.vowels_letters.png")
 
 ## "Defective" and "plene" spelling {#defective_spelling}
 
-### In "defective" spelling, letter vowels can sometimes drop their letter and take on the corresponding non-letter vowel. The meaning of the word doesn’t change. {-}
+In "defective" spelling, letter vowels can sometimes drop their letter and take on the corresponding non-letter vowel. The meaning of the word doesn’t change.
 
 This is the word for "laws" showing both "plene" spelling (left) and "defective" spelling (right):
 
@@ -152,12 +155,12 @@ knitr::include_graphics("images/defective.gif")
     * Shuruq can drop the Vav and it's associated nikkud and contract to Qibbuts
     
 The qamets-hei ה ָ  sometimes drops the final ה, leaving just the qamets under the now-final letter.
-    
-Over time, you’ll start to develop a mental checklist when you encounter something that doesn’t make sense. “Could this be a defective spelling?” will be one of those checklist items.
 
-## The Daghesh Forte {#daghesh_forte}
+::: {.infobox .info}    
+As you progress, you’ll start to develop a mental checklist when you encounter something that does not seem to follow the normal/regular rules. Asking yourself “Could this be a defective spelling?” will be one of those checklist items.
+:::
 
-### A Daghesh Forte doubles the consonant {-}
+## The Daghesh Forte Doubles the Consonant {#daghesh_forte}
 
 Notice the שּׁ in הַשָּׁמַיִם:
 
@@ -167,7 +170,6 @@ knitr::include_graphics("images/02.daghesh_forte.gif")
 ```
  
 * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Daghesh Lene, but it is a Daghesh **Forte**
-* It's good to think of the Daghesh Forte as the "doubling Daghesh"
 * The letter with the Daghesh Forte both ends one syllable and begins the next syllable
     * If we were to syllabify הַשָּׁמַיִם, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  הַשָּׁמַיִם means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
 * A similar word in English might be better = bet | ter
@@ -185,11 +187,18 @@ include_graphics("images/02.forte.png")
 
 _Advanced tip:_ When you see a Daghesh Forte, it often means that another letter has disappeared<small>^[<small>Not entirely unlike the English apostrophe in words like _can't_.</small>]</small>.  We will talk more about this later in the course.
 
-We will have much more to say about syllabification in Lesson 3.
+::: {.infobox .info}
+It's good to think of the Daghesh Forte as the "Doubling Daghesh", since it doubles the consonant, and often changes a word's meaning.  
+
+Conversely we can think of the Daghesh Lene as the "Meaningless Daghesh", since it does not ever change a word's meaning
+:::
+
 
 ## Daghesh Forte Rule {#daghesh_forte_in_bgdkpt}
 
-### "A Daghesh is a Forte if, and only if, it's preceded by a vowel that is not a Sheva." ---John Beckman {-}
+::: {.infobox .light} 
+A Daghesh is a Forte if, and only if, it's preceded by a vowel that is not a Sheva
+:::
 
 That's it.  That's the rule<small>^[<small>Strictly speaking, there are exceptions, but you won't encounter them in a first-year Hebrew course</small>]</small>.  
 
