@@ -251,14 +251,17 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/n9HYIqqvA0I){target="_blank"}
 
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/89pLvO3wg6s){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0"></iframe>
+</div>
 
 ## `Anki` {-}
 
@@ -299,6 +302,13 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 [Open Quest Quiz #04 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
 
-<iframe src="https://forms.gle/2LCEgvmpHr5mqB5Z6" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe 
+    class="responsive-iframe"
+    src="https://forms.gle/2LCEgvmpHr5mqB5Z6">
+    </iframe>
+</div>
+    
+    width="800" height="600" frameborder="0" marginheight="0" marginwidth="0">
 
 
