@@ -100,9 +100,8 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 ## Hebrew Word Accents {#accents}
 
-### Most frequently, Hebrew words are stressed on the last syllable.  {-}
-
-### If not, then the accent will be on the next-to-last syllable {-}
+> Most frequently, Hebrew words are stressed on the last syllable  
+If not, then the accent will be on the next-to-last syllable<small>^[<small>Later in the course, we will learn about a mark called a maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the maqqef technically does not have an accent.</small>]</small>
 
 Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<small>Modern Hebrew has words (mostly borrowed from other languages) that don't follow this rule</small>]</small>.
 
@@ -114,6 +113,7 @@ include_graphics("images/03.accent_stress.png")
 * The word on the left is stressed on the last syllable
 * The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
     * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)<small>^[<small>Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.</small>]</small>
+* Hataph vowels and Sheva are **NEVER** accented - in other words, if there is a word-final Sheva, the accent will be on the next-to-last syllable
 
 ### Tonic, Pretonic, and Propretonic Syllables {-}
 
@@ -122,6 +122,7 @@ include_graphics("images/03.accent_stress.png")
     * The **Propretonic** syllable is two (or more) steps away from the accent = דְּ
         * Notice how the vowel changed from the Qamets in דָּבָר to a Vocal Shewa in דְּבָרִים
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
+        * Qamets and Tsere will become Sheva (or hateph patach/hateph seghol)
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
     * The **Tonic** syllable is the one with the accent = רִים<small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
     
@@ -132,6 +133,8 @@ Since the accent is not always in a fixed location, we sometimes will use other 
   * _ultima_ = the last syllable
   * _penultima_ = the next to last syllable
   * _antepenultima_ = the syllable(s) before the _penultima_
+  
+
 
 ## Rules for Silent Sheva {#s_sheva}
 

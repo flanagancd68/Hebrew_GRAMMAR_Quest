@@ -58,16 +58,16 @@ Before continuing, can you describe the following concepts?
 
 You may be wondering what this has to do with prepositions, but stick with us.  It will make sense by the end of the lesson!
 
-Nun is considered a "weak letter" and it has a tendency to drop out of a word under certain scenarios. When the nun appears with a SILENT sheva נְ (or no vowel at all) is one of those times.  You remember how we said that the Daghesh Forte is your friend, because it tells you that something has changed?  When then nun drops, whenever possible it will be replaced with a Daghesh Forte.  The technical term for this is called "assimilation".   
+Nun is considered a "weak letter" and it has a tendency to drop out of a word under certain scenarios. When the nun appears with a SILENT sheva נְ (or no vowel at all) is one of those times.  You remember how we said that the Daghesh Forte is your friend, because it tells you that something has changed?  When then nun drops, whenever possible it will be replaced with a Daghesh Forte.  The technical term for this is called "assimilation".   To get back to the original/lexical form we would substitute the Daghesh Forte for the nun+sheva
 
 מִנְזָהָב* > מִזָּהָב
 
 
 This is why we spend time talking about when the Daghesh Forte might get rejected.  Do you remember the three times we have studied where the Daghesh Forte may be rejected?  
 
-* Gutturals and Resh
-* At the end of a word
-* With a SQiN eM LeVY with a Sheva: מִנְקְצֵה* > מִקְּצֵה* > מִקְצֵה
+* Gutturals and Resh (may be compensatory lengthening)
+* At the end of a word (may be compensatory lengthening)
+* With a SQiN eM LeVY with a Sheva: מִנְקְצֵה* > מִקְּצֵה* > מִקְצֵה (will never be compensatory lengthening)
 
 ## Independent and Maqqef prepositions 
 
@@ -81,7 +81,7 @@ The preposition comes first, followed by its object (just like English).
 * Most Hebrew prepositions are written this way. – E.g.,  תַּחַת אֹתוֹ
 * English prepositions are written this way. – E.g., Under it
 
-Maqqef is the Hebrew word for dash.  They are nearly identical in meaning and appearance except the Hebrew Maqqef is raised ־ whereas the English is middle -
+Maqqef is the Hebrew word for dash.  They are nearly identical in meaning and appearance except the Hebrew Maqqef is raised ־ whereas the English is middle -.  Like the dash when used to join two words, the Maqqef lets us know that two words are closely connected grammatically.
 
 In a _Maqqef_ preposition, the Maqqef connects a preposition to its object. Again, the preposition comes first.
 
@@ -91,6 +91,7 @@ English prepositions are NOT written this way.  You would never see "on-a-king."
 
 You may see the same preposition written both with and without the Maqqef.  The meaning does not change.  עַל מֶלֶךְ means the same as עַל־מֶלֶךְ
 
+In addition to prepositions we sometimes see the maqqef joining a verb and it's subject. One notable aspect about the Maqqef is that the word loses its accent.  The fowel that loses its accent may change.
 
 ## Inseparable prepositions
 
@@ -103,9 +104,11 @@ library(knitr)
 knitr::include_graphics("images/05.inseparable.png")
 ```
 
+A mnemonic to remember these three inseparable prepositions is "buckle"
+
 The first word of the Bible contains an inseparable preposition: בְּרֵאשִׁית = "In (the) beginning".
 
-If there is a Sheva or Hateph vowel in the next letter, the Rules of Sheva come into play.  Review Lesson 4 if you need to.
+In the lexical form of these prepositions, there is a vocal sheva vowel under the "buckle" consonant.  If there is a Sheva or Hateph vowel in the next letter, the Rules of Sheva come into play.  Review Lesson 4 if you need to.
 
 * Before another vocal Sheva, the preposition usually takes a Hireq
 * Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
@@ -138,6 +141,12 @@ Some situations will be ambiguous; the context will guide us.
 There is one preposition that is unique: מִן
 
 It can be a Maqqef preposition, as in: מִן־זָהָב, or it can be an inseparable preposition: מִזָּהָב.  Both mean "from gold." The reason we led of this Lesson with a discussion on "nun with a silent sheva" is because this is what is happening with מִן when it is an inseparable preposition.  The nun assimilates into the following consonant, becoming a Daghesh Forte.
+
+```{r, out.width = "400pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/06.preposition_min.jpg")
+```
+
 
 Unlike the regular inseparable prepositions, the ה of the article is retained: מֶהָאָ֫רֶץ = from the land.
 

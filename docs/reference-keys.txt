@@ -1,10 +1,10 @@
 fig:unnamed-chunk-6
-fig:unnamed-chunk-17
-fig:unnamed-chunk-24
-fig:unnamed-chunk-26
-fig:unnamed-chunk-43
-fig:unnamed-chunk-48
-fig:unnamed-chunk-52
+fig:unnamed-chunk-16
+fig:unnamed-chunk-23
+fig:unnamed-chunk-25
+fig:unnamed-chunk-42
+fig:unnamed-chunk-47
+fig:unnamed-chunk-51
 fig:unnamed-chunk-56
 fig:unnamed-chunk-59
 fig:unnamed-chunk-63

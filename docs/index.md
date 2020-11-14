@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest - Preview"
-#date: "2020-11-13"
+#date: "2020-11-14"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2020-11-13</small>
+<small>*Updated*: 2020-11-14</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -242,14 +242,13 @@ Use the form below to ask a question. Please note, we are staffed by volunteers,
 
 <br>
 
-<img src="images/alephbet_multi.png" width="500pt" style="display: block; margin: auto;" />
+<img src="images/alephbet_multi.png" width="300pt" style="display: block; margin: auto;" />
 
 This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson we will meet the Hebrew Aleph-Bet.  The letters are like a family, and with any family there can be interesting dynamics (including not always playing nice with each other!).  The bulk of the lesson will take a look at some of those dynamics.
 
----
 
-::: {.infobox}
-**Seven Practical Points for Lesson 1**
+::: {.infobox-points .map}
+**Lesson Itinerary**
 
 1. Meet the Hebrew Aleph-Bet
 1. Understand that Hebrew is written and read from RIGHT to LEFT
@@ -261,9 +260,28 @@ This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~160
 
 :::
 
+*****
+
+::: {.infobox-stop .stop}
+
+**Equipment Check**
+
+If you are eager to jump right in with Lesson 1, we understand totally.  We are also excited for you to start!
+
+"Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing<small>^[<small>See discussion on ["The Fog"](#the-fog) in the appendix</small>]</small>
+
+
+Before continuing, make sure of the following:
+
+*  You read the [Introduction](#hgq_and_hq)
+*  You understand what will [a typical lesson](#typical-lesson) will include
+*  You followed the steps on our [Quick Start Instructions](#get_started), are ready go to with `Anki` and have your `Course Checklist` to track your progress
+ 
+:::
+
 ## First Thought {- #lesson-prayer-1}
 
-As you undertake this new study, pray for this Grammar adventure to be fruitful.  May God use you as an instrument to advance His Kingdom.
+As you undertake this study, pray for this Grammar adventure to be fruitful.  May God use your growing knowledge of Hebrew as an instrument to advance His Kingdom.
 
 > (Deuteronomy 32:3 NASB) For I proclaim the name of Adonai  
 > שֵׁם יְהוָה אֶקְרָא
@@ -281,28 +299,12 @@ As you undertake this new study, pray for this Grammar adventure to be fruitful.
 *****
 
 <div class="figure" style="text-align: center">
-<img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
+<img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
 <p class="caption">(\#fig:unnamed-chunk-6)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 <small>Note: acoustic tests have been performed at this location that have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment (and Yeshua didn't have to deal with road noise!).  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
 
-## `Equipment Check` {- #equipment-check-1}
-
-<img src="images/stopil.png" width="300pt" style="display: block; margin: auto;" />
-
-
-If you are eager to jump right in with Lesson 1, we understand totally.  We are also excited for you to start!
-
-`Equipment Check` is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing<small>^[<small>See discussion on ["The Fog"](#the-fog) in the appendix</small>]</small>
-
-
-Before continuing, make sure of the following:
-
-*  You read the [Introduction](#hgq_and_hq)
-*  You understand what will [a typical lesson](#typical-lesson) will include
-*  You followed the steps on our [Quick Start Instructions](#get_started), are ready go to with `Anki` and have your `Course Checklist` to track your progress
- 
 
 ## The Hebrew Aleph-Bet {#consonants}
 
@@ -509,7 +511,7 @@ Reflect on the works of HaShem that you have seen
 
 <div class="figure" style="text-align: center">
 <img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-17)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-16)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -542,6 +544,7 @@ Notes:
 
 * Future lessons will explain the difference between Qamets and Qamets Hatuf
 * Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
+  * Hateph vowels are used because Guturals reject vocal sheva (2.2)
 * You might see Kibbuts, Kibbutz, Qibbutz, and Qibbuts used interchangeably
 * Interestingly, if you ever learned Spanish, the name of the vowels in Spanish are roughly how the long and short vowels are pronounced in Hebrew.  Perhaps you remember the Spanish mnemonic "a e i o u - arbolito de Peru"!
 
@@ -560,6 +563,8 @@ Notes:
 
 > We will learn how to distinguish between the two kinds of Sheva in the next lesson
 
+It is worth pointing out that in Hebrew Bibles you may come across a mark that looks like a super-sized sheva.  In English we might say it looks like a colon (:).  In Hebrew this mark is called a sof pasuq and it is used to mark the end of the verse.  It is no other effect on grammar or pronunciation.  (סוֹף=end; פָּסוּק=verse).  And while we're on this note, sometimes you may see a vertical line |.  This has no meaning for us whatsoever.  You may ignore it when you encounter it.
+
 ## Vowel letters {#vowel_letters}
 
 ### Vowel letters use a consonant plus a nikkud to form a vowel {-}
@@ -575,9 +580,10 @@ Another table to memorize:
     * These are Long Vowels that do not reduce
     * Therefore they are called "irreducible (unchangeable) long vowels"<small>^[<small>We'll explain what this means in the next lesson</small>]</small>
     * These occur in the middle or at the end of a word
+    * If the Yod or Vav has a vowel of it's own, then the Yod/Vav is acting as a _consonant_, not an irreducible long vowel.
 * Hei Vowels - ה
     * Seghol Hei is a short vowel - the other Hei vowels are long
-    * Hei vowels **ONLY** occur at the end of a word 
+    * Hei vowels **ONLY** occur at the end of a word (often called "word-final hei")
     * Hei vowels are extremely common in Hebrew
 
 
@@ -607,6 +613,7 @@ Notice the שּׁ in הַשָּׁמַיִם:
 <img src="images/02.daghesh_forte.gif" width="500pt" style="display: block; margin: auto;" />
  
 * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Daghesh Lene, but it is a Daghesh **Forte**
+* It's good to think of the Daghesh Forte as the "doubling Daghesh"
 * The letter with the Daghesh Forte both ends one syllable and begins the next syllable
     * If we were to syllabify הַשָּׁמַיִם, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  הַשָּׁמַיִם means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
 * A similar word in English might be better = bet | ter
@@ -615,6 +622,9 @@ Notice the שּׁ in הַשָּׁמַיִם:
 <img src="images/02.forte.png" width="200pt" style="display: block; margin: auto;" />
 * Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter, which can take either a Daghesh Lene or a Daghesh Forte
     * The "Buck-up" letters will take the **hard** pronunciation regardless of a Daghesh Lene or Daghesh Forte - See the final word אַתָּה in the image above
+    * "Any consonant" includes the Vav ו.  When a Vav has a Daghesh Forte it looks like this וּ. Does that remind you of anything?  Maybe something we just discussed on the previous page?
+        * That's right. A Vav with a Daghesh Forte וּ is identical to a Shurek וּ.
+        * It's surprisingly easy to tell the difference: if there is an additional vowel either under or over the same letter, or if the preceding consonant has a vowel, the letter is a Vav with Daghesh.  A Shurek will _never_ have an additional vowel following or preceding.
 
 _Advanced tip:_ When you see a Daghesh Forte, it often means that another letter has disappeared<small>^[<small>Not entirely unlike the English apostrophe in words like _can't_.</small>]</small>.  We will talk more about this later in the course.
 
@@ -643,10 +653,11 @@ Quiz yourself with these examples (answers below):
 
 <div class="figure" style="text-align: center">
 <img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-24)That's no moon.  That's a Guttural!</p>
+<p class="caption">(\#fig:unnamed-chunk-23)That's no moon.  That's a Guttural!</p>
 </div>
 
-* A large chunk of any Hebrew grammar course involes learning to resolve these guttural entanglements.
+* A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements.
+* You may see הּ. This dot is not a Daghesh but what is called a mappiq.  We'll talk more about the mappiq in Lesson 6.
 
 ## Lesson Conclusion and Activities {-}
 
@@ -753,7 +764,7 @@ Thank God for his blessings and meditate upon them
 
 <div class="figure" style="text-align: center">
 <img src="images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg" alt="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-26)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-25)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Equipment Check {-}
@@ -803,9 +814,8 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 ## Hebrew Word Accents {#accents}
 
-### Most frequently, Hebrew words are stressed on the last syllable.  {-}
-
-### If not, then the accent will be on the next-to-last syllable {-}
+> Most frequently, Hebrew words are stressed on the last syllable  
+If not, then the accent will be on the next-to-last syllable<small>^[<small>Later in the course, we will learn about a mark called a maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the maqqef technically does not have an accent.</small>]</small>
 
 Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<small>Modern Hebrew has words (mostly borrowed from other languages) that don't follow this rule</small>]</small>.
 
@@ -814,6 +824,7 @@ Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<
 * The word on the left is stressed on the last syllable
 * The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
     * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)<small>^[<small>Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.</small>]</small>
+* Hataph vowels and Sheva are **NEVER** accented - in other words, if there is a word-final Sheva, the accent will be on the next-to-last syllable
 
 ### Tonic, Pretonic, and Propretonic Syllables {-}
 
@@ -822,6 +833,7 @@ Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<
     * The **Propretonic** syllable is two (or more) steps away from the accent = דְּ
         * Notice how the vowel changed from the Qamets in דָּבָר to a Vocal Shewa in דְּבָרִים
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
+        * Qamets and Tsere will become Sheva (or hateph patach/hateph seghol)
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
     * The **Tonic** syllable is the one with the accent = רִים<small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
     
@@ -832,6 +844,8 @@ Since the accent is not always in a fixed location, we sometimes will use other 
   * _ultima_ = the last syllable
   * _penultima_ = the next to last syllable
   * _antepenultima_ = the syllable(s) before the _penultima_
+  
+
 
 ## Rules for Silent Sheva {#s_sheva}
 
@@ -1032,7 +1046,7 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-43)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-42)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -1069,14 +1083,14 @@ Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, th
 ## Singular Noun Endings {#sing_noun_endings}
 
 * Singular
-    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); rarely a MS noun may end in ה ֶ
+    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) ה ֶ֫
     * The following words are examples of FS endings:
         * תּוֹרָה (Most common)
         * בַּת 
         * תִּפְאֶ֫רֶת  (glory)
         * בְּרִית (covenant)
         * מַלְכּוּת (kingdom)
-        * אֶ֫רֶץ (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: אֶ֫רֶץ (land), עִיר (city), and אֶ֫בֶן (stone)</small>]</small>
+        * אֶ֫רֶץ (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: אֶ֫רֶץ (land), עִיר (city), and אֶ֫בֶן (stone). When this occurs, most vocabulary lists will mark the word as "(F)".</small>]</small>
 
 ## Plural and Dual Noun Endings {#noun_pluralization}
 
@@ -1111,6 +1125,7 @@ Hebrew has three common words that have the dual ending but are usually translat
 * שַׁמַ֫יִם heaven, sky (sometimes "heavens")
 * מִצְרַ֫יִם Egypt
 * מַ֫יִם water (sometimes "waters")
+* פָּנִים face
 
 
 ## Irregular Pluralization  {#irregular_pluralization}
@@ -1129,7 +1144,9 @@ Hebrew has three common words that have the dual ending but are usually translat
 | בֵּן  | son      | בָּנִים  | sons      |
 | יוֹם | day      | יָמִים  | day       |
 
-An important note is that the plural forms still retain the gender of their singular noun.  אָבוֹת is still masculine,  and נָשִׁים is still feminine, despite the plural endings
+An important note is that the plural forms still retain the gender of their singular noun.  אָבוֹת is still masculine,  and נָשִׁים is still feminine, despite the plural endings.
+
+A tip: when you see an _internal_ (not word-final) tsere+yod, as in בָּתִּים, the vowel pattern in the 'original' word was likely Accented-patach-yod-hiriq, as in בַּ֫יִת.
 
 The next two categories of irregular words are more straightforward:
 
@@ -1137,7 +1154,7 @@ The next two categories of irregular words are more straightforward:
 
 You may have noticed something interesting about the words, דֶּ֫רֶךְ  and סֵ֫פֶר . The Two syllable nouns where the accent is on the first syllable are classified as _Segholate_ nouns.  They get this name because frequently, though not always, there are two Seghol vowels. נַ֫עַר  (boy, youth) is a segholate noun even though it doesn't have any Seghol vowels.
 
-Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending.
+If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending, the word is likely a Segholate noun.
 
 * מֶ֫לֶךְ to מְלָכִים
 * סֵ֫פֶר to סְפָרִים
@@ -1150,7 +1167,7 @@ The lexical form drops the extra consonant.
 
 When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example, עַם becomes עַמִּים (peoples).
 
-The reason we don't have a Daghesh Forte in עַם is that the last consonant of a word rejects the Daghesh Forte when it has no vowel.
+The reason we don't have a Daghesh Forte in עַם is that **the last consonant of a word rejects the Daghesh Forte when it has no vowel.**
 
 ## Rule of Sheva {#rules_sheva}
 
@@ -1301,7 +1318,7 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 <div class="figure" style="text-align: center">
 <img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-48)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-47)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Equipment Check {-}
@@ -1351,6 +1368,7 @@ How to tell the difference between the conjunction and words that start with ו?
     * וָו means "hook" and  וָוִים means "hooks - occurs 13 times in Exodus 26-38 in reference to the Tabernacle
     * וַשְׁתִּי - Queen Vashti - occurs only in the book of Esther
 
+
 ## Loss of Daghesh Forte {#loss_daghesh_forte}
 
 We've been referencing the Daghesh Forte in almost every Lesson of this course.  Now we're about to meet it face to face as we discuss the Hebrew Article. 
@@ -1366,7 +1384,7 @@ Now we add a third.  This one is very technical, so please don't worry if you do
 
 3. There is a group of consonants that SOMETIMES rejects the Daghesh Forte, but *only* when those consonants have a Sheva
     * They are called the _SQiN eM LeVY_ letters
-        * S - the sibilants (letters that make an S sound): סשׁשֹצ
+        * S - שׂשׁסצ the sibilants (letters that make an S sound)
         * Q - ק
         * N - נ
         * M - מ
@@ -1375,9 +1393,11 @@ Now we add a third.  This one is very technical, so please don't worry if you do
         * Y - י
         
 
-If you're expecting a Daghesh Forte and there isn't one, look to see if the next letter has a SQiN eM LeVY letter with a Sheva.
+If you're expecting a Daghesh Forte and there isn't one, look to see if the next letter has a SQiN eM LeVY letter with a Sheva.  
 
 See [this handout](./images/05_sqin_em_levy.pdf){target="_blank"} for additional discussion on SQiN eM LeVY consonants.
+
+
 
 ## Translate the Article {#article_translate}
 
@@ -1404,13 +1424,24 @@ As we've been saying, some unusual things can happen when the letter following t
     * Before a ח or another ה (see הֶ note below)- this is called "Virtual doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
 * Becomes הָ (no daghesh forte and patach lengthens to Qamets):
     * Before א ע ר or הָ֫ - 
-        * This is called "Compensatory Lengthening", and is quite common with these gutturals.  
-        * In Compensatory Lengthening, a short vowel _lengthens_ to become a long vowel to _compensate_ for the loss of a Dagesh Forte (or sometimes a vowel) in the following consonant
-            * Compensatory Lengthening can also occur in a Quiescent Aleph that rejects a Sheva
+        * This is called "Compensatory Lengthening", and is quite common with these gutturals.  (see note below)
 * Becomes הֶ (no Daghesh Forte and a Seghol instead of a Patach):
     * Before accented or unaccented חָ, or unaccented הָ or עָ
 
 Once again, the goal is not to memorize the alternate forms as much as recognize that they exist.  ּ הַ is the one you need to memorize.
+
+::: {.infobox}
+COMPENSATORY LENGTHENING
+
+* In Compensatory Lengthening, a short vowel _lengthens_ to become a long vowel to _compensate_ for the loss of a Dagesh Forte (or sometimes a vowel) in the following consonant
+    * Patach will lengthen to Qamets
+    * Hireq will lengthen to Tsere
+    * Qibbuts will lengthen to Holem
+* Compensatory Lengthening can occur in ANY letter that precedes a Daghesh Forte-rejecting Guttural or Resh...but it does not _always_ occur
+* Compensatory Lengthening can also occur in a Quiescent Aleph that rejects a Sheva.
+* When SQiN eM LeVY consonants reject the Daghesh, there is NEVER compensatory lengthening.
+* Sometimes there is no change to the preceding vowel - this is called "virtual doubling" as discussed above.
+::: 
 
 ## Hebrew Indefiniteness {#indefiniteness}
 
@@ -1534,7 +1565,7 @@ Meditate and celebrate that the Lord is in the midst of our troubles.
 
 <div class="figure" style="text-align: center">
 <img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - likely location of Luke 4:29 when the townsfolk wanted to throw Yeshua off the cliff. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-52)Mt. Precipice in Nazareth - likely location of Luke 4:29 when the townsfolk wanted to throw Yeshua off the cliff. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-51)Mt. Precipice in Nazareth - likely location of Luke 4:29 when the townsfolk wanted to throw Yeshua off the cliff. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Equipment Check {-}
@@ -1552,16 +1583,16 @@ Before continuing, can you describe the following concepts?
 
 You may be wondering what this has to do with prepositions, but stick with us.  It will make sense by the end of the lesson!
 
-Nun is considered a "weak letter" and it has a tendency to drop out of a word under certain scenarios. When the nun appears with a SILENT sheva נְ (or no vowel at all) is one of those times.  You remember how we said that the Daghesh Forte is your friend, because it tells you that something has changed?  When then nun drops, whenever possible it will be replaced with a Daghesh Forte.  The technical term for this is called "assimilation".   
+Nun is considered a "weak letter" and it has a tendency to drop out of a word under certain scenarios. When the nun appears with a SILENT sheva נְ (or no vowel at all) is one of those times.  You remember how we said that the Daghesh Forte is your friend, because it tells you that something has changed?  When then nun drops, whenever possible it will be replaced with a Daghesh Forte.  The technical term for this is called "assimilation".   To get back to the original/lexical form we would substitute the Daghesh Forte for the nun+sheva
 
 מִנְזָהָב* > מִזָּהָב
 
 
 This is why we spend time talking about when the Daghesh Forte might get rejected.  Do you remember the three times we have studied where the Daghesh Forte may be rejected?  
 
-* Gutturals and Resh
-* At the end of a word
-* With a SQiN eM LeVY with a Sheva: מִנְקְצֵה* > מִקְּצֵה* > מִקְצֵה
+* Gutturals and Resh (may be compensatory lengthening)
+* At the end of a word (may be compensatory lengthening)
+* With a SQiN eM LeVY with a Sheva: מִנְקְצֵה* > מִקְּצֵה* > מִקְצֵה (will never be compensatory lengthening)
 
 ## Independent and Maqqef prepositions 
 
@@ -1575,7 +1606,7 @@ The preposition comes first, followed by its object (just like English).
 * Most Hebrew prepositions are written this way. – E.g.,  תַּחַת אֹתוֹ
 * English prepositions are written this way. – E.g., Under it
 
-Maqqef is the Hebrew word for dash.  They are nearly identical in meaning and appearance except the Hebrew Maqqef is raised ־ whereas the English is middle -
+Maqqef is the Hebrew word for dash.  They are nearly identical in meaning and appearance except the Hebrew Maqqef is raised ־ whereas the English is middle -.  Like the dash when used to join two words, the Maqqef lets us know that two words are closely connected grammatically.
 
 In a _Maqqef_ preposition, the Maqqef connects a preposition to its object. Again, the preposition comes first.
 
@@ -1585,6 +1616,7 @@ English prepositions are NOT written this way.  You would never see "on-a-king."
 
 You may see the same preposition written both with and without the Maqqef.  The meaning does not change.  עַל מֶלֶךְ means the same as עַל־מֶלֶךְ
 
+In addition to prepositions we sometimes see the maqqef joining a verb and it's subject. One notable aspect about the Maqqef is that the word loses its accent.  The fowel that loses its accent may change.
 
 ## Inseparable prepositions
 
@@ -1594,9 +1626,11 @@ Three Hebrew prepositions are **ALWAYS** written this way, usually with a Vocal 
 
 <img src="images/05.inseparable.png" width="200pt" style="display: block; margin: auto;" />
 
+A mnemonic to remember these three inseparable prepositions is "buckle"
+
 The first word of the Bible contains an inseparable preposition: בְּרֵאשִׁית = "In (the) beginning".
 
-If there is a Sheva or Hateph vowel in the next letter, the Rules of Sheva come into play.  Review Lesson 4 if you need to.
+In the lexical form of these prepositions, there is a vocal sheva vowel under the "buckle" consonant.  If there is a Sheva or Hateph vowel in the next letter, the Rules of Sheva come into play.  Review Lesson 4 if you need to.
 
 * Before another vocal Sheva, the preposition usually takes a Hireq
 * Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
@@ -1626,6 +1660,9 @@ Some situations will be ambiguous; the context will guide us.
 There is one preposition that is unique: מִן
 
 It can be a Maqqef preposition, as in: מִן־זָהָב, or it can be an inseparable preposition: מִזָּהָב.  Both mean "from gold." The reason we led of this Lesson with a discussion on "nun with a silent sheva" is because this is what is happening with מִן when it is an inseparable preposition.  The nun assimilates into the following consonant, becoming a Daghesh Forte.
+
+<img src="images/06.preposition_min.jpg" width="400pt" style="display: block; margin: auto;" />
+
 
 Unlike the regular inseparable prepositions, the ה of the article is retained: מֶהָאָ֫רֶץ = from the land.
 
@@ -1791,7 +1828,9 @@ Perhaps a bit more foreign (unless you were an English major) are the concepts o
 
 ## Substantival Use
 
-In the Substantival use, the adjective acts as a noun.  Perhaps the most obvious example of this from pop culture is the film, "The Good, The Bad, and The Ugly."  The three words, "good", "bad" and "ugly" are adjectives being used as nouns.  In a sense the noun is implied.  It could be the "good ones" or the "bad man".
+In the Substantival use, the adjective acts as a noun. We could say the "Substantiv Substitutes" for a noun. 
+
+Perhaps an obvious example of this from pop culture is the film, "The Good, The Bad, and The Ugly."  The three words, "good", "bad" and "ugly" are adjectives being used as nouns.  In a sense the noun is implied.  It could be the "good ones" or the "bad man".
 
 The Substantival use in Hebrew is relatively easy to identify.  You will see an adjective but there will be no related noun that matches in gender and number.
 
@@ -1841,11 +1880,11 @@ Here is a decision tree:
 
 ## The Mappiq 
 
-The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in a Hei, and only when the Hei is at the end of a word.
+The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in a word-final Hei (a Hei that is the final letter of a word).
 
 It is virtually impossible to confuse a Daghesh and a Mappiq because ה can never take a Daghesh.
 
-A ה at the end of a word is always a vowel, except when it has a mappiq (הּ).
+A word-final ה is always a vowel unless it has a mappiq (הּ).
 
 The mappiq is a sign that the breathy sound of the consonantal hei should be accentuated slightly.
 
@@ -2037,7 +2076,7 @@ In most cases you will not have trouble differentiating the Article from the Int
 * 1st word of a clause before חָ֫,חָ, הָ, עָ   = both are הֶ
 * 1st word of a clause before ה, ח without Qamets or SQiN eM LeVY with Sheva = both are הַ
 
-In these situations, you guessed it, you will need to let context determine whether a question is being asked.  With lots of reading practice, this will get easier.  
+In these situations, you guessed it, you will need to let context determine whether a question is being asked.  With lots of reading practice, this will get easier.  Just know that the Definite Article is about **300X more common**.
 
 
 ## Near and Far Demonstratives
@@ -2248,7 +2287,8 @@ Below are the Type 2 suffixes
 
 Look at the chart below with the two types side-by-side.
 
-> Type 2 **always** begins with vowel + yod, but **not** hiriq + yod
+> Type 2 **always** contains vowel + yod, but **not** hiriq + yod  
+Type 1 **never** contains yod, **unless* it's hiriq+yod
 
 This simple rule plus the tips on the previous page about patters in gender and number should make it easier to identify the pronominal suffix.
 
@@ -2469,7 +2509,7 @@ Lesson prayer
     </audio>
 </figure>
 
----
+*****
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced it rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
@@ -2489,11 +2529,13 @@ Before continuing, can you describe the following concepts?
 
 You might remember Izzy referencing the construct state in _Hebrew Quest_.  A construct chain consists of at least two nouns linked together.  The very last noun is said to be in the "absolute state".  All words before the absolute noun are said to be in "construct state."
 
-If we had a phrase like "the servant of the son of the king," "king" is the absolute noun, with "servant" and "son" in construct.  The entire phrase would be called a "construct chain."
+If we had a phrase like "the servant of the son of the king," "king" is the absolute noun, with "servant" and "son" in construct.  The entire phrase would be called a "construct chain."  
+
+The point of the chain is to tell us something about the **first* _noun_ in the chain.  In the example above, we learn a little more about the servant.  This is an important point as it might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case.  We are describing the servant, not the King.  BUT, if there were a substantival adjective as the first word, e.g. "wise of heart", the chain is describing "heart" not "wise".  So a chain describes the first NOUN in the chain, not necessarily the first word in the chain.
 
 In English we would add the word "of" after each word in the construct state.  Similarly we could say "the King's son's servant" or "the servant of the King's son."
 
-Just like we may add 's, Hebrew has different spelling for nouns in construct.  The absolute noun is the "normal" spelling and meaning.
+Just like we may add `'s`, Hebrew has different spelling for nouns in construct.  The absolute noun is the "normal" spelling and meaning.
 
 ## What makes a construct chain
 
@@ -2527,7 +2569,7 @@ A construct chain is either entirely definite, or entirely indefinite and it is 
 * בֵּנ הַמֶּלֶךְ = the son of the king
 * בֶּן מֶלֶךְ = a son of a king
 
-> A construct chain cannot mix definite an indefinite.
+> A construct chain cannot mix definite and indefinite.
 
 You will never see "a son of the king" or "the son of a king" in a construct chain.  It's only one or the other.
 
@@ -2559,6 +2601,7 @@ Nouns in construct often sometimes change endings.  The table below shows the Ab
 <img src="images/10_construct_endings.png" width="300pt" style="display: block; margin: auto;" />
 Other nouns may not change endings but will exhibit a loss of long vowels as discussed in the previous section.
 
+Note that Tsere+Yod is diagnostic of Plural and Dual forms.
 
 
 ## Construct Chain Summary

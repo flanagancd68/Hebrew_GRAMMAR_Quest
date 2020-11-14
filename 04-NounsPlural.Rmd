@@ -87,14 +87,14 @@ Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, th
 ## Singular Noun Endings {#sing_noun_endings}
 
 * Singular
-    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); rarely a MS noun may end in ה ֶ
+    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) ה ֶ֫
     * The following words are examples of FS endings:
         * תּוֹרָה (Most common)
         * בַּת 
         * תִּפְאֶ֫רֶת  (glory)
         * בְּרִית (covenant)
         * מַלְכּוּת (kingdom)
-        * אֶ֫רֶץ (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: אֶ֫רֶץ (land), עִיר (city), and אֶ֫בֶן (stone)</small>]</small>
+        * אֶ֫רֶץ (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: אֶ֫רֶץ (land), עִיר (city), and אֶ֫בֶן (stone). When this occurs, most vocabulary lists will mark the word as "(F)".</small>]</small>
 
 ## Plural and Dual Noun Endings {#noun_pluralization}
 
@@ -129,6 +129,7 @@ Hebrew has three common words that have the dual ending but are usually translat
 * שַׁמַ֫יִם heaven, sky (sometimes "heavens")
 * מִצְרַ֫יִם Egypt
 * מַ֫יִם water (sometimes "waters")
+* פָּנִים face
 
 
 ## Irregular Pluralization  {#irregular_pluralization}
@@ -147,7 +148,9 @@ Hebrew has three common words that have the dual ending but are usually translat
 | בֵּן  | son      | בָּנִים  | sons      |
 | יוֹם | day      | יָמִים  | day       |
 
-An important note is that the plural forms still retain the gender of their singular noun.  אָבוֹת is still masculine,  and נָשִׁים is still feminine, despite the plural endings
+An important note is that the plural forms still retain the gender of their singular noun.  אָבוֹת is still masculine,  and נָשִׁים is still feminine, despite the plural endings.
+
+A tip: when you see an _internal_ (not word-final) tsere+yod, as in בָּתִּים, the vowel pattern in the 'original' word was likely Accented-patach-yod-hiriq, as in בַּ֫יִת.
 
 The next two categories of irregular words are more straightforward:
 
@@ -155,7 +158,7 @@ The next two categories of irregular words are more straightforward:
 
 You may have noticed something interesting about the words, דֶּ֫רֶךְ  and סֵ֫פֶר . The Two syllable nouns where the accent is on the first syllable are classified as _Segholate_ nouns.  They get this name because frequently, though not always, there are two Seghol vowels. נַ֫עַר  (boy, youth) is a segholate noun even though it doesn't have any Seghol vowels.
 
-Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending.
+If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending, the word is likely a Segholate noun.
 
 * מֶ֫לֶךְ to מְלָכִים
 * סֵ֫פֶר to סְפָרִים
@@ -168,7 +171,7 @@ The lexical form drops the extra consonant.
 
 When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example, עַם becomes עַמִּים (peoples).
 
-The reason we don't have a Daghesh Forte in עַם is that the last consonant of a word rejects the Daghesh Forte when it has no vowel.
+The reason we don't have a Daghesh Forte in עַם is that **the last consonant of a word rejects the Daghesh Forte when it has no vowel.**
 
 ## Rule of Sheva {#rules_sheva}
 

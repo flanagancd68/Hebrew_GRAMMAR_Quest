@@ -97,6 +97,7 @@ How to tell the difference between the conjunction and words that start with ו?
     * וָו means "hook" and  וָוִים means "hooks - occurs 13 times in Exodus 26-38 in reference to the Tabernacle
     * וַשְׁתִּי - Queen Vashti - occurs only in the book of Esther
 
+
 ## Loss of Daghesh Forte {#loss_daghesh_forte}
 
 We've been referencing the Daghesh Forte in almost every Lesson of this course.  Now we're about to meet it face to face as we discuss the Hebrew Article. 
@@ -112,7 +113,7 @@ Now we add a third.  This one is very technical, so please don't worry if you do
 
 3. There is a group of consonants that SOMETIMES rejects the Daghesh Forte, but *only* when those consonants have a Sheva
     * They are called the _SQiN eM LeVY_ letters
-        * S - the sibilants (letters that make an S sound): סשׁשֹצ
+        * S - שׂשׁסצ the sibilants (letters that make an S sound)
         * Q - ק
         * N - נ
         * M - מ
@@ -121,9 +122,11 @@ Now we add a third.  This one is very technical, so please don't worry if you do
         * Y - י
         
 
-If you're expecting a Daghesh Forte and there isn't one, look to see if the next letter has a SQiN eM LeVY letter with a Sheva.
+If you're expecting a Daghesh Forte and there isn't one, look to see if the next letter has a SQiN eM LeVY letter with a Sheva.  
 
 See [this handout](./images/05_sqin_em_levy.pdf){target="_blank"} for additional discussion on SQiN eM LeVY consonants.
+
+
 
 ## Translate the Article {#article_translate}
 
@@ -153,13 +156,24 @@ As we've been saying, some unusual things can happen when the letter following t
     * Before a ח or another ה (see הֶ note below)- this is called "Virtual doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
 * Becomes הָ (no daghesh forte and patach lengthens to Qamets):
     * Before א ע ר or הָ֫ - 
-        * This is called "Compensatory Lengthening", and is quite common with these gutturals.  
-        * In Compensatory Lengthening, a short vowel _lengthens_ to become a long vowel to _compensate_ for the loss of a Dagesh Forte (or sometimes a vowel) in the following consonant
-            * Compensatory Lengthening can also occur in a Quiescent Aleph that rejects a Sheva
+        * This is called "Compensatory Lengthening", and is quite common with these gutturals.  (see note below)
 * Becomes הֶ (no Daghesh Forte and a Seghol instead of a Patach):
     * Before accented or unaccented חָ, or unaccented הָ or עָ
 
 Once again, the goal is not to memorize the alternate forms as much as recognize that they exist.  ּ הַ is the one you need to memorize.
+
+::: {.infobox}
+COMPENSATORY LENGTHENING
+
+* In Compensatory Lengthening, a short vowel _lengthens_ to become a long vowel to _compensate_ for the loss of a Dagesh Forte (or sometimes a vowel) in the following consonant
+    * Patach will lengthen to Qamets
+    * Hireq will lengthen to Tsere
+    * Qibbuts will lengthen to Holem
+* Compensatory Lengthening can occur in ANY letter that precedes a Daghesh Forte-rejecting Guttural or Resh...but it does not _always_ occur
+* Compensatory Lengthening can also occur in a Quiescent Aleph that rejects a Sheva.
+* When SQiN eM LeVY consonants reject the Daghesh, there is NEVER compensatory lengthening.
+* Sometimes there is no change to the preceding vowel - this is called "virtual doubling" as discussed above.
+::: 
 
 ## Hebrew Indefiniteness {#indefiniteness}
 

@@ -108,7 +108,8 @@ knitr::include_graphics("images/09.ps_plrl_tbl.png")
 
 Look at the chart below with the two types side-by-side.
 
-> Type 2 **always** begins with vowel + yod, but **not** hiriq + yod
+> Type 2 **always** contains vowel + yod, but **not** hiriq + yod  
+Type 1 **never** contains yod, **unless* it's hiriq+yod
 
 This simple rule plus the tips on the previous page about patters in gender and number should make it easier to identify the pronominal suffix.
 

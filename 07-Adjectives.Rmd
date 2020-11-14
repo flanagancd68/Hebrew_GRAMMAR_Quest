@@ -82,7 +82,9 @@ Perhaps a bit more foreign (unless you were an English major) are the concepts o
 
 ## Substantival Use
 
-In the Substantival use, the adjective acts as a noun.  Perhaps the most obvious example of this from pop culture is the film, "The Good, The Bad, and The Ugly."  The three words, "good", "bad" and "ugly" are adjectives being used as nouns.  In a sense the noun is implied.  It could be the "good ones" or the "bad man".
+In the Substantival use, the adjective acts as a noun. We could say the "Substantiv Substitutes" for a noun. 
+
+Perhaps an obvious example of this from pop culture is the film, "The Good, The Bad, and The Ugly."  The three words, "good", "bad" and "ugly" are adjectives being used as nouns.  In a sense the noun is implied.  It could be the "good ones" or the "bad man".
 
 The Substantival use in Hebrew is relatively easy to identify.  You will see an adjective but there will be no related noun that matches in gender and number.
 
@@ -132,11 +134,11 @@ Here is a decision tree:
 
 ## The Mappiq 
 
-The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in a Hei, and only when the Hei is at the end of a word.
+The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in a word-final Hei (a Hei that is the final letter of a word).
 
 It is virtually impossible to confuse a Daghesh and a Mappiq because ה can never take a Daghesh.
 
-A ה at the end of a word is always a vowel, except when it has a mappiq (הּ).
+A word-final ה is always a vowel unless it has a mappiq (הּ).
 
 The mappiq is a sign that the breathy sound of the consonantal hei should be accentuated slightly.
 

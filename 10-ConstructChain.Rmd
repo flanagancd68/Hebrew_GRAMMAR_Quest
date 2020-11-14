@@ -42,7 +42,7 @@ Lesson prayer
     </audio>
 </figure>
 
----
+*****
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced it rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
@@ -65,11 +65,13 @@ Before continuing, can you describe the following concepts?
 
 You might remember Izzy referencing the construct state in _Hebrew Quest_.  A construct chain consists of at least two nouns linked together.  The very last noun is said to be in the "absolute state".  All words before the absolute noun are said to be in "construct state."
 
-If we had a phrase like "the servant of the son of the king," "king" is the absolute noun, with "servant" and "son" in construct.  The entire phrase would be called a "construct chain."
+If we had a phrase like "the servant of the son of the king," "king" is the absolute noun, with "servant" and "son" in construct.  The entire phrase would be called a "construct chain."  
+
+The point of the chain is to tell us something about the **first* _noun_ in the chain.  In the example above, we learn a little more about the servant.  This is an important point as it might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case.  We are describing the servant, not the King.  BUT, if there were a substantival adjective as the first word, e.g. "wise of heart", the chain is describing "heart" not "wise".  So a chain describes the first NOUN in the chain, not necessarily the first word in the chain.
 
 In English we would add the word "of" after each word in the construct state.  Similarly we could say "the King's son's servant" or "the servant of the King's son."
 
-Just like we may add 's, Hebrew has different spelling for nouns in construct.  The absolute noun is the "normal" spelling and meaning.
+Just like we may add `'s`, Hebrew has different spelling for nouns in construct.  The absolute noun is the "normal" spelling and meaning.
 
 ## What makes a construct chain
 
@@ -103,7 +105,7 @@ A construct chain is either entirely definite, or entirely indefinite and it is 
 * בֵּנ הַמֶּלֶךְ = the son of the king
 * בֶּן מֶלֶךְ = a son of a king
 
-> A construct chain cannot mix definite an indefinite.
+> A construct chain cannot mix definite and indefinite.
 
 You will never see "a son of the king" or "the son of a king" in a construct chain.  It's only one or the other.
 
@@ -138,6 +140,7 @@ knitr::include_graphics("images/10_construct_endings.png")
 ```
 Other nouns may not change endings but will exhibit a loss of long vowels as discussed in the previous section.
 
+Note that Tsere+Yod is diagnostic of Plural and Dual forms.
 
 
 ## Construct Chain Summary

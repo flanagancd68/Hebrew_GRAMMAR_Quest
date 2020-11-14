@@ -9,17 +9,16 @@
 
 <br>
 
-```{r, out.width = "500pt", fig.align='center'}
+```{r, out.width = "300pt", fig.align='center'}
 
 knitr::include_graphics("images/alephbet_multi.png")
 ``` 
 
 This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson we will meet the Hebrew Aleph-Bet.  The letters are like a family, and with any family there can be interesting dynamics (including not always playing nice with each other!).  The bulk of the lesson will take a look at some of those dynamics.
 
----
 
-::: {.infobox}
-**Seven Practical Points for Lesson 1**
+::: {.infobox-points .map}
+**Lesson Itinerary**
 
 1. Meet the Hebrew Aleph-Bet
 1. Understand that Hebrew is written and read from RIGHT to LEFT
@@ -31,9 +30,28 @@ This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~160
 
 :::
 
+*****
+
+::: {.infobox-stop .stop}
+
+**Equipment Check**
+
+If you are eager to jump right in with Lesson 1, we understand totally.  We are also excited for you to start!
+
+"Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing<small>^[<small>See discussion on ["The Fog"](#the-fog) in the appendix</small>]</small>
+
+
+Before continuing, make sure of the following:
+
+*  You read the [Introduction](#hgq_and_hq)
+*  You understand what will [a typical lesson](#typical-lesson) will include
+*  You followed the steps on our [Quick Start Instructions](#get_started), are ready go to with `Anki` and have your `Course Checklist` to track your progress
+ 
+:::
+
 ## First Thought {- #lesson-prayer-1}
 
-As you undertake this new study, pray for this Grammar adventure to be fruitful.  May God use you as an instrument to advance His Kingdom.
+As you undertake this study, pray for this Grammar adventure to be fruitful.  May God use your growing knowledge of Hebrew as an instrument to advance His Kingdom.
 
 > (Deuteronomy 32:3 NASB) For I proclaim the name of Adonai  
 > שֵׁם יְהוָה אֶקְרָא
@@ -50,32 +68,13 @@ As you undertake this new study, pray for this Grammar adventure to be fruitful.
 
 *****
 
-```{r, out.width = "600pt", fig.align='center', fig.cap="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
 ``` 
 
 <small>Note: acoustic tests have been performed at this location that have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment (and Yeshua didn't have to deal with road noise!).  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
 
-## `Equipment Check` {- #equipment-check-1}
-
-```{r, out.width = "300pt", fig.align='center'}
-
-knitr::include_graphics("images/stopil.png")
-```
-
-
-If you are eager to jump right in with Lesson 1, we understand totally.  We are also excited for you to start!
-
-`Equipment Check` is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing<small>^[<small>See discussion on ["The Fog"](#the-fog) in the appendix</small>]</small>
-
-
-Before continuing, make sure of the following:
-
-*  You read the [Introduction](#hgq_and_hq)
-*  You understand what will [a typical lesson](#typical-lesson) will include
-*  You followed the steps on our [Quick Start Instructions](#get_started), are ready go to with `Anki` and have your `Course Checklist` to track your progress
- 
 
 ## The Hebrew Aleph-Bet {#consonants}
 
@@ -171,7 +170,7 @@ knitr::include_graphics("images/gutturals.gif")
 
 ## Look out for look-alike Letters {#look-alike-letters}
 
-```{r, out.width = "800pt", fig.align='center'}
+```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/lookalikes.png")
 ```
 
@@ -180,7 +179,7 @@ include_graphics("images/lookalikes.png")
     * Also, in Hebrew Quest, when Izzy reviewed the Aleph-Bet in lessons 2-11, he talked about each letter’s "twin" and how to spot the difference 
     * We encourage you to revisit those [letter lessons](https://holylanguage.com/letters.html). 
 
-```{r, out.width = "700pt", fig.align='center'}
+```{r, out.width = "400pt", fig.align='center'}
 include_graphics("images/01.izzy_aleph.jpg")
 ```
 
