@@ -3,6 +3,7 @@
 # Hebrew Nouns {.Nouns}
 
 
+
 > In order to comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.
 
 
@@ -109,13 +110,13 @@ Some students fall into a habit of thinking every word-final ה is feminine.  Re
 For regular nouns, simply remove the singular ending if there is one, and add the plural ending.
 
 * Plural endings:
-    * MP: ים ִ e.g.  סוּסִים 
-        * דָּבָר becomes דְּבָרִים
-        * עָנָן becomes עֲנָנִים (clouds)
-        * כּוֹכָב becomes כּוֹכָבִים
+    * MP: ים ִ e.g. <font size="5"> **סוּסִים** </font>
+        * דָּבָר becomes **דְּבָרִים**
+        * עָנָן becomes **עֲנָנִים** (clouds)
+        * כּוֹכָב becomes **כּוֹכָבִים**
 
-    * FP: וֹת e.g. מְלָכוֹת (queens)
-        * תּוֹרָה becomes תּוֹרוֹת 
+    * FP: וֹת e.g. **מְלָכוֹת** (queens)
+        * תּוֹרָה becomes **תּוֹרוֹת** 
 
 Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. As we saw in Lesson 3.2, דְּבָרִים changes from דָבָר because an open propretonic syllable prefers a reduced vowel. 
 

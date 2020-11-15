@@ -560,6 +560,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
             <section class="normal" id="section-">
 <div id="hebrew-nouns" class="section level1 Nouns" number="4">
 <h1><span class="header-section-number">Lesson 4</span> Hebrew Nouns</h1>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="hebrew-nouns.html#cb2-1"></a>colorize &lt;-<span class="st"> </span><span class="cf">function</span>(x, color) {</span>
+<span id="cb2-2"><a href="hebrew-nouns.html#cb2-2"></a>  <span class="cf">if</span> (knitr<span class="op">::</span><span class="kw">is_latex_output</span>()) {</span>
+<span id="cb2-3"><a href="hebrew-nouns.html#cb2-3"></a>    <span class="kw">sprintf</span>(<span class="st">&quot;</span><span class="ch">\\</span><span class="st">textcolor{%s}{%s}&quot;</span>, color, x)</span>
+<span id="cb2-4"><a href="hebrew-nouns.html#cb2-4"></a>  } <span class="cf">else</span> <span class="cf">if</span> (knitr<span class="op">::</span><span class="kw">is_html_output</span>()) {</span>
+<span id="cb2-5"><a href="hebrew-nouns.html#cb2-5"></a>    <span class="kw">sprintf</span>(<span class="st">&quot;&lt;span style=&#39;color: %s;&#39;&gt;%s&lt;/span&gt;&quot;</span>, color, </span>
+<span id="cb2-6"><a href="hebrew-nouns.html#cb2-6"></a>      x)</span>
+<span id="cb2-7"><a href="hebrew-nouns.html#cb2-7"></a>  } <span class="cf">else</span> x</span>
+<span id="cb2-8"><a href="hebrew-nouns.html#cb2-8"></a>}</span></code></pre></div>
 <blockquote>
 <p>In order to comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.</p>
 </blockquote>

@@ -229,6 +229,18 @@ Placeholder
 # Hebrew Nouns {.Nouns}
 
 
+```r
+colorize <- function(x, color) {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{%s}{%s}", color, x)
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: %s;'>%s</span>", color, 
+      x)
+  } else x
+}
+```
+
+
 > In order to comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.
 
 
@@ -293,7 +305,7 @@ knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-2)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-3)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -324,7 +336,7 @@ Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, th
 * Singular
     * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) ה ֶ֫
     * The following words are examples of FS endings:
-        * תּוֹרָה (Most common)
+        * <span style='color: red;'><U+05EA><U+05BC><U+05D5><U+05B9><U+05E8><U+05B8><U+05D4></span>(Most common)
         * בַּת 
         * תִּפְאֶ֫רֶת  (glory)
         * בְּרִית (covenant)
@@ -340,13 +352,13 @@ Some students fall into a habit of thinking every word-final ה is feminine.  Re
 For regular nouns, simply remove the singular ending if there is one, and add the plural ending.
 
 * Plural endings:
-    * MP: ים ִ e.g.  סוּסִים 
-        * דָּבָר becomes דְּבָרִים
-        * עָנָן becomes עֲנָנִים (clouds)
-        * כּוֹכָב becomes כּוֹכָבִים
+    * MP: ים ִ e.g. <font size="5"> **סוּסִים** </font>
+        * דָּבָר becomes **דְּבָרִים**
+        * עָנָן becomes **עֲנָנִים** (clouds)
+        * כּוֹכָב becomes **כּוֹכָבִים**
 
-    * FP: וֹת e.g. מְלָכוֹת (queens)
-        * תּוֹרָה becomes תּוֹרוֹת 
+    * FP: וֹת e.g. **מְלָכוֹת** (queens)
+        * תּוֹרָה becomes **תּוֹרוֹת** 
 
 Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. As we saw in Lesson 3.2, דְּבָרִים changes from דָבָר because an open propretonic syllable prefers a reduced vowel. 
 
@@ -491,8 +503,9 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/n9HYIqqvA0I){target="_blank"}
 
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## `Verses Warm-up` {-}
 
@@ -990,7 +1003,7 @@ knitr::include_graphics("images/cf.jpg")
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-7)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-8)Chris Flanagan</p>
 </div>
 
 
