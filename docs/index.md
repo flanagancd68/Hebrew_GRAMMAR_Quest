@@ -2080,7 +2080,6 @@ As such, this is an important topic that will take two lessons (8 and 9).  If yo
 ::: {.infobox .map}
 **LESSON ITINERARY**
 
-
 1. Define the phrase "independent personal pronoun"
 2. Identify and define Hebrew's relative pronoun
 3. Identify Hebrew's interrogative pronouns
@@ -2090,7 +2089,7 @@ As such, this is an important topic that will take two lessons (8 and 9).  If yo
 7. Detect demonstrative pronoun use
 :::
 
-:::
+::: {.box .stop}
 EQUIPMENT CHECK
 
 Before continuing, can you describe the following concepts?
@@ -2099,7 +2098,7 @@ Before continuing, can you describe the following concepts?
 * How Hebrew inflects adjectives, so we can identify Gender and Number
 * The directional ending as compared with the FS ending
 
-::: {.box .stop}
+::: 
 
 ## First Thought {-}
 
@@ -2329,8 +2328,6 @@ Before continuing, can you describe the following concepts?
 :::
 
 ## First Thought {-}
-
-
 
 ### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ </span> {-}
 
