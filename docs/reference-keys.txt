@@ -96,7 +96,7 @@ meaning
 type-1-vs-type-2-suffixes
 singular-suffixes
 plural-suffixes
-tell-type-1-apart-from-type-2
+distinguish-type-1-from-type-2
 lexical-form-with-type-1
 lexical-form-with-type-2
 unexpected-changes
