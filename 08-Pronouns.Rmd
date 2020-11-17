@@ -6,25 +6,38 @@ Pronouns are essentially a language's shorthand so we don't have to keep repeati
 
 As such, this is an important topic that will take two lessons (8 and 9).  If you want to understand what you're reading, you will need a firm grasp of pronouns to help decipher what is happening in the narrative.
 
-::: {.infobox}
+::: {.infobox .map}
 **LESSON ITINERARY**
 
 
-1. Independent Personal Pronoun
-2. Relative Pronoun
-3. Interrogative Pronoun
-4. Interrogative Particle
-5. Near and Far Demonstratives
-6. Demonstrative Adjective
-7. Demonstrative Pronoun
+1. Define the phrase "independent personal pronoun"
+2. Identify and define Hebrew's relative pronoun
+3. Identify Hebrew's interrogative pronouns
+4. Distinguish the interrogative particle from the definite article
+5. Identify and translate the near and far demonstratives
+6. Detect demonstrative adjective use
+7. Detect demonstrative pronoun use
 :::
 
-## First Thoughts {-}
+:::
+EQUIPMENT CHECK
+
+Before continuing, can you describe the following concepts?
+
+* Define and translate substantival, attributive, and predicate adjectives (at a summary level)
+* How Hebrew inflects adjectives, so we can identify Gender and Number
+* The directional ending as compared with the FS ending
+
+::: {.box .stop}
+
+## First Thought {-}
+
+### <span class="he">זֶה הַדֶּרֶךְ לְכוּ בוֹ</span> {-}
+
+_This is the way, walk in it  (Isaiah 30:21)_
 
 Pray that you continually walk in His way, not your own way
 
-> (Isaiah 30:21 NASB) This is the way, walk in it  
-זֶה הַדֶּרֶךְ לְכוּ בוֹ
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -36,23 +49,14 @@ Pray that you continually walk in His way, not your own way
     </audio>
 </figure>
 
+The first word in above passage is an example of a "demonstrative pronoun". The first two words are translated, "this is the way".  Contrast "this is the way" with the phrase "this way."  "This way" would be written <span class="he">הַדֶּרֶךְ הַזֶּה</span>.  "This way" is an example of a "demonstrative adjective."  We'll learn about demonstratives in this lesson.
+
 *****
 
-```{r, out.width = "600pt", fig.align='center', fig.cap="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked through the valley below on His way from Nazareth to Capernaum. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg")
 ``` 
-
-## Equipment Check {-}
-
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/stopil.png")
-```
-
-Before continuing, can you describe the following concepts?
-
-*
 
 ## Independent Personal Pronoun
 
