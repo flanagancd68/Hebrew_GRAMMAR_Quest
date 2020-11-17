@@ -7,7 +7,6 @@
 Even though our goal may not necessarily be to converse in Biblical Hebrew, hearing the sound of the language aides our learning.  Vowels are what give a language its distinctive sound.  In Hebrew, the same three consonants can change meaning depending on the vowel combination.
 
 
-<br>
 
 ```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
@@ -154,7 +153,7 @@ knitr::include_graphics("images/defective.gif")
     * Hireq-Yod can drop the Yod and contract to Hireq
     * Shuruq can drop the Vav and it's associated nikkud and contract to Qibbuts
     
-The qamets-hei ה ָ  sometimes drops the final ה, leaving just the qamets under the now-final letter.
+The qamets-hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the qamets under the now-final letter.
 
 ::: {.infobox .info}    
 As you progress, you’ll start to develop a mental checklist when you encounter something that does not seem to follow the normal/regular rules. Asking yourself “Could this be a defective spelling?” will be one of those checklist items.
@@ -162,7 +161,7 @@ As you progress, you’ll start to develop a mental checklist when you encounter
 
 ## The Daghesh Forte Doubles the Consonant {#daghesh_forte}
 
-Notice the שּׁ in הַשָּׁמַיִם:
+Notice the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
 
 ```{r, out.width = "500pt", fig.align='center'}
 
@@ -171,7 +170,7 @@ knitr::include_graphics("images/02.daghesh_forte.gif")
  
 * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Daghesh Lene, but it is a Daghesh **Forte**
 * The letter with the Daghesh Forte both ends one syllable and begins the next syllable
-    * If we were to syllabify הַשָּׁמַיִם, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  הַשָּׁמַיִם means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
+* If we were to syllabify <span class="he"> הַשָּׁמַיִם</span>, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
 * A similar word in English might be better = bet | ter
     * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*<small>^[<small>The * means this is not a real Hebrew word, but we show it in this form for illustration.</small>]</small>
 * Notice the syllable breaks in these words that have a Daghesh Forte:
@@ -204,11 +203,11 @@ That's it.  That's the rule<small>^[<small>Strictly speaking, there are exceptio
 
 Quiz yourself with these examples (answers below):
 
-* אַתָּה = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a patach. Daghesh Forte</small>]</small>
-* בְּרֵאשִׁית = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene</small>]</small>
-* עַל־פְּנֵי = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the same function as the Hyphen does in English.</small>]</small>
-* מַבְדִּיל = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No, it is preceded by a Sheva. Daghesh Lene.</small>]</small>
-* מִתַּחַת  = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a Hiriq. Daghesh Forte</small>]</small>
+* <span class="he">אַתָּה</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a patach. Daghesh Forte</small>]</small>
+* <span class="he">בְּרֵאשִׁית</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene</small>]</small>
+* <span class="he">עַל־פְּנֵי</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the same function as the Hyphen does in English.</small>]</small>
+* <span class="he">מַבְדִּיל</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No, it is preceded by a Sheva. Daghesh Lene.</small>]</small>
+* <span class="he">מִתַּחַת</span>  = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a Hiriq. Daghesh Forte</small>]</small>
 
 
 ## Gutturals and Resh reject Daghesh Forte {#gutturals_reject_daghesh_forte}
@@ -229,16 +228,16 @@ knitr::include_graphics("images/02.reject.gif")
 
 Congratulations on completing the vowels lesson.  Make sure you know that Daghesh Forte rule and the guttural behavior  The Daghesh Forte is our Hebrew friend who can tell us a great deal about what is happening grammatically with a word.  
 
-We're about halfway through the first stage of the course on Hebrew Grammar Foundations.  Keep going! You're doing great!  After you finish all of the activities for this lesson, you can claim the first of our `Twelve Tribes Badges`.
+We're about halfway through the first stage of the course on Hebrew Grammar Foundations.  Keep going! You're doing great!  After you finish all of the activities for this lesson, you can claim the first of our `Twelve Tribes Badges`. 
 
 Take a second to review the section headings 2.1 - 2.7 on the left side of the screen before heading on to tackle the activities.
 
 
 ### `Anki` {-}
 
-* `Lesson 02 A.Vocab`
-* `Lesson 02 B.Grammar`
-* `Lesson 02 C.Verses`
+* `Lesson 02 A. Vocab`
+* `Lesson 02 B. Grammar` 
+* `Lesson 02 D. Study Verses`
   * Bible verses will arrive next Lesson
   * In this module, we will be learning common Hebrew names.
   * Sound out the words using your knowledge of Hebrew consonants and vowels.

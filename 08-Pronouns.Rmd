@@ -1,13 +1,13 @@
 # Hebrew Pronouns
 
-> In order to comprehend Biblical Hebrew, we must be able to know pronouns with gender, number and person 
+> To comprehend Biblical Hebrew, we must be able to identify pronouns with gender, number and person 
 
 Pronouns are essentially a language's shorthand so we don't have to keep repeating nouns (because saying all of those nouns over and over can really wear you down).
 
-As such, this is an important chapter.  If you want to understand what you're reading, you will need a firm grasp of pronouns to help decipher what is happening in the narrative.
+As such, this is an important topic that will take two lessons (8 and 9).  If you want to understand what you're reading, you will need a firm grasp of pronouns to help decipher what is happening in the narrative.
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 8**
+**LESSON ITINERARY**
 
 
 1. Independent Personal Pronoun
@@ -188,7 +188,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 ## `Anki` {-}
 
 * `Lesson 08 A. Vocab`
-* `Lesson 08 B. Grammar` 
+* `Lesson 08 B. Grammar` * `Lesson xx C. Workbook` 
 * `Lesson 08 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate pronouns
 * `Lesson 08 D. Verses`

@@ -4,13 +4,18 @@ p.caption {
 }
 p code {
   white-space: inherit;
+
 }
 pre {
   word-break: normal;
   word-wrap: normal;
+
+
 }
 pre code {
   white-space: inherit;
+
+
 }
 p.flushright {
   text-align: right;
@@ -34,9 +39,15 @@ blockquote > p:first-child {
 .level1 h1 {
   border-bottom: 1px solid;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
   font-weight: normal;
     margin-top: 6px;
+
+}
+
+h6 {
+  font-weight: 999;
+  font-family: Times, serif;
 
 }
 h1.title {
@@ -163,7 +174,19 @@ Added 11/12/2020
   height: 100%;
 }
 
-.hebr	{
+.he	{
     font-family: Times, serif;
-    font-size: 150%;
+    font-size: 175%;
     }
+    
+@font-face {
+	font-family: Times; 
+  font-size: 175%;
+	unicode-range: U+0590-05FF;
+}
+@font-face {
+	font-family: GentiumPlusW;
+	font-style: italic;
+	src: url(GentiumPlus-I.woff);
+	unicode-range: U+0370-03FF, U+1F00-1FFF;
+}

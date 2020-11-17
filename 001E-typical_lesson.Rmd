@@ -10,11 +10,11 @@ In this course, you won't just read; you will DO!  This course is going to be ja
 **Title**|**Description**
 :-----|:-----
   READING|
-  Lesson Itinerary | The lesson's key learning objectives.
- Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey.
- Lesson Itinerary |The lesson's key learning objectives.
- First Thought |A Bible verse from the lesson.
- Lesson Points | A brief discussion of the items on the Lesson Itinerary. The goal is to give you just enough information to get started in `Anki`
+The "Why" | A statement that links the lesson's content back to the overarching goal of reading and understanding Biblical Hebrew.  The Why will help to keep us motivated as we deal with the intricacies of each lesson
+Lesson Itinerary | The lesson's key learning objectives.
+Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey.
+First Thought |A Bible verse from the lesson.
+Lesson Points | A brief discussion of the items on the Lesson Itinerary. The goal is to give you just enough information to get started in `Anki`  The Lesson Points will be the numbered sections in each lesson. 1.1, 1.2, etc.
  ACTIVITIES|
  `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy!
  `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be three stages to each Lesson.
@@ -53,11 +53,11 @@ Minor or parenthetical points will be included as footnotes throughout each less
 
 Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/
-Ex9mBMAqWhI?start=2823
-&rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
+</div>
+
+
 
 
 

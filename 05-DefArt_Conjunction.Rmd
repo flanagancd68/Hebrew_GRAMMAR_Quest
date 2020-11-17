@@ -8,7 +8,7 @@ It is unlikely you will ever need to write the article or the conjunction with t
 
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 5**
+**LESSON ITINERARY**
 
 
 1. Translate the Vav conjunction
@@ -221,7 +221,7 @@ Keep with it; you're doing great!
 ## `Anki` {-}
 
 * `Lesson 05 A. Vocab`
-* `Lesson 05 B. Grammar` 
+* `Lesson 05 B. Grammar` * `Lesson xx C. Workbook` 
 * `Lesson 05 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate the definite article and the Vav conjunction.
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.

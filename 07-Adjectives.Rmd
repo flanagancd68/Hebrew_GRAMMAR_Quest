@@ -4,7 +4,7 @@
 
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 7**
+**LESSON ITINERARY**
 
 
 1. Understand how an adjective relates to the noun it is modifying
@@ -174,7 +174,7 @@ Note that אֶל־הָאָ֫רֶץ and אַ֫רְצָה are essentially synonymo
 ## `Anki` {-}
 
 * `Lesson 07 A. Vocab`
-* `Lesson 07 B. Grammar` 
+* `Lesson 07 B. Grammar` * `Lesson xx C. Workbook` 
 * `Lesson 07 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate adjectives, including examples of attributive and predicate use
     * Be sure to look up any words you do not know.  

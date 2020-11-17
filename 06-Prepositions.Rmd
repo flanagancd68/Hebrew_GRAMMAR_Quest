@@ -5,7 +5,7 @@
 Prepositions give us space and context.  Given that much of the Tanach is narrative, prepositions are on almost every page that we read as the authors describe the events to us.  There is one Hebrew word, מִן, that is classified as a preposition but depending on the context can convey a wide array of meanings. 
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 6**
+**LESSON ITINERARY**
 
 1. Recognize that a Nun with Silent Sheva becomes a Daghesh Forte
 2. Describe Independent and Maqqef prepositions
@@ -189,7 +189,7 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 ### `Anki` {-}
 
 * `Lesson 06 A. Vocab`
-* `Lesson 06 B. Grammar` 
+* `Lesson 06 B. Grammar` * `Lesson xx C. Workbook` 
 * `Lesson 06 C. Workbook`
     *     * In this activity, we will have very short passages of scripture that illustrate prepositions.
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.

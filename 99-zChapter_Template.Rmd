@@ -1,10 +1,11 @@
 # LessonTitle {#lessontitle}
 
-> In order to comprehend Biblical Hebrew, we must be able to . . . 
+> To comprehend Biblical Hebrew, we must be able to . . . 
 
 Say something general bridging the desired outcome above with the learning objectives below
 
-<u>**Seven Practical Points for Lesson xx**</u>
+::: {.box .map}
+**LESSON ITINERARY**
 
 1. learning_objective_1
 1. learning_objective_2
@@ -13,12 +14,45 @@ Say something general bridging the desired outcome above with the learning objec
 1. learning_objective_5
 1. learning_objective_6
 1. learning_objective_7
+:::
 
-## `Lesson Prayer` {-}
+::: {.box .stop}
+**EQUIPMENT CHECK**
 
-Lesson prayer
+Before continuing, can you describe the following concepts?
 
-> scripture quotation
+* 
+*
+:::
+
+## First Thought {-}
+
+### <span class="he"> </span> {-}
+
+*verse (reference 1:1)*
+
+-brief meditation-
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+*****
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg")
+``` 
+
+
+
 
 ---
 
@@ -73,13 +107,19 @@ Before continuing, can you describe the following concepts?
 
 [Click to open `Word Warm-up` video in a new tab](){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
 
 ## `Anki` {-}
 
@@ -107,7 +147,9 @@ Before continuing, can you describe the following concepts?
 7. instruction7 (Blue)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
 
 ## `Hebrew Quest Study Passage`: Book Chapter# {-}
 
@@ -121,14 +163,17 @@ Before continuing, can you describe the following concepts?
     2. How did the Ruach HaQodesh speak to you?
 4. Check your parsing against [this key](){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
 
 ## `Quest Quiz` {-}
 
 [Open Quest Quiz #xx in a new window](){target="_blank"}
 
-<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
@@ -136,5 +181,7 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 [Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
 
-<iframe src="" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 

@@ -1,17 +1,16 @@
-# Numerals/counting
+# Hebrew Numerals
 
-> In order to comprehend Biblical Hebrew, we must be able to figure out numbers, with or without a dictionary, when we encounter them in the Bible
+> To comprehend Biblical Hebrew, we must be able to figure out numbers, with or without a dictionary, when we encounter them in the Bible
 
 
-You have worked very hard on the first 10 lessons!  Way to go!  While a discussion on numbers and counting is often interweaved in a discussion with the Aleph-Bet, the authors of <u>Basics of Biblical Hebrew</u>, wisely in our opinion, strategically placed a necessary but lighter discussion on numerals right here in Lesson 11.  We are emerging from what may be a lot of foggy concepts with all of the noun, pronoun, and adjective concepts in lessons 4-10 (particularly Lessons 8-10).  The bulk of the work in this Lesson will be in `Anki` learning numbers from _Hebrew Quest_.
+You have worked very hard on the first ten lessons!  Way to go!  While a discussion on numbers and counting is often interweaved in a discussion with the Aleph-Bet, the authors of <u>Basics of Biblical Hebrew</u>, wisely in our opinion, strategically placed a necessary but lighter discussion on numerals right here in Lesson 11.  We are emerging from what may be a lot of foggy concepts with all of the noun, pronoun, and adjective concepts in lessons 4-10 (particularly Lessons 8-10).  The bulk of the work in Lesson 11 will be in `Anki` learning numbers from _Hebrew Quest_.
 
-For the next 25 lessons we will be exclusively focused on the Hebrew verbal system and -- the entire point of this course -- reading and understanding Scripture.
+For the next 25 lessons, we will focus on the Hebrew verbal system and -- the entire point of this course -- reading and understanding Scripture.
 
 Enjoy this brief lesson on numbers!
 
-::: {.infobox}
-**Seven Practical Points for Lesson 11**
-
+::: {.infobox .map}
+**LESSON ITINERARY** 
 
 1. The Biblical text always spells out numbers
 2. Notes and footnotes use symbols for numbers
@@ -22,6 +21,13 @@ Enjoy this brief lesson on numbers!
 7. Learn the Cardinal Numbers Above 10
 :::
 
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* The difference between construct and absolute states
+:::
 
 ## First Thought {-}
 
@@ -47,120 +53,151 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 knitr::include_graphics("images/11-Tabgha from boat, tb011500051.jpg")
 ``` 
 
-## Equipment Check {-}
 
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/stopil.png")
-```
-
-Before continuing, can you describe the following concepts?
-
-*
 
 
 ## The Biblical text always spells out numbers
 
-This is point number 1.  There is not a lot of elaboration needed except to note that this is the case.  You will not see "1", "200", or "969", either in modern symbols or in Rabbinic symbols (using the Aleph-bet) in the Hebrew text.
+There is not a lot of elaboration needed except to note that this is the case.  You will not see "1", "200", or "969", either in modern symbols or in Rabbinic symbols (using the Aleph-bet) in the Hebrew text.  
+
+<span class="he">כָּל־יְמֵי מְתוּשֶׁלַח **תֵּשַׁע וְשִׁשִּׁים שָׁנָה וּתְשַׁע**</span>
+
+"all the days of Methuselah (were) **nine and sixty years (i.e 960) and nine (i.e. 969)**."
 
 ## Notes and footnotes use symbols for numbers
 
-You may come across a system of counting that uses numerical values for each of the Hebrew letters.  This is interesting and the Rabbis have a lot of fun with comparing words that have identical numerical values.
+You may come across a system of counting that uses numerical values for each of the Hebrew letters.  The term for this is "gemetria".  Gemetria is interesting and the Rabbis have a lot of fun with comparing words that have identical numerical values, but it won't be a focus of this course.
 
 * א ב ג ד ה ו ז ח ת represent 1-9
 * י כ ל מ נ ס ע פ צ represent 10-90 by tens
     * So to say 33, would be 30 and 3 = לג or often ל״ג, with the ״ indicating that this is not a real word
 * ק ר ש ת are 100, 200, 300, and 400, then we go to the sofit forms ך ם ן ף ץ for 500-900
-* In some reckonings, a series of dots or diamonds above the letters, or ’ is used for numbers above 999.  For example 1000 is ’א
+* In some reckonings, a series of dots or diamonds above the letters, or ’ is used for numbers above 999.  For example, 1000 is ’א
 
+Below is Genesis 1:1.
 
-## Be Familiar with Hebrew Ordinal Numbers - First through Tenth
+* בראשית פרק א
+means "Genesis Chapter 1"
+* Next, note the diminished א indicating "1" for the first verse
 
-Ordinal numbers denote order.  first, second, third
+```{r, out.width = "600pt", fig.align='center'}
 
-In Hebrew, these are attributive adjectives, so they follow the noun and match in gender, number and definiteness (Attributive Always After, Always Agree).
+knitr::include_graphics("images/11.gen0101.png")
+``` 
 
-* יוֹם רִאשׁוֹן or הַיּוֹם הָרִאשׁוֹן = first day or the first day
+## Hebrew Ordinal Numbers
 
-To denote the 11th position or higher, we would use cardinal numbers
-
-* בִּשְׁנַת הָאַרְבָּעִים  = in the year of the forty = in the 40th year
+* Ordinal numbers denote order.  first, second, third
+* In Hebrew, these are attributive adjectives.  As such, they follow the noun and match in gender, number and definiteness (Attributive Always After, Always Agree).
+    * <span class="he">יוֹם רִאשׁוֹן</span> or <span class="he">הַיּוֹם הָרִאשׁוֹן</span> = first day or the first day
+* Ordinal numbers end in Hireq-Yod (M) or Hireq-Yod_Tav (F)
+    *  <span class="he">שְׁלִישִׁי</span> and <span class="he">שְׁלִישִׁית</span> mean 'third'
+* To denote the 11th position or higher, we would use cardinal numbers
+    * We are dependent on the context of the passage to indicate whether the number is cardinal or ordinal
+    * <span class="he">בִּשְׁנַת הָאַרְבָּעִים</span>  = in the year of the forty = in the 40th year
 
 We encourage you to learn the "days of the week" song with Izzy in the video below.
 
-https://youtu.be/MlfwNNuWgto?t=2545
-
 ### Hebrew Quest Ordinal Numbers Video {-}
 
-[Open video in new window](https://www.youtube.com/embed/MlfwNNuWgto?t=2542){target="_blank"}
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/MlfwNNuWgto?t=2542" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Open video in new window](https://www.youtube.com/embed/MlfwNNuWgto?t=2545){target="_blank"}
 
 
-## Hebrew Cardinal Numbers
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/MlfwNNuWgto?t=2545" frameborder="0"></iframe>
+</div>
 
-* One is an attributive adjective - it follows its noun and agrees in gender, number and definiteness
+## Cardinal Numbers 1-10
+
+* The numeral one is an attributive adjective - it follows its noun and agrees in gender, number, and definiteness
     * As we mentioned previously, it is sometimes used as an indefinite article
-    * אִישׁ אֵחָד = one man = a man
+    * <span class="he">אִישׁ אֵחָד</span> = one man = a man
 * Two through Ten are nouns
     * They have both masculine and feminine forms
     * They have absolute and construct forms
 * Higher numbers are nouns with no specific gender
 
 
-## Digits 1 and 2 match the gender of the noun
+### Digits 1 and 2 match the gender of the noun {-}
 
 For example:
 
-* בֵּן אֶחָד = one son
-* בַּת אַחַת = one daughter
+* <span class="he">בֵּן אֶחָד</span> = one son
+* <span class="he">בַּת אַחַת</span> = one daughter
 
-## Digits 3-10 take the opposite gender of the noun
+### Digits 3-10 take the opposite gender of the noun {-}
 
-Additionally they are "singular" even though the noun is plural.  This makes sense when you think that the plural form of 3 is actually the word for 30 (see next section).
+Additionally, they are "singular" even though the noun is plural.  
 
 For example:
 
-* שְׁלֹשָׁה בָּנִים = three sons
-* שְׁלֹשׁ בָּנוֹת = three daughters
+* <span class="he">שְׁלֹשָׁה בָּנִים</span> = three sons
+* <span class="he">שְׁלֹשׁ בָּנוֹת</span> = three daughters
 
 The technical term for this is "chiastic concord" (you don't need to know this)
 
-## Learn the Cardinal Numbers Above 10
+## Cardinal Numbers Above 10
 
 * 11-19
     * 11-12 match gender, 13-19 swap
-        * 11 אַחַד אָשָֹר
-        * 13 שְׁלֹשָׁה אָשָֹר
-* Decades are spelled as masculine plural of the unit
-    * 3 = שָׁלֹשׁ  
-    * 30 = שְׁלֹשִׁים
-        
+        * 11 <span class="he">אַחַד אָשָֹר</span>
+        * 13 <span class="he">שְׁלֹשָׁה אָשָֹר</span>
+* Decades 30 through 90 are spelled as masculine plural of the corresponding 3-9 number
+    * 3 = <span class="he">שָׁלֹשׁ</span>  
+    * 30 = <span class="he">שְׁלֹשִׁים</span>
+* 20 is a bit unusual
+    * The word for two is <span class="he">שְׁנַיִם</span> (male) and <span class="he">שְׁתַּיִם</span> (female)
+    * Since these words already have a non-singular ending, Hebrew uses the masculine plural of ten
+    * <span class="he">עֶשֶׂר<span> is 10
+    * <span class="he">עֶשְׂרִים<span> is 20
+* 100 is <span class="he">מֵאָה</span>
+* 200 is <span class="he">מָאתַיִם</span>, the plural of 100
+* 300 is <span class="he">שְׁלֹשׁ מֵאוֹת</span> ("three one hundred" and so forth up to 1000)
+    
 ## Conclusion
 
-This chapter omits many details about numbers and counting.  Our aim was to provide an introduction so that when you encounter numbers in the Bible, you will have some basic familiarity.
+This chapter omits many details about numbers and counting.  We aimed to provide an introduction so that you will have basic familiarity when you encounter numbers in the Bible.
 
 If you are interested in going a little deeper, we encourage you to view the complete [Hebrew Quest segment on numerals](https://holylanguage.com/grammar-1.php){target="_blank"}. 
 
-For Hebrew GRAMMAR quest it is sufficient for you to learn the Ordinals (first through 10th - for 1-7 we will learn Izzy's days of the week song) and the Cardinals 1-10, then 20-100 by 10s, and 1000.
+For Hebrew GRAMMAR Quest, it is sufficient for you to learn the Ordinals 1-10, and the Cardinals 1-10, then 20-100 by 10s, and 1000.
+
+There is no quiz and no Anki Workbook for this lesson. 
+
+You are at an exciting point in the course.  Next week we get into Hebrew Verbs, where your understanding of Hebrew Scripture will start to move into high gear!
+
+
+### Anki {-}
+* `Lesson 11 A. Vocab` 
+    * The vocab work will be a little bit longer than in a usual lesson.  
+        * We will have the normal set of words from <u>Basics of Biblical Hebrew</u>
+        * We will also incorporate the numerals cards from <u>Hebrew Quest</u>
+* `Lesson 11 B. Grammar` 
+* `Lesson 11 C. Study Verses` - Note: there is no `Workbook` component to this lesson.
 
 ## `Word Warm-up` {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/3OuD2Snu-Uk){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/3OuD2Snu-Uk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/3OuD2Snu-Uk" frameborder="0"></iframe>
+</div>
+
 
 ## `Verses Warm-up` {-}
 
+### WAITING ON IZZY
+
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
 
-## `Anki` {-}
 
-* `Lesson 11 A.Vocab` 
-* `Lesson 11 B.Grammar` 
-* `Lesson 11 C.Verses` - Note: there is no `Workbook` component to this lesson.
+
+
+
 
 ## `Ruth Pursuit` {-}        
 
@@ -172,12 +209,4 @@ For Hebrew GRAMMAR quest it is sufficient for you to learn the Ordinals (first t
 
 * [Ruth Pursuit Answer Key #11](./images/11_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-
-## Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<iframe src="" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 

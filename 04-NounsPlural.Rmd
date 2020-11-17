@@ -10,7 +10,7 @@
 Nouns consist of a person, place, thing, or idea and can be singular or plural.  Hebrew also introduces the concept of "gender".  In this lesson we will review aspects of the Hebrew noun with specific attention focused on the rules of pluralization.
 
 ::: {.infobox .map}
-**Seven Practical Points for Lesson 4**
+**LESSON ITINERARY**
 
 1. Understand Noun Gender and Number
 2. Examine singular noun endings and "endingless" nouns for both Masculine and Feminine nouns
@@ -22,6 +22,8 @@ Nouns consist of a person, place, thing, or idea and can be singular or plural. 
 :::
 
 ::: {.infobox .stop}
+EQUIPMENT CHECK
+
 Before continuing, can you describe the following concepts?
 
 * Vowel and syllable preference
@@ -76,7 +78,7 @@ All Hebrew nouns have Gender and Number.
 
 * Gender
     * The "gender" sometimes does, but usually does not, have anything to do with biologic gender.  
-    * סֵ֫פֶר is masculine (M), while תּוֹרָה  is feminine (F). There is nothing inherently masculine about books nor feminine about laws or instructions
+    * <span class="he">סֵ֫פֶר</span> is masculine (M), while <span class="he">תּוֹרָה</span>  is feminine (F). There is nothing inherently masculine about books nor feminine about laws or instructions
     * The gender of a noun never changes
     
 * Number
@@ -92,17 +94,17 @@ Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, th
 ## Singular Noun Endings {#sing_noun_endings}
 
 * Singular
-    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) ה ֶ֫
+    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) <span class="he">ה ֶ֫</span>
     * The following words are examples of FS endings:
-        * תּוֹרָה (Most common)
-        * בַּת 
-        * תִּפְאֶ֫רֶת  (glory)
-        * בְּרִית (covenant)
-        * מַלְכּוּת (kingdom)
-        * אֶ֫רֶץ (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: אֶ֫רֶץ (land), עִיר (city), and אֶ֫בֶן (stone). When this occurs, most vocabulary lists will mark the word as "(F)".</small>]</small>
+        * <span class="he">תּוֹרָה</span> (Most common)
+        * <span class="he">בַּת</span> 
+        * <span class="he">תִּפְאֶ֫רֶת</span>  (glory)
+        * <span class="he">בְּרִית</span> (covenant)
+        * <span class="he">מַלְכּוּת</span> (kingdom)
+        * <span class="he">אֶ֫רֶץ</span> (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: <span class="he">אֶ֫רֶץ</span> (land), <span class="he">עִיר</span> (city), and <span class="he">אֶ֫בֶן</span> (stone). When this occurs, most vocabulary lists will mark the word as "(F)".</small>]</small>
         
 ::: {.box .info}
-Some students fall into a habit of thinking every word-final ה is feminine.  Remember ה ֶ֫  is masculine
+Some students fall into a habit of thinking every word-final ה is feminine.  Remember <span class="he">ה ֶ֫</span>  is masculine
 :::
 
 ## Plural and Dual Noun Endings {#noun_pluralization}
@@ -110,80 +112,86 @@ Some students fall into a habit of thinking every word-final ה is feminine.  Re
 For regular nouns, simply remove the singular ending if there is one, and add the plural ending.
 
 * Plural endings:
-    * MP: ים ִ e.g. <font size="5"> **סוּסִים** </font>
-        * דָּבָר becomes **דְּבָרִים**
-        * עָנָן becomes **עֲנָנִים** (clouds)
-        * כּוֹכָב becomes **כּוֹכָבִים**
+    * MP: <span class="he">ים ִ</span> e.g. **<span class="he">סוּסִים</span>** 
+        * <span class="he">דָּבָר</span> becomes **<span class="he">דְּבָרִים</span>**
+        * <span class="he">עָנָן</span> becomes **<span class="he">עֲנָנִים</span>** (clouds)
+        * <span class="he">כּוֹכָב</span> becomes **<span class="he">כּוֹכָבִים</span>**
 
-    * FP: וֹת e.g. **מְלָכוֹת** (queens)
-        * תּוֹרָה becomes **תּוֹרוֹת** 
+    * FP: <span class="he">וֹת</span> e.g. **<span class="he">מְלָכוֹת</span>** (queens)
+        * <span class="he">תּוֹרָה</span> becomes **<span class="he">תּוֹרוֹת</span>** 
 
-Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. As we saw in Lesson 3.2, דְּבָרִים changes from דָבָר because an open propretonic syllable prefers a reduced vowel. 
+Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
 
-*   A vowel under a non-Guttural will reduce to Vocal Shewa - דְּבָרִים
-*   A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - עֲנָנִים
-*   An irreducible long vowel will not reduce - כּוֹכָבִים 
+*   A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
+*   A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
+*   An irreducible long vowel will not reduce - <span class="he">כּוֹכָבִים</span> 
 
 * Dual endings:
-    * MD: יִם ַ e.g. סוּסַ֫יִם (two horses)
-    * FD: יִם ַ  e.g., יָדַ֫יִם (two hands) or תַ֫יִם ָ as in תּוֹרָתַ֫יִם (two laws).
+    * MD: <span class="he">יִם ַ</span> e.g. <span class="he">סוּסַ֫יִם</span> (two horses)
+    * FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws).
 
-Occasionally, we will see defective spelling of the plural and dual endings: סוּסִם תּוֹרֹת
+Occasionally, we will see defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>
 
 
 ## Special dual forms {#dual_forms}
 
 Hebrew has three common words that have the dual ending but are usually translated as singular.
 
-* שַׁמַ֫יִם heaven, sky (sometimes "heavens")
-* מִצְרַ֫יִם Egypt
-* מַ֫יִם water (sometimes "waters")
-* פָּנִים face
+* <span class="he">שַׁמַ֫יִם</span> heaven, sky (sometimes "heavens")
+* <span class="he">מִצְרַ֫יִם</span> Egypt
+* <span class="he">מַ֫יִם</span> water (sometimes "waters")
+* <span class="he">פָּנִים</span> face
 
 
 ## Irregular Pluralization  {#irregular_pluralization}
 
-* Hebrew does have a handful of irregular nouns.  For example you won't find נִשִׁים in a dictionary.  So if you need to know the singular form, אִשָּׁה
-* Rather than a detailed discussion on what is going on with the plural forms (and honestly, scholars don't really know why a word like אָבוֹת looks like a feminine word), it's easier to memorize these eight most common pairs:
+* Hebrew does have a handful of irregular nouns.  
+* For example you won't find <span class="he">נִשִׁים</span> in a dictionary. 
+* You need to know the singular form, <span class="he">אִשָּׁה</span>
+* Rather than a detailed discussion on what is going on with the plural forms (and honestly, scholars don't really know why a word like <span class="he">אָבוֹת</span> looks like a feminine word), it's easier to memorize these eight most common pairs:
 
 | S   | Def      | P     | Def.      |
-|-----|----------|-------|-----------|
-| אִישׁ | man      | אֲנָשִׁים | men       |
-| אִשָּׁה | woman    | נָשִׁים  | women     |
-| עִיר | city     | עָרִים  | cities    |
-| אָב  | father   | אָבוֹת  | fathers   |
-| בַּ֫יִת | house    | בָּתִּים  | houses    |
-| בַּת  | daughter | בָּנוֹת  | daughters |
-| בֵּן  | son      | בָּנִים  | sons      |
-| יוֹם | day      | יָמִים  | day       |
+|:-----|:----------|:-------|:-----------|
+|<span class="he"> אִישׁ </span>| man      | <span class="he">אֲנָשִׁים</span> | men       |
+|<span class="he"> אִשָּׁה </span>| woman    | <span class="he">נָשִׁים</span>  | women     |
+|<span class="he"> עִיר </span>| city     | <span class="he">עָרִים </span> | cities    |
+|<span class="he"> אָב </span> | father   | <span class="he">אָבוֹת </span> | fathers   |
+|<span class="he"> בַּ֫יִת</span> | house    | <span class="he">בָּתִּים </span> | houses    |
+|<span class="he"> בַּת</span>  | daughter | <span class="he">בָּנוֹת </span> | daughters |
+|<span class="he"> בֵּן</span>  | son      | <span class="he">בָּנִים </span> | sons      |
+|<span class="he"> יוֹם</span> | day      | <span class="he">יָמִים </span> | day       |
 
-An important note is that the plural forms still retain the gender of their singular noun.  אָבוֹת is still masculine,  and נָשִׁים is still feminine, despite the plural endings.
+* The plural forms retain the gender of their singular noun
+* <span class="he">אָבוֹת</span> is still masculine,  and <span class="he">נָשִׁים</span> is still feminine, despite the plural endings.
 
 ::: {.box .info}
-When you see an _internal_ (not word-final) tsere+yod, as in בָּתִּים, the vowel pattern in the 'original' word was likely the accented-patach-yod-hiriq diphthong, as in בַּ֫יִת.
+
+When you see an _internal_ (not word-final) tsere+yod, as in<span class="he"> בָּתִּים</span>, the vowel pattern in the 'original' word was likely the accented-patach-yod-hiriq diphthong, as in <span class="he">בַּ֫יִת</span>.
 :::
 
 The next two categories of irregular words are more straightforward:
 
 ### Segholate Nouns follow a standard vowel pattern when pluralizing {-}
 
-You may have noticed something interesting about the words, דֶּ֫רֶךְ  and סֵ֫פֶר . The Two syllable nouns where the accent is on the first syllable are classified as _Segholate_ nouns.  They get this name because frequently, though not always, there are two Seghol vowels. נַ֫עַר  (boy, youth) is a segholate noun even though it doesn't have any Seghol vowels.
+* Did you notice that the words, <span class="he">דֶּ֫רֶךְ</span>  and <span class="he">סֵ֫פֶר</span> have the accent is on the first syllable?
+* Many two syllable words accented on the penult are classified as _Segholate_ nouns.  
+* They get this name because frequently, though not always, there are two Seghol vowels. <span class="he">נַ֫עַר</span>  (boy, youth) is a segholate noun even though it doesn't have any Seghol vowels.
 
 ::: {.box .info}
 If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending, the word is likely a Segholate noun.
 :::
 
-* מֶ֫לֶךְ to מְלָכִים
-* סֵ֫פֶר to סְפָרִים
-* נַ֫עַר to נְעָרִים
+* <span class="he">מֶ֫לֶךְ</span> to <span class="he">מְלָכִים</span>
+* <span class="he">סֵ֫פֶר</span> to <span class="he">סְפָרִים</span>
+* <span class="he">נַ֫עַר</span> to <span class="he">נְעָרִים</span>
 
 ### Geminate words take a Daghesh Forte {-}
 
-_Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal"), but at one point the second consonant appeared twice.  Example עַם (people) was once *עמם.
+_Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal"), but at one point the second consonant appeared twice.  Example <span class="he">עַם</span> (people) was once *<span class="he">עמם</span>.
 The lexical form drops the extra consonant.
 
 ::: {.box .info}
-When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example, עַם becomes עַמִּים (peoples).
+When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example,<span class="he"> עַם</span> becomes <span class="he">עַמִּים</span> (peoples).
 :::
 
 The reason we don't have a Daghesh Forte in עַם is that **the last consonant of a word rejects the Daghesh Forte when it has no vowel.**
@@ -198,6 +206,7 @@ The first of two contiguous Vocal Sheva will usually change to a Hireq.
 :::
 
 * Note the unique situation when the second consonant is a Yod:
+
 ```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
 include_graphics("images/04.vocal_vocal_hireq.png")
@@ -215,12 +224,12 @@ include_graphics("images/04.hateph_vocal_shift.png")
 library(knitr)
 include_graphics("images/04.vocal_hateph_shift.png")
 ```
-When a prefix is added to אלֹהִים. and the Tetragramaton the vowel changes are irregular:
+When a prefix is added to <span class="he">אלֹהִים</span>. and the Tetragramaton the vowel changes are irregular:
 
-* With אלֹהִים the aleph becomes quiescent after a prefix:
-    * אלֹהִים + לְ = לֵאלֹהִים
+* With <span class="he">אלֹהִים</span> the aleph becomes quiescent after a prefix:
+    * <span class="he">אלֹהִים + לְ = לֵאלֹהִים</span>
 * With the Tetragramaton, the prefixed letter with take a Patach, with nothing under the Yod:
-    *  בַיהוָה
+    *  <span class="he">בַיהוָה</span>
 
 
 To flip around the Rule of Sheva, suppose as you are reading, you encounter a syllable that begins with a _short_ vowel followed by a reduced vowel.  In that case, you may be looking at a grammatical scenario where there were originally been two reduced vowels.
@@ -268,21 +277,21 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 * `Lesson 04 A. Vocab`
 * `Lesson 04 B. Grammar` 
-* `Lesson 04 C. Workbook`
+* `Lesson 04 C. Workbook` 
     * With Lesson 4, we are gradually increasing the depth of work in `Anki`
     * The `Workbook` will have short activities such as translation examples of concepts taught in the lesson and word "parsing"
     * When we parse a Hebrew word, we identify three things:
         * the Person (if applicable), Number and Gender of the word
         * the Lexical form
         * the definition of the original word
-    * For example if the instruction is to parse שִׁירִים  , we would respond with: "MP שִׁיר  Songs"
+    * For example if the instruction is to parse <span class="he">שִׁירִים</span>  , we would respond with: "MP שִׁיר  Songs"
     * You may not know every word -
         * **That is the point of this exercise!**  
         * As you read your Hebrew Bible, you will invariably come across words you don't know.  
         * You will need to be able to break down a word into its Lexical form so you can look it up
         * In the [appendix](#lexicon), we have links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"} 
     * As we continue to advance, future lessons will incorporate additional aspects into our parsing activities such as verb conjugation.
-* `Lesson 04 D. Verses`
+* `Lesson 04 D. Study Verses`
     * We will continue with study verses that provide examples of the Lesson's vocabulary
     * Hints will be provided for less familiar verbs
 
@@ -309,7 +318,6 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
     src="https://forms.gle/2LCEgvmpHr5mqB5Z6">
     </iframe>
 </div>
-    
-    width="800" height="600" frameborder="0" marginheight="0" marginwidth="0">
+
 
 

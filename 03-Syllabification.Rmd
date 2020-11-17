@@ -8,7 +8,7 @@ Originally, the Bible and other ancient documents, were written without spaces. 
 What we call "Hebrew grammar" is truly an exciting journey into the system of spoken and written Hebrew, which had its formation thousands of years ago!
 
 ::: {.infobox .map}
-**Seven Practical Points for Lesson 3**
+**LESSON ITINERARY**
 
 1. Learn the two basic concepts of Hebrew Syllables
 1. Learn the rules and terminology related to Hebrew Word Accents
@@ -115,24 +115,24 @@ include_graphics("images/03.accent_stress.png")
 * The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
     * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)<small>^[<small>Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.</small>]</small>
 
-### Tonic, Pretonic, and Propretonic Syllables {-}
+## Tonic, Pretonic, and Propretonic Syllables {-}
 
 * We will encounter specific terms for a syllable's position respective to the word's accent
-* Let's use the plural of דָּבָר to illustrate: דְּ ׀ בָ ׀ רִים
-    * The **Propretonic** syllable is two (or more) steps away from the accent = דְּ
-        * Notice how the vowel changed from the Qamets in דָּבָר to a Vocal Shewa in דְּבָרִים
+* Let's use the plural of <span class="he">דָּבָר</span> to illustrate: <span class="he">דְּ ׀ בָ ׀ רִים</span>
+    * The **Propretonic** syllable is two (or more) steps away from the accent = <span class="he">דְּ</span>
+        * Notice how the vowel changed from the Qamets in <span class="he">דָּבָר</span> to a Vocal Shewa in <span class="he">דְּבָרִים</span>
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
         * Qamets and Tsere will become Sheva (or hateph patach/hateph seghol)
-    * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
-    * The **Tonic** syllable is the one with the accent = רִים<small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
+    * The **Pretonic** Syllable is the syllable immediately before the accented syllable = <span class="he">בָ</span>
+    * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span><small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
     
-### Ultima, Penultima, and Antepenultima syllables {-}
+## Ultima, Penultima, and Antepenultima syllables {-}
 
 Since the accent is not always in a fixed location, we sometimes will use other words that describes a syllable's position irrespective of the accent. 
 
   * _ultima_ = the last syllable
-  * _penultima_ = the next to last syllable
-  * _antepenultima_ = the syllable(s) before the _penultima_
+  * _penultima_ = the next-to-last syllable - this is also called the "penult" syllable
+  * _antepenultima_ = the syllable(s) before the _penultima/penult_
   
 
 
@@ -203,8 +203,8 @@ We do not pronounce as "BUY-it", but monosyllabic, like "BITE"<small>^[<small>Wi
 
 Qamets-Yod-Vav is another Diphthong that you'll see in Lesson 9.  It's the pronoun suffix endings for "his" or "him". 
 
-* אֵלָיו (to him) pronounced 'eLAV.
-* פָּנָיו (his face) pronounced paNAV
+* <span class="he">אֵלָיו</span> (to him) pronounced 'eLAV.
+* <span class="he">פָּנָיו</span> (his face) pronounced paNAV
 
 There is scholarly disagreement as to whether (vowel)+Yod are vowel letters or diphthongs.  <u>Basics of Biblical Hebrew</u> treats them as vowel letters.
 
@@ -222,10 +222,10 @@ This table may seem like minutiae, but do yourself a favor: memorize it, noting 
 * *In an open pretonic syllable, Hebrew REQUIRES a long vowel.
 * *In a closed unaccented syllable, Hebrew REQUIRES a short vowel.
 * **Open/Propretonic _must_ reduce from a long vowel to Vocal Sheva (or Hateph if guttural), _except_ when there is an unchangeable long vowel
-  * Go back and look at דָּבָר and דְּבָרִים
+  * Go back and look at <span class="he">דָּבָר</span> and <span class="he">דְּבָרִים</span>
     * The vowel preference table explains why the vowel under the Dalet changes from Qamets in the open pretonic to Vocal Shewa (reduced vowel) in the open propretonic when the plural suffix "im" is added
     * This is called "_propretonic reduction_" - you will encounter this topic frequently.   
-  * As we saw with כֹּתְבִים, uunchangeable long vowels written "defectively" will not reduce - at their essence, they are still unchangable.
+  * As we saw with <span class="he">כֹּתְבִים,</span> uunchangeable long vowels written "defectively" will not reduce - at their essence, they are still unchangable.
 
 ## Qamets Hatuf, Furtive Patach, Quiescent Alef {#misc_vowels}
 
@@ -290,9 +290,9 @@ For this lesson, we are introducing two new activities that correspond with the 
 
 Then after watching these, go ahead and jump into `Anki`.
 
-* `Lesson 03 A.Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
-* `Lesson 03 B.Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
-* `Lesson 03 C.Verses`
+* `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
+* `Lesson 03 B. Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
+* `Lesson 03 C. Study Verses`
   * This is also the verse lesson using the <u>Basics of Biblical Hebrew</u> study verses.
   * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
   * Be patient and stick with it - you'll get it!
@@ -318,11 +318,11 @@ Then after watching these, go ahead and jump into `Anki`.
 ### Your Quest: {-}
 
 1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
-2. In verse 16, highlight, "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי" in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is אֱלֹהִים. In the last two words of what you just highlighted, you can still see the core portion of אֱלֹהִים present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
+2. In verse 16, highlight, <span class="he">"עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי"</span> in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is <span class="he">אֱלֹהִים</span>. In the last two words of what you just highlighted, you can still see the core portion of <span class="he">אֱלֹהִים</span> present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
 3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word.  Which one is a silent Sheva, and which one is the vocal Sheva?
 4. Find the quiescent Aleph in verse 1 (pink)
 5. Find the Hebrew words for Judah, Moab, and Bethlehem in Verse 1. (gray).  Bethlehem is two separate words in Hebrew. The first word has a single-letter preposition (מ) that means "from."
-6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both אֱלֹהִים and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
+6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}

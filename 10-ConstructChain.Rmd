@@ -1,36 +1,40 @@
 # Hebrew Construct Chain {.ConstructChain}
 
-> In order to comprehend Biblical Hebrew, we must be able to parse words in the construct state.
+> To comprehend Biblical Hebrew, we must be able to identify words in the construct state.
 
+You might be surprised to learn that you are already familiar with at least one Hebrew Construct chain.
 
+<span class="he">בֵּית לֶחֶם</span>, the word you probably know as "Bethlehem", literally means "house of bread" and is a Hebrew construct chain.  The first thing you might notice is that <span class="he">בַּ֫יִת</span>, the word for "house", is spelled a little differently.  The reason for this is that <span class="he">בֵּית</span> is in what we call a "construct" form or state.  
 
-For most English speakers, this may be one of the least-familiar topics in this book.  Even with verbs, we have many of the same aspects of active, passive, or reflexive in English as in Hebrew.  But if you have never heard of a "construct chain" you're not alone.  After some introduction in this lesson, and of course the getting to know each other phase in `Anki`, it will make sense.
+* <span class="he">בַּ֫יִת</span> means "house", and is said to be in "absolute" form
+* <span class="he">בֵּית</span> means "house of", and is said to be in "construct" form
 
-There are a lot of parameters that must be followed in a construct chain.  Keep in mind that we do not need to be able to write the construct state for a noun.  Our primary goal is to recognize it and translate adequately when we read our Bibles.
-
-
-
+In this lesson, we will discuss the parameters of a Hebrew construct chain.  Keep in mind that we do not need to spell the construct state for a given noun.  Our primary goal is to *recognize* it and translate it adequately when we read our Bibles.
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 10**
+**LESSON ITINERARY**
 
-
-1. Meaning of a construct chain
-2. What makes a construct chain 
-3. Review: what makes a word definite 
-4. The Last word sets the definiteness of a chain
-5. How to Recognize a Construct Chain 
-6. Identifying Construct state by Noun Endings
-7. Construct Chain Summary
+1. Describe what is meant by the term "construct chain"
+2. Define a Hebrew construct chain 
+3. Review and identify what makes a word definite 
+4. Determine the definiteness of a chain
+5. Differentiate between absolute state and construct state words
 :::
 
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* The pronominal suffixes (you have them memorized)
+* Define Type 1 vs Type 2 suffixes
+:::
 
 ## First Thoughts {-}
 
-Lesson prayer
+### <span class="he">בְּצֶדֶק כָּל־אִמְרֵי־פִי</span> {-}
 
-> (Proverbs 8:8 NASB) All the utterances of my mouth are in righteousness  
-בְּצֶדֶק כָּל־אִמְרֵי־פִי
+_All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -42,76 +46,92 @@ Lesson prayer
     </audio>
 </figure>
 
+<span class="he">כָּל־אִמְרֵי־פִי</span> "all _of_ the utturances _of_ my mouth" is a construct chain.
+
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced it rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/10-Capernaum synagogue interior, tb102702014.jpg")
 ``` 
 
-## Equipment Check {-}
-
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/stopil.png")
-```
-
-Before continuing, can you describe the following concepts?
-
-*
-
 
 ## What is a Construct Chain?
 
-You might remember Izzy referencing the construct state in _Hebrew Quest_.  A construct chain consists of at least two nouns linked together.  The very last noun is said to be in the "absolute state".  All words before the absolute noun are said to be in "construct state."
+A construct chain consists of at least two nouns linked together.  
 
-If we had a phrase like "the servant of the son of the king," "king" is the absolute noun, with "servant" and "son" in construct.  The entire phrase would be called a "construct chain."  
+The first important thing to know about a Hebrew construct chain is this:
 
-The point of the chain is to tell us something about the **first* _noun_ in the chain.  In the example above, we learn a little more about the servant.  This is an important point as it might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case.  We are describing the servant, not the King.  BUT, if there were a substantival adjective as the first word, e.g. "wise of heart", the chain is describing "heart" not "wise".  So a chain describes the first NOUN in the chain, not necessarily the first word in the chain.
+> The very last noun in the chain is said to be in the "absolute state".  All words in the chain before the absolute noun are said to be in "construct state."
 
-In English we would add the word "of" after each word in the construct state.  Similarly we could say "the King's son's servant" or "the servant of the King's son."
+* Back to <span class="he">בֵּית לֶחֶם</span>, "house of bread" 
+    * "bread" would be in the absolute state
+    * "house of" is in the construct state
+    * The entire phrase, with one and only one absolute noun and one or more construct nouns, would be called a "construct chain."  
+
+::: {.box .light}
+The purpose of the chain is to describe the **first** _noun_ in the chain.  
+:::
+
+* It might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case.  
+* In <span class="he">בֵּית לֶחֶם</span>, we are describing the house, not the bread  
+* Note that we said the first NOUN in the chain
+    * If there were a substantival adjective as the first word, e.g. "wise of heart", the chain is describing "heart" not "wise".  
+    * A chain describes the first NOUN in the chain, not necessarily the first word in the chain.
+
+In English, we would typically add the word "of" after each word in the construct state.  
+    * We could say "the king's son" or the "son of the king," and both would mean the same thing
+    * Translating a construct word as "of" is a _starting point_ and not a hard-and-fast requirement
 
 Just like we may add `'s`, Hebrew has different spelling for nouns in construct.  The absolute noun is the "normal" spelling and meaning.
 
+
 ## What makes a construct chain
 
-What makes a Hebrew construct chain different is that noting else comes between the words of the chain.  In English we could add in an adjective like "the servant of the _wicked_ son of the king," in Hebrew, any adjectives must come after the whole chain.
+What makes a Hebrew construct chain different is that nothing else comes between the words of the chain.  
 
-We then would need to go back and figure out which word the adjective modifies by matching the gender and number.  This creates some potential ambiguity.  Literally, a Hebrew construct chain followed by an adjective could read "the servant of the son of the king the wicked."  It can be difficult to determine which of the three men is the wicked one.
-
-It gets a little easier when the nouns in the construct chain are of mixed number and/or gender.  For example: "the wife of David the strong the smart, the beautiful", if "strong" and "beautiful" were FS and "smart" were MS, the sentence translation would be clear.
+* In English, we could add an adjective like "the servant of the _wicked_ son of the king."
+* In Hebrew, any adjectives must come after the whole chain.  
+* A literal translation would look like: "servant of son of the king the wicked."
+* To resolve, we would need to go back and determine which word the adjective modifies by matching the gender and number.
+* In the example above, there is ambiguity.  Without more context, it is impossible to determine which of the three men is the wicked one.
+* Translating is more straightforward when the nouns in the construct chain are of a mixed number or gender.
+    * For example: "the wife of David the strong the smart, the beautiful."
+        * If "strong" and "beautiful" were FS then we know they are referring to David's wife.
+        * If "smart" was MS, we know it is referring to David.
+        * The sentence translation would be clear: "The strong and beautiful wife of smart David."
 
 ## Review: what makes a word definite 
 
-Construct Chains have strict rules regarding definiteness, so now would be good time to refresh our list of what makes a noun definite in light of this lesson and Lesson 9.
+Construct Chains have strict rules regarding definiteness, so now would be a good time to refresh our list of what makes a noun definite in light of this lesson and Lesson 9.
 
 A word is definite if it:
 
-* Has the article - הַמֶּלֶךְ
-* Has a pronominal suffix - מַלְכִּי
-* Is a proper noun - דָּוִיד
-* Is in a construct chain where the last, absolute, word is definite - בֶּן הַמֶּלֶךְ = THE son of the king
+* Has the article - <span class="he">הַמֶּלֶךְ</span>
+* Has a pronominal suffix - <span class="he">מַלְכִּי</span>
+* Is a proper noun - <span class="he">דָּוִיד</span>
+* Is in a construct chain where the last, absolute, word is definite - <span class="he">בֶּן הַמֶּלֶךְ</span> = THE son of the king
 
-This brings us to a key concept about construct chains:
+This brings us to a critical concept about construct chains:
 
-> Nouns in construct state NEVER take the article.
+::: {.box .light}
+Nouns in construct state NEVER take the article.
+:::
 
-So what the last bullet point above is saying is even though a noun in construct may not have the definite article, it is considered definite when the last work is definite.  We explain more on the next page.
+Even though a noun in construct may not have the definite article, it is deemed definite when the last word (the absolute noun) is definite.  We explain more on the next page.
 
-## The Last Word sets the definiteness of a chain
+## The Absolute noun establishes the definiteness of a chain
 
 A construct chain is either entirely definite, or entirely indefinite and it is the last, absolute, word that defines whether the chain is definite or indefinite.
 
-* בֵּנ הַמֶּלֶךְ = the son of the king
-* בֶּן מֶלֶךְ = a son of a king
+* <span class="he">בֶּן הַמֶּלֶךְ</span> = the son of the king
+* <span class="he">בֶּן מֶלֶךְ</span> = a son of a king
 
 > A construct chain cannot mix definite and indefinite.
 
 You will never see "a son of the king" or "the son of a king" in a construct chain.  It's only one or the other.
 
-There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains<small>^[<small>While מִ֭שְׁלֵי שְׁלֹמֹ֣ה is a construct chain that means "THE proverbs of Solomon", מִזְמ֗וֹר לְדָ֫וִ֥ד is not a construct chain.  By using an inseparable preposition, this phrase means "A Psalm to David", or we would say "A Psalm of David".</small>]</small>.
-
-
+There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains<small>^[<small><span class="he">מִ֭שְׁלֵי שְׁלֹמֹ֣ה</span> is a construct chain that means "THE proverbs of Solomon."<span class="he">מִזְמ֗וֹר לְדָ֫וִ֥ד</span> means "a psalm of (to) David", but this is not a construct chain.</small>]</small>.
 
 
 ## How to Recognize a Construct Chain
@@ -120,19 +140,25 @@ The following are characteristics of nouns in the construct state:
 
 * Never an article
 * Never a pronominal suffix
-* Never a long vowel that isn't a vowel letter (i.e. no Holem, Qamets, or Tsere)
-    * EXCEPT an accented long vowel in the penult<small>^[<small>That is the next to last syllable position.</small>]</small> - סֵ֫פֶר
+* Never a unaccented long vowel unless it is a vowel letter 
+    * We will see Tsere-yod and Holem-Vav
+    * We will not see Holem, Qamets, or Tsere
+    * We will see _accented_ long vowels in the penult<small>^[<small>That is the next to last syllable position.</small>]</small> - <span class="he">סֵ֫פֶר</span>
 * No diphthong (will see Tsere+Yod or Holem-Vav)
 * May have a reduced vowel in the penult
 * Noun endings may change (next page)
 * Two nouns connected by maqqef is a construct chain
-    * כְּבוֹד־יְהוָה = The glory of the LORD
-    
-> Long vowel, not a vowel letter = absolute
+    * <span class="he">כְּבוֹד־יְהוָה</span> = The glory of the LORD
+
+A good rule:
+
+::: {.box .light}
+Long vowel, not accented, not a vowel letter = absolute
+:::
 
 ## Identifying Construct state by Noun Endings
 
-Nouns in construct often sometimes change endings.  The table below shows the Absolute ending and then the difference in the Construct form. 
+Nouns in construct often sometimes (but will not always) change endings.  The table below shows the Absolute ending and then the difference in the Construct form. 
 
 ```{r, out.width = "300pt", fig.align='center'}
 library(knitr)
@@ -140,7 +166,9 @@ knitr::include_graphics("images/10_construct_endings.png")
 ```
 Other nouns may not change endings but will exhibit a loss of long vowels as discussed in the previous section.
 
-Note that Tsere+Yod is diagnostic of Plural and Dual forms.
+::: {.box .light}
+Word-final Tsere+Yod is diagnostic of Plural and Dual construct forms
+:::
 
 
 ## Construct Chain Summary
@@ -154,32 +182,41 @@ Note that Tsere+Yod is diagnostic of Plural and Dual forms.
     * No diphthong
     * Review ending changes chart
         * Tsere+yod is a very common ending for a masculine plural construct noun
-    * A reduced vowel in the penult is usually construct - נְבִיא
-    * Noun with Maqqef is construct - בֶּן־
+    * A reduced vowel in the penult is usually construct - <span class="he">נְבִיא</span>
+    * Noun with Maqqef is construct - <span class="he">בֶּן־</span>
 
 There are four extremely common constructs in the Bible so we must be able to recognize them.  These will be reviewed in `Anki`.
 
-כָּל־ - all of
-אֲבִי־ = father of
-אֲחִי־ = brother of
-אֵ֫שֶׁת־ = wife of
+* <span class="he">כָּל־</span> - all of
+* <span class="he">אֲבִי־</span> = father of
+* <span class="he">אֲחִי־</span> = brother of
+* <span class="he">אֵ֫שֶׁת־</span> = wife of
 
 ## `Word Warm-up` {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/1bvZ74a1SYU){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/1bvZ74a1SYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/1bvZ74a1SYU" frameborder="0"></iframe>
+</div>
+
+
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/1JWesFEa2_c){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/1JWesFEa2_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/1JWesFEa2_c" frameborder="0"></iframe>
+</div>
+
 
 ## `Anki` {-}
 
 * `Lesson 10 A. Vocab`
-* `Lesson 10 B. Grammar` 
+* `Lesson 10 B. Grammar`  
 * `Lesson 10 C. Workbook`
 * `Lesson 10 D. Verses`
 
@@ -198,21 +235,19 @@ This next attachment is not really a worksheet but is a summary of common constr
 
 ### Your Quest: {-}
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+Find at least five construct chains, including at least two joined with maqqef (Yellow)
+
+Note the prevalence of the Tsere-Yod as mentioned in 10.6.
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #10](){target="_blank"}
+* [Ruth Pursuit Answer Key #10](./images/10_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #10 in a new window](){target="_blank"}
+[Open Quest Quiz #10 in a new window](https://forms.gle/ST6XfCvKRXHRfxfVA){target="_blank"}
 
-<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://forms.gle/ST6XfCvKRXHRfxfVA" frameborder="0"></iframe>
+</div>
 

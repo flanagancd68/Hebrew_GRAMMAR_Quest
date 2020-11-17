@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest - Preview"
-#date: "2020-11-14"
+#date: "2020-11-16"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2020-11-14</small>
+<small>*Updated*: 2020-11-16</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -145,11 +145,11 @@ In this course, you won't just read; you will DO!  This course is going to be ja
 **Title**|**Description**
 :-----|:-----
   READING|
-  Lesson Itinerary | The lesson's key learning objectives.
- Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey.
- Lesson Itinerary |The lesson's key learning objectives.
- First Thought |A Bible verse from the lesson.
- Lesson Points | A brief discussion of the items on the Lesson Itinerary. The goal is to give you just enough information to get started in `Anki`
+The "Why" | A statement that links the lesson's content back to the overarching goal of reading and understanding Biblical Hebrew.  The Why will help to keep us motivated as we deal with the intricacies of each lesson
+Lesson Itinerary | The lesson's key learning objectives.
+Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey.
+First Thought |A Bible verse from the lesson.
+Lesson Points | A brief discussion of the items on the Lesson Itinerary. The goal is to give you just enough information to get started in `Anki`  The Lesson Points will be the numbered sections in each lesson. 1.1, 1.2, etc.
  ACTIVITIES|
  `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy!
  `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be three stages to each Lesson.
@@ -188,11 +188,11 @@ Minor or parenthetical points will be included as footnotes throughout each less
 
 Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/
-Ex9mBMAqWhI?start=2823
-&rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
+</div>
+
+
 
 
 
@@ -225,8 +225,12 @@ Please do not hesitate to report errors, omissions, or improvement opportunities
 
 [Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf3obLnGzJQ6d7Rtyy2YXDln3g-kJWCY-4IlRLE_mnFuWv2AQ/viewform?embedded=true" width="640" height="733" frameborder="0" marginheight="0" marginwidth="0">
-</iframe>
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf3obLnGzJQ6d7Rtyy2YXDln3g-kJWCY-4IlRLE_mnFuWv2AQ/viewform?embedded=true" frameborder="0"></iframe>
+</div>
+
+
 
 
 
@@ -242,7 +246,9 @@ Use the form below to ask a question. Please note, we are staffed by volunteers,
 
 [Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWJc7ri0andmyu70D1USeDRtbsrHLaYLNrs0rvI2qBJx-yEg/viewform?embedded=true" width="640" height="673" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdWJc7ri0andmyu70D1USeDRtbsrHLaYLNrs0rvI2qBJx-yEg/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 
 
@@ -490,7 +496,6 @@ You can do this activity online using Google Docs, or you can download/print and
 Even though our goal may not necessarily be to converse in Biblical Hebrew, hearing the sound of the language aides our learning.  Vowels are what give a language its distinctive sound.  In Hebrew, the same three consonants can change meaning depending on the vowel combination.
 
 
-<br>
 
 <img src="images/02.Gen0109.png" width="600pt" style="display: block; margin: auto;" />
 
@@ -625,7 +630,7 @@ This is the word for "laws" showing both "plene" spelling (left) and "defective"
     * Hireq-Yod can drop the Yod and contract to Hireq
     * Shuruq can drop the Vav and it's associated nikkud and contract to Qibbuts
     
-The qamets-hei ה ָ  sometimes drops the final ה, leaving just the qamets under the now-final letter.
+The qamets-hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the qamets under the now-final letter.
 
 ::: {.infobox .info}    
 As you progress, you’ll start to develop a mental checklist when you encounter something that does not seem to follow the normal/regular rules. Asking yourself “Could this be a defective spelling?” will be one of those checklist items.
@@ -633,13 +638,13 @@ As you progress, you’ll start to develop a mental checklist when you encounter
 
 ## The Daghesh Forte Doubles the Consonant {#daghesh_forte}
 
-Notice the שּׁ in הַשָּׁמַיִם:
+Notice the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
 
 <img src="images/02.daghesh_forte.gif" width="500pt" style="display: block; margin: auto;" />
  
 * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Daghesh Lene, but it is a Daghesh **Forte**
 * The letter with the Daghesh Forte both ends one syllable and begins the next syllable
-    * If we were to syllabify הַשָּׁמַיִם, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  הַשָּׁמַיִם means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
+* If we were to syllabify <span class="he"> הַשָּׁמַיִם</span>, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
 * A similar word in English might be better = bet | ter
     * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*<small>^[<small>The * means this is not a real Hebrew word, but we show it in this form for illustration.</small>]</small>
 * Notice the syllable breaks in these words that have a Daghesh Forte:
@@ -669,11 +674,11 @@ That's it.  That's the rule<small>^[<small>Strictly speaking, there are exceptio
 
 Quiz yourself with these examples (answers below):
 
-* אַתָּה = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a patach. Daghesh Forte</small>]</small>
-* בְּרֵאשִׁית = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene</small>]</small>
-* עַל־פְּנֵי = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the same function as the Hyphen does in English.</small>]</small>
-* מַבְדִּיל = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No, it is preceded by a Sheva. Daghesh Lene.</small>]</small>
-* מִתַּחַת  = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a Hiriq. Daghesh Forte</small>]</small>
+* <span class="he">אַתָּה</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a patach. Daghesh Forte</small>]</small>
+* <span class="he">בְּרֵאשִׁית</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene</small>]</small>
+* <span class="he">עַל־פְּנֵי</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the same function as the Hyphen does in English.</small>]</small>
+* <span class="he">מַבְדִּיל</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No, it is preceded by a Sheva. Daghesh Lene.</small>]</small>
+* <span class="he">מִתַּחַת</span>  = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a Hiriq. Daghesh Forte</small>]</small>
 
 
 ## Gutturals and Resh reject Daghesh Forte {#gutturals_reject_daghesh_forte}
@@ -694,16 +699,16 @@ Quiz yourself with these examples (answers below):
 
 Congratulations on completing the vowels lesson.  Make sure you know that Daghesh Forte rule and the guttural behavior  The Daghesh Forte is our Hebrew friend who can tell us a great deal about what is happening grammatically with a word.  
 
-We're about halfway through the first stage of the course on Hebrew Grammar Foundations.  Keep going! You're doing great!  After you finish all of the activities for this lesson, you can claim the first of our `Twelve Tribes Badges`.
+We're about halfway through the first stage of the course on Hebrew Grammar Foundations.  Keep going! You're doing great!  After you finish all of the activities for this lesson, you can claim the first of our `Twelve Tribes Badges`. 
 
 Take a second to review the section headings 2.1 - 2.7 on the left side of the screen before heading on to tackle the activities.
 
 
 ### `Anki` {-}
 
-* `Lesson 02 A.Vocab`
-* `Lesson 02 B.Grammar`
-* `Lesson 02 C.Verses`
+* `Lesson 02 A. Vocab`
+* `Lesson 02 B. Grammar` 
+* `Lesson 02 D. Study Verses`
   * Bible verses will arrive next Lesson
   * In this module, we will be learning common Hebrew names.
   * Sound out the words using your knowledge of Hebrew consonants and vowels.
@@ -762,7 +767,7 @@ Originally, the Bible and other ancient documents, were written without spaces. 
 What we call "Hebrew grammar" is truly an exciting journey into the system of spoken and written Hebrew, which had its formation thousands of years ago!
 
 ::: {.infobox .map}
-**Seven Practical Points for Lesson 3**
+**LESSON ITINERARY**
 
 1. Learn the two basic concepts of Hebrew Syllables
 1. Learn the rules and terminology related to Hebrew Word Accents
@@ -863,24 +868,24 @@ Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<
 * The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
     * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)<small>^[<small>Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.</small>]</small>
 
-### Tonic, Pretonic, and Propretonic Syllables {-}
+## Tonic, Pretonic, and Propretonic Syllables {-}
 
 * We will encounter specific terms for a syllable's position respective to the word's accent
-* Let's use the plural of דָּבָר to illustrate: דְּ ׀ בָ ׀ רִים
-    * The **Propretonic** syllable is two (or more) steps away from the accent = דְּ
-        * Notice how the vowel changed from the Qamets in דָּבָר to a Vocal Shewa in דְּבָרִים
+* Let's use the plural of <span class="he">דָּבָר</span> to illustrate: <span class="he">דְּ ׀ בָ ׀ רִים</span>
+    * The **Propretonic** syllable is two (or more) steps away from the accent = <span class="he">דְּ</span>
+        * Notice how the vowel changed from the Qamets in <span class="he">דָּבָר</span> to a Vocal Shewa in <span class="he">דְּבָרִים</span>
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
         * Qamets and Tsere will become Sheva (or hateph patach/hateph seghol)
-    * The **Pretonic** Syllable is the syllable immediately before the accented syllable = בָ
-    * The **Tonic** syllable is the one with the accent = רִים<small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
+    * The **Pretonic** Syllable is the syllable immediately before the accented syllable = <span class="he">בָ</span>
+    * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span><small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
     
-### Ultima, Penultima, and Antepenultima syllables {-}
+## Ultima, Penultima, and Antepenultima syllables {-}
 
 Since the accent is not always in a fixed location, we sometimes will use other words that describes a syllable's position irrespective of the accent. 
 
   * _ultima_ = the last syllable
-  * _penultima_ = the next to last syllable
-  * _antepenultima_ = the syllable(s) before the _penultima_
+  * _penultima_ = the next-to-last syllable - this is also called the "penult" syllable
+  * _antepenultima_ = the syllable(s) before the _penultima/penult_
   
 
 
@@ -935,8 +940,8 @@ We do not pronounce as "BUY-it", but monosyllabic, like "BITE"<small>^[<small>Wi
 
 Qamets-Yod-Vav is another Diphthong that you'll see in Lesson 9.  It's the pronoun suffix endings for "his" or "him". 
 
-* אֵלָיו (to him) pronounced 'eLAV.
-* פָּנָיו (his face) pronounced paNAV
+* <span class="he">אֵלָיו</span> (to him) pronounced 'eLAV.
+* <span class="he">פָּנָיו</span> (his face) pronounced paNAV
 
 There is scholarly disagreement as to whether (vowel)+Yod are vowel letters or diphthongs.  <u>Basics of Biblical Hebrew</u> treats them as vowel letters.
 
@@ -952,10 +957,10 @@ This table may seem like minutiae, but do yourself a favor: memorize it, noting 
 * *In an open pretonic syllable, Hebrew REQUIRES a long vowel.
 * *In a closed unaccented syllable, Hebrew REQUIRES a short vowel.
 * **Open/Propretonic _must_ reduce from a long vowel to Vocal Sheva (or Hateph if guttural), _except_ when there is an unchangeable long vowel
-  * Go back and look at דָּבָר and דְּבָרִים
+  * Go back and look at <span class="he">דָּבָר</span> and <span class="he">דְּבָרִים</span>
     * The vowel preference table explains why the vowel under the Dalet changes from Qamets in the open pretonic to Vocal Shewa (reduced vowel) in the open propretonic when the plural suffix "im" is added
     * This is called "_propretonic reduction_" - you will encounter this topic frequently.   
-  * As we saw with כֹּתְבִים, uunchangeable long vowels written "defectively" will not reduce - at their essence, they are still unchangable.
+  * As we saw with <span class="he">כֹּתְבִים,</span> uunchangeable long vowels written "defectively" will not reduce - at their essence, they are still unchangable.
 
 ## Qamets Hatuf, Furtive Patach, Quiescent Alef {#misc_vowels}
 
@@ -1012,9 +1017,9 @@ For this lesson, we are introducing two new activities that correspond with the 
 
 Then after watching these, go ahead and jump into `Anki`.
 
-* `Lesson 03 A.Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
-* `Lesson 03 B.Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
-* `Lesson 03 C.Verses`
+* `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
+* `Lesson 03 B. Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
+* `Lesson 03 C. Study Verses`
   * This is also the verse lesson using the <u>Basics of Biblical Hebrew</u> study verses.
   * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
   * Be patient and stick with it - you'll get it!
@@ -1040,11 +1045,11 @@ Then after watching these, go ahead and jump into `Anki`.
 ### Your Quest: {-}
 
 1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
-2. In verse 16, highlight, "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי" in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is אֱלֹהִים. In the last two words of what you just highlighted, you can still see the core portion of אֱלֹהִים present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
+2. In verse 16, highlight, <span class="he">"עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי"</span> in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is <span class="he">אֱלֹהִים</span>. In the last two words of what you just highlighted, you can still see the core portion of <span class="he">אֱלֹהִים</span> present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
 3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word.  Which one is a silent Sheva, and which one is the vocal Sheva?
 4. Find the quiescent Aleph in verse 1 (pink)
 5. Find the Hebrew words for Judah, Moab, and Bethlehem in Verse 1. (gray).  Bethlehem is two separate words in Hebrew. The first word has a single-letter preposition (מ) that means "from."
-6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both אֱלֹהִים and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
+6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
@@ -1062,13 +1067,14 @@ Then after watching these, go ahead and jump into `Anki`.
 # Hebrew Nouns {.Nouns}
 
 
+
 > In order to comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.
 
 
 Nouns consist of a person, place, thing, or idea and can be singular or plural.  Hebrew also introduces the concept of "gender".  In this lesson we will review aspects of the Hebrew noun with specific attention focused on the rules of pluralization.
 
 ::: {.infobox .map}
-**Seven Practical Points for Lesson 4**
+**LESSON ITINERARY**
 
 1. Understand Noun Gender and Number
 2. Examine singular noun endings and "endingless" nouns for both Masculine and Feminine nouns
@@ -1080,6 +1086,8 @@ Nouns consist of a person, place, thing, or idea and can be singular or plural. 
 :::
 
 ::: {.infobox .stop}
+EQUIPMENT CHECK
+
 Before continuing, can you describe the following concepts?
 
 * Vowel and syllable preference
@@ -1134,7 +1142,7 @@ All Hebrew nouns have Gender and Number.
 
 * Gender
     * The "gender" sometimes does, but usually does not, have anything to do with biologic gender.  
-    * סֵ֫פֶר is masculine (M), while תּוֹרָה  is feminine (F). There is nothing inherently masculine about books nor feminine about laws or instructions
+    * <span class="he">סֵ֫פֶר</span> is masculine (M), while <span class="he">תּוֹרָה</span>  is feminine (F). There is nothing inherently masculine about books nor feminine about laws or instructions
     * The gender of a noun never changes
     
 * Number
@@ -1150,17 +1158,17 @@ Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, th
 ## Singular Noun Endings {#sing_noun_endings}
 
 * Singular
-    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) ה ֶ֫
+    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) <span class="he">ה ֶ֫</span>
     * The following words are examples of FS endings:
-        * תּוֹרָה (Most common)
-        * בַּת 
-        * תִּפְאֶ֫רֶת  (glory)
-        * בְּרִית (covenant)
-        * מַלְכּוּת (kingdom)
-        * אֶ֫רֶץ (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: אֶ֫רֶץ (land), עִיר (city), and אֶ֫בֶן (stone). When this occurs, most vocabulary lists will mark the word as "(F)".</small>]</small>
+        * <span class="he">תּוֹרָה</span> (Most common)
+        * <span class="he">בַּת</span> 
+        * <span class="he">תִּפְאֶ֫רֶת</span>  (glory)
+        * <span class="he">בְּרִית</span> (covenant)
+        * <span class="he">מַלְכּוּת</span> (kingdom)
+        * <span class="he">אֶ֫רֶץ</span> (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: <span class="he">אֶ֫רֶץ</span> (land), <span class="he">עִיר</span> (city), and <span class="he">אֶ֫בֶן</span> (stone). When this occurs, most vocabulary lists will mark the word as "(F)".</small>]</small>
         
 ::: {.box .info}
-Some students fall into a habit of thinking every word-final ה is feminine.  Remember ה ֶ֫  is masculine
+Some students fall into a habit of thinking every word-final ה is feminine.  Remember <span class="he">ה ֶ֫</span>  is masculine
 :::
 
 ## Plural and Dual Noun Endings {#noun_pluralization}
@@ -1168,80 +1176,86 @@ Some students fall into a habit of thinking every word-final ה is feminine.  Re
 For regular nouns, simply remove the singular ending if there is one, and add the plural ending.
 
 * Plural endings:
-    * MP: ים ִ e.g.  סוּסִים 
-        * דָּבָר becomes דְּבָרִים
-        * עָנָן becomes עֲנָנִים (clouds)
-        * כּוֹכָב becomes כּוֹכָבִים
+    * MP: <span class="he">ים ִ</span> e.g. **<span class="he">סוּסִים</span>** 
+        * <span class="he">דָּבָר</span> becomes **<span class="he">דְּבָרִים</span>**
+        * <span class="he">עָנָן</span> becomes **<span class="he">עֲנָנִים</span>** (clouds)
+        * <span class="he">כּוֹכָב</span> becomes **<span class="he">כּוֹכָבִים</span>**
 
-    * FP: וֹת e.g. מְלָכוֹת (queens)
-        * תּוֹרָה becomes תּוֹרוֹת 
+    * FP: <span class="he">וֹת</span> e.g. **<span class="he">מְלָכוֹת</span>** (queens)
+        * <span class="he">תּוֹרָה</span> becomes **<span class="he">תּוֹרוֹת</span>** 
 
-Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. As we saw in Lesson 3.2, דְּבָרִים changes from דָבָר because an open propretonic syllable prefers a reduced vowel. 
+Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
 
-*   A vowel under a non-Guttural will reduce to Vocal Shewa - דְּבָרִים
-*   A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - עֲנָנִים
-*   An irreducible long vowel will not reduce - כּוֹכָבִים 
+*   A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
+*   A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
+*   An irreducible long vowel will not reduce - <span class="he">כּוֹכָבִים</span> 
 
 * Dual endings:
-    * MD: יִם ַ e.g. סוּסַ֫יִם (two horses)
-    * FD: יִם ַ  e.g., יָדַ֫יִם (two hands) or תַ֫יִם ָ as in תּוֹרָתַ֫יִם (two laws).
+    * MD: <span class="he">יִם ַ</span> e.g. <span class="he">סוּסַ֫יִם</span> (two horses)
+    * FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws).
 
-Occasionally, we will see defective spelling of the plural and dual endings: סוּסִם תּוֹרֹת
+Occasionally, we will see defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>
 
 
 ## Special dual forms {#dual_forms}
 
 Hebrew has three common words that have the dual ending but are usually translated as singular.
 
-* שַׁמַ֫יִם heaven, sky (sometimes "heavens")
-* מִצְרַ֫יִם Egypt
-* מַ֫יִם water (sometimes "waters")
-* פָּנִים face
+* <span class="he">שַׁמַ֫יִם</span> heaven, sky (sometimes "heavens")
+* <span class="he">מִצְרַ֫יִם</span> Egypt
+* <span class="he">מַ֫יִם</span> water (sometimes "waters")
+* <span class="he">פָּנִים</span> face
 
 
 ## Irregular Pluralization  {#irregular_pluralization}
 
-* Hebrew does have a handful of irregular nouns.  For example you won't find נִשִׁים in a dictionary.  So if you need to know the singular form, אִשָּׁה
-* Rather than a detailed discussion on what is going on with the plural forms (and honestly, scholars don't really know why a word like אָבוֹת looks like a feminine word), it's easier to memorize these eight most common pairs:
+* Hebrew does have a handful of irregular nouns.  
+* For example you won't find <span class="he">נִשִׁים</span> in a dictionary. 
+* You need to know the singular form, <span class="he">אִשָּׁה</span>
+* Rather than a detailed discussion on what is going on with the plural forms (and honestly, scholars don't really know why a word like <span class="he">אָבוֹת</span> looks like a feminine word), it's easier to memorize these eight most common pairs:
 
 | S   | Def      | P     | Def.      |
-|-----|----------|-------|-----------|
-| אִישׁ | man      | אֲנָשִׁים | men       |
-| אִשָּׁה | woman    | נָשִׁים  | women     |
-| עִיר | city     | עָרִים  | cities    |
-| אָב  | father   | אָבוֹת  | fathers   |
-| בַּ֫יִת | house    | בָּתִּים  | houses    |
-| בַּת  | daughter | בָּנוֹת  | daughters |
-| בֵּן  | son      | בָּנִים  | sons      |
-| יוֹם | day      | יָמִים  | day       |
+|:-----|:----------|:-------|:-----------|
+|<span class="he"> אִישׁ </span>| man      | <span class="he">אֲנָשִׁים</span> | men       |
+|<span class="he"> אִשָּׁה </span>| woman    | <span class="he">נָשִׁים</span>  | women     |
+|<span class="he"> עִיר </span>| city     | <span class="he">עָרִים </span> | cities    |
+|<span class="he"> אָב </span> | father   | <span class="he">אָבוֹת </span> | fathers   |
+|<span class="he"> בַּ֫יִת</span> | house    | <span class="he">בָּתִּים </span> | houses    |
+|<span class="he"> בַּת</span>  | daughter | <span class="he">בָּנוֹת </span> | daughters |
+|<span class="he"> בֵּן</span>  | son      | <span class="he">בָּנִים </span> | sons      |
+|<span class="he"> יוֹם</span> | day      | <span class="he">יָמִים </span> | day       |
 
-An important note is that the plural forms still retain the gender of their singular noun.  אָבוֹת is still masculine,  and נָשִׁים is still feminine, despite the plural endings.
+* The plural forms retain the gender of their singular noun
+* <span class="he">אָבוֹת</span> is still masculine,  and <span class="he">נָשִׁים</span> is still feminine, despite the plural endings.
 
 ::: {.box .info}
-When you see an _internal_ (not word-final) tsere+yod, as in בָּתִּים, the vowel pattern in the 'original' word was likely the accented-patach-yod-hiriq diphthong, as in בַּ֫יִת.
+
+When you see an _internal_ (not word-final) tsere+yod, as in<span class="he"> בָּתִּים</span>, the vowel pattern in the 'original' word was likely the accented-patach-yod-hiriq diphthong, as in <span class="he">בַּ֫יִת</span>.
 :::
 
 The next two categories of irregular words are more straightforward:
 
 ### Segholate Nouns follow a standard vowel pattern when pluralizing {-}
 
-You may have noticed something interesting about the words, דֶּ֫רֶךְ  and סֵ֫פֶר . The Two syllable nouns where the accent is on the first syllable are classified as _Segholate_ nouns.  They get this name because frequently, though not always, there are two Seghol vowels. נַ֫עַר  (boy, youth) is a segholate noun even though it doesn't have any Seghol vowels.
+* Did you notice that the words, <span class="he">דֶּ֫רֶךְ</span>  and <span class="he">סֵ֫פֶר</span> have the accent is on the first syllable?
+* Many two syllable words accented on the penult are classified as _Segholate_ nouns.  
+* They get this name because frequently, though not always, there are two Seghol vowels. <span class="he">נַ֫עַר</span>  (boy, youth) is a segholate noun even though it doesn't have any Seghol vowels.
 
 ::: {.box .info}
 If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending, the word is likely a Segholate noun.
 :::
 
-* מֶ֫לֶךְ to מְלָכִים
-* סֵ֫פֶר to סְפָרִים
-* נַ֫עַר to נְעָרִים
+* <span class="he">מֶ֫לֶךְ</span> to <span class="he">מְלָכִים</span>
+* <span class="he">סֵ֫פֶר</span> to <span class="he">סְפָרִים</span>
+* <span class="he">נַ֫עַר</span> to <span class="he">נְעָרִים</span>
 
 ### Geminate words take a Daghesh Forte {-}
 
-_Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal"), but at one point the second consonant appeared twice.  Example עַם (people) was once *עמם.
+_Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal"), but at one point the second consonant appeared twice.  Example <span class="he">עַם</span> (people) was once *<span class="he">עמם</span>.
 The lexical form drops the extra consonant.
 
 ::: {.box .info}
-When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example, עַם becomes עַמִּים (peoples).
+When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example,<span class="he"> עַם</span> becomes <span class="he">עַמִּים</span> (peoples).
 :::
 
 The reason we don't have a Daghesh Forte in עַם is that **the last consonant of a word rejects the Daghesh Forte when it has no vowel.**
@@ -1256,6 +1270,7 @@ The first of two contiguous Vocal Sheva will usually change to a Hireq.
 :::
 
 * Note the unique situation when the second consonant is a Yod:
+
 <img src="images/04.vocal_vocal_hireq.png" width="600pt" style="display: block; margin: auto;" />
 
 These next two could be called "Hateph copy-cat" rules.  Notice how the vowel under the first consonant in all six examples takes on the short-vowel equivalent of the hateph vowel:
@@ -1264,12 +1279,12 @@ These next two could be called "Hateph copy-cat" rules.  Notice how the vowel un
 <img src="images/04.hateph_vocal_shift.png" width="600pt" style="display: block; margin: auto;" />
 * A Vocal Sheva that is followed by a hateph vowel will change to the short-vowel in the same class as the hateph vowel.  
 <img src="images/04.vocal_hateph_shift.png" width="600pt" style="display: block; margin: auto;" />
-When a prefix is added to אלֹהִים. and the Tetragramaton the vowel changes are irregular:
+When a prefix is added to <span class="he">אלֹהִים</span>. and the Tetragramaton the vowel changes are irregular:
 
-* With אלֹהִים the aleph becomes quiescent after a prefix:
-    * אלֹהִים + לְ = לֵאלֹהִים
+* With <span class="he">אלֹהִים</span> the aleph becomes quiescent after a prefix:
+    * <span class="he">אלֹהִים + לְ = לֵאלֹהִים</span>
 * With the Tetragramaton, the prefixed letter with take a Patach, with nothing under the Yod:
-    *  בַיהוָה
+    *  <span class="he">בַיהוָה</span>
 
 
 To flip around the Rule of Sheva, suppose as you are reading, you encounter a syllable that begins with a _short_ vowel followed by a reduced vowel.  In that case, you may be looking at a grammatical scenario where there were originally been two reduced vowels.
@@ -1301,34 +1316,37 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/n9HYIqqvA0I){target="_blank"}
 
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/89pLvO3wg6s){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0"></iframe>
+</div>
 
 ## `Anki` {-}
 
 * `Lesson 04 A. Vocab`
 * `Lesson 04 B. Grammar` 
-* `Lesson 04 C. Workbook`
+* `Lesson 04 C. Workbook` 
     * With Lesson 4, we are gradually increasing the depth of work in `Anki`
     * The `Workbook` will have short activities such as translation examples of concepts taught in the lesson and word "parsing"
     * When we parse a Hebrew word, we identify three things:
         * the Person (if applicable), Number and Gender of the word
         * the Lexical form
         * the definition of the original word
-    * For example if the instruction is to parse שִׁירִים  , we would respond with: "MP שִׁיר  Songs"
+    * For example if the instruction is to parse <span class="he">שִׁירִים</span>  , we would respond with: "MP שִׁיר  Songs"
     * You may not know every word -
         * **That is the point of this exercise!**  
         * As you read your Hebrew Bible, you will invariably come across words you don't know.  
         * You will need to be able to break down a word into its Lexical form so you can look it up
         * In the [appendix](#lexicon), we have links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"} 
     * As we continue to advance, future lessons will incorporate additional aspects into our parsing activities such as verb conjugation.
-* `Lesson 04 D. Verses`
+* `Lesson 04 D. Study Verses`
     * We will continue with study verses that provide examples of the Lesson's vocabulary
     * Hints will be provided for less familiar verbs
 
@@ -1349,7 +1367,13 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 [Open Quest Quiz #04 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
 
-<iframe src="https://forms.gle/2LCEgvmpHr5mqB5Z6" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe 
+    class="responsive-iframe"
+    src="https://forms.gle/2LCEgvmpHr5mqB5Z6">
+    </iframe>
+</div>
+
 
 
 
@@ -1365,7 +1389,7 @@ It is unlikely you will ever need to write the article or the conjunction with t
 
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 5**
+**LESSON ITINERARY**
 
 
 1. Translate the Vav conjunction
@@ -1569,7 +1593,7 @@ Keep with it; you're doing great!
 ## `Anki` {-}
 
 * `Lesson 05 A. Vocab`
-* `Lesson 05 B. Grammar` 
+* `Lesson 05 B. Grammar` * `Lesson xx C. Workbook` 
 * `Lesson 05 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate the definite article and the Vav conjunction.
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
@@ -1613,7 +1637,7 @@ Check to be sure you have have completed **all activities** through this lesson,
 Prepositions give us space and context.  Given that much of the Tanach is narrative, prepositions are on almost every page that we read as the authors describe the events to us.  There is one Hebrew word, מִן, that is classified as a preposition but depending on the context can convey a wide array of meanings. 
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 6**
+**LESSON ITINERARY**
 
 1. Recognize that a Nun with Silent Sheva becomes a Daghesh Forte
 2. Describe Independent and Maqqef prepositions
@@ -1785,7 +1809,7 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 ### `Anki` {-}
 
 * `Lesson 06 A. Vocab`
-* `Lesson 06 B. Grammar` 
+* `Lesson 06 B. Grammar` * `Lesson xx C. Workbook` 
 * `Lesson 06 C. Workbook`
     *     * In this activity, we will have very short passages of scripture that illustrate prepositions.
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
@@ -1836,7 +1860,7 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 7**
+**LESSON ITINERARY**
 
 
 1. Understand how an adjective relates to the noun it is modifying
@@ -2000,7 +2024,7 @@ Note that אֶל־הָאָ֫רֶץ and אַ֫רְצָה are essentially synonymo
 ## `Anki` {-}
 
 * `Lesson 07 A. Vocab`
-* `Lesson 07 B. Grammar` 
+* `Lesson 07 B. Grammar` * `Lesson xx C. Workbook` 
 * `Lesson 07 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate adjectives, including examples of attributive and predicate use
     * Be sure to look up any words you do not know.  
@@ -2047,14 +2071,14 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 # Hebrew Pronouns
 
-> In order to comprehend Biblical Hebrew, we must be able to know pronouns with gender, number and person 
+> To comprehend Biblical Hebrew, we must be able to identify pronouns with gender, number and person 
 
 Pronouns are essentially a language's shorthand so we don't have to keep repeating nouns (because saying all of those nouns over and over can really wear you down).
 
-As such, this is an important chapter.  If you want to understand what you're reading, you will need a firm grasp of pronouns to help decipher what is happening in the narrative.
+As such, this is an important topic that will take two lessons (8 and 9).  If you want to understand what you're reading, you will need a firm grasp of pronouns to help decipher what is happening in the narrative.
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 8**
+**LESSON ITINERARY**
 
 
 1. Independent Personal Pronoun
@@ -2226,7 +2250,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 ## `Anki` {-}
 
 * `Lesson 08 A. Vocab`
-* `Lesson 08 B. Grammar` 
+* `Lesson 08 B. Grammar` * `Lesson xx C. Workbook` 
 * `Lesson 08 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate pronouns
 * `Lesson 08 D. Verses`
@@ -2268,13 +2292,13 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 
 # Hebrew Pronominal Suffixes
 
-> In order to comprehend Biblical Hebrew, we must be able to translate a noun or preposition with a pronominal suffix
+> To comprehend Biblical Hebrew, we must be able to translate a noun or preposition with a pronominal suffix
+
+In this lesson, we continue the important discussion on pronouns.  In Lesson 9, we focus on an aspect of pronouns we don't have in English - pronominal suffixes.  
 
 
-
-
-::: {.infobox}
-**Seven Practical Points for Lesson 9**
+::: {.infobox .map}
+**LESSON ITINERARY**
 
 
 1.  Understand the meaning of pronominal suffixes
@@ -2286,12 +2310,23 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 7.  Identify look-alike words involving pronominal suffixes
 :::
 
-## First Thoughts {-}
+::: {.box .stop}
+EQUIPMENT CHECK
 
-In addition to offering up our petitions, let us be sure to listen for God's questions
+Before continuing, can you describe the following concepts?
 
-> (Genesis 43:7) This man heavily questioned us and our kindred  
-וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ
+* Independent personal pronouns (memorized)
+* The difference between the definite article and the interrogative particle
+* Hebrew demonstratives
+:::
+
+## First Thought {-}
+
+
+### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנו </span> {-}
+*This man heavily questioned us and our kindred. (Genesis 43:7)*
+
+In addition to offering up our petitions, let us be sure to listen for God's questions.  What is He asking you (or asking of you) today?  Take a moment.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -2307,46 +2342,47 @@ In addition to offering up our petitions, let us be sure to listen for God's que
 *****
 
 <div class="figure" style="text-align: center">
-<img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked a very important question, 'who do YOU say that I am?'. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-59)Banias waterfall. Region of Caesarea Philippi where Yeshua asked a very important question, 'who do YOU say that I am?'. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-59)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
-## Equipment Check {-}
 
-<img src="images/stopil.png" width="300pt" style="display: block; margin: auto;" />
-
-Before continuing, can you describe the following concepts?
-
-*
 
 
 ## Meaning
 
-On a noun, a pronominal suffix indicates the one who owns or is related to the noun:  His books / her houses / their house / our father
+Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 6, we talked about "inseparable prepositions", which are one-letter prefixes to words.  Pronominal suffixes work similarly, except as the name "suffix" implies, these go on the back of words instead of the front.
 
-On a preposition, the suffix indicates the object: to her / with them / behind him / in front of it
-
-Verbs also take pronominal suffixes.  We will study these in Lesson 19.
+* On a noun, a pronominal suffix indicates the one who owns or is related to the noun:  His books / her houses / their house / our father
+* On a preposition, the suffix indicates the object: to her / with them / behind him / in front of it
+* Verbs also take pronominal suffixes, which will indicate the verb's object.  We will study these in Lesson 19.
 
 Pronominal suffixes have *gender*, *number*, and *person*.
+
+::: {.box .info}
+* Whereas independent personal pronouns were always "subject" pronouns (e.g., I, she, he, it and they), pronominal suffixes are always "object" pronouns (e.g., me, my, her, him, them, theirs).
+* "You" can be an ambiguous term in English, not only with number and gender but also, "you" can be either a subject or object.  Hebrew has distinct ways of saying 2MS, 2FS, 2MP, and 2FP, as well as different forms for subject and object.
+:::
+
+## Type 1 vs Type 2 Suffixes
 
 Pronominal suffixes are further divided into two types.  
 
 * There is a set of suffixes that is used on singular nouns, which we call **Type 1** suffixes
     * Keep in mind there are both plural and singular Type 1 suffixes for use on singular nouns
     * Multiple people can have ownership of a single object
-    * In English we would say "His house" and Their house"
+    * In English we would say "his house" and "their house"
 * There is a second set for use on plural nouns called **Type 2**
     * Similar to above, there are both singular and plural type 2 suffixes for use on plural nouns
     * "his houses" as well as "their houses"
 * Type on a preposition means nothing in terms of translation; each preposition will only take one class or the other
 
+## Singular Suffixes
 
+While Type 1 and Type 2 suffixes have distinctives, there are also some commonalities with singular suffixes of both types.
 
-## Type 1 vs Type 2 Suffixes
-
-Below are the Type 1 suffixes.  You will use `Anki` to commit these to memory.
+Below are the singular suffixes.  You will use `Anki` to commit these to memory.
 
 <img src="images/09.ps_sing_tbl.png" width="400pt" style="display: block; margin: auto;" />
 
@@ -2354,7 +2390,9 @@ Below are the Type 1 suffixes.  You will use `Anki` to commit these to memory.
 * 2MS/2FS end with ך
 * Not all 3M/3F have ה but every ה is 3M/3F
 
-Below are the Type 2 suffixes
+## Plural Suffixes
+
+Below are the plural suffixes:
 <img src="images/09.ps_plrl_tbl.png" width="400pt" style="display: block; margin: auto;" />
 
 * 1CP ends with נוּ
@@ -2367,26 +2405,28 @@ Below are the Type 2 suffixes
 
 Look at the chart below with the two types side-by-side.
 
-> Type 2 **always** contains vowel + yod, but **not** hiriq + yod  
-Type 1 **never** contains yod, **unless* it's hiriq+yod
+::: {.box .light}
+Type 2 **always** contains vowel + yod, but **not** hiriq + yod  
+Type 1 **never** contains yod, *unless* it's hiriq+yod
+:::
 
-This simple rule plus the tips on the previous page about patters in gender and number should make it easier to identify the pronominal suffix.
+This simple rule, plus the tips on the previous page about patterns in gender and number, should make it easier to identify the pronominal suffix.
 
 When you encounter a word with a suffix, always start by asking "is there a vowel + yod, that is not hiriq + yod?"
 
 
-<img src="images/09.ps_both_tbl.png" width="400pt" style="display: block; margin: auto;" />
+<img src="images/09.ps_both_tbl.png" width="600pt" style="display: block; margin: auto;" />
 
 
 ## Lexical Form with Type 1
 
-Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamilar to you than a preposition so we'll focus on that.  Below is a procedure you may follow that should help with this.  Type 1 is on this page and the steps for Type 2 are on the next page.
+Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamiliar to you than a preposition so we'll focus on that.  Below is a procedure you may follow that should help with this.  Type 1 is on this page and the steps for Type 2 are on the next page.
 
 1. Remove the pronominal suffix
 2. Remembering that type one suffixes can *only* go with SINGULAR nouns, the next step is to fix the singular ending as needed
-    * If the remaining word ends with a ת, it is likely Feminine. Replace ת ַ or ת ָ  with ה ָ (usually)
-    *If the remaining word does not end with a ת, it is likely masculine.  Most often, masculine words are endingless but sometimes you may need to add the masculine singular ending ה ֶ
-3. If there is a tsere + yod in the middle of the word, replace with the diphthong יִ ַ֫
+    * If the remaining word ends with a <span class="he">ת</span>, it is likely Feminine. Replace <span class="he">ת ַ</span> or <span class="he">ת ָ</span>  with<span class="he"> ה ָ</span> (usually)
+    * If the remaining word does not end with a <span class="he">ת</span>, it is likely masculine.  Most often, masculine words are endingless but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
+3. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
 4. Change other vowels as needed according to the vowel preference table we studied several lessons ago.
 
 Here is Dr. Beckman's example of the four steps.  Note that words do not always need all four steps.
@@ -2396,11 +2436,11 @@ Here is Dr. Beckman's example of the four steps.  Note that words do not always 
 ## Lexical Form with Type 2
 
 1. Remove the pronominal suffix
-2. Remembering that type 2 suffixes can *only* go with PLURAL nouns, but the Lexical Form is going to be the SINGLULAR, the next step is to fix the singular ending as needed.  Remove the וֹת ending if there is one.  Keep in mind that the word could exhibit defective spelling as with שְֹדֹת below.
+2. Remembering that type 2 suffixes can *only* go with PLURAL nouns, but the Lexical Form is going to be the SINGLULAR, the next step is to fix the singular ending as needed.  Remove the <span class="he">וֹת</span> ending if there is one.  Keep in mind that the word could exhibit defective spelling as with <span class="he">שְֹדֹת</span> below.
 3. Add the appropirate singular ending, if needed
-    * If the word ended with a וֹת, it is Feminine. Replace with ה ָ (usually)
-    * If the remaining word does not end with וֹת, it is likely masculine.  Most often, masculine words are endingless but sometimes you may need to add the masculine singular ending ה ֶ
-4. If there is a tsere + yod in the middle of the word, replace with the diphthong יִ ַ֫
+    * If the word ended with a <span class="he">וֹת</span>, it is Feminine. Replace with <span class="he">ה</span> ָ (usually)
+    * If the remaining word does not end with <span class="he">וֹת</span>, it is likely masculine.  Most often, masculine words are endingless but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
+4. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
 5. Change other vowels as needed according to the vowel preference table we studied several lessons ago.
 
 Here is Dr. Beckman's example of the five steps.  Note that words do not always need all five steps.
@@ -2414,13 +2454,13 @@ The changes to the base words are due to the words being in **construct** form. 
 
 Two of the prepositions we studied in Lesson 6 undergo some irregular changes you will encounter as you read the Bible.
 
-* כְּ (like, as) and מִן (from, etc.) often insert an extra מוֹ or מּ in some forms
-    * Like you (2MS): כָּמ֫וֹךָ
-    * From you (2MS): מִמְּךָ
+* <span class="he">כְּ</span> (like, as) and <span class="he">מִן</span> (from, etc.) often insert an extra <span class="he">מוֹ</span> or <span class="he">מּ</span> in some forms
+    * Like you (2MS): <span class="he">כָּמ֫וֹךָ</span>
+    * From you (2MS): <span class="he">מִמְּךָ</span>
 
-* אָח adds a hireq + yod before all type 1 suffixes
-    * My brother (1CS): אָחִי
-    * Our Brother (1CP): אָחִינוּ
+* <span class="he">אָח</span> adds a hireq + yod before all type 1 suffixes
+    * My brother (1CS): <span class="he">אָחִי</span>
+    * Our Brother (1CP): <span class="he">אָחִינוּ</span>
     
 The rule still applies:
 
@@ -2428,62 +2468,71 @@ The rule still applies:
 
 ## Look-alike words
 
-### אֵת {-}
+### <span class="he">אֵת</span> {-}
 
-* As we learned previously, אֵת can mean either the DDO or the preposition "with".  They are spelled the same way and either form can take a pronominal suffix.
-* אֵת with a regular Type 1 pronominal suffix is ALWAYS the DDO, with the suffix indicating the actual direct object
-    * the א will be vowel-marked as אֹ or אֶ
-    * 3MS: אֹתוֹ
-    * 2FP: אֶתְכֶן
+* As we learned previously, <span class="he">אֵת</span> can mean either the DDO or the preposition "with".  They are spelled the same way and either form can take a pronominal suffix.
+* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is ALWAYS the DDO, with the suffix indicating the actual direct object
+    * the <span class="he">א</span> will be vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
+    * 3MS: <span class="he">אֹתוֹ</span>
+    * 2FP: <span class="he">אֶתְכֶן</span>
 * When then author intends to communicate the preposition with, as in "with him", the א will take a hireq in all forms
-    * With me (1CS): אִתִּי
-    * With them (3FP): אִתָּן
+    * With me (1CS): <span class="he">אִתִּי</span>
+    * With them (3FP): <span class="he">אִתָּן</span>
 
-###  עִם with or עַם people {-}
+###  <span class="he">עִם</span> with or <span class="he">עַם</span> people {-}
 
 These two words frequently take pronouns.  It could be easy to get them confused.  The trick is to pay close attention to the vowel under the ע.
 
-* עִם , with, will always have a Hireq, where as עַם, people, will always have a Patach
-    * With Me (1CS): עִמִּי
-    * My People (1CS): עַמִּי
-    * With them (3MP):  עִמָּם
-    * Their people (3MP):  עַמָּם
+* <span class="he">עִם</span> , with, will always have a Hireq, whereas <span class="he">עַם</span>, people, will always have a Patach
+    * With Me (1CS): <span class="he">עִמִּי</span>
+    * My People (1CS): <span class="he">עַמִּי</span>
+    * With them (3MP):  <span class="he">עִמָּם</span>
+    * Their people (3MP):  <span class="he">עַמָּם</span>
 
-### אֵל, God, or אֶל, to {-}
+### <span class="he">אֵל</span>, God, or <span class="he">אֶל</span>, to {-}
 
 This one is _slightly_ easier.  
 
-* אֵלִי, my God is the only form of אֶל that appears with a pronominal suffix in the Bible
-* to me (1CS) is: אֶלַי - Patach under the ל
+* <span class="he">אֵלִי</span>, my God is the only form of <span class="he">אֶל</span> that appears with a pronominal suffix in the Bible
+* to me (1CS) is: <span class="he">אֶלַי</span> - Patach under the <span class="he">ל</span>
 
-Although אֵל may not appear with a suffix apart from this one time, אֱלֹהִ֑ים can, and in the Torah, frequently does take suffixes.   The words pairs below are close but not equivalent.
+Although <span class="he">אֵל</span> may not appear with a suffix apart from this one time, <span class="he">אֱלֹהִ֑ים</span> can, and in the Torah, frequently does take suffixes.   The words pairs below are close but not equivalent.
 
-* אֱלֹהֶ֑יךָ  = your God (See Deuteronomy 6:5)
-* אֵלֶ֫יךָ = to you (2MS)
-* אֱלֹהִ֑ים  = God, gods
-* אֲלֵיהֶם = to them (3MP)
-* אֱלֹהֵֽינוּ = our God (Exodus 3:18)
-* אֵלֵ֫ינוּ = to us (1CP)
-* אֱלֹהָֽי = my gods (Genesis 31:30)
-* אֵלֶ֫יהַ = to her/it (3FS)
+* <span class="he">אֱלֹהֶ֑יךָ</span>  = your God (See Deuteronomy 6:5)
+* <span class="he">אֵלֶ֫יךָ</span> = to you (2MS)
+* <span class="he">אֱלֹהִ֑ים</span>  = God, gods
+* <span class="he">אֲלֵיהֶם</span> = to them (3MP)
+* <span class="he">אֱלֹהֵֽינוּ</span> = our God (Exodus 3:18)
+* <span class="he">אֵלֵ֫ינוּ</span> = to us (1CP)
+* <span class="he">אֱלֹהָֽי</span> = my gods (Genesis 31:30)
+* <span class="he">אֵלֶ֫יהַ</span> = to her/it (3FS)
 
 ## `Word Warm-up` {-}
 
-[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/IGxobVIxYkY){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/IGxobVIxYkY" frameborder="0"></iframe>
+</div>
+
+## `Word Warm-up: pronominal suffixes` {-}
 
 We have created a special `Word Warm-up` for the pronominal suffixes.
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/zk-v6XSY6Pg){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/zk-v6XSY6Pg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/zk-v6XSY6Pg" frameborder="0"></iframe>
+</div>
+
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/8Y7XdOBkWWo){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/8Y7XdOBkWWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/8Y7XdOBkWWo" frameborder="0"></iframe>
+</div>
 
 ## `Anki` {-}
 
@@ -2492,7 +2541,7 @@ We have created a special `Word Warm-up` for the pronominal suffixes.
 * `Lesson 09 C. Workbook`
 * `Lesson 09 D. Verses`
 
-## `Worksheets`: NameOfWorksheet {-}
+## `Worksheets`: Pronominal Suffixes {-}
 
 After you have done your Anki work, we have an additional worksheet to help you drill your pronominal suffixes.  As with previous worksheets, study, then cover-up the first column on the right and see if you can complete the remainder of the worksheet by memory.
 
@@ -2513,71 +2562,55 @@ After you have done your Anki work, we have an additional worksheet to help you 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #09](){target="_blank"}
 
-## `Hebrew Quest Study Passage`: Book Chapter# {-}
-
-1. Read through the passage on your own.
-2. Using a [Blank copy of the passage](){target="_blank"}:
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.    
-    2. Parse as many verbs as you can.
-    3. Sketch out a translation.
-3. Watch Izzy's _Hebrew Quest_ video below [(Click to open video in a new tab)](https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1){target="_blank"}
-    1. How close was your translation?
-    2. How did the Ruach HaQodesh speak to you?
-4. Check your parsing against [this key](){target="_blank"}
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #09 in a new window](){target="_blank"}
+[Open Quest Quiz #9 in a new window](){target="_blank"}
 
-<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
-
-## Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<iframe src="" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/8Y7XdOBkWWo" frameborder="0"></iframe>
+</div>
 
 
 <!--chapter:end:09-Pronominal_Suffixes.Rmd-->
 
 # Hebrew Construct Chain {.ConstructChain}
 
-> In order to comprehend Biblical Hebrew, we must be able to parse words in the construct state.
+> To comprehend Biblical Hebrew, we must be able to identify words in the construct state.
 
+You might be surprised to learn that you are already familiar with at least one Hebrew Construct chain.
 
+<span class="he">בֵּית לֶחֶם</span>, the word you probably know as "Bethlehem", literally means "house of bread" and is a Hebrew construct chain.  The first thing you might notice is that <span class="he">בַּ֫יִת</span>, the word for "house", is spelled a little differently.  The reason for this is that <span class="he">בֵּית</span> is in what we call a "construct" form or state.  
 
-For most English speakers, this may be one of the least-familiar topics in this book.  Even with verbs, we have many of the same aspects of active, passive, or reflexive in English as in Hebrew.  But if you have never heard of a "construct chain" you're not alone.  After some introduction in this lesson, and of course the getting to know each other phase in `Anki`, it will make sense.
+* <span class="he">בַּ֫יִת</span> means "house", and is said to be in "absolute" form
+* <span class="he">בֵּית</span> means "house of", and is said to be in "construct" form
 
-There are a lot of parameters that must be followed in a construct chain.  Keep in mind that we do not need to be able to write the construct state for a noun.  Our primary goal is to recognize it and translate adequately when we read our Bibles.
-
-
-
+In this lesson, we will discuss the parameters of a Hebrew construct chain.  Keep in mind that we do not need to spell the construct state for a given noun.  Our primary goal is to *recognize* it and translate it adequately when we read our Bibles.
 
 ::: {.infobox}
-**Seven Practical Points for Lesson 10**
+**LESSON ITINERARY**
 
-
-1. Meaning of a construct chain
-2. What makes a construct chain 
-3. Review: what makes a word definite 
-4. The Last word sets the definiteness of a chain
-5. How to Recognize a Construct Chain 
-6. Identifying Construct state by Noun Endings
-7. Construct Chain Summary
+1. Describe what is meant by the term "construct chain"
+2. Define a Hebrew construct chain 
+3. Review and identify what makes a word definite 
+4. Determine the definiteness of a chain
+5. Differentiate between absolute state and construct state words
 :::
 
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* The pronominal suffixes (you have them memorized)
+* Define Type 1 vs Type 2 suffixes
+:::
 
 ## First Thoughts {-}
 
-Lesson prayer
+### <span class="he">בְּצֶדֶק כָּל־אִמְרֵי־פִי</span> {-}
 
-> (Proverbs 8:8 NASB) All the utterances of my mouth are in righteousness  
-בְּצֶדֶק כָּל־אִמְרֵי־פִי
+_All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -2589,73 +2622,92 @@ Lesson prayer
     </audio>
 </figure>
 
+<span class="he">כָּל־אִמְרֵי־פִי</span> "all _of_ the utturances _of_ my mouth" is a construct chain.
+
 *****
 
 <div class="figure" style="text-align: center">
-<img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced it rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-66)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced it rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-65)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
-
-## Equipment Check {-}
-
-<img src="images/stopil.png" width="300pt" style="display: block; margin: auto;" />
-
-Before continuing, can you describe the following concepts?
-
-*
 
 
 ## What is a Construct Chain?
 
-You might remember Izzy referencing the construct state in _Hebrew Quest_.  A construct chain consists of at least two nouns linked together.  The very last noun is said to be in the "absolute state".  All words before the absolute noun are said to be in "construct state."
+A construct chain consists of at least two nouns linked together.  
 
-If we had a phrase like "the servant of the son of the king," "king" is the absolute noun, with "servant" and "son" in construct.  The entire phrase would be called a "construct chain."  
+The first important thing to know about a Hebrew construct chain is this:
 
-The point of the chain is to tell us something about the **first* _noun_ in the chain.  In the example above, we learn a little more about the servant.  This is an important point as it might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case.  We are describing the servant, not the King.  BUT, if there were a substantival adjective as the first word, e.g. "wise of heart", the chain is describing "heart" not "wise".  So a chain describes the first NOUN in the chain, not necessarily the first word in the chain.
+> The very last noun in the chain is said to be in the "absolute state".  All words in the chain before the absolute noun are said to be in "construct state."
 
-In English we would add the word "of" after each word in the construct state.  Similarly we could say "the King's son's servant" or "the servant of the King's son."
+* Back to <span class="he">בֵּית לֶחֶם</span>, "house of bread" 
+    * "bread" would be in the absolute state
+    * "house of" is in the construct state
+    * The entire phrase, with one and only one absolute noun and one or more construct nouns, would be called a "construct chain."  
+
+::: {.box .light}
+The purpose of the chain is to describe the **first** _noun_ in the chain.  
+:::
+
+* It might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case.  
+* In <span class="he">בֵּית לֶחֶם</span>, we are describing the house, not the bread  
+* Note that we said the first NOUN in the chain
+    * If there were a substantival adjective as the first word, e.g. "wise of heart", the chain is describing "heart" not "wise".  
+    * A chain describes the first NOUN in the chain, not necessarily the first word in the chain.
+
+In English, we would typically add the word "of" after each word in the construct state.  
+    * We could say "the king's son" or the "son of the king," and both would mean the same thing
+    * Translating a construct word as "of" is a _starting point_ and not a hard-and-fast requirement
 
 Just like we may add `'s`, Hebrew has different spelling for nouns in construct.  The absolute noun is the "normal" spelling and meaning.
 
+
 ## What makes a construct chain
 
-What makes a Hebrew construct chain different is that noting else comes between the words of the chain.  In English we could add in an adjective like "the servant of the _wicked_ son of the king," in Hebrew, any adjectives must come after the whole chain.
+What makes a Hebrew construct chain different is that nothing else comes between the words of the chain.  
 
-We then would need to go back and figure out which word the adjective modifies by matching the gender and number.  This creates some potential ambiguity.  Literally, a Hebrew construct chain followed by an adjective could read "the servant of the son of the king the wicked."  It can be difficult to determine which of the three men is the wicked one.
-
-It gets a little easier when the nouns in the construct chain are of mixed number and/or gender.  For example: "the wife of David the strong the smart, the beautiful", if "strong" and "beautiful" were FS and "smart" were MS, the sentence translation would be clear.
+* In English, we could add an adjective like "the servant of the _wicked_ son of the king."
+* In Hebrew, any adjectives must come after the whole chain.  
+* A literal translation would look like: "servant of son of the king the wicked."
+* To resolve, we would need to go back and determine which word the adjective modifies by matching the gender and number.
+* In the example above, there is ambiguity.  Without more context, it is impossible to determine which of the three men is the wicked one.
+* Translating is more straightforward when the nouns in the construct chain are of a mixed number or gender.
+    * For example: "the wife of David the strong the smart, the beautiful."
+        * If "strong" and "beautiful" were FS then we know they are referring to David's wife.
+        * If "smart" was MS, we know it is referring to David.
+        * The sentence translation would be clear: "The strong and beautiful wife of smart David."
 
 ## Review: what makes a word definite 
 
-Construct Chains have strict rules regarding definiteness, so now would be good time to refresh our list of what makes a noun definite in light of this lesson and Lesson 9.
+Construct Chains have strict rules regarding definiteness, so now would be a good time to refresh our list of what makes a noun definite in light of this lesson and Lesson 9.
 
 A word is definite if it:
 
-* Has the article - הַמֶּלֶךְ
-* Has a pronominal suffix - מַלְכִּי
-* Is a proper noun - דָּוִיד
-* Is in a construct chain where the last, absolute, word is definite - בֶּן הַמֶּלֶךְ = THE son of the king
+* Has the article - <span class="he">הַמֶּלֶךְ</span>
+* Has a pronominal suffix - <span class="he">מַלְכִּי</span>
+* Is a proper noun - <span class="he">דָּוִיד</span>
+* Is in a construct chain where the last, absolute, word is definite - <span class="he">בֶּן הַמֶּלֶךְ</span> = THE son of the king
 
-This brings us to a key concept about construct chains:
+This brings us to a critical concept about construct chains:
 
-> Nouns in construct state NEVER take the article.
+::: {.box .light}
+Nouns in construct state NEVER take the article.
+:::
 
-So what the last bullet point above is saying is even though a noun in construct may not have the definite article, it is considered definite when the last work is definite.  We explain more on the next page.
+Even though a noun in construct may not have the definite article, it is deemed definite when the last word (the absolute noun) is definite.  We explain more on the next page.
 
-## The Last Word sets the definiteness of a chain
+## The Absolute noun establishes the definiteness of a chain
 
 A construct chain is either entirely definite, or entirely indefinite and it is the last, absolute, word that defines whether the chain is definite or indefinite.
 
-* בֵּנ הַמֶּלֶךְ = the son of the king
-* בֶּן מֶלֶךְ = a son of a king
+* <span class="he">בֶּן הַמֶּלֶךְ</span> = the son of the king
+* <span class="he">בֶּן מֶלֶךְ</span> = a son of a king
 
 > A construct chain cannot mix definite and indefinite.
 
 You will never see "a son of the king" or "the son of a king" in a construct chain.  It's only one or the other.
 
-There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains<small>^[<small>While מִ֭שְׁלֵי שְׁלֹמֹ֣ה is a construct chain that means "THE proverbs of Solomon", מִזְמ֗וֹר לְדָ֫וִ֥ד is not a construct chain.  By using an inseparable preposition, this phrase means "A Psalm to David", or we would say "A Psalm of David".</small>]</small>.
-
-
+There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains<small>^[<small><span class="he">מִ֭שְׁלֵי שְׁלֹמֹ֣ה</span> is a construct chain that means "THE proverbs of Solomon."<span class="he">מִזְמ֗וֹר לְדָ֫וִ֥ד</span> means "a psalm of (to) David", but this is not a construct chain.</small>]</small>.
 
 
 ## How to Recognize a Construct Chain
@@ -2664,24 +2716,32 @@ The following are characteristics of nouns in the construct state:
 
 * Never an article
 * Never a pronominal suffix
-* Never a long vowel that isn't a vowel letter (i.e. no Holem, Qamets, or Tsere)
-    * EXCEPT an accented long vowel in the penult<small>^[<small>That is the next to last syllable position.</small>]</small> - סֵ֫פֶר
+* Never a unaccented long vowel unless it is a vowel letter 
+    * We will see Tsere-yod and Holem-Vav
+    * We will not see Holem, Qamets, or Tsere
+    * We will see _accented_ long vowels in the penult<small>^[<small>That is the next to last syllable position.</small>]</small> - <span class="he">סֵ֫פֶר</span>
 * No diphthong (will see Tsere+Yod or Holem-Vav)
 * May have a reduced vowel in the penult
 * Noun endings may change (next page)
 * Two nouns connected by maqqef is a construct chain
-    * כְּבוֹד־יְהוָה = The glory of the LORD
-    
-> Long vowel, not a vowel letter = absolute
+    * <span class="he">כְּבוֹד־יְהוָה</span> = The glory of the LORD
+
+A good rule:
+
+::: {.box .light}
+Long vowel, not accented, not a vowel letter = absolute
+:::
 
 ## Identifying Construct state by Noun Endings
 
-Nouns in construct often sometimes change endings.  The table below shows the Absolute ending and then the difference in the Construct form. 
+Nouns in construct often sometimes (but will not always) change endings.  The table below shows the Absolute ending and then the difference in the Construct form. 
 
 <img src="images/10_construct_endings.png" width="300pt" style="display: block; margin: auto;" />
 Other nouns may not change endings but will exhibit a loss of long vowels as discussed in the previous section.
 
-Note that Tsere+Yod is diagnostic of Plural and Dual forms.
+::: {.box .light}
+Word-final Tsere+Yod is diagnostic of Plural and Dual construct forms
+:::
 
 
 ## Construct Chain Summary
@@ -2695,32 +2755,41 @@ Note that Tsere+Yod is diagnostic of Plural and Dual forms.
     * No diphthong
     * Review ending changes chart
         * Tsere+yod is a very common ending for a masculine plural construct noun
-    * A reduced vowel in the penult is usually construct - נְבִיא
-    * Noun with Maqqef is construct - בֶּן־
+    * A reduced vowel in the penult is usually construct - <span class="he">נְבִיא</span>
+    * Noun with Maqqef is construct - <span class="he">בֶּן־</span>
 
 There are four extremely common constructs in the Bible so we must be able to recognize them.  These will be reviewed in `Anki`.
 
-כָּל־ - all of
-אֲבִי־ = father of
-אֲחִי־ = brother of
-אֵ֫שֶׁת־ = wife of
+* <span class="he">כָּל־</span> - all of
+* <span class="he">אֲבִי־</span> = father of
+* <span class="he">אֲחִי־</span> = brother of
+* <span class="he">אֵ֫שֶׁת־</span> = wife of
 
 ## `Word Warm-up` {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/1bvZ74a1SYU){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/1bvZ74a1SYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/1bvZ74a1SYU" frameborder="0"></iframe>
+</div>
+
+
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/1JWesFEa2_c){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/1JWesFEa2_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/1JWesFEa2_c" frameborder="0"></iframe>
+</div>
+
 
 ## `Anki` {-}
 
 * `Lesson 10 A. Vocab`
-* `Lesson 10 B. Grammar` 
+* `Lesson 10 B. Grammar`  
 * `Lesson 10 C. Workbook`
 * `Lesson 10 D. Verses`
 
@@ -2739,41 +2808,38 @@ This next attachment is not really a worksheet but is a summary of common constr
 
 ### Your Quest: {-}
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+Find at least five construct chains, including at least two joined with maqqef (Yellow)
+
+Note the prevalence of the Tsere-Yod as mentioned in 10.6.
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #10](){target="_blank"}
+* [Ruth Pursuit Answer Key #10](./images/10_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #10 in a new window](){target="_blank"}
+[Open Quest Quiz #10 in a new window](https://forms.gle/ST6XfCvKRXHRfxfVA){target="_blank"}
 
-<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://forms.gle/ST6XfCvKRXHRfxfVA" frameborder="0"></iframe>
+</div>
 
 
 <!--chapter:end:10-ConstructChain.Rmd-->
 
-# Numerals/counting
+# Hebrew Numerals
 
-> In order to comprehend Biblical Hebrew, we must be able to figure out numbers, with or without a dictionary, when we encounter them in the Bible
+> To comprehend Biblical Hebrew, we must be able to figure out numbers, with or without a dictionary, when we encounter them in the Bible
 
 
-You have worked very hard on the first 10 lessons!  Way to go!  While a discussion on numbers and counting is often interweaved in a discussion with the Aleph-Bet, the authors of <u>Basics of Biblical Hebrew</u>, wisely in our opinion, strategically placed a necessary but lighter discussion on numerals right here in Lesson 11.  We are emerging from what may be a lot of foggy concepts with all of the noun, pronoun, and adjective concepts in lessons 4-10 (particularly Lessons 8-10).  The bulk of the work in this Lesson will be in `Anki` learning numbers from _Hebrew Quest_.
+You have worked very hard on the first ten lessons!  Way to go!  While a discussion on numbers and counting is often interweaved in a discussion with the Aleph-Bet, the authors of <u>Basics of Biblical Hebrew</u>, wisely in our opinion, strategically placed a necessary but lighter discussion on numerals right here in Lesson 11.  We are emerging from what may be a lot of foggy concepts with all of the noun, pronoun, and adjective concepts in lessons 4-10 (particularly Lessons 8-10).  The bulk of the work in Lesson 11 will be in `Anki` learning numbers from _Hebrew Quest_.
 
-For the next 25 lessons we will be exclusively focused on the Hebrew verbal system and -- the entire point of this course -- reading and understanding Scripture.
+For the next 25 lessons, we will focus on the Hebrew verbal system and -- the entire point of this course -- reading and understanding Scripture.
 
 Enjoy this brief lesson on numbers!
 
-::: {.infobox}
-**Seven Practical Points for Lesson 11**
-
+::: {.infobox .map}
+**LESSON ITINERARY** 
 
 1. The Biblical text always spells out numbers
 2. Notes and footnotes use symbols for numbers
@@ -2784,6 +2850,13 @@ Enjoy this brief lesson on numbers!
 7. Learn the Cardinal Numbers Above 10
 :::
 
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* The difference between construct and absolute states
+:::
 
 ## First Thought {-}
 
@@ -2806,120 +2879,151 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-69)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-67)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
-## Equipment Check {-}
 
-<img src="images/stopil.png" width="300pt" style="display: block; margin: auto;" />
-
-Before continuing, can you describe the following concepts?
-
-*
 
 
 ## The Biblical text always spells out numbers
 
-This is point number 1.  There is not a lot of elaboration needed except to note that this is the case.  You will not see "1", "200", or "969", either in modern symbols or in Rabbinic symbols (using the Aleph-bet) in the Hebrew text.
+There is not a lot of elaboration needed except to note that this is the case.  You will not see "1", "200", or "969", either in modern symbols or in Rabbinic symbols (using the Aleph-bet) in the Hebrew text.  
+
+<span class="he">כָּל־יְמֵי מְתוּשֶׁלַח **תֵּשַׁע וְשִׁשִּׁים שָׁנָה וּתְשַׁע**</span>
+
+"all the days of Methuselah (were) **nine and sixty years (i.e 960) and nine (i.e. 969)**."
 
 ## Notes and footnotes use symbols for numbers
 
-You may come across a system of counting that uses numerical values for each of the Hebrew letters.  This is interesting and the Rabbis have a lot of fun with comparing words that have identical numerical values.
+You may come across a system of counting that uses numerical values for each of the Hebrew letters.  The term for this is "gemetria".  Gemetria is interesting and the Rabbis have a lot of fun with comparing words that have identical numerical values, but it won't be a focus of this course.
 
 * א ב ג ד ה ו ז ח ת represent 1-9
 * י כ ל מ נ ס ע פ צ represent 10-90 by tens
     * So to say 33, would be 30 and 3 = לג or often ל״ג, with the ״ indicating that this is not a real word
 * ק ר ש ת are 100, 200, 300, and 400, then we go to the sofit forms ך ם ן ף ץ for 500-900
-* In some reckonings, a series of dots or diamonds above the letters, or ’ is used for numbers above 999.  For example 1000 is ’א
+* In some reckonings, a series of dots or diamonds above the letters, or ’ is used for numbers above 999.  For example, 1000 is ’א
 
+Below is Genesis 1:1.
 
-## Be Familiar with Hebrew Ordinal Numbers - First through Tenth
+* בראשית פרק א
+means "Genesis Chapter 1"
+* Next, note the diminished א indicating "1" for the first verse
 
-Ordinal numbers denote order.  first, second, third
+<img src="images/11.gen0101.png" width="600pt" style="display: block; margin: auto;" />
 
-In Hebrew, these are attributive adjectives, so they follow the noun and match in gender, number and definiteness (Attributive Always After, Always Agree).
+## Hebrew Ordinal Numbers
 
-* יוֹם רִאשׁוֹן or הַיּוֹם הָרִאשׁוֹן = first day or the first day
-
-To denote the 11th position or higher, we would use cardinal numbers
-
-* בִּשְׁנַת הָאַרְבָּעִים  = in the year of the forty = in the 40th year
+* Ordinal numbers denote order.  first, second, third
+* In Hebrew, these are attributive adjectives.  As such, they follow the noun and match in gender, number and definiteness (Attributive Always After, Always Agree).
+    * <span class="he">יוֹם רִאשׁוֹן</span> or <span class="he">הַיּוֹם הָרִאשׁוֹן</span> = first day or the first day
+* Ordinal numbers end in Hireq-Yod (M) or Hireq-Yod_Tav (F)
+    *  <span class="he">שְׁלִישִׁי</span> and <span class="he">שְׁלִישִׁית</span> mean 'third'
+* To denote the 11th position or higher, we would use cardinal numbers
+    * We are dependent on the context of the passage to indicate whether the number is cardinal or ordinal
+    * <span class="he">בִּשְׁנַת הָאַרְבָּעִים</span>  = in the year of the forty = in the 40th year
 
 We encourage you to learn the "days of the week" song with Izzy in the video below.
 
-https://youtu.be/MlfwNNuWgto?t=2545
-
 ### Hebrew Quest Ordinal Numbers Video {-}
 
-[Open video in new window](https://www.youtube.com/embed/MlfwNNuWgto?t=2542){target="_blank"}
-
-<iframe width="768" height="432" src="https://www.youtube.com/embed/MlfwNNuWgto?t=2542" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Open video in new window](https://www.youtube.com/embed/MlfwNNuWgto?t=2545){target="_blank"}
 
 
-## Hebrew Cardinal Numbers
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/MlfwNNuWgto?t=2545" frameborder="0"></iframe>
+</div>
 
-* One is an attributive adjective - it follows its noun and agrees in gender, number and definiteness
+## Cardinal Numbers 1-10
+
+* The numeral one is an attributive adjective - it follows its noun and agrees in gender, number, and definiteness
     * As we mentioned previously, it is sometimes used as an indefinite article
-    * אִישׁ אֵחָד = one man = a man
+    * <span class="he">אִישׁ אֵחָד</span> = one man = a man
 * Two through Ten are nouns
     * They have both masculine and feminine forms
     * They have absolute and construct forms
 * Higher numbers are nouns with no specific gender
 
 
-## Digits 1 and 2 match the gender of the noun
+### Digits 1 and 2 match the gender of the noun {-}
 
 For example:
 
-* בֵּן אֶחָד = one son
-* בַּת אַחַת = one daughter
+* <span class="he">בֵּן אֶחָד</span> = one son
+* <span class="he">בַּת אַחַת</span> = one daughter
 
-## Digits 3-10 take the opposite gender of the noun
+### Digits 3-10 take the opposite gender of the noun {-}
 
-Additionally they are "singular" even though the noun is plural.  This makes sense when you think that the plural form of 3 is actually the word for 30 (see next section).
+Additionally, they are "singular" even though the noun is plural.  
 
 For example:
 
-* שְׁלֹשָׁה בָּנִים = three sons
-* שְׁלֹשׁ בָּנוֹת = three daughters
+* <span class="he">שְׁלֹשָׁה בָּנִים</span> = three sons
+* <span class="he">שְׁלֹשׁ בָּנוֹת</span> = three daughters
 
 The technical term for this is "chiastic concord" (you don't need to know this)
 
-## Learn the Cardinal Numbers Above 10
+## Cardinal Numbers Above 10
 
 * 11-19
     * 11-12 match gender, 13-19 swap
-        * 11 אַחַד אָשָֹר
-        * 13 שְׁלֹשָׁה אָשָֹר
-* Decades are spelled as masculine plural of the unit
-    * 3 = שָׁלֹשׁ  
-    * 30 = שְׁלֹשִׁים
-        
+        * 11 <span class="he">אַחַד אָשָֹר</span>
+        * 13 <span class="he">שְׁלֹשָׁה אָשָֹר</span>
+* Decades 30 through 90 are spelled as masculine plural of the corresponding 3-9 number
+    * 3 = <span class="he">שָׁלֹשׁ</span>  
+    * 30 = <span class="he">שְׁלֹשִׁים</span>
+* 20 is a bit unusual
+    * The word for two is <span class="he">שְׁנַיִם</span> (male) and <span class="he">שְׁתַּיִם</span> (female)
+    * Since these words already have a non-singular ending, Hebrew uses the masculine plural of ten
+    * <span class="he">עֶשֶׂר<span> is 10
+    * <span class="he">עֶשְׂרִים<span> is 20
+* 100 is <span class="he">מֵאָה</span>
+* 200 is <span class="he">מָאתַיִם</span>, the plural of 100
+* 300 is <span class="he">שְׁלֹשׁ מֵאוֹת</span> ("three one hundred" and so forth up to 1000)
+    
 ## Conclusion
 
-This chapter omits many details about numbers and counting.  Our aim was to provide an introduction so that when you encounter numbers in the Bible, you will have some basic familiarity.
+This chapter omits many details about numbers and counting.  We aimed to provide an introduction so that you will have basic familiarity when you encounter numbers in the Bible.
 
 If you are interested in going a little deeper, we encourage you to view the complete [Hebrew Quest segment on numerals](https://holylanguage.com/grammar-1.php){target="_blank"}. 
 
-For Hebrew GRAMMAR quest it is sufficient for you to learn the Ordinals (first through 10th - for 1-7 we will learn Izzy's days of the week song) and the Cardinals 1-10, then 20-100 by 10s, and 1000.
+For Hebrew GRAMMAR Quest, it is sufficient for you to learn the Ordinals 1-10, and the Cardinals 1-10, then 20-100 by 10s, and 1000.
+
+There is no quiz and no Anki Workbook for this lesson. 
+
+You are at an exciting point in the course.  Next week we get into Hebrew Verbs, where your understanding of Hebrew Scripture will start to move into high gear!
+
+
+### Anki {-}
+* `Lesson 11 A. Vocab` 
+    * The vocab work will be a little bit longer than in a usual lesson.  
+        * We will have the normal set of words from <u>Basics of Biblical Hebrew</u>
+        * We will also incorporate the numerals cards from <u>Hebrew Quest</u>
+* `Lesson 11 B. Grammar` 
+* `Lesson 11 C. Study Verses` - Note: there is no `Workbook` component to this lesson.
 
 ## `Word Warm-up` {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/3OuD2Snu-Uk){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/3OuD2Snu-Uk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/3OuD2Snu-Uk" frameborder="0"></iframe>
+</div>
+
 
 ## `Verses Warm-up` {-}
 
+### WAITING ON IZZY
+
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
 
-## `Anki` {-}
 
-* `Lesson 11 A.Vocab` 
-* `Lesson 11 B.Grammar` 
-* `Lesson 11 C.Verses` - Note: there is no `Workbook` component to this lesson.
+
+
+
 
 ## `Ruth Pursuit` {-}        
 
@@ -2931,14 +3035,6 @@ For Hebrew GRAMMAR quest it is sufficient for you to learn the Ordinals (first t
 
 * [Ruth Pursuit Answer Key #11](./images/11_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-
-## Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<iframe src="" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
 
 <!--chapter:end:11-Numerals.Rmd-->
@@ -3077,7 +3173,7 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 <div class="figure" style="text-align: center">
 <img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-71)Strength and Endurance</p>
+<p class="caption">(\#fig:unnamed-chunk-69)Strength and Endurance</p>
 </div>
 
 
@@ -3088,7 +3184,7 @@ If one wants to build strength, she might use the weight machine.  If one wants 
 
 <div class="figure" style="text-align: center">
 <img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-72)Anki Home Screen</p>
+<p class="caption">(\#fig:unnamed-chunk-70)Anki Home Screen</p>
 </div>
 
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
@@ -3142,7 +3238,7 @@ Thus, it is not just a flashcard program but is a tremendous strength and endura
 Your settings should look like this:
 <div class="figure" style="text-align: center">
 <img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-73)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-71)Settings</p>
 </div>
 
 [Return to Quick Start page](#get_started)
@@ -3169,7 +3265,7 @@ Here are the steps:
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-74)Anki web and mobile views</p>
+<p class="caption">(\#fig:unnamed-chunk-72)Anki web and mobile views</p>
 </div>
 
 ## How do I navigate within Anki? {-}
@@ -3177,14 +3273,14 @@ Here are the steps:
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
 <div class="figure" style="text-align: center">
 <img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-75)Anki - subdecks collapsed</p>
+<p class="caption">(\#fig:unnamed-chunk-73)Anki - subdecks collapsed</p>
 </div>
     * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
 * Many cards have "hints" - click on the `hint` button to reveal
     * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
     <div class="figure" style="text-align: center">
     <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-76)Revealing a hint in Anki</p>
+    <p class="caption">(\#fig:unnamed-chunk-74)Revealing a hint in Anki</p>
     </div>
 * For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
@@ -3195,7 +3291,7 @@ We suggest using the following guidelines to select the most appropriate answer.
 
 <div class="figure" style="text-align: center">
 <img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-77)Anki Response Definitions</p>
+<p class="caption">(\#fig:unnamed-chunk-75)Anki Response Definitions</p>
 </div>
 
 * There is no “value judgment” to hitting `Again` – you will learn on your timeline
@@ -3240,7 +3336,7 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 
 <div class="figure" style="text-align: center">
 <img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-78)Keep your daily Anki streak going!</p>
+<p class="caption">(\#fig:unnamed-chunk-76)Keep your daily Anki streak going!</p>
 </div>
 
 ## How do I know when I'm done with a deck? {-}
@@ -3254,7 +3350,7 @@ So while this could be an indefinite process, we do have some guidelines as they
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-79)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-77)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 See the next two pages for more information on how to locate your statistics.
@@ -3274,7 +3370,7 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-80)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-78)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 
@@ -3293,13 +3389,13 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
     * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
 <div class="figure" style="text-align: center">
 <img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-81)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-79)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
     * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
     
 <div class="figure" style="text-align: center">
 <img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-80)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 <!-- Please see [`Graduation` process page]() for additional information -->
 
@@ -3325,7 +3421,7 @@ There are a few different terms Anki uses for different stages of card maturity:
     * To add an image simply copy and paste into the image field
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-83)Adding a custom image in Anki</p>
+<p class="caption">(\#fig:unnamed-chunk-81)Adding a custom image in Anki</p>
 </div>
 
 ## Can I modify the layout of a card? {-}
@@ -3360,7 +3456,7 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-84)With `Custom Study` you can temporarily increase your daily new cards</p>
+<p class="caption">(\#fig:unnamed-chunk-82)With `Custom Study` you can temporarily increase your daily new cards</p>
 </div>
 
 
@@ -3569,7 +3665,7 @@ Finally, we thank YOU for your interest in this course!
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-85)Chris Flanagan</p>
 </div>
 
 
@@ -3599,11 +3695,12 @@ If you received this book and you are not a member of Holy Language Institute, [
 
 # LessonTitle {#lessontitle}
 
-> In order to comprehend Biblical Hebrew, we must be able to . . . 
+> To comprehend Biblical Hebrew, we must be able to . . . 
 
 Say something general bridging the desired outcome above with the learning objectives below
 
-<u>**Seven Practical Points for Lesson xx**</u>
+::: {.box .map}
+**LESSON ITINERARY**
 
 1. learning_objective_1
 1. learning_objective_2
@@ -3612,19 +3709,52 @@ Say something general bridging the desired outcome above with the learning objec
 1. learning_objective_5
 1. learning_objective_6
 1. learning_objective_7
+:::
 
-## `Lesson Prayer` {-}
+::: {.box .stop}
+**EQUIPMENT CHECK**
 
-Lesson prayer
+Before continuing, can you describe the following concepts?
 
-> scripture quotation
+* 
+*
+:::
+
+## First Thought {-}
+
+### <span class="he"> </span> {-}
+
+*verse (reference 1:1)*
+
+-brief meditation-
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+*****
+
+<div class="figure" style="text-align: center">
+<img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-86)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
 
 ---
 
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-87)Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Equipment Check {-}
@@ -3669,13 +3799,19 @@ Before continuing, can you describe the following concepts?
 
 [Click to open `Word Warm-up` video in a new tab](){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
 
 ## `Anki` {-}
 
@@ -3703,7 +3839,9 @@ Before continuing, can you describe the following concepts?
 7. instruction7 (Blue)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
 
 ## `Hebrew Quest Study Passage`: Book Chapter# {-}
 
@@ -3717,14 +3855,17 @@ Before continuing, can you describe the following concepts?
     2. How did the Ruach HaQodesh speak to you?
 4. Check your parsing against [this key](){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
 
 ## `Quest Quiz` {-}
 
 [Open Quest Quiz #xx in a new window](){target="_blank"}
 
-<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
@@ -3732,7 +3873,9 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 [Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
 
-<iframe src="" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 
 
 <!--chapter:end:99-zChapter_Template.Rmd-->
