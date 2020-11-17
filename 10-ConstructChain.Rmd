@@ -30,7 +30,7 @@ Before continuing, can you describe the following concepts?
 * Define Type 1 vs Type 2 suffixes
 :::
 
-## First Thoughts {-}
+## First Thought {-}
 
 ### <span class="he">בְּצֶדֶק כָּל־אִמְרֵי־פִי</span> {-}
 
