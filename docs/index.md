@@ -2245,13 +2245,20 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/8GIYqACoOcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/8GIYqACoOcQ" frameborder="0"></iframe>
+</div>
+
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/XXn6G8EWmn0){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/XXn6G8EWmn0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/XXn6G8EWmn0" frameborder="0"></iframe>
+</div>
+
+
 
 ## `Anki` {-}
 
@@ -2294,6 +2301,7 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 <div class="container">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSd4cI1lk3APqQvyt8FT7muC_i3dR-wwiD6zgIdKwJCiXbgMuQ/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
 
 <!--chapter:end:08-Pronouns.Rmd-->
 
