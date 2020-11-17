@@ -31,11 +31,9 @@ Before continuing, can you describe the following concepts?
 ## First Thought {-}
 
 
-<<<<<<< HEAD
+
 ### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ </span> {-}
-=======
-### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ </span>
->>>>>>> f38139bfd4aa038e56ea38fbdf1b820caa493f7f
+
 *This man heavily questioned us and our kindred. (Genesis 43:7)*
 
 In addition to offering up our petitions, let us be sure to listen for God's questions.  What is He asking you (or asking of you) today?  Take a moment.

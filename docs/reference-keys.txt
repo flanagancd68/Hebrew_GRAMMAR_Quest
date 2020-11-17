@@ -92,7 +92,6 @@ near-and-far-demonstratives
 demonstrative-adjective
 demonstrative-pronoun
 hebrew-pronominal-suffixes
-וַיֹּאמְרוּ-שָׁאוֹל-שָׁאַלהָאִישׁ-לָנוּ-וּלְמוֹלַדְתֵּנוּ
 meaning
 type-1-vs-type-2-suffixes
 singular-suffixes
