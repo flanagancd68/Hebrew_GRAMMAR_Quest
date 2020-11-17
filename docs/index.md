@@ -2283,10 +2283,11 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #8 in a new window](){target="_blank"}
+[Open Quest Quiz #8 in a new window](https://forms.gle/Ew13bcUBZM8T7ck86){target="_blank"}
 
-<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
-
+<div class="container">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSd4cI1lk3APqQvyt8FT7muC_i3dR-wwiD6zgIdKwJCiXbgMuQ/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 <!--chapter:end:08-Pronouns.Rmd-->
 
@@ -2363,7 +2364,7 @@ Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 
 Pronominal suffixes have *gender*, *number*, and *person*.
 
 ::: {.box .info}
-* Whereas independent personal pronouns were always "subject" pronouns (e.g., I, she, he, it and they), pronominal suffixes are always "object" pronouns (e.g., me, my, her, him, them, theirs).
+* Whereas independent personal pronouns were always "subject" pronouns (e.g., I, she, he, it and they), pronominal suffixes are always "object" or "possessive" pronouns (e.g., me, my, her, him, them, theirs).
 * "You" can be an ambiguous term in English, not only with number and gender but also, "you" can be either a subject or object.  Hebrew has distinct ways of saying 2MS, 2FS, 2MP, and 2FP, as well as different forms for subject and object.
 :::
 
@@ -2371,7 +2372,7 @@ Pronominal suffixes have *gender*, *number*, and *person*.
 
 Pronominal suffixes are further divided into two types.  
 
-* **Type 1** suffixes go on **SINGULAR** nouns
+* **Type 1** suffixes go on **SINGULAR** nouns<small>^[<small>As with most grammar rules, there are exceptions. For now, stick with these definitions of Type 1 and Type 2.</small>]</small>
     * Keep in mind there are both plural and singular Type 1 suffixes for use on singular nouns
     * Multiple people can have ownership of a single object
     * In English we would say "his house" and "their house"
@@ -2412,7 +2413,7 @@ Type 2 **always** contains vowel + yod, but **not** hiriq + yod
 Type 1 **never** contains yod, *unless* it's hiriq+yod
 :::
 
-This simple rule, plus the tips on the previous page about patterns in gender and number, should make it easier to identify the pronominal suffix.
+This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
 
 When you encounter a word with a suffix, always start by asking "is there a vowel + yod, that is not hiriq + yod?"
 
@@ -2433,7 +2434,7 @@ Part of learning to read Biblical Hebrew is assembling a set of skills that make
 
 Here is Dr. Beckman's example of the four steps using five example words with Type 1 suffixes.  Note that words do not always need all four steps.
 
-<img src="images/09.lex_type1_tbl.png" width="400pt" style="display: block; margin: auto;" />
+<img src="images/09.lex_type2_tbl.png" width="400pt" style="display: block; margin: auto;" />
 
 ## Lexical Form with Type 2
 
@@ -2468,30 +2469,27 @@ The rule still applies:
 
 > Type 2 **always** begins with vowel + yod, but **not** hiriq + yod
 
-## Look-alike words
-
-### <span class="he">אֵת</span> {-}
+## Look-alike words: <span class="he">אֵת</span> as "with" or as Definite Direct Object (DDO) marker
 
 * As we learned previously, <span class="he">אֵת</span> can mean either the DDO or the preposition "with".  They are spelled the same way and either form can take a pronominal suffix.
-* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is ALWAYS the DDO, with the suffix indicating the actual direct object
-    * the <span class="he">א</span> will be vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
+* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DDO, when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
     * 3MS: <span class="he">אֹתוֹ</span>
     * 2FP: <span class="he">אֶתְכֶן</span>
-* When then author intends to communicate the preposition with, as in "with him", the א will take a hireq in all forms
+* When then author intends to communicate the preposition with, as in "with him", the א will take a Hireq in all forms
     * With me (1CS): <span class="he">אִתִּי</span>
     * With them (3FP): <span class="he">אִתָּן</span>
 
-###  <span class="he">עִם</span> with or <span class="he">עַם</span> people {-}
+## Look-alike words:   <span class="he">עִם</span>, "with", or <span class="he">עַם</span>, "people" 
 
 These two words frequently take pronouns.  It could be easy to get them confused.  The trick is to pay close attention to the vowel under the ע.
 
-* <span class="he">עִם</span> , with, will always have a Hireq, whereas <span class="he">עַם</span>, people, will always have a Patach
+* <span class="he">עִם</span> , with, will always have Ayin+Hireq, whereas <span class="he">עַם</span>, people, will always have Ayin+Patach
     * With Me (1CS): <span class="he">עִמִּי</span>
     * My People (1CS): <span class="he">עַמִּי</span>
     * With them (3MP):  <span class="he">עִמָּם</span>
     * Their people (3MP):  <span class="he">עַמָּם</span>
 
-### <span class="he">אֵל</span>, God, or <span class="he">אֶל</span>, to {-}
+## Look-alike words: <span class="he">אֵל</span>, "God", or <span class="he">אֶל</span>, "to"
 
 This one is _slightly_ easier.  
 
@@ -2553,16 +2551,15 @@ After you have done your Anki work, we have an additional worksheet to help you 
 
 ### Your Quest: {-}
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+1. Identify Type 1 suffixes in Ruth 1:1-5 (Yellow)
+2. Identify Type 2 suffixes in Ruth 1:1-5 (Green)
+
+Refer to the chart in 9.5 as needed. 
+
+
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #09](){target="_blank"}
+* [Ruth Pursuit Answer Key #09](./images/09_Ruth_Pursuit_KEY.pdf){target="_blank"}<small>^[<small>Note: Many English Bibles contain a footnote at Ruth 1:20 that Naomi means "pleasant"; however, the precise etymology of Naomi's name is unclear.  While her name appears to have a Type 1 1CS suffix, since it is a proper name, we are not including it in our answer key.</small>]</small>
 
 
 ## `Quest Quiz` {-}
@@ -2570,7 +2567,7 @@ After you have done your Anki work, we have an additional worksheet to help you 
 [Open Quest Quiz #9 in a new window](){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/8Y7XdOBkWWo" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
 
 
@@ -2589,7 +2586,7 @@ You might be surprised to learn that you are already familiar with at least one 
 
 In this lesson, we will discuss the parameters of a Hebrew construct chain.  Keep in mind that we do not need to spell the construct state for a given noun.  Our primary goal is to *recognize* it and translate it adequately when we read our Bibles.
 
-::: {.infobox}
+::: {.infobox .map}
 **LESSON ITINERARY**
 
 1. Describe what is meant by the term "construct chain"

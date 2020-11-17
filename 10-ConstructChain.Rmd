@@ -11,7 +11,7 @@ You might be surprised to learn that you are already familiar with at least one 
 
 In this lesson, we will discuss the parameters of a Hebrew construct chain.  Keep in mind that we do not need to spell the construct state for a given noun.  Our primary goal is to *recognize* it and translate it adequately when we read our Bibles.
 
-::: {.infobox}
+::: {.infobox .map}
 **LESSON ITINERARY**
 
 1. Describe what is meant by the term "construct chain"

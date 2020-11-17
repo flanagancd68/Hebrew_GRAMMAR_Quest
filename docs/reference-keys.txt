@@ -100,7 +100,9 @@ distinguish-type-1-from-type-2
 lexical-form-with-type-1
 lexical-form-with-type-2
 unexpected-changes
-look-alike-words
+look-alike-words-אֵת-as-with-or-as-definite-direct-object-ddo-marker
+look-alike-words-עִם-with-or-עַם-people
+look-alike-words-אֵל-god-or-אֶל-to
 hebrew-construct-chain
 what-is-a-construct-chain
 what-makes-a-construct-chain
