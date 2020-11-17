@@ -31,7 +31,7 @@ Before continuing, can you describe the following concepts?
 ## First Thought {-}
 
 
-### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנו </span> {-}
+### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ </span>
 *This man heavily questioned us and our kindred. (Genesis 43:7)*
 
 In addition to offering up our petitions, let us be sure to listen for God's questions.  What is He asking you (or asking of you) today?  Take a moment.
@@ -77,11 +77,11 @@ Pronominal suffixes have *gender*, *number*, and *person*.
 
 Pronominal suffixes are further divided into two types.  
 
-* There is a set of suffixes that is used on singular nouns, which we call **Type 1** suffixes
+* **Type 1** suffixes go on **SINGULAR** nouns
     * Keep in mind there are both plural and singular Type 1 suffixes for use on singular nouns
     * Multiple people can have ownership of a single object
     * In English we would say "his house" and "their house"
-* There is a second set for use on plural nouns called **Type 2**
+* **Type 2** suffixes go on **PLURAL** nouns
     * Similar to above, there are both singular and plural type 2 suffixes for use on plural nouns
     * "his houses" as well as "their houses"
 * Type on a preposition means nothing in terms of translation; each preposition will only take one class or the other
@@ -115,7 +115,7 @@ knitr::include_graphics("images/09.ps_plrl_tbl.png")
 * 2MP/3MP has מָה or ם ('monks')
 * 2FP/3FP has נָה or ן ('nuns')
 
-## Tell Type 1 apart from Type 2
+## Distinguish Type 1 from Type 2
 
 Look at the chart below with the two types side-by-side.
 
@@ -137,7 +137,7 @@ knitr::include_graphics("images/09.ps_both_tbl.png")
 
 ## Lexical Form with Type 1
 
-Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamiliar to you than a preposition so we'll focus on that.  Below is a procedure you may follow that should help with this.  Type 1 is on this page and the steps for Type 2 are on the next page.
+Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamiliar to you than a preposition so we'll focus on that.  Below is a procedure you may follow that should help with this.  The steps for a Type 1 suffix are on this page and the steps for Type 2 are on the next page.
 
 1. Remove the pronominal suffix
 2. Remembering that type one suffixes can *only* go with SINGULAR nouns, the next step is to fix the singular ending as needed
@@ -146,7 +146,7 @@ Part of learning to read Biblical Hebrew is assembling a set of skills that make
 3. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
 4. Change other vowels as needed according to the vowel preference table we studied several lessons ago.
 
-Here is Dr. Beckman's example of the four steps.  Note that words do not always need all four steps.
+Here is Dr. Beckman's example of the four steps using five example words with Type 1 suffixes.  Note that words do not always need all four steps.
 
 ```{r, out.width = "400pt", fig.align='center'}
 library(knitr)
