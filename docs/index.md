@@ -1388,9 +1388,8 @@ As we say often, our focus with Hebrew GRAMMAR Quest is not on writing Biblical 
 It is unlikely you will ever need to write the article or the conjunction with the correct vowel. We discuss these spelling details, as well as have some Anki work in these areas, because it is important to know how to recognize them in the Bible when you encounter them.
 
 
-::: {.infobox}
+::: {.infobox .map}
 **LESSON ITINERARY**
-
 
 1. Translate the Vav conjunction
 2. Identify the Vav conjunction
@@ -1401,18 +1400,32 @@ It is unlikely you will ever need to write the article or the conjunction with t
 7. Discuss what makes a noun definite
 :::
 
+::: {.infobox .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* Identifying the lexical form of a noun
+* The "rule of Sheva", including what happens in different combinations of two contiguous reduced vowels
+* How vowels can shift when the number of syllables changes
+* The masculine and feminine plural endings
+
+:::
+
 ## First Thought {-}
+
+### <span class="he">מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם</span> {-}
+
+_Who has measured the waters in the hollow of His hand, And marked off the heavens'  (Isaiah 40:12)_
 
 Give thanks to the Creator for the beauty and precision of His creation
 
-> (Isaiah 40:12 NASB)'Who has measured the waters in the hollow of His hand, And marked off the heavens'  
-מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/05.isa0412.mp3">
+        src="./images/05.isa4012.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -1425,16 +1438,6 @@ Give thanks to the Creator for the beauty and precision of His creation
 <p class="caption">(\#fig:unnamed-chunk-43)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
-## Equipment Check {-}
-
-<img src="images/stopil.png" width="300pt" style="display: block; margin: auto;" />
-
-Before continuing, can you describe the following concepts?
-
-* Identifying the lexical form of a noun
-* The "rule of Sheva", including what happens in different combinations of two contiguous reduced vowels
-* How vowels can shift when the number of syllables changes
-* The masculine and feminine plural endings
 
 
 ## Translate the Vav Conjunction {#vav_translate}
@@ -1450,34 +1453,37 @@ As you advance in Hebrew, you will enjoy seeing how the authors employ the Vav a
 
 Many times, it makes the most sense in English to leave the Vav untranslated.  For example, suppose you read and translate the story of David and Goliath in 1 Samuel 17.  You would discover that nearly every sentence would begin with "and".  In English, we would consider these "run-on" sentences.  What is exciting about the Hebrew, and this passage in particular, is that the reader can feel the sense of tension and action building in the narrative by the use of the Vav.
 
-
+::: {.box .info}
+* As you are starting out in Hebrew, start your translation of the Vav Conjunction with "And", but be flexible.
+* Another word, such as "but" or "then" might make more sense.
+* Many times for smooth English, we will leave the Vav untranslated.
+:::
 
 ## Identify the Vav Conjunction {#vav_identify}
 
-<img src="images/05.vav_conjunction.png" width="200pt" style="display: block; margin: auto;" />
+<img src="images/05.vav_conjunction.png" width="50pt" style="display: block; margin: auto;" />
 
-* The Vav conjunction is usually וְ prefixed to a word
-* You will see וּ before  במפ - remember "BuMP"- this is the ONLY time a vowel will ever begin a syllable
-    * The ב and פ will lose their Daghesh Lene 
-        * It's בֵּן, (between), but it's וּבֵן (and between)
-    * The conjunction will also be וּ before a consonant that has a Sheva
-* You may see וָ before some accented syllables (remember the Vowel-Syllable preferences)
-* The Rule of Sheva that we studied in Lesson 4 applies when וְ is prefixed to a word beginning with a reduced vowel (Vocal Sheva or Hateph vowel)
+* The Vav conjunction is usually <span class="he">וְ</span> prefixed to a word
+* You will see <span class="he">וּ</span> before  <span class="he">במפ</span> - remember "BuMP"- this is the ONLY time a vowel will ever begin a syllable
+    * The <span class="he">ב</span> and <span class="he">פ</span> will lose their Daghesh Lene 
+        * It's <span class="he">בֵּן</span>, (between), but it's <span class="he">וּבֵן</span> (and between)
+    * The conjunction will also be <span class="he">וּ</span> before a consonant that has a Sheva
+* You may see <span class="he">וָ</span> before some accented syllables (remember the Vowel-Syllable preferences)
+* The Rule of Sheva that we studied in Lesson 4 applies when <span class="he">וְ</span> is prefixed to a word beginning with a reduced vowel (Vocal Sheva or Hateph vowel)
 
-How to tell the difference between the conjunction and words that start with ו?
+How to tell the difference between the conjunction and words that start with <span class="he">ו</span>?
 
 99.99% of the time **any Vav or Shureq as the first letter of a word is the conjunction Vav.**
 
 * Only 10 words start with Vav, and only two occur more than once
-    * וָו means "hook" and  וָוִים means "hooks - occurs 13 times in Exodus 26-38 in reference to the Tabernacle
-    * וַשְׁתִּי - Queen Vashti - occurs only in the book of Esther
-
+    * <span class="he">וָו</span> means "hook" and  <span class="he">וָוִים</span> means "hooks - occurs 13 times in Exodus 26-38 in reference to the Tabernacle
+    * <span class="he">וַשְׁתִּי</span> - Queen Vashti - occurs only in the book of Esther
 
 ## Loss of Daghesh Forte {#loss_daghesh_forte}
 
 We've been referencing the Daghesh Forte in almost every Lesson of this course.  Now we're about to meet it face to face as we discuss the Hebrew Article. 
 
-We like to think of the Daghesh Forte as your friend.  When you see it, it is Hebrew's way of saying "pay attention; something's different."
+We like to think of the Daghesh Forte as your friend.  When you see it, it is Hebrew's way of saying "pay attention; something is different."
 
 As we've discussed, sometimes the Daghesh Forte gets rejected from time to time (everybody say "awwww.")  We've discussed two of those already:
 
@@ -1502,40 +1508,41 @@ If you're expecting a Daghesh Forte and there isn't one, look to see if the next
 See [this handout](./images/05_sqin_em_levy.pdf){target="_blank"} for additional discussion on SQiN eM LeVY consonants.
 
 
-
 ## Translate the Article {#article_translate}
 
 In English, we have two "Indefinite Articles" = "a" or "an", and one "Definite" article = "the".  Hebrew just has one article for definiteness (so we just call it the "Article").
 
 The Article has many translations: "the", "this", "o" (as in "O king"), "his", "her", "my".
 
-הַיּוֹם is literally "the day", however a better translation is "today", or sometimes "this day".
+<span class="he">הַיּוֹם</span> is literally "the day", however a better translation is "today", or sometimes "this day".
 
-It can make an adjective superlative: הַתּוֹב is literally "the good", but can mean "the best".
-
+It can make an adjective superlative: <span class="he">הַתּוֹב</span> is literally "the good", but can mean "the best".
 
 
 ## Identify the Article {#article_identify}
 
-<img src="images/05.def_art.png" width="200pt" style="display: block; margin: auto;" />
+<img src="images/05.def_art.png" width="100pt" style="display: block; margin: auto;" />
 
-The usual form is Hei with a patach and a Daghesh Forte in the next letter.
+The usual form is Hei with a patach and a Daghesh Forte in the next letter.  Hebrew will have a lot of these repetitive sequences.  To keep things as concise as possible, we will just say "Hei+Patach+Daghesh Forte", of course moving from right to left.
 
-As we've been saying, some unusual things can happen when the letter following the ה rejects the Daghesh Forte:
+As we've been saying, some unusual things can happen when the letter following the <span class="he">ה</span> rejects the Daghesh Forte:
 
-* ּ הַ becomes simply הַ (no Daghesh Forte):
+* <span class="he">ּ הַ</span> becomes simply <span class="he">הַ</span> (no Daghesh Forte):
     * Before SQiN eM LeVY with a Sheva
-    * Before a ח or another ה (see הֶ note below)- this is called "Virtual doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
-* Becomes הָ (no daghesh forte and patach lengthens to Qamets):
-    * Before א ע ר or הָ֫ - 
+    * Before a ח or another <span class="he">ה</span> (see הֶ note below)- this is called "Virtual doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
+* Becomes <span class="he">הָ</span> (no daghesh forte and patach lengthens to Qamets):
+    * Before <span class="he">א ע ר or הָ֫ </span>- 
         * This is called "Compensatory Lengthening", and is quite common with these gutturals.  (see note below)
-* Becomes הֶ (no Daghesh Forte and a Seghol instead of a Patach):
-    * Before accented or unaccented חָ, or unaccented הָ or עָ
+* Becomes <span class="he">הֶ</span> (no Daghesh Forte and a Seghol instead of a Patach):
+    * Before accented or unaccented <span class="he">חָ</span>, or unaccented <span class="he">הָ</span> or <span class="he">עָ</span>
 
-Once again, the goal is not to memorize the alternate forms as much as recognize that they exist.  ּ הַ is the one you need to memorize.
+::: {.box .info}
+* The goal is not to memorize the alternate forms as much as recognize that they exist.
+* Hei+Patach+Daghesh Forte is the form you need to memorize
+:::
 
-::: {.infobox}
-COMPENSATORY LENGTHENING
+
+## Compensatory Lengthening
 
 * In Compensatory Lengthening, a short vowel _lengthens_ to become a long vowel to _compensate_ for the loss of a Dagesh Forte (or sometimes a vowel) in the following consonant
     * Patach will lengthen to Qamets
@@ -1543,9 +1550,12 @@ COMPENSATORY LENGTHENING
     * Qibbuts will lengthen to Holem
 * Compensatory Lengthening can occur in ANY letter that precedes a Daghesh Forte-rejecting Guttural or Resh...but it does not _always_ occur
 * Compensatory Lengthening can also occur in a Quiescent Aleph that rejects a Sheva.
+
+::: {.infobox .info}
 * When SQiN eM LeVY consonants reject the Daghesh, there is NEVER compensatory lengthening.
 * Sometimes there is no change to the preceding vowel - this is called "virtual doubling" as discussed above.
-::: 
+:::
+
 
 ## Hebrew Indefiniteness {#indefiniteness}
 
@@ -1553,13 +1563,13 @@ Hebrew (and Greek) lacks an indefinite article.
 
 A word without the Article is indefinite.
 
-Occasionally you will see "one" - אַחַת אֶהַר to indicate indefiniteness
+Occasionally you will see "one" - <span class="he">אַחַת אֶהַר</span> to indicate indefiniteness
 
 ## Hebrew Definiteness {#definiteness}
 
 The Article is not the only way Hebrew indicates definiteness
 
-An individual's name and most proper nouns are definite by definition.  דָּוִד is definite.  You will never see: הַדָּוִד . On the other hand names of people groups and some geographic features often take the article. הַיַּרְדֵּנ = the Jordan River.
+An individual's name and most proper nouns are definite by definition.  <span class="he">דָּוִד</span> is definite.  You will never see: <span class="he">*הַדָּוִד</span> . On the other hand names of people groups and some geographic features often take the article. <span class="he">הַיַּרְדֵּן</span>= the Jordan River.
 
 A word with a pronominal suffix is definite, since the suffix indicates possession, and possession is definite. See Lesson 9.
 
@@ -1582,18 +1592,22 @@ Keep with it; you're doing great!
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/fYwaA5f-XGc){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/fYwaA5f-XGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/fYwaA5f-XGc" frameborder="0"></iframe>
+</div>
 
 ## `Verses Warm-up` {-}
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Fa0KEAh_I84){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/Fa0KEAh_I84" frameborder="0"></iframe>
+</div>
 
 ## `Anki` {-}
 
 * `Lesson 05 A. Vocab`
-* `Lesson 05 B. Grammar` * `Lesson xx C. Workbook` 
+* `Lesson 05 B. Grammar` 
 * `Lesson 05 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate the definite article and the Vav conjunction.
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
@@ -1617,7 +1631,9 @@ Keep with it; you're doing great!
 
 [Open Quest Quiz #05 in a new window](https://forms.gle/NsrAS9XKMbtLToW1A){target="_blank"}
 
-<iframe src="https://forms.gle/NsrAS9XKMbtLToW1A" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSc-PREmjGXSzCh1l2qenbHEHJlGV35voeamfxuAcc_JB_2j5A/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
@@ -1625,8 +1641,11 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 [Check to be sure you have completed all ACTIVities here](https://forms.gle/vgjsvL4QNMXzkcAE6){target="_blank"}, complete the certification below, and your badge will be on its way!
 
-<iframe src="https://forms.gle/vgjsvL4QNMXzkcAE6" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- Tribe Badge 2 = Benjamin -->
 
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdUEWHBbR9iuUrUMSJ76Fucn0qyqIPxILQpfh3Ss6Hmz8bPZA/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 <!--chapter:end:05-DefArt_Conjunction.Rmd-->
 
@@ -1634,26 +1653,38 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 > In order to comprehend Biblical Hebrew, we must be able to identify prepositions as we read the Text.
 
-Prepositions give us space and context.  Given that much of the Tanach is narrative, prepositions are on almost every page that we read as the authors describe the events to us.  There is one Hebrew word, מִן, that is classified as a preposition but depending on the context can convey a wide array of meanings. 
+Prepositions give us space and context.  Given that much of the Tanach is narrative, prepositions are on almost every page that we read as the authors describe the events to us.  There is one Hebrew word, <span class="he">מִן</span>, that is classified as a preposition but depending on the context can convey a wide array of meanings. 
 
-::: {.infobox}
+::: {.infobox .map}
 **LESSON ITINERARY**
 
 1. Recognize that a Nun with Silent Sheva becomes a Daghesh Forte
 2. Describe Independent and Maqqef prepositions
 3. Define Inseparable prepositions
 4. Identify when a word with an inseparable preposition also has the definite article
-5. Understand how מִן is constructed
-6. Define how מִן is used
+5. Understand how <span class="he">מִן</span> is constructed
+6. Define how <span class="he">מִן</span> is used
 7. Identify the Definite Direct Object (DDO) marker
+:::
+
+
+::: {.infobox .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* The construction of the definite article, including what happens when the Daghesh Forte is rejected
+* The construction of the Vav conjunction
+* How Hebrew handles indefinite words
 :::
 
 ## First Thought {-}
 
-Meditate and celebrate that the Lord is in the midst of our troubles.
+### <span class="he">  בְּיוֹם צָרָתִי אֲדֹנָי דָּרָשְׁתִּי </span> {-}
 
-> (Psalms 77:3 NASB) In the day of my trouble I sought the Lord  
-בְּיוֹם צָרָתִי אֲדֹנָי דָּרָשְׁתִּי
+_In the day of my trouble I sought the Lord  (Psalms 77:3)_
+
+Meditate and celebrate that the Lord is in the midst of our troubles.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -1665,85 +1696,80 @@ Meditate and celebrate that the Lord is in the midst of our troubles.
     </audio>
 </figure>
 
+The בּ in <span class="he">בְּיוֹם</span> is an example of an "inseparable preposition" that means "in".  We will study various types of prepositions in this lesson.
+
 *****
 
 <div class="figure" style="text-align: center">
-<img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - likely location of Luke 4:29 when the townsfolk wanted to throw Yeshua off the cliff. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-47)Mt. Precipice in Nazareth - likely location of Luke 4:29 when the townsfolk wanted to throw Yeshua off the cliff. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
+<p class="caption">(\#fig:unnamed-chunk-46)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
-## Equipment Check {-}
-
-<img src="images/stopil.png" width="300pt" style="display: block; margin: auto;" />
-
-Before continuing, can you describe the following concepts?
-
-* The construction of the definite article, including what happens when the Daghesh Forte is rejected
-* The construction of the Vav conjunction
-* How Hebrew handles indefinite words
 
 
 ## Nun with Silent Sheva Becomes Daghesh Forte
 
 You may be wondering what this has to do with prepositions, but stick with us.  It will make sense by the end of the lesson!
 
-Nun is considered a "weak letter" and it has a tendency to drop out of a word under certain scenarios. When the nun appears with a SILENT sheva נְ (or no vowel at all) is one of those times.  You remember how we said that the Daghesh Forte is your friend, because it tells you that something has changed?  When then nun drops, whenever possible it will be replaced with a Daghesh Forte.  The technical term for this is called "assimilation".   To get back to the original/lexical form we would substitute the Daghesh Forte for the nun+sheva
+Nun is considered a "weak letter" and it has a tendency to drop out of a word under certain scenarios. When the nun appears with a SILENT sheva <span class="he">נְ</span> (or no vowel at all) is one of those times.  You remember how we said that the Daghesh Forte is your friend, because it tells you that something has changed?  
 
-מִנְזָהָב* > מִזָּהָב
+* When then nun drops, whenever possible it will be replaced with a Daghesh Forte.  
+* The technical term for this is called "assimilation".   
+* To get back to the original/lexical form we would substitute the Daghesh Forte for the nun+sheva
 
+<img src="images/06.nun-assimilation.gif" width="600pt" style="display: block; margin: auto;" />
 
 This is why we spend time talking about when the Daghesh Forte might get rejected.  Do you remember the three times we have studied where the Daghesh Forte may be rejected?  
 
 * Gutturals and Resh (may be compensatory lengthening)
 * At the end of a word (may be compensatory lengthening)
-* With a SQiN eM LeVY with a Sheva: מִנְקְצֵה* > מִקְּצֵה* > מִקְצֵה (will never be compensatory lengthening)
+* With a SQiN eM LeVY with a Sheva: <span class="he">מִנְקְצֵה* > מִקְּצֵה* > מִקְצֵה</span> (will never be compensatory lengthening)
 
 ## Independent and Maqqef prepositions 
 
-Prepositions explains the relationship between its object and something else.
- There are three different types of Hebrew prepositions: independent, Maqqef, and inseparable. 
+Prepositions explains the relationship between its object and something else.  In Hebrew, there are three different types of Hebrew prepositions: independent, Maqqef, and inseparable. 
 
-An _independent_ preposition is a separate word with a space before it and after it.
+An _independent preposition_ is a separate word with a space before it and after it.
 
-The preposition comes first, followed by its object (just like English).
+The preposition comes first, followed by its object (just like English). E.g.,  <span class="he">תַּחַת אֹתוֹ</span> (under it)
 
-* Most Hebrew prepositions are written this way. – E.g.,  תַּחַת אֹתוֹ
-* English prepositions are written this way. – E.g., Under it
+_Maqqef_ is a mark like the English hyphen.  They are nearly identical in meaning and appearance except the Hebrew maqqef is raised ־ whereas the English is middle -.  Like the hyphen used to join two English words, the maqqef lets us know that two Hebrew words are closely connected grammatically.
 
-Maqqef is the Hebrew word for dash.  They are nearly identical in meaning and appearance except the Hebrew Maqqef is raised ־ whereas the English is middle -.  Like the dash when used to join two words, the Maqqef lets us know that two words are closely connected grammatically.
+In a _Maqqef preposition_, the maqqef connects a preposition to its object. Again, the preposition comes first.  <span class="he">עַל־מֶלֶךְ</span>.  English prepositions are NOT written this way.  You would never see "on-a-king."
 
-In a _Maqqef_ preposition, the Maqqef connects a preposition to its object. Again, the preposition comes first.
-
-עָל־מֶלֶךְ
-
-English prepositions are NOT written this way.  You would never see "on-a-king."
-
-You may see the same preposition written both with and without the Maqqef.  The meaning does not change.  עַל מֶלֶךְ means the same as עַל־מֶלֶךְ
-
-In addition to prepositions we sometimes see the maqqef joining a verb and it's subject. One notable aspect about the Maqqef is that the word loses its accent.  The fowel that loses its accent may change.
+::: {.box .info}
+* You may see the same preposition written both with and without the Maqqef.  
+* The meaning does not change.  <span class="he">עַל מֶלֶךְ</span> means the same as <span class="he">עַל־מֶלֶךְ</span>
+* One notable aspect about the maqqef is that the word loses its accent.  As a result, the vowel that loses its accent may change.
+:::
 
 ## Inseparable prepositions
 
-Like וְ for the word "and", an inseparable preposition is a one-letter prefix that is affixed to its object. 
+Like <span class="he">וְ</span> for the word "and", an inseparable preposition is a one-letter prefix that is affixed to its object. 
 
 Three Hebrew prepositions are **ALWAYS** written this way, usually with a Vocal Sheva under the prepositional letter:
 
-<img src="images/05.inseparable.png" width="200pt" style="display: block; margin: auto;" />
+<img src="images/05.inseparable.png" width="400pt" style="display: block; margin: auto;" />
 
+::: {.box .info}
 A mnemonic to remember these three inseparable prepositions is "buckle"
+:::
 
-The first word of the Bible contains an inseparable preposition: בְּרֵאשִׁית = "In (the) beginning".
+The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning".
 
 In the lexical form of these prepositions, there is a vocal sheva vowel under the "buckle" consonant.  If there is a Sheva or Hateph vowel in the next letter, the Rules of Sheva come into play.  Review Lesson 4 if you need to.
 
-* Before another vocal Sheva, the preposition usually takes a Hireq
+* Before another Vocal Sheva, the preposition usually takes a Hireq
 * Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
-* Note the names of God again receive special treatment: לֵאלֹהִים and לַיהוָה
-
+* Note the names of God again receive special treatment: <span class="he">לֵאלֹהִים</span> and <span class="he">לַיהוָה</span>
 
 ## The Article and Inseparable Prepositions
 
-Words with both an inseparable preposition AND the article undergo a type of contraction.  The one-letter preposition replaces the ה of the article. The vowel under the preposition and the daghesh forte (if it is there) are your clues that the word is definite.
+Words with both an inseparable preposition AND the article undergo a type of contraction.  
+
+::: {.box .light}
+The one-letter preposition replaces the <span class="he">ה</span> of the article. The vowel under the preposition and the daghesh forte (if it is there) are your clues that the word is definite.
+:::
 
 For example, note how we would spell "in the field":
 
@@ -1751,52 +1777,71 @@ For example, note how we would spell "in the field":
 
 For words that keep the pathach and daghesh forte of the article, it is straightforward to determine the article.  The challenge comes when the next letter rejects the Daghesh Forte.
 
-Here's how to tell whether there is the article or not:
+::: {.box .info}
+Here's how to tell whether there is the article with a preposition:
 
 * NO ARTICLE if there is a Sheva under the preposition - the article never takes a Sheva
-* NO ARTICLE if the short vowel under the preposition can be explained by the Rules of Sheva: אֲנָשִׁים + לְ = לַאֲנָשִׁים - for men, (not 'for the men')
-* ARTICLE if vowel under the preposition is not Sheva and can NOT be explain by the Rule of Sheva: לַהֵיכָל = for THE temple
+* NO ARTICLE if the short vowel under the preposition can be explained by the Rules of Sheva: 
+    * <span class="he">אֲנָשִׁים + לְ = לַאֲנָשִׁים</span> - for men, (not 'for the men')
+* ARTICLE if vowel under the preposition is not Sheva and can NOT be explain by the Rule of Sheva: 
+    * <span class="he">לַהֵיכָל</span> = for THE temple
+:::
 
-Some situations will be ambiguous; the context will guide us.
+Some situations will be ambiguous.  The context will guide us.
 
-## The flexible מִן: construction
+## The flexible <span class="he">מִן</span>: construction
 
-There is one preposition that is unique: מִן
+There is one preposition that is unique: <span class="he">מִן</span>
 
-It can be a Maqqef preposition, as in: מִן־זָהָב, or it can be an inseparable preposition: מִזָּהָב.  Both mean "from gold." The reason we led of this Lesson with a discussion on "nun with a silent sheva" is because this is what is happening with מִן when it is an inseparable preposition.  The nun assimilates into the following consonant, becoming a Daghesh Forte.
+It can be a maqqef preposition, as in: <span class="he">מִן־זָהָב</span>, or it can be an inseparable preposition: <span class="he">מִזָּהָב.</span> Both mean "from gold." 
 
-<img src="images/06.preposition_min.jpg" width="400pt" style="display: block; margin: auto;" />
+Now you know the reason we began this lesson with a discussion on "nun with a silent sheva." When <span class="he">מִן</span> is an inseparable preposition, the nun assimilates into the following consonant, usually becoming a Daghesh Forte.  This is so frequent that it is just as easy to think of the standard <span class="he">מִנ</span> inseparable preposition form as *Mem+Hireq+Daghesh Forte*:
 
+<img src="images/06.preposition_min.jpg" width="100pt" style="display: block; margin: auto;" />
 
-Unlike the regular inseparable prepositions, the ה of the article is retained: מֶהָאָ֫רֶץ = from the land.
 
 As we know well by know, the Gutturals and Resh reject the Daghesh Forte:
 
-* א צ ה ר have compensatory lengthening so the Hireq becomes Tsere.
-* ח has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the מ remains a Hireq
+* <span class="he">א צ ה ר</span> have compensatory lengthening so the Hireq becomes Tsere.
+* <span class="he">ח</span> has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the <span class="he">מ</span> remains a Hireq
 
-## The flexible מִן: meanings 
+One last, very important, point to make about this preposition:
 
-The most direct meaning is "from" - מִזָּהָב from gold; but, it also can have comparative and superlative meanings depending on the context.
+::: {.box .light}
+Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is RETAINED with <span class="he">מִן</span>: <span class="he">מֶהָאָ֫רֶץ</span> = from the land.
+:::
 
-* טוֹבָה חָכְמָה מִזָּהָב = wisdom is better *than* gold
-* קָשָׁה הָעֲבֹדָה מֵהָאֲנָשִׁים = the work is too difficult *for* the men
-* עָרוּם מִכֹּל חַיַּת הַשָֹּדֶה ּ = the most clever living thing *of all* the field
-* מֵהָאֲנָשִׁים may mean "*some* *of* the men" (lit. from the men)
+## The flexible <span class="he">מִן</span>: meanings 
+
+<span class="he">מִן</span> occurs 7,592 times in the Bible, so it is important to study its uses.
+
+* The most direct meaning is "from" - <span class="he">מֵהָאָ֫רֶץ</span> from the land
+* <span class="he">מִן</span> can also have comparative (think "bigger") and superlative (think "biggest") meanings depending on the context
+    * <span class="he">טוֹבָה חָכְמָה מִזָּהָב</span> = wisdom is better *than* gold 
+    * <span class="he">קָשָׁה הָעֲבֹדָה מֵהָאֲנָשִׁים</span> = the work is *too* difficult *for* the men
+    * <span class="he">עָרוּם מִכֹּל חַיַּת הַשָֹּדֶה ּ</span>  = the *most* clever living thing *of all* the field
+* There is also a use called "partive" that denotes a portion or part of something else:
+    * <span class="he">מֵהָאֲנָשִׁים</span> may mean "*some* *of* the men" (lit. from the men)
 
 Other uses: 'because', 'by', 'without', 'even', 'namely'.
 
-This is a word that takes practice to appreciate the various nuanced meanings.
+
+::: {.box .info}
+* This is a word that takes practice to appreciate the various nuanced meanings
+* As you are starting out in Hebrew, when you see <span class="he">מִן</span>, start your translation with "from...", but don't be surprised if "from" does not make sense (such as "good the wisdom from the gold")
+:::
 
 ## The Definite Direct Object marker 
 
-Hebrew has an untranslated word that is often used to mark a direct object that is definite.
+Hebrew has an untranslated word that is often used to mark a direct object that is definite.  It is often abbreviated DDO (Definite Direct Object) marker.
 
-Spelled תֵא (independent) or תֶא־ (Maqqef)- the challenge can be that this is the same spelling as the preposition "with".
+The DDO is spelled <span class="he">תֵא</span> (independent) or <span class="he">תֶא־</span> with a maqqef. the challenge can be that this is the same spelling as the preposition "with".  As both the DDO and preposition can take pronominal suffixes, we will save a discussion of differentiating between the two words for Lesson 9 (see Lesson 9.9 if you can't wait!).
 
-We see the definite direct object marker (often abbreviated DDO) twice in the first verse of the Bible:
+::: {.box .info}
+We see the DDO twice in the first verse of the Bible:
 
-בְּרֵאשִׁית בָּרָא אֱלֹהִים *אֵת* הַשָּׁמַיִם *וְאֵת* הָאָרֶץ
+<span class="he">בְּרֵאשִׁית בָּרָא אֱלֹהִים *אֵת* הַשָּׁמַיִם *וְאֵת* הָאָרֶץ</span>
+:::
 
 ## Review and Activities {-}
 
@@ -1809,9 +1854,9 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 ### `Anki` {-}
 
 * `Lesson 06 A. Vocab`
-* `Lesson 06 B. Grammar` * `Lesson xx C. Workbook` 
+* `Lesson 06 B. Grammar`
 * `Lesson 06 C. Workbook`
-    *     * In this activity, we will have very short passages of scripture that illustrate prepositions.
+    * In this activity, we will have very short passages of scripture that illustrate prepositions.
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
 * `Lesson 06 D. Verses`
 
@@ -1820,15 +1865,20 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/P-oZ1J6ZyBc){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/P-oZ1J6ZyBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/P-oZ1J6ZyBc" frameborder="0"></iframe>
+</div>
+
+
 
 ## `Verses Warm-up` {-}
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
-
-<iframe width="768" height="432" src="https://youtu.be/z4QY0pMdPsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Click to open `Verses Warm-up` video in a new tab](https://youtube.com/embed/z4QY0pMdPsA){target="_blank"}
 
 
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/z4QY0pMdPsA" frameborder="0"></iframe>
+</div>
 
 
 ## `Ruth Pursuit` {-}        
@@ -1841,16 +1891,17 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #06](./images/06_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #6](./images/06_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #06 in a new window](https://forms.gle/oeB8E6K4y4mTjPWGA){target="_blank"}
-
-<iframe src="https://forms.gle/oeB8E6K4y4mTjPWGA" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+[Open Quest Quiz #6 in a new window](https://forms.gle/oeB8E6K4y4mTjPWGA){target="_blank"}
 
 
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScSk6Jya_wOUJ4W88s8wcvY-3NyS2FnDmle4T6yo00Fus4Nmg/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 <!--chapter:end:06-Prepositions.Rmd-->
 
@@ -1859,9 +1910,8 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 > To comprehend Biblical Hebrew, we must be able to identify and translate an adjective based on its usage, gender, and number
 
 
-::: {.infobox}
+::: {.infobox .map}
 **LESSON ITINERARY**
-
 
 1. Understand how an adjective relates to the noun it is modifying
 1. Define and identify Substantival se
@@ -1872,12 +1922,25 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 1. Recognize the Directional Ending and differentiate it from the vowel ה ָ
 :::
 
+::: {.box .stop}
+EQUIPMENT CHECK
+
+Before continuing, can you describe the following concepts?
+
+* Inseparable prepositions with and without the definite article
+* Construction and meaning of מִן, including assimilation of the נ
+
+:::
+
 ## First Thought {-}
+
+### <span class="he">אֶת־הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ</span> {-}
+
+_He has made everything appropriate (beautiful) in its time.  (Ecclesiastes 3:11)_
 
 Offer a word of gratitude that HaShem has made you beautiful!
 
-> (Ecclesiastes 3:11 NASB) He has made everything appropriate (beautiful) in its time.  
-אֶת־הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ
+<span class="he">יָפֶה</span> is an example of predicate adjective use, which we will study in this lesson.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -1893,23 +1956,15 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-52)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-51)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
-## Equipment Check {-}
-
-<img src="images/stopil.png" width="300pt" style="display: block; margin: auto;" />
-
-Before continuing, can you describe the following concepts?
-
-* Inseparable prepositions with and without the definite article
-* Construction and meaning of מִן, including assimilation of the נ
 
 ## Inflecting Adjectives
 
 Adjective inflection is relatively straight-forward.
 
-We will use the paradigm word טוֹב to illustrate
+We will use the paradigm word <span class="he">טוֹב</span> to illustrate
 
 <img src="images/07.tov-inflection.png" width="300pt" style="display: block; margin: auto;" />
 
@@ -1918,17 +1973,20 @@ We will use the paradigm word טוֹב to illustrate
 2. An adjective is either singular or plural (dual nouns take plural adjectives)
 3. An adjective will match the gender and number of the noun that it modifies or for which it substitutes
     * Note that for irregular nouns, the adjective will not necessarily match the exact ending
-    * נָשִׁים טוֹבוֹת - even though "נָשִׁים" has the irregular -im ending, the adjective טוֹבוֹת remains the regular feminine plural
+    * <span class="he">נָשִׁים טוֹבוֹת</span> - even though "<span class="he">נָשִׁים</span>" has the irregular -im ending, the adjective <span class="he">טוֹבוֹת</span> remains the regular feminine plural
 4. An adjectives will use expected endings
 
 
 Unlike nouns, adjectives can inflect across genders in order to match the respective gender of the noun.  
 
-The Lexical Form of an adjective is the MS.  MS is usually endingless but can be seghol hei as in יָפֶה, which is MS for pleasing, beautiful.
+The Lexical Form of an adjective is the MS.  MS is usually endingless, but can be Seghol+Hei as in <span class="he">יָפֶה</span>, which is MS for pleasing, beautiful.
 
-Note that unlike טוֹב, most adjectives undergo vowel changes when the inflectional endings are added.  The good news is you already know this, because it is the same for adjectives as it is for nouns.
 
-Perhaps a bit more foreign (unless you were an English major) are the concepts of Substantival, Attributive and Predicative uses of the adjective.  We use these forms in English all the time but you probably don't call them by these names.  Let's look at each one.
+::: {.box .info}
+Note that unlike <span class="he">טוֹב</span>, most adjectives undergo vowel changes when the inflectional endings are added. 
+The good news is you already know what to do. Adjectives follow the same rules as nouns.
+
+:::
 
 ## Substantival Use
 
@@ -1938,9 +1996,11 @@ Perhaps an obvious example of this from pop culture is the film, "The Good, The 
 
 The Substantival use in Hebrew is relatively easy to identify.  You will see an adjective but there will be no related noun that matches in gender and number.
 
-הַטּוֹבָה - "the good" (feminine singular something). So depending on the context it could be "the good woman", or a feminine object like "the good Torah."
+<span class="he">הַטּוֹבָה</span> - "the good" (feminine singular something). So depending on the context it could be "the good woman", or a feminine object like "the good Torah."
 
-If there were a noun that matches Gender and Number, then this would not be a Substantival use.
+::: {.box .light}
+In substantival use, the adjective never directly modifies a noun.
+:::
 
 ## Attributive Use
 
@@ -1948,10 +2008,12 @@ The Attributive use is usually what we think of with respect to adjectives. The 
 
 Hebrew makes it much easier to identify the Attributive use.  The adjective MUST come AFTER the noun it modifies, and it MUST match in definiteness - meaning either both the noun and the adjective have the definite article or they both will not have the article.
 
-In fact, there is an easy mnemonic we can use: **A**ttributive **A**fter noun, **A**rticle **A**grees
+* <span class="he">הָאִשָּׁה הָטּוֹבָה</span> - the good woman
+* <span class="he">אִשָּׁה טוֹבָה</span> - a good woman (or "the woman is good"-predicate use; see next section)
 
-* הָאִשָּׁה הָטּוֹבָה - the good woman
-* אִשָּׁה טוֹבָה - a good woman (or "the woman is good"-predicate use; see next section)
+::: {.box .light}
+**A**ttributive **A**fter noun, **A**rticle **A**grees
+:::
 
 ## Predicative Use
 
@@ -1959,16 +2021,19 @@ The Predicative use (often called the predicate use) asserts something about the
 
 The Predicative use is more flexible than the Attributive, in that the adjective can be either before or after the noun.  One way to differentiate it from the Attributive use is the Predicative use WILL NOT have the Article.
 
-So a similar mnemonic could be: **P**redicative de**P**rived of the article; **P**erhaps **P**rior
 
 All of the options below can mean "the woman is good":
 
-* טוֹבָה הָאִשָּׁה
-* הָאִשָּׁה טוֹבָה
-* טוֹבָה אִשָּׁה
-* אִשָּׁה טוֹבָה (or "attributative")
+* <span class="he">טוֹבָה הָאִשָּׁה</span>
+* <span class="he">הָאִשָּׁה טוֹבָה</span>
+* <span class="he">טוֹבָה אִשָּׁה</span>
+* <span class="he">אִשָּׁה טוֹבָה</span> (or "attributative")
 
-As this illustrates, the only time there can be any ambiguity between Attributative and Predicative is when the adjective follows the noun and both are indefinite.  In these situations, we need to let context determine the use.
+As this illustrates, the only time there can be any ambiguity between Attributive and Predicative is when the adjective follows the noun and both are indefinite.  In these situations, we need to let context determine the use.
+
+::: {.box .light}
+**P**redicative de**P**rived of the article; **P**erhaps **P**rior
+:::
 
 ## Adjective Use Summary
 
@@ -1986,40 +2051,45 @@ Here is a decision tree:
 
 The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in a word-final Hei (a Hei that is the final letter of a word).
 
-It is virtually impossible to confuse a Daghesh and a Mappiq because ה can never take a Daghesh.
+It is virtually impossible to confuse a Daghesh and a Mappiq because <span class="he">ה</span> can never take a Daghesh.
 
-A word-final ה is always a vowel unless it has a mappiq (הּ).
+A word-final <span class="he">ה</span> is always a vowel unless it has a mappiq (<span class="he">הּ</span>).
 
 The mappiq is a sign that the breathy sound of the consonantal hei should be accentuated slightly.
 
 At the end of a word:
 
-ה ָ  - "aaw"(long A sound)
-הּ ָ  - "ahh"(breathy)
+* <span class="he">ה ָ</span>  - "aaw"(long A sound)
+* <span class="he">הּ ָ</span>  - "ahh"(breathy)
 
 ## The Directional Ending 
 
-We've studied the fact that the ה ָ  is the Feminine Singular ending.  We now need to refine this definition slightly.  An ACCENTED ה ָ  is the FS ending; however, an UNACCENTED ה ָ  is known as a "directional ending".  It is used to indicate motion towards or to, whatever the noun is.
+We've studied the fact that the <span class="he">ה ָ</span>  is the Feminine Singular ending.  We now need to refine this definition slightly.  
 
-Common examples:
+* An ACCENTED <span class="he">ה ָ</span>  is the FS ending
+* However, an UNACCENTED <span class="he">ה ָ</span>  is known as a "directional ending"
+* The directional ending is used to indicate motion towards or to, whatever the noun is
+    * <span class="he">אַ֫רְצָה</span> - to/toward a land
+    * <span class="he">הָעִ֫ירָה</span> - to/toward the city
 
-* אַ֫רְצָה - to/toward a land
-* הָעִ֫ירָה - to/toward the city
-
-Note that אֶל־הָאָ֫רֶץ and אַ֫רְצָה are essentially synonymous.
+Note that <span class="he">אֶל־הָאָ֫רֶץ</span> and <span class="he">אַ֫רְצָה</span> are essentially synonymous.
 
 
 ## `Word Warm-up` {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/8GIYqACoOcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/8GIYqACoOcQ" frameborder="0"></iframe>
+</div>
 
 ## `Verses Warm-up` {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/s0JvZ9z0jAg){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/s0JvZ9z0jAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/s0JvZ9z0jAg" frameborder="0"></iframe>
+</div>
 
 ## `Anki` {-}
 
@@ -2030,42 +2100,33 @@ Note that אֶל־הָאָ֫רֶץ and אַ֫רְצָה are essentially synonymo
     * Be sure to look up any words you do not know.  
 * `Lesson 07 D. Verses`
 
-## `Worksheets`: NameOfWorksheet {-}
-
-<describe the worksheet>
-
-[Name of worksheet](){target="_blank"}
 
 ## `Ruth Pursuit` {-}        
 
-### Your Quest: {-}
-
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+Curiously, there are a lack of adjectives in Ruth 1.  It's a very direct, straightforward narrative.  There are several mappiq marks that should be relatively easy for you to locate (so much so that we don't need an answer key!).
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #7](){target="_blank"}
-
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #07 in a new window](){target="_blank"}
+[Open Quest Quiz #07 in a new window](https://forms.gle/uYiUgRBWeRJikaR57){target="_blank"}
 
-<iframe src="" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdheixGPVo9sfn-K51QEgjP8qaZQyqd2uQY6yAGV4hn8vqYyg/viewform?embedded=true" frameborder="0"></iframe>
+</div>
+
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
 Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
 
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+[Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
 
-<iframe src="" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- Tribe Badge 3 = Dan -->
 
+<div class="container">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf0XIRTMiuOVLITH3DMpt8xDygItycZgs9JY3uIAc1ntmVoow/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 <!--chapter:end:07-Adjectives.Rmd-->
 
@@ -2125,7 +2186,7 @@ The first word in above passage is an example of a "demonstrative pronoun". The 
 
 <div class="figure" style="text-align: center">
 <img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-55)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-53)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Independent Personal Pronoun
@@ -2140,40 +2201,42 @@ Notes:
 
 * This is the first time we are officially using all three elements of Person, Gender and Number.  3MS is shorthand for Person = 3rd Person, Gender = Masculine, Number=Singular
 * For 1st person, Hebrew, like English, does not distinguish between gender in the first person.  A woman says "I" and a man says "I"
-    * אָנֹכִי is considered more formal or emphatic.  It is often translated, "I, myself"
+    * <span class="he">אָנֹכִי</span> is considered more formal or emphatic.  It is often translated, "I, myself"
 * Note the following memory aids:
-    * All 1st person pronouns begin with אנ
-    * All 2 begin with accented אַתּ֫ - note the Daghesh Forte
-    * All 3 begin with accented ה֫
-    * All MP end with either מָה or ם. Think "monks" since men are monks
-    * All FP end with either נָה or ן. Think "nuns" since women are nuns
+    * All 1st person pronouns begin with <span class="he">אנ</span>
+    * All 2 begin with accented <span class="he">אַתּ֫</span> - note the Daghesh Forte
+    * All 3 begin with accented <span class="he">ה֫</span>
+    * All MP end with either <span class="he">מָה</span> or <span class="he">ם.</span> Think "monks" since men are monks
+    * All FP end with either <span class="he">נָה</span> or <span class="he">ן.</span> Think "nuns" since women are nuns
     * Who is he? He is she.
-* Do not confuse אַתָּה (you 2MS) with עַתָּה (now)
+* Do not confuse <span class="he">אַתָּה</span> (you 2MS) with <span class="he">עַתָּה</span> (now)
     
-## Relative Pronoun אֲשֶׁר
+## Relative Pronoun <span class="he">אֲשֶׁר</span>
 
 * Hebrew has one general-purpose relative pronoun
-* אֲשֶׁר is a vocabulary word for this lesson
+* <span class="he">אֲשֶׁר</span> is a vocabulary word for this lesson
 * This word does not inflect/the spelling never changes
 * It can refer to people (who) or things (that), subjectively (who) or objectively (whom)
 
 Example Deuteronomy 1:1
 
-> אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה
+> <span class="he">אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה</span>
 
-These are the words *that* Moses spoke
+_These are the words *that* Moses spoke_
 
 ## Interrogative Pronoun
 
-* מִי = who ("Who, me?")
-* מָה = what (think of your mom questioning you, "What, ma?")
-    * Can also be written as Maqqef - note the vowel shortens מַה־
-*   לָמָה = why
-    * Remember the familiar verse "אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי " - My God, my God, WHY have you forsaken me?
+* <span class="he">מִי</span> = who ("Who, me?")
+* <span class="he">מָה</span> = what (think of your mom questioning you, "What, ma?")
+    * Can also be written as Maqqef - note the vowel shortens <span class="he">מַה־</span>
+*   <span class="he">לָמָה</span> = why
+    * Remember the familiar verse "<span class="he">אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי</span> " - My God, my God, WHY have you forsaken me?
 
+::: {.box .info}
 Usually these words will appear at the beginning of a clause
+:::
 
-## Interrogative Particle הֲ
+## Interrogative Particle <span class="he">הֲ</span>
 
 English has a question mark at the end of a sentence. Hebrew has what is called an interrogative particle at the BEGINNING of a sentence that asks a yes/no question.
 
@@ -2183,10 +2246,11 @@ Questions that ask who? what? or why? will use the interrogative pronouns.
 
 In most cases you will not have trouble differentiating the Article from the Interrogative Particle.  Below are potential sources of ambiguity:
 
-* 1st word of a clause before חָ֫,חָ, הָ, עָ   = both are הֶ
-* 1st word of a clause before ה, ח without Qamets or SQiN eM LeVY with Sheva = both are הַ
-
-In these situations, you guessed it, you will need to let context determine whether a question is being asked.  With lots of reading practice, this will get easier.  Just know that the Definite Article is about **300X more common**.
+* 1st word of a clause before <span class="he">חָ֫,חָ, הָ, עָ</span>   = both are <span class="he">הֶ</span>
+* 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = both are <span class="he">הַ</span>
+* In these situations, you guessed it, you will need to let context determine whether a question is being asked.  
+* With lots of reading practice, this will get easier.  
+* Additionally, the Definite Article is about **300X more common**.
 
 
 ## Near and Far Demonstratives
@@ -2209,15 +2273,16 @@ The behavior is a lot like the Attributive use:
 * Always comes after the noun (Dem Adjective Always After)
 * Always has the article (Dem. Adjective Always Article)
 * Always matches in Gender and Number
-    * הָאִשָּׁה הַזֹּאת = this woman (FS)
-    * הָאֲנָשִׁים הָהֵם  = those men (MP)
+    * <span class="he">הָאִשָּׁה הַזֹּאת</span> = this woman (FS)
+    * <span class="he">הָאֲנָשִׁים הָהֵם</span>  = those men (MP)
 
 Mnemonic: 
 
-> Demonstrative Adjective Always After noun, Always has Article
+::: {.box .info}
+Demonstrative Adjective Always After noun, Always has Article
+:::
 
 ## Demonstrative Pronoun
-
 
 A demonstrative pronoun takes the place of a noun as the subject of a clause.  This is her daughter.
 
@@ -2226,12 +2291,14 @@ The behavior is a lot like the Predicative use:
 * Always comes before the noun (Pronoun Perpetually Precedes)
 * Does NOT have the article (Pronoun dePrived of article)
 * Matches Gender and Number
-    * זֹאת הַמַּלְכָּה  = this is the queen (FS)
-    * זֶה הַמֶּ֫לֶךְ = this is the king (MS)
+    * <span class="he">זֹאת הַמַּלְכָּה</span>  = this is the queen (FS)
+    * <span class="he">זֶה הַמֶּ֫לֶךְ</span> = this is the king (MS)
     
 Mnemonic:
 
-> Demonstrative Pronoun Perpetually Precedes, Perpetually dePrived of article
+::: {.box .info}
+Demonstrative Pronoun Perpetually Precedes, Perpetually dePrived of article
+:::
 
 ## Conclusion and Intro to Activities {-}
 
@@ -2239,14 +2306,14 @@ Your mission for the next two lessons is to focus on building your pronoun vocab
 
 It is important to know the gender, number, and where necessary the person of each.  Also the concept of multiple ways to say "you" can be confusing to the English speaker.  It's important to give the PGN, for example אַתֵּ֫נָה means "you (2FP)."
 
-If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit extra.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Verbs.  Keep at it!  You're doing awesome!
+If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit extra.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs.  Keep at it!  You're doing awesome!
 
 ## `Word Warm-up` {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/kNfZ8BblobA){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/8GIYqACoOcQ" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/kNfZ8BblobA" frameborder="0"></iframe>
 </div>
 
 
@@ -2259,7 +2326,6 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 </div>
 
 
-
 ## `Anki` {-}
 
 * `Lesson 08 A. Vocab`
@@ -2268,7 +2334,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
     * In this activity, we will have very short passages of scripture that illustrate pronouns
 * `Lesson 08 D. Verses`
 
-## `Worksheets`: Pronouns {-}
+## `Worksheets: Pronouns` {-}
 
 We have two worksheets for this lesson. Make sure you do the Anki work first, before tackling these worksheets.
 
@@ -2282,16 +2348,14 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 
 ### Your Quest: {-}
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+1. Identify the first instance of the relative pronoun (Yellow)
+2. Find the three uses of the interrogative particle (Green)
+3. Find at least one of the following independent pronouns (Light Blue): 3MS, 3FS, 1CS
+4. Find one near demonstrative pronoun (FS) (Pink)
+    * Translate the demonstrative phrase (answer on last page of answer key)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #8](){target="_blank"}
+* [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 ## `Quest Quiz` {-}
@@ -2358,7 +2422,7 @@ In addition to offering up our petitions, let us be sure to listen for God's que
 
 <div class="figure" style="text-align: center">
 <img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-58)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-56)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -2639,7 +2703,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-64)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-62)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -2835,6 +2899,17 @@ Note the prevalence of the Tsere-Yod as mentioned in 10.6.
 <iframe class="responsive-iframe" src="https://forms.gle/ST6XfCvKRXHRfxfVA" frameborder="0"></iframe>
 </div>
 
+## Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
+
+<!-- Tribe Badge 4 = gad -->
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfQN__POt8uRnfPCRkaMILJgh7-cXMWbGna1GavqC4j0aQ5rw/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 <!--chapter:end:10-ConstructChain.Rmd-->
 
@@ -2890,7 +2965,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-66)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-64)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -3184,7 +3259,7 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 
 <div class="figure" style="text-align: center">
 <img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-68)Strength and Endurance</p>
+<p class="caption">(\#fig:unnamed-chunk-66)Strength and Endurance</p>
 </div>
 
 
@@ -3195,7 +3270,7 @@ If one wants to build strength, she might use the weight machine.  If one wants 
 
 <div class="figure" style="text-align: center">
 <img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-69)Anki Home Screen</p>
+<p class="caption">(\#fig:unnamed-chunk-67)Anki Home Screen</p>
 </div>
 
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
@@ -3249,7 +3324,7 @@ Thus, it is not just a flashcard program but is a tremendous strength and endura
 Your settings should look like this:
 <div class="figure" style="text-align: center">
 <img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-70)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-68)Settings</p>
 </div>
 
 [Return to Quick Start page](#get_started)
@@ -3276,7 +3351,7 @@ Here are the steps:
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-71)Anki web and mobile views</p>
+<p class="caption">(\#fig:unnamed-chunk-69)Anki web and mobile views</p>
 </div>
 
 ## How do I navigate within Anki? {-}
@@ -3284,14 +3359,14 @@ Here are the steps:
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
 <div class="figure" style="text-align: center">
 <img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-72)Anki - subdecks collapsed</p>
+<p class="caption">(\#fig:unnamed-chunk-70)Anki - subdecks collapsed</p>
 </div>
     * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
 * Many cards have "hints" - click on the `hint` button to reveal
     * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
     <div class="figure" style="text-align: center">
     <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-73)Revealing a hint in Anki</p>
+    <p class="caption">(\#fig:unnamed-chunk-71)Revealing a hint in Anki</p>
     </div>
 * For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
@@ -3302,7 +3377,7 @@ We suggest using the following guidelines to select the most appropriate answer.
 
 <div class="figure" style="text-align: center">
 <img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-74)Anki Response Definitions</p>
+<p class="caption">(\#fig:unnamed-chunk-72)Anki Response Definitions</p>
 </div>
 
 * There is no “value judgment” to hitting `Again` – you will learn on your timeline
@@ -3347,7 +3422,7 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 
 <div class="figure" style="text-align: center">
 <img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-75)Keep your daily Anki streak going!</p>
+<p class="caption">(\#fig:unnamed-chunk-73)Keep your daily Anki streak going!</p>
 </div>
 
 ## How do I know when I'm done with a deck? {-}
@@ -3361,7 +3436,7 @@ So while this could be an indefinite process, we do have some guidelines as they
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-76)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-74)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 See the next two pages for more information on how to locate your statistics.
@@ -3381,7 +3456,7 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-77)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-75)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 
@@ -3400,13 +3475,13 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
     * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
 <div class="figure" style="text-align: center">
 <img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-78)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-76)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
     * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
     
 <div class="figure" style="text-align: center">
 <img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-79)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-77)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 <!-- Please see [`Graduation` process page]() for additional information -->
 
@@ -3432,7 +3507,7 @@ There are a few different terms Anki uses for different stages of card maturity:
     * To add an image simply copy and paste into the image field
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-80)Adding a custom image in Anki</p>
+<p class="caption">(\#fig:unnamed-chunk-78)Adding a custom image in Anki</p>
 </div>
 
 ## Can I modify the layout of a card? {-}
@@ -3467,7 +3542,7 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-81)With `Custom Study` you can temporarily increase your daily new cards</p>
+<p class="caption">(\#fig:unnamed-chunk-79)With `Custom Study` you can temporarily increase your daily new cards</p>
 </div>
 
 
@@ -3676,7 +3751,7 @@ Finally, we thank YOU for your interest in this course!
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-84)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-82)Chris Flanagan</p>
 </div>
 
 
@@ -3754,7 +3829,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-85)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-83)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -3765,7 +3840,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-86)Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-84)Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Equipment Check {-}

@@ -7,9 +7,8 @@ As we say often, our focus with Hebrew GRAMMAR Quest is not on writing Biblical 
 It is unlikely you will ever need to write the article or the conjunction with the correct vowel. We discuss these spelling details, as well as have some Anki work in these areas, because it is important to know how to recognize them in the Bible when you encounter them.
 
 
-::: {.infobox}
+::: {.infobox .map}
 **LESSON ITINERARY**
-
 
 1. Translate the Vav conjunction
 2. Identify the Vav conjunction
@@ -20,18 +19,32 @@ It is unlikely you will ever need to write the article or the conjunction with t
 7. Discuss what makes a noun definite
 :::
 
+::: {.infobox .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* Identifying the lexical form of a noun
+* The "rule of Sheva", including what happens in different combinations of two contiguous reduced vowels
+* How vowels can shift when the number of syllables changes
+* The masculine and feminine plural endings
+
+:::
+
 ## First Thought {-}
+
+### <span class="he">מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם</span> {-}
+
+_Who has measured the waters in the hollow of His hand, And marked off the heavens'  (Isaiah 40:12)_
 
 Give thanks to the Creator for the beauty and precision of His creation
 
-> (Isaiah 40:12 NASB)'Who has measured the waters in the hollow of His hand, And marked off the heavens'  
-מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/05.isa0412.mp3">
+        src="./images/05.isa4012.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -44,19 +57,6 @@ Give thanks to the Creator for the beauty and precision of His creation
 knitr::include_graphics("images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg")
 ``` 
 
-## Equipment Check {-}
-
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/stopil.png")
-```
-
-Before continuing, can you describe the following concepts?
-
-* Identifying the lexical form of a noun
-* The "rule of Sheva", including what happens in different combinations of two contiguous reduced vowels
-* How vowels can shift when the number of syllables changes
-* The masculine and feminine plural endings
 
 
 ## Translate the Vav Conjunction {#vav_translate}
@@ -72,37 +72,40 @@ As you advance in Hebrew, you will enjoy seeing how the authors employ the Vav a
 
 Many times, it makes the most sense in English to leave the Vav untranslated.  For example, suppose you read and translate the story of David and Goliath in 1 Samuel 17.  You would discover that nearly every sentence would begin with "and".  In English, we would consider these "run-on" sentences.  What is exciting about the Hebrew, and this passage in particular, is that the reader can feel the sense of tension and action building in the narrative by the use of the Vav.
 
-
+::: {.box .info}
+* As you are starting out in Hebrew, start your translation of the Vav Conjunction with "And", but be flexible.
+* Another word, such as "but" or "then" might make more sense.
+* Many times for smooth English, we will leave the Vav untranslated.
+:::
 
 ## Identify the Vav Conjunction {#vav_identify}
 
-```{r, out.width = "200pt", fig.align='center'}
+```{r, out.width = "50pt", fig.align='center'}
 library(knitr)
 include_graphics("images/05.vav_conjunction.png")
 ```
 
-* The Vav conjunction is usually וְ prefixed to a word
-* You will see וּ before  במפ - remember "BuMP"- this is the ONLY time a vowel will ever begin a syllable
-    * The ב and פ will lose their Daghesh Lene 
-        * It's בֵּן, (between), but it's וּבֵן (and between)
-    * The conjunction will also be וּ before a consonant that has a Sheva
-* You may see וָ before some accented syllables (remember the Vowel-Syllable preferences)
-* The Rule of Sheva that we studied in Lesson 4 applies when וְ is prefixed to a word beginning with a reduced vowel (Vocal Sheva or Hateph vowel)
+* The Vav conjunction is usually <span class="he">וְ</span> prefixed to a word
+* You will see <span class="he">וּ</span> before  <span class="he">במפ</span> - remember "BuMP"- this is the ONLY time a vowel will ever begin a syllable
+    * The <span class="he">ב</span> and <span class="he">פ</span> will lose their Daghesh Lene 
+        * It's <span class="he">בֵּן</span>, (between), but it's <span class="he">וּבֵן</span> (and between)
+    * The conjunction will also be <span class="he">וּ</span> before a consonant that has a Sheva
+* You may see <span class="he">וָ</span> before some accented syllables (remember the Vowel-Syllable preferences)
+* The Rule of Sheva that we studied in Lesson 4 applies when <span class="he">וְ</span> is prefixed to a word beginning with a reduced vowel (Vocal Sheva or Hateph vowel)
 
-How to tell the difference between the conjunction and words that start with ו?
+How to tell the difference between the conjunction and words that start with <span class="he">ו</span>?
 
 99.99% of the time **any Vav or Shureq as the first letter of a word is the conjunction Vav.**
 
 * Only 10 words start with Vav, and only two occur more than once
-    * וָו means "hook" and  וָוִים means "hooks - occurs 13 times in Exodus 26-38 in reference to the Tabernacle
-    * וַשְׁתִּי - Queen Vashti - occurs only in the book of Esther
-
+    * <span class="he">וָו</span> means "hook" and  <span class="he">וָוִים</span> means "hooks - occurs 13 times in Exodus 26-38 in reference to the Tabernacle
+    * <span class="he">וַשְׁתִּי</span> - Queen Vashti - occurs only in the book of Esther
 
 ## Loss of Daghesh Forte {#loss_daghesh_forte}
 
 We've been referencing the Daghesh Forte in almost every Lesson of this course.  Now we're about to meet it face to face as we discuss the Hebrew Article. 
 
-We like to think of the Daghesh Forte as your friend.  When you see it, it is Hebrew's way of saying "pay attention; something's different."
+We like to think of the Daghesh Forte as your friend.  When you see it, it is Hebrew's way of saying "pay attention; something is different."
 
 As we've discussed, sometimes the Daghesh Forte gets rejected from time to time (everybody say "awwww.")  We've discussed two of those already:
 
@@ -127,43 +130,44 @@ If you're expecting a Daghesh Forte and there isn't one, look to see if the next
 See [this handout](./images/05_sqin_em_levy.pdf){target="_blank"} for additional discussion on SQiN eM LeVY consonants.
 
 
-
 ## Translate the Article {#article_translate}
 
 In English, we have two "Indefinite Articles" = "a" or "an", and one "Definite" article = "the".  Hebrew just has one article for definiteness (so we just call it the "Article").
 
 The Article has many translations: "the", "this", "o" (as in "O king"), "his", "her", "my".
 
-הַיּוֹם is literally "the day", however a better translation is "today", or sometimes "this day".
+<span class="he">הַיּוֹם</span> is literally "the day", however a better translation is "today", or sometimes "this day".
 
-It can make an adjective superlative: הַתּוֹב is literally "the good", but can mean "the best".
-
+It can make an adjective superlative: <span class="he">הַתּוֹב</span> is literally "the good", but can mean "the best".
 
 
 ## Identify the Article {#article_identify}
 
-```{r, out.width = "200pt", fig.align='center'}
+```{r, out.width = "100pt", fig.align='center'}
 library(knitr)
 include_graphics("images/05.def_art.png")
 ```
 
-The usual form is Hei with a patach and a Daghesh Forte in the next letter.
+The usual form is Hei with a patach and a Daghesh Forte in the next letter.  Hebrew will have a lot of these repetitive sequences.  To keep things as concise as possible, we will just say "Hei+Patach+Daghesh Forte", of course moving from right to left.
 
-As we've been saying, some unusual things can happen when the letter following the ה rejects the Daghesh Forte:
+As we've been saying, some unusual things can happen when the letter following the <span class="he">ה</span> rejects the Daghesh Forte:
 
-* ּ הַ becomes simply הַ (no Daghesh Forte):
+* <span class="he">ּ הַ</span> becomes simply <span class="he">הַ</span> (no Daghesh Forte):
     * Before SQiN eM LeVY with a Sheva
-    * Before a ח or another ה (see הֶ note below)- this is called "Virtual doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
-* Becomes הָ (no daghesh forte and patach lengthens to Qamets):
-    * Before א ע ר or הָ֫ - 
+    * Before a ח or another <span class="he">ה</span> (see הֶ note below)- this is called "Virtual doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
+* Becomes <span class="he">הָ</span> (no daghesh forte and patach lengthens to Qamets):
+    * Before <span class="he">א ע ר or הָ֫ </span>- 
         * This is called "Compensatory Lengthening", and is quite common with these gutturals.  (see note below)
-* Becomes הֶ (no Daghesh Forte and a Seghol instead of a Patach):
-    * Before accented or unaccented חָ, or unaccented הָ or עָ
+* Becomes <span class="he">הֶ</span> (no Daghesh Forte and a Seghol instead of a Patach):
+    * Before accented or unaccented <span class="he">חָ</span>, or unaccented <span class="he">הָ</span> or <span class="he">עָ</span>
 
-Once again, the goal is not to memorize the alternate forms as much as recognize that they exist.  ּ הַ is the one you need to memorize.
+::: {.box .info}
+* The goal is not to memorize the alternate forms as much as recognize that they exist.
+* Hei+Patach+Daghesh Forte is the form you need to memorize
+:::
 
-::: {.infobox}
-COMPENSATORY LENGTHENING
+
+## Compensatory Lengthening
 
 * In Compensatory Lengthening, a short vowel _lengthens_ to become a long vowel to _compensate_ for the loss of a Dagesh Forte (or sometimes a vowel) in the following consonant
     * Patach will lengthen to Qamets
@@ -171,9 +175,12 @@ COMPENSATORY LENGTHENING
     * Qibbuts will lengthen to Holem
 * Compensatory Lengthening can occur in ANY letter that precedes a Daghesh Forte-rejecting Guttural or Resh...but it does not _always_ occur
 * Compensatory Lengthening can also occur in a Quiescent Aleph that rejects a Sheva.
+
+::: {.infobox .info}
 * When SQiN eM LeVY consonants reject the Daghesh, there is NEVER compensatory lengthening.
 * Sometimes there is no change to the preceding vowel - this is called "virtual doubling" as discussed above.
-::: 
+:::
+
 
 ## Hebrew Indefiniteness {#indefiniteness}
 
@@ -181,13 +188,13 @@ Hebrew (and Greek) lacks an indefinite article.
 
 A word without the Article is indefinite.
 
-Occasionally you will see "one" - אַחַת אֶהַר to indicate indefiniteness
+Occasionally you will see "one" - <span class="he">אַחַת אֶהַר</span> to indicate indefiniteness
 
 ## Hebrew Definiteness {#definiteness}
 
 The Article is not the only way Hebrew indicates definiteness
 
-An individual's name and most proper nouns are definite by definition.  דָּוִד is definite.  You will never see: הַדָּוִד . On the other hand names of people groups and some geographic features often take the article. הַיַּרְדֵּנ = the Jordan River.
+An individual's name and most proper nouns are definite by definition.  <span class="he">דָּוִד</span> is definite.  You will never see: <span class="he">*הַדָּוִד</span> . On the other hand names of people groups and some geographic features often take the article. <span class="he">הַיַּרְדֵּן</span>= the Jordan River.
 
 A word with a pronominal suffix is definite, since the suffix indicates possession, and possession is definite. See Lesson 9.
 
@@ -210,18 +217,22 @@ Keep with it; you're doing great!
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/fYwaA5f-XGc){target="_blank"}
 
-<iframe width="768" height="432" src="https://youtu.be/fYwaA5f-XGc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/fYwaA5f-XGc" frameborder="0"></iframe>
+</div>
 
 ## `Verses Warm-up` {-}
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Fa0KEAh_I84){target="_blank"}
 
-<iframe width="768" height="432" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/Fa0KEAh_I84" frameborder="0"></iframe>
+</div>
 
 ## `Anki` {-}
 
 * `Lesson 05 A. Vocab`
-* `Lesson 05 B. Grammar` * `Lesson xx C. Workbook` 
+* `Lesson 05 B. Grammar` 
 * `Lesson 05 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate the definite article and the Vav conjunction.
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
@@ -245,7 +256,9 @@ Keep with it; you're doing great!
 
 [Open Quest Quiz #05 in a new window](https://forms.gle/NsrAS9XKMbtLToW1A){target="_blank"}
 
-<iframe src="https://forms.gle/NsrAS9XKMbtLToW1A" width="800" height="600" frameborder="2" marginheight="0" marginwidth="0"></iframe>
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSc-PREmjGXSzCh1l2qenbHEHJlGV35voeamfxuAcc_JB_2j5A/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
@@ -253,5 +266,8 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 [Check to be sure you have completed all ACTIVities here](https://forms.gle/vgjsvL4QNMXzkcAE6){target="_blank"}, complete the certification below, and your badge will be on its way!
 
-<iframe src="https://forms.gle/vgjsvL4QNMXzkcAE6" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- Tribe Badge 2 = Benjamin -->
 
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdUEWHBbR9iuUrUMSJ76Fucn0qyqIPxILQpfh3Ss6Hmz8bPZA/viewform?embedded=true" frameborder="0"></iframe>
+</div>

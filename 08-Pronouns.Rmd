@@ -72,40 +72,42 @@ Notes:
 
 * This is the first time we are officially using all three elements of Person, Gender and Number.  3MS is shorthand for Person = 3rd Person, Gender = Masculine, Number=Singular
 * For 1st person, Hebrew, like English, does not distinguish between gender in the first person.  A woman says "I" and a man says "I"
-    * אָנֹכִי is considered more formal or emphatic.  It is often translated, "I, myself"
+    * <span class="he">אָנֹכִי</span> is considered more formal or emphatic.  It is often translated, "I, myself"
 * Note the following memory aids:
-    * All 1st person pronouns begin with אנ
-    * All 2 begin with accented אַתּ֫ - note the Daghesh Forte
-    * All 3 begin with accented ה֫
-    * All MP end with either מָה or ם. Think "monks" since men are monks
-    * All FP end with either נָה or ן. Think "nuns" since women are nuns
+    * All 1st person pronouns begin with <span class="he">אנ</span>
+    * All 2 begin with accented <span class="he">אַתּ֫</span> - note the Daghesh Forte
+    * All 3 begin with accented <span class="he">ה֫</span>
+    * All MP end with either <span class="he">מָה</span> or <span class="he">ם.</span> Think "monks" since men are monks
+    * All FP end with either <span class="he">נָה</span> or <span class="he">ן.</span> Think "nuns" since women are nuns
     * Who is he? He is she.
-* Do not confuse אַתָּה (you 2MS) with עַתָּה (now)
+* Do not confuse <span class="he">אַתָּה</span> (you 2MS) with <span class="he">עַתָּה</span> (now)
     
-## Relative Pronoun אֲשֶׁר
+## Relative Pronoun <span class="he">אֲשֶׁר</span>
 
 * Hebrew has one general-purpose relative pronoun
-* אֲשֶׁר is a vocabulary word for this lesson
+* <span class="he">אֲשֶׁר</span> is a vocabulary word for this lesson
 * This word does not inflect/the spelling never changes
 * It can refer to people (who) or things (that), subjectively (who) or objectively (whom)
 
 Example Deuteronomy 1:1
 
-> אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה
+> <span class="he">אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה</span>
 
-These are the words *that* Moses spoke
+_These are the words *that* Moses spoke_
 
 ## Interrogative Pronoun
 
-* מִי = who ("Who, me?")
-* מָה = what (think of your mom questioning you, "What, ma?")
-    * Can also be written as Maqqef - note the vowel shortens מַה־
-*   לָמָה = why
-    * Remember the familiar verse "אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי " - My God, my God, WHY have you forsaken me?
+* <span class="he">מִי</span> = who ("Who, me?")
+* <span class="he">מָה</span> = what (think of your mom questioning you, "What, ma?")
+    * Can also be written as Maqqef - note the vowel shortens <span class="he">מַה־</span>
+*   <span class="he">לָמָה</span> = why
+    * Remember the familiar verse "<span class="he">אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי</span> " - My God, my God, WHY have you forsaken me?
 
+::: {.box .info}
 Usually these words will appear at the beginning of a clause
+:::
 
-## Interrogative Particle הֲ
+## Interrogative Particle <span class="he">הֲ</span>
 
 English has a question mark at the end of a sentence. Hebrew has what is called an interrogative particle at the BEGINNING of a sentence that asks a yes/no question.
 
@@ -115,10 +117,11 @@ Questions that ask who? what? or why? will use the interrogative pronouns.
 
 In most cases you will not have trouble differentiating the Article from the Interrogative Particle.  Below are potential sources of ambiguity:
 
-* 1st word of a clause before חָ֫,חָ, הָ, עָ   = both are הֶ
-* 1st word of a clause before ה, ח without Qamets or SQiN eM LeVY with Sheva = both are הַ
-
-In these situations, you guessed it, you will need to let context determine whether a question is being asked.  With lots of reading practice, this will get easier.  Just know that the Definite Article is about **300X more common**.
+* 1st word of a clause before <span class="he">חָ֫,חָ, הָ, עָ</span>   = both are <span class="he">הֶ</span>
+* 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = both are <span class="he">הַ</span>
+* In these situations, you guessed it, you will need to let context determine whether a question is being asked.  
+* With lots of reading practice, this will get easier.  
+* Additionally, the Definite Article is about **300X more common**.
 
 
 ## Near and Far Demonstratives
@@ -144,15 +147,16 @@ The behavior is a lot like the Attributive use:
 * Always comes after the noun (Dem Adjective Always After)
 * Always has the article (Dem. Adjective Always Article)
 * Always matches in Gender and Number
-    * הָאִשָּׁה הַזֹּאת = this woman (FS)
-    * הָאֲנָשִׁים הָהֵם  = those men (MP)
+    * <span class="he">הָאִשָּׁה הַזֹּאת</span> = this woman (FS)
+    * <span class="he">הָאֲנָשִׁים הָהֵם</span>  = those men (MP)
 
 Mnemonic: 
 
-> Demonstrative Adjective Always After noun, Always has Article
+::: {.box .info}
+Demonstrative Adjective Always After noun, Always has Article
+:::
 
 ## Demonstrative Pronoun
-
 
 A demonstrative pronoun takes the place of a noun as the subject of a clause.  This is her daughter.
 
@@ -161,12 +165,14 @@ The behavior is a lot like the Predicative use:
 * Always comes before the noun (Pronoun Perpetually Precedes)
 * Does NOT have the article (Pronoun dePrived of article)
 * Matches Gender and Number
-    * זֹאת הַמַּלְכָּה  = this is the queen (FS)
-    * זֶה הַמֶּ֫לֶךְ = this is the king (MS)
+    * <span class="he">זֹאת הַמַּלְכָּה</span>  = this is the queen (FS)
+    * <span class="he">זֶה הַמֶּ֫לֶךְ</span> = this is the king (MS)
     
 Mnemonic:
 
-> Demonstrative Pronoun Perpetually Precedes, Perpetually dePrived of article
+::: {.box .info}
+Demonstrative Pronoun Perpetually Precedes, Perpetually dePrived of article
+:::
 
 ## Conclusion and Intro to Activities {-}
 
@@ -174,14 +180,14 @@ Your mission for the next two lessons is to focus on building your pronoun vocab
 
 It is important to know the gender, number, and where necessary the person of each.  Also the concept of multiple ways to say "you" can be confusing to the English speaker.  It's important to give the PGN, for example אַתֵּ֫נָה means "you (2FP)."
 
-If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit extra.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Verbs.  Keep at it!  You're doing awesome!
+If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit extra.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs.  Keep at it!  You're doing awesome!
 
 ## `Word Warm-up` {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/kNfZ8BblobA){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/8GIYqACoOcQ" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/kNfZ8BblobA" frameborder="0"></iframe>
 </div>
 
 
@@ -194,7 +200,6 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 </div>
 
 
-
 ## `Anki` {-}
 
 * `Lesson 08 A. Vocab`
@@ -203,7 +208,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
     * In this activity, we will have very short passages of scripture that illustrate pronouns
 * `Lesson 08 D. Verses`
 
-## `Worksheets`: Pronouns {-}
+## `Worksheets: Pronouns` {-}
 
 We have two worksheets for this lesson. Make sure you do the Anki work first, before tackling these worksheets.
 
@@ -217,16 +222,14 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 
 ### Your Quest: {-}
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+1. Identify the first instance of the relative pronoun (Yellow)
+2. Find the three uses of the interrogative particle (Green)
+3. Find at least one of the following independent pronouns (Light Blue): 3MS, 3FS, 1CS
+4. Find one near demonstrative pronoun (FS) (Pink)
+    * Translate the demonstrative phrase (answer on last page of answer key)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #8](){target="_blank"}
+* [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 ## `Quest Quiz` {-}
