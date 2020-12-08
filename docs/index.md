@@ -3240,8 +3240,8 @@ It is these times where we must depend on God, and it is times like these where 
 * A __root__ is the set of consonants on which a verb (and often nouns) are based
 * The majority of verbs have three __root consonants__
 *  As a convention, many Hebrew grammars label these $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do".  Additionally in some references the position may be displayed without the subscript: R1, R2, etc. </small>]</small>.
-* For the verb **קָטַ֫לְתִּי***:
-    * The __root__ would be **קטל*** (no vowels)
+* For the verb<span class="he">קָטַ֫לְתִּי</span>:
+    * The __root__ would be<span class="he">קטל</span>(no vowels)
         * $R_1$ = ק 
         * $R_2$ = ט
         * $R_3$ = ל
@@ -3252,9 +3252,9 @@ It is these times where we must depend on God, and it is times like these where 
 * A verbal preformative (if any) goes before $R_1$ and a sufformative (if any) goes after $R_3$
 * Any _prefix_ such as the interogative particle, or (commonly) the conjunction vav, goes _before_ the preformative
 * Any _suffix_, such as a pronominal suffix, goes _after_ the sufformative
-* For the verb **קָטַ֫לְתִּי***, the sufformative is **תִּי*** and there is no preformative (and no prefix or suffix)
-* For the verb **יִקְטְלוּ***, the preformative is **יִ  ***, and the sufformative is ** וּ ***
-* For the verb **יִקְטְל֫וּהָ***, the preformative is **יִ***, the sufformative is **וּ*** and the pronominal suffix is **הָ***
+* For the verb<span class="he">קָטַ֫לְתִּי</span>, the sufformative is<span class="he">תִּי</span>and there is no preformative (and no prefix or suffix)
+* For the verb<span class="he">יִקְטְלוּ</span>, the preformative is<span class="he">יִ </span>, and the sufformative is<span class="he"> וּ</span>
+* For the verb<span class="he">יִקְטְל֫וּהָ</span>, the preformative is<span class="he">יִ</span>, the sufformative is<span class="he">וּ</span>and the pronominal suffix is<span class="he">הָ</span>
 ## X Person, Gender, Number and Finite / Non-finite verbs
 
 
@@ -3265,7 +3265,7 @@ It is these times where we must depend on God, and it is times like these where 
 * Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
     * The stem vowel is usually $V_2$ but this is not a constant.  Sometimes it can be $V_1$
     * The vowel associated with $R_3$ turns out to be less important so we do not need to identify this
-* For the verb **יִקְטְל֫וּהָ***, the $V_P$ is hireq; V_1$ is Silent Sheva; and, $V_2$/$V_S$ are Vocal Sheva
+* For the verb<span class="he">יִקְטְל֫וּהָ</span>, the $V_P$ is hireq; V_1$ is Silent Sheva; and, $V_2$/$V_S$ are Vocal Sheva
 
 
 ## The Seven Stems
