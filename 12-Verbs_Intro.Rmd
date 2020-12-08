@@ -1,3 +1,286 @@
-# (PART) Qal Binyanim {-}
-
 # Introduction to Hebrew Verbs {#Verbs}
+
+> To comprehend Biblical Hebrew, we must be familiar with the Hebrew verbal system
+
+Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives and prepositions, the remainder of the course will focus on verbs. Around 70% of Hebrew verbs are in what is called the Qal stem so we will spend Lessons 13-22 learning that stem inside and out.  Before we do that, we want to provide a brief introduction on the verb system as a whole and learn some overall conventions.
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. The Verbal Root
+1. Preformatives and Sufformatives
+1. Verbal Vowels
+1. The Seven Hebrew Verb Stems
+1. Person, Gender, Number
+1. The Eight Basic Hebrew Verb Conjugations
+1. Finite and Non-Finite Conjugations
+1. Parsing Conventions
+1. Strong and Weak Verbs
+
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, have you completed all requirements for your certificate for Lessons 1-11?
+:::
+
+## First Thought {-}
+
+### <span class="he">וְהֽוּא־הָלַ֤ךְ בַּמִּדְבָּר֙ דֶּ֣רֶךְ י֔וֹם </span> {-}
+
+*But he himself went a day's journey into the wilderness . . . (1 Kings 19:4)*
+
+As we begin a long stretch in Hebrew Verbs, with what ultimately is the remainder of this course, at times you may feel as exhausted, dry, and isolated as if you were were Elijah (the subject of 1 Kings 19:4) driven into the wilderness.  
+
+It is these times where we must depend on God, and it is times like these where God can pour into us and prepare us for our next adventure.  Moses, Elijah, John the Immerser, and several others all had their time in the Wilderness that God used to mold them as servant-leaders.  Of course we can point to Yeshua himself and his time in the wilderness at the beginning of his ministry.  Embrace the wilderness!
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/12.04.1ki1904.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+*****
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Judean Wilderness. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/12.Judean wilderness at sunset, tb021107716.jpg")
+``` 
+
+
+
+## The Verbal Root
+    * A __root__ is the set of consonants on which a verb (and often nouns) are based
+    * The majority of verbs have three __root consonants__
+        *  As a convention, many Hebrew grammars label these $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do".  Additionally in some references the position may be displayed without the subscript: R1, R2, etc. </small>]</small>.
+        * For the verb **קָטַ֫לְתִּי***:
+            * The __root__ would be **קטל*** (no vowels)
+                * $R_1$ = ק 
+                * $R_2$ = ט
+                * $R_3$ = ל
+
+## Preformatives, Sufformatives, Prefixes, and Suffixes
+
+* Hebrew Grammars often use the terms "preformative" and "sufformative" exclusively for verbs
+* A verbal preformative (if any) goes before $R_1$ and a sufformative (if any) goes after $R_3$
+* Any _prefix_ such as the interogative particle, or (commonly) the conjunction vav, goes _before_ the preformative
+* Any _suffix_, such as a pronominal suffix, goes _after_ the sufformative
+* For the verb **קָטַ֫לְתִּי***, the sufformative is **תִּי*** and there is no preformative (and no prefix or suffix)
+* For the verb **יִקְטְלוּ***, the preformative is **יִ  ***, and the sufformative is ** וּ ***
+* For the verb **יִקְטְל֫וּהָ***, the preformative is **יִ***, the sufformative is **וּ*** and the pronominal suffix is **הָ***
+## X Person, Gender, Number and Finite / Non-finite verbs
+
+
+
+## Verbal Vowels
+
+* Being able to identify a verbal vowel's position will turn out to be important in identifying the Verbal Root and the Stem
+* Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
+    * The stem vowel is usually $V_2$ but this is not a constant.  Sometimes it can be $V_1$
+    * The vowel associated with $R_3$ turns out to be less important so we do not need to identify this
+* For the verb **יִקְטְל֫וּהָ***, the $V_P$ is hireq; V_1$ is Silent Sheva; and, $V_2$/$V_S$ are Vocal Sheva
+
+
+## The Seven Stems
+
+* Most of what you will need to learn about verbs will provide you more information about the verb but does not directly affect the word's meaning.  Not so with the stem.
+* The verb __stem__ affects the meaning of the verb itself
+    * At a basic level, the stem provides the _type of action_ (simple, causative, intensive) and the _voice_ (active or passive)
+    * There is much scholarly debate about the table below, but it provides a good starting place:
+    
+| |Active Voice| Passive Voice | Reflexive Voice
+| - | - | - | -
+Simple Action	| Qal | Niphal | Niphal
+Intensive	| Piel | Pual | Hitpael
+Cause an Action	|Hiphil | Hophal
+
+The Seven Stems:
+
+1. Qal - active (versus passive) voice and a simple, nuanced type of action - “he broke the vase”
+    * Qal is the primary Hebrew Stem, the majority of Verbs in the Hebrew Bible are Qal
+    * The remaining six stems are called "derived" stems
+2. Niphal - passive or reflexive voice with a simple action - “the vase was broken”
+3. Piel active/intensive - “he smashed the vase” 
+4. Pual - Passive/intensive - “the vase was shattered”
+5. Hiphil - Active/Causative - “he caused the vase to be broken”
+6. Hophal - Passive/Causative - “the vase was caused to be broken”
+7. Hitpael - Reflexive/Intensive - “he appointed himself “Chief Ceramic Repair Officer”
+
+
+
+## Person, Gender, Number
+
+* The person, gender and number refers to the __subject__ of the verb.
+    * Pronominal suffixes are used to denote the object of the verb.  We will study these in Lesson 19.
+* Person, Gender, and Number are as we learned with nouns
+    * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e. there is not a masculine form of "I" and a separate feminine form of "I")
+    * Person
+        * 1st person is the speaker - "I/we sat"
+        * 2nd person is the person being spoken to - "you sat"
+        * 3rd person is anyone else - "he/she/it/they sat"
+    * Number is singular or plural - there are no dual verb forms
+    
+::: {.box .info}
+When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular".  See additional discussion in the "Parsing" section of this Lesson.
+:::
+
+
+
+## The Eight Basic Conjugations
+
+* While the Stem provides the overall meaning, the _conjugation_ provides additional descriptive information needed for translation
+* Strictly speaking, Hebrew does not have past, present, future, tense, like English does
+* Instead, the easiest way of thinking about it is that Hebrew has complete vs incomplete action
+1. The _Perfect_ conjugation describes completed action 
+    * Most often we translate this as English past tense - "She went"
+    * Verbs that describe a state of being as will an action that is completed in the future will be in the Perfect
+    Parsing code: P
+2. The _Imperfect_ conjugation describes an incomplete action 
+    * Most often, we translate this as English future tense - "She will go"
+    * Verbs that describe a process (that is not completed) or incomplete action even if in the past will tend to be in the Imperfect
+    * Parsing code: I
+3. The _Imperative_ conjugation describes a second person command - "Go!"
+    * Parsing code: M
+4. The _Cohortative_ conjugation is similar to the Imperative but for the 1st person - "I should go"<small>^[<small>Some grammars classify "Corhortative" and "Jussive" as "Verb Moods" and the remaining as "Verb Tenses."</small>]</small>.
+    * Parsing code: C
+5. The _Jussive_ conjugation is similar to the Imperative but for the 3rd person - "He should go."
+    * Parsing code: J
+6. The _Infinitive Construct_ - "to go", or a verbal noun as in, "going"
+    * Parsing code: ∞
+7. The _Infinitive Absolute_ - special uses, less common and has no direct equivalent in English
+    * Parsing code: A
+8. The _Participle_ - verbal adjective, "runner" "one who runs"
+    * Parsing code: Pt
+    
+### Vav prefix {-}
+
+* Some grammars identify three additional forms, each with a Vav prefix, as additional conjugations/tenses:
+    * Perfect + Vav
+    * Imperfect + Vav
+    * Imperfect Vav Consecutive 
+* We will discuss these forms further in Lesson 17
+
+:: {.box .light}
+
+Finite vs Non-Finite Conjugations
+
+* _FINITE_ verbs have "person"
+    * Perfect, Imperfect, Imperative, Cohortative, Jussive
+* _NON-FINITE_ verbs do NOT have "person
+    * Infinitive Construct, Infinitive Absolute, Participle
+    * Only Participles have Gender and Number
+:::
+
+## Parsing
+
+* Parsing is the process of breaking down a verb into its component parts
+* The following should be included when parsing a verb (as applicable):
+    * Stem
+    * Conjugation
+    * Person (only for finite)
+    * Gender (except for Infinitive forms)
+    * Number (except for Infinitive forms)
+    * Either the _Root_ form or the _Lexical_ form
+        * We've already mentioned the _root_ - these are the three root letters without vowels
+        * _Lexical_ form for verbs is similar to non-verbs in that it is the most common inflected form
+        * For verbs, the lexical form is usually the Qal Perfect 3ms (or QP3ms)
+            * Only if $R_2$ is a vowel, the Lexical form is the Q∞ form
+        * For parsing in this course, the Anki exercises will prompt for the _Root_
+    
+::: {.box .info}
+Parsing/Morphology Code
+
+As it would get cumbersome to consistently write the full descriptions, such as "Hitpael Cohortative Third Person, Masculine Plural", many Hebrew grammarians use what is called "parsing code."  
+
+Unfortunately the nomenclature for morphology is not standardized.  We will be using Dr. John Beckman's code as he has applied it to "Basics of Biblical Hebrew".  His shorthand for the above, would be "tDC3mp".  For comparison, Logos software's code would be "VgI3MS-C".
+
+We do not have very many writing assignments in Hebrew GRAMMAR Quest; but, when we do have worksheets, feel free to use Parsing Code (or not!).  We'll mention the stem's parsing code as we introduce each section (and you'll have to wait until Lesson 35 to see why Hitpael is "tD")
+
+To get the Infinity symbol, use the keyboard combination <alt>+236.
+:::
+
+## Strong and Weak Verbs
+
+As we get into each stem, there will be separate chapters devoted to strong and week verbs; therefore, it might be good for you to know what we mean by these terms.
+
+* Each conjugation will have a basic paradigm that directs vowels, accents, preformatives and sufformatives for each PGN
+* Simply put, strong verbs will always follow this paradigm, while weak verbs will have one or more weak letters that result in some deviation from the paradigm
+    * To put another way, strong verbs are "regular" and weak verbs are "irregular"
+* The good news is when Hebrew verbs are weak, the behavior is usually predictable
+* In fact, you have already learned almost every behavior change we will encounter with weak verbs - it will just be a matter of taking that which you already know and applying it to a new area
+    * You know that gutturals reject Vocal Sheva
+        * So when the strong verb paradigm requires a Vocal Sheva, you already know there will be hateph vowels and possibly the rule of Sheva at play
+    * You already know that the gutturals and Resh reject the Daghesh Forte
+        * So when the strong verb paradigm requires a Daghesh Forte, you already know there will likely be Virtual Doubling or Compensatory Lengthening
+* Weak verbs may take a little more thought but overall they are nothing to be concerned about
+* Perhaps ironically, the better you know your _vocabulary_ and the _strong_ verb paradigms, the easier the _weak_ verbs will be
+* This is why this course will focus on memorizing the Qal strong paradigms, with robotic-like recall
+
+That's enough for this introduction to Hebrew verbs.  Let's get to the exercises
+
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/MGk-CGqJwUY){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/MGk-CGqJwUY" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+Note: See Unit 3 Introduction for a discussion of the cantillation accent marks you see on the video. [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/AS03bG1xjBE){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/AS03bG1xjBE" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 12 A. Vocab`
+* `Lesson 12 B. Grammar` 
+* `Lesson 12 C. Workbook`
+* `Lesson 12 D. Study Verses`
+
+
+
+## Hebrew Quest Study Passage: Proverbs Study #1-4 {-}
+
+[Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/edit?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* PLEASE DO NOT: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #1](https://holylanguage.com/proverbs-1.php){target="_blank"}
+    1. [Proverbs #2](https://holylanguage.com/proverbs-2.php){target="_blank"}
+    1. [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
+    1. [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage.
+
+Optionally, you may wish to complete passage memorization in Memrise if you have not already done so [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/16/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+
+

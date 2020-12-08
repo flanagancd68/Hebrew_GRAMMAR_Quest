@@ -24,14 +24,14 @@ Lesson Points | A brief discussion of the items on the Lesson Itinerary. The goa
  `D. Study Verses`|You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Keep in mind the goal is translation and comprehension, not rote memorization.
 `Worksheets`|Additional activities to reinforce learning (selected lessons)
 `Ruth Pursuit`|Similar to the "bag the letter" in _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1.
-`Hebrew Quest Study Passages`|Beginning with Lesson 18, we will link-up with the Hebrew Quest study passages.
+`Hebrew Quest Study Passages`|Beginning with Lesson 17, we will link-up with the Hebrew Quest study passages.
 `Quest Quiz`|Self-assessment activity to measure your familiarity with the material.  No grades are recorded or granted in this course. 
 `Twelve Tribes Badges` and `Graduation`|Fun things that mark the completion of various stages of your GRAMMAR Quest.
 
 
 We have also created a Course Checklist to help keep you organized. Instructions for accessing this are on the next page.
 
-Throughought the way you'll see some informational boxes.  Here is what they mean:
+Throughout the way you'll see some informational boxes.  Here is what they mean:
 
 ::: {.infobox .map}
 The Lesson Itinerary - learning objectives

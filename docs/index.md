@@ -1,6 +1,6 @@
 ---
-title: "Hebrew GRAMMAR Quest - Preview"
-#date: "2020-11-17"
+title: "Hebrew GRAMMAR Quest"
+#date: "2020-12-08"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2020-11-17</small>
+<small>*Updated*: 2020-12-08</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -159,14 +159,14 @@ Lesson Points | A brief discussion of the items on the Lesson Itinerary. The goa
  `D. Study Verses`|You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Keep in mind the goal is translation and comprehension, not rote memorization.
 `Worksheets`|Additional activities to reinforce learning (selected lessons)
 `Ruth Pursuit`|Similar to the "bag the letter" in _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1.
-`Hebrew Quest Study Passages`|Beginning with Lesson 18, we will link-up with the Hebrew Quest study passages.
+`Hebrew Quest Study Passages`|Beginning with Lesson 17, we will link-up with the Hebrew Quest study passages.
 `Quest Quiz`|Self-assessment activity to measure your familiarity with the material.  No grades are recorded or granted in this course. 
 `Twelve Tribes Badges` and `Graduation`|Fun things that mark the completion of various stages of your GRAMMAR Quest.
 
 
 We have also created a Course Checklist to help keep you organized. Instructions for accessing this are on the next page.
 
-Throughought the way you'll see some informational boxes.  Here is what they mean:
+Throughout the way you'll see some informational boxes.  Here is what they mean:
 
 ::: {.infobox .map}
 The Lesson Itinerary - learning objectives
@@ -1026,17 +1026,17 @@ Then after watching these, go ahead and jump into `Anki`.
 
 ## `Word Warm-up` {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/WBDxQB-ix4g){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/h0Ni1_Zya2U){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/WBDxQB-ix4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/h0Ni1_Zya2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## `Verses Warm-up` {-}
 
 * Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
-        
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/HhnKPxKvUcE){target="_blank"}
+     
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA{target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/HhnKPxKvUcE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/9IkIvWPArlA frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
   
@@ -1171,28 +1171,28 @@ Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, th
 Some students fall into a habit of thinking every word-final ה is feminine.  Remember <span class="he">ה ֶ֫</span>  is masculine
 :::
 
-## Plural and Dual Noun Endings {#noun_pluralization}
+## Plural Noun Endings {#noun_pluralization}
 
 For regular nouns, simply remove the singular ending if there is one, and add the plural ending.
 
 * Plural endings:
     * MP: <span class="he">ים ִ</span> e.g. **<span class="he">סוּסִים</span>** 
         * <span class="he">דָּבָר</span> becomes **<span class="he">דְּבָרִים</span>**
+            * A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
+            * As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
         * <span class="he">עָנָן</span> becomes **<span class="he">עֲנָנִים</span>** (clouds)
+            *  A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
         * <span class="he">כּוֹכָב</span> becomes **<span class="he">כּוֹכָבִים</span>**
-
+            *  An irreducible long vowel will not reduce - <span class="he">כּוֹכָבִים</span> 
     * FP: <span class="he">וֹת</span> e.g. **<span class="he">מְלָכוֹת</span>** (queens)
         * <span class="he">תּוֹרָה</span> becomes **<span class="he">תּוֹרוֹת</span>** 
 
-Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
+Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. 
 
-*   A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
-*   A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
-*   An irreducible long vowel will not reduce - <span class="he">כּוֹכָבִים</span> 
+## Dual Noun Endings
 
-* Dual endings:
-    * MD: <span class="he">יִם ַ</span> e.g. <span class="he">סוּסַ֫יִם</span> (two horses)
-    * FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws).
+* MD: <span class="he">יִם ַ</span> e.g. <span class="he">סוּסַ֫יִם</span> (two horses)
+* FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws).
 
 Occasionally, we will see defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>
 
@@ -1361,13 +1361,13 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #04](./images/04_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #4](./images/04_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #04 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
+[Open Quest Quiz #4 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
 
-<div class="container">
+<div class="containerLet">
 <iframe 
     class="responsive-iframe"
     src="https://forms.gle/2LCEgvmpHr5mqB5Z6">
@@ -1749,7 +1749,7 @@ Like <span class="he">וְ</span> for the word "and", an inseparable preposition
 
 Three Hebrew prepositions are **ALWAYS** written this way, usually with a Vocal Sheva under the prepositional letter:
 
-<img src="images/05.inseparable.png" width="400pt" style="display: block; margin: auto;" />
+<img src="images/05.inseparable.png" width="300pt" style="display: block; margin: auto;" />
 
 ::: {.box .info}
 A mnemonic to remember these three inseparable prepositions is "buckle"
@@ -2074,6 +2074,9 @@ We've studied the fact that the <span class="he">ה ָ</span>  is the Feminine S
 
 Note that <span class="he">אֶל־הָאָ֫רֶץ</span> and <span class="he">אַ֫רְצָה</span> are essentially synonymous.
 
+<span class="he">אָנֹכִי אֵרֵד עִמְּךָ מִצְרַ֫יְמָה </span>
+
+_I will go down with you to Egypt (Gen 46:4)_
 
 ## `Word Warm-up` {-}
 
@@ -3127,11 +3130,520 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 
 # (PART) Qal Binyanim {-}
 
+# Introduction to Unit 3 {-}
+
+This unit represents a pivot point in this course.  From now through the end of the course, we will be focusing on verbs.  In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth.  Then in Unit 4 we will learn the six so-called "derived" stems.
+
+With this unit, we are going to increase the intensity of our Hebrew workouts in a couple of ways:
+
+1. Hebrew Quest Study Passages
+2. Cantillation marks added to Study Verses
+
+## Hebrew Quest Study Passages {-}
+
+As we mentioned way back in the introduction, we will incorporate scripture reading passages from _Hebrew Quest_.  We will start off slowly with the verses from the Proverbs study.  Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40).
+
+Here is what we want you to do in these Study Passages activities:
+
+1. Download or print the applicable study passage document
+2. Translate verse by verse
+    1. First see how much you can do without a reference
+    2. Then look up any words you don't know in a lexicon
+3. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
+4. Compare your translation from step 2 with Izzy's explanation on the video?  How did you do?  Can you see how much you are learning?
+
+## Cantillation Marks {-}
+
+Way back in Lesson 2, we talked about cantillation marks.  These are the marks in addition to vowels and consonants we sometimes see in Hebrew.  Here is an example from Genesis:
+<img src="images/02.Gen0109.png" width="600pt" style="display: block; margin: auto;" />
+
+Up until now, we have been using a simple accent mark whenever a Hebrew word has an accent on the second to last syllable.  For example, **נֶ֫גֶב***.  While the Lessons and other materials will continue to use these simple accents, from now on, we will graduate to using the full set of Hebrew accents in our Study Verses and Workbook exercises.  Why do this?
+
+>When you read from a Tanach, you are much more likely to encounter the complete set of Hebrew accent marks.  So part of becoming more comfortable with the Hebrew Bible must include a basic familiarity with these additional marks. 
+
+Things to keep in mind:
+
+* There are over 20 different cantilation marks.  We won't go into what each one means, but there are plenty of resources on the Internet if you are interested in digging deeper
+* If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark
+* Remember that a syllable can have only one vowel
+* Most often there is only one cantillation mark per word - <u>where you see the mark is where the accent goes</u>
+* Occasionally you will see a mark near the front or middle of the word and a mark near the end of a word.  The first mark is a secondary accent.  Remember, a primary Hebrew accent can ONLY be on the LAST or SECOND-TO-LAST syllable
+* The vertical line | that can appear between two words can be ignored
+* When in doubt, listen to Izzy's audio carefully as he reads each verse, to determine where the accent goes
+
+Trying to read with these marks can be visually distracting and overwhelming at first, but with practice you will get used to them.  They are part of the rich tradition of Biblical Hebrew that has been passed down to us from many centuries ago.
+
+Now, let's get to Hebrew Verbs!
+
+
+<!--chapter:end:11b-Unit3_Intro.Rmd-->
+
 # Introduction to Hebrew Verbs {#Verbs}
+
+> To comprehend Biblical Hebrew, we must be familiar with the Hebrew verbal system
+
+Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives and prepositions, the remainder of the course will focus on verbs. Around 70% of Hebrew verbs are in what is called the Qal stem so we will spend Lessons 13-22 learning that stem inside and out.  Before we do that, we want to provide a brief introduction on the verb system as a whole and learn some overall conventions.
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. The Verbal Root
+1. Preformatives and Sufformatives
+1. Verbal Vowels
+1. The Seven Hebrew Verb Stems
+1. Person, Gender, Number
+1. The Eight Basic Hebrew Verb Conjugations
+1. Finite and Non-Finite Conjugations
+1. Parsing Conventions
+1. Strong and Weak Verbs
+
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, have you completed all requirements for your certificate for Lessons 1-11?
+:::
+
+## First Thought {-}
+
+### <span class="he">וְהֽוּא־הָלַ֤ךְ בַּמִּדְבָּר֙ דֶּ֣רֶךְ י֔וֹם </span> {-}
+
+*But he himself went a day's journey into the wilderness . . . (1 Kings 19:4)*
+
+As we begin a long stretch in Hebrew Verbs, with what ultimately is the remainder of this course, at times you may feel as exhausted, dry, and isolated as if you were were Elijah (the subject of 1 Kings 19:4) driven into the wilderness.  
+
+It is these times where we must depend on God, and it is times like these where God can pour into us and prepare us for our next adventure.  Moses, Elijah, John the Immerser, and several others all had their time in the Wilderness that God used to mold them as servant-leaders.  Of course we can point to Yeshua himself and his time in the wilderness at the beginning of his ministry.  Embrace the wilderness!
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/12.04.1ki1904.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+*****
+
+<div class="figure" style="text-align: center">
+<img src="images/12.Judean wilderness at sunset, tb021107716.jpg" alt="Judean Wilderness. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-67)Judean Wilderness. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+## The Verbal Root
+    * A __root__ is the set of consonants on which a verb (and often nouns) are based
+    * The majority of verbs have three __root consonants__
+        *  As a convention, many Hebrew grammars label these $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do".  Additionally in some references the position may be displayed without the subscript: R1, R2, etc. </small>]</small>.
+        * For the verb **קָטַ֫לְתִּי***:
+            * The __root__ would be **קטל*** (no vowels)
+                * $R_1$ = ק 
+                * $R_2$ = ט
+                * $R_3$ = ל
+
+## Preformatives, Sufformatives, Prefixes, and Suffixes
+
+* Hebrew Grammars often use the terms "preformative" and "sufformative" exclusively for verbs
+* A verbal preformative (if any) goes before $R_1$ and a sufformative (if any) goes after $R_3$
+* Any _prefix_ such as the interogative particle, or (commonly) the conjunction vav, goes _before_ the preformative
+* Any _suffix_, such as a pronominal suffix, goes _after_ the sufformative
+* For the verb **קָטַ֫לְתִּי***, the sufformative is **תִּי*** and there is no preformative (and no prefix or suffix)
+* For the verb **יִקְטְלוּ***, the preformative is **יִ  ***, and the sufformative is ** וּ ***
+* For the verb **יִקְטְל֫וּהָ***, the preformative is **יִ***, the sufformative is **וּ*** and the pronominal suffix is **הָ***
+## X Person, Gender, Number and Finite / Non-finite verbs
+
+
+
+## Verbal Vowels
+
+* Being able to identify a verbal vowel's position will turn out to be important in identifying the Verbal Root and the Stem
+* Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
+    * The stem vowel is usually $V_2$ but this is not a constant.  Sometimes it can be $V_1$
+    * The vowel associated with $R_3$ turns out to be less important so we do not need to identify this
+* For the verb **יִקְטְל֫וּהָ***, the $V_P$ is hireq; V_1$ is Silent Sheva; and, $V_2$/$V_S$ are Vocal Sheva
+
+
+## The Seven Stems
+
+* Most of what you will need to learn about verbs will provide you more information about the verb but does not directly affect the word's meaning.  Not so with the stem.
+* The verb __stem__ affects the meaning of the verb itself
+    * At a basic level, the stem provides the _type of action_ (simple, causative, intensive) and the _voice_ (active or passive)
+    * There is much scholarly debate about the table below, but it provides a good starting place:
+    
+| |Active Voice| Passive Voice | Reflexive Voice
+| - | - | - | -
+Simple Action	| Qal | Niphal | Niphal
+Intensive	| Piel | Pual | Hitpael
+Cause an Action	|Hiphil | Hophal
+
+The Seven Stems:
+
+1. Qal - active (versus passive) voice and a simple, nuanced type of action - “he broke the vase”
+    * Qal is the primary Hebrew Stem, the majority of Verbs in the Hebrew Bible are Qal
+    * The remaining six stems are called "derived" stems
+2. Niphal - passive or reflexive voice with a simple action - “the vase was broken”
+3. Piel active/intensive - “he smashed the vase” 
+4. Pual - Passive/intensive - “the vase was shattered”
+5. Hiphil - Active/Causative - “he caused the vase to be broken”
+6. Hophal - Passive/Causative - “the vase was caused to be broken”
+7. Hitpael - Reflexive/Intensive - “he appointed himself “Chief Ceramic Repair Officer”
+
+
+
+## Person, Gender, Number
+
+* The person, gender and number refers to the __subject__ of the verb.
+    * Pronominal suffixes are used to denote the object of the verb.  We will study these in Lesson 19.
+* Person, Gender, and Number are as we learned with nouns
+    * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e. there is not a masculine form of "I" and a separate feminine form of "I")
+    * Person
+        * 1st person is the speaker - "I/we sat"
+        * 2nd person is the person being spoken to - "you sat"
+        * 3rd person is anyone else - "he/she/it/they sat"
+    * Number is singular or plural - there are no dual verb forms
+    
+::: {.box .info}
+When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular".  See additional discussion in the "Parsing" section of this Lesson.
+:::
+
+
+
+## The Eight Basic Conjugations
+
+* While the Stem provides the overall meaning, the _conjugation_ provides additional descriptive information needed for translation
+* Strictly speaking, Hebrew does not have past, present, future, tense, like English does
+* Instead, the easiest way of thinking about it is that Hebrew has complete vs incomplete action
+1. The _Perfect_ conjugation describes completed action 
+    * Most often we translate this as English past tense - "She went"
+    * Verbs that describe a state of being as will an action that is completed in the future will be in the Perfect
+    Parsing code: P
+2. The _Imperfect_ conjugation describes an incomplete action 
+    * Most often, we translate this as English future tense - "She will go"
+    * Verbs that describe a process (that is not completed) or incomplete action even if in the past will tend to be in the Imperfect
+    * Parsing code: I
+3. The _Imperative_ conjugation describes a second person command - "Go!"
+    * Parsing code: M
+4. The _Cohortative_ conjugation is similar to the Imperative but for the 1st person - "I should go"<small>^[<small>Some grammars classify "Corhortative" and "Jussive" as "Verb Moods" and the remaining as "Verb Tenses."</small>]</small>.
+    * Parsing code: C
+5. The _Jussive_ conjugation is similar to the Imperative but for the 3rd person - "He should go."
+    * Parsing code: J
+6. The _Infinitive Construct_ - "to go", or a verbal noun as in, "going"
+    * Parsing code: ∞
+7. The _Infinitive Absolute_ - special uses, less common and has no direct equivalent in English
+    * Parsing code: A
+8. The _Participle_ - verbal adjective, "runner" "one who runs"
+    * Parsing code: Pt
+    
+### Vav prefix {-}
+
+* Some grammars identify three additional forms, each with a Vav prefix, as additional conjugations/tenses:
+    * Perfect + Vav
+    * Imperfect + Vav
+    * Imperfect Vav Consecutive 
+* We will discuss these forms further in Lesson 17
+
+:: {.box .light}
+
+Finite vs Non-Finite Conjugations
+
+* _FINITE_ verbs have "person"
+    * Perfect, Imperfect, Imperative, Cohortative, Jussive
+* _NON-FINITE_ verbs do NOT have "person
+    * Infinitive Construct, Infinitive Absolute, Participle
+    * Only Participles have Gender and Number
+:::
+
+## Parsing
+
+* Parsing is the process of breaking down a verb into its component parts
+* The following should be included when parsing a verb (as applicable):
+    * Stem
+    * Conjugation
+    * Person (only for finite)
+    * Gender (except for Infinitive forms)
+    * Number (except for Infinitive forms)
+    * Either the _Root_ form or the _Lexical_ form
+        * We've already mentioned the _root_ - these are the three root letters without vowels
+        * _Lexical_ form for verbs is similar to non-verbs in that it is the most common inflected form
+        * For verbs, the lexical form is usually the Qal Perfect 3ms (or QP3ms)
+            * Only if $R_2$ is a vowel, the Lexical form is the Q∞ form
+        * For parsing in this course, the Anki exercises will prompt for the _Root_
+    
+::: {.box .info}
+Parsing/Morphology Code
+
+As it would get cumbersome to consistently write the full descriptions, such as "Hitpael Cohortative Third Person, Masculine Plural", many Hebrew grammarians use what is called "parsing code."  
+
+Unfortunately the nomenclature for morphology is not standardized.  We will be using Dr. John Beckman's code as he has applied it to "Basics of Biblical Hebrew".  His shorthand for the above, would be "tDC3mp".  For comparison, Logos software's code would be "VgI3MS-C".
+
+We do not have very many writing assignments in Hebrew GRAMMAR Quest; but, when we do have worksheets, feel free to use Parsing Code (or not!).  We'll mention the stem's parsing code as we introduce each section (and you'll have to wait until Lesson 35 to see why Hitpael is "tD")
+
+To get the Infinity symbol, use the keyboard combination <alt>+236.
+:::
+
+## Strong and Weak Verbs
+
+As we get into each stem, there will be separate chapters devoted to strong and week verbs; therefore, it might be good for you to know what we mean by these terms.
+
+* Each conjugation will have a basic paradigm that directs vowels, accents, preformatives and sufformatives for each PGN
+* Simply put, strong verbs will always follow this paradigm, while weak verbs will have one or more weak letters that result in some deviation from the paradigm
+    * To put another way, strong verbs are "regular" and weak verbs are "irregular"
+* The good news is when Hebrew verbs are weak, the behavior is usually predictable
+* In fact, you have already learned almost every behavior change we will encounter with weak verbs - it will just be a matter of taking that which you already know and applying it to a new area
+    * You know that gutturals reject Vocal Sheva
+        * So when the strong verb paradigm requires a Vocal Sheva, you already know there will be hateph vowels and possibly the rule of Sheva at play
+    * You already know that the gutturals and Resh reject the Daghesh Forte
+        * So when the strong verb paradigm requires a Daghesh Forte, you already know there will likely be Virtual Doubling or Compensatory Lengthening
+* Weak verbs may take a little more thought but overall they are nothing to be concerned about
+* Perhaps ironically, the better you know your _vocabulary_ and the _strong_ verb paradigms, the easier the _weak_ verbs will be
+* This is why this course will focus on memorizing the Qal strong paradigms, with robotic-like recall
+
+That's enough for this introduction to Hebrew verbs.  Let's get to the exercises
+
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/MGk-CGqJwUY){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/MGk-CGqJwUY" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+Note: See Unit 3 Introduction for a discussion of the cantillation accent marks you see on the video. [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/AS03bG1xjBE){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/AS03bG1xjBE" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 12 A. Vocab`
+* `Lesson 12 B. Grammar` 
+* `Lesson 12 C. Workbook`
+* `Lesson 12 D. Study Verses`
+
+
+
+## Hebrew Quest Study Passage: Proverbs Study #1-4 {-}
+
+[Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/edit?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* PLEASE DO NOT: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #1](https://holylanguage.com/proverbs-1.php){target="_blank"}
+    1. [Proverbs #2](https://holylanguage.com/proverbs-2.php){target="_blank"}
+    1. [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
+    1. [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage.
+
+Optionally, you may wish to complete passage memorization in Memrise if you have not already done so [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/16/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+
+
 
 <!--chapter:end:12-Verbs_Intro.Rmd-->
 
 # Qal Perfect - Strong Verbs {.QP-s}
+
+
+
+> To comprehend Biblical Hebrew, we must be able to . . . 
+
+Say something general bridging the desired outcome above with the learning objectives below
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* 
+*
+:::
+
+## X First Thought {-}
+
+### X <span class="he"> </span> {-}
+
+*verse (reference 1:1)*
+
+-brief meditation-
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+*****
+
+<div class="figure" style="text-align: center">
+<img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-68)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+
+
+<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
+
+
+
+## X Point1 
+
+
+
+## X Point2 
+
+
+
+## X Point3 
+
+
+
+## Building the Qal Perfect Strong Paradigm
+
+<img src="images/13.Qal_Perfect_Strong.gif" width="800pt" style="display: block; margin: auto;" />
+
+<img src="images/13.QP_steps.png" width="600pt" style="display: block; margin: auto;" />
+## X Point5 
+
+
+
+## X Point6 
+
+
+
+## X Point7 
+
+
+
+
+## X Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+
+## X Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+## X Anki {-}
+
+* `Lesson xx A. Vocab`
+* `Lesson xx B. Grammar` 
+* `Lesson xx C. Workbook`
+* `Lesson xx D. Study Verses`
+
+## X Worksheets: Qal Perfect Strong Paradigm {-}
+
+<describe the worksheet>
+
+[Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}
+
+## X Ruth Pursuit {-}        
+
+### X Your Quest: {-}
+
+1. Instruction#1 (Yellow)
+2. Instruction#2 (Green)
+3. Instruction3 (Light Blue)
+4. Instruction4 (Pink)
+5. Instruction5 (Light Grey)
+6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
+7. instruction7 (Blue)
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## X Hebrew Quest Study Passage: Book ## {-}
+
+[Blank copy of Book ##](){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/NAME.php){target="_blank"}
+4. After the video, assess your translation.  How close was it.
+5. How did the Ruach HaQodesh speak to you through the passage.
+
+Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
 
 <!--chapter:end:13-Qal_Perfect_Strong.Rmd-->
 
@@ -3182,6 +3694,257 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 <!--chapter:end:22-Qal_Participle.Rmd-->
 
 # Hebrew Syntax {.Syntax}
+
+> To comprehend Biblical Hebrew, we must be able to understand how words in our Bible work together to communicate meaning.  We call this "syntax".
+
+This lesson serves as a bridge between the discussions on the Qal verb forms (Lessons 13-22) and the derived stems (Lessons 24-35).   
+
+In a way, this could be the most exciting Lesson of Hebrew GRAMMAR Quest because, here, you will begin to put all that information you learned over the past 22 lessons to work in better understanding how the Bible communicates to us.  With this knowledge, we can begin to think critically in our evaluation of differences in translation and the validity of arguments we read in commentaries.
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. Understand the significance of word order upon translation
+1. Describe the nuances of translation based upon word order and whether or not a verb has the <span class="he">ו</span> prefix
+1. Translate conditional and volitional phrases
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* A foundation of the Qal conjugations
+:::
+
+## First Thought {-}
+
+### <span class="he">עַתָּה יָדַעְתִּי כִּי־גָדוֹל יְהוָה מִכָּל־הָאֱלֹהִים</span> {-}
+
+*Now I know that the LORD is greater than all the Gods (Exodus 18:11)*
+
+-brief meditation-
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+*****
+
+<div class="figure" style="text-align: center">
+<img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-72)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+## Clause versus Sentence
+
+* A clause has a subject and a predicate.
+    * The simplest clause in Scripture is "Yeshua (subject) wept (predicate)"
+* An _independent_ clause, such as "Yeshua wept" can be a complete sentence
+* A sentence can have more than one clause
+    * Now after the death of His servant Moses, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying, “Moses My servant is dead." (Joshua 1:1)
+    * There are three clauses in the one sentence
+* Hebrew will frequently start a clause with <span class="he">ו</span>
+* We've used the terms "word-initial" and "word-final" throughout this course.  Now we will use "clause-initial" to reference the first word in a clause
+* <span class="he">ו</span> is frequently clause-initial
+
+
+
+## Word order
+
+Normal Hebrew word order is Verb - Subject - Object.  We can abbreviate this V-S-O (of course in Hebrew, this goes from right-to-left).
+
+* <span class="he">וַיִּזְכֹּר אֱלֹהִים אֶת־נֹחַ </span>  
+    * _And God Remembered Noah (Gen 8:1)_
+* <span class="he">וַיַּחֲלֹם יוֹסֵף חֲלוֹם</span>
+    * _And (Then) Joseph dreamed a dream (Gen 37:5)_
+* <span class="he">וַיִּקְרָא מֹשֶׁה אֶל־כָּל־יִשְׂרָאֵל</span>
+    * _Then (and) Moses summoned all Israel (Ex 24:16)_
+
+Since we say that V-S-O is the "normal" word order, whenever we encounter a clause that is **NOT** V-S-O, we want to take note as to what is going on.  Below is an example of S-V-O used to emphasize the subject, Adonai.
+
+* <span class="he">*יְהוָה* יִמְלֹךְ לְעֹלָם וָעֶד</span>
+    * *Adonai* shall reign forever and ever (Ex 15:18)
+    
+ 
+Hebrew also can have O-V-S, particularly in poetry.   
+
+::: {.box .light}
+English standard word order is S-V-O, so this is the way we would translate regardless of the Hebrew word order.
+:::
+
+## Perfect Syntax
+
+The Perfect _without_ the <span class="he">ו</span> consecutive is **NOT NORMALLY** the first word in a clause
+
+* <span class="he">אַחַר הַדְּבָרִים הָאֵלֶּה *הָיָה* דְבַר־יְהוָה אֶל־אַבְרָם</span>
+    * After these things the word of the LORD _CAME_ to Abram (Gen 15:1)
+* <span class="he">וְהִנֵּה *נָפְלוּ* אֲבוֹתֵינוּ בֶּחָרֶב</span>
+    * For behold, our fathers _FELL_ by the sword (2 Chr 29:9)
+* <span class="he">בְּרֵאשִׁית *בָּרָא* אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ</span>
+    * In the beginning, God _CREATED_ the heavens and the earth (Gen 1:1
+    
+However, the Perfect _WITH_ the <span class="he">ו</span> consecutive, is **ALWAYS** the first word in a clause
+
+* <span class="he">*וַיֹּאוְאָהַבְתָּ* אֵת יְהוָה אֱלֹהֶיךָ</span>
+    * _And you will love_ Adonai your God (Deut 6:5)
+* <span class="he">*וְזָכַרְתִּי* אֶת־בְּרִיתִי </span>
+    * _And I will remember_ my covenant (Gen 9:15)
+
+As we remember from Lesson 17, whenever we have the Perfect conjugation with the Vav, we translate it imperfectively.
+
+
+## Imperfect Syntax
+
+Similar to Perfect, the Imperfect _without_ the <span class="he">ו</span> consecutive is **NOT NORMALLY** the first word in a clause.  Below is an "S-V-O" verse we looked at earlier
+
+
+* <span class="he">יְהוָה *יִמְלֹךְ* לְעֹלָם וָעֶד</span>
+    * Adonai _shall reign_ forever and ever (Ex 15:18)
+    
+The consecutive Imperfect is the first word in a clause.  This is the most common form in Hebrew narrative.
+
+* <span class="he">*וַיֹּאמֶר* הַנָּחָשׁ אֶל־הָאִשָּׁה</span>
+    * The serpent _said_ to the woman (Gen 3:4)
+    
+The volitional imperfects (Cohortative and Jussive, without the Vav consecutive) are normally the first word in the clause.
+
+* <span class="he">*נַעֲשֶׂה* אָדָם בְּצַלְמֵנוּ </span>
+    * _Let us make_ man in our image
+
+::: {.box .info}
+You already know how the verbs in each of these uses are formed because they all use the Imperfect paradigm.  The key to accurate translation is word order and whether or not there is the <span class="he">ו</span> consecutive prefix.
+:::
+
+## Volitional Syntax
+
+Hebrew likes to link multiple verbs together. Word order can be a big clue in translating volitional clauses. 
+
+* Multiple Imperatives (M+M) in succession:
+    * <span class="he">*עֲלֵה* *וּקְבֹר* אֶת־אָבִיךָ</span>
+    * _Go up_ and bury your father (Gen 50:6)
+    * This verse would be sequential - go up and (then you can) bury your father
+    * Context may indicate a consequential translation - do this, **so that** you do that
+* An Imperative followed by Perfect with Vav Consecutive (M + Pwc)
+    * <span class="he">*לֵךְ* *וְאָמַרְתָּ* אֶל־עַבְדִּי</span>
+    * _Go and say_ to my servant (2 Sam 7:5)
+    * The perfect verb acts as if it were a second imperative ("Go and say", not "go and you will say")
+* Imperative followed by an Imperfect or Cohortative (M+I or M+C) to create a purpose or result. "So that..."
+    * <span class="he"> *רְדוּ*־שָׁמָּה *וְשִׁבְרוּ*־לָנוּ מִשָּׁם *וְנִחְיֶה* </span>
+    * _Go down_ there and *buy grain* for us from there _so that we might live_
+
+## Conditional Phrases
+
+A conditional phrase is made up of two clauses.  You might want to think of this as an "if-then" statement.  The first gives the "if" condition, and the second states the "then" consequence if the condition is met<small>^[<small>The technical term for the first statement is the _protasis_, and the second statement is called the _apodosis_.</small>]</small> 
+
+* <span class="he">וַיֹּאמֶר אֵלֶיהָ בָּרָק *אִם*־תֵּלְכִי עִמִּי *וְהָלָכְתִּי* *וְאִם*־לֹא תֵלְכִי עִמִּי לֹא אֵלֵךְ</span>
+    * Then Barak said to her, "*If* you will go with me, *then I will go*; but *if* you will not go with me, (*then*) I will not go." (Judg 4:8)
+    
+::: {.box .info}
+The Hebrew word <span class="he">אִם</span> is most frequently, but not always, used for the first clause.
+The second clause often, but not always begins with <span class="he">וְ</span>
+:::
+
+## Disjunctive Vav
+
+In this course, we have talked about the CONjunctive Vav.  This is a Vav that is prefixed to a verb and serves to link the narrative and move it forward in some fashion.
+
+When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the name implies, it indicate some kind of break or tangent in the narrative.  There are four major ways a disjunctive Vav is used as illustrated by the verses below.
+
+* <span class="he">*וְהֵם* לֹא יָדְעוּ כִּי שֹׁמֵעַ יוֹסֵף כִּי הַמֵּלִיץ בֵּינֹתָם</span>
+    * _(Now) They_ did not know, however, that Joseph understood, for there was an interpreter between them (Gen 42:23)
+    * Parenthetical use: <span class="he">וְהֵם</span>
+    * A parenthetical comment to explain why Joseph's brothers believed they could speak freely
+* <span class="he">וַיְהִי כְּהַיּוֹם הַזֶּה וַיָּבֹא הַבַּיְתָה לַעֲשׂוֹת מְלַאכְתּוֹ *וְאֵין* אִישׁ מֵאַנְשֵׁי הַבַּיִת שָׁם בַּבָּיִת</span>
+    * Now it happened one day that he went into the house to do his work, *and none* of the men of the household was there inside (Gen 39:11)
+    * Circumstantial use: <span class="he">וְאֵין</span>
+    * A break in the narrative, in this case, to provide important information to set up the circumstances of the attempted seduction and subsequent imprisonment of Joseph
+* <span class="he">וַיִּשַׁע יְהוָה אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ׃  *וְאֶל*־קַיִן וְאֶל־מִנְחָתוֹ לֹא שָׁעָה</span>
+    * And Adonai had regard for Abel and for his offering; *but for* Cain and for his offering He had no regard (Gen 4:4b-5a)
+    * Contrastive use: <span class="he">וְאֶל</span>
+    * Often translated "but"
+    * This contrasts Adonai's reponse to the two men's offerings
+* <span class="he">*וְהַנָּחָשׁ* הָיָה עָרוּם מִכֹּל חַיַּת הַשָּׂדֶה אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים</span>
+    * _Now the serpent_ was more crafty than any beast of the field which the LORD God had made (Gen 3:11)
+    * Introductory use: <span class="he">וְהַנָּחָשׁ</span>
+    * A new theme or idea; sometimes an entirely new narrative
+    * In this example, we move from the creation narrative to the temptation narrative
+
+## Adverbs
+
+* <span class="he">*עַתָּה* יָדַעְתִּי כִּי־יְרֵא אֱלֹהִים אַתָּה</span>
+    * _Now_ I know that you fear God (Gen 22:12)
+    * Adverb of Time: <span class="he">עַתָּה</span>
+* <span class="he">*וַיָּשֶׂם* שָׁם אֶת־הָאָדָם אֲשֶׁר יָצָר</span>
+    * *and there *He placed the man whom He had formed (Gen 2:8)
+    * Adverb of Place: <span class="he">שָׁם</span>
+* <span class="he">עֵינַי *תָּמִיד* אֶל־יְהוָה</span>
+    * My eyes are *continually* toward the LORD (Ps 25:15)
+    * Adverb of Degree: <span class="he">תָּמִיד</span>
+* <span class="he">וַיָּבֹא אֲלֵיהֶם יְהוֹשֻׁעַ *פִּתְאֹם*</span>
+    * So Joshua came upon them *suddenly* (Josh 10:9)
+    * Adverb of Manner: <span class="he">פִּתְאֹם</span>
+
+::: {.box .info}
+* Adverbs are most frequently at the end of a clause.
+* As the above examples illustrate, this is not a hard-and-fast-rule
+:::
+
+## `Word Warm-up` {-}
+
+[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+
+## `Verses Warm-up` {-}
+
+[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+## `Anki` {-}
+
+* `Lesson xx A. Vocab`
+* `Lesson xx B. Grammar` 
+* `Lesson xx C. Verses`
+* `Lesson xx D. Workbook`
+
+
+
+## `Hebrew Quest Study Passage: Psalm 19` {-}
+
+[Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/edit?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-19.php){target="_blank"}
+4. After the video, assess your translation.  How close was it.
+5. How did the Ruach HaQodesh speak to you through the passage.
+
+Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/26/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+
 
 
 
@@ -3259,7 +4022,7 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 
 <div class="figure" style="text-align: center">
 <img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-66)Strength and Endurance</p>
+<p class="caption">(\#fig:unnamed-chunk-73)Strength and Endurance</p>
 </div>
 
 
@@ -3270,7 +4033,7 @@ If one wants to build strength, she might use the weight machine.  If one wants 
 
 <div class="figure" style="text-align: center">
 <img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-67)Anki Home Screen</p>
+<p class="caption">(\#fig:unnamed-chunk-74)Anki Home Screen</p>
 </div>
 
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
@@ -3324,7 +4087,7 @@ Thus, it is not just a flashcard program but is a tremendous strength and endura
 Your settings should look like this:
 <div class="figure" style="text-align: center">
 <img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-68)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-75)Settings</p>
 </div>
 
 [Return to Quick Start page](#get_started)
@@ -3351,7 +4114,7 @@ Here are the steps:
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-69)Anki web and mobile views</p>
+<p class="caption">(\#fig:unnamed-chunk-76)Anki web and mobile views</p>
 </div>
 
 ## How do I navigate within Anki? {-}
@@ -3359,14 +4122,14 @@ Here are the steps:
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
 <div class="figure" style="text-align: center">
 <img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-70)Anki - subdecks collapsed</p>
+<p class="caption">(\#fig:unnamed-chunk-77)Anki - subdecks collapsed</p>
 </div>
     * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
 * Many cards have "hints" - click on the `hint` button to reveal
     * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
     <div class="figure" style="text-align: center">
     <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-71)Revealing a hint in Anki</p>
+    <p class="caption">(\#fig:unnamed-chunk-78)Revealing a hint in Anki</p>
     </div>
 * For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
@@ -3377,7 +4140,7 @@ We suggest using the following guidelines to select the most appropriate answer.
 
 <div class="figure" style="text-align: center">
 <img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-72)Anki Response Definitions</p>
+<p class="caption">(\#fig:unnamed-chunk-79)Anki Response Definitions</p>
 </div>
 
 * There is no “value judgment” to hitting `Again` – you will learn on your timeline
@@ -3422,7 +4185,7 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 
 <div class="figure" style="text-align: center">
 <img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-73)Keep your daily Anki streak going!</p>
+<p class="caption">(\#fig:unnamed-chunk-80)Keep your daily Anki streak going!</p>
 </div>
 
 ## How do I know when I'm done with a deck? {-}
@@ -3436,7 +4199,7 @@ So while this could be an indefinite process, we do have some guidelines as they
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-74)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-81)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 See the next two pages for more information on how to locate your statistics.
@@ -3456,7 +4219,7 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-75)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-82)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 
@@ -3475,13 +4238,13 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
     * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
 <div class="figure" style="text-align: center">
 <img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-76)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-83)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
     * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
     
 <div class="figure" style="text-align: center">
 <img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-77)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-84)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 <!-- Please see [`Graduation` process page]() for additional information -->
 
@@ -3507,7 +4270,7 @@ There are a few different terms Anki uses for different stages of card maturity:
     * To add an image simply copy and paste into the image field
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-78)Adding a custom image in Anki</p>
+<p class="caption">(\#fig:unnamed-chunk-85)Adding a custom image in Anki</p>
 </div>
 
 ## Can I modify the layout of a card? {-}
@@ -3542,7 +4305,7 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-79)With `Custom Study` you can temporarily increase your daily new cards</p>
+<p class="caption">(\#fig:unnamed-chunk-86)With `Custom Study` you can temporarily increase your daily new cards</p>
 </div>
 
 
@@ -3751,7 +4514,7 @@ Finally, we thank YOU for your interest in this course!
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-89)Chris Flanagan</p>
 </div>
 
 
@@ -3779,7 +4542,7 @@ If you received this book and you are not a member of Holy Language Institute, [
 
 <!--chapter:end:99-References.Rmd-->
 
-# LessonTitle {#lessontitle}
+# X LessonTitle {#lessontitle}
 
 > To comprehend Biblical Hebrew, we must be able to . . . 
 
@@ -3806,9 +4569,9 @@ Before continuing, can you describe the following concepts?
 *
 :::
 
-## First Thought {-}
+## X First Thought {-}
 
-### <span class="he"> </span> {-}
+### X <span class="he"> </span> {-}
 
 *verse (reference 1:1)*
 
@@ -3829,59 +4592,49 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-83)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 
 ---
+<!-- picture -->
 
-
-<div class="figure" style="text-align: center">
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-84)Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
-
-## Equipment Check {-}
-
-<img src="images/stopil.png" width="300pt" style="display: block; margin: auto;" />
-
-Before continuing, can you describe the following concepts?
-
-*
-
-
-## Point1 
+<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
 
 
 
-## Point2 
+## X Point1 
 
 
 
-## Point3 
+## X Point2 
 
 
 
-## Point4 
+## X Point3 
 
 
 
-## Point5 
+## X Point4 
 
 
 
-## Point6 
+## X Point5 
 
 
 
-## Point7 
+## X Point6 
+
+
+
+## X Point7 
 
 
 
 
-## `Word Warm-up` {-}
+## X Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](){target="_blank"}
 
@@ -3891,7 +4644,7 @@ Before continuing, can you describe the following concepts?
 </div>
 
 
-## `Verses Warm-up` {-}
+## X Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
@@ -3899,22 +4652,22 @@ Before continuing, can you describe the following concepts?
 <iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## X Anki {-}
 
 * `Lesson xx A. Vocab`
 * `Lesson xx B. Grammar` 
-* `Lesson xx C. Verses`
-* `Lesson xx D. Workbook`
+* `Lesson xx C. Workbook`
+* `Lesson xx D. Study Verses`
 
-## `Worksheets`: NameOfWorksheet {-}
+## X Worksheets: NameOfWorksheet {-}
 
 <describe the worksheet>
 
 [Name of worksheet](){target="_blank"}
 
-## `Ruth Pursuit` {-}        
+## X Ruth Pursuit {-}        
 
-### Your Quest: {-}
+### X Your Quest: {-}
 
 1. Instruction#1 (Yellow)
 2. Instruction#2 (Green)
@@ -3929,37 +4682,39 @@ Before continuing, can you describe the following concepts?
 
 
 
-## `Hebrew Quest Study Passage`: Book Chapter# {-}
+## X Hebrew Quest Study Passage: Book ## {-}
 
-1. Read through the passage on your own.
-2. Using a [Blank copy of the passage](){target="_blank"}:
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.    
-    2. Parse as many verbs as you can.
-    3. Sketch out a translation.
-3. Watch Izzy's _Hebrew Quest_ video below [(Click to open video in a new tab)](https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1){target="_blank"}
-    1. How close was your translation?
-    2. How did the Ruach HaQodesh speak to you?
-4. Check your parsing against [this key](){target="_blank"}
+[Blank copy of Book ##](){target="_blank"}
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
-</div>
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
 
-## `Quest Quiz` {-}
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/NAME.php){target="_blank"}
+4. After the video, assess your translation.  How close was it.
+5. How did the Ruach HaQodesh speak to you through the passage.
+
+Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
 
 [Open Quest Quiz #xx in a new window](){target="_blank"}
 
-<div class="container">
+<div class="containerLtr">
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## X Claim your next `Twelve Tribes Badge`! {-}
 
 Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
 
 [Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
 
-<div class="container">
+<div class="containerLtr">
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
 

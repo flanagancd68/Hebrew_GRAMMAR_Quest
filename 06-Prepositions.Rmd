@@ -101,7 +101,7 @@ Like <span class="he">וְ</span> for the word "and", an inseparable preposition
 
 Three Hebrew prepositions are **ALWAYS** written this way, usually with a Vocal Sheva under the prepositional letter:
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "300pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/05.inseparable.png")
 ```

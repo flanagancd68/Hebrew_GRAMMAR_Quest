@@ -1,4 +1,4 @@
-# LessonTitle {#lessontitle}
+# X LessonTitle {#lessontitle}
 
 > To comprehend Biblical Hebrew, we must be able to . . . 
 
@@ -25,9 +25,9 @@ Before continuing, can you describe the following concepts?
 *
 :::
 
-## First Thought {-}
+## X First Thought {-}
 
-### <span class="he"> </span> {-}
+### X <span class="he"> </span> {-}
 
 *verse (reference 1:1)*
 
@@ -55,55 +55,45 @@ knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of
 
 
 ---
+<!-- picture -->
 
-
-```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha (John 21). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center'}
 
 knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
 ``` 
 
-## Equipment Check {-}
-
-```{r, out.width = "300pt", fig.align='center'}
-library(knitr)
-include_graphics("images/stopil.png")
-```
-
-Before continuing, can you describe the following concepts?
-
-*
 
 
-## Point1 
+## X Point1 
 
 
 
-## Point2 
+## X Point2 
 
 
 
-## Point3 
+## X Point3 
 
 
 
-## Point4 
+## X Point4 
 
 
 
-## Point5 
+## X Point5 
 
 
 
-## Point6 
+## X Point6 
 
 
 
-## Point7 
+## X Point7 
 
 
 
 
-## `Word Warm-up` {-}
+## X Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](){target="_blank"}
 
@@ -113,7 +103,7 @@ Before continuing, can you describe the following concepts?
 </div>
 
 
-## `Verses Warm-up` {-}
+## X Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
@@ -121,22 +111,22 @@ Before continuing, can you describe the following concepts?
 <iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## X Anki {-}
 
 * `Lesson xx A. Vocab`
 * `Lesson xx B. Grammar` 
-* `Lesson xx C. Verses`
-* `Lesson xx D. Workbook`
+* `Lesson xx C. Workbook`
+* `Lesson xx D. Study Verses`
 
-## `Worksheets`: NameOfWorksheet {-}
+## X Worksheets: NameOfWorksheet {-}
 
 <describe the worksheet>
 
 [Name of worksheet](){target="_blank"}
 
-## `Ruth Pursuit` {-}        
+## X Ruth Pursuit {-}        
 
-### Your Quest: {-}
+### X Your Quest: {-}
 
 1. Instruction#1 (Yellow)
 2. Instruction#2 (Green)
@@ -151,37 +141,39 @@ Before continuing, can you describe the following concepts?
 
 
 
-## `Hebrew Quest Study Passage`: Book Chapter# {-}
+## X Hebrew Quest Study Passage: Book ## {-}
 
-1. Read through the passage on your own.
-2. Using a [Blank copy of the passage](){target="_blank"}:
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.    
-    2. Parse as many verbs as you can.
-    3. Sketch out a translation.
-3. Watch Izzy's _Hebrew Quest_ video below [(Click to open video in a new tab)](https://www.youtube.com/embed/5hulHf6r7vk?end=874&rel=0&showinfo=0&autohide=1&autoplay=1){target="_blank"}
-    1. How close was your translation?
-    2. How did the Ruach HaQodesh speak to you?
-4. Check your parsing against [this key](){target="_blank"}
+[Blank copy of Book ##](){target="_blank"}
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
-</div>
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
 
-## `Quest Quiz` {-}
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/NAME.php){target="_blank"}
+4. After the video, assess your translation.  How close was it.
+5. How did the Ruach HaQodesh speak to you through the passage.
+
+Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
 
 [Open Quest Quiz #xx in a new window](){target="_blank"}
 
-<div class="container">
+<div class="containerLtr">
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## X Claim your next `Twelve Tribes Badge`! {-}
 
 Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
 
 [Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
 
-<div class="container">
+<div class="containerLtr">
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
 

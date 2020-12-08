@@ -1,0 +1,50 @@
+# (PART) Qal Binyanim {-}
+
+# Introduction to Unit 3 {-}
+
+This unit represents a pivot point in this course.  From now through the end of the course, we will be focusing on verbs.  In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth.  Then in Unit 4 we will learn the six so-called "derived" stems.
+
+With this unit, we are going to increase the intensity of our Hebrew workouts in a couple of ways:
+
+1. Hebrew Quest Study Passages
+2. Cantillation marks added to Study Verses
+
+## Hebrew Quest Study Passages {-}
+
+As we mentioned way back in the introduction, we will incorporate scripture reading passages from _Hebrew Quest_.  We will start off slowly with the verses from the Proverbs study.  Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40).
+
+Here is what we want you to do in these Study Passages activities:
+
+1. Download or print the applicable study passage document
+2. Translate verse by verse
+    1. First see how much you can do without a reference
+    2. Then look up any words you don't know in a lexicon
+3. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
+4. Compare your translation from step 2 with Izzy's explanation on the video?  How did you do?  Can you see how much you are learning?
+
+## Cantillation Marks {-}
+
+Way back in Lesson 2, we talked about cantillation marks.  These are the marks in addition to vowels and consonants we sometimes see in Hebrew.  Here is an example from Genesis:
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/02.Gen0109.png")
+```
+
+Up until now, we have been using a simple accent mark whenever a Hebrew word has an accent on the second to last syllable.  For example, **נֶ֫גֶב***.  While the Lessons and other materials will continue to use these simple accents, from now on, we will graduate to using the full set of Hebrew accents in our Study Verses and Workbook exercises.  Why do this?
+
+>When you read from a Tanach, you are much more likely to encounter the complete set of Hebrew accent marks.  So part of becoming more comfortable with the Hebrew Bible must include a basic familiarity with these additional marks. 
+
+Things to keep in mind:
+
+* There are over 20 different cantilation marks.  We won't go into what each one means, but there are plenty of resources on the Internet if you are interested in digging deeper
+* If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark
+* Remember that a syllable can have only one vowel
+* Most often there is only one cantillation mark per word - <u>where you see the mark is where the accent goes</u>
+* Occasionally you will see a mark near the front or middle of the word and a mark near the end of a word.  The first mark is a secondary accent.  Remember, a primary Hebrew accent can ONLY be on the LAST or SECOND-TO-LAST syllable
+* The vertical line | that can appear between two words can be ignored
+* When in doubt, listen to Izzy's audio carefully as he reads each verse, to determine where the accent goes
+
+Trying to read with these marks can be visually distracting and overwhelming at first, but with practice you will get used to them.  They are part of the rich tradition of Biblical Hebrew that has been passed down to us from many centuries ago.
+
+Now, let's get to Hebrew Verbs!
+

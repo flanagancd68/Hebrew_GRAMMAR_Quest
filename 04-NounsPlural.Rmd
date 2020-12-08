@@ -107,28 +107,28 @@ Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, th
 Some students fall into a habit of thinking every word-final ה is feminine.  Remember <span class="he">ה ֶ֫</span>  is masculine
 :::
 
-## Plural and Dual Noun Endings {#noun_pluralization}
+## Plural Noun Endings {#noun_pluralization}
 
 For regular nouns, simply remove the singular ending if there is one, and add the plural ending.
 
 * Plural endings:
     * MP: <span class="he">ים ִ</span> e.g. **<span class="he">סוּסִים</span>** 
         * <span class="he">דָּבָר</span> becomes **<span class="he">דְּבָרִים</span>**
+            * A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
+            * As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
         * <span class="he">עָנָן</span> becomes **<span class="he">עֲנָנִים</span>** (clouds)
+            *  A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
         * <span class="he">כּוֹכָב</span> becomes **<span class="he">כּוֹכָבִים</span>**
-
+            *  An irreducible long vowel will not reduce - <span class="he">כּוֹכָבִים</span> 
     * FP: <span class="he">וֹת</span> e.g. **<span class="he">מְלָכוֹת</span>** (queens)
         * <span class="he">תּוֹרָה</span> becomes **<span class="he">תּוֹרוֹת</span>** 
 
-Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
+Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. 
 
-*   A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
-*   A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
-*   An irreducible long vowel will not reduce - <span class="he">כּוֹכָבִים</span> 
+## Dual Noun Endings
 
-* Dual endings:
-    * MD: <span class="he">יִם ַ</span> e.g. <span class="he">סוּסַ֫יִם</span> (two horses)
-    * FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws).
+* MD: <span class="he">יִם ַ</span> e.g. <span class="he">סוּסַ֫יִם</span> (two horses)
+* FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws).
 
 Occasionally, we will see defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>
 
@@ -306,13 +306,13 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #04](./images/04_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #4](./images/04_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## `Quest Quiz` {-}
 
-[Open Quest Quiz #04 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
+[Open Quest Quiz #4 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
 
-<div class="container">
+<div class="containerLet">
 <iframe 
     class="responsive-iframe"
     src="https://forms.gle/2LCEgvmpHr5mqB5Z6">
