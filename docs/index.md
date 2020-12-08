@@ -3236,14 +3236,15 @@ It is these times where we must depend on God, and it is times like these where 
 
 
 ## The Verbal Root
-    * A __root__ is the set of consonants on which a verb (and often nouns) are based
-    * The majority of verbs have three __root consonants__
-        *  As a convention, many Hebrew grammars label these $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do".  Additionally in some references the position may be displayed without the subscript: R1, R2, etc. </small>]</small>.
-        * For the verb **קָטַ֫לְתִּי***:
-            * The __root__ would be **קטל*** (no vowels)
-                * $R_1$ = ק 
-                * $R_2$ = ט
-                * $R_3$ = ל
+
+* A __root__ is the set of consonants on which a verb (and often nouns) are based
+* The majority of verbs have three __root consonants__
+*  As a convention, many Hebrew grammars label these $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do".  Additionally in some references the position may be displayed without the subscript: R1, R2, etc. </small>]</small>.
+* For the verb **קָטַ֫לְתִּי***:
+    * The __root__ would be **קטל*** (no vowels)
+        * $R_1$ = ק 
+        * $R_2$ = ט
+        * $R_3$ = ל
 
 ## Preformatives, Sufformatives, Prefixes, and Suffixes
 
