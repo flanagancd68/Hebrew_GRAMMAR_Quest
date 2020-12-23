@@ -1,2 +1,260 @@
 # The Hophal Stem - Strong Verbs {.Hp-s}
 
+Of the seven major stems, the Hophal occurs with the least frequency (396 times). Similar to the Pual, the Hophal has some distinctive characteristics making them easier to identify.
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. Meaning of the Hophal Stem
+1. Hophal Strong paradigms
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* The meaning of the Hiphil stem
+
+:::
+
+## First Thought {-}
+
+### <span class="he">וְהָ֣אֲנָשִׁ֔ים טֹבִ֥ים לָ֖נוּ מְאֹ֑ד וְלֹ֤א הָכְלַ֙מְנוּ֙ וְלֹֽא־פָקַ֣דְנוּ מְא֔וּמָה כָּל־יְמֵי֙ הִתְהַלַּ֣כְנוּ אִתָּ֔ם בִּֽהְיוֹתֵ֖נוּ בַּשָּׂדֶֽה׃</span> {-}
+
+*Yet the men were very good to us, and we were not insulted, nor did we miss anything as long as we went about with them, while we were in the fields. (1 Samuel 25:15)*
+
+The Hebrew Quest Study Passage for this lesson is the story of David and Goliath from 1st Samuel 17.  The geographic detail in the passage reminds us that although the narratives we read in the Hebrew Bible took place thousands of years ago and thousands of miles away, they nonetheless involved real people at real places. HaShem had them recorded for a reason. Through our study of Hebrew, we are able to connect with these great stories in a more intimate way.  Praise Him for that!
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/32-8.1Samuel 25.15.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/32-Elah brook with students picking smooth stones, tbs75039303.jpg")
+``` 
+
+
+
+
+## Meaning of the Hophal
+
+| |Active Voice| Passive Voice | Reflexive Voice
+|:- |:- |:- |:-
+Simple Action	| Qal | Niphal | (Niphal)
+Intensive	| Piel | Pual | Hitpael
+Cause an Action	|Hiphil | __HOPHAL__
+
+Meanings:
+
+* Being Caused to Do Something
+* Passive of Hiphil -  <span class="he">יצא</span>
+    * Q - he went out
+    * H - he brought out
+    * Hp - he was brought out
+* Sometimes passive of Qal - <span class="he">נתן</span>
+    * Q - to give
+    * Hp - to be given
+
+Parsing Code: Hp (`p`assive of `H`iphil)
+
+## Hophal Strong Beginning Combinations - Think "Houûphal"
+
+* Preformatives
+    * Hophal verbs have preformative ה like the Hiphil
+    * Imperfects and Participles have the usual preformatives
+* $V_P =$ O, U, or Û, indicates Hophal (so a mnemonic for this Stem might be: "<u>houûphal</u>")
+    * The Hophal occurs with either u-class or o-class
+    * O - Qamets Hatuf **הָקְטַל***  
+    * U - Qibbuts **הֻקְטַל***
+    * Û - Shureq 
+        * **הוּרַד*** (Iי)
+        * **הוּשַׁט*** (Biconsonantal)
+        * **הוּחַל*** (Geminate)
+    * HŌ or HȎ almost always Hiphil 1-Yod (7x Hp)
+* Hophal Strong Beginning Combinations are therefore (ק represents any non-weak letter):
+    * **הָקְ*** or **הֻקְ*** - HpP
+    * **יָקְ*** or **יֻקְ*** - (etc) HpI
+    * **מָקְ*** or **מֻקְ*** - HpPt<small>^[<small>The remaining conjugations are rare in the Hebrew Bible, so we will skip them.</small>]</small>
+
+::: {.box .info}
+QAMETS HATUF
+
+* We learned many lessons ago that $V_1$ of **ָ*** followed by $V_2$ of Sheva is potentially ambiguous
+    * QAMETS followed by VOCAL Sheva _or_ QAMETS HATUF followed by SILENT Sheva
+* When $V_P$ is **ָ*** followed by $V_1$ of Sheva or Hateph Qamets Hatuf, $V_P$ is ALWAYS QAMETS HATUF
+* Therefore, in the Hophal Stem, **הָקְטַל*** is pronounced "hoq-TAL" (rhymes with "Hophal").
+:::
+
+## Hophal $V_S$ = A
+    * P,I,M,∞ is A ַ  , like Pual
+    * Particle stem is lengthened P3ms as expected - HpP3ms uses A ַַ  so HpPt uses Ā ָ  (only 8 Hp∞ and 2 HM in the Bible)
+    * Absolute is  Ē ֵַ  as expected (only 6 HpA in the Bible)
+
+## Hophal Perfect Strong
+
+* The standard Perfect sufformatives
+* $V_S =$ Patach
+* $V_P$ is variable between Qibbuts and Qamets Hatuf.  Only the O-class is listed below and in the audio. 
+* Translate - "(he) was made king."
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | **הָקְטַל***  | 3cp | **הָקְטְלוּ*** 
+| 3fs | **הָקְטְלָה*** | 
+| 2ms | **הָקְטַ֫לְתָּ*** | 2mp | **הָקְטַלְתֶּם***
+| 2fs | **הָקְטַלְתְּ*** | 2fp | *****
+| 1cs | **הָקְטַ֫לְתִּי*** | 1cp | **הָקְטַ֫לְנוּ***
+
+<figure>
+    <figcaption>Hophal Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/32-Hp-perfect-strong.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+## Hophal Imperfect Strong
+
+* The standard Imperfect preformatives and sufformatives
+* $V_S =$ Patach
+* $V_P$ is variable between Qibbuts and Qamets Hatuf.  Only the O-class is listed below and in the audio. 
+* Translate - "(he) will be made king"
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | **יָקְטַל***  | 3mp | **יָקְטְלוּ*** 
+| 3fs | **תָּקְטַל*** | 3fp | **תָּקְטַ֫לְנָה***
+| 2ms | **תָּקְטַל*** | 2mp | **תָּקְטְלוּ***
+| 2fs | **תָּקְטְלִי*** | 2fp | **תָּקְטַ֫לְנָה***
+| 1cs | **אָקְטַל*** | 1cp | **נָקְטַל***
+
+<figure>
+    <figcaption>Hophal Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/32-Hp-imperfect-strong.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+## Participle Strong
+
+* The standard Participle prefix (מ)
+* The standard $V_S$ - lengthening of P3ms (Patach to Qamets
+* The standard inflectional endings of the Participle
+* Again, both Qibbuts and Qamets Hatuf are used interchangably
+* Translate - "being made king"
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| ms | **מָקְטָל*** | mp | **מָקְטָלִים***
+| fs | **מָקְטֶ֫לֶת*** | fp | **מָקְטָלוֹת***
+
+
+
+## Hophal Strong Summary
+
+* Like $V_1$ in the Pual, the Hophal has a distinguishing O or U class $V_P$
+* $V_S$ is almost always Patach
+    * There is expected lengthening to Qamets in the Participle
+    * The rare Infinitive Absolute has the expected Tsere (see `Ruth Pursuit` below)
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/MdXXlMyr4Lg){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/MdXXlMyr4Lg" frameborder="0"></iframe>
+</div>
+
+
+## X Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/O5CU62O94Cw){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/O5CU62O94Cw" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 32 A. Vocab`
+* `Lesson 32 B. Grammar` 
+* `Lesson 32 C. Workbook`
+* `Lesson 32 D. Study Verses`
+
+## OPTIONAL: Hophal Parsing Worksheet {-}
+
+If you desire additional paradigm practice, you may use this [Hophal parsing worksheet](./images/32_hophal_strong_paradigms.pdf){target="_blank"}
+
+## Ruth Pursuit {-}        
+
+There are no Hophal verbs in Ruth 1 so there will be no `Ruth Pursuit` for Lessons 32 or 33.
+
+* There ARE two Hophal verbs in 2:11.  Can you find them?
+    * ** וַיַּ֤עַן בֹּ֙עַז֙ וַיֹּ֣אמֶר לָ֔הּ הֻגֵּ֨ד הֻגַּ֜ד לִ֗י כֹּ֤ל אֲשֶׁר־עָשִׂית֙ אֶת־חֲמוֹתֵ֔ךְ אַחֲרֵ֖י מ֣וֹת אִישֵׁ֑ךְ וַתַּֽעַזְבִ֞י אָּבִ֣יךְ וְאִמֵּ֗ךְ וְאֶ֙רֶץ֙ מֽוֹלַדְתֵּ֔ךְ וַתֵּ֣לְכִ֔י אֶל־עַ֕ם אֲשֶׁ֥ר לֹא־יָדַ֖עַתְּ תְּמ֥וֹל שִׁלְשֽׁוֹם׃***
+    * We mentioned previously that there are only six HpA forms in all of the Hebrew Bible (and some sources say there are only five).  One of those forms is in Ruth 2:11.  Note how $V_S$ is Tsere for the HpA verb, and how $V_S$ is Qamets in the HpP3ms verb that follows.
+    * The verb root is נגד
+    * The Daghesh Forte in the Gimmel represents the assimilated 1נ
+* Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word **כֹּל***, it seems more likely that his is referring to the completeness of the report that he has received."<small>^[<small>Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf </small>]</small>
+
+
+## Hebrew Quest Study Passage: 1 Samuel 17 {-}
+
+[Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/view?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ video (video opens in a new tab)
+    * [part 1](https://holylanguage.com/samuel-17.1.php){target="_blank"}
+    * [part 2](https://holylanguage.com/samuel-17.2.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+
+

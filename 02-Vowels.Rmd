@@ -137,6 +137,7 @@ If the Yod or Vav has a vowel of it's own, then the Yod/Vav is acting as a _cons
     * Hei vowels are extremely common in Hebrew
 
 
+
 ## "Defective" and "plene" spelling {#defective_spelling}
 
 In "defective" spelling, letter vowels can sometimes drop their letter and take on the corresponding non-letter vowel. The meaning of the word doesn’t change.
@@ -274,7 +275,10 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 
 [Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 ## Claim your `Twelve Tribes Badge`! {- #twelve-tribes-badge-1}
 

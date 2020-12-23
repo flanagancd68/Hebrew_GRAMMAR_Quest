@@ -30,9 +30,7 @@ Thus, it is not just a flashcard program but is a tremendous strength and endura
 
 **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop<small>^[<small>By "desktop" we generically mean a desktop or laptop computer (as opposed to a mobile device) running a Windows, Mac, or Linux operating system.</small>]</small> computer_.
 
-1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}.
-1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}.
-1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}.
+Follow the steps outlined on the Quick Start page.
 
 ## Customize Anki Settings {- #anki_settings}
 
@@ -66,7 +64,8 @@ Thus, it is not just a flashcard program but is a tremendous strength and endura
         * `Bury related reviews...` = Up to you but we recommend - CHECKED    
     3. `Lapses`
         * `Steps` = 10
-        * `New interval` = 1
+        * `New interval` = 60
+        * `Maximum interval` = 1
         * `Leech threshold` = 8
         * `Leech action` = TAG ONLY
 

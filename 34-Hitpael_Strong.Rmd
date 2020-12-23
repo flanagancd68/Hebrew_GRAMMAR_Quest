@@ -1,1 +1,242 @@
 # The Hithpael Stem - Strong Verbs {.HT-s}
+
+
+> To comprehend Biblical Hebrew, we must be able to identify the Hitpael verbs.
+
+This is one of the shortest and easiest chapters in Hebrew GRAMMAR Quest.
+
+If you've made it this far, you've earned it!
+
+
+##  First Thought {-}
+
+###  <span class="he"> וַיַּסֵּ֧ב חִזְקִיָּ֛הוּ פָּנָ֖יו אֶל־הַקִּ֑יר וַיִּתְפַּלֵּ֖ל אֶל־יְהוָֽה׃ </span> {-}
+
+*Then Hezekiah turned his face to the wall and prayed to Adonai (Isaiah 38:2)*
+
+Today in Jerusalem, the Western Wall is considered the holiest spot in Judaism.  It is said to be the closest spot one can get to the Holy of Holies.  While this wall was built in the time of King Herod (well after Hezekiah's time), modern Jews and God-fearing gentiles consider it an honor to be able to follow in the tradition of Hezekiah and pray at the wall. 
+
+While we may be physicially removed from Jerusalem and the Western Wall, like Daniel, we can turn towards Jerusalem and bring our petitions to HaShem just as Hezekiah did centuries ago.  
+
+Why don't you stop what you're doing and pray towards Jerusalem right now?
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/34-7.Isaiah38.2.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/34.Men praying at Western Wall, tb090705000.jpg")
+``` 
+
+
+
+
+## Meaning of the Hitpael
+
+| |Active Voice| Passive Voice | Reflexive Voice
+|:- |:- |:- |:-
+Simple Action	| Qal | Niphal | (Niphal)
+Intensive	| Piel | Pual | __HITPAEL__
+Cause an Action	|Hiphil | Hophal
+
+Meanings:
+
+* Reflexive of the Piel - <span class="he">קדשׁ</span>
+    * Q - to be holy
+    * D - to be sanctified
+    * tD - to sanctify oneself
+        * Because this is the most common use, the parsing code is tD - t because a Hitpael preformative always contains ת, and D because, like the Piel, $R_2$ takes a Doubling Daghesh Forte (if possible)
+* Reciprocal - <span class="he">ראה</span>
+    * Q - to see
+    * tD - to look at one another
+* Iterative - <span class="he">הלך</span>
+    * Q - to walk
+    * tD - to walk back and forth, or, to walk (as a way of life)
+* Simple active - <span class="he">פלל</span>
+    * tD - to pray
+
+## Hitpael Strong Beginning Combinations - Think "_IT"
+
+The Hitpael is probably the easiest stem to identify:
+
+* All conjugations have a distinctive preformative:
+    * <span class="he">הִתְקַטֶּל</span> - tDP3ms, tDM2ms, tD∞, or tDA
+    * <span class="he">יִתְקַטֶּל</span> - tDI3ms, and so forth for the remaining imperfect stems. 
+        * tDI1cs preformative is <span class="he">אֶתְ</span>
+    * <span class="he">מִתְקַטֶּל</span> - tDPtms
+    * The preformative always has <span class="he"> תְ ִ </span> (except for I1cs)
+        * So, if a verb begins with "hIT", "yIT", "mIT", etc, (and $R_1$ is not ת or ט) it's probably Hitpael
+        
+Also:
+
+* $R_2$ takes Daghesh Forte
+* $V_1$ is Patach
+
+
+## Hitpael $V_S$ = Ē[A] ~ Ē
+    * tDP2ms and tDP1cs have $V_S$ = ַ , otherwise it's very consistent
+
+> The Preformative alone is sufficient to identify the Hitpael stem
+
+
+## Hitpael Perfect Strong
+
+* The standard Perfect sufformatives
+* $V_S =$ Patach
+* "Signature" tD Prefix: <span class="he">הִתְ</span>
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">הִתְקַטֵּל</span>  | 3cp | <span class="he"> הִתְקַטְּלוּ</span
+| 3fs | <span class="he">הִתְקַטְּלָה</span> | 
+| 2ms | <span class="he">הִתְקַטַּ֫לְתָּ</span> | 2ms | <span class="he">הִתְקַטַּלְתֶּם</span>
+| 2fs | <span class="he">הִתְקַטַּלְתְּ</span> | 2fs | <span class="he">הִתְקַטַּלְתֶּן</span>
+| 1cs | <span class="he">הִתְקַטַּ֫לְתִּי</span> | 1cs | <span class="he">הִתְקַטַּ֫לְנוּ</span>
+
+<figure>
+    <figcaption>Hitpael Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/34-tD-perfect-strong.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+## Hitpael Imperfect Strong
+
+* The standard Imperfect preformatives and sufformatives
+* $V_S =$ Patach
+* "Signature" tD Prefix: <span class="he">יִתְ</span> (or the applicable Imperfect preformative)
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִתְקַטֵּל</span>  | 3mp | <span class="he"> יִתְקַטְּלוּ</span>
+| 3fs | <span class="he">תִּתְקַטֵּל</span> | 3fp | <span class="he">תִּתְקַטֵּ֫לְנָה</span>
+| 2ms | <span class="he">תִּתְקַטֵּל</span> | 2mp | <span class="he">תִּתְקַטְּלוּ</span>
+| 2fs | <span class="he">תִּתְקַטְּלִי</span> | 2fp | <span class="he">תִּתְקַטֵּ֫לְנָה</span>
+| 1cs | <span class="he">אֶתְקַטֵּל</span> | 1cp | <span class="he">נִתְקַטֵּל</span>
+
+* Note the standard Imperfect preformatives followed by a תְ
+
+<figure>
+    <figcaption>Hitpael Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/34-tD-imperfect-strong.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+## Hitpael Imperative Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 2ms | <span class="he">הִתְקַטֵּל</span> | 2mp | <span class="he">הִתְקַטְּלוּ</span>
+| 2fs | <span class="he">הִתְקַטְּלִי</span> | 2fp | <span class="he">הִתְקַטֵּ֫לְנָה</span>
+
+## Hitpael Infinitives Strong
+
+
+| Type | Paradigm 
+| :-  | :- 
+| ∞ | <span class="he">הִתְקַטֵּל</span>  
+| A | <span class="he">הִתְקַטֵּל</span>
+
+Although these forms are identical to tDP3ms and tDM2ms, the infinitive forms are infrequent.  The tDA only appears three times in the Hebrew Bible.
+
+## Hitpael Participle Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| ms | <span class="he">מִתְקַטֵּל</span> | ms | <span class="he">מִתְקַטְּלִים</span>
+| fs | <span class="he">מִתְקַטֶּ֫לֶת</span> | fs | <span class="he">מִתְקַטְּלוֹת</span>
+
+Note the <span class="he">מִתְ </span> prefix in every form, with the characteristic מ of the Participle.
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/U7bGSrESfco){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/U7bGSrESfco" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/unjNAqluDpk){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/unjNAqluDpk" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 34 A. Vocab`
+* `Lesson 34 B. Grammar`
+* `Lesson 34 C. Workbook`
+* `Lesson 34 D. Study Verses`
+
+
+## OPTIONAL: Hitpael Parsing Worksheet {-}
+
+If you desire additional paradigm practice, you may use this [Hitpael parsing worksheet](./images/34_hithpael_strong_paradigms.pdf){target="_blank"}
+
+## Ruth Pursuit {-}        
+
+There is only one Hitpael verb in Ruth 1.  Since it is a weak verb, we will save it for next lesson.
+
+
+## Hebrew Quest Study Passage: Leviticus 23 {-}
+
+[Blank copy of Leviticus 23](https://docs.google.com/document/d/1QlmWYqkD6NNOM0VcJCrJbB_ntpuXnoCCdpqJ0m6xcqU/edit?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEOS, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)]
+    * [Part 1](https://holylanguage.com/leviticus-23.1.php){target="_blank"}
+    * [Part 2](https://holylanguage.com/leviticus-23.2.php){target="_blank"}
+4. After the video, assess your translation.  How close was it
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/37/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+

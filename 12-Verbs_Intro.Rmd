@@ -2,7 +2,7 @@
 
 > To comprehend Biblical Hebrew, we must be familiar with the Hebrew verbal system
 
-Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives and prepositions, the remainder of the course will focus on verbs. Around 70% of Hebrew verbs are in what is called the Qal stem so we will spend Lessons 13-22 learning that stem inside and out.  Before we do that, we want to provide a brief introduction on the verb system as a whole and learn some overall conventions.
+Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives and prepositions, the remainder of the course will focus on verbs. Around 70% of Hebrew verbs are in what is called the Qal stem so we will spend Lessons 13-22 learning that stem inside and out.  This Lesson will provide a brief introduction on the verb system as a whole and learn some overall conventions.
 
 ::: {.box .map}
 **LESSON ITINERARY**
@@ -57,67 +57,22 @@ knitr::include_graphics("images/12.Judean wilderness at sunset, tb021107716.jpg"
 
 ## The Verbal Root
 
-* A __root__ is the set of consonants on which a verb (and often nouns) are based
-* The majority of verbs have three __root consonants__
-*  As a convention, many Hebrew grammars label these $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do".  Additionally in some references the position may be displayed without the subscript: R1, R2, etc. </small>]</small>.
-* For the verb<span class="he">קָטַ֫לְתִּי</span>:
-    * The __root__ would be<span class="he">קטל</span>(no vowels)
-        * $R_1$ = ק 
-        * $R_2$ = ט
-        * $R_3$ = ל
+* A _Root_ is the set of consonants on which a verb (and often nouns) are based
+* The majority of verbs have three _root consonants_ from which the other words are derived.
 
-## Preformatives, Sufformatives, Prefixes, and Suffixes
+```{r, out.width = "400pt", fig.align='center'}
 
-* Hebrew Grammars often use the terms "preformative" and "sufformative" exclusively for verbs
-* A verbal preformative (if any) goes before $R_1$ and a sufformative (if any) goes after $R_3$
-* Any _prefix_ such as the interogative particle, or (commonly) the conjunction vav, goes _before_ the preformative
-* Any _suffix_, such as a pronominal suffix, goes _after_ the sufformative
-* For the verb<span class="he">קָטַ֫לְתִּי</span>, the sufformative is<span class="he">תִּי</span>and there is no preformative (and no prefix or suffix)
-* For the verb<span class="he">יִקְטְלוּ</span>, the preformative is<span class="he">יִ </span>, and the sufformative is<span class="he"> וּ</span>
-* For the verb<span class="he">יִקְטְל֫וּהָ</span>, the preformative is<span class="he">יִ</span>, the sufformative is<span class="he">וּ</span>and the pronominal suffix is<span class="he">הָ</span>
-## X Person, Gender, Number and Finite / Non-finite verbs
-
-
-
-## Verbal Vowels
-
-* Being able to identify a verbal vowel's position will turn out to be important in identifying the Verbal Root and the Stem
-* Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
-    * The stem vowel is usually $V_2$ but this is not a constant.  Sometimes it can be $V_1$
-    * The vowel associated with $R_3$ turns out to be less important so we do not need to identify this
-* For the verb<span class="he">יִקְטְל֫וּהָ</span>, the $V_P$ is hireq; V_1$ is Silent Sheva; and, $V_2$/$V_S$ are Vocal Sheva
-
-
-## The Seven Stems
-
-* Most of what you will need to learn about verbs will provide you more information about the verb but does not directly affect the word's meaning.  Not so with the stem.
-* The verb __stem__ affects the meaning of the verb itself
-    * At a basic level, the stem provides the _type of action_ (simple, causative, intensive) and the _voice_ (active or passive)
-    * There is much scholarly debate about the table below, but it provides a good starting place:
-    
-| |Active Voice| Passive Voice | Reflexive Voice
-| - | - | - | -
-Simple Action	| Qal | Niphal | Niphal
-Intensive	| Piel | Pual | Hitpael
-Cause an Action	|Hiphil | Hophal
-
-The Seven Stems:
-
-1. Qal - active (versus passive) voice and a simple, nuanced type of action - “he broke the vase”
-    * Qal is the primary Hebrew Stem, the majority of Verbs in the Hebrew Bible are Qal
-    * The remaining six stems are called "derived" stems
-2. Niphal - passive or reflexive voice with a simple action - “the vase was broken”
-3. Piel active/intensive - “he smashed the vase” 
-4. Pual - Passive/intensive - “the vase was shattered”
-5. Hiphil - Active/Causative - “he caused the vase to be broken”
-6. Hophal - Passive/Causative - “the vase was caused to be broken”
-7. Hitpael - Reflexive/Intensive - “he appointed himself “Chief Ceramic Repair Officer”
-
-
+knitr::include_graphics("images/12-verb-root.gif")
+``` 
 
 ## Person, Gender, Number
 
-* The person, gender and number refers to the __subject__ of the verb.
+* Hebrew verbs do what is called "inflecting" for person, gender and number
+    * Inflecting can be any combination of the following are added to the verbal root
+        * Spelling/vowel patterns
+        * Preformatives (verbal prefixes)
+        * Sufformatives
+* The person, gender and number refers to the _subject_ of the verb.
     * Pronominal suffixes are used to denote the object of the verb.  We will study these in Lesson 19.
 * Person, Gender, and Number are as we learned with nouns
     * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e. there is not a masculine form of "I" and a separate feminine form of "I")
@@ -128,55 +83,131 @@ The Seven Stems:
     * Number is singular or plural - there are no dual verb forms
     
 ::: {.box .info}
-When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular".  See additional discussion in the "Parsing" section of this Lesson.
+When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular".  
 :::
 
+## Verb nomenclature: 
 
+*  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do". </small>]</small>.
+* For the verb <span class="he">מָלַכְתִּי<span> (I was king):
+    * The _root_ is <span class="he">מלך</span> (no vowels)
+        * $R_1$ = מ
+        * $R_2$ = ל
+        * $R_3$ = ך
+* Also important to know is the _Lexical Form_ 
+    * The _lexical form_ is how you would look the word in a dictionary.
+    * The lexical form for verbs is almost always the Qal Perfect 3rd Person Masculine Singular: <span class="he">מָלַךְ</span>
+    
+## Preformatives, Sufformatives, Prefixes, and Suffixes
+
+* While many dictionaries would consider "preformative" synonymous with "prefix" and "sufformative" synonymous with "suffix", Hebrew grammars often use the terms "preformative" and "sufformative" exclusively for verbs
+* A verbal _preformative_ (if any) goes before $R_1$ and a _sufformative_ (if any) goes after $R_3$
+* Any _prefix_ such as the interogative particle, or (commonly) the conjunction vav, goes _before_ the preformative
+* Any _suffix_, such as a pronominal suffix, goes _after_ the sufformative
+* For the verb <span class="he">קָטַ֫לְתִּי</span>, the sufformative is <span class="he">תִּי</span> and there is no preformative (and no prefix or suffix)
+* For the verb <span class="he">יִקְטְלוּ</span>, the preformative is <span class="he">יִ </span>, and the sufformative is <span class="he"> וּ</span>
+* For the verb <span class="he">יִקְטְל֫וּהָ</span>, the preformative is <span class="he">יִ</span>, the sufformative is <span class="he">וּ</span>, and the pronominal suffix is <span class="he">הָ</span>
+
+
+## Verbal Vowels
+
+* Being able to identify a verbal vowel's position will turn out to be important in identifying the Verbal Root and the Stem
+* Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
+    * The $V_S$ is usually $V_2$ but this is not a constant.  Sometimes it can be $V_1$. We'll discuss this more in the next lesson.
+    * The vowel associated with $R_3$ turns out to be less important so we do not need to identify this
+* For the verb <span class="he">יִקְטְל֫וּהָ</span>, the $V_P$ is hireq; $V_1$ is Silent Sheva; and, $V_2$/$V_S$ are Vocal Sheva
+
+
+
+## The Seven Hebrew Verb Stems
+
+
+* The verb __stem__ affects the meaning of the verb itself
+* At a basic level, the stem provides the _type of action_ (simple, causative, intensive) and the _voice_ (active or passive)
+* The _Qal_ stem is the basic or simple verb stem.  All other stems are derived from Qal
+
+1. _Qal_ - Active (versus passive) voice and a simple type of action (without nuance) - “he broke the vase”
+    * Parsing code: Q
+2. _Niphal_ - Passive or reflexive voice with a simple action - “the vase was broken”
+    * Interestingly in English, many translations of Niphal verbs are still active voice
+    * For example, a fair translation of "he was seen" might be "he appeared"
+    * Parsing code: N
+3. _Piel_ - Active/intensive - “he smashed the vase”
+    * Parsing code: D (the Piel paradigm has a Daghesh Forte in $R_2$ - the D stands for "doubling Daghesh")
+4. _Pual_ - Passive/intensive - “the vase was shattered”
+    * Parsing code: Dp (passive of the Piel (D))
+5. _Hiphil_ - Active/Causative - “he caused the vase to be broken”
+    * Parsing code: H
+6. _Hophal_ - Passive/Causative - “the vase was caused to be broken”
+    * Parsing code: Hp (passive of the Hiphil (H))
+7. _Hitpael_ - Reflexive/Intensive - “he caused himself to be holy"
+    * Parsing code: tD (very similar to Piel (D) and has a ת in every preformative form)
+
+We'll explain the "Parsing codes" in a few sections 
+
+
+
+## The Seven Stems: Summary Table
+
+
+* There is scholarly debate about the table below
+    * Hebrew verbs can have any one of several nuanced meanings depending on the context
+    * The table provides a good starting place but it is not the "final word" on verb stems
+    * We will discuss these nuances as we introduce  each stems
+    
+| |Active Voice| Passive Voice | Reflexive Voice
+|:- |:- |:- |:-
+Simple Action	| Qal | Niphal | (Niphal)
+Intensive	| Piel | Pual | Hitpael
+Cause an Action	|Hiphil | Hophal
 
 ## The Eight Basic Conjugations
 
 * While the Stem provides the overall meaning, the _conjugation_ provides additional descriptive information needed for translation
 * Strictly speaking, Hebrew does not have past, present, future, tense, like English does
 * Instead, the easiest way of thinking about it is that Hebrew has complete vs incomplete action
-1. The _Perfect_ conjugation describes completed action 
+1. The _Perfect_ conjugation describes completed action, whether in the past, present, or future
     * Most often we translate this as English past tense - "She went"
     * Verbs that describe a state of being as will an action that is completed in the future will be in the Perfect
     Parsing code: P
-2. The _Imperfect_ conjugation describes an incomplete action 
+2. The _Imperfect_ conjugation describes an incomplete action, whether in the past, present, or future
     * Most often, we translate this as English future tense - "She will go"
     * Verbs that describe a process (that is not completed) or incomplete action even if in the past will tend to be in the Imperfect
     * Parsing code: I
-3. The _Imperative_ conjugation describes a second person command - "Go!"
+3. The _Imperative_ 2nd person Volitional - a command: "Go!"
     * Parsing code: M
-4. The _Cohortative_ conjugation is similar to the Imperative but for the 1st person - "I should go"<small>^[<small>Some grammars classify "Corhortative" and "Jussive" as "Verb Moods" and the remaining as "Verb Tenses."</small>]</small>.
+4. The _Cohortative_ 1st Person Volitional - wish, purpose: "I should go"<small>^[<small>Some grammars classify "Corhortative" and "Jussive" as "Verb Moods" and the remaining as "Verb Tenses."</small>]</small>.
     * Parsing code: C
-5. The _Jussive_ conjugation is similar to the Imperative but for the 3rd person - "He should go."
+5. The _Jussive_ 3rd Person Volitional - conjugation is similar to the Imperative - "He should go."
     * Parsing code: J
-6. The _Infinitive Construct_ - "to go", or a verbal noun as in, "going"
+6. The _Infinitive Construct_ Verbal Noun -  "to go", or a verbal noun as in, "going"
     * Parsing code: ∞
-7. The _Infinitive Absolute_ - special uses, less common and has no direct equivalent in English
+7. The _Infinitive Absolute_ Verbal Noun - special uses, less common and has no direct equivalent in English
     * Parsing code: A
-8. The _Participle_ - verbal adjective, "runner" "one who runs"
+8. The _Participle_ - Verbal adjective - "runner" "one who runs"
     * Parsing code: Pt
     
-### Vav prefix {-}
+    
+::: {.box .info}
 
-* Some grammars identify three additional forms, each with a Vav prefix, as additional conjugations/tenses:
+Vav prefix
+
+* Some grammars identify three other forms, each with a Vav prefix, as additional conjugations/tenses:
     * Perfect + Vav
     * Imperfect + Vav
     * Imperfect Vav Consecutive 
 * We will discuss these forms further in Lesson 17
 
-:: {.box .light}
+:::
 
-Finite vs Non-Finite Conjugations
+## Finite vs Non-Finite Conjugations
 
 * _FINITE_ verbs have "person"
     * Perfect, Imperfect, Imperative, Cohortative, Jussive
-* _NON-FINITE_ verbs do NOT have "person
+* _NON-FINITE_ verbs do NOT have "person"
     * Infinitive Construct, Infinitive Absolute, Participle
     * Only Participles have Gender and Number
-:::
+
 
 ## Parsing
 
@@ -194,36 +225,57 @@ Finite vs Non-Finite Conjugations
             * Only if $R_2$ is a vowel, the Lexical form is the Q∞ form
         * For parsing in this course, the Anki exercises will prompt for the _Root_
     
-::: {.box .info}
-Parsing/Morphology Code
+## Parsing Codes
 
 As it would get cumbersome to consistently write the full descriptions, such as "Hitpael Cohortative Third Person, Masculine Plural", many Hebrew grammarians use what is called "parsing code."  
 
 Unfortunately the nomenclature for morphology is not standardized.  We will be using Dr. John Beckman's code as he has applied it to "Basics of Biblical Hebrew".  His shorthand for the above, would be "tDC3mp".  For comparison, Logos software's code would be "VgI3MS-C".
 
-We do not have very many writing assignments in Hebrew GRAMMAR Quest; but, when we do have worksheets, feel free to use Parsing Code (or not!).  We'll mention the stem's parsing code as we introduce each section (and you'll have to wait until Lesson 35 to see why Hitpael is "tD")
+We do not have very many writing assignments in Hebrew GRAMMAR Quest; but, when we do have worksheets, feel free to use Parsing Code (or not!). 
 
-To get the Infinity symbol, use the keyboard combination <alt>+236.
-:::
+To get the Infinity ∞ symbol on a desktop/laptop keyboard, use the combination `alt+236`.
+
 
 ## Strong and Weak Verbs
 
 As we get into each stem, there will be separate chapters devoted to strong and week verbs; therefore, it might be good for you to know what we mean by these terms.
 
 * Each conjugation will have a basic paradigm that directs vowels, accents, preformatives and sufformatives for each PGN
-* Simply put, strong verbs will always follow this paradigm, while weak verbs will have one or more weak letters that result in some deviation from the paradigm
+* Strong verbs will follow the paradigm, while weak verbs will have one or more weak letters that result in some deviation from the paradigm
     * To put another way, strong verbs are "regular" and weak verbs are "irregular"
+* The next page lists some of the major weak categories
+
+## Weak Verb Classes
+
+> A weak verb has a root consonant that causes it to deviate from the strong-verb paradigm
+
+* A verb may have one such letter that causes deviation in one stem or conjugations but not in others
+    * ר is only weak in forms that try to put a Dagesh Forte in it
+    * 1נ wants to assimilate whenever it has a Silent Sheva
+        * Because this never happens to $R_1$ in the Qal Perfect, 1נ is strong in the Qal Perfect
+        * We will learn this will happen in the imperfect, so 1נ is weak in that conjugation
+* We classify weak verbs by their problem letter
+    * 3נ means that $R_3$ is נ, as in **זקן***
+    * 3ת means that $R_3$ is ת, as in **ברת***
+    * 1G means that $R_1$ is a guttural, as in **אמר***
+    * 2G means that $R_2$ is a guttural, as in **בחר***
+    * We can't simply say "3G" for any $R_3$ guttural because it turns out that א and ה each behave differently:
+        * 3עח means that $R_3$ is ע or ח, as in **מנע*** **לקח***
+        * 3א  means that $R_3$ is א, as in **מצא***
+        * 3ה means that $R_3$ is the vowel Qamets+Hei, as in **בנה***
+    * Geminate - $R_2$ = $R_3$ **סבב***
+    * Biconsonantal (also called Hollow) - $R_2$ is a vowel letter **בוֹא*** **שִׁים**** **קוּם****
+    * Doubly Weak is any combination of two (or three) weak letters, as in **עַלָה***
+    
 * The good news is when Hebrew verbs are weak, the behavior is usually predictable
-* In fact, you have already learned almost every behavior change we will encounter with weak verbs - it will just be a matter of taking that which you already know and applying it to a new area
-    * You know that gutturals reject Vocal Sheva
-        * So when the strong verb paradigm requires a Vocal Sheva, you already know there will be hateph vowels and possibly the rule of Sheva at play
-    * You already know that the gutturals and Resh reject the Daghesh Forte
-        * So when the strong verb paradigm requires a Daghesh Forte, you already know there will likely be Virtual Doubling or Compensatory Lengthening
-* Weak verbs may take a little more thought but overall they are nothing to be concerned about
-* Perhaps ironically, the better you know your _vocabulary_ and the _strong_ verb paradigms, the easier the _weak_ verbs will be
+* In fact, you have already learned almost every behavior change we will encounter with weak verbs
+    * For example, you already know that Gutturals reject Vocal Sheva and the Daghesh Forte
+    * It will just be a matter of applying that which you already know to a new area
+* Weak verbs may take a little more thought, but overall they are nothing to be concerned about
+* The better you know your _vocabulary_ and the _strong_ verb paradigms, the easier the _weak_ verbs will be
 * This is why this course will focus on memorizing the Qal strong paradigms, with robotic-like recall
 
-That's enough for this introduction to Hebrew verbs.  Let's get to the exercises
+That's enough for this introduction to Hebrew verbs.  Let's get to the exercises!
 
 
 

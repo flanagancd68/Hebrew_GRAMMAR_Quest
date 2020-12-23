@@ -115,7 +115,7 @@ include_graphics("images/03.accent_stress.png")
 * The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
     * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)<small>^[<small>Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.</small>]</small>
 
-## Tonic, Pretonic, and Propretonic Syllables {-}
+## Tonic, Pretonic, and Propretonic Syllables
 
 * We will encounter specific terms for a syllable's position respective to the word's accent
 * Let's use the plural of <span class="he">דָּבָר</span> to illustrate: <span class="he">דְּ ׀ בָ ׀ רִים</span>
@@ -126,7 +126,7 @@ include_graphics("images/03.accent_stress.png")
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = <span class="he">בָ</span>
     * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span><small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
     
-## Ultima, Penultima, and Antepenultima syllables {-}
+## Ultima, Penultima, and Antepenultima syllables
 
 Since the accent is not always in a fixed location, we sometimes will use other words that describes a syllable's position irrespective of the accent. 
 
@@ -307,9 +307,9 @@ Then after watching these, go ahead and jump into `Anki`.
 
 * Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
      
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA{target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/9IkIvWPArlA frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/9IkIvWPArlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
   
@@ -331,4 +331,7 @@ Then after watching these, go ahead and jump into `Anki`.
 
 [Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" frameborder="0"></iframe>
+</div>

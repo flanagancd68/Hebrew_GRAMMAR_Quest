@@ -1,1 +1,340 @@
 # The Hiphil Stem - Strong Verbs {.H-s}
+
+With the Hiphil stem, we move into the bottom row of our verb table.  There are approximately 10,000 occurrences of the Hiphil stem in the Bible. The Hiphil stem has the nuance of causing an action, entering into a state, or declaring a state.  Activities for this lesson include identifying Hiphil verbs in Ruth chapter one and reading verse by verse through Exodus 19.
+
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. Understand the meaning of the Hiphil Stem to understand our Bible
+1. Identify the Hiphil Beginning Combinations
+1. Identify the $V_S$ pattern for when we can't rely on the Beginning Combination
+1. Understand the Hiphal Strong paradigms
+:::
+
+
+## First Thought {-}
+
+### <span class="he">לְכוּ־נָ֛א וְנִוָּֽכְחָ֖ה יֹאמַ֣ר יְהוָ֑ה אִם־יִֽהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג יַלְבִּ֔ינוּ אִם־יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִהְיֽוּ׃</span> {-}
+
+*"Come now, and let us reason together," Says Adonai, "Though your sins are as scarlet, They will be as white as snow; Though they are red like crimson, They will be like wool. (Isaiah 1:18)*
+
+This is a famous memory verse for Jews and Christians/Believers in Messiah alike.  How beautiful to be able to read and hear in the original Hebrew!  Meditate on it!
+
+**יַאְדִּ֥ימוּ*** is Hiphil Imperfect 3ms
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/30-10.Isaiah1.18.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/30.Western Wall with chairs and snow, tb022503206.jpg")
+``` 
+
+
+
+
+
+## Meaning of the Hiphil
+
+| |Active Voice| Passive Voice | Reflexive Voice
+|:- |:- |:- |:-
+Simple Action	| Qal | Niphal | (Niphal)
+Intensive	| Piel | Pual | Hitpael
+Cause an Action	| __HIPHIL__ | Hophal
+
+Meanings:
+
+* Causing an action
+    * <span class="he">יצא</span>
+        * Q - to go out
+        * H - to cause something to go out, i.e. to bring out
+    * Sometimes passive of Qal - <span class="he">אכל</span>
+        * Q - to eat
+        * H - to cause to eat, i.e. to feed 
+* To enter into or declare the state expressed by Qal
+    * <span class="he">זקן</span>
+        * Q - to be old
+        * H - to grow old
+    * <span class="he">רשׁע</span>
+        * Q - to be guilty/wicked
+        * H - to declare guilty
+* Can also be simple action, like the Qal
+
+Parsing Code: H (`H`iphil)
+
+## Hiphil Strong Word Initial Combinations - Think "HIphil-HAphil"
+
+* Preformatives
+    * Hiphil verbs have preformative ה
+    * Imperfects and Participles have the usual preformatives
+* $V_P$
+    * Remember "Hiphil-Haphil" (like "Piel-Pael")
+    * $V_P = I$ in the PERFECT ("Hiphil")
+    * $V_P = A$ EVERYWHERE ELSE ("Haphil")
+* $V_1 = :$ 
+* $WI_{H...}$ are therefore (ק represents any non-weak letter):
+    * **הִקְ***$WI_{HP}$
+    * **יַקְ*** - $WI_{HI3m}$, and so forth for the other Imperfect forms
+    * **מַקְ*** - $WI_{HM/H∞/HA}$
+    * **מַקְ*** - $WI_{HPt}$
+
+::: {.box .light}
+* In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem
+* Exceptions are when $R_1$ is a weak consonant - we will study these scenarios in Lesson 31
+:::
+
+## Hiphil $V_S = Î[A] \sim Î(Ē)$
+
+* We remember that on the LEFT is the perfect 3rd, with 2nd and 1st person in the brackets
+* On the RIGHT is Imperfect, Imperative and Infinitive Construct, with the FP (as applicable) in the brackets
+* Memorizing
+* $V_S(HPt) = \hat I$ 
+    * The Participle is usually the Perfect $V_S$ lengthened. In this case, Hireq+Yod is already long so no change.
+* $V_S(HA) = \bar E$   as expected.
+
+::: {.box .info}
+Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never reduces because it is an unchangable long vowel, even when it is written as Hireq.
+:::
+
+### Exception to $V_S$ pattern {-}
+
+* $V_S(HM2ms) = \bar E$
+* #V_S(HIwc) is often Ē instead of Î (Hireq+Yod) when there is no pronominal suffix
+* **הַקְטֵל***
+* **וַיַּקְטֵל***
+
+
+## Don’t confuse **ְ הִ*** with Niphal Preformative **ָּּ הִ***
+
+* Hiphil  - **הִקְטִיל***
+    * No Daghesh Forte in $R_1$
+* Niphal - **הִקָּטֵל***
+    * Daghesh Forte in $R_1$
+    * $V_1$ = Qamets
+
+## Don't confususe Hiphil Imperfect **ְ יַ*** with Qal Imperfect **ְ יִ***
+
+* Remember "Hiphil" = Perfect; "Haphil" everywhere else
+* Imperfect $V_P$ of Hireq is NOT Hiphil
+* Ambiguity arises with 1G verbs because of the Rule of Sheva ("Hateph copy-cat")
+* As we've discussed, in 1G situations, we can't necessarily rely on the Beginning Combination to determine the stem
+    * $V_P$ and $V_1$ will be Patach and Hateph Patach in both Hiphil and Qal
+    * The Hiphil $V_S$ will be Hireq+Yod
+        * HI3ms - **יַעֲמִיד***
+        * QI3ms **יַעֲמֹד***
+* 3ה lose their stem vowel so 1G+3ה are truly ambiguous
+    * (Q/H)I3ms - **יַעֲלֶה***
+    * Our trusted friend, context, will determine whether he "went up" (Qal), or whether he "brought (something) up" (Hiphil)
+
+
+## Hiphil Perfect Strong Paradigm
+
+As with the other stems, we list these paradigms to aid in your recognition of these forms.  It is not necessary to memorize these like you had to do with the Qal paradigms.
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | **הִקְטִיל***  | 3cp | **הִקְטִ֫ילוּ*** 
+| 3fs | **הִקְטִ֫ילָה*** | 
+| 2ms | **הִקְטַ֫לְתָּ*** | 2mp | **הִקְטַלְתֶּם***
+| 2fs | **הִקְטַלְתְּ*** | 2fp | **הִקְטַלְתֶּן***
+| 1cs | **הִקְטַ֫לְתִּי*** | 1cp | **הִקְטַ֫לְנוּ***
+
+<figure>
+    <figcaption>Hiphil Perfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/30.hiphil_perfect_paradigm.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+## Hiphil Imperfect Strong Paradigm
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | **יַקְטִיל***  | 3mp | **יַקְטִ֫ילוּ*** 
+| 3fs | **תַּקְטִיל*** | 3fp | **תַּקְטֵ֫לְנָה***
+| 2ms | **תַּקְטִיל*** | 2mp | **תַּקְטִ֫ילוּ***
+| 2fs | **תַּקְטִ֫ילִי*** | 2fp | **תַּקְטֵ֫לְנָה***
+| 1cs | **אַקְטִיל*** | 1cp | **נַקְטִיל***
+
+<figure>
+    <figcaption>Hiphil Imperfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/30.hiphil_imperfect_paradigm.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+## Hiphil Imperative Strong Paradigm
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 2ms | **הַקְטֵל*** | 2mp | **הַקְטִ֫ילוּ***
+| 2fs | **הַקְטִ֫ילִי*** | 2fp | **הַקְטֵ֫לְנָה***
+
+<figure>
+    <figcaption>Hiphil Perfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/30.hiphil_imperative_paradigm.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+## Hiphil Infinitives Strong
+
+
+| Type | Paradigm 
+| :-  | :- 
+| ∞ | **הַקְטִיל***  
+| A | **הַקְטֵל***
+
+$V_S$ will distinguish the two Infinitive forms.  HA has a Tsere.
+* Note that HM2ms and HA are identical (contest will distinguish)
+
+## Participle Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| ms | **מַקְטִיל*** | mp | **מַקְטִילִים***
+| fs | **מַקְטֶ֫לֶת*** or **מַקְטִילָה*** | fp | **מַקְטִילוֹת***
+
+
+* The מ prefix, which characterizes the Participle in the Piel, Pual, Hiphil, and Hophal stems
+* $V_S$ = Hireq+Yod throughout (except for one of the FS forms)
+
+### Participle Prefixes in the Derived Stems {-}
+
+Stem | Prefix 
+:- | :-: 
+Niphal | נִ |
+Piel | מְ
+Pual | מְ
+Hiphil | ַמ
+Hophal (u-class) | מֻ
+Hophal (o-class) | ָמ
+Hithpael | תִמְ
+
+
+## Strong Summary
+
+* In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
+    * The exceptions come when $R_1$ is a weak letter (discussed in Lesson 31)
+* Hiphil Beginning Combination:
+    * **ְ הִ*** - HP
+    * **ְ יַ*** - (etc) HI
+    * **ְ הַ*** - HM/H∞/HA
+    * **ְ מַ*** - HPt
+* $V_S = Î[A] \sim Î(Ē)$
+    * It's important to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
+    
+
+## OPTIONAL: Hiphil Parsing Worksheet {-}
+
+Our focus is on recognition, not repetition.  As we stated, in most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem.
+
+If you desire additional paradigm practice, you may use this [Hiphil Paradigm Worksheet](./images/30_hiphil_strong_paradigms.pdf){target="_blank"}
+
+## X Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+
+## X Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+## X Anki {-}
+
+* `Lesson 30 A. Vocab`
+* `Lesson 30 B. Grammar` 
+* `Lesson 30 C. Workbook`
+* `Lesson 30 D. Study Verses`
+
+
+
+## X Ruth Pursuit {-}        
+
+### X Your Quest: {-}
+
+1. Instruction#1 (Yellow)
+2. Instruction#2 (Green)
+3. Instruction3 (Light Blue)
+4. Instruction4 (Pink)
+5. Instruction5 (Light Grey)
+6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
+7. instruction7 (Blue)
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Exodus 19 {-}
+
+[Blank copy of Exodus 19](https://docs.google.com/document/d/1OGYrVxUGGPbwi8ioGi1bnt_vwA4YCNE2XZ2l3GQ8rQM/edit?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-33.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Exocus/19){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/33/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+

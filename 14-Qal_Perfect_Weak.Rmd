@@ -1,3 +1,181 @@
 # Qal Perfect - Weak Verbs {.QP-w}
 
 
+> To comprehend Biblical Hebrew, we must be able to parse and translate Qal Perfect weak verbs 
+
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* You must have the Qal Perfect Strong Paradigm memorized!
+*
+:::
+
+## X First Thought {-}
+
+### X <span class="he"> </span> {-}
+
+*verse (reference 1:1)*
+
+-brief meditation-
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg")
+``` 
+
+
+
+
+<!-- picture -->
+
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
+
+
+
+
+
+## X 3נ and 3ת with Silent Sheva Assimilate to Dagesh
+
+* assimilates to   only
+*  assimilates to anything
+
+* 
+
+
+
+## X Point3 
+
+
+
+## X Point4 
+
+
+
+## X Point5 
+
+
+
+## X Point6 
+
+
+
+## X Point7 
+
+
+
+
+## X Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+
+## X Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+## X Anki {-}
+
+* `Lesson xx A. Vocab`
+* `Lesson xx B. Grammar` 
+* `Lesson xx C. Workbook`
+* `Lesson xx D. Study Verses`
+
+## X Worksheets: NameOfWorksheet {-}
+
+<describe the worksheet>
+
+[Name of worksheet](){target="_blank"}
+
+## X Ruth Pursuit {-}        
+
+### X Your Quest: {-}
+
+1. Instruction#1 (Yellow)
+2. Instruction#2 (Green)
+3. Instruction3 (Light Blue)
+4. Instruction4 (Pink)
+5. Instruction5 (Light Grey)
+6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
+7. instruction7 (Blue)
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## X Hebrew Quest Study Passage: Book ## {-}
+
+[Blank copy of Book ##](){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/NAME.php){target="_blank"}
+4. After the video, assess your translation.  How close was it.
+5. How did the Ruach HaQodesh speak to you through the passage.
+
+Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+

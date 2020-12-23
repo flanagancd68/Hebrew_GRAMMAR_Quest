@@ -7,6 +7,7 @@ This unit represents a pivot point in this course.  From now through the end of 
 With this unit, we are going to increase the intensity of our Hebrew workouts in a couple of ways:
 
 1. Hebrew Quest Study Passages
+2. Vowel Shorthand
 2. Cantillation marks added to Study Verses
 
 ## Hebrew Quest Study Passages {-}
@@ -22,9 +23,38 @@ Here is what we want you to do in these Study Passages activities:
 3. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
 4. Compare your translation from step 2 with Izzy's explanation on the video?  How did you do?  Can you see how much you are learning?
 
+## Vowel Transliteration/Shorthand
+
+* Way back in Chapters 1 and 2, _Basics of Biblical Hebrew_ taught transliteration for both consonants and vowels
+* At the time you studied these lessons, we omitted this discussion. For Hebrew GRAMMAR Quest, we want to get you into the actual Hebrew text, not rely on a transliteration
+* The transliteration shorthand used does turn out to be valuable as we progress in the derived verb stems
+    * It allows us to create mathematical-style formulas which are much easier to remember than writing and reading everything in long-form.  Compare:
+        * "The stem vowel is Hireq + Yod and the preformative vowel is Hateph Qamets Hatuf", with "$V_S = \hat I$ and $V_P = \breve O$"
+* Below is the vowel shorthand we will use:
+
+|Type / Class|A|E|I|O|U
+|:-:           |:-:|:-:|:-:|:-:|:-: 
+| Short (plain) |<span class="he">בַ</span><small>^[ב is used as a placeholder. _Basics of Biblical Hebrew_ has these as lowercase letters, while Beckman's version uses uppercase. As you know by now, Hebrew GRAMMAR Quest primarily follows Beckman's conventions. </small>]</small>>$= A$ | <span class="he">בֶ</span> $= E$ | <span class="he">בִ</span> $= I$  | <span class="he">בָ</span> $= O$ | <span class="he">בֻ</span> $= U$
+|Long (bar) | <span class="he">בֲ</span> $= \bar A$ | <span class="he">בֵ</span> $= \bar E$| | <span class="he">בֹ</span> $= \bar O$ |
+|Reduced (breve) | <span class="he">ב</span> $= \breve A$ | <span class="he">בֱ</span> $\breve E$ | | <span class="he">בֳ</span> $= \breve O$ |
+| Letters (hat)<small>^[Of all the vowel letters, Hebrew verbs tend to use only these three as stem vowels</small>]</small>| | |<span class="he">בִי</span> $= \hat I$ |<span class="he">וֹ</span> $= \hat O$ | <span class="he">וּ</span> $= \hat U$
+
+* Finally, we will use $:$ for Sheva (silent or vocal)
+* As we remember, the ה vowel letters are only used at the end of words, so they would never be the $V_P$ or the $V_S$
+
+## Word Initial Form
+
+* A Hebrew strong verb conjugations, regardless of stem, can usually be identified based on it's initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
+* For example, in Lesson 15, we will learn the "Imperfect Preformatives"
+    * The 3ms and 3mp strong forms will always have:
+        * Preformative consonant = Yod
+        * $V_P$ = Hireq, and
+        * $V_1$ = Silent Sheva
+    * We can shorten this by saying $WI_{QI} =$ **יִקְ***, where ק represents $R_1$ of any strong verb
+
 ## Cantillation Marks {-}
 
-Way back in Lesson 2, we talked about cantillation marks.  These are the marks in addition to vowels and consonants we sometimes see in Hebrew.  Here is an example from Genesis:
+Way back in Lesson 2, we also referenced additional marking called cantillation marks.  These are the marks in addition to vowels and consonants we sometimes see in Hebrew.  Here is an example from Genesis:
 ```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
 include_graphics("images/02.Gen0109.png")
@@ -45,6 +75,24 @@ Things to keep in mind:
 * When in doubt, listen to Izzy's audio carefully as he reads each verse, to determine where the accent goes
 
 Trying to read with these marks can be visually distracting and overwhelming at first, but with practice you will get used to them.  They are part of the rich tradition of Biblical Hebrew that has been passed down to us from many centuries ago.
+
+## Keep going! {-}
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013."}
+
+knitr::include_graphics("images/11b.bethabara.JPG")
+``` 
+
+
+* The photo above is of the Jordan River baptismal area in Israel near Jericho - it was taken less than a month after flooding of the area
+* Lessons 13-16 could be considered the "high-water mark" of the course
+* There will be a lot of details to digest as we talk about the two most critical verb forms in the Bible, the Qal Perfect and the Qal Imperfect
+* It's important that you master the material in these four chapters - this will make the rest of the course much smoother 
+* The high water will start to recede a little starting with Lesson 17
+* For the most part, the rest of the course from 17-35 will be building off of what we learned in Chapters 13-16
+* Hang in there and keep going!  Slow and steady wins your Hebrew race!
+
 
 Now, let's get to Hebrew Verbs!
 

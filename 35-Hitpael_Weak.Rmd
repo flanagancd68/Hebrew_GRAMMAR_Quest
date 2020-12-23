@@ -1,1 +1,201 @@
 # The Hithpael Stem - Weak Verbs {.Ht-w}
+
+> CONGRATULATIONS ON REACHING THE FINAL CHAPTER OF HEBREW GRAMMAR QUEST!
+
+In this Lesson we will briefly look at the spelling changes of the Hitpael weak verbs, a minor stem called the Hitpolel, and a second minor stem called Hishtapel that only has one word (but it's a very important word).
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. Understand key spelling changes in the Hitpael stem
+1. Describe the Hitpolel minor stem
+1. Identify the Hishtapel minor stem in the Bible
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* You are able to identify the Hitpael preformatives in all conjugations.
+
+:::
+
+## First Thought {-}
+
+###  <span class="he">וְנָמַ֤סּוּ הֶֽהָרִים֙ תַּחְתָּ֔יו וְהָעֲמָקִ֖ים יִתְבַּקָּ֑עוּ כַּדּוֹנַג֙ מִפְּנֵ֣י הָאֵ֔שׁ כְּמַ֖יִם מֻגָּרִ֥ים בְּמוֹרָֽד׃ </span> {-}
+
+*The mountains will melt under Him And the valleys will be split, Like wax before the fire (Micah 1:4)*
+
+Our prayer at Holy Language Institute is that you have drawn closer to HaShem through Hebrew, His Holy Language.  While we are proud of you and excited for you that you have completed the course, we have an all-too-human tendency to boast in our success.  Let us give glory to Him who alone has the power to call down fire from heaven. The Hebrew Quest Study Passage for this Lesson is the story of Elijah on Mount Carmel in 1 Kings 18 where HaShem did exactly that.  May we always be reminded that we do all things through Yeshua who gives us strength.
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/35-4.Micah1.4.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg")
+``` 
+
+
+
+
+<!-- picture -->
+
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
+
+
+
+## $R_2$ can lose Daghesh Forte
+
+* By now, you are very familiar with this concept
+* The Hitpael verb MAY lose if  $R_2$ is SQiN eM LeVY consonant with a Sheva
+* The Hitpael verb WILL lose if $R_2$ is Guttural or Resh
+    * With ע, ה,  and ח there is usually no compensatory lengthening
+    * With א and ר $V_1$ will lengthen from Patach to Qamets
+        * <span>הִתְבָּרֵךְ</span> tDP3ms of ברך, "he blessed himself"
+
+
+## Transposition of ת and $R_1$ when $R_1$ is sibilant
+
+* The sibilants are the same letters as the "S" SQiN eM LeVY letters
+* The ancients found it easier to pronounce <span>הִשְׁתַּמֵּר</span>* instead of <span class="he">הִתְשַׁמֵּר</span>
+    * English has this too: we find it more "comfterble" to pronounce "comfortable" as "comfterble" - we transpose the "r" and "t"
+    * Hebrew transposes the "ת" of the Hitpael preformative with the s-sound of $R_1$
+* This can be an initial challenge since the <span class="he">ְ הִ</span> looks like Hiphil
+    * If you think the root is שׁתם, then you have a stray ר that doesn't fit anywhere
+    * Four-letter roots do exist but are exceptionally rare in the Hebrew bible - there is no root = שׁתמר
+* The vowels of the Hitpael strong are the same
+* Examples:
+    * <span class="he">הִסְתַּתֵּר</span> - he hid himself
+    * <span class="he">הִשְׂתַּכֵּר</span> - he earned wages for (hired) himself<small>^[<small>BBH mentions that there are three times n the Bible when $R_1$ = <span class="he">צ</span>, not only will the <span class="he">ת</span> switch places, it will change to <span class="he">ט</span>.</small>]</small>
+
+
+## Preformative תְ assimilates when $R_1$ is ז ד ט ת,
+
+* If $R_1$ is ז ד ט ת (i.e. the "dental" letters) the ת of the Hithpael preformative will assimilate into $R_1$ and remain as a Daghesh Forte
+* This can present a potential ambiguity with Niphal; however, note $V_1$ is _QAMETS_ in Niphal compared to _PATACH_ in Hitpael, and $R_2$ will have a Daghesh Forte in Hitpael:
+    * <span class="he">הִדַּבֵּר</span> - tDP3ms
+    * <span class="he">הִדָּבֵר</span> -NM2ms 
+
+
+
+## Hitpolel is tD of some Biconsonantal and Geminate Verbs
+
+* $R_3$ is doubled
+* $V_1$ is <span class="he">וֹ</span>
+* This is an irregular form, but these words maintain diagnostic Hitpael preformative       
+    * <span class="he">הִתְרוּמֵם</span> - Hitpolel (P3ms/M2ms/∞/A), רוּם
+    * <span class="he">יִתְרוֹמֵם</span> - Hitpolel I3ms, רוּם
+* Same meaning as a normal Hitpael
+
+
+## <span class="he">חָוָה </span> - Hishtapel Stem
+
+*  <span class="he">חָוָה </span> gets its own stem: Hishtapel
+*  <span class="he">חָוָה </span> occurrs 173 times in the Bible,  only in Hishtapel
+*  <span class="he">חוה</span> means: to prostrate oneself in worship (as to God, or another diety) or submission (as to a king)
+
+* Since <span class="he">חָוָה </span> is a 3ה verb, it will consistently exhibit the distinctive 3ה endings
+    * <span class="he">הִשְׁתַּחֲוָה</span> - HstP3ms - he worshipped
+    * <span class="he">תִּשְׁתַּחֲוֶה</span> - HstI2ms - you will worship
+    * <span class="he">הִשְׁתַּחֲווּ</span> - HstM2mp/HstP3mp - (you all) worship!/they worshipped
+    * <span class="he">הִשְׁתַּחֲוֹת</span> - Hst∞ - to worship, to bown down
+    * <span class="he">מִשְׁתַּחֲוֶה</span> - HstPtms - worshiping, bowing down
+    
+* Bible Examples:
+    * <span class="he">וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה</span>  - (and) they will worship Adonai (Isa 27:13)
+    * <span class="he">וַיִּשְׁתַּחוּ אַבְרָהָם לִפְנֵי עַם הָאָרֶץ</span> - (and) Abraham bowed down before the people of the land (Gen 23:12)
+    * <span class="he">וְנִשְׁתַּחֲוֶה וְנָשׁוּבָה אֲלֵיכֶם</span> - (and) we will worship and we will return to you (Gen 22:5)
+
+
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/lCKxr4BLfmM){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/lCKxr4BLfmM" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/G7286j0gy80){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/G7286j0gy80" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 35 A. Vocab`
+* `Lesson 35 B. Grammar` 
+* `Lesson 35 C. Workbook`
+* `Lesson 35 D. Study Verses`
+
+
+
+## Ruth Pursuit {-}        
+
+### Your Quest: {-}
+
+Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael verbs in the remainder of Ruth.
+
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #35](./images/35_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: 1 Kings 18 {-}
+
+[Blank copy of 1 Kings 18](https://docs.google.com/document/d/1YmsEP2tiOf2qtI3xSM_HJ0sgTYUtV8Up86UIFotRtNY/view?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/kings-18.php){target="_blank"}
+4. After the video, assess your translation.  How close was it.
+5. How did the Ruach HaQodesh speak to you through the passage.
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/40/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+

@@ -1,3 +1,392 @@
-# (PART) Derived Binyanim {-}
+# X The Niphal Stem - Strong Verbs {#N-s}
 
-# The Niphal Stem - Strong Verbs {#N-s}
+The Niphal stem occurs 4,138 times in the Bible. It occurs in the Perfect 1,426 times, Imperfect 1,544 times, Imperative 118 times, Infinitive Construct 205 times, Infinitive Absolute 37 times, and Participle 808 times.
+
+::: {.box .map}
+LESSON ITINERARY
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+EQUIPMENT CHECK
+
+Before continuing, can you describe the following concepts?
+
+* You must have all of the Qal strong verb paradigms committed to memory: Perfect, Imperfect, Imperative, Infinitive Construct, Infinitive Absolute, and Particle
+* Review the Stem Vowel Formula from the Unit 4 Introduction
+* Review the Word-Initial nomenclature from the Unit 3 Introduction
+:::
+
+## First Thought {-}
+
+### <span class="he"> וּמִן־הַגָּדִ֡י נִבְדְּל֣וּ אֶל־דָּוִיד֩ לַמְצַ֨ד מִדְבָּ֜רָה</span> {-}
+
+*From the Gadites there came over to David in the stronghold in the wilderness (1 Chronicles 12:9)*
+
+En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty part of Israel adjacent to the Dead Sea.  Similarly our walk with Yeshua (and indeed, our study of Hebrew!) can sometimes leave us feeling dry and parched.  Just as David had a retreat at En Gedi, so it is important for us to make sure we remain connected to our source of Living Water as we go through life's journeys.
+
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/24-8.1Chronicles 12.9.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg")
+``` 
+
+
+
+
+## Niphal Verb Stem Table
+
+| |Active Voice| Passive Voice | Reflexive Voice
+|:- |:- |:- |:-
+Simple Action	| Qal | _NIPHAL_ | _NIPHAL_
+Intensive	| Piel | Pual | Hitpael
+Cause an Action	| Hiphil | Hophal
+
+* Reminders:
+    * The table gives broad generalization; many verbs do not fit neatly into the table's definitions
+    * Use a lexicon/dictionary to check the meanings in different stems
+    * Few verbs occur in all stems - there are many Niphal verbs that NEVER occur in Qal
+* Lesson 25 will have a list of the most frequent Niphal verbs
+
+## Niphal Meanings
+
+* Simple action with either a passive or reflexive voice
+* <span class="he">שָׁמַע </span>
+    * Qal - He heard
+    * Niphal - He was heard (passive), or he heard himself (reflexive)
+* Some English translations do not overtly seem passive or reflexive
+    * <span class="he">אמן</span> - Niphal - to be reliable, faithful, trustworthy
+    * <span class="he">לחם</span> - Niphal - to fight, do battle with
+
+## Niphal Strong $Pre$ Combinations 
+
+* For ease of reference, we are going to use the label $Pre$ for any diagnostic combination of word-initial consonants (prefix or root letters), vowels, and Dagesh Fortes (as applicable)
+    * ק is used as a placeholder to represent $R_1% of any strong verb
+
+:::{.box .light}
+Memorize these three $Pre$ formulas and the conjugations in which they are used:
+:::
+
+* Perfect, Participle, some Infinitive Absolute: $Pre =$ <span class="he">נִקְ</span>        
+* Imperfect: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
+    * Imperfect 1cs: $Pre =$ <span class="he">אֶקָּ</span> (like the Qal) OR <span class="he">אִקָּ</span>
+* Imperative/∞/some Infinitive Absolute:$Pre=$ <span class="he">הִקָּ</span>
+
+::: {.box .info}      
+* The נ prefix is added to <u>every</u> form of <u>every</u> conjugation
+    * In the NP, NPt and in one form of the NA, the נ appears
+    * In the NI, NM, N∞, and the other form of the NA, the נ is _assimilated into a Daghesh Forte_ in $R_1$
+* Niphal Strong $V_P = I$ ALWAYS
+:::
+
+## Niphal Strong Stem Vowels 
+
+::: {.box .light}
+Memorize this $V_S$ formula:
+:::
+
+$$V_{S_N} = A \sim \bar E(A)$$
+
+* Examples:
+    * Perfect $V_S=A$, so NP3ms = <span class="he">נִקְתַל</span>
+    * Imperfect/Imperative/∞ (except FP) $V_S= \bar E$, so <span class="he">יִקָּטֵל</span>
+    * Imperfect/Imperative/∞ FP $V_S=(A)$, so <span class="he">תִּקָּטַ֫לְנָה</span>
+
+## Niphal Infinitive Absolute $V_S = \bar E$ (usually)
+
+* In the QA, $V_S = \hat O$ - ALWAYS
+* Some forms of Niphal also have $V_S = \hat O$
+* $\hat O$ - <span class="he">וֹ</span>-  can be written defectively
+* This means a Niphal Infinitive Absolute can occur in any one of six variants:
+    *  <span class="he">הִקָּטֵל</span>
+    *  <span class="he">הִקָּטוֹל</span>
+    *  <span class="he">נִקְטוֹל</span>
+    *  <span class="he">נִקְטֵל</span>
+    *  <span class="he">נִקְטֹל</span>
+    *  <span class="he">הִקָּטֹל</span>
+* Remember, the Niphal absolute only occurs 37 times total, so do not be overly concerned with these variations
+
+::: {.box .info}
+In all other stems, including one form of Niphal Absolute, the stem vowel is $\bar E$
+:::
+
+## Niphal Participle $V_S =$ Lengthened P3ms
+
+* If $V_S$ is already long, the Participle is the same as the Perfect 3ms
+* This is true for all Stems except Qal
+* Remember the formula: $V_{S_N} = A \sim \bar E(A)$
+    * Since the Niphal Perfect 3ms $V_S = A$, the Niphal Participle $V_S = \bar A$
+    * NP3ms = <span class="he">נִקְטַל</span>
+    * NptMS = <span class="he">נִקְטָל</span>
+* $V_S$ does NOT reduce in the Niphal
+* This distinguishes Np3fs from NPtfs
+    * <span class="he">נִקְטָלָה</span> is NPtfs because $V_S$ is long
+    * <span class="he">נִקְתְלָה</span> is NP3fs because $V_S$ is reduced
+* Other stems reduce only if $V_S$ is $\bar E$ (Tsere)
+    * Qal Active, Piel and Hitpael
+    
+
+## What to memorize for all Derived Stems {-}
+* Meaning of $V_S$ pattern
+
+$$V_S = Perfect \sim Imperfect (Imperfect FP)$$
+
+* Always a Sheva before finite verb endings (unless $\bar E$ (Tsere))
+* Participle $V_S$ = P3ms $V_S$ lengthened if possible (unless $\bar E$ (Tsere))
+* Infinitive Absolute $V_S = \bar E$
+    * Except: $V_S = \hat O$ for QA and some NA
+* Everything else uses Imperfect $V_S$
+    * Imperative, Jussive, Cohortative, ∞
+
+## What to memorize for Niphal 
+
+* The Three Primary Word-initial Sequences
+    * $Pre_{NP, NPt} =$ <span class="he">ְנִק</span>        
+        * Also one form of NA
+    * $Pre_{NI3m} =$ <span class="he">יַקְ</span> - and so forth for the other Imperfect forms
+    * $Pre_{NM/N∞}= $<span class="he">מַקְ</span>
+        * Also one form of NA
+* The Niphal Stem vowel Pattern and what it means
+    * $V_{S_N} = A \sim \bar E(A)$
+
+
+
+## Niphal Perfect Strong
+
+::: {.box .stop}
+YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
+
+* The paradigms are presented so that you may see and hear each form
+* With your knowledge of the Qal paradigms, you should be able to write the non-Qal paradigms from principles listed on the previous sections
+:::
+
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">נִקְטַל</span>  | 3cp | <span class="he">נִקְטְלוּ</span> 
+| 3fs | <span class="he">נִקְטְלָה</span> | 
+| 2ms | <span class="he">נִקְטַ֫לְתָּ</span> | 2mp | <span class="he">נִקְטַלְתֶּם</span>
+| 2fs | <span class="he">נִקְטַלְתְּ</span> | 2fp | <span class="he">נִקְטַלְתֶּן</span>
+| 1cs | <span class="he">נִקְטַ֫לְתִּי</span> | 1cp | <span class="he">נִקְטַ֫לְנוּ</span>
+
+<figure>
+    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/24.Niphal_Perfect.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+## Niphal Imperfect Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִקָּטֵל</span>  | 3mp | <span class="he">יִקָּֽטְלוּ</span> 
+| 3fs | <span class="he">תִּקָּטֵל</span> | 3fp | <span class="he">תִּקָּטַ֫לְנָה</span>
+| 2ms | <span class="he">תִּקָּטֵל</span> | 2mp | <span class="he">תִּקָּֽטְלוּ</span>
+| 2fs | <span class="he">תִּקָּטְלִי</span> | 2fp | <span class="he">תִּקָּטַ֫לְנָה</span>
+| 1cs | <span class="he">אֶקָּטֵל</span> | 1cp | <span class="he">נִקָּטֵל</span>
+
+<figure>
+    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/24.Niphal Imperfect.mp3.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+## Niphal Imperative Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 2ms | <span class="he">הִקָּטֵל</span> | 2mp | <span class="he">הִקָּֽטְלוּ</span>
+| 2fs | <span class="he">הִקָּֽטְלִי</span> | 2fp | <span class="he">הִקָּטַ֫לְנָה</span>
+
+* The translation value of the Niphal Imperative will often lose the passive nuance as in הִשָּׁמֶר לְךָ פֶּן־תִּשְׁכַּח אֶת־יְהוָה “take heed to yourself lest you forget the Lord” (Deut 6:12).
+* Frequently, the 2ms Imperative appears with an ה ָ ending
+
+## Niphal Infinitives Strong
+
+
+| Type | Paradigm 
+| :-  | :- 
+| ∞ | <span class="he">הִקָּטֵל</span>  
+| A | <span class="he">נִקְטוֹל</span>
+| A | <span class="he">הִקָּטוֹל</span>
+
+* There is no specific pattern regarding when one of the two absolute forms is used versus the other
+
+## Derived Stem Infinitive Absolute $V_S = \bar E$ (usually)
+
+* In the QA, $V_S = \hat O$ - ALWAYS
+* Some forms of Niphal also have $V_S = \hat O$
+    * $\hat O$ <span class="he">וֹ</span> can be written defectively as <span class="he">ֹ</span>
+
+## Derived Stem Participle $V_S =$ the P3ms Vowel, lengthened if possible (usually)
+
+* In Niphal, we will see that the Perfect 3ms $V_S = A$ - using the above rule, the Niphal Participle $V_S = \bar A$
+* For the Piel, the Perfect 3ms $V_S = \bar E$. Since $\bar E$ is already long, the Piel Participle is also $\bar E$
+
+Three Exceptions:
+
+* QPt = $\bar E$
+* QPp = $\bar U$
+* The Alternate FS "T-form" = <span class="he">ת ֶ  ֶ </span>
+
+## Niphal Participle Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| ms | <span class="he">נִקְטָל</span> | mp | <span class="he">נִקְטָלִים</span>
+| fs | <span class="he">נִקְטֶ֫לֶת</span> | fp | <span class="he">נִקְטָלוֹת</span>
+
+* Note $V_S = \bar A$, which is the lengthened $V_S$ of NP3ms
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/WYDdz_zrwSw){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/WYDdz_zrwSw" frameborder="0"></iframe>
+</div>
+
+## Niphal Parsing Examples
+
+* Word: <span class="he">נִכְרָֽת</span>
+    * Context: <span class="he"> וְזֶ֖רַע רְשָׁעִ֣ים נִכְרָֽת</span>
+    * $Pre =$ נִכְ
+    * $Suf =$ n/a
+    * $Root =$ <span class="he">כרת</span>
+    * $V_S = \bar A$ - 
+        * The $V_S$ lengthening is unusual, but we have seen this with other Perfect and Imperfect verbs in the Qal section<small>^[<small>When in doubt, CHALOT provides a spelling of each word used.  P. 165 includes נִכְרָֽת as Niphal Perfect.</small> ]</small>
+        * When the $Pre$ and $Suf$ are unambiguous, you can ignore the $V_S$
+    * Result: NP3ms, he will be cut off
+
+* Word: <span class="he">וְאִכָּבְדָ֤ה </span>
+    * Context: <span class="he">וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ </span>
+    * $Pre =$ <span class="he">אִכָּ</span>- Niphal Imperfect 1cs + ו
+    * $Suf =$ <span class="he">דָה</span>
+        * Our first thought might P3fs or 3fs pronominal suffix, but neither of these fit the context
+        * Remember from Lesson 18 that often, the Cohortative appears with an ה ָ ending, but in this passage, "I will be honored in/through Pharaoh" seems to fit better than "Let me be honored through Pharaoh."  This is likely just a spelling variant<small>^[<small>See CHALOT p. 150</small>]</small
+        * External references tend to parse this as NI1cs
+    * $Root =$ <span class="he">כבד</span>  to be heavy/weighty/glorified
+    * $V_S =$  silent sheva (reduced)
+    * Result: N(I/C)1cs; Imperative: I will be honored or Cohortative: let me be honored
+
+* Word: <span class="he">נִגְרַזְתִּי֮ </span>
+    * Context: <span class="he">נִגְרַזְתִּי֮ מִנֶּ֪גֶד עֵ֫ינֶ֥יךָ</span>
+    * $Pre =$ <span class="he">נִגְ</span>
+    * $Suf =$ <span class="he">תִי</span>
+    * $Root =$ <span class="he">גרז</span>
+    * $V_S =$ <span class="he">רַ</span>
+    * Result: NP1cs - I am cut off (from before your eyes)
+    * More than anything else, this word highlights the importance of being able to differentiate the root from the $Pre$ and $Suf$.  For example, if one thought the root was נגר, the translation would be very much incorrect.  גרז only appears once, here in Psalms 31:23
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 24 A. Vocab`
+* `Lesson 24 B. Grammar` 
+* `Lesson 24 C. Workbook`
+* `Lesson 24 D. Study Verses`
+
+## Worksheets: Niphal Strong Paradigm {-}
+
+Use your knowledge of the $Pre$, $Suf$, and $V_S$ of the Niphal, complete the worksheet until you can do it once through correctly.
+
+Again, you do NOT need to have the Niphal paradigms memorized (although that may eventually happen naturally!).
+
+[Niphal Strong Paradigm](24_niphal_strong_paradigms.pdf){target="_blank"}
+
+
+## X Ruth Pursuit {-}        
+
+### X Your Quest: {-}
+
+1. Instruction#1 (Yellow)
+
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Numbers 15 {-}
+
+[Blank copy of Book ##](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/edit?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/35/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+
+
+
+
+
+
+

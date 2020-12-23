@@ -37,14 +37,14 @@ Before continuing, can you describe the following concepts?
     <figcaption>Listen to the verse in Hebrew:</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="">
+        src="./images/.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
 
 
-*****
+
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
@@ -54,7 +54,6 @@ knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of
 
 
 
----
 <!-- picture -->
 
 ```{r, out.width = "400pt", fig.align='center'}
@@ -76,21 +75,108 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 
 
 
-## X Point4 
+<!-- FOR STRONG VERB CHAPTERS -->
+
+## X <stem> Verb Stem Table 
 
 
 
-## X Point5 
+## X <stem> Meanings
 
 
 
-## X Point6 
+## X <stem> Strong Word-initial Combinations 
 
 
+## X <stem> Strong Stem Vowels 
 
-## X Point7 
+## X <stem>: what to memorize
+
+## X <stem> Perfect Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | *****  | 3cp | ***** 
+| 3fs | ***** | 
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+| 1cs | ***** | 1cp | *****
+
+<figure>
+    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 
+## X <stem> Imperfect Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | *****  | 3mp | ***** 
+| 3fs | ***** | 3fp | *****
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+| 1cs | ***** | 1cp | *****
+
+<figure>
+    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+## X <stem> Imperative Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+
+## X <stem> Infinitives Strong
+
+
+| Type | Paradigm 
+| :-  | :- 
+| ∞ | *****  
+| A | *****
+
+## X <stem> Participle Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| ms | ***** | mp | *****
+| fs | ***** | fp | *****
+
+## X <stem> Parsing Examples
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
 
 
 ## X Word Warm-up {-}
@@ -154,10 +240,12 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
     2. Parse as many verbs as you can
     3. Sketch out a translation - there is a blank line between each verse
 3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/NAME.php){target="_blank"}
-4. After the video, assess your translation.  How close was it.
-5. How did the Ruach HaQodesh speak to you through the passage.
+4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
+5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/35/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 ## X Quest Quiz {-}
 

@@ -1,2 +1,150 @@
 # The Hophal Stem - Weak Verbs {.Hp-w}
 
+Hophal weak verb forms are about five-times as frequent as strong verbs.  As with all the forms, we start with the strong verb diagnostics, which make it easier to understand the spelling changes that occur with weak verbs.  By now, you should be well-acquainted with the concepts discussed in this lesson.
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. 1G and 3ה Verbs prefer Qamets Hatuf as $V_P$
+1. 1נ assimilates with $R_2$ as expected
+1. Geminate/Biconsonantal Verbs prefer Shureq as $V_P$
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* Identify Hophal Perfect, Imperfect, and Imperative Strong verbs
+
+:::
+
+## First Thought {-}
+
+### <span class="he">נִשְׁאַ֥ר בָּעִ֖יר שַׁמָּ֑ה וּשְׁאִיָּ֖ה יֻכַּת־שָֽׁעַר׃ </span> {-}
+
+*Desolation is left in the city And the gate is battered to ruins. (Isaiah 24:12)*
+
+As people of God, we are sometimes faced with situations where we are tempted to ask, "How could He let this happen?" The people of Isaiah's time who witness the destruction of Jerusalem surely had similar questions. Most of the time, we can not provide a satisfactory answer. The only true choice is to relinquish any notion that we can control the situation and, like Job, trust in Him no matter what the outcome.
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/33-7.Isaiah24.12.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
+``` 
+
+
+
+
+
+
+## 1G and 3ה Verbs prefer Qamets Hatuf as $V_P$
+
+* $V_1$ will generally be Hateph Qamets Hatuf
+* $V_S$ follows the strong paradigm
+
+
+
+
+
+## 1נ assimilates as expected
+
+* Since $V_1$ is a Sheva, 1נ assimilates just as it does with QI and NP
+* $R_2$ will take a Daghesh Forte, if allowed
+* We saw this in the `Ruth Pursuit` of Lesson 32
+    * **הֻגֵּ֨ד הֻגַּ֜ד לִ֗י*** - "it has thoroughly been declared to me"
+        * The verb root is נגד - to tell
+        * The Daghesh Forte in the Gimmel represents the assimilated 1נ
+
+
+
+## Geminate/Biconsonant prefer Shureq as $V_P$
+
+* The medial letter of the biconsonantal verb is dropped
+* Only one geminate consonant is preserved - where possible, a Daghesh Forte will appear in the remaining consonant
+* The Holem+Vav as connecting vowel in some forms of the Perfect is another indicator of the geminate verb
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/DDh5Oy485WU){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/DDh5Oy485WU" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/sTvLGMtaSpw){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/sTvLGMtaSpw" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 33 A. Vocab`
+* `Lesson 33 B. Grammar` 
+* `Lesson 33 C. Workbook`
+* `Lesson 33 D. Study Verses`
+
+
+## Ruth Pursuit {-}        
+
+As we mentioned in Lesson 32, there are no Hophal verbs in Ruth 1.
+
+For this week, read through Ruth 1 and look up any words you don't know.
+
+## Hebrew Quest Study Passage: Psalms 45 {-}
+
+[Blank copy of Psalms 45](https://docs.google.com/document/d/1Wt1c4OYlK0y2EZnqczRG2U3BhTEzklbHIVg4eNyFhhs/view?usp=sharing){target="_blank"}
+
+* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
+* DON'T: `Request Edit Access`
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-45.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/45){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/34/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+
