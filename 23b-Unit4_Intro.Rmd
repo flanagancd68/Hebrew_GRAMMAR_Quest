@@ -27,6 +27,16 @@ Each stem will have two lessons:
     * Most of the time, you already know the concepts
         * For example, in some forms of the Niphal Strong paradigm, $R_1$ takes a Dagesh Forte
         * You already know that if $R_1$ is a guttural or Resh, $R_1$ will reject the Dagesh Forte and often (but not always), there will be Compensatory Lengthening
+        
+## Ruth Pursuits {-}
+
+There are only a handful of non-Qal verbs in Ruth 1, so you will only see the `Ruth Pursuit` activities in the following Lessons:
+
+* Lesson 25 - Niphal
+* Lesson 27 - Piel
+* Lesson 31 - Hiphil
+* Lesson 35 - Hitpael
+
 
 ## Review: Vowel and Consonant Shorthand
 

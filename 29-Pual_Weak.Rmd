@@ -1,2 +1,130 @@
 # The Pual Stem - Weak Verbs {.Dp-w}
 
+The distinctive $V_1 = U$ is maintained in nearly all Pual weak forms.  Regardless of other spelling changes, only the Pual has $V_1 = U$.
+
+It is only when $R_2$ rejects the Dagesh Forte AND has Compensatory Lengthening that there is a potential ambiguity.
+
+
+::: {.box .map}
+<span class="he">LESSON ITINERARY<span class="he">
+
+The Pual diagnostic $V_1 = U$ is maintained in almost every weak verb form
+:::
+
+::: {.box .stop}
+<span class="he">EQUIPMENT CHECK<span class="he">
+
+Before continuing, can you describe the following concepts?
+
+* The Piel weak forms (Lesson 27)
+* Pual strong diagnostics (Lesson 28)
+:::
+
+## X First Thought {-}
+
+### <span class="he">גִּבּ֣וֹר בָּ֭אָרֶץ יִהְיֶ֣ה זַרְע֑וֹ דּ֭וֹר יְשָׁרִ֣ים יְבֹרָֽךְ׃</span> {-}
+
+*His descendants will be mighty on earth; The generation of the upright will be blessed. (Psalms 112:2)*
+
+As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, a good question to start asking yourself is "what next?" Or, as Yeshua might ask, what are you going to do with this "light" you have been given?  How can you enrich the lives of your family, friends and other people in your circle of influence?  How can your descendants (whomever that might be in your situation) be blessed by your greater knowledge of Hebrew?
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/29-3.Psalms112.2.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/29_Man with hands on sons for priestly blessing, tb092302202.jpg")
+``` 
+
+
+
+
+## The Pual diagnostic $V_1 = U$ is maintained in almost all weak verbs
+
+* $V_1 = U$ is unique to the Pual stem
+* Regardless of other changes that may occur, you will be able to identify the Pual stem in every case, with one exception
+* You will still need to know the general weak verb concepts, particularly 3-ה behavior, to make sure you get to the correct Pual conjugation
+
+
+
+## 2-Gutturals Reject Dagesh Forte
+
+* When there is NO compensatory lengthening, $V_1 = U$, so we can easily identify Pual
+* When there IS Compensatory Lengthening, $V_1 = \bar O$ (Holem)
+    * DpP3ms - NOT *<span class="he">בֻּרַּךְ</span>, but <span class="he">בֹּרַךְ</span>
+* Ambiguity arises because Qal Participle is also $V_1 = \bar O$, but only the QPtFS and DpP3FS of a 2-G verb are identical.
+* Because the Qal stem is much more frequent than the Pual, a correct 1st guess whenever $V_1 = \bar O$ is Qal Participle.  If you notice that $R_2$ is a guttural, you may need to do some more detective work
+
+
+## Biconsonantal: the Polal minor stem
+
+In every respect except for $V_S = A$, this is identical to the Polel stem for the Piel discussed in Lesson 27.  Polel $V_S = \bar E$
+
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/OO2Hy6apXlg){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/OO2Hy6apXlg" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/YiO_gyPz-nM){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/YiO_gyPz-nM" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 29 A. Vocab`
+* `Lesson 29 B. Grammar` 
+* `Lesson 29 C. Workbook`
+* `Lesson 29 D. Study Verses`
+
+
+
+## Hebrew Quest Study Passage: Psalms 145 {-}
+
+[Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+

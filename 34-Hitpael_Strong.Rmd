@@ -166,6 +166,19 @@ Although these forms are identical to tDP3ms and tDM2ms, the infinitive forms ar
 
 Note the <span class="he">מִתְ </span> prefix in every form, with the characteristic מ of the Participle.
 
+### Participle Prefixes in the Derived Stems {-}
+
+We are now able to complete this table.
+
+Stem | Prefix 
+:- | :-: 
+Niphal | נִ |
+Piel | מְ
+Pual | מְ
+Hiphil | ַמ
+Hophal (u-class) | מֻ
+Hophal (o-class) | ָמ
+HITPAEL | <span class="he">תִמְ</span>
 
 ## Word Warm-up {-}
 
@@ -193,13 +206,9 @@ Note the <span class="he">מִתְ </span> prefix in every form, with the charac
 * `Lesson 34 D. Study Verses`
 
 
-## OPTIONAL: Hitpael Parsing Worksheet {-}
+## Hitpael Parsing Worksheet {-}
 
 If you desire additional paradigm practice, you may use this [Hitpael parsing worksheet](./images/34_hithpael_strong_paradigms.pdf){target="_blank"}
-
-## Ruth Pursuit {-}        
-
-There is only one Hitpael verb in Ruth 1.  Since it is a weak verb, we will save it for next lesson.
 
 
 ## Hebrew Quest Study Passage: Leviticus 23 {-}
@@ -232,7 +241,7 @@ Optionally, you may complete the passage memorization in Memrise [here](https://
 
 ## X Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+Check to be sure you have have completed __all activities__ through this lesson, then fill out the form below.
 
 [Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
 

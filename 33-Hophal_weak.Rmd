@@ -64,7 +64,7 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 * Since $V_1$ is a Sheva, 1נ assimilates just as it does with QI and NP
 * $R_2$ will take a Daghesh Forte, if allowed
 * We saw this in the `Ruth Pursuit` of Lesson 32
-    * **הֻגֵּ֨ד הֻגַּ֜ד לִ֗י*** - "it has thoroughly been declared to me"
+    * <span class="he">הֻגֵּ֨ד הֻגַּ֜ד לִ֗י</span> - "it has thoroughly been declared to me"
         * The verb root is נגד - to tell
         * The Daghesh Forte in the Gimmel represents the assimilated 1נ
 

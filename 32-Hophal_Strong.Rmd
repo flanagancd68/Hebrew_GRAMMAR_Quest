@@ -1,16 +1,16 @@
 # The Hophal Stem - Strong Verbs {.Hp-s}
 
-Of the seven major stems, the Hophal occurs with the least frequency (396 times). Similar to the Pual, the Hophal has some distinctive characteristics making them easier to identify.
+Of the seven major stems, the Hophal occurs with the least frequency (396 times). Similar to the Pual, the Hophal has some distinctive characteristics making it relatively straightforward to identify.
 
 ::: {.box .map}
-**LESSON ITINERARY**
+<span class="he">LESSON ITINERARY<span class="he">
 
 1. Meaning of the Hophal Stem
 1. Hophal Strong paradigms
 :::
 
 ::: {.box .stop}
-**EQUIPMENT CHECK**
+<span class="he">EQUIPMENT CHECK<span class="he">
 
 Before continuing, can you describe the following concepts?
 
@@ -75,25 +75,25 @@ Parsing Code: Hp (`p`assive of `H`iphil)
     * Imperfects and Participles have the usual preformatives
 * $V_P =$ O, U, or Û, indicates Hophal (so a mnemonic for this Stem might be: "<u>houûphal</u>")
     * The Hophal occurs with either u-class or o-class
-    * O - Qamets Hatuf **הָקְטַל***  
-    * U - Qibbuts **הֻקְטַל***
+    * O - Qamets Hatuf <span class="he">הָקְטַל</span>  
+    * U - Qibbuts <span class="he">הֻקְטַל</span>
     * Û - Shureq 
-        * **הוּרַד*** (Iי)
-        * **הוּשַׁט*** (Biconsonantal)
-        * **הוּחַל*** (Geminate)
+        * <span class="he">הוּרַד</span> (Iי)
+        * <span class="he">הוּשַׁט</span> (Biconsonantal)
+        * <span class="he">הוּחַל</span> (Geminate)
     * HŌ or HȎ almost always Hiphil 1-Yod (7x Hp)
 * Hophal Strong Beginning Combinations are therefore (ק represents any non-weak letter):
-    * **הָקְ*** or **הֻקְ*** - HpP
-    * **יָקְ*** or **יֻקְ*** - (etc) HpI
-    * **מָקְ*** or **מֻקְ*** - HpPt<small>^[<small>The remaining conjugations are rare in the Hebrew Bible, so we will skip them.</small>]</small>
+    * <span class="he">הָקְ</span> or <span class="he">הֻקְ</span> - HpP
+    * <span class="he">יָקְ</span> or <span class="he">יֻקְ</span> - (etc) HpI
+    * <span class="he">מָקְ</span> or <span class="he">מֻקְ</span> - HpPt<small>^[<small>The remaining conjugations are rare in the Hebrew Bible, so we will skip them.</small>]</small>
 
 ::: {.box .info}
 QAMETS HATUF
 
-* We learned many lessons ago that $V_1$ of **ָ*** followed by $V_2$ of Sheva is potentially ambiguous
+* We learned many lessons ago that $V_1$ of <span class="he">ָ</span> followed by $V_2$ of Sheva is potentially ambiguous
     * QAMETS followed by VOCAL Sheva _or_ QAMETS HATUF followed by SILENT Sheva
-* When $V_P$ is **ָ*** followed by $V_1$ of Sheva or Hateph Qamets Hatuf, $V_P$ is ALWAYS QAMETS HATUF
-* Therefore, in the Hophal Stem, **הָקְטַל*** is pronounced "hoq-TAL" (rhymes with "Hophal").
+* When $V_P$ is <span class="he">ָ</span> followed by $V_1$ of Sheva or Hateph Qamets Hatuf, $V_P$ is ALWAYS QAMETS HATUF
+* Therefore, in the Hophal Stem, <span class="he">הָקְטַל</span> is pronounced "hoq-TAL" (rhymes with "Hophal").
 :::
 
 ## Hophal $V_S$ = A
@@ -110,11 +110,11 @@ QAMETS HATUF
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 3ms | **הָקְטַל***  | 3cp | **הָקְטְלוּ*** 
-| 3fs | **הָקְטְלָה*** | 
-| 2ms | **הָקְטַ֫לְתָּ*** | 2mp | **הָקְטַלְתֶּם***
-| 2fs | **הָקְטַלְתְּ*** | 2fp | *****
-| 1cs | **הָקְטַ֫לְתִּי*** | 1cp | **הָקְטַ֫לְנוּ***
+| 3ms | <span class="he">הָקְטַל</span>  | 3cp | <span class="he">הָקְטְלוּ</span> 
+| 3fs | <span class="he">הָקְטְלָה</span> | 
+| 2ms | <span class="he">הָקְטַ֫לְתָּ</span> | 2mp | <span class="he">הָקְטַלְתֶּם</span>
+| 2fs | <span class="he">הָקְטַלְתְּ</span> | 2fp | </span><span class="he">
+| 1cs | <span class="he">הָקְטַ֫לְתִּי</span> | 1cp | <span class="he">הָקְטַ֫לְנוּ</span>
 
 <figure>
     <figcaption>Hophal Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -136,11 +136,11 @@ QAMETS HATUF
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 3ms | **יָקְטַל***  | 3mp | **יָקְטְלוּ*** 
-| 3fs | **תָּקְטַל*** | 3fp | **תָּקְטַ֫לְנָה***
-| 2ms | **תָּקְטַל*** | 2mp | **תָּקְטְלוּ***
-| 2fs | **תָּקְטְלִי*** | 2fp | **תָּקְטַ֫לְנָה***
-| 1cs | **אָקְטַל*** | 1cp | **נָקְטַל***
+| 3ms | <span class="he">יָקְטַל</span>  | 3mp | <span class="he">יָקְטְלוּ</span> 
+| 3fs | <span class="he">תָּקְטַל</span> | 3fp | <span class="he">תָּקְטַ֫לְנָה</span>
+| 2ms | <span class="he">תָּקְטַל</span> | 2mp | <span class="he">תָּקְטְלוּ</span>
+| 2fs | <span class="he">תָּקְטְלִי</span> | 2fp | <span class="he">תָּקְטַ֫לְנָה</span>
+| 1cs | <span class="he">אָקְטַל</span> | 1cp | <span class="he">נָקְטַל</span>
 
 <figure>
     <figcaption>Hophal Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -153,7 +153,7 @@ QAMETS HATUF
 </figure>
 
 
-## Participle Strong
+## Hiphal Participle Strong
 
 * The standard Participle prefix (מ)
 * The standard $V_S$ - lengthening of P3ms (Patach to Qamets
@@ -163,9 +163,22 @@ QAMETS HATUF
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| ms | **מָקְטָל*** | mp | **מָקְטָלִים***
-| fs | **מָקְטֶ֫לֶת*** | fp | **מָקְטָלוֹת***
+| ms | <span class="he">מָקְטָל</span> | mp | <span class="he">מָקְטָלִים</span>
+| fs | <span class="he">מָקְטֶ֫לֶת</span> | fp | <span class="he">מָקְטָלוֹת</span>
 
+### Participle Prefixes in the Derived Stems {-}
+
+Again we present this table for review:
+
+Stem | Prefix 
+:- | :-: 
+Niphal | נִ |
+Piel | מְ
+Pual | מְ
+Hiphil | ַמ
+HOPHAL (u-class) | <span class="he">מֻ</span>
+HOPHAL (o-class) | ָ<span class="he">מ</span>
+Hithpael | תִמְ
 
 
 ## Hophal Strong Summary
@@ -209,11 +222,11 @@ If you desire additional paradigm practice, you may use this [Hophal parsing wor
 There are no Hophal verbs in Ruth 1 so there will be no `Ruth Pursuit` for Lessons 32 or 33.
 
 * There ARE two Hophal verbs in 2:11.  Can you find them?
-    * ** וַיַּ֤עַן בֹּ֙עַז֙ וַיֹּ֣אמֶר לָ֔הּ הֻגֵּ֨ד הֻגַּ֜ד לִ֗י כֹּ֤ל אֲשֶׁר־עָשִׂית֙ אֶת־חֲמוֹתֵ֔ךְ אַחֲרֵ֖י מ֣וֹת אִישֵׁ֑ךְ וַתַּֽעַזְבִ֞י אָּבִ֣יךְ וְאִמֵּ֗ךְ וְאֶ֙רֶץ֙ מֽוֹלַדְתֵּ֔ךְ וַתֵּ֣לְכִ֔י אֶל־עַ֕ם אֲשֶׁ֥ר לֹא־יָדַ֖עַתְּ תְּמ֥וֹל שִׁלְשֽׁוֹם׃***
+    * <span class="he"> וַיַּ֤עַן בֹּ֙עַז֙ וַיֹּ֣אמֶר לָ֔הּ הֻגֵּ֨ד הֻגַּ֜ד לִ֗י כֹּ֤ל אֲשֶׁר־עָשִׂית֙ אֶת־חֲמוֹתֵ֔ךְ אַחֲרֵ֖י מ֣וֹת אִישֵׁ֑ךְ וַתַּֽעַזְבִ֞י אָּבִ֣יךְ וְאִמֵּ֗ךְ וְאֶ֙רֶץ֙ מֽוֹלַדְתֵּ֔ךְ וַתֵּ֣לְכִ֔י אֶל־עַ֕ם אֲשֶׁ֥ר לֹא־יָדַ֖עַתְּ תְּמ֥וֹל שִׁלְשֽׁוֹם׃</span>
     * We mentioned previously that there are only six HpA forms in all of the Hebrew Bible (and some sources say there are only five).  One of those forms is in Ruth 2:11.  Note how $V_S$ is Tsere for the HpA verb, and how $V_S$ is Qamets in the HpP3ms verb that follows.
     * The verb root is נגד
     * The Daghesh Forte in the Gimmel represents the assimilated 1נ
-* Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word **כֹּל***, it seems more likely that his is referring to the completeness of the report that he has received."<small>^[<small>Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf </small>]</small>
+* Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word <span class="he">כֹּל</span>, it seems more likely that his is referring to the completeness of the report that he has received."<small>^[<small>Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf </small>]</small>
 
 
 ## Hebrew Quest Study Passage: 1 Samuel 17 {-}
@@ -248,7 +261,7 @@ Optionally, as we discussed in Lesson 17, you may complete the passage memorizat
 
 ## X Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
 
 [Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
 

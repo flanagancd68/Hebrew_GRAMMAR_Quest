@@ -4,7 +4,7 @@ With the Hiphil stem, we move into the bottom row of our verb table.  There are 
 
 
 ::: {.box .map}
-**LESSON ITINERARY**
+LESSON ITINERARY
 
 1. Understand the meaning of the Hiphil Stem to understand our Bible
 1. Identify the Hiphil Beginning Combinations
@@ -19,9 +19,9 @@ With the Hiphil stem, we move into the bottom row of our verb table.  There are 
 
 *"Come now, and let us reason together," Says Adonai, "Though your sins are as scarlet, They will be as white as snow; Though they are red like crimson, They will be like wool. (Isaiah 1:18)*
 
-This is a famous memory verse for Jews and Christians/Believers in Messiah alike.  How beautiful to be able to read and hear in the original Hebrew!  Meditate on it!
+This is a famous memory verse for traditional Jews and Christians/Believers in Messiah alike.  How beautiful to be able to read and hear in the original Hebrew!  Meditate on it!
 
-**יַאְדִּ֥ימוּ*** is Hiphil Imperfect 3ms
+<span class="he">יַאְדִּ֥ימוּ</span> is Hiphil Imperfect 3ms
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -50,7 +50,7 @@ knitr::include_graphics("images/30.Western Wall with chairs and snow, tb02250320
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
 Simple Action	| Qal | Niphal | (Niphal)
-Intensive	| Piel | Pual | Hitpael
+Cause a State	| Piel | Pual | Hitpael
 Cause an Action	| __HIPHIL__ | Hophal
 
 Meanings:
@@ -83,11 +83,11 @@ Parsing Code: H (`H`iphil)
     * $V_P = I$ in the PERFECT ("Hiphil")
     * $V_P = A$ EVERYWHERE ELSE ("Haphil")
 * $V_1 = :$ 
-* $WI_{H...}$ are therefore (ק represents any non-weak letter):
-    * **הִקְ***$WI_{HP}$
-    * **יַקְ*** - $WI_{HI3m}$, and so forth for the other Imperfect forms
-    * **מַקְ*** - $WI_{HM/H∞/HA}$
-    * **מַקְ*** - $WI_{HPt}$
+* $Pre$ combinatons are therefore:
+    * <span class="he">הִקְ</span> - HP
+    * <span class="he">יַקְ</span> - HI, and so forth for the other Imperfect forms
+    * <span class="he">מַקְ</span> - HM/H∞/HA
+    * <span class="he">מַקְ</span> - Pt
 
 ::: {.box .light}
 * In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem
@@ -96,9 +96,6 @@ Parsing Code: H (`H`iphil)
 
 ## Hiphil $V_S = Î[A] \sim Î(Ē)$
 
-* We remember that on the LEFT is the perfect 3rd, with 2nd and 1st person in the brackets
-* On the RIGHT is Imperfect, Imperative and Infinitive Construct, with the FP (as applicable) in the brackets
-* Memorizing
 * $V_S(HPt) = \hat I$ 
     * The Participle is usually the Perfect $V_S$ lengthened. In this case, Hireq+Yod is already long so no change.
 * $V_S(HA) = \bar E$   as expected.
@@ -111,32 +108,31 @@ Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never redu
 
 * $V_S(HM2ms) = \bar E$
 * #V_S(HIwc) is often Ē instead of Î (Hireq+Yod) when there is no pronominal suffix
-* **הַקְטֵל***
-* **וַיַּקְטֵל***
+    * <span class="he">הַקְטֵל</span>
+    * <span class="he">וַיַּקְטֵל</span>
 
 
-## Don’t confuse **ְ הִ*** with Niphal Preformative **ָּּ הִ***
+## Don’t confuse <span class="he">ְ הִ</span> with Niphal Preformative <span class="he">ָּּ הִ</span>
 
-* Hiphil  - **הִקְטִיל***
+* Hiphil  - <span class="he">הִקְטִיל</span>
     * No Daghesh Forte in $R_1$
-* Niphal - **הִקָּטֵל***
+* Niphal - <span class="he">הִקָּטֵל</span>
     * Daghesh Forte in $R_1$
     * $V_1$ = Qamets
 
-## Don't confususe Hiphil Imperfect **ְ יַ*** with Qal Imperfect **ְ יִ***
+## Don't confususe Hiphil Imperfect <span class="he">ְ יַ</span> with Qal Imperfect <span class="he">ְ יִ</span>
 
 * Remember "Hiphil" = Perfect; "Haphil" everywhere else
 * Imperfect $V_P$ of Hireq is NOT Hiphil
 * Ambiguity arises with 1G verbs because of the Rule of Sheva ("Hateph copy-cat")
-* As we've discussed, in 1G situations, we can't necessarily rely on the Beginning Combination to determine the stem
+* As we've discussed, in 1G situations, we can't necessarily rely on the stem's $Pre$ to determine the stem
     * $V_P$ and $V_1$ will be Patach and Hateph Patach in both Hiphil and Qal
     * The Hiphil $V_S$ will be Hireq+Yod
-        * HI3ms - **יַעֲמִיד***
-        * QI3ms **יַעֲמֹד***
+        * HI3ms - <span class="he">יַעֲמִיד</span>
+        * QI3ms <span class="he">יַעֲמֹד</span>
 * 3ה lose their stem vowel so 1G+3ה are truly ambiguous
-    * (Q/H)I3ms - **יַעֲלֶה***
+    * (Q/H)I3ms - <span class="he">יַעֲלֶה</span>
     * Our trusted friend, context, will determine whether he "went up" (Qal), or whether he "brought (something) up" (Hiphil)
-
 
 ## Hiphil Perfect Strong Paradigm
 
@@ -144,11 +140,11 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 3ms | **הִקְטִיל***  | 3cp | **הִקְטִ֫ילוּ*** 
-| 3fs | **הִקְטִ֫ילָה*** | 
-| 2ms | **הִקְטַ֫לְתָּ*** | 2mp | **הִקְטַלְתֶּם***
-| 2fs | **הִקְטַלְתְּ*** | 2fp | **הִקְטַלְתֶּן***
-| 1cs | **הִקְטַ֫לְתִּי*** | 1cp | **הִקְטַ֫לְנוּ***
+| 3ms | <span class="he">הִקְטִיל</span>  | 3cp | <span class="he">הִקְטִ֫ילוּ</span> 
+| 3fs | <span class="he">הִקְטִ֫ילָה</span> | 
+| 2ms | <span class="he">הִקְטַ֫לְתָּ</span> | 2mp | <span class="he">הִקְטַלְתֶּם</span>
+| 2fs | <span class="he">הִקְטַלְתְּ</span> | 2fp | <span class="he">הִקְטַלְתֶּן</span>
+| 1cs | <span class="he">הִקְטַ֫לְתִּי</span> | 1cp | <span class="he">הִקְטַ֫לְנוּ</span>
 
 <figure>
     <figcaption>Hiphil Perfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
@@ -167,11 +163,11 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 3ms | **יַקְטִיל***  | 3mp | **יַקְטִ֫ילוּ*** 
-| 3fs | **תַּקְטִיל*** | 3fp | **תַּקְטֵ֫לְנָה***
-| 2ms | **תַּקְטִיל*** | 2mp | **תַּקְטִ֫ילוּ***
-| 2fs | **תַּקְטִ֫ילִי*** | 2fp | **תַּקְטֵ֫לְנָה***
-| 1cs | **אַקְטִיל*** | 1cp | **נַקְטִיל***
+| 3ms | <span class="he">יַקְטִיל</span>  | 3mp | <span class="he">יַקְטִ֫ילוּ</span> 
+| 3fs | <span class="he">תַּקְטִיל</span> | 3fp | <span class="he">תַּקְטֵ֫לְנָה</span>
+| 2ms | <span class="he">תַּקְטִיל</span> | 2mp | <span class="he">תַּקְטִ֫ילוּ</span>
+| 2fs | <span class="he">תַּקְטִ֫ילִי</span> | 2fp | <span class="he">תַּקְטֵ֫לְנָה</span>
+| 1cs | <span class="he">אַקְטִיל</span> | 1cp | <span class="he">נַקְטִיל</span>
 
 <figure>
     <figcaption>Hiphil Imperfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
@@ -187,8 +183,8 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 2ms | **הַקְטֵל*** | 2mp | **הַקְטִ֫ילוּ***
-| 2fs | **הַקְטִ֫ילִי*** | 2fp | **הַקְטֵ֫לְנָה***
+| 2ms | <span class="he">הַקְטֵל</span> | 2mp | <span class="he">הַקְטִ֫ילוּ</span>
+| 2fs | <span class="he">הַקְטִ֫ילִי</span> | 2fp | <span class="he">הַקְטֵ֫לְנָה</span>
 
 <figure>
     <figcaption>Hiphil Perfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
@@ -207,8 +203,8 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 | Type | Paradigm 
 | :-  | :- 
-| ∞ | **הַקְטִיל***  
-| A | **הַקְטֵל***
+| ∞ | <span class="he">הַקְטִיל</span>  
+| A | <span class="he">הַקְטֵל</span>
 
 $V_S$ will distinguish the two Infinitive forms.  HA has a Tsere.
 * Note that HM2ms and HA are identical (contest will distinguish)
@@ -217,8 +213,8 @@ $V_S$ will distinguish the two Infinitive forms.  HA has a Tsere.
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| ms | **מַקְטִיל*** | mp | **מַקְטִילִים***
-| fs | **מַקְטֶ֫לֶת*** or **מַקְטִילָה*** | fp | **מַקְטִילוֹת***
+| ms | <span class="he">מַקְטִיל</span> | mp | <span class="he">מַקְטִילִים</span>
+| fs | <span class="he">מַקְטֶ֫לֶת</span> or <span class="he">מַקְטִילָה</span> | fp | <span class="he">מַקְטִילוֹת</span>
 
 
 * The מ prefix, which characterizes the Participle in the Piel, Pual, Hiphil, and Hophal stems
@@ -231,7 +227,7 @@ Stem | Prefix
 Niphal | נִ |
 Piel | מְ
 Pual | מְ
-Hiphil | ַמ
+HIPHIL | <span class="he"> ַמ</span>
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 Hithpael | תִמְ
@@ -242,61 +238,45 @@ Hithpael | תִמְ
 * In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
     * The exceptions come when $R_1$ is a weak letter (discussed in Lesson 31)
 * Hiphil Beginning Combination:
-    * **ְ הִ*** - HP
-    * **ְ יַ*** - (etc) HI
-    * **ְ הַ*** - HM/H∞/HA
-    * **ְ מַ*** - HPt
+    * <span class="he">ְ הִ</span> - HP
+    * <span class="he">ְ יַ</span> - (etc) HI
+    * <span class="he">ְ הַ</span> - HM/H∞/HA
+    * <span class="he">ְ מַ</span> - HPt
 * $V_S = Î[A] \sim Î(Ē)$
     * It's important to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
     
 
-## OPTIONAL: Hiphil Parsing Worksheet {-}
+## Hiphil Strong Paradigm Worksheet {-}
 
 Our focus is on recognition, not repetition.  As we stated, in most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem.
 
-If you desire additional paradigm practice, you may use this [Hiphil Paradigm Worksheet](./images/30_hiphil_strong_paradigms.pdf){target="_blank"}
+After you have reviewed the Anki material for this lesson, test yourself by completing the [Hiphil Paradigm Worksheet](./images/30_hiphil_strong_paradigms.pdf){target="_blank"} using the $Pre$ and $V_S$ patterns you have learned.  Repeat until you can complete a column without referring to the answers.
 
-## X Word Warm-up {-}
+## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/mBTsk07nIwQ){target="_blank"}
 
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/mBTsk07nIwQ" frameborder="0"></iframe>
 </div>
 
 
-## X Verses Warm-up {-}
+## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/-WjxwqdN5UQ){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/-WjxwqdN5UQ" frameborder="0"></iframe>
 </div>
 
-## X Anki {-}
+## Anki {-}
 
 * `Lesson 30 A. Vocab`
 * `Lesson 30 B. Grammar` 
 * `Lesson 30 C. Workbook`
 * `Lesson 30 D. Study Verses`
 
-
-
-## X Ruth Pursuit {-}        
-
-### X Your Quest: {-}
-
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
-
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
@@ -330,7 +310,7 @@ Optionally, you may complete the passage memorization in Memrise [here](https://
 
 ## X Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
 
 [Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
 
