@@ -275,6 +275,15 @@ Hithpael | תִמְ
     * $V_S = \bar E$, consistent with Piel (except DP1/2 person)
     * Result: D(M2ms/∞/A) - Teach! or to teach
 
+## Stem Comparison Table
+
+* Here is the Stem Comparison Table showing Qal, Niphal, and now Piel
+
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/26_stemcomp.png")
+```
 
 ## Word Warm-up {-}
 

@@ -199,6 +199,15 @@ Hithpael | תִמְ
 * Word: <span class="he"> גֻּדְּלוּ</span>
     * Result: DpP3cp
 
+## Stem Comparison Table
+
+* Here is the Stem Comparison Table showing the stems we have studied thus far
+
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/28_stemcomp.png")
+```
 
 ## Word Warm-up {-}
 

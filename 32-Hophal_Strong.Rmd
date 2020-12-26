@@ -188,6 +188,16 @@ Hithpael | תִמְ
     * There is expected lengthening to Qamets in the Participle
     * The rare Infinitive Absolute has the expected Tsere (see `Ruth Pursuit` below)
 
+## Stem Comparison Table
+
+* Here is the Stem Comparison Table showing the stems we have studied thus far
+
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/32_stemcomp.png")
+```
+
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/MdXXlMyr4Lg){target="_blank"}

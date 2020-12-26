@@ -345,6 +345,18 @@ Hithpael | תִמְ
     * $V_S =$ <span class="he">רַ</span>
     * Result: NP1cs - I am cut off (from before your eyes)
     * More than anything else, this word highlights the importance of being able to differentiate the root from the $Pre$ and $Suf$.  For example, if one thought the root was נגר, the translation would be very much incorrect.  גרז only appears once, here in Psalms 31:23
+    
+## Stem Comparison Table
+
+* We can now update our Stem Comparison table to include Niphal
+* Take note of the $Pre$ patterns in red and the $V_S$ in blue
+    * When you are able to work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/24_stemcomp.png")
+```
 
 ## Word Warm-up {-}
 

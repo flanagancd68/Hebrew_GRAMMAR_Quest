@@ -1,2 +1,14 @@
 # Qal Participle {.QPt}
 
+## Stem Comparison Table
+
+* Now that we have concluded our discussion on the Qal stem, take a moment to review this table showing the Perfect 3ms, the Imperfect 3ms, and the Participle ms strong verb forms
+* Take note of the $Pre$ patterns in red and the $V_S$ in blue
+    * When you are able to work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+* The last column indicates the $V_S$ pattern for perfects on the left, and Imperfects/Imperatives/Infinitives on the right.
+* We will update this table as we conclude each additional stem in Unit 4
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/22_stemcomp.png")
+```

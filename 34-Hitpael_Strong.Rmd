@@ -180,6 +180,15 @@ Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 HITPAEL | <span class="he">תִמְ</span>
 
+
+## Stem Comparison Table
+
+* Here is the complete Stem Comparison Table
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/34_stemcomp.png")
+```
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/U7bGSrESfco){target="_blank"}

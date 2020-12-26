@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2020-12-25"
+#date: "2020-12-26"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2020-12-25</small>
+<small>*Updated*: 2020-12-26</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -4498,6 +4498,15 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 
 # Qal Participle {.QPt}
 
+## Stem Comparison Table
+
+* Now that we have concluded our discussion on the Qal stem, take a moment to review this table showing the Perfect 3ms, the Imperfect 3ms, and the Participle ms strong verb forms
+* Take note of the $Pre$ patterns in red and the $V_S$ in blue
+    * When you are able to work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+* The last column indicates the $V_S$ pattern for perfects on the left, and Imperfects/Imperatives/Infinitives on the right.
+* We will update this table as we conclude each additional stem in Unit 4
+
+<img src="images/22_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 
 <!--chapter:end:22-Qal_Participle.Rmd-->
 
@@ -4548,7 +4557,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-83)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4904,7 +4913,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-84)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-85)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5197,6 +5206,15 @@ Hithpael | תִמְ
     * $V_S =$ <span class="he">רַ</span>
     * Result: NP1cs - I am cut off (from before your eyes)
     * More than anything else, this word highlights the importance of being able to differentiate the root from the $Pre$ and $Suf$.  For example, if one thought the root was נגר, the translation would be very much incorrect.  גרז only appears once, here in Psalms 31:23
+    
+## Stem Comparison Table
+
+* We can now update our Stem Comparison table to include Niphal
+* Take note of the $Pre$ patterns in red and the $V_S$ in blue
+    * When you are able to work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+
+
+<img src="images/24_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 
 ## Word Warm-up {-}
 
@@ -5324,7 +5342,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-85)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-87)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5561,7 +5579,7 @@ __LESSON ITINERARY__
 
 <div class="figure" style="text-align: center">
 <img src="images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-89)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5798,6 +5816,12 @@ Hithpael | תִמְ
     * $V_S = \bar E$, consistent with Piel (except DP1/2 person)
     * Result: D(M2ms/∞/A) - Teach! or to teach
 
+## Stem Comparison Table
+
+* Here is the Stem Comparison Table showing Qal, Niphal, and now Piel
+
+
+<img src="images/26_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 
 ## Word Warm-up {-}
 
@@ -5917,7 +5941,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-91)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6187,7 +6211,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6336,6 +6360,12 @@ Hithpael | תִמְ
 * Word: <span class="he"> גֻּדְּלוּ</span>
     * Result: DpP3cp
 
+## Stem Comparison Table
+
+* Here is the Stem Comparison Table showing the stems we have studied thus far
+
+
+<img src="images/28_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 
 ## Word Warm-up {-}
 
@@ -6446,7 +6476,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, a good 
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6576,7 +6606,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6783,6 +6813,12 @@ Hithpael | תִמְ
 * $V_S = Î[A] \sim Î(Ē)$
     * It's important to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
     
+## Stem Comparison Table
+
+* Here is the Stem Comparison Table showing the stems we have studied thus far
+
+
+<img src="images/30_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 
 ## Hiphil Strong Paradigm Worksheet {-}
 
@@ -6911,7 +6947,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-100)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7087,7 +7123,7 @@ The Hebrew Quest Study Passage for this lesson is the story of David and Goliath
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-101)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7234,6 +7270,13 @@ Hithpael | תִמְ
     * There is expected lengthening to Qamets in the Participle
     * The rare Infinitive Absolute has the expected Tsere (see `Ruth Pursuit` below)
 
+## Stem Comparison Table
+
+* Here is the Stem Comparison Table showing the stems we have studied thus far
+
+
+<img src="images/32_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/MdXXlMyr4Lg){target="_blank"}
@@ -7364,7 +7407,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7510,7 +7553,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-104)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7655,6 +7698,12 @@ Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 HITPAEL | <span class="he">תִמְ</span>
 
+
+## Stem Comparison Table
+
+* Here is the complete Stem Comparison Table
+
+<img src="images/34_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/U7bGSrESfco){target="_blank"}
@@ -7773,7 +7822,7 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7968,7 +8017,7 @@ You have studied 20 distinct passages, most of which were full chapters of the H
 
 <div class="figure" style="text-align: center">
 <img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Strength and Endurance</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Strength and Endurance</p>
 </div>
 
 
@@ -7979,7 +8028,7 @@ If one wants to build strength, she might use the weight machine.  If one wants 
 
 <div class="figure" style="text-align: center">
 <img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Anki Home Screen</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Anki Home Screen</p>
 </div>
 
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
@@ -8032,7 +8081,7 @@ Follow the steps outlined on the Quick Start page.
 Your settings should look like this:
 <div class="figure" style="text-align: center">
 <img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-103)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Settings</p>
 </div>
 
 [Return to Quick Start page](#get_started)
@@ -8059,7 +8108,7 @@ Here are the steps:
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Anki web and mobile views</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Anki web and mobile views</p>
 </div>
 
 ## How do I navigate within Anki? {-}
@@ -8067,14 +8116,14 @@ Here are the steps:
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
 <div class="figure" style="text-align: center">
 <img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Anki - subdecks collapsed</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Anki - subdecks collapsed</p>
 </div>
     * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
 * Many cards have "hints" - click on the `hint` button to reveal
     * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
     <div class="figure" style="text-align: center">
     <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-106)Revealing a hint in Anki</p>
+    <p class="caption">(\#fig:unnamed-chunk-113)Revealing a hint in Anki</p>
     </div>
 * For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
@@ -8085,7 +8134,7 @@ We suggest using the following guidelines to select the most appropriate answer.
 
 <div class="figure" style="text-align: center">
 <img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Anki Response Definitions</p>
+<p class="caption">(\#fig:unnamed-chunk-114)Anki Response Definitions</p>
 </div>
 
 * There is no “value judgment” to hitting `Again` – you will learn on your timeline
@@ -8130,7 +8179,7 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 
 <div class="figure" style="text-align: center">
 <img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Keep your daily Anki streak going!</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Keep your daily Anki streak going!</p>
 </div>
 
 ## How do I know when I'm done with a deck? {-}
@@ -8144,7 +8193,7 @@ So while this could be an indefinite process, we do have some guidelines as they
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-116)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 See the next two pages for more information on how to locate your statistics.
@@ -8164,7 +8213,7 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-117)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 
@@ -8183,13 +8232,13 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
     * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
 <div class="figure" style="text-align: center">
 <img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-118)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
     * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
     
 <div class="figure" style="text-align: center">
 <img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-119)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 <!-- Please see [`Graduation` process page]() for additional information -->
 
@@ -8215,7 +8264,7 @@ There are a few different terms Anki uses for different stages of card maturity:
     * To add an image simply copy and paste into the image field
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Adding a custom image in Anki</p>
+<p class="caption">(\#fig:unnamed-chunk-120)Adding a custom image in Anki</p>
 </div>
 
 ## Can I modify the layout of a card? {-}
@@ -8250,7 +8299,7 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-114)With `Custom Study` you can temporarily increase your daily new cards</p>
+<p class="caption">(\#fig:unnamed-chunk-121)With `Custom Study` you can temporarily increase your daily new cards</p>
 </div>
 
 
@@ -8459,7 +8508,7 @@ Finally, we thank YOU for your interest in this course!
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-117)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-124)Chris Flanagan</p>
 </div>
 
 
@@ -8537,7 +8586,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-125)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 

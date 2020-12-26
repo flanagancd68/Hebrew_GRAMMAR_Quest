@@ -245,6 +245,15 @@ Hithpael | תִמְ
 * $V_S = Î[A] \sim Î(Ē)$
     * It's important to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
     
+## Stem Comparison Table
+
+* Here is the Stem Comparison Table showing the stems we have studied thus far
+
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/30_stemcomp.png")
+```
 
 ## Hiphil Strong Paradigm Worksheet {-}
 
