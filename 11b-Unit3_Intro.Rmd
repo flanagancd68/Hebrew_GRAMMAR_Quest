@@ -42,15 +42,15 @@ Here is what we want you to do in these Study Passages activities:
 * Finally, we will use $:$ for Sheva (silent or vocal)
 * As we remember, the ה vowel letters are only used at the end of words, so they would never be the $V_P$ or the $V_S$
 
-## Word Initial Form
+## Word Initial Combinations
 
-* A Hebrew strong verb conjugations, regardless of stem, can usually be identified based on it's initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
+* A Hebrew strong verb conjugation, regardless of stem, can usually be identified based on its initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
 * For example, in Lesson 15, we will learn the "Imperfect Preformatives"
     * The 3ms and 3mp strong forms will always have:
         * Preformative consonant = Yod
         * $V_P$ = Hireq, and
         * $V_1$ = Silent Sheva
-    * We can shorten this by saying $WI_{QI} =$ **יִקְ***, where ק represents $R_1$ of any strong verb
+    * We can shorten this by saying $Pre_{QI} =$ <span class="he">יִקְ</span>, where ק represents $R_1$ of any strong verb
 
 ## Cantillation Marks {-}
 
@@ -60,9 +60,9 @@ library(knitr)
 include_graphics("images/02.Gen0109.png")
 ```
 
-Up until now, we have been using a simple accent mark whenever a Hebrew word has an accent on the second to last syllable.  For example, **נֶ֫גֶב***.  While the Lessons and other materials will continue to use these simple accents, from now on, we will graduate to using the full set of Hebrew accents in our Study Verses and Workbook exercises.  Why do this?
+Up until now, we have been using a simple accent mark whenever a Hebrew word has an accent on the second to last syllable.  For example, <span class="he">נֶ֫גֶב</span>.  While the Lessons and other materials will continue to use these simple accents, from now on, we will graduate to using the full set of Hebrew accents in our Study Verses and Workbook exercises.  Why do this?
 
->When you read from a Tanach, you are much more likely to encounter the complete set of Hebrew accent marks.  So part of becoming more comfortable with the Hebrew Bible must include a basic familiarity with these additional marks. 
+> When you read from a Tanach, you are much more likely to encounter the complete set of Hebrew accent marks.  So part of becoming more comfortable with the Hebrew Bible must include a basic familiarity with these additional marks. 
 
 Things to keep in mind:
 

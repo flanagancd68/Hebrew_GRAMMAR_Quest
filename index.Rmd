@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 ```{r, out.width = "800pt", fig.align='center'}
-include_graphics("images/HGQ_book_cover.png")
+knitr::include_graphics("images/HGQ_book_cover_draft.png")
 ```
 
 <small>*Updated*: `r Sys.Date()`</small>

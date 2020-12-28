@@ -3,7 +3,7 @@ bookdown::gitbook:
   keep_md: yes
   css: style.css
   pandoc_args: [ "--csl", "turabian-author-date.csl" ]
-  split_by: section
+  split_by: section+number
   citation_package: none
   config:
     toc:

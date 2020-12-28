@@ -1,11 +1,11 @@
-# Introduction to Hebrew Verbs {#Verbs}
+# Introduction to Hebrew Verbs
 
 > To comprehend Biblical Hebrew, we must be familiar with the Hebrew verbal system
 
 Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives and prepositions, the remainder of the course will focus on verbs. Around 70% of Hebrew verbs are in what is called the Qal stem so we will spend Lessons 13-22 learning that stem inside and out.  This Lesson will provide a brief introduction on the verb system as a whole and learn some overall conventions.
 
 ::: {.box .map}
-**LESSON ITINERARY**
+LESSON ITINERARY
 
 1. The Verbal Root
 1. Preformatives and Sufformatives
@@ -20,7 +20,7 @@ Hebrew is a verbal, action-oriented language.  Now that we have concluded our di
 :::
 
 ::: {.box .stop}
-**EQUIPMENT CHECK**
+EQUIPMENT CHECK
 
 Before continuing, have you completed all requirements for your certificate for Lessons 1-11?
 :::
@@ -44,14 +44,6 @@ It is these times where we must depend on God, and it is times like these where 
             <code>audio</code> element.
     </audio>
 </figure>
-
-
-*****
-
-```{r, out.width = "400pt", fig.align='center', fig.cap="Judean Wilderness. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
-
-knitr::include_graphics("images/12.Judean wilderness at sunset, tb021107716.jpg")
-``` 
 
 
 
@@ -86,14 +78,14 @@ knitr::include_graphics("images/12-verb-root.gif")
 When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular".  
 :::
 
-## Verb nomenclature: 
+## Verb nomenclature
 
 *  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do". </small>]</small>.
-* For the verb <span class="he">מָלַכְתִּי<span> (I was king):
+* For the verb <span class="he">מָלַכְתִּי</span> (I was king):
     * The _root_ is <span class="he">מלך</span> (no vowels)
         * $R_1$ = מ
         * $R_2$ = ל
-        * $R_3$ = ך
+        * $R_3$ = ך<small>^[<small>Hebrew grammars such as _Basics of Biblical Hebrew_ use קטל as the "paradigm verb", where the ק = any consonant in $R_1$, ט = $R_2$, and ל = $R_3$.  This is somewhat awkward as the verb קטל means "to kill."  See the discussion on this later in this lesson.</small>]</small>
 * Also important to know is the _Lexical Form_ 
     * The _lexical form_ is how you would look the word in a dictionary.
     * The lexical form for verbs is almost always the Qal Perfect 3rd Person Masculine Singular: <span class="he">מָלַךְ</span>
@@ -113,9 +105,10 @@ When parsing, it is standard to use parsing code "3ms" to mean "third person, ma
 
 * Being able to identify a verbal vowel's position will turn out to be important in identifying the Verbal Root and the Stem
 * Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
-    * The $V_S$ is usually $V_2$ but this is not a constant.  Sometimes it can be $V_1$. We'll discuss this more in the next lesson.
+    * The $V_S$ is usually $V_2$ but this is not a constant.  Sometimes it can be $V_1$. We'll discuss this more in the next lesson
     * The vowel associated with $R_3$ turns out to be less important so we do not need to identify this
 * For the verb <span class="he">יִקְטְל֫וּהָ</span>, the $V_P$ is hireq; $V_1$ is Silent Sheva; and, $V_2$/$V_S$ are Vocal Sheva
+    * While we have said Silent Sheva is technically not a vowel, it is occupying the vowel position of $R_1$ - so for this purpose it is ok to say $V_1 = \ :$
 
 
 
@@ -158,7 +151,7 @@ We'll explain the "Parsing codes" in a few sections
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
 Simple Action	| Qal | Niphal | (Niphal)
-Intensive	| Piel | Pual | Hitpael
+Cause a State	| Piel | Pual | Hitpael
 Cause an Action	|Hiphil | Hophal
 
 ## The Eight Basic Conjugations
@@ -255,17 +248,17 @@ As we get into each stem, there will be separate chapters devoted to strong and 
         * Because this never happens to $R_1$ in the Qal Perfect, 1נ is strong in the Qal Perfect
         * We will learn this will happen in the imperfect, so 1נ is weak in that conjugation
 * We classify weak verbs by their problem letter
-    * 3נ means that $R_3$ is נ, as in **זקן***
-    * 3ת means that $R_3$ is ת, as in **ברת***
-    * 1G means that $R_1$ is a guttural, as in **אמר***
-    * 2G means that $R_2$ is a guttural, as in **בחר***
+    * 3נ means that $R_3$ is נ, as in <span class="he">זקן</span>
+    * 3ת means that $R_3$ is ת, as in <span class="he">ברת</span>
+    * 1G means that $R_1$ is a guttural, as in <span class="he">אמר</span>
+    * 2G means that $R_2$ is a guttural, as in <span class="he">בחר</span>
     * We can't simply say "3G" for any $R_3$ guttural because it turns out that א and ה each behave differently:
-        * 3עח means that $R_3$ is ע or ח, as in **מנע*** **לקח***
-        * 3א  means that $R_3$ is א, as in **מצא***
-        * 3ה means that $R_3$ is the vowel Qamets+Hei, as in **בנה***
-    * Geminate - $R_2$ = $R_3$ **סבב***
-    * Biconsonantal (also called Hollow) - $R_2$ is a vowel letter **בוֹא*** **שִׁים**** **קוּם****
-    * Doubly Weak is any combination of two (or three) weak letters, as in **עַלָה***
+        * 3עח means that $R_3$ is ע or ח, as in <span class="he">מנע</span> <span class="he">לקח</span>
+        * 3א  means that $R_3$ is א, as in <span class="he">מצא</span>
+        * 3ה means that $R_3$ is the vowel Qamets+Hei, as in <span class="he">בנה</span>
+    * Geminate - $R_2$ = $R_3$ <span class="he">סבב</span>
+    * Biconsonantal (also called Hollow) - $R_2$ is a vowel letter <span class="he">בוֹא</span> <span class="he">שִׁים</span>* <span class="he">קוּם</span>*
+    * Doubly Weak is any combination of two (or three) weak letters, as in <span class="he">עַלָה</span>
     
 * The good news is when Hebrew verbs are weak, the behavior is usually predictable
 * In fact, you have already learned almost every behavior change we will encounter with weak verbs
@@ -273,7 +266,48 @@ As we get into each stem, there will be separate chapters devoted to strong and 
     * It will just be a matter of applying that which you already know to a new area
 * Weak verbs may take a little more thought, but overall they are nothing to be concerned about
 * The better you know your _vocabulary_ and the _strong_ verb paradigms, the easier the _weak_ verbs will be
-* This is why this course will focus on memorizing the Qal strong paradigms, with robotic-like recall
+
+## Hebrew GRAMMAR Quest is a Quest for RECOGNITION NOT RECALL
+
+* Our overall goal for this course is __RECOGNITION, NOT RECALL__.
+    * Older Hebrew Grammars focused on memorizing dozens of verb paradigm charts
+    * Students had to memorize many different stems, conjugations, as well as strong and weak verb paradigms in those conjugations.
+* In this course, you will memorize only a handful of paradigms in the Qal Stem
+* From here we will be on a quest for pattern recognition
+* Think of it like this: instead of taking a traditional approach to learning a language by brute-force, rote memorization, we are going to take more of a mathematical approach
+    * A mathematician doesn't brute-force memorize the solution to every possible problem
+    * She or he uses a series of formulas and plugs the specifics into the most appropriate formula for the situation
+    * For example, consider the formula for the area of a square :$Area = S^2$ - the length of one of its sides multiplied by itself
+    * Studying Hebrew the old way would require you to memorize the areas of hundreds of different squares
+    * It is much simpler to memorize the formula, then when you encounter a square that has a side $s$ = 5, you can use the formula: $5^2$ to get the answer of $Area = 25$
+* You will begin to see things in a special $formula font$ - we will use $this font$ when there are consistent patterns
+    * For example, whenever you see $Pre =$, this tells you that the verb has a specific combination of prefixes/preformative letters, vowels, and possibly Dagesh Forte marks that are characteristic of that verb class
+    
+::: {.box .map}
+WHERE WE ARE HEADING
+
+When we get to the end of the course, we're going to have built a Stem Comparison Table that looks like this:
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/34_stemcomp.png")
+```
+
+* The marks in RED are the distinctive $Pre$ patterns for the strong verbs in that stem/conjugation
+* The vowels in BLUE and the "formula" in the last column are the $V_S$ patterns for that stem/conjugation
+* You do not need to do anything with this table right now - we only want to show you how this relatively simple series of patterns will help you unlock the meaning of the Bible
+
+## A note on the paradigm strong verb <span class="he">קטל</span>
+
+* Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
+* It is meant to represent _ANY_ strong verb
+* What makes <span class="he">קטל</span> awkward is the word means "to kill"
+* As we go through this course, remember that the actual translation of <span class="he">קטל</span> is not material to our purposes
+* In this respect, it is similar to a math formula like we mentioned above
+    * In $a^2 + b^2 = c^2$, the letters "a", "b", and "c" have no direct, literal meaning
+    * They are meant to represent the lengths of any three sides of a right triangle
+* We encourage you to think of <span class="he">קטל</span> the same way - they are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
+
 
 That's enough for this introduction to Hebrew verbs.  Let's get to the exercises!
 
@@ -327,12 +361,12 @@ Note: See Unit 3 Introduction for a discussion of the cantillation accent marks 
 
 Optionally, you may wish to complete passage memorization in Memrise if you have not already done so [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/16/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-## X Quest Quiz {-}
+## Quest Quiz #12 {-}
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
+[Open Quest Quiz #12 in a new window](https://forms.gle/WUNKaMmoPwZggTPB9){target="_blank"}
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<div class="container">
+<iframe class="responsive-iframe" src="https://forms.gle/WUNKaMmoPwZggTPB9" frameborder="0"></iframe>
 </div>
 
 
