@@ -20,7 +20,7 @@ LESSON ITINERARY
 :::
 
 ::: {.box .stop}
-<span class="he">EQUIPMENT CHECK<span class="he">
+EQUIPMENT CHECK
 
 Before continuing, make sure you understand the $R_n$ and the $V_n$ nomenclature, including $V_S$
 :::
@@ -393,12 +393,12 @@ Hint: there are only four Qal Perfect forms that do not have a guttural.
 
 We do not include _Hebrew Quest_ study passage memorization work in the Hebrew Grammar Quest Anki deck.  Optionally, you may wish to complete passage memorization in Memrise if you have not already done so [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/22/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-## X Quest Quiz {-}
+## Quest Quiz #13 {-}
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
+[Open Quest Quiz #13 in a new window](https://forms.gle/czcZwnd26WJj3rg46){target="_blank"}
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://forms.gle/czcZwnd26WJj3rg46" frameborder="0"></iframe>
 </div>
 
 ## X Claim your next `Twelve Tribes Badge`! {-}

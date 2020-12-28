@@ -1,8 +1,7 @@
 # Introduction to Hebrew Verbs
 
-> To comprehend Biblical Hebrew, we must be familiar with the Hebrew verbal system
 
-Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives and prepositions, the remainder of the course will focus on verbs. Around 70% of Hebrew verbs are in what is called the Qal stem so we will spend Lessons 13-22 learning that stem inside and out.  This Lesson will provide a brief introduction on the verb system as a whole and learn some overall conventions.
+Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives and prepositions, the remainder of the course will focus on verbs. Around 70% of Hebrew verbs are in what is called the Qal stem so we will spend Lessons 13-22 learning that stem inside and out.  Our quest is to translate accurately.  To do this we must be able to identify the root, stem, conjugation, person, gender, and number of verbs. This Lesson will provide a brief introduction on the verb system as a whole and learn some overall conventions.
 
 ::: {.box .map}
 LESSON ITINERARY
@@ -44,6 +43,11 @@ It is these times where we must depend on God, and it is times like these where 
             <code>audio</code> element.
     </audio>
 </figure>
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/13-Acacia tree in Red Canyon, tb030101203.jpg")
+``` 
 
 
 
@@ -365,7 +369,7 @@ Optionally, you may wish to complete passage memorization in Memrise if you have
 
 [Open Quest Quiz #12 in a new window](https://forms.gle/WUNKaMmoPwZggTPB9){target="_blank"}
 
-<div class="container">
+<div class="containerLet">
 <iframe class="responsive-iframe" src="https://forms.gle/WUNKaMmoPwZggTPB9" frameborder="0"></iframe>
 </div>
 

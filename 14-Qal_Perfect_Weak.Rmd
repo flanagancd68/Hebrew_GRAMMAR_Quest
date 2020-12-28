@@ -9,13 +9,13 @@ In the Bible, weak verbs are much more common than strong verbs. Rather than mem
 ::: {.box .map}
 <span class="he">LESSON ITINERARY<span class="he">
 
-1. learning_objective_1
-1. learning_objective_2
-1. learning_objective_3
-1. learning_objective_4
-1. learning_objective_5
-1. learning_objective_6
-1. learning_objective_7
+1. 3נ and 3ת assimilate
+1. 1G, 2G reject Vocal Sheva
+1. 2fs form of 3ע/ח is irregular
+1. 3א usually quiesces
+1. $R_3$ in 3ה is a vowel not a consonant
+1. Gemininate and Biconsonantal often have only two root letters visible
+1. Clues for your Qal Perfect Quest
 :::
 
 ::: {.box .stop}
@@ -48,9 +48,9 @@ Before continuing, can you describe the following concepts?
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
-knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg")
+knitr::include_graphics("images/13-Acacia tree in Red Canyon, tb030101203.jpg")
 ``` 
 
 
