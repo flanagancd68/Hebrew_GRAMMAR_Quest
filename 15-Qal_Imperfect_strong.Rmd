@@ -103,9 +103,9 @@ knitr::include_graphics("images/15-rule-of-sheva.png")
 ``` 
 
 
-## X Imperfect Sufformatives
+## Imperfect Sufformatives
 
-* Of the singular forms only 2fs has a sufformative
+* Of the singular forms, only 2fs has a sufformative
     * It is **י ִ***
     * The **ְ תִּ*** preformative with the **י ִ*** sufformative is diagnostic of the QI2fs
 * Of the plural forms, only 1cp does NOT have a sufformative
@@ -216,36 +216,36 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 
 
 
-## X Word Warm-up {-}
+## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/IA1LEEbvOKw){target="_blank"}
 
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/IA1LEEbvOKw" frameborder="0"></iframe>
 </div>
 
 
-## X Verses Warm-up {-}
+## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/fellWe2bUt8){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/fellWe2bUt8" frameborder="0"></iframe>
 </div>
 
-## X Anki {-}
+## Anki {-}
 
-* `Lesson xx A. Vocab`
-* `Lesson xx B. Grammar` 
-* `Lesson xx C. Workbook`
-* `Lesson xx D. Study Verses`
+* `Lesson 15 A. Vocab`
+* `Lesson 15 B. Grammar` 
+* `Lesson 15 C. Workbook`
+* `Lesson 15 D. Study Verses`
 
-## X Worksheets: NameOfWorksheet {-}
+## Worksheets: Qal Imperfect Strong Paradigm {-}
 
-<describe the worksheet>
+> Complete the paradigm from memory at least once, then return here and continue in the guidebook.
 
-[Name of worksheet](){target="_blank"}
+[Qal Imperfect Strong Paradigm](15_qal_imperfect_strong_paradigm.pdf){target="_blank"}
 
 ## X Ruth Pursuit {-}        
 
@@ -264,9 +264,9 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 
 
 
-## X Hebrew Quest Study Passage: Book ## {-}
+## Hebrew Quest Study Passage: Proverbs #11-14 {-}
 
-[Blank copy of Book ##](){target="_blank"}
+[Blank copy of Proverbs #11-14(https://docs.google.com/document/d/1E1Qbbx3tHw8pOfMSGwQHwD406eHIMd1O5lAS_tDWllE/edit?usp=sharing){target="_blank"}
 
 * DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
 * DON'T: `Request Edit Access`
@@ -276,7 +276,11 @@ Doing the worksheet now will maximize your learning time - in other words, the m
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
     3. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/NAME.php){target="_blank"}
+3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #11](https://holylanguage.com/proverbs-11.php){target="_blank"}
+    1. [Proverbs #12](https://holylanguage.com/proverbs-12.php){target="_blank"}
+    1. [Proverbs #13](https://holylanguage.com/proverbs-13.php){target="_blank"}
+    1. [Proverbs #14](https://holylanguage.com/proverbs-14.php){target="_blank"}
 4. After the video, assess your translation.  How close was it.
 5. How did the Ruach HaQodesh speak to you through the passage.
 

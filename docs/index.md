@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2020-12-28"
+#date: "2020-12-29"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2020-12-28</small>
+<small>*Updated*: 2020-12-29</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -3860,7 +3860,7 @@ Below is the complete paradigm.  Be sure to listen to Izzy read the forms with t
     </audio>
 </figure>
 
-## Worksheets: Qal Perfect Strong Paradigm {-}
+## Worksheet: Qal Perfect Strong Paradigm {-}
 
 We are going to go a little out of order.  Normally, we save all of the activities for the end of the lesson, but here, we want you to pause and complete the [Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}.
 
@@ -4048,27 +4048,26 @@ In the Bible, weak verbs are much more common than strong verbs. Rather than mem
 :::
 
 ::: {.box .stop}
-<span class="he">EQUIPMENT CHECK<span class="he">
+EQUIPMENT CHECK
 
 Before continuing, can you describe the following concepts?
 
 * You must have the Qal Perfect Strong Paradigm memorized!
-*
 :::
 
-## X First Thought {-}
+##  First Thought {-}
 
-### X <span class="he"> </span> {-}
+### <span class="he">בָ֤אָה נַחֲלָתֵ֙נוּ֙ אֵלֵ֔ינוּ מֵעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרָֽחָה׃</span> {-}
 
-*verse (reference 1:1)*
+*our inheritance has fallen to us on this side of the Jordan toward the east (Numbers 32:19)*
 
--brief meditation-
+Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock."  They followed their eyes, which saw profit. The fact that they took the easy path caused tension between the tribes, and students of history know that these lands were often easily invaded. The lesson for us is to make we are seeking what the Lord wants for us and not our own desires.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/.mp3">
+        src="./images/14-03-Num.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -4078,8 +4077,8 @@ Before continuing, can you describe the following concepts?
 
 
 <div class="figure" style="text-align: center">
-<img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-76)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-76)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4488,9 +4487,9 @@ Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ combination
 <img src="images/15-rule-of-sheva.png" width="400pt" style="display: block; margin: auto;" />
 
 
-## X Imperfect Sufformatives
+## Imperfect Sufformatives
 
-* Of the singular forms only 2fs has a sufformative
+* Of the singular forms, only 2fs has a sufformative
     * It is **י ִ***
     * The **ְ תִּ*** preformative with the **י ִ*** sufformative is diagnostic of the QI2fs
 * Of the plural forms, only 1cp does NOT have a sufformative
@@ -4592,36 +4591,36 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 
 
 
-## X Word Warm-up {-}
+## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/IA1LEEbvOKw){target="_blank"}
 
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/IA1LEEbvOKw" frameborder="0"></iframe>
 </div>
 
 
-## X Verses Warm-up {-}
+## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/fellWe2bUt8){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/fellWe2bUt8" frameborder="0"></iframe>
 </div>
 
-## X Anki {-}
+## Anki {-}
 
-* `Lesson xx A. Vocab`
-* `Lesson xx B. Grammar` 
-* `Lesson xx C. Workbook`
-* `Lesson xx D. Study Verses`
+* `Lesson 15 A. Vocab`
+* `Lesson 15 B. Grammar` 
+* `Lesson 15 C. Workbook`
+* `Lesson 15 D. Study Verses`
 
-## X Worksheets: NameOfWorksheet {-}
+## Worksheets: Qal Imperfect Strong Paradigm {-}
 
-<describe the worksheet>
+> Complete the paradigm from memory at least once, then return here and continue in the guidebook.
 
-[Name of worksheet](){target="_blank"}
+[Qal Imperfect Strong Paradigm](15_qal_imperfect_strong_paradigm.pdf){target="_blank"}
 
 ## X Ruth Pursuit {-}        
 
@@ -4640,9 +4639,9 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 
 
 
-## X Hebrew Quest Study Passage: Book ## {-}
+## Hebrew Quest Study Passage: Proverbs #11-14 {-}
 
-[Blank copy of Book ##](){target="_blank"}
+[Blank copy of Proverbs #11-14(https://docs.google.com/document/d/1E1Qbbx3tHw8pOfMSGwQHwD406eHIMd1O5lAS_tDWllE/edit?usp=sharing){target="_blank"}
 
 * DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
 * DON'T: `Request Edit Access`
@@ -4652,7 +4651,11 @@ Doing the worksheet now will maximize your learning time - in other words, the m
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
     3. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/NAME.php){target="_blank"}
+3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #11](https://holylanguage.com/proverbs-11.php){target="_blank"}
+    1. [Proverbs #12](https://holylanguage.com/proverbs-12.php){target="_blank"}
+    1. [Proverbs #13](https://holylanguage.com/proverbs-13.php){target="_blank"}
+    1. [Proverbs #14](https://holylanguage.com/proverbs-14.php){target="_blank"}
 4. After the video, assess your translation.  How close was it.
 5. How did the Ruach HaQodesh speak to you through the passage.
 
@@ -4681,6 +4684,409 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 <!--chapter:end:15-Qal_Imperfect_strong.Rmd-->
 
 # Qal Imperfect Weak {.QI-w}
+
+This is a critical and dense chapter - lots of details...
+
+Almost every weak verb type experiences some change in the Imperfect
+
+::: {.box .map}
+LESSON ITINERARY
+
+1. Work though the various weak verb forms in the Qal Imperfect
+
+:::
+
+::: {.box .stop}
+EQUIPMENT CHECK
+
+Before continuing, can you describe the following concepts?
+
+* The Qal Imperfect Strong Paradigm must be memorized
+
+:::
+
+## First Thought {-}
+
+### <span class="he">וְעֵינֵיכֶ֖ם תִּרְאֶ֑ינָה</span> {-}
+
+*Your eyes will see (Malachi 1:5)*
+
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/16-06-Mal.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+<div class="figure" style="text-align: center">
+<img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
+<p class="caption">(\#fig:unnamed-chunk-86)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+## Our Quest
+
+As we progress through the material in this chapter, our quest is to learn how the weak verbs behave so we can work our way back to the Qal Imperfect Strong Verb indicators
+
+* $Pre \ =$ <span class="he">יִקְ</span>
+* $V_S = O$
+
+
+## 2G 
+
+* Reject Daghesh Forte = no effect in QI)
+* $V_2$ will be a Hateph Vowel instead of Vocal Sheva
+* Prefer Patach so $V_S = A$ instead of $O$ (unless reduced) 
+
+::: {.box .light}
+Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect when $Pre \ =$ <span class="he">ְ יִ</span>
+:::
+
+|  | 2G | Strong | 
+| :-  | :- | :-  
+| 3ms  |  <span class="he">יִבְחַר</span>  | <span class="he">יִקְטֹל</span>
+| 3mp  |  <span class="he">יִבְחֲרוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+
+
+## 3חע
+
+* Silent Sheva at $V_3$ remains
+* Prefer $V_S = A$
+
+::: {.box .light}
+Although $V_S = A$, 3חע verbs are easily recognized as Qal Imperfect when $Pre \ =$ <span class="he">ְ יִ</span>
+:::
+
+
+|  | 3חע | Strong | 
+| :-  | :- | :-  
+| 3ms  | <span class="he">יִשְׁלַח</span> | <span class="he">יִקְטֹל</span>
+| 3mp  |  <span class="he">יִשְׁלְחוּ</span>| <span class="he">יִקְטְלוּ</span>
+
+## 3א  
+
+* While 3חע prefer $V_S = A$, 3א prefer $V_S = \bar A$ primarily
+    * $E$ in 3/2fp 
+    * Occasionally, will see $\bar E$ also
+* 3א quiesces with Silent Sheva (and sometimes with vocal)
+
+::: {.box .light}
+Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect when $Pre \ =$ <span class="he">ְ יִ</span>
+:::
+
+|  | 3א | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יִמְצָא</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יִמְצְאוּ</span> | <span class="he">יִקְטְלוּ<span class="he">
+
+## 3ה 
+
+* 3ה have two root consonants plus a ה vowel
+* $V_2$ for 3ה verbs
+    * IF $Suf$ starts with a vowel, THEN $Suf = V_2$
+        * QI3cp - <span class="he">יִבְנוּ</span>
+        * QP3cp - <span class="he">בָּנוּ</span>
+    * IF $Suf$ starts with a consonant, THEN $V_2 \ =$ vowel + י
+        * QI(3/2)fp - <span class="he">תִּבְנֶ֫ינָה</span>
+        * QI2ms - <span class="he">בָּנִ֫יתָ</span>
+    * IF there is no $Suf$, THEN $V_2 \ =$ ה vowel:
+        * QP3ms: <span class="he">בָּנָה</span>
+        * QI3ms: <span class="he">יִבְנֶה</span>
+
+::: {.box .light}
+Despite the endings, 3ה verbs are easily recognized as Qal Imperfect when $Pre \ =$ <span class="he">ְ יִ</span>
+:::
+
+
+|  | 3ה | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יִבְנֶה</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יִבְנוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## 1G
+
+* Remember the Rule of Sheva that prevents two contiguous Vocal Sheva/Hateph Vowels
+    * NOT <span class="he">יְקְ</span>, BUT <span class="he">יִקְ</span>
+    * Whenever we see the $Pre \ =$ <span class="he">ְ יִ</span> of the Qal Imperfect, think "Rule of Sheva"<small>^[<small>Historically the QI $Pre$ did not come the Rule of Sheva, however pretending that it did makes it easy to recognize QI 1G verbs.</small>]</small>
+* The 1G will reject the Vocal Shewa in favor of a Hateph Vowel
+
+::: {.box .light}
+To identify QI from a 1G verb:
+
+* Turn <span class="he">יַחֲ</span> or <span class="he">יֶחֱ</span> back to <span class="he">יִקְ</span>
+* Turn <span class="he">יֶהֶזְ</span> or <span class="he">יַחַלְ</span> back to <span class="he">יִקְטְ</span>
+:::
+
+
+
+|  | חזק ׀  חלף  | Strong 
+| :-  | :- | :-  | :-  
+| 3ms | <span class="he">יַחֲלֹף</span> | <span class="he">יֶחֱזַק</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יַחַלְפוּ</span> | <span class="he">יֶחֶזְקוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## 1א "Angry Baker"
+
+* There is a special class of  1א verbs that are irregular ONLY in the QI
+* They are given the mnemonic "angry baker":
+    * "I said אמר
+    * I want אטה you
+    * To eat אכל what
+    * I bake אפה , or
+    * I _may_ sieze אחז you<small>^[<small>"MAY seize" here is intentional. Sometimes אחז is regular and sometimes it is "angry."</small>]</small>, and you
+    * will perish אבד."
+* $V_P = O$ and the $R_1$ אקִֶֻסצֶס.  (uusually $V_S = A$)
+    * QI1cs: NOT <span class="he">אֹא</span>, BUT <span class="he">אֹ</span>
+
+
+|  | 1א | Angry 1א | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יֶאֱסֹף</span> | <span class="he">יֹאמַר</span> | <span class="he">יִקְטֹל</span>  
+| 1cs | <span class="he">אֶאֱסֹף</span> | <span class="he">אֹמַר</span> | <span class="he">אֶקְטֹל</span>
+| 3mp | <span class="he">יַאַסְפוּ</span> | <span class="he">יֹאמְרוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+::: {.box .info}
+You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֵר is an "angry baker" verb.
+:::
+
+## Geminate
+
+* Geminate Lose $R_2$ - Dagesh Forte in remaining twin letter (unless word-final or guttural letter)
+    * In alternate forms, the Dagesh appears in $R_1$ and $V_P = I$ (see table below)
+* Imperfect Preformatives/Sufformatives remain
+* $V_S$ and Accent shift to $V_1$
+* Connecting vowel before a sufformative that starts with a consonant
+    * QP2fp - <span class="he">סַבּוֹתֶן</span>
+    * QI2fp - <span class="he">תְּסֻבֶּ֫ינָה</span>
+
+::: {.box .info}
+Recognizing the Imperfect preformatives/sufformatives and Geminate vocabulary knowledge will help you recognize QI for Geminate verbs
+:::
+
+|  | Gem | Gem (alt) | Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יַסֹב</span> | <span class="he">יִסֹּב</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יַסֹ֫בּוּ</span> | <span class="he">יִסֹּּבּוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## Biconsonantal
+
+* $Pre \ =$ <span class="he">יַ</span>
+* $V_S$ and accent move to $R_1$
+* The Lexical Vowel REMAINS, though sometimes it is defective
+    * <span class="he">יָקוּם</span>
+    * <span class="he">יָקֻם</span>
+
+::: {.box .info}
+The retention of the Lexical Vowel, $V_P = \bar A$, and the Imperfect preformative/sufformative will indicate QI of a Biconsonantal verb
+:::
+
+|  | קוּם | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יָקוּם</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יָק֫וּמוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## 1-Yod 
+
+* ALWAYS drops 1-yod $R_1$
+    * $V_P = \bar E$ or $V_P = \hat I$ (Hireq+Yod)
+    * $V_S = \bar E$ or $V_S = A$
+    * See examples
+
+|  | ירשׁ | ישׁב| Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יִירַשׁ</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יִירְשׁוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+::: {.box .info}
+* When $V_P = \hat I$, you can visualize the remnants of the QI Strong $Pre$ as well as the 1st yod
+* When $V_P = \bar E$, you will need to recognize the Imperfect pre/sufformatives and your knowledge of vocabulary<small>^[<small>Also, you could imagine one of the dots of the Tsere representing the dropped Yod - turn it into a Yod and you have $\hat I$, which is a more normal-looking QI $Pre$.  If you "see" this and it helps, great!  If you don't, forget about it and don't let it confuse you!</small>]</small>
+:::
+
+
+## הלך 
+
+* הלך is an irregular verb that acts like 1-Yod in the Qal Imperfect
+* The ה drops and $V_P = \bar E$
+* $V_S = \bar E (A)$
+    * The (A) means in the Feminine Plural forms, we will see Patach instead of Tsere
+    * This will be common notation in Unit 4
+
+
+|  | הלך | ישׁב |  Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יֵלֵךְ</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יֵלְכוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## <span class="he">יכל</span> takes $V_P = \bar U$
+
+
+|  | יכל | ישׁב |  Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יוּכַל</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יוּכְלוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+
+## 1נ Assimilates with Silent Sheva
+
+* If guttural or Resh after the נ, the נ usually remains
+* Dagesh Forte in $R_2$ when נ assimilates
+    * SQiN eM LeVY + Sheva may drop the Dagesh
+
+::: {.box .info}
+To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="he">נְ</span>
+:::
+
+|  | 1נ | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יִפֹּל</span> | <span class="he">יִקְטֹל</span>
+| 3mp | <span class="he">יִפְּלוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## לקח
+
+* Just as <span class="he">הלך</span> thinks it's 1י, <span class="he">לקח</span> thinks it's 1נ
+* Note <span class="he">ק</span> is SQiN eM LeVY
+
+|  | 1נ | לקח | Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִפֹּל</span> | <span class="he">יִקַּח</span> | <span class="he">יִקְטֹל</span>
+| 3mp | <span class="he">יִפְּלוּ</span> | <span class="he">יִקְחוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## Doubly Weak
+
+* As with the Qal Perfect, there is nothing overly complex about Imperfect Doubly Weak Verbs
+* Simply address each weakness and work your way back to the strong form
+* Note <span class="he">עשֹה</span> in the table below
+    * 1G affects $V_P$ and $V_1$
+    * 3ה affects $V_2$
+    
+|  | 3ה | עסֹה | 1G 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִבְנֶה</span> | <span class="he">יַעֲשֶֹה</span> | <span class="he">יַחֲלֹף</span>  
+| 3mp | <span class="he">יִבְנוּ</span> | <span class="he">יַעֲשֹוּ</span> | <span class="he">יַחַלְפוּ</span>
+
+## נתן is 1נ and 3נ
+
+* 1n assimilates as usual
+* 3n assimilates as usual
+* Result is only ONE root letter!  
+    * But fortunately, this only occurs in QIfp forms
+    
+::: {.box .light}
+<span class="he">נתן</span> is extremely common - it is important to study these changes
+:::
+
+|  | נתנ | 1נ | Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִפֹּל</span> |  <span class="he">יִתֵּן</span> | <span class="he">יִקְטֹל</span>
+| 3mp | <span class="he">יִפְּלוּ</span> |  <span class="he">יִתְּנוּ</span> | <span class="he">יִקְטְלוּ</span>
+| 3fp | <span class="he">תִּפֹּ֫לְנָה</span> | <span class="he">תִּתֵּ֫נָּה</span> | <span class="he">תִּקְטְלוּ</span>
+
+
+## ראה vs. ירא
+
+* ירא is 1-yod and 3-aleph
+    * $V_P = \hat I$ like 1י
+    * 3א quiesces with Sheva (FP forms)
+* ראה is  2-guttural and 3-hei
+    * Follows normal 3ה patterns - no $R_3$
+
+| | ירא | ראה | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יִרְאֶה</span> | <span class="he">יִירָא</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יִירְאוּ</span> | <span class="he">יִרְאוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## Qal Imperfect Weak Summary
+
+This is the densest chapter in _Basics of Biblical Hebrew_, and also one of the most important.  
+
+Once you get comfortable with the changes in this chapter, the rest of the course WILL get easier.
+
+Take your time working through the Anki activities and be sure you keep up with your reviews each day.  What may seem foggy now will begin to make sense soon!
+
+Overall the Qal Imperfect is relatively easy to recognize with the distinctive preformatives.
+
+
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/AVjuXDd5BbI){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/AVjuXDd5BbI" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/z6AvUVjwSzo){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/z6AvUVjwSzo" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 16 A. Vocab`
+* `Lesson 16 B. Grammar` 
+* `Lesson 16 C. Workbook`
+* `Lesson 16 D. Study Verses`
+
+
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## X Hebrew Quest Study Passage: Proverbs #15-17 {-}
+
+[Blank copy of Proberbs #15-17](https://docs.google.com/document/d/1ZuH8tOF8VEtLYCvAexzt0oScAKlfVEkSecPQ-ZjfuhM/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #15](https://holylanguage.com/proverbs-15.php){target="_blank"}
+    1. [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
+    1. [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 
 
 <!--chapter:end:16-Qal_Imperfect_Weak.Rmd-->
@@ -4770,7 +5176,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-88)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5126,7 +5532,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5555,7 +5961,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5792,7 +6198,7 @@ __LESSON ITINERARY__
 
 <div class="figure" style="text-align: center">
 <img src="images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6154,7 +6560,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6424,7 +6830,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6689,7 +7095,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, a good 
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-102)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6819,7 +7225,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7160,7 +7566,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7336,7 +7742,7 @@ The Hebrew Quest Study Passage for this lesson is the story of David and Goliath
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7620,7 +8026,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7766,7 +8172,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8035,7 +8441,7 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8230,7 +8636,7 @@ You have studied 20 distinct passages, most of which were full chapters of the H
 
 <div class="figure" style="text-align: center">
 <img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Strength and Endurance</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Strength and Endurance</p>
 </div>
 
 
@@ -8241,7 +8647,7 @@ If one wants to build strength, she might use the weight machine.  If one wants 
 
 <div class="figure" style="text-align: center">
 <img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Anki Home Screen</p>
+<p class="caption">(\#fig:unnamed-chunk-114)Anki Home Screen</p>
 </div>
 
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
@@ -8294,7 +8700,7 @@ Follow the steps outlined on the Quick Start page.
 Your settings should look like this:
 <div class="figure" style="text-align: center">
 <img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-114)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Settings</p>
 </div>
 
 [Return to Quick Start page](#get_started)
@@ -8321,7 +8727,7 @@ Here are the steps:
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Anki web and mobile views</p>
+<p class="caption">(\#fig:unnamed-chunk-116)Anki web and mobile views</p>
 </div>
 
 ## How do I navigate within Anki? {-}
@@ -8329,14 +8735,14 @@ Here are the steps:
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
 <div class="figure" style="text-align: center">
 <img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-116)Anki - subdecks collapsed</p>
+<p class="caption">(\#fig:unnamed-chunk-117)Anki - subdecks collapsed</p>
 </div>
     * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
 * Many cards have "hints" - click on the `hint` button to reveal
     * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
     <div class="figure" style="text-align: center">
     <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-117)Revealing a hint in Anki</p>
+    <p class="caption">(\#fig:unnamed-chunk-118)Revealing a hint in Anki</p>
     </div>
 * For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
@@ -8347,7 +8753,7 @@ We suggest using the following guidelines to select the most appropriate answer.
 
 <div class="figure" style="text-align: center">
 <img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Anki Response Definitions</p>
+<p class="caption">(\#fig:unnamed-chunk-119)Anki Response Definitions</p>
 </div>
 
 * There is no “value judgment” to hitting `Again` – you will learn on your timeline
@@ -8392,7 +8798,7 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 
 <div class="figure" style="text-align: center">
 <img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-119)Keep your daily Anki streak going!</p>
+<p class="caption">(\#fig:unnamed-chunk-120)Keep your daily Anki streak going!</p>
 </div>
 
 ## How do I know when I'm done with a deck? {-}
@@ -8406,7 +8812,7 @@ So while this could be an indefinite process, we do have some guidelines as they
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-121)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 See the next two pages for more information on how to locate your statistics.
@@ -8426,7 +8832,7 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-122)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 
@@ -8445,13 +8851,13 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
     * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
 <div class="figure" style="text-align: center">
 <img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-123)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
     * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
     
 <div class="figure" style="text-align: center">
 <img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-123)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-124)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 <!-- Please see [`Graduation` process page]() for additional information -->
 
@@ -8477,7 +8883,7 @@ There are a few different terms Anki uses for different stages of card maturity:
     * To add an image simply copy and paste into the image field
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-124)Adding a custom image in Anki</p>
+<p class="caption">(\#fig:unnamed-chunk-125)Adding a custom image in Anki</p>
 </div>
 
 ## Can I modify the layout of a card? {-}
@@ -8512,7 +8918,7 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-125)With `Custom Study` you can temporarily increase your daily new cards</p>
+<p class="caption">(\#fig:unnamed-chunk-126)With `Custom Study` you can temporarily increase your daily new cards</p>
 </div>
 
 
@@ -8721,7 +9127,7 @@ Finally, we thank YOU for your interest in this course!
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-128)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-129)Chris Flanagan</p>
 </div>
 
 
@@ -8799,7 +9205,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-129)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-130)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 

@@ -19,27 +19,26 @@ In the Bible, weak verbs are much more common than strong verbs. Rather than mem
 :::
 
 ::: {.box .stop}
-<span class="he">EQUIPMENT CHECK<span class="he">
+EQUIPMENT CHECK
 
 Before continuing, can you describe the following concepts?
 
 * You must have the Qal Perfect Strong Paradigm memorized!
-*
 :::
 
-## X First Thought {-}
+##  First Thought {-}
 
-### X <span class="he"> </span> {-}
+### <span class="he">בָ֤אָה נַחֲלָתֵ֙נוּ֙ אֵלֵ֔ינוּ מֵעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרָֽחָה׃</span> {-}
 
-*verse (reference 1:1)*
+*our inheritance has fallen to us on this side of the Jordan toward the east (Numbers 32:19)*
 
--brief meditation-
+Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock."  They followed their eyes, which saw profit. The fact that they took the easy path caused tension between the tribes, and students of history know that these lands were often easily invaded. The lesson for us is to make we are seeking what the Lord wants for us and not our own desires.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/.mp3">
+        src="./images/14-03-Num.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -48,9 +47,9 @@ Before continuing, can you describe the following concepts?
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
-knitr::include_graphics("images/13-Acacia tree in Red Canyon, tb030101203.jpg")
+knitr::include_graphics("images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg")
 ``` 
 
 

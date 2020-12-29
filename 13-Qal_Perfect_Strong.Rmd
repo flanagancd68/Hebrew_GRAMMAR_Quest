@@ -247,7 +247,7 @@ knitr::include_graphics("images/13.qptable.png")
     </audio>
 </figure>
 
-## Worksheets: Qal Perfect Strong Paradigm {-}
+## Worksheet: Qal Perfect Strong Paradigm {-}
 
 We are going to go a little out of order.  Normally, we save all of the activities for the end of the lesson, but here, we want you to pause and complete the [Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}.
 

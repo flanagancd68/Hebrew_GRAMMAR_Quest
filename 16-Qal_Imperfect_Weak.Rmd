@@ -1,2 +1,405 @@
 # Qal Imperfect Weak {.QI-w}
 
+This is a critical and dense chapter - lots of details...
+
+Almost every weak verb type experiences some change in the Imperfect
+
+::: {.box .map}
+LESSON ITINERARY
+
+1. Work though the various weak verb forms in the Qal Imperfect
+
+:::
+
+::: {.box .stop}
+EQUIPMENT CHECK
+
+Before continuing, can you describe the following concepts?
+
+* The Qal Imperfect Strong Paradigm must be memorized
+
+:::
+
+## First Thought {-}
+
+### <span class="he">וְעֵינֵיכֶ֖ם תִּרְאֶ֑ינָה</span> {-}
+
+*Your eyes will see (Malachi 1:5)*
+
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/16-06-Mal.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "900pt", fig.align='center', fig.cap="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg")
+``` 
+
+
+## Our Quest
+
+As we progress through the material in this chapter, our quest is to learn how the weak verbs behave so we can work our way back to the Qal Imperfect Strong Verb indicators
+
+* $Pre \ =$ <span class="he">יִקְ</span>
+* $V_S = O$
+
+
+## 2G 
+
+* Reject Daghesh Forte = no effect in QI)
+* $V_2$ will be a Hateph Vowel instead of Vocal Sheva
+* Prefer Patach so $V_S = A$ instead of $O$ (unless reduced) 
+
+::: {.box .light}
+Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect when $Pre \ =$ <span class="he">ְ יִ</span>
+:::
+
+|  | 2G | Strong | 
+| :-  | :- | :-  
+| 3ms  |  <span class="he">יִבְחַר</span>  | <span class="he">יִקְטֹל</span>
+| 3mp  |  <span class="he">יִבְחֲרוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+
+
+## 3חע
+
+* Silent Sheva at $V_3$ remains
+* Prefer $V_S = A$
+
+::: {.box .light}
+Although $V_S = A$, 3חע verbs are easily recognized as Qal Imperfect when $Pre \ =$ <span class="he">ְ יִ</span>
+:::
+
+
+|  | 3חע | Strong | 
+| :-  | :- | :-  
+| 3ms  | <span class="he">יִשְׁלַח</span> | <span class="he">יִקְטֹל</span>
+| 3mp  |  <span class="he">יִשְׁלְחוּ</span>| <span class="he">יִקְטְלוּ</span>
+
+## 3א  
+
+* While 3חע prefer $V_S = A$, 3א prefer $V_S = \bar A$ primarily
+    * $E$ in 3/2fp 
+    * Occasionally, will see $\bar E$ also
+* 3א quiesces with Silent Sheva (and sometimes with vocal)
+
+::: {.box .light}
+Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect when $Pre \ =$ <span class="he">ְ יִ</span>
+:::
+
+|  | 3א | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יִמְצָא</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יִמְצְאוּ</span> | <span class="he">יִקְטְלוּ<span class="he">
+
+## 3ה 
+
+* 3ה have two root consonants plus a ה vowel
+* $V_2$ for 3ה verbs
+    * IF $Suf$ starts with a vowel, THEN $Suf = V_2$
+        * QI3cp - <span class="he">יִבְנוּ</span>
+        * QP3cp - <span class="he">בָּנוּ</span>
+    * IF $Suf$ starts with a consonant, THEN $V_2 \ =$ vowel + י
+        * QI(3/2)fp - <span class="he">תִּבְנֶ֫ינָה</span>
+        * QI2ms - <span class="he">בָּנִ֫יתָ</span>
+    * IF there is no $Suf$, THEN $V_2 \ =$ ה vowel:
+        * QP3ms: <span class="he">בָּנָה</span>
+        * QI3ms: <span class="he">יִבְנֶה</span>
+
+::: {.box .light}
+Despite the endings, 3ה verbs are easily recognized as Qal Imperfect when $Pre \ =$ <span class="he">ְ יִ</span>
+:::
+
+
+|  | 3ה | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יִבְנֶה</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יִבְנוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## 1G
+
+* Remember the Rule of Sheva that prevents two contiguous Vocal Sheva/Hateph Vowels
+    * NOT <span class="he">יְקְ</span>, BUT <span class="he">יִקְ</span>
+    * Whenever we see the $Pre \ =$ <span class="he">ְ יִ</span> of the Qal Imperfect, think "Rule of Sheva"<small>^[<small>Historically the QI $Pre$ did not come the Rule of Sheva, however pretending that it did makes it easy to recognize QI 1G verbs.</small>]</small>
+* The 1G will reject the Vocal Shewa in favor of a Hateph Vowel
+
+::: {.box .light}
+To identify QI from a 1G verb:
+
+* Turn <span class="he">יַחֲ</span> or <span class="he">יֶחֱ</span> back to <span class="he">יִקְ</span>
+* Turn <span class="he">יֶהֶזְ</span> or <span class="he">יַחַלְ</span> back to <span class="he">יִקְטְ</span>
+:::
+
+
+
+|  | חזק ׀  חלף  | Strong 
+| :-  | :- | :-  | :-  
+| 3ms | <span class="he">יַחֲלֹף</span> | <span class="he">יֶחֱזַק</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יַחַלְפוּ</span> | <span class="he">יֶחֶזְקוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## 1א "Angry Baker"
+
+* There is a special class of  1א verbs that are irregular ONLY in the QI
+* They are given the mnemonic "angry baker":
+    * "I said אמר
+    * I want אטה you
+    * To eat אכל what
+    * I bake אפה , or
+    * I _may_ sieze אחז you<small>^[<small>"MAY seize" here is intentional. Sometimes אחז is regular and sometimes it is "angry."</small>]</small>, and you
+    * will perish אבד."
+* $V_P = O$ and the $R_1$ אקִֶֻסצֶס.  (uusually $V_S = A$)
+    * QI1cs: NOT <span class="he">אֹא</span>, BUT <span class="he">אֹ</span>
+
+
+|  | 1א | Angry 1א | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יֶאֱסֹף</span> | <span class="he">יֹאמַר</span> | <span class="he">יִקְטֹל</span>  
+| 1cs | <span class="he">אֶאֱסֹף</span> | <span class="he">אֹמַר</span> | <span class="he">אֶקְטֹל</span>
+| 3mp | <span class="he">יַאַסְפוּ</span> | <span class="he">יֹאמְרוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+::: {.box .info}
+You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֵר is an "angry baker" verb.
+:::
+
+## Geminate
+
+* Geminate Lose $R_2$ - Dagesh Forte in remaining twin letter (unless word-final or guttural letter)
+    * In alternate forms, the Dagesh appears in $R_1$ and $V_P = I$ (see table below)
+* Imperfect Preformatives/Sufformatives remain
+* $V_S$ and Accent shift to $V_1$
+* Connecting vowel before a sufformative that starts with a consonant
+    * QP2fp - <span class="he">סַבּוֹתֶן</span>
+    * QI2fp - <span class="he">תְּסֻבֶּ֫ינָה</span>
+
+::: {.box .info}
+Recognizing the Imperfect preformatives/sufformatives and Geminate vocabulary knowledge will help you recognize QI for Geminate verbs
+:::
+
+|  | Gem | Gem (alt) | Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יַסֹב</span> | <span class="he">יִסֹּב</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יַסֹ֫בּוּ</span> | <span class="he">יִסֹּּבּוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## Biconsonantal
+
+* $Pre \ =$ <span class="he">יַ</span>
+* $V_S$ and accent move to $R_1$
+* The Lexical Vowel REMAINS, though sometimes it is defective
+    * <span class="he">יָקוּם</span>
+    * <span class="he">יָקֻם</span>
+
+::: {.box .info}
+The retention of the Lexical Vowel, $V_P = \bar A$, and the Imperfect preformative/sufformative will indicate QI of a Biconsonantal verb
+:::
+
+|  | קוּם | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יָקוּם</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יָק֫וּמוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## 1-Yod 
+
+* ALWAYS drops 1-yod $R_1$
+    * $V_P = \bar E$ or $V_P = \hat I$ (Hireq+Yod)
+    * $V_S = \bar E$ or $V_S = A$
+    * See examples
+
+|  | ירשׁ | ישׁב| Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יִירַשׁ</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יִירְשׁוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+::: {.box .info}
+* When $V_P = \hat I$, you can visualize the remnants of the QI Strong $Pre$ as well as the 1st yod
+* When $V_P = \bar E$, you will need to recognize the Imperfect pre/sufformatives and your knowledge of vocabulary<small>^[<small>Also, you could imagine one of the dots of the Tsere representing the dropped Yod - turn it into a Yod and you have $\hat I$, which is a more normal-looking QI $Pre$.  If you "see" this and it helps, great!  If you don't, forget about it and don't let it confuse you!</small>]</small>
+:::
+
+
+## הלך 
+
+* הלך is an irregular verb that acts like 1-Yod in the Qal Imperfect
+* The ה drops and $V_P = \bar E$
+* $V_S = \bar E (A)$
+    * The (A) means in the Feminine Plural forms, we will see Patach instead of Tsere
+    * This will be common notation in Unit 4
+
+
+|  | הלך | ישׁב |  Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יֵלֵךְ</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יֵלְכוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## <span class="he">יכל</span> takes $V_P = \bar U$
+
+
+|  | יכל | ישׁב |  Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יוּכַל</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יוּכְלוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+
+## 1נ Assimilates with Silent Sheva
+
+* If guttural or Resh after the נ, the נ usually remains
+* Dagesh Forte in $R_2$ when נ assimilates
+    * SQiN eM LeVY + Sheva may drop the Dagesh
+
+::: {.box .info}
+To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="he">נְ</span>
+:::
+
+|  | 1נ | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יִפֹּל</span> | <span class="he">יִקְטֹל</span>
+| 3mp | <span class="he">יִפְּלוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## לקח
+
+* Just as <span class="he">הלך</span> thinks it's 1י, <span class="he">לקח</span> thinks it's 1נ
+* Note <span class="he">ק</span> is SQiN eM LeVY
+
+|  | 1נ | לקח | Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִפֹּל</span> | <span class="he">יִקַּח</span> | <span class="he">יִקְטֹל</span>
+| 3mp | <span class="he">יִפְּלוּ</span> | <span class="he">יִקְחוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## Doubly Weak
+
+* As with the Qal Perfect, there is nothing overly complex about Imperfect Doubly Weak Verbs
+* Simply address each weakness and work your way back to the strong form
+* Note <span class="he">עשֹה</span> in the table below
+    * 1G affects $V_P$ and $V_1$
+    * 3ה affects $V_2$
+    
+|  | 3ה | עסֹה | 1G 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִבְנֶה</span> | <span class="he">יַעֲשֶֹה</span> | <span class="he">יַחֲלֹף</span>  
+| 3mp | <span class="he">יִבְנוּ</span> | <span class="he">יַעֲשֹוּ</span> | <span class="he">יַחַלְפוּ</span>
+
+## נתן is 1נ and 3נ
+
+* 1n assimilates as usual
+* 3n assimilates as usual
+* Result is only ONE root letter!  
+    * But fortunately, this only occurs in QIfp forms
+    
+::: {.box .light}
+<span class="he">נתן</span> is extremely common - it is important to study these changes
+:::
+
+|  | נתנ | 1נ | Strong 
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִפֹּל</span> |  <span class="he">יִתֵּן</span> | <span class="he">יִקְטֹל</span>
+| 3mp | <span class="he">יִפְּלוּ</span> |  <span class="he">יִתְּנוּ</span> | <span class="he">יִקְטְלוּ</span>
+| 3fp | <span class="he">תִּפֹּ֫לְנָה</span> | <span class="he">תִּתֵּ֫נָּה</span> | <span class="he">תִּקְטְלוּ</span>
+
+
+## ראה vs. ירא
+
+* ירא is 1-yod and 3-aleph
+    * $V_P = \hat I$ like 1י
+    * 3א quiesces with Sheva (FP forms)
+* ראה is  2-guttural and 3-hei
+    * Follows normal 3ה patterns - no $R_3$
+
+| | ירא | ראה | Strong 
+| :-  | :- | :-  
+| 3ms | <span class="he">יִרְאֶה</span> | <span class="he">יִירָא</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יִירְאוּ</span> | <span class="he">יִרְאוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+## Qal Imperfect Weak Summary
+
+This is the densest chapter in _Basics of Biblical Hebrew_, and also one of the most important.  
+
+Once you get comfortable with the changes in this chapter, the rest of the course WILL get easier.
+
+Take your time working through the Anki activities and be sure you keep up with your reviews each day.  What may seem foggy now will begin to make sense soon!
+
+Overall the Qal Imperfect is relatively easy to recognize with the distinctive preformatives.
+
+
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/AVjuXDd5BbI){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/AVjuXDd5BbI" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/z6AvUVjwSzo){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/z6AvUVjwSzo" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 16 A. Vocab`
+* `Lesson 16 B. Grammar` 
+* `Lesson 16 C. Workbook`
+* `Lesson 16 D. Study Verses`
+
+
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## X Hebrew Quest Study Passage: Proverbs #15-17 {-}
+
+[Blank copy of Proberbs #15-17](https://docs.google.com/document/d/1ZuH8tOF8VEtLYCvAexzt0oScAKlfVEkSecPQ-ZjfuhM/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #15](https://holylanguage.com/proverbs-15.php){target="_blank"}
+    1. [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
+    1. [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
