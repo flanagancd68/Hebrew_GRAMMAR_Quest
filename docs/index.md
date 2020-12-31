@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2020-12-29"
+#date: "2020-12-31"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2020-12-29</small>
+<small>*Updated*: 2020-12-31</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -4853,7 +4853,7 @@ To identify QI from a 1G verb:
 | 3mp | <span class="he">יַאַסְפוּ</span> | <span class="he">יֹאמְרוּ</span> | <span class="he">יִקְטְלוּ</span>
 
 ::: {.box .info}
-You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֵר is an "angry baker" verb.
+You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֶר is an "angry baker" verb.
 :::
 
 ## Geminate
@@ -5093,30 +5093,1490 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 
 # Vav Consecutive {.wc}
 
+Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: **וּכְתַטְתָּם***. The initial ו means "and", so this one word is translated "AND you will write them".  It also has a grammatical purpose of changing the verb's meaning from a past tense to a future tense.  **כָּתַטְתָּ*** means "you (ms) wrote" (perfect), but putting a ו as prefix changed the meaning to "and you will write" (imperfect).  We'll learn more about these changes in this Lesson.
+
+The terminology on this topic is a bit fluid. The term "Waw Consecutive" is significantly more prevalent than "Vav Consecutive", so we will stick with the seminary style phrasing for this chapter.
+
+| Hebrew | Description | Also known as | Shorthand
+| :- | :- | :- | :-
+**וְקָטַל*** | Qal Perfect + ו | Weqatal | QP +
+**וְיִקְטֹל*** | Qal Imperfect + ו | Weyiqtol | QP +
+**וְקָטַל*** | Qal Perfect Waw Consecutive  | Weqatal | QPwc
+**יַיִּקְטֹל*** | Qal Imperfect Waw Consecutive  | Wayyiqtol | QIwc
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* 
+*
+:::
+
+## First Thought {-}
+
+### <span class="he">וַיַּשְׁכִּ֣מוּ בַבֹּ֔קֶר וַיַּֽעֲל֥וּ אֶל־רֹאשׁ־הָהָ֖ר </span> {-}
+
+*In the morning, however, they rose up early and went up to the ridge of the hill country (Numbers 14:40)*
+
+The conjunction ו is a powerful linguistic tool in Scripture.  Later in this Lesson, we will study Genesis 1:1-5 from _Hebrew Quest_.  Verse 2 begins with the conjunction prefixed to a noun, while verses 3-5 each begin with what is called the "Waw-Conjunction", which is to say the Vav is prefixed to a verb.
+
+Like the dawning of a new day, after you complete this lesson, a majority the verb forms that appear in the Hebrew Scriptures will be opened to you.  We hope you are as excited about taking this new step into a larger world as we are excited for you!
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/17-13-Numb.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+<div class="figure" style="text-align: center">
+<img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-87)Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+## Review of the Conjunction Vav
+
+* Usually spelled **וְ***
+    * Spelled **וּ*** before פ, מ, ב, or Sheva
+    I* Rule of Sheva can create **וִי***
+or the "hateph copy-cat",**וַעֲ***
+
+## Perfect + וְ: Spelling
+
+* Always first letter
+* Accent shift to ultima in 2ms and 1cs
+
+| | QP | + ו 
+| :- | :- | :- 
+3ms | <span class="he">קָטַל</span> | <span class="he">וְקָטַל</span>
+1cs | <span class="he">קָטַ֫לְתִּי</span> | <span class="he">וְקָטַלְתִּ֫י</span>
+3cp | <span class="he">קָטְלוּ</span> | <span class="he">וְקָטְ֫לוּ</span>
+
+## Perfect + וְ: Translating
+
+* Parsing code: Pwc (Perfect Waw Consecutive)
+* Often used for the next event in a future narrative
+* Usually translated as IMPERFECT
+    * Future: And I will study
+    * Modal: And I would/could/should study
+    * Imperfective: Amd I am/was/will be studying
+* After an imperative, usually translate as another imperative:
+    * Go and study!
+* Can be translated as the normal perfect (past tense)
+    * Parsing code in this case would be the perfect code "+ ו", as in QP3ms + ו
+    * The accent MAY be a clue
+        * **וְשָׁמַרְתִּ֫י*** = QPwc1cs - and I will guarded
+        * **וְשָׁמַ֫רְתִּי*** = QP1cs + ו - and I guarded
+    * Context is a better guide
+    
+
+## Imperfect + וְ: Spelling
+
+* Always first letter
+* Usually spelled וְ
+    * On the Perfect, there is no difference between the spelling of the Conjunction and the Waw Consecutive - both are, וְ
+    * On the Imperfect, the CONJUNCTION is spelled, וְ
+    * The Imperfect Waw CONSECUTIVE is spelled, וַיִּ
+
+| | QI | + ו 
+| :- | :- | :- 
+3ms | <span class="he">יִקְטֹל</span> | <span class="he">וְיִקְטֹל</span>
+1cs | <span class="he">אֶקְטֹל</span> | <span class="he">וְאֶקְטֹל</span>
+3cp | <span class="he">יִקְטְלוּ</span> | <span class="he">וְיִקְטְלוּ</span>
+
+## Imperfect with Vav often indicates purpose
+
+* Instead of "and", translate, "so that...may"
+    * "Shall I go call a Hebrew nurse SO THAT she MAY nurse the child for you?" (Ex 2:7)
+    * "Let's make a tower...SO THAT we MAY make a name for ourselves." (Gen 11:4)
+* Regular imperfect translations are possible (same as Pwc)
+
+## Imperfect Waw Consecutive: Spelling (Strong)
+
+* Vav + Patach + Dagesh Forte
+    * Similar to the independent preposition with the definite article
+* In the 1cs form, the Aleph preformative rejects the Dagesh, resulting in Compensatory Lengthening
+
+| | QI | QIwc
+| :- | :- | :- 
+3ms | <span class="he">יִקְטֹל</span> | <span class="he">וַיִּקְטֹל</span>
+1cs | <span class="he">אֶקְטֹל</span> | <span class="he">וָאֶקְטֹל</span>
+3cp | <span class="he">יִקְטְלוּ</span> | <span class="he">וַיִּקְטְלוּ</span>
+
+
+## Imperfect Waw Consecutive: Spelling (Weak)
+
+* 3ה verbs drop the suffix
+* Biconsonantal verbs change
+* Some other verbs change stem vowel to Seghol
+
+|3ms | QI | QIwc
+| :- | :- | :- 
+3ה | <span class="he">יִבְנֶה</span> | <span class="he">וַיִּבֶן</span>
+Bicons | <span class="he">יָקוּם</span> | <span class="he">וַיָּקָם</span>
+Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫אמֶר</span>
+
+## Imperfect Waw Consecutive: Translation
+
+### Usually translate Iwc as PAST TENSE {-}
+
+* Often used for the next event in a past-time narrative
+* Uses the opposite form from what we might expect:
+    * Iwc in a PAST narrative
+    * Pwc in a FUTURE narrative
+* He did X (the first verb will be P), and then he did Y (next verb is Iwc), and then he did Z (Iwc)
+* He will do X (first verb is I), then he will do Y (next verb is Pwc)
+
+## Summary
+
+* Iwc is most common **וַיִּקְטֹל***
+* Pwc is next **וְקָטֹל***
+* P+ו and I+ו are relatively uncommon
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/_usEc7vYIXI){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/_usEc7vYIXI" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/mfNf7nNcRPA){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/mfNf7nNcRPA" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 17 A. Vocab`
+* `Lesson 17 B. Grammar` 
+* `Lesson 17 C. Workbook`
+* `Lesson 17 D. Study Verses`
+
+## Worksheets: Qal Vav-Consecutive Paradigms {-}
+
+
+[Qal Vav-consecutive Paradigms](17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Genesis 1:1-5 {-}
+
+[Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/17/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
 
 <!--chapter:end:17-Vav_Consecutive.Rmd-->
 
 # Qal Imperative {.QM}
+
+Lesson 18 marks the start of the second semester of a traditional first year Hebrew Course.  In other words, congratulations! You are halfway through the course!
+
+Many students believe the second half of the course is easier than the first half.  Likely this is because, the foundational work is behind us and reading the Bible, while not yet fluid, is definitely becoming more enjoyable.
+
+We have covered the two major uses of the Qal stem: the Perfect and Imperfect (including the Waw-Consecutive).  For the remainder of Unit 3 we will round out our study of Qal Verbs with the Volitional forms (Lesson 18), the Infinitive forms (Lessons 20 and 21), and the Participle forms (Lesson 22).
+
+Keep going!
+
+::: {.box .map}
+__LESSON ITINERARY__
+
+1. 2nd Person Imperative
+1. 1st Person Cohortative
+1. 3rd Person Jussive
+1. Negative Commands do not use the Imperative
+1. Complications
+:::
+
+::: {.box .stop}
+__EQUIPMENT CHECK__
+
+Before continuing, can you describe the following concepts?
+
+* The Qal Imperfect Strong form
+* The Rule of Sheva
+:::
+
+## First Thought {-}
+
+### <span class="he">וְעַתָּ֣ה יִשְׂרָאֵ֗ל שְׁמַ֤ע אֶל־הַֽחֻקִּים֙ וְאֶל־הַמִּשְׁפָּטִ֔ים אֲשֶׁ֧ר אָֽנֹכִ֛י מְלַמֵּ֥ד אֶתְכֶ֖ם לַעֲשׂ֑וֹת</span> {-}
+
+*Now, O Israel, listen to the statutes and the judgments which I am teaching you to perform (Deuteronomy 4:1)*
+
+The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 6. Yeshua quoted it as the "greatest commandment."  The Shema reminds us that we study Hebrew so that we may draw closer to Him and love Him with all that we are.
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/18-08-Deut.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+<div class="figure" style="text-align: center">
+<img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-88)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+
+
+## Volitional Forms Introduction
+
+* Volitional conjugations express someone's will (their volition)
+    * Command or permission
+    * Wish or desire
+    * Purpose
+    * Occasionally, used to indicate a result (even if the result was not intended)
+* The most common volitional form is the Imperative (Parsing code: M)
+    * "Study!"
+    * 2nd person
+* The Jussive (J) is the 3rd person volitional form
+    * "May he study" or "she should study"
+    * 2nd person jussives exists
+* The Cohortative (C) is the 1st person volitional form
+    * "Let us study"
+    * "I shall run!"
+    
+## Negative Commands use the Jussive or the Imperfect
+
+* Negative commands never use the imperative
+* לֹא + imperfect
+    * Absolute, permanent, blanket prohibition
+    * You shall not murder (Ex 20:13)
+* אַל + jussive or cohortative
+    * Immediate, circumstance-specific prohibition
+    * "Do not listen to your prophets!" (Jer 27:9)
+    * In this context, Jeremiah is prohibiting the people from listening to FALSE, misguided prophets, not a blanket prohibition of ANY and ALL prophets
+    * 2nd person jussives are used for negative commands
+
+
+## The Imperative is the Imperfect withoug the Imperfect Preformative
+
+* Apply Rule of Sheva to 2fs and 2mp
+
+|  | QI | QM | 
+| :-  | :- | :-  
+| 2ms | <span class="he">תִּקְטֹל</span>  | <span class="he">קְטֹל</span>
+| 2fs | <span class="he">תִּקְטְלִי</span>  | <span class="he">קִטְלִי</span>
+| 2mp | <span class="he">תִּקְטְלוּ</span>  | <span class="he">קִטְלוּ</span>
+| 2fp | <span class="he">תִּקְטֹ֫לְנָה</span>  | <span class="he">קְטֹ֫לְנָה</span>
+
+* Rule of Sheva - 2mp is NOT <span class="he">קְטְלוּ</span>, BUT <span class="he">קִטְלוּ</span>
+
+## Identifying QM
+
+1. Lacks I preformative
+2. Retains I sufformative (or no sufformative)
+3. $V_1$ IS or WAS reduced
+    * Rule of Sheva in 2fs/2mp
+4. Imperfect $V_S$
+
+## <span class="he">נָה</span> can follow volitional verbs
+
+* <span class="he">נָה</span> may be independent or joined by maqqef
+* Scholars debate what this means, or whether it means anything
+* "Please" or "now" have been suggested
+* May leave it untranslated depending on the context
+
+::: {.box .info}
+<span class="he">נָה</span> only follows volitional verbs. This helps with parsing.
+:::
+
+## Distinguishing QM2ms, QI3ms, and QP3ms
+
+|  | QI3ms | QM2ms | QP3ms
+| :-  | :- | :-  | :-
+| Spell | <span class="he">תִּקְטֹל</span>  | <span class="he">קְטֹל</span>  | <span class="he">קָטַל</span>
+| $V_1$ | <span class="he">ְ</span>  | <span class="he">ְ</span>  | <span class="he">ָ</span>
+| $V_2$ | <span class="he">ֹ </span>  | <span class="he">ֹ </span>  | <span class="he">ַ </span>
+
+## Paragogic ה 
+
+* Paragogic ה on M2ms 311x<small>^[<small>Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."</small>]</small>.
+    * <span class="he">קְטֹל</span> or <span class="he">קָטְלָה</span> (Qamets Hatuf) - QM2ms with paragogic ה OR pronominal suffix (Lesson 19) prefers Qamets Hatuf
+    * NEVER directional ה on verbs
+
+## 3ה Verbs
+
+3rd ה verbs undergo the usual changes we have been studying. Now, we are adding a new (vowel) + ה ending for the Imperative:
+
+* No sufformative = Add ה vowel letter
+    * Perfect - <span class="he">ה ָ </span>
+    * Imperfect - <span class="he">ה ֶ </span>
+    * Imperative - <span class="he">ה ֵ </span>
+* If sufformative starts with vowel, use that for $V_2$
+* If sufformative starts with consonant, add Yod vowel letter
+    * Perfect - <span class="he">י ִ </span>
+    * Imperfect/Imperative - <span class="he">י ֶ </span>
+    
+## 1נ and 1י
+
+* 1י drops in the QM
+* 1נ _sometimes_ drops in the QM
+    * For example, נסע, נתן do; נפל does not
+* These have the Imperfect $V_S$, unless it has reduced
+
+|  | QI2ms | QM2ms  | QM2mp | 
+| :-  | :- | :-  | :-  
+| <span class="he">ישׁב</span> | <span class="he">תֵּשֵׁב</span>  | <span class="he">שֵׁב</span>  | <span class="he">שְׁבוּ</span>  
+| <span class="he">ירשׁ</span> | <span class="he">תִּירַשׁ</span>  | <span class="he">רַשׁ</span> | <span class="he">רְשׁוּ</span>
+| <span class="he">נסע</span> | <span class="he">תִּסַּע</span>  | <span class="he">סַע</span>  | <span class="he">סְאוּ</span>
+| <span class="he">נתן</span> | <span class="he">תִּתֵּן</span>  | <span class="he">תֵּן</span>  | <span class="he">תְּנוּ</span>
+| <span class="he">נפה</span> | <span class="he">תִּפֹּל</span>  | <span class="he">נְפֹל</span> | <span class="he">נִפְלוּ</span>
+
+
+## Biconsonantal and Geminate
+
+* Like 1נ and 1י above, if missing $R_1$ or $R_2$, keep Imperfect $V_S$ instead of reducing $V_1$
+
+| Verb | QI2ms | QM2ms
+| :- | :- | :-
+| <span class="he">קוֹם </span> | <span class="he">תָּקוֹם </span> | <span class="he">קוֹם</span>
+| <span class="he">שִׁים </span> | <span class="he">תָּשִׁים </span> | <span class="he">שִׁים </span>
+| <span class="he">בוֹא </span> | <span class="he">תָּבוֹא </span> | <span class="he">בּוֹא </span>
+| <span class="he">סבב</span> | <span class="he">תָּסֹב</span> | <span class="he">סֹב </span>
+| <span class="he">תמם</span> | <span class="he">תֵּתַם</span> | <span class="he">תַּם</span>
+
+## QP3ms and QP2ms
+
+* These are going to be more challenging
+* QP doesn't drop $R_1$ when weak, whereas QI/QM do
+
+| Type | QP3ms | QM2ms
+| :- | :- | :-
+| Strong | <span class="he">קָטַל</span> | <span class="he">קְטֹל</span>
+| 1י | <span class="he">יָשַׁב</span> | <span class="he">שֵׁב</span>
+| 1נ | <span class="he">נָסע</span> | <span class="he">סַע</span>
+| 3ה | <span class="he">בָּנָה</span> | <span class="he">בְּנֵה</span>
+| Bicons. | <span class="he">קָם </span> | <span class="he">קוּם</span>
+
+## QP3mp and QP2mp
+
+| Type | QP3mp | QM2mp
+| :- | :- | :-
+| Strong | <span class="he">קָטְלוּ</span> | <span class="he">קִטְלוּ</span>
+| 1י | <span class="he">יָשְׁבוּ</span> | <span class="he">שְׁבוּ</span>
+| 1נ | <span class="he">נָסְעוּ</span> | <span class="he">סְעוּ</span>
+| 3ה | <span class="he">בָּנוּ </span> | <span class="he">בְּנוּ</span>
+| Bicons. | <span class="he">קָ֫מ </span> | <span class="he">ק֫וּמוּ </span>
+
+## Cohortative and Jussive
+
+* These are more nuanced conjugations
+* They are usually spelled exactly like the imperfect
+* If context suggests volitional and it's the first word in its clause then parse as Cohortative (C) if 1st person, or Jussive (J) if 3rd (or sometimes 2nd) person
+* The Cohortative usually (but not always) ends in **ה ָ***
+    * **אֶקְטְלָה*** = QC1cs
+
+## Some weak verbs often shorten the Jussive singular
+
+
+| Type | QI3ms | QJ3ms | Translation
+| :- | :- | :- | :-
+| 3ה | <span class="he">יִבְנֶה</span> | <span class="he">יִבֶן</span> | Let him build
+| Bicons. | <span class="he">יָשִֹים</span> | <span class="he">יָשֵֹׁם</span> | Let him put
+| Bicons. | <span class="he">יָשׁוּב</span> | <span class="he">יָשֹׁב</span> | Let him return
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/Ycsb8GLkFRA){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/Ycsb8GLkFRA" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/3mMX0zLi0cU){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/3mMX0zLi0cU" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 18 A. Vocab`
+* `Lesson 18 B. Grammar` 
+* `Lesson 18 C. Workbook`
+* `Lesson 18 D. Study Verses`
+
+## Worksheets: Qal Volitional Forms {-}
+
+Qal Volitional Forms
+
+[Name of worksheet](18_qal_volitive_paradigm.pdf){target="_blank"}
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: The Shema {-}
+
+[Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 
 
 <!--chapter:end:18-Qal_Imperative_strong.Rmd-->
 
 # Pronominal Suffixes on Verbs {.VerbSuffix}
 
+There is good news and bad news with pronominal suffixes.  The good news is that, in almost every case, you already know the suffixes and how they are used.  These are the same ones from Lesson 9.  In fact, Verbs ONLY use the "Type 1" suffixes.
+
+The more challenging aspects can include significant spelling and accent changes, which result in a few forms that are identical.  For these we can only depend on context to help us translate correctly.
+
+One of the first vocabulary words in _Hebrew Quest_ was **וּכְתַטְתָּם***.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
+
+
+
+
+
+::: {.box .map}
+__LESSON ITINERARY__
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+__EQUIPMENT CHECK__
+
+Before continuing, can you describe the following concepts?
+
+* 
+*
+:::
+
+## X First Thought {-}
+
+### X <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
+
+*I have called upon You, for You will answer me, O God; Incline Your ear to me, hear my speech. (Psalms 17:6)*
+
+Imagine walking along a path like the one below on a day Yeshua taught in this very area. What would you be thinking and feeling?  
+
+* Would you be giddy, as if if you got special access to a famous entertainer or dignitary?  Would you try to get His autograph or a selfie with Him?
+* Would you be skeptical, wondering whether this Yeshua you have heard about is really "all that"?  In the back of your mind, would you even be questioning whether He is a fraud?
+* Would He be just another voice with a platform like all the people with thousands of followers on YouTube today?  
+* Or, would you know there is something special about Him? Would you have realized that Yeshua is God, come to bridge the divide between you and the Father?  
+
+Be honest.  
+
+Meditate on that as you work through this lesson and, especially, as you study the "Avinu" in the _Hebrew Quest_ Study Passage.
+
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/19-14.Psalms 17.6.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+<div class="figure" style="text-align: center">
+<img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-89)Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+
+<!-- picture -->
+
+<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
+
+
+
+## Hebrew Direct Object Pronouns
+
+* We learned in Lesson 9 that Hebrew has a Definite Direct Object marker **אֵת*** that takes pronominal suffixes
+    *  For example, **אֹתִי*** is "me" and **אֹתְךָ*** is "you (ms)"
+* Hebrew also attaches pronominal suffixes to verbs
+    * **אֲכָלוֹ*** - "he ate IT"
+
+## Verbs use Type 1 Suffixes
+
+* This is good news as you will be able to recognize the suffix immediately (provided you have memorized them from Lesson 9!).
+* The 1cp pronominal suffix is **נוּ***, which is the same as the P1cp sufformative
+    * The preceding vowel can help in most cases:
+        * If sheva, it's P1cp
+        * If vowel, then pronominal suffix
+
+## QP Vowel Changes
+
+* Accent shifts to sufformative
+* $V_1$ reduces
+* $V_S$ is LONG in the 3rd person (usually reduces in 3cp)
+* 2fs and 1cs are identical
+* QP2fp - $\nexists$<small>^[<small>This is the mathematical symbol for "does not exist"; in our context, it means there are no examples of the QP2fp with a pronominal suffix in Scripture.</small>]</small>
+
+
+|  | QP | QP + Pron.
+| :- | :- | :-
+| 3ms | <span class="he">קָטַל</span> | <span class="he">קְטָל</span>
+| 3fs | <span class="he">קָטְלָה</span> | <span class="he">קְטָלַ֫ת</span>
+| 2ms | <span class="he">קָטַ֫לְתָּ</span> | <span class="he">קְטַלְתּ֫</span>
+| 2fs | <span class="he">קָטַלְתְּ</span> | <span class="he">קְטַלְתִּ֫י</span>
+| 1cs | <span class="he">קָטַ֫לְתִּי</span> | <span class="he">קְטַלְתִּ֫י</span>
+| 3cp | <span class="he">קָטְלוּ</span> | <span class="he">קְטָל֫וּ</span>
+| 2mp | <span class="he">קְטַלְתֶּם</span> | <span class="he">קְטַלְתּ֫וּ</span>
+| 1cp | <span class="he">קָטַ֫לְנוּ</span> | <span class="he">קְטַלְנ֫וּ</span>
+
+## QI Vowel Changes 
+
+* Imperfect $V_S$ reduces before a pronominal suffix, unless:
+    * If $V_S$ is Patach, THEN it lengthens to Qamets
+* QI3fp/QM2fp - $\nexists$
+
+|  | QI | QI + Pron.
+| :- | :- | :-
+| 3ms | <span class="he">יִקְטֹל</span> | <span class="he">יִקְטְל</span>
+| 3fs | <span class="he">תִּקְטֹל</span> | <span class="he">תִּקְטְל</span>
+| 2ms | <span class="he">תִּקְטֹל</span> | <span class="he">תִּקְטְל</span>
+| 2fs | <span class="he">תִּקְטְלִי</span> | <span class="he">תִּקְטְלִי</span>
+| 1cs | <span class="he">אֶקְטֹל</span> | <span class="he">אֶקְטְל</span>
+| 3mp | <span class="he">יִקְטְלוּ</span> | <span class="he">יִקְטְלוּ</span>
+| 2mp | <span class="he">תִּקְטְלוּ</span> | <span class="he">תִּקְטְלוּ</span>
+| 1cp | <span class="he">נִקְטֹל</span> | <span class="he">נִקְטְל</span>
+
+## QM Vowel Changes
+
+* QM2ms is Qamets Hatuf + Silent Sheva
+* QM2fs/QM2fp - $\nexists$
+
+|  | QM | QM + Pron.
+| :- | :- | :-
+| 2ms | <span class="he">קְטֹל</span> | <span class="he">קָטְל</span>
+| 2mp | <span class="he">קִטְוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
+
+
+## Imperative/Perfect Ambiguity when normal Imperative $V_S = A$
+
+* With a pronominal suffix, Imperative $V_S$ lengthens to Qamets instead of reducing
+    * Stative, 2G, and 3G verbs do this
+* QM2ms+suffix looks like QP3ms+suffix
+* QM2mp+suffix looks like QP3cp+suffix
+* Context will determine whether the verb is directed TO someone (2nd person) or is ABOUT someone (3rd)
+
+| QP/suf | QM/Suf $V_S = A$ | QM/Suf $V_S =O$
+| :- | :- | :-
+| <span class="he">קְטָל</span> | <span class="he">קְטָל</span> | <span class="he">קָטְל</span>
+| <span class="he">יְטָלוּ</span> | <span class="he">יְטָלוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
+
+
+
+<!-- FOR STRONG VERB CHAPTERS -->
+
+## X <stem> Verb Stem Table 
+
+
+
+## X <stem> Meanings
+
+
+
+## X <stem> Strong Word-initial Combinations 
+
+
+## X <stem> Strong Stem Vowels 
+
+## X <stem>: what to memorize
+
+## X <stem> Perfect Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | *****  | 3cp | ***** 
+| 3fs | ***** | 
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+| 1cs | ***** | 1cp | *****
+
+<figure>
+    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+## X <stem> Imperfect Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | *****  | 3mp | ***** 
+| 3fs | ***** | 3fp | *****
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+| 1cs | ***** | 1cp | *****
+
+<figure>
+    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+## X <stem> Imperative Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+
+## X <stem> Infinitives Strong
+
+
+| Type | Paradigm 
+| :-  | :- 
+| ∞ | *****  
+| A | *****
+
+## X <stem> Participle Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| ms | ***** | mp | *****
+| fs | ***** | fp | *****
+
+## X <stem> Parsing Examples
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/VnY-EzVTywk){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/VnY-EzVTywk" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/tY9vx7ZRSwQ){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/tY9vx7ZRSwQ" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 19 A. Vocab`
+* `Lesson 19 B. Grammar` 
+* `Lesson 19 C. Workbook`
+* `Lesson 19 D. Study Verses`
+
+
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Matthew 6 {-}
+
+[Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
 
 <!--chapter:end:19-Pronominal_Suffix_Verbs.Rmd-->
 
-# Qal Infinitive Construct {.Q∞}
+# x Qal Infinitive Construct {.Qinfinitive}
+
+Infinitive constructs are verbal nouns.
+
+There is a unique aspect that makes identifying and parsing the ∞<small>^[<small>If you ever have a need to generate the infinity symbol on a desktop computer, ∞, make sure the `Num Lock` is on (and use the numbers on the keypad layout, not the ones on the top row), hold down the `Alt` key and type `236`, then let go of the `Alt` key. On a phone, you can often type `infinity` and the ∞ symbol will appear.</small>]</small> super easy (but you'll have to read on!)
+
+
+::: {.box .map}
+__LESSON ITINERARY__
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+__EQUIPMENT CHECK__
+
+Before continuing, can you describe the following concepts?
+
+* 
+*
+:::
+
+## First Thought {-}
+
+###  <span class="he">וְשָׁ֣מַרְתָּ֔ אֶת־מִצְוֺ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ לָלֶ֥כֶת בִּדְרָכָ֖יו וּלְיִרְאָ֥ה אֹתֽוֹ׃</span> {-}
+
+*Therefore, you shall keep the commandments of Adonai your God, to walk in His ways and to fear Him. (Deuteronomy 8:6)*
+
+It is easy to follow Adoni's commandments when they align with our desires.  When they do not align is when we face a more difficult decision: to follow in HIS ways or to continue in OUR ways.  In our Study Passage for this lesson, we will read the story of when Adonai commanded Abraham to sacrifice Isaac.  This passage is as beautiful as it is troubling.  How could Adonai ask such a thing?  How could Abraham willing obey so easily?  What is Adonai trying to teach us?  What would I do if God asked a difficult task of me?
+
+Ponder these things as you work through this Lesson and the study passage.
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/20-6.Deut 8.6.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+<div class="figure" style="text-align: center">
+<img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-91)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+## Two types of Infinitives
+
+* Infinitive Construct - Parsing Code: ∞
+* Infinitive Absolute (Lesson 21) - Parsing Code: A
+* The Infinitives do NOT inflect for person, number, or gender
+* Parsing is straightforward - Stem + Conjugation
+    * Q∞
+    * QA (Lesson 21)
+* Prefixes
+    * The ∞ can also take prepositional prefixes (which we will discuss a little bit later) or pronominal suffix
+    * The A NEVER takes a prefix or suffix
+
+
+
+## Q∞ Spelling
+
+* For most verbs: **קְתֹל***
+    * 1G reduces as expected: **אֱמֹר***
+    * 3ח/ע can take a furtive patach, which is ignored when parsing: **שְׁלֹחַ***
+
+::: {.box .info}
+"uh-oh" is the sound a Q∞ (or QM2ms) strong verb makes
+:::
+
+## 3ה Endings
+
+* As expected, when a 3ה verb has no sufformative, a vowel is added
+* For the ∞, this ending is **וֹת***
+    * The **וֹת*** remains when a pronominal suffix is added
+    * Note: in this use, **וֹת*** is not the FP ending - it would be incorrect to say "Q∞fp." ∞ verbs are never inflected for person, gender, or number.
+
+| | Hebrew
+| :- | :-
+| P | <span class="he">בָּנָה</span>
+| I | <span class="he">יִבְנֶה</span>
+| M | <span class="he">בְּנֵה</span>
+| ∞ | <span class="he">בְּנוֹת</span>
+
+::: {.box .light}
+Memorize the 3ה endings as they will make parsing easier
+:::
+
+::: {.box .caution}
+* **ּבָנוֹת*** is spelled with a Qamets and means "daughters"
+* <span class="he">בְּנוֹת</span> is reduced and means "to build, building"
+
+## 1י and 1נ Spelling
+
+* Usually, but not always, drop the 1-yod/nun
+* When dropped, add a final **ת***, and change the vowels so that it looks like a Segholate noun
+
+* **הלך*** as always thinks it's a 1-yod
+
+| Root | Keep | Drop
+| :- | :- | :-
+| <span class="he">נסע</span> | <span class="he">נְסֹעַ</span> | <span class="he">סַ֫עַת</span>
+| <span class="he">נגע</span> | <span class="he">נְגֹת</span> | <span class="he">גַּ֫עַת</span>
+| <span class="he">נתן</span> | <span class="he">נְתֹן</span> | <span class="he">תֵּת</span>
+| <span class="he">הלך</span> | $\nexists$ | <span class="he">לֶ֫כֶת</span>
+
+::: {.box .light}
+**נתנ*** is tricky _and common_
+
+Memorize **תֵּת*** as Q∞ of נתן
+:::
+
+## Biconsonantal
+
+* An easy one, as long as you've memorized your vocab!
+* The Q∞ of biconsonantal verbs is simply the lexical form
+    * **שׁוּב***
+    * **מוּת***
+    * **בּוֹא***
+    * **בּוֹשׁ***
+    * **דִּין***
+    * **בִּין***
+
+## Q∞ often is identical to QM2ms
+
+* As one is finite and the other is non-finite, the context should be obvious as to whether one person is giving a command to another person
+* Some verbs that lose the Imperfect $V_S = O$ in the QM, RETAIN $V_S = O$ in the Q∞
+* 3ה verbs have different word-final ה vowels as mentioned previously
+
+## ∞ take Type 1 Pronominal Suffixes
+
+* Q∞ and QM2ms with pronominal suffix are usually the same
+* Both shift vowels with $V_1 \ =$ Qamets Hatuf if pronominal suffix
+* Nun-type suffixes ONLY occur with imperfects and imperatives
+
+
+| No suffix | With Suffix
+| :- | :-
+| <span class="he">קְטֹל</span> | <span class="he">קָטְל</span>
+
+
+| Suffix PGN | With Suffix
+| :- | :-
+| 3ms | <span class="he">קָטְלוֹ</span>
+| 1cs | <span class="he">קָטְלִי</span>
+| 3mp | <span class="he">קָטְלָם</span>
+| 1cp | <span class="he">קָתְלֵ֫נוּ</span>
+
+::: {.box .caution}
+When affixed to an ∞ verb, the suffix can be the SUBJECT as well as the object.
+:::
+
+# Most ∞ have a prefixed preposition
+
+* There are 6595 ∞ in the Bible
+    * Only 896 do not have a prefixed preposition
+    * 68% have **ל***
+
+::: {.box .info}
+Since only ∞ and Participle can have a prefixed preposition, identifying and parsing the ∞ is usually easy!
+:::
+
+
+## Meaning of ∞
+
+* Often used as a verbal noun - "to hear" or "hearing"
+    * In English, "to hear", "to speak", or "to be" are examples of "infinitive" verbs.
+* ∞ plus prefix **ל*** 
+    * Try "to x" or "by xing"
+    * Sometimes indicates purpose or result: IN ORDER TO SEE the nakedness of the land = **לִרְאוֹת*** 
+    * Something imminent: The sun was ABOUT TO SET = **לָבוֹא***
+    * Verbal noun: It is good TO PRAISE Adonai = **לְהֹדוֹת***
+    * Verbal Noun: Obey BY WALKING in His ways = **לָלֶכֶת***
+* ∞ plus prefix **ב*** or **כ*** is often temporal
+    * Often included with **וַיְהִי*** or **וְהָיָה***
+    * Past time: WHEN Israel DWELT = **וַיְהִי בִּשְׁכֹּן יִשְֹרָאֵל***
+    * Future time: WHEN YOU CROSS = **וְהָיָה בְּעָבְרְכֶם***
+
+## Negating the Infinitive
+
+* The negative particles **אַל *** and **לֹא *** are not used to negate the ∞
+* **בִּלְתִּי *** and **לְבִלְתִּי*** are used
+* There is no difference in meaning between the two words, but **לְבִלְתִּי***  is more frequent
+* Not to do all my commandments (Lev 26:15) = **לְבִלְתִּי עֲשׂוֹת אֶת־כָּל־מִצְוֺתַי***
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/wrlzC0OAxoc){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/wrlzC0OAxoc" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9eYgruFN7bM){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/9eYgruFN7bM" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 20 A. Vocab`
+* `Lesson 20 B. Grammar` 
+* `Lesson 20 C. Workbook`
+* `Lesson 20 D. Study Verses`
+
+## X Worksheets: NameOfWorksheet {-}
+
+<describe the worksheet>
+
+[Name of worksheet](){target="_blank"}
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Genesis 22:1-19 {-}
+
+[Blank copy of Genesis 22:1-19](https://docs.google.com/document/d/1zpIOg9zyDv_qPK9f69QexbIlBhH6wKO74YkPz3xpurI/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-22.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 
 
 <!--chapter:end:20-Qal_Infinitive_Construct.Rmd-->
 
 # Qal Infinitive Absolute {.QA}
 
+
+Say something general bridging the desired outcome above with the learning objectives below
+
+::: {.box .map}
+__LESSON ITINERARY__
+
+1. Strong and weak verb spelling
+1. Meaning
+1. Compare Infinitve Construct with Infinitive absolute
+1. The articles יֵשׁ and אֵין
+:::
+
+::: {.box .stop}
+__EQUIPMENT CHECK__
+
+Before continuing, can you describe the following concepts?
+
+* The spelling and meaning of Qal Infinitive Construct
+
+:::
+
+## First Thought {-}
+
+### <span class="he">אָנֹכִ֗י אֵרֵ֤ד עִמְּךָ֙ מִצְרַ֔יְמָה וְאָנֹכִ֖י אַֽעַלְךָ֣ גַם־עָלֹ֑ה</span> {-}
+
+*"I will go down with you to Egypt, and I will also surely bring you up again (Genesis 46:4)*
+
+Our _Hebrew Quest_ Study Passage for this Lesson is the Pristly Blessing from Numbers 6, which begins, "the LORD bless you and keep you...". The LORD kept his promises to keep Israel when the nation was in Egypt.  This Lesson's grammar subject is the Infinitive Absolute.  This has no direct equivalent in English. In Hebrew, it is often used to emphasize another verb. When this happens, the verb being emphasized will be repeated, but in the Infinitive Absolute form. In, **אַעַלְךָ גַם־עָלֹה***, the literal translation might be "I will bring you up again bringing up", but what it means is "I will SURELY bring you up again," as if to say, "Don't worry! I am definitely bringing up out of Egypt. In fact, there is zero chance I will not bring you up!"  
+
+This is a great picture of what the LORD means when He says He will "keep" us!
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/21-5.Gen 46.4.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+<div class="figure" style="text-align: center">
+<img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-92)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+
+## QA
+
+* Spelling
+    * Has a distinctive $V_2 = \hat O$ (Holem+Vav)
+    * **קָטוֹל*** or **קָטֹל*** (defective spelling)
+    * If the Q∞ was "uh-oh", then the QA is "ah-oh"
+    * Most weak verbs follow the "ah-oh" pattern
+        * 3ע/ח verbs will take a Furtive Patach under $R_3$, but this affects pronunciation only (not parsing or translation)
+        * 3ה verbs can appear in two forms
+            * Holem+Hei = **עָשׂה ***
+            * Holem+Vav with no Hei = **עָשׂוֹ***
+        * Biconsonantal verbs, including I- and U-class typically take the Holem+Vav/Holem $V_S$
+            * **קוֹם *** or **שׂוֹם***
+            * O-class look the same in QA/Q∞/QM2ms = **בּוֹא ***
+                * Sometimes QA is defective = **בֹּא***
+        * Geminate verbs retain all three letters with $V_2 = \hat O$ - **סָבוֹב***
+* Parsing (parsing code: A)
+    * Never inflects for person, number, or gender
+    * Never has a pronominal suffix
+    * Never has a prefixed preposition
+
+## 3ה endings
+
+| | Hebrew
+| :- | :-
+| P | <span class="he">בָּנָה</span>
+| I | <span class="he">יִבְנֶה</span>
+| M | <span class="he">בְּנֵה</span>
+| ∞ | <span class="he">בְּנוֹת</span>
+| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span>
+
+## Meaning of Infinitive Absolute
+
+* Emphasize a finite verb from the same root - the Infinitive Absolute form may appear before or after the finite verb
+    * In terms of certainty
+        * 2 Kings 1:16: **מוֹת תָּמוּת*** = you will surely die (lit: dying you will die)
+        * A mnemonic might be: "there is ABSOLUTE certainty you will die!"
+    * In terms of extent
+        * Judges 1:28: **וְהוֹרֵישׁ לֹא הוֹרִישׁוֹ*** = he did not completely drive him out (note these verbs are Hiphil, not Qal, hence no "ah-oh")
+* Substitute for another verb conjugation
+    * Often imperative - Deuteronomy 5:12: **שָׁמוֹר אֶת־יוֹם הַשַּׁבָּת*** = Observe Shabbat!
+* Ongoing action, often contemporaneous with another action
+    * 2 Sam 15:30: **וְעָלוּ עָלֹה וּבָכֹה*** = they went up, weeping as they went (lit: they went up, going up and weeping)
+
+
+## Infinitive Construct vs Infinitive Absolute
+
+| | ∞ | A
+| :- | :- | :-
+PGN | No PGN | No PGN
+Paradigm | **קְטֹל*** | **קָטוֹל***
+Sound | uh-oh | ah-oh
+1י and 1נ | Drop | Never Drop
+3ה | use **וֹת*** | 3ה use **ה ֹ *** or **וֹ***
+Bicons | use Lexical $V_S$ | use **וֹ***
+Pron. suffix | Yes | Never
+Preposition prefix | Usually | Never
+Meaning | purpose/result | emphasize certainty
+English equivalent | Verbal noun "to do" or "doing" | No direct equivalent
+
+## **יֵשׁ *** and **אֵין *** 
+
+* These are particles that expresses the existence or non-existence of something or someone
+    * Mnemonics: 
+        * יֵשׁ sounds like "yes" as in "yes there are"
+        * אֵין sounds like "ain't" as in "ain't nothing or nobody"
+* Do not inflect for gender or number 
+    * אֵין could mean "there is not" or "there are not"
+* When prefixed with **לְ***, indicates possession or non-possession
+    * We saw this way back in the Lesson 3 `Study Verses`
+    * Genesis 44:20 - **יֶשׁ־לָנוּ אָב זָקֵן*** = we have an elderly father (lit: there is to us a father old)
+* Pronominal suffixes occur on יֵשׁ only 9 times, compared with 104 times on אֵין 
+    * 2 Kings 17:34: **אֵינָם יְרֵאִים*** = they do not fear
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/UWb_3JSv-mk){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/UWb_3JSv-mk" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/4-EL_lcP2xU){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/4-EL_lcP2xU" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 21 A. Vocab`
+* `Lesson 21 B. Grammar` 
+* `Lesson 21 C. Workbook`
+* `Lesson 21 D. Study Verses`
+
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Numbers 6: Priestly Blessing {-}
+
+[Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+
 <!--chapter:end:21-Qal_Infinitive_Absolute.Rmd-->
 
 # Qal Participle {.QPt}
 
+
+> To comprehend Biblical Hebrew, we must be able to . . . 
+
+Say something general bridging the desired outcome above with the learning objectives below
+
+::: {.box .map}
+__LESSON ITINERARY__
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+__EQUIPMENT CHECK__
+
+Before continuing, can you describe the following concepts?
+
+* 
+*
+:::
+
+##  First Thought {-}
+
+###  <span class="he">וְיִבְטְח֣וּ בְ֭ךָ יוֹדְעֵ֣י שְׁמֶ֑ךָ כִּ֤י לֹֽא־עָזַ֖בְתָּ דֹרְשֶׁ֣יךָ יְהוָֽה׃ </span> {-}
+
+*And those who know Your name will put their trust in You, For You, O LORD, have not forsaken those who seek You. (Psalms 9:11)*
+
+Our _Hebrew Quest_ study passage for this lesson is Matthew 13 and the parable of the sower. Yeshua clarifies that the "good soil" is someone who hears the word, understands it, and then does something with it.  In contrast the soil among the thorns is someone who hears the word but doesn't fully trust in Adonai or his promises, like the promise not to forsake us in Psalms 9:11.
+
+It's become a cliche for teachers to ask, "which of the four soils are you?"  In truth for most of us, our lives at some point have reflected each of four soils.  So the better question to ask might be:
+
+> "Today, in the next 1440 minutes, how can I make sure that I am the 'good soil', trusting in Adonai, and producing a yield for the Kingdom?"
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/22-10.Psalms 9.11.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+<div class="figure" style="text-align: center">
+<img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-93)Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+</div>
+
+
+
+## Participles are Verbal Adjectives
+
+* Participles are non-finite because they do not have 1st, 2nd, or 3rd person
+* Since Participles are adjectives, the DO inflect for gender and number
+    * They use the same adjectival endings we learned many lessons ago: MS, FS, MP, FP
+    * They are used like adjectives
+        * attributive: I saw running water
+            * Match the noun in gender, number, and definitness
+            * Attributive Always After (the noun), Article Always Agrees (with definiteness of noun)
+        * predicative: The water is running
+            * Matches the subject in gender and number, but not definiteness
+            * Predicate dePrived of the Article, Perhaps Precedes (the noun)
+        * substantival: running is good exercise
+            * Has the gender and number of the noun it is replacing
+* The Qal (and only the Qal) stem has both active and passive particles
+    * Active: 
+        * Parsing code QPtms - Qal Participle masculine singular (no need to say "active")
+        * "He who blesses"
+        * Every Qpt can be identified by $V_1 = \hat O$  (defective Holem is more common than plene Holem+Vav
+            * Exception: biconsonantals have $V_1 = \bar A$ (Qamets)
+    * Passive: 
+        * Parsing code QPpMS - Qal Passive Participle Masculine Singular (important to denote "passive")
+        * "Blessed are you"
+        
+## Qal Participle
+
+* Participles use adjective endings and can appear in Absolute or Construct forms
+* Active
+    * $V_1 = \bar O$ defective: Holem (more common than plene Holem+Vav)
+    * $V_2$ reduces before adjective endings
+    * The QPtFS "T" form is more common
+* Passive: 
+    * Every QPp as $V_2 = \hat U$ plene: Shureq (more common than defective Qibbuts)
+    * Since $V_2 = \hat x$ it can't reduce; therefore $V_1$ will reduce before adjective endings
+    * No FS "T form
+
+ |Abs | Con
+:- | :- | :-
+QPtMS | <span class="he">קֹטֵל</span> | <span class="he">קֹטֵל</span>
+QPtFS | <span class="he">קֹטֶ֫לֶת</span> or <span class="he">קֹטְלָה</span> | <span class="he">קֹטְלַת</span>
+QPtMP | <span class="he">קֹטְלִים</span> | <span class="he">קֹטְלֵי</span>
+QPtFp | <span class="he">קֹטְלוֹת</span> | <span class="he">קֹטְלוֹת</span>
+| | |
+QPpMS | <span class="he">קָטוּל</span> | <span class="he">קְטוּל</span> 
+QPpFS | <span class="he">קְטוּלָה</span> | <span class="he">קְטוַּת</span> 
+QPpMP | <span class="he">קְטוּלִים</span> | <span class="he">קְטוּלֵי</span> 
+QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּלוֹת</span> 
+
+## Prefixes and Suffixes
+
+* Like any adjective, the conjunction, the definite article, the interrogative article, and prepositions can be added to Participles
+    * Infinitive constructs and participles are the only verb conjugations that can take a prefixed preposition
+* Type 1 pronominal suffixes may be added to singular participles
+* Type 2 pronominal suffixes may be added to plural participles
+
+
+
+## Biconsonantal 
+
+* QPt $V_1 = \bar A$ (Qamets) - always - DOES NOT REDUCE
+    * Irregular: **מוּת*** becomes **מֵת*** in Qpt
+* QPp $V_1 = \hat U$ or the lexical vowel $\hat I$ (Hireq+Yod)
+* Ambiguities
+    * **קָם*** - QP3ms, QPtMS
+    * **בּוֹא*** - QM2ms, Q∞, QA
+    * **קָמָה*** is QPtFS, but **קָ֫מָה*** (note accent) is QP3fs
+    
+## 3ה were originally 3י
+
+* The Yod reappears as $R_3$ in all forms of the QPp (and the non "T" form of QPtFS)
+
+### We can now complete our 3ה $V_2$ table {-}
+
+* If no sufformative, use:
+
+| Conj. | Hebrew
+| :- | :-
+| P | <span class="he">בָּנָה</span>
+| I and Pp | <span class="he">יִבְנֶה</span>
+| M | <span class="he">בְּנֵה</span>
+| ∞ | <span class="he">בְּנוֹת</span>
+| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span>
+| QPp | <span class="he">בָנוּי</span>
+
+* If sufformatives begins with a vowel, use the sufformative vowel as $V_2$
+* If sufformative begins with a consonant
+    * Perfect $V_2$ - Hireq+Yod
+    * Imperfect $V_2$ - Seghol+Yod
+  
 ## Stem Comparison Table
 
 * Now that we have concluded our discussion on the Qal stem, take a moment to review this table showing the Perfect 3ms, the Imperfect 3ms, and the Participle ms strong verb forms
@@ -5126,6 +6586,85 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 * We will update this table as we conclude each additional stem in Unit 4
 
 <img src="images/22_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/6inZWylM5U8){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/6inZWylM5U8" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/uCkJD0fhT74){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/uCkJD0fhT74" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 22 A. Vocab`
+* `Lesson 22 B. Grammar` 
+* `Lesson 22 C. Workbook`
+* `Lesson 22 D. Study Verses`
+
+## Worksheets: All Qal Paradigms {-}
+
+The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
+
+[All Qal paradigms worksheet](22_qal_paradigms_strong_verbs.pdf){target="_blank"}
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Matthew 13 {-}
+
+[Blank copy of Matthew 13](https://docs.google.com/document/d/1rl--X01fxApzUiadlxg68F6qVcx_nEsYlJP5LCGSsxo/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3. Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)
+    * [Part 1](https://holylanguage.com/matthew-13.1.php){target="_blank"}
+    * [Part 2](https://holylanguage.com/matthew-13.2.php){target="_blank"}
+
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
 
 <!--chapter:end:22-Qal_Participle.Rmd-->
 
@@ -5176,7 +6715,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-95)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5532,7 +7071,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-90)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5961,7 +7500,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6198,7 +7737,7 @@ __LESSON ITINERARY__
 
 <div class="figure" style="text-align: center">
 <img src="images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-101)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6560,7 +8099,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6830,7 +8369,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7095,7 +8634,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, a good 
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7225,7 +8764,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-103)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7566,7 +9105,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7742,7 +9281,7 @@ The Hebrew Quest Study Passage for this lesson is the story of David and Goliath
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8026,7 +9565,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8172,7 +9711,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-116)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8441,7 +9980,7 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-118)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8636,7 +10175,7 @@ You have studied 20 distinct passages, most of which were full chapters of the H
 
 <div class="figure" style="text-align: center">
 <img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Strength and Endurance</p>
+<p class="caption">(\#fig:unnamed-chunk-120)Strength and Endurance</p>
 </div>
 
 
@@ -8647,7 +10186,7 @@ If one wants to build strength, she might use the weight machine.  If one wants 
 
 <div class="figure" style="text-align: center">
 <img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-114)Anki Home Screen</p>
+<p class="caption">(\#fig:unnamed-chunk-121)Anki Home Screen</p>
 </div>
 
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
@@ -8700,7 +10239,7 @@ Follow the steps outlined on the Quick Start page.
 Your settings should look like this:
 <div class="figure" style="text-align: center">
 <img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-122)Settings</p>
 </div>
 
 [Return to Quick Start page](#get_started)
@@ -8727,7 +10266,7 @@ Here are the steps:
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-116)Anki web and mobile views</p>
+<p class="caption">(\#fig:unnamed-chunk-123)Anki web and mobile views</p>
 </div>
 
 ## How do I navigate within Anki? {-}
@@ -8735,14 +10274,14 @@ Here are the steps:
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
 <div class="figure" style="text-align: center">
 <img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-117)Anki - subdecks collapsed</p>
+<p class="caption">(\#fig:unnamed-chunk-124)Anki - subdecks collapsed</p>
 </div>
     * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
 * Many cards have "hints" - click on the `hint` button to reveal
     * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
     <div class="figure" style="text-align: center">
     <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-118)Revealing a hint in Anki</p>
+    <p class="caption">(\#fig:unnamed-chunk-125)Revealing a hint in Anki</p>
     </div>
 * For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
@@ -8753,7 +10292,7 @@ We suggest using the following guidelines to select the most appropriate answer.
 
 <div class="figure" style="text-align: center">
 <img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-119)Anki Response Definitions</p>
+<p class="caption">(\#fig:unnamed-chunk-126)Anki Response Definitions</p>
 </div>
 
 * There is no “value judgment” to hitting `Again` – you will learn on your timeline
@@ -8798,7 +10337,7 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 
 <div class="figure" style="text-align: center">
 <img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)Keep your daily Anki streak going!</p>
+<p class="caption">(\#fig:unnamed-chunk-127)Keep your daily Anki streak going!</p>
 </div>
 
 ## How do I know when I'm done with a deck? {-}
@@ -8812,7 +10351,7 @@ So while this could be an indefinite process, we do have some guidelines as they
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-128)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 See the next two pages for more information on how to locate your statistics.
@@ -8832,7 +10371,7 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-129)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 
@@ -8851,13 +10390,13 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
     * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
 <div class="figure" style="text-align: center">
 <img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-123)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-130)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
     * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
     
 <div class="figure" style="text-align: center">
 <img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-124)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-131)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 <!-- Please see [`Graduation` process page]() for additional information -->
 
@@ -8883,7 +10422,7 @@ There are a few different terms Anki uses for different stages of card maturity:
     * To add an image simply copy and paste into the image field
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-125)Adding a custom image in Anki</p>
+<p class="caption">(\#fig:unnamed-chunk-132)Adding a custom image in Anki</p>
 </div>
 
 ## Can I modify the layout of a card? {-}
@@ -8918,7 +10457,7 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-126)With `Custom Study` you can temporarily increase your daily new cards</p>
+<p class="caption">(\#fig:unnamed-chunk-133)With `Custom Study` you can temporarily increase your daily new cards</p>
 </div>
 
 
@@ -9127,7 +10666,7 @@ Finally, we thank YOU for your interest in this course!
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-129)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-136)Chris Flanagan</p>
 </div>
 
 
@@ -9162,7 +10701,7 @@ If you received this book and you are not a member of Holy Language Institute, [
 Say something general bridging the desired outcome above with the learning objectives below
 
 ::: {.box .map}
-**LESSON ITINERARY**
+__LESSON ITINERARY__
 
 1. learning_objective_1
 1. learning_objective_2
@@ -9174,7 +10713,7 @@ Say something general bridging the desired outcome above with the learning objec
 :::
 
 ::: {.box .stop}
-**EQUIPMENT CHECK**
+__EQUIPMENT CHECK__
 
 Before continuing, can you describe the following concepts?
 
@@ -9205,7 +10744,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-130)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-137)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 

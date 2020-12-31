@@ -1,2 +1,236 @@
 # Vav Consecutive {.wc}
 
+Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: **וּכְתַטְתָּם***. The initial ו means "and", so this one word is translated "AND you will write them".  It also has a grammatical purpose of changing the verb's meaning from a past tense to a future tense.  **כָּתַטְתָּ*** means "you (ms) wrote" (perfect), but putting a ו as prefix changed the meaning to "and you will write" (imperfect).  We'll learn more about these changes in this Lesson.
+
+The terminology on this topic is a bit fluid. The term "Waw Consecutive" is significantly more prevalent than "Vav Consecutive", so we will stick with the seminary style phrasing for this chapter.
+
+| Hebrew | Description | Also known as | Shorthand
+| :- | :- | :- | :-
+**וְקָטַל*** | Qal Perfect + ו | Weqatal | QP +
+**וְיִקְטֹל*** | Qal Imperfect + ו | Weyiqtol | QP +
+**וְקָטַל*** | Qal Perfect Waw Consecutive  | Weqatal | QPwc
+**יַיִּקְטֹל*** | Qal Imperfect Waw Consecutive  | Wayyiqtol | QIwc
+
+::: {.box .map}
+**LESSON ITINERARY**
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+**EQUIPMENT CHECK**
+
+Before continuing, can you describe the following concepts?
+
+* 
+*
+:::
+
+## First Thought {-}
+
+### <span class="he">וַיַּשְׁכִּ֣מוּ בַבֹּ֔קֶר וַיַּֽעֲל֥וּ אֶל־רֹאשׁ־הָהָ֖ר </span> {-}
+
+*In the morning, however, they rose up early and went up to the ridge of the hill country (Numbers 14:40)*
+
+The conjunction ו is a powerful linguistic tool in Scripture.  Later in this Lesson, we will study Genesis 1:1-5 from _Hebrew Quest_.  Verse 2 begins with the conjunction prefixed to a noun, while verses 3-5 each begin with what is called the "Waw-Conjunction", which is to say the Vav is prefixed to a verb.
+
+Like the dawning of a new day, after you complete this lesson, a majority the verb forms that appear in the Hebrew Scriptures will be opened to you.  We hope you are as excited about taking this new step into a larger world as we are excited for you!
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/17-13-Numb.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/17_Masada sunrise over Dead Sea, dg030401281.jpg")
+``` 
+
+
+
+## Review of the Conjunction Vav
+
+* Usually spelled **וְ***
+    * Spelled **וּ*** before פ, מ, ב, or Sheva
+    I* Rule of Sheva can create **וִי***
+or the "hateph copy-cat",**וַעֲ***
+
+## Perfect + וְ: Spelling
+
+* Always first letter
+* Accent shift to ultima in 2ms and 1cs
+
+| | QP | + ו 
+| :- | :- | :- 
+3ms | <span class="he">קָטַל</span> | <span class="he">וְקָטַל</span>
+1cs | <span class="he">קָטַ֫לְתִּי</span> | <span class="he">וְקָטַלְתִּ֫י</span>
+3cp | <span class="he">קָטְלוּ</span> | <span class="he">וְקָטְ֫לוּ</span>
+
+## Perfect + וְ: Translating
+
+* Parsing code: Pwc (Perfect Waw Consecutive)
+* Often used for the next event in a future narrative
+* Usually translated as IMPERFECT
+    * Future: And I will study
+    * Modal: And I would/could/should study
+    * Imperfective: Amd I am/was/will be studying
+* After an imperative, usually translate as another imperative:
+    * Go and study!
+* Can be translated as the normal perfect (past tense)
+    * Parsing code in this case would be the perfect code "+ ו", as in QP3ms + ו
+    * The accent MAY be a clue
+        * **וְשָׁמַרְתִּ֫י*** = QPwc1cs - and I will guarded
+        * **וְשָׁמַ֫רְתִּי*** = QP1cs + ו - and I guarded
+    * Context is a better guide
+    
+
+## Imperfect + וְ: Spelling
+
+* Always first letter
+* Usually spelled וְ
+    * On the Perfect, there is no difference between the spelling of the Conjunction and the Waw Consecutive - both are, וְ
+    * On the Imperfect, the CONJUNCTION is spelled, וְ
+    * The Imperfect Waw CONSECUTIVE is spelled, וַיִּ
+
+| | QI | + ו 
+| :- | :- | :- 
+3ms | <span class="he">יִקְטֹל</span> | <span class="he">וְיִקְטֹל</span>
+1cs | <span class="he">אֶקְטֹל</span> | <span class="he">וְאֶקְטֹל</span>
+3cp | <span class="he">יִקְטְלוּ</span> | <span class="he">וְיִקְטְלוּ</span>
+
+## Imperfect with Vav often indicates purpose
+
+* Instead of "and", translate, "so that...may"
+    * "Shall I go call a Hebrew nurse SO THAT she MAY nurse the child for you?" (Ex 2:7)
+    * "Let's make a tower...SO THAT we MAY make a name for ourselves." (Gen 11:4)
+* Regular imperfect translations are possible (same as Pwc)
+
+## Imperfect Waw Consecutive: Spelling (Strong)
+
+* Vav + Patach + Dagesh Forte
+    * Similar to the independent preposition with the definite article
+* In the 1cs form, the Aleph preformative rejects the Dagesh, resulting in Compensatory Lengthening
+
+| | QI | QIwc
+| :- | :- | :- 
+3ms | <span class="he">יִקְטֹל</span> | <span class="he">וַיִּקְטֹל</span>
+1cs | <span class="he">אֶקְטֹל</span> | <span class="he">וָאֶקְטֹל</span>
+3cp | <span class="he">יִקְטְלוּ</span> | <span class="he">וַיִּקְטְלוּ</span>
+
+
+## Imperfect Waw Consecutive: Spelling (Weak)
+
+* 3ה verbs drop the suffix
+* Biconsonantal verbs change
+* Some other verbs change stem vowel to Seghol
+
+|3ms | QI | QIwc
+| :- | :- | :- 
+3ה | <span class="he">יִבְנֶה</span> | <span class="he">וַיִּבֶן</span>
+Bicons | <span class="he">יָקוּם</span> | <span class="he">וַיָּקָם</span>
+Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫אמֶר</span>
+
+## Imperfect Waw Consecutive: Translation
+
+### Usually translate Iwc as PAST TENSE {-}
+
+* Often used for the next event in a past-time narrative
+* Uses the opposite form from what we might expect:
+    * Iwc in a PAST narrative
+    * Pwc in a FUTURE narrative
+* He did X (the first verb will be P), and then he did Y (next verb is Iwc), and then he did Z (Iwc)
+* He will do X (first verb is I), then he will do Y (next verb is Pwc)
+
+## Summary
+
+* Iwc is most common **וַיִּקְטֹל***
+* Pwc is next **וְקָטֹל***
+* P+ו and I+ו are relatively uncommon
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/_usEc7vYIXI){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/_usEc7vYIXI" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/mfNf7nNcRPA){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/mfNf7nNcRPA" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 17 A. Vocab`
+* `Lesson 17 B. Grammar` 
+* `Lesson 17 C. Workbook`
+* `Lesson 17 D. Study Verses`
+
+## Worksheets: Qal Vav-Consecutive Paradigms {-}
+
+
+[Qal Vav-consecutive Paradigms](17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Genesis 1:1-5 {-}
+
+[Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/17/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+

@@ -1,2 +1,333 @@
 # Pronominal Suffixes on Verbs {.VerbSuffix}
 
+There is good news and bad news with pronominal suffixes.  The good news is that, in almost every case, you already know the suffixes and how they are used.  These are the same ones from Lesson 9.  In fact, Verbs ONLY use the "Type 1" suffixes.
+
+The more challenging aspects can include significant spelling and accent changes, which result in a few forms that are identical.  For these we can only depend on context to help us translate correctly.
+
+One of the first vocabulary words in _Hebrew Quest_ was **וּכְתַטְתָּם***.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
+
+
+
+
+
+::: {.box .map}
+__LESSON ITINERARY__
+
+1. learning_objective_1
+1. learning_objective_2
+1. learning_objective_3
+1. learning_objective_4
+1. learning_objective_5
+1. learning_objective_6
+1. learning_objective_7
+:::
+
+::: {.box .stop}
+__EQUIPMENT CHECK__
+
+Before continuing, can you describe the following concepts?
+
+* 
+*
+:::
+
+## X First Thought {-}
+
+### X <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
+
+*I have called upon You, for You will answer me, O God; Incline Your ear to me, hear my speech. (Psalms 17:6)*
+
+Imagine walking along a path like the one below on a day Yeshua taught in this very area. What would you be thinking and feeling?  
+
+* Would you be giddy, as if if you got special access to a famous entertainer or dignitary?  Would you try to get His autograph or a selfie with Him?
+* Would you be skeptical, wondering whether this Yeshua you have heard about is really "all that"?  In the back of your mind, would you even be questioning whether He is a fraud?
+* Would He be just another voice with a platform like all the people with thousands of followers on YouTube today?  
+* Or, would you know there is something special about Him? Would you have realized that Yeshua is God, come to bridge the divide between you and the Father?  
+
+Be honest.  
+
+Meditate on that as you work through this lesson and, especially, as you study the "Avinu" in the _Hebrew Quest_ Study Passage.
+
+
+<figure>
+    <figcaption>Listen to the verse in Hebrew:</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/19-14.Psalms 17.6.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg")
+``` 
+
+
+
+
+<!-- picture -->
+
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
+
+
+
+## Hebrew Direct Object Pronouns
+
+* We learned in Lesson 9 that Hebrew has a Definite Direct Object marker **אֵת*** that takes pronominal suffixes
+    *  For example, **אֹתִי*** is "me" and **אֹתְךָ*** is "you (ms)"
+* Hebrew also attaches pronominal suffixes to verbs
+    * **אֲכָלוֹ*** - "he ate IT"
+
+## Verbs use Type 1 Suffixes
+
+* This is good news as you will be able to recognize the suffix immediately (provided you have memorized them from Lesson 9!).
+* The 1cp pronominal suffix is **נוּ***, which is the same as the P1cp sufformative
+    * The preceding vowel can help in most cases:
+        * If sheva, it's P1cp
+        * If vowel, then pronominal suffix
+
+## QP Vowel Changes
+
+* Accent shifts to sufformative
+* $V_1$ reduces
+* $V_S$ is LONG in the 3rd person (usually reduces in 3cp)
+* 2fs and 1cs are identical
+* QP2fp - $\nexists$<small>^[<small>This is the mathematical symbol for "does not exist"; in our context, it means there are no examples of the QP2fp with a pronominal suffix in Scripture.</small>]</small>
+
+
+|  | QP | QP + Pron.
+| :- | :- | :-
+| 3ms | <span class="he">קָטַל</span> | <span class="he">קְטָל</span>
+| 3fs | <span class="he">קָטְלָה</span> | <span class="he">קְטָלַ֫ת</span>
+| 2ms | <span class="he">קָטַ֫לְתָּ</span> | <span class="he">קְטַלְתּ֫</span>
+| 2fs | <span class="he">קָטַלְתְּ</span> | <span class="he">קְטַלְתִּ֫י</span>
+| 1cs | <span class="he">קָטַ֫לְתִּי</span> | <span class="he">קְטַלְתִּ֫י</span>
+| 3cp | <span class="he">קָטְלוּ</span> | <span class="he">קְטָל֫וּ</span>
+| 2mp | <span class="he">קְטַלְתֶּם</span> | <span class="he">קְטַלְתּ֫וּ</span>
+| 1cp | <span class="he">קָטַ֫לְנוּ</span> | <span class="he">קְטַלְנ֫וּ</span>
+
+## QI Vowel Changes 
+
+* Imperfect $V_S$ reduces before a pronominal suffix, unless:
+    * If $V_S$ is Patach, THEN it lengthens to Qamets
+* QI3fp/QM2fp - $\nexists$
+
+|  | QI | QI + Pron.
+| :- | :- | :-
+| 3ms | <span class="he">יִקְטֹל</span> | <span class="he">יִקְטְל</span>
+| 3fs | <span class="he">תִּקְטֹל</span> | <span class="he">תִּקְטְל</span>
+| 2ms | <span class="he">תִּקְטֹל</span> | <span class="he">תִּקְטְל</span>
+| 2fs | <span class="he">תִּקְטְלִי</span> | <span class="he">תִּקְטְלִי</span>
+| 1cs | <span class="he">אֶקְטֹל</span> | <span class="he">אֶקְטְל</span>
+| 3mp | <span class="he">יִקְטְלוּ</span> | <span class="he">יִקְטְלוּ</span>
+| 2mp | <span class="he">תִּקְטְלוּ</span> | <span class="he">תִּקְטְלוּ</span>
+| 1cp | <span class="he">נִקְטֹל</span> | <span class="he">נִקְטְל</span>
+
+## QM Vowel Changes
+
+* QM2ms is Qamets Hatuf + Silent Sheva
+* QM2fs/QM2fp - $\nexists$
+
+|  | QM | QM + Pron.
+| :- | :- | :-
+| 2ms | <span class="he">קְטֹל</span> | <span class="he">קָטְל</span>
+| 2mp | <span class="he">קִטְוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
+
+
+## Imperative/Perfect Ambiguity when normal Imperative $V_S = A$
+
+* With a pronominal suffix, Imperative $V_S$ lengthens to Qamets instead of reducing
+    * Stative, 2G, and 3G verbs do this
+* QM2ms+suffix looks like QP3ms+suffix
+* QM2mp+suffix looks like QP3cp+suffix
+* Context will determine whether the verb is directed TO someone (2nd person) or is ABOUT someone (3rd)
+
+| QP/suf | QM/Suf $V_S = A$ | QM/Suf $V_S =O$
+| :- | :- | :-
+| <span class="he">קְטָל</span> | <span class="he">קְטָל</span> | <span class="he">קָטְל</span>
+| <span class="he">יְטָלוּ</span> | <span class="he">יְטָלוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
+
+
+
+<!-- FOR STRONG VERB CHAPTERS -->
+
+## X <stem> Verb Stem Table 
+
+
+
+## X <stem> Meanings
+
+
+
+## X <stem> Strong Word-initial Combinations 
+
+
+## X <stem> Strong Stem Vowels 
+
+## X <stem>: what to memorize
+
+## X <stem> Perfect Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | *****  | 3cp | ***** 
+| 3fs | ***** | 
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+| 1cs | ***** | 1cp | *****
+
+<figure>
+    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+## X <stem> Imperfect Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | *****  | 3mp | ***** 
+| 3fs | ***** | 3fp | *****
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+| 1cs | ***** | 1cp | *****
+
+<figure>
+    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+## X <stem> Imperative Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 2ms | ***** | 2mp | *****
+| 2fs | ***** | 2fp | *****
+
+## X <stem> Infinitives Strong
+
+
+| Type | Paradigm 
+| :-  | :- 
+| ∞ | *****  
+| A | *****
+
+## X <stem> Participle Strong
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| ms | ***** | mp | *****
+| fs | ***** | fp | *****
+
+## X <stem> Parsing Examples
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
+
+* Word: <span class="he"> </span>
+    * $WI =$
+    * $Sufformative =$
+    * $Root =$ *****
+    * $V_S =$
+    * Result: 
+
+
+## Word Warm-up {-}
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/VnY-EzVTywk){target="_blank"}
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/VnY-EzVTywk" frameborder="0"></iframe>
+</div>
+
+
+## Verses Warm-up {-}
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/tY9vx7ZRSwQ){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/tY9vx7ZRSwQ" frameborder="0"></iframe>
+</div>
+
+## Anki {-}
+
+* `Lesson 19 A. Vocab`
+* `Lesson 19 B. Grammar` 
+* `Lesson 19 C. Workbook`
+* `Lesson 19 D. Study Verses`
+
+
+
+## X Ruth Pursuit {-}        
+
+:::  {.box .map}
+
+Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+:::
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
+
+## Hebrew Quest Study Passage: Matthew 6 {-}
+
+[Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/edit?usp=sharing){target="_blank"}
+
+
+1. Read through the passage straight through
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+## X Quest Quiz {-}
+
+[Open Quest Quiz #xx in a new window](){target="_blank"}
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## X Claim your next `Twelve Tribes Badge`! {-}
+
+Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+

@@ -168,7 +168,7 @@ To identify QI from a 1G verb:
 | 3mp | <span class="he">יַאַסְפוּ</span> | <span class="he">יֹאמְרוּ</span> | <span class="he">יִקְטְלוּ</span>
 
 ::: {.box .info}
-You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֵר is an "angry baker" verb.
+You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֶר is an "angry baker" verb.
 :::
 
 ## Geminate

@@ -5,7 +5,7 @@
 Say something general bridging the desired outcome above with the learning objectives below
 
 ::: {.box .map}
-**LESSON ITINERARY**
+__LESSON ITINERARY__
 
 1. learning_objective_1
 1. learning_objective_2
@@ -17,7 +17,7 @@ Say something general bridging the desired outcome above with the learning objec
 :::
 
 ::: {.box .stop}
-**EQUIPMENT CHECK**
+__EQUIPMENT CHECK__
 
 Before continuing, can you describe the following concepts?
 
