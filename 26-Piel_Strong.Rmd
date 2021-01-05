@@ -303,12 +303,6 @@ include_graphics("images/26_stemcomp.png")
 <iframe class="responsive-iframe" src="https://youtube.com/embed/NGT8fiuGGp0" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 26 A. Vocab`
-* `Lesson 26 B. Grammar` 
-* `Lesson 26 C. Workbook`
-* `Lesson 26 D. Study Verses`
 
 ## Worksheets: Piel Strong Paradigms {-}
 

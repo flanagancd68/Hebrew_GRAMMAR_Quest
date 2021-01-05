@@ -204,7 +204,7 @@ When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the na
 * As the above examples illustrate, this is not a hard-and-fast-rule
 :::
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](){target="_blank"}
 
@@ -214,7 +214,7 @@ When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the na
 </div>
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
@@ -222,16 +222,16 @@ When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the na
 <iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Ruth Pursuit {-}        
 
-* `Lesson xx A. Vocab`
-* `Lesson xx B. Grammar` 
-* `Lesson xx C. Verses`
-* `Lesson xx D. Workbook`
+::: {.box .map} 
 
+There is no formal quest for this lesson, but consider the following points based on the material in Lesson 23:
 
+* Note the disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is supplemental, background information. 
+* The Conjunctive Vav in Ruth 1:7 serves to begin a more detailed, focused narrative account of Naomi's return
 
-## `Hebrew Quest Study Passage: Psalm 19` {-}
+## Hebrew Quest Study Passage: Psalm 19 {-}
 
 [Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/edit?usp=sharing){target="_blank"}
 

@@ -279,26 +279,10 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 <iframe class="responsive-iframe" src="https://youtube.com/embed/tY9vx7ZRSwQ" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 19 A. Vocab`
-* `Lesson 19 B. Grammar` 
-* `Lesson 19 C. Workbook`
-* `Lesson 19 D. Study Verses`
+## Ruth Pursuit {-}        
 
-
-
-## X Ruth Pursuit {-}        
-
-:::  {.box .map}
-
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
-:::
-
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
-
-
+Most verbal pronominal suffixes in Ruth 1 are on Qal Infinitive Construct conjugations.  We will study these in lesson 20.  There is no `Ruth Pursuit` for lesson 19.
 
 ## Hebrew Quest Study Passage: Matthew 6 {-}
 

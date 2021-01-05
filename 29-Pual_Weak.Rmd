@@ -88,12 +88,6 @@ In every respect except for $V_S = A$, this is identical to the Polel stem for t
 <iframe class="responsive-iframe" src="https://youtube.com/embed/YiO_gyPz-nM" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 29 A. Vocab`
-* `Lesson 29 B. Grammar` 
-* `Lesson 29 C. Workbook`
-* `Lesson 29 D. Study Verses`
 
 
 

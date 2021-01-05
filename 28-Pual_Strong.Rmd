@@ -9,6 +9,8 @@ The Pual occurs 423 times in the Hebrew Bible:
 * Participle: 190
 * Never in the Imperative and only once each in Infinitives.
 
+There are no Pual verbs in Ruth chapter 1 so lesson 29 will not have a `Ruth Pursuit` activity.
+
 ::: {.box .map}
 <span class="he">LESSON ITINERARY<span class="he">
 
@@ -227,12 +229,6 @@ include_graphics("images/28_stemcomp.png")
 <iframe class="responsive-iframe" src="https://youtube.com/embed/x6Sg3_NbX3w" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 28 A. Vocab`
-* `Lesson 28 B. Grammar` 
-* `Lesson 28 C. Workbook`
-* `Lesson 28 D. Study Verses`
 
 ## Worksheets: Pual Paradigm {-}
 

@@ -182,7 +182,7 @@ It is important to know the gender, number, and where necessary the person of ea
 
 If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit extra.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs.  Keep at it!  You're doing awesome!
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/kNfZ8BblobA){target="_blank"}
 
@@ -191,7 +191,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 </div>
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/XXn6G8EWmn0){target="_blank"}
 
@@ -200,15 +200,15 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 </div>
 
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 08 A. Vocab`
-* `Lesson 08 B. Grammar` * `Lesson xx C. Workbook` 
+* `Lesson 08 B. Grammar`
 * `Lesson 08 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate pronouns
 * `Lesson 08 D. Verses`
 
-## `Worksheets: Pronouns` {-}
+## Worksheets: Pronouns {-}
 
 We have two worksheets for this lesson. Make sure you do the Anki work first, before tackling these worksheets.
 
@@ -218,15 +218,28 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 2. [Demonstrative Pronouns](./images/08_demonstrative_paradigm.pdf){target="_blank"}
 
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-1. Identify the first instance of the relative pronoun (Yellow)
-2. Find the three uses of the interrogative particle (Green)
-3. Find at least one of the following independent pronouns (Light Blue): 3MS, 3FS, 1CS
-4. Find one near demonstrative pronoun (FS) (Pink)
-    * Translate the demonstrative phrase (answer on last page of answer key)
+Just as the vocabulary for Lessons 8 and 9 are a bit longer, so too are the `Ruth Pursuit` exercises.  There are 33 total "finds" in `Ruth Pursuit` #8 and 34 in `Ruth Pursuit` #9.  Be patient and you'll find them all!
+
+1. Pronoun Vocabulary (yellow)
+    1. The relative pronoun meaning "who, whom, that, which" and the related pronoun meaning "as, when"
+    2. Independent Pronouns: I, he, she, them, they you (may have prepositional prefix)
+2. Interrogative (green)
+    1. Interrogative pronouns from Lesson 8 vocabulary
+    2. The idiom <span class="he">הַעוֹד־לִי</span>, means "have I yet?" or "do I have?"
+    2. Other uses of the interrogative particle
+2. Other vocabulary (blue)
+    1. because/for/if
+    2. also/even
+    3. Therefore (also has interrogative particle)
+4. Find one near demonstrative pronoun (also has interrogative particle) (Pink)
+    * Translate the demonstrative
+    
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}

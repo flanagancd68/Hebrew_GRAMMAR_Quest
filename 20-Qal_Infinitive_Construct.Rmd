@@ -211,28 +211,21 @@ Since only ∞ and Participle can have a prefixed preposition, identifying and p
 <iframe class="responsive-iframe" src="https://youtube.com/embed/9eYgruFN7bM" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 20 A. Vocab`
-* `Lesson 20 B. Grammar` 
-* `Lesson 20 C. Workbook`
-* `Lesson 20 D. Study Verses`
+## Ruth Pursuit {-}   
 
-## X Worksheets: NameOfWorksheet {-}
+::: {.box .map} 
+YOUR QUEST
 
-<describe the worksheet>
-
-[Name of worksheet](){target="_blank"}
-
-## X Ruth Pursuit {-}        
-
-:::  {.box .map}
-
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+1. Identify, parse, and translate the eleven Q∞
+    * Identify pronominal suffixes in the parsing, when present
+    * All but two of these have prepositional prefixes
+2. Identify the Lesson 20 vocabulary word that negates an Infinitive (blue)
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #20](./images/20_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
 
 
 

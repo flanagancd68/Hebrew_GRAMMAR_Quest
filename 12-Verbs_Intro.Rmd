@@ -344,6 +344,29 @@ Note: See Unit 3 Introduction for a discussion of the cantillation accent marks 
 
 
 
+## Ruth Pursuit {-}        
+
+::: {.box .map} 
+YOUR QUEST
+
+Find the following miscellaneous words:
+
+    * <span class="he">בְּמֵעַי</span> - "in my belly/womb" (yellow)
+    * <span class="he">תִקְוָה</span> - "hope." (green)
+        * The Israeli national anthem is called <span class="he">הַתִּקְוָה</span>. 
+        * [Watch the _Hebrew Quest_ Lesson on "HaTiqvah"](https://holylanguage.com/hebrew-history-8.php){target="_blank"}
+    * <span class="he">בִּתְחִלַּת</span> - "in the beginning" (pink)
+    * <span class="he">קְצִיר</span> - "harvest of" (blue)
+    * Vocabulary word for "no, not" (immediate and specific prohibition) - gray
+
+:::
+
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+
+* [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
 ## Hebrew Quest Study Passage: Proverbs Study #1-4 {-}
 
 [Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/edit?usp=sharing){target="_blank"}

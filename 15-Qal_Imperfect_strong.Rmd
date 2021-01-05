@@ -234,33 +234,27 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 <iframe class="responsive-iframe" src="https://youtube.com/embed/fellWe2bUt8" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 15 A. Vocab`
-* `Lesson 15 B. Grammar` 
-* `Lesson 15 C. Workbook`
-* `Lesson 15 D. Study Verses`
-
 ## Worksheets: Qal Imperfect Strong Paradigm {-}
 
 > Complete the paradigm from memory at least once, then return here and continue in the guidebook.
 
 [Qal Imperfect Strong Paradigm](15_qal_imperfect_strong_paradigm.pdf){target="_blank"}
 
-## X Ruth Pursuit {-}        
 
-### X Your Quest: {-}
+## Ruth Pursuit {-}   
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+::: {.box .map} 
+YOUR QUEST
+
+Identify and translate the Qal Verbs below.  
+
+* היה QP1cs
+* גדל QI3mp
+
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #15](./images/15_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 

@@ -297,13 +297,13 @@ Then after watching these, go ahead and jump into `Anki`.
   * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
   * Be patient and stick with it - you'll get it!
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/h0Ni1_Zya2U){target="_blank"}
 
 <iframe width="768" height="432" src="https://www.youtube.com/embed/h0Ni1_Zya2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 * Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
      
@@ -313,19 +313,20 @@ Then after watching these, go ahead and jump into `Anki`.
 
 
   
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+:::
+YOUR QUEST
 
-1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
+1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. Also, <span class="he">שַׁדַּי</span> is another name for God.  It means "Almighty".  Find two examples of this name. (Blue)
 2. In verse 16, highlight, <span class="he">"עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי"</span> in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is <span class="he">אֱלֹהִים</span>. In the last two words of what you just highlighted, you can still see the core portion of <span class="he">אֱלֹהִים</span> present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
-3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word.  Which one is a silent Sheva, and which one is the vocal Sheva?
-4. Find the quiescent Aleph in verse 1 (pink)
-5. Find the Hebrew words for Judah, Moab, and Bethlehem in Verse 1. (gray).  Bethlehem is two separate words in Hebrew. The first word has a single-letter preposition (מ) that means "from."
+3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word. (Yellow) Which one is a silent Sheva, and which one is the vocal Sheva?
+4. Find the Quiescent Aleph in verse 1 (pink)
+5. Find the Hebrew words for Elimelech, Machlon, Chilion, and Judah in verses 1-7. Chilion has the prefix "וְ" which means "and". (gray)
 6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #3](./images/03_Ruth Pursuit KEY.pdf){target="_blank"}
 
 ## `Quest Quiz` {-}
 

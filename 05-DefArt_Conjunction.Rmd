@@ -213,7 +213,7 @@ Take your time and let the simple, but not so simple, concepts in this chapter s
 Keep with it; you're doing great!
 
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/fYwaA5f-XGc){target="_blank"}
 
@@ -221,7 +221,7 @@ Keep with it; you're doing great!
 <iframe class="responsive-iframe" src="https://youtube.com/embed/fYwaA5f-XGc" frameborder="0"></iframe>
 </div>
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Fa0KEAh_I84){target="_blank"}
 
@@ -229,7 +229,7 @@ Keep with it; you're doing great!
 <iframe class="responsive-iframe" src="https://youtube.com/embed/Fa0KEAh_I84" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 05 A. Vocab`
 * `Lesson 05 B. Grammar` 
@@ -238,21 +238,29 @@ Keep with it; you're doing great!
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
 * `Lesson 05 D. Verses`
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
 1. Find five examples of the conjunction vav: וְ (note the Vocal Sheva) (Yellow)
 2. find five examples of the standard definite article ּ  הַ (Green)
 3. Find the first three examples of "Compensatory Lengthening" of the definite article.  There is one example of "Virtual Doubling" of the definite article in verses 10-15.  Can you find it?(Light Blue)
 4. הִנֵה is a very common Biblical expression that meaans, "look!" or "behold". Find the one example of הִנֵה in Ruth 1 (Pink)
+5. Find all examples of <span class="he">אִישׁ</span> (man), and <span class="he">אִשָּׁה</span>, wife/woman. (grey) 
+    * In verses 1 and 2, note that <span class="he">אִשְׁתּוֹ</span> has a pronominal suffix, so the word means "his wife".  Words that normally end with a ה tend to lose the ה when suffixes are added. We'll study more about pronominal suffixes in Lessons 9 and 19.
+    * In verses 12 and 13, note that <span class="he">לְאִישׁ
+</span> has a prepositional prefix mean "to" or "for".  We will learn about prepositions in the next lesson.
+6. Find the vocabulary word <span class="he">כֹּה</span>. It appears once with the Vav conjunction and once without. (red)
+
+:::
 
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #05](./images/05_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #05 in a new window](https://forms.gle/NsrAS9XKMbtLToW1A){target="_blank"}
 

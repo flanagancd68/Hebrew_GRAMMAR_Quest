@@ -301,21 +301,29 @@ Commit the 3ה clues to memory.  Geminate and Biconsonantal are much less freque
 * `Lesson 14 C. Workbook`
 * `Lesson 14 D. Study Verses`
 
+> unless there is something unique to point out, we will omit the Anki section from the Hebrew GRAMMAR Quest Guidebook going foward. You know the drill!  Be sure to do the four Anki levels after each Lesson.
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}    
 
-### X Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are vocabulary words from Lesson 12 or Lesson 14.
+
+1. שׁמע QP3fs
+2. היה QP3fs
+3. עשה QP2mp
+4. אמר QP1cs
+5. יצא QP3fs - why is this verb 3fs?
+6. שׁוּב QP3fs X2
+7. הלך QP1cs
+8. ענה QP3ms
+9  בוֹא QP3cp
+
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #14](./images/14_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 ## Hebrew Quest Study Passage: Proverbs #8-10 {-}

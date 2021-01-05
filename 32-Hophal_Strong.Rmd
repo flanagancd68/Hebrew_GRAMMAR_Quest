@@ -208,7 +208,7 @@ include_graphics("images/32_stemcomp.png")
 </div>
 
 
-## X Verses Warm-up {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/O5CU62O94Cw){target="_blank"}
 
@@ -216,12 +216,6 @@ include_graphics("images/32_stemcomp.png")
 <iframe class="responsive-iframe" src="https://youtube.com/embed/O5CU62O94Cw" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 32 A. Vocab`
-* `Lesson 32 B. Grammar` 
-* `Lesson 32 C. Workbook`
-* `Lesson 32 D. Study Verses`
 
 ## OPTIONAL: Hophal Parsing Worksheet {-}
 

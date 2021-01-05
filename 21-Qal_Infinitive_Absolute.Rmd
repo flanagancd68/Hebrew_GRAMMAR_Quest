@@ -145,29 +145,30 @@ English equivalent | Verbal noun "to do" or "doing" | No direct equivalent
 <iframe class="responsive-iframe" src="https://youtube.com/embed/4-EL_lcP2xU" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 21 A. Vocab`
-* `Lesson 21 B. Grammar` 
-* `Lesson 21 C. Workbook`
-* `Lesson 21 D. Study Verses`
 
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}   
 
-:::  {.box .map}
+::: {.box .map} 
+YOUR QUEST
 
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+
+There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!)
+
+1. Identify the particle affirming the existence of someone or something (yellow)
+2. Identify the Lesson 21 vocabulary word for "faminine" (green)
+3. A vocabulary verb for this lesson was <span class="he">נוּחַ</span>.  Identify the FS noun in Ruth 1 that is derived from this verb. (blue)
+
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #21](./images/21_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
 ## Hebrew Quest Study Passage: Numbers 6: Priestly Blessing {-}
 
-[Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/edit?usp=sharing){target="_blank"}
+[Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
 
 
 1. Read through the passage straight through

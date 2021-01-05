@@ -329,7 +329,6 @@ Overall the Qal Imperfect is relatively easy to recognize with the distinctive p
 
 
 
-
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/AVjuXDd5BbI){target="_blank"}
@@ -348,24 +347,30 @@ Overall the Qal Imperfect is relatively easy to recognize with the distinctive p
 <iframe class="responsive-iframe" src="https://youtube.com/embed/z6AvUVjwSzo" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 16 A. Vocab`
-* `Lesson 16 B. Grammar` 
-* `Lesson 16 C. Workbook`
-* `Lesson 16 D. Study Verses`
+## Ruth Pursuit {-}   
 
+::: {.box .map} 
+YOUR QUEST
 
+Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar words.  (Hint: most of these verbs come from Ruth's famous oath of loyalty.)
 
-## X Ruth Pursuit {-}        
+* נתן QI3ms
+* שׁוּב QI1cp
+* הלך QI2fp
+* הלך QI2fs
+* הלך QI1cs
+* לין QI2fs
+* לין QI1cs
+* םוּת QI2fs
+* מוּת QI1cs
+* עשֹה QI3ms
+* קתא QI2fp
 
-:::  {.box .map}
-
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #16](./images/16_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 

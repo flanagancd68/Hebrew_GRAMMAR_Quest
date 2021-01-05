@@ -179,12 +179,6 @@ include_graphics("images/22_stemcomp.png")
 <iframe class="responsive-iframe" src="https://youtube.com/embed/uCkJD0fhT74" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 22 A. Vocab`
-* `Lesson 22 B. Grammar` 
-* `Lesson 22 C. Workbook`
-* `Lesson 22 D. Study Verses`
 
 ## Worksheets: All Qal Paradigms {-}
 
@@ -192,15 +186,17 @@ The attached worksheet has all of the Qal strong forms we have studied in Lesson
 
 [All Qal paradigms worksheet](22_qal_paradigms_strong_verbs.pdf){target="_blank"}
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}        
 
 :::  {.box .map}
+YOUR QUEST
 
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+Identify the one Participle in Ruth 1.  You might recall that we discussed this word in the Lesson 4 `Ruth Pursuit`.
+
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #22](./images/22_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 

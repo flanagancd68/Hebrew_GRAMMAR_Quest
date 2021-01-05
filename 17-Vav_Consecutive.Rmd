@@ -179,27 +179,37 @@ Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫א�
 <iframe class="responsive-iframe" src="https://youtube.com/embed/mfNf7nNcRPA" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 17 A. Vocab`
-* `Lesson 17 B. Grammar` 
-* `Lesson 17 C. Workbook`
-* `Lesson 17 D. Study Verses`
 
 ## Worksheets: Qal Vav-Consecutive Paradigms {-}
 
 
 [Qal Vav-consecutive Paradigms](17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}   
 
-:::  {.box .map}
+::: {.box .map} 
+YOUR QUEST
 
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+1. Identify and translate the Qal Vav Consecutive Verbs below from verses 1-5. Be sure to look up any unfamiliar words. 
+    * היה QIwc3ms x2
+    * הלך QIwc3ms
+    * בוא QIwc3mp
+    * היה QIwc3mp
+    * מות QIwc3ms
+    * נשׂא QIwc3mp
+    * ישׁב QIwc3mp
+    * מות QIwc3mp
+
+2. Identify, parse, and translate all remaining Qal Vav Consecutive verbs in verses 6-22.  
+    * There is one QPwc and the rest are QIwc.  
+    * As needed, break down the preformatives and sufformatives to identify the lexical form in order to look up its meaning.  
+    * You may disregard the instances of <span class="he">וַתֹּאמֶר</span>.
+
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #17](./images/17_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 

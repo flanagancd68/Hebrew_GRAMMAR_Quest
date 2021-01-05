@@ -279,15 +279,6 @@ After you have reviewed the Anki material for this lesson, test yourself by comp
 <iframe class="responsive-iframe" src="https://youtube.com/embed/-WjxwqdN5UQ" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 30 A. Vocab`
-* `Lesson 30 B. Grammar` 
-* `Lesson 30 C. Workbook`
-* `Lesson 30 D. Study Verses`
-
-
-
 
 ## Hebrew Quest Study Passage: Exodus 19 {-}
 

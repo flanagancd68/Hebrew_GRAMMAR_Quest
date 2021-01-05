@@ -214,19 +214,15 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 <iframe class="responsive-iframe" src="https://youtube.com/embed/nIcuyVOHIhw" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 27 A. Vocab`
-* `Lesson 27 B. Grammar` 
-* `Lesson 27 C. Workbook`
-* `Lesson 27 D. Study Verses`
 
 
 ## Ruth Pursuit {-}        
 
 :::  {.box .map}
 
-Your Quest: Find the two Piel Verbs in Ruth 1 (Yellow)
+Identify, parse, and translate the two Piel verbs in Ruth 1
+
+Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Daghesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}

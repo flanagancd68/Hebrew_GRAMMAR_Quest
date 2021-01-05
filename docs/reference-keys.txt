@@ -149,7 +149,6 @@ hebrew-ordinal-numbers
 cardinal-numbers-1-10
 cardinal-numbers-above-10
 conclusion
-waiting-on-izzy
 vowel-transliterationshorthand
 word-initial-combinations
 introduction-to-hebrew-verbs

@@ -194,18 +194,17 @@ knitr::include_graphics("images/25-3-hei_endings.png")
 <iframe class="responsive-iframe" src="https://youtube.com/embed/hgbj52voNtw" frameborder="0"></iframe>
 </div>
 
-## X Anki {-}
-
-* `Lesson 25 A. Vocab`
-* `Lesson 25 B. Grammar` 
-* `Lesson 25 C. Workbook`
-* `Lesson 25 D. Study Verses`
 
 ## Ruth Pursuit {-}        
 
 :::  {.box .map}
+YOUR QUEST
 
-Your Quest: Find all Niphal Verbs in Ruth 1 (Yellow)
+Identify, parse, and translate the five Niphal verbs in Ruth 1.
+
+You are likely unfamiliar with the meanings of at least two of these.  Identify the Niphal forms by their diagnostics, then identify and look-up the meaning of the root. 
+
+By now, if you have been completing your `Ruth Pursuit` table along with each Lesson, you may have noted that there aren't that many words left in the passage that we haven't translated.  This may make it easier for you to identify the remaining verbs by process of elimination, but do make sure you understand WHY the words you select are Niphal.
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}

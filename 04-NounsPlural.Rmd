@@ -257,7 +257,7 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/n9HYIqqvA0I){target="_blank"}
 
@@ -265,7 +265,7 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/89pLvO3wg6s){target="_blank"}
 
@@ -273,7 +273,7 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 04 A. Vocab`
 * `Lesson 04 B. Grammar` 
@@ -295,20 +295,23 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
     * We will continue with study verses that provide examples of the Lesson's vocabulary
     * Hints will be provided for less familiar verbs
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
 1. find one regular singular segholate noun in V1.  In this verse there is also a segholate noun with a propositional prefix that we haven't studied yet; this world also takes on vowel changes but we'll cover that in a few lessons. (yellow)
-2. find a regular masculine plural in v1 - This work has the definite article, which we will cover in the next lesson.  Also find a regular Feminine plural in vs 1-4 (pink).  What do you think the Lexical Form of this feminine word is?
-3. find an irregular plural somewhere in vs 2-6 (green)
-4. find an example of the "Rule of Sheva" in verses 10-13 (blue)
-
+2. find all words regular masculine plural in the chapter (pink). Some words are prefixed with the definite article, which we will cover in the next lesson.  Also find all regular Feminine plural nouns in the chapter (pink).  One of the words in verses 2-6 has a MP ending but is actually an irregular FP.  Highlight this word in (green).
+    * Be sure to research any words you don't know. HLI has a [lexicon available here.](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+3. <span class="he">כַלֹּתֶיהָ
+</span> is a word meaning her daughters-in-law (in verse 22, this word is in the singular).  It comes from a verb meaning "finish" or "end" (we'll let you ponder that!). Find all four examples of these feminine nouns, including one with the "and" prefix (grey)
+4. Find the vocabulary word <span class="he">עִיר</span>. In Ruth 1, it appears as <span class="he">הָעִיר</span>. In the next lesson, we will learn about the prefix ה
+(blue)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #4](./images/04_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #4 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
 

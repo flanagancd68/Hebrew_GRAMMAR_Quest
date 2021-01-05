@@ -212,7 +212,7 @@ To help with this, we've gone a little bit lighter on the Grammar cards and the 
 
 We would recommend using the time between now and starting Lesson 7 to get caught up and make sure the new concepts start to take hold.  You might notice the intensity pick up starting with the next lesson as we get into some ways Hebrew handles adjectives and pronouns.  Until then, enjoy learning some more of God's work with Izzy in the `Word warm-up`, `Verse warm-up`, and `Anki`.
 
-### `Anki` {-}
+### Anki {-}
 
 * `Lesson 06 A. Vocab`
 * `Lesson 06 B. Grammar`
@@ -222,7 +222,7 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 * `Lesson 06 D. Verses`
 
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/P-oZ1J6ZyBc){target="_blank"}
 
@@ -232,7 +232,7 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtube.com/embed/z4QY0pMdPsA){target="_blank"}
 
@@ -242,20 +242,33 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 </div>
 
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
-1. Find examples of the three inseparable prepositions (Yellow)
-2. Find examples of מִן , one Maqqef and one inseparable (Green)
-3. Find the DDO (Maqqef) (Blue)
-
+1. Highlight the following words that begin with the inseparable pronouns and provide a definition (Yellow)
+    * <span class="he">בָּאָרֶץ</span>
+    * <span class="he">בַדֶּרֶךְ
+</span>     
+    * <span class="he">לְבֵית</span>
+    * <span class="he">לִי
+</span>     
+   
+2. Find examples of מִן (there is one Maqqef and the rest are inseparable) - translate the Maqqef phrase (look up the object of the מִן preposition in a lexicon if needed) (Green)
+3. Find one example of the DDO (Maqqef) (Blue)
+4. Find Lesson 6 vocabulary words:
+    * <span class="he">עַד</span>
+    * <span class="he">אַחֲרֵי
+</span> (note: In Ruth 1, one instance of word also has a מִן prefix (inseparable form) as well as a pronominal suffix, which we will study in Lesson 9)
+    * <span class="he">כָּל־</span>(Pink)
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #6](./images/06_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #6 in a new window](https://forms.gle/oeB8E6K4y4mTjPWGA){target="_blank"}
 

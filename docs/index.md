@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2020-12-31"
+#date: "2021-01-04"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2020-12-31</small>
+<small>*Updated*: 2021-01-04</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -278,7 +278,7 @@ Use the form below to ask a question. Please note, we are staffed by volunteers,
 
 <br>
 
-<img src="images/alephbet_multi.png" width="300pt" style="display: block; margin: auto;" />
+<img src="images/alephbet_multi.png" width="400pt" style="display: block; margin: auto;" />
 
 This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson we will meet the Hebrew Aleph-Bet.  The letters are like a family, and with any family there can be interesting dynamics (including not always playing nice with each other!).  The bulk of the lesson will take a look at some of those dynamics.
 
@@ -474,25 +474,32 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 2. Practice writing the entire AlephBet until you can do it FIVE times from memory.  This will also be an instruction on the Quest Quiz.
 
 
-## `Ruth Pursuit` {-}
+## Ruth Pursuit {-}
 
 You can do this activity online using Google Docs, or you can download/print and use physical highlighters.
 
 * Google Docs: Click the link to open a [blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}.  You may need to sign in with a Google account.  Now click "Open with Google Docs" to highlight the letters.
 * Download/Print: click the same link, then you should see options on the upper right of your screen to print or download (Word format).
 
-### Your Quest: {-}
+::: {.box .map} 
+Your Quest: 
 
 1. Identify the four guttural letters in Ruth chapter 1(pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
 2. Identify the one half-guttural (red)
 3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
 4. Identify the five final/sofit forms (blue)
 5. Identify the 12 remaining consonants not included in the above categories (including both forms of ש)(yellow)
+6. Find all examples of the names listed below (grey)
+    * Ruth - spelled <span class="he">רוּת</span>; also "and Ruth" - <span class="he">וְרוּת</span>
+    * Naomi - spelled <span class="he">נָעֳמִי</span> 
+    * Bethlehem - spelled <span class="he">בֵּית לֶחֶם  </span>, also "from Bethlehem" - <span class="he">מִבֵּית לֶחֶם<span>
+    * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
+:::
 
-* [Ruth Pursuit #1 Answer Key](https://drive.google.com/file/d/1vG8hKR50KcB0NclBnRWYPYMCEnobjgLc/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit #1 Answer Key](./images/01_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 
@@ -505,7 +512,6 @@ You can do this activity online using Google Docs, or you can download/print and
 
 # Hebrew Vowels {.vowels}
 
-<!-- Grammarly check: 10/24/2020 213 lines -->
 
 > To comprehend Biblical Hebrew, we must understand how words are formed and pronounced
 
@@ -721,7 +727,7 @@ We're about halfway through the first stage of the course on Hebrew Grammar Foun
 Take a second to review the section headings 2.1 - 2.7 on the left side of the screen before heading on to tackle the activities.
 
 
-### `Anki` {-}
+### Anki {-}
 
 * `Lesson 02 A. Vocab`
 * `Lesson 02 B. Grammar` 
@@ -734,13 +740,15 @@ Take a second to review the section headings 2.1 - 2.7 on the left side of the s
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/)
 
 
-### `Vowel worksheet` {-}
+### Vowel worksheet {-}
+
 * Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/view?usp=sharing){target="_blank"} See note<small>^[<small>ignore the "transliteration" column.  An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory.</small>]</small>
 
 
-## `Ruth Pursuit` {-}
+## Ruth Pursuit {-}
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
 1. Identify the four UNCHANGEABLE LONG vowels that use YOD in Verse 1 (blue)<small>^[<small>In most word processors, you won't be able to isolate the vowel to highlight. Get as close as you can.</small>]</small>|
 2. Identify the two UNCHANGEABLE LONG vowels that use VAV in Verse 1 (Green)
@@ -753,12 +761,13 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
     * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ, "and **S**he (did or was something).  
             * Thus, וַתֹּאמֶר means "and she said."  
             * Challenge: Find the five instances of וַתֹּאמֶר in Ruth Chapter 1<small>^[<small>In at least three of the cases, you should be able to figure out who is speaking.</small>]</small>  (yellow)  
+:::
 
 * [Blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 
-* [Ruth Pursuit Answer Key #2](https://drive.google.com/file/d/1xtcXRb1PWbt-qkbVWW9yGfkC40_d8gtf/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #2](./images/02_Ruth_Pursuit_KEY.pdf}{target="_blank"}
         
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
 
@@ -1044,13 +1053,13 @@ Then after watching these, go ahead and jump into `Anki`.
   * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
   * Be patient and stick with it - you'll get it!
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/h0Ni1_Zya2U){target="_blank"}
 
 <iframe width="768" height="432" src="https://www.youtube.com/embed/h0Ni1_Zya2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 * Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
      
@@ -1060,19 +1069,20 @@ Then after watching these, go ahead and jump into `Anki`.
 
 
   
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+:::
+YOUR QUEST
 
-1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. (Blue)
+1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. Also, <span class="he">שַׁדַּי</span> is another name for God.  It means "Almighty".  Find two examples of this name. (Blue)
 2. In verse 16, highlight, <span class="he">"עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי"</span> in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is <span class="he">אֱלֹהִים</span>. In the last two words of what you just highlighted, you can still see the core portion of <span class="he">אֱלֹהִים</span> present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
-3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word.  Which one is a silent Sheva, and which one is the vocal Sheva?
-4. Find the quiescent Aleph in verse 1 (pink)
-5. Find the Hebrew words for Judah, Moab, and Bethlehem in Verse 1. (gray).  Bethlehem is two separate words in Hebrew. The first word has a single-letter preposition (מ) that means "from."
+3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word. (Yellow) Which one is a silent Sheva, and which one is the vocal Sheva?
+4. Find the Quiescent Aleph in verse 1 (pink)
+5. Find the Hebrew words for Elimelech, Machlon, Chilion, and Judah in verses 1-7. Chilion has the prefix "וְ" which means "and". (gray)
 6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #3](https://drive.google.com/file/d/1GybopWuWjBP-WpgabhwN6B1h_Yz4uXmt/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #3](./images/03_Ruth Pursuit KEY.pdf){target="_blank"}
 
 ## `Quest Quiz` {-}
 
@@ -1335,7 +1345,7 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 
 
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/n9HYIqqvA0I){target="_blank"}
 
@@ -1343,7 +1353,7 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/89pLvO3wg6s){target="_blank"}
 
@@ -1351,7 +1361,7 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 04 A. Vocab`
 * `Lesson 04 B. Grammar` 
@@ -1373,20 +1383,23 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
     * We will continue with study verses that provide examples of the Lesson's vocabulary
     * Hints will be provided for less familiar verbs
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
 1. find one regular singular segholate noun in V1.  In this verse there is also a segholate noun with a propositional prefix that we haven't studied yet; this world also takes on vowel changes but we'll cover that in a few lessons. (yellow)
-2. find a regular masculine plural in v1 - This work has the definite article, which we will cover in the next lesson.  Also find a regular Feminine plural in vs 1-4 (pink).  What do you think the Lexical Form of this feminine word is?
-3. find an irregular plural somewhere in vs 2-6 (green)
-4. find an example of the "Rule of Sheva" in verses 10-13 (blue)
-
+2. find all words regular masculine plural in the chapter (pink). Some words are prefixed with the definite article, which we will cover in the next lesson.  Also find all regular Feminine plural nouns in the chapter (pink).  One of the words in verses 2-6 has a MP ending but is actually an irregular FP.  Highlight this word in (green).
+    * Be sure to research any words you don't know. HLI has a [lexicon available here.](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+3. <span class="he">כַלֹּתֶיהָ
+</span> is a word meaning her daughters-in-law (in verse 22, this word is in the singular).  It comes from a verb meaning "finish" or "end" (we'll let you ponder that!). Find all four examples of these feminine nouns, including one with the "and" prefix (grey)
+4. Find the vocabulary word <span class="he">עִיר</span>. In Ruth 1, it appears as <span class="he">הָעִיר</span>. In the next lesson, we will learn about the prefix ה
+(blue)
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #4](./images/04_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #4 in a new window](https://forms.gle/2LCEgvmpHr5mqB5Z6){target="_blank"}
 
@@ -1611,7 +1624,7 @@ Take your time and let the simple, but not so simple, concepts in this chapter s
 Keep with it; you're doing great!
 
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/fYwaA5f-XGc){target="_blank"}
 
@@ -1619,7 +1632,7 @@ Keep with it; you're doing great!
 <iframe class="responsive-iframe" src="https://youtube.com/embed/fYwaA5f-XGc" frameborder="0"></iframe>
 </div>
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Fa0KEAh_I84){target="_blank"}
 
@@ -1627,7 +1640,7 @@ Keep with it; you're doing great!
 <iframe class="responsive-iframe" src="https://youtube.com/embed/Fa0KEAh_I84" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 05 A. Vocab`
 * `Lesson 05 B. Grammar` 
@@ -1636,21 +1649,29 @@ Keep with it; you're doing great!
     * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
 * `Lesson 05 D. Verses`
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
 1. Find five examples of the conjunction vav: וְ (note the Vocal Sheva) (Yellow)
 2. find five examples of the standard definite article ּ  הַ (Green)
 3. Find the first three examples of "Compensatory Lengthening" of the definite article.  There is one example of "Virtual Doubling" of the definite article in verses 10-15.  Can you find it?(Light Blue)
 4. הִנֵה is a very common Biblical expression that meaans, "look!" or "behold". Find the one example of הִנֵה in Ruth 1 (Pink)
+5. Find all examples of <span class="he">אִישׁ</span> (man), and <span class="he">אִשָּׁה</span>, wife/woman. (grey) 
+    * In verses 1 and 2, note that <span class="he">אִשְׁתּוֹ</span> has a pronominal suffix, so the word means "his wife".  Words that normally end with a ה tend to lose the ה when suffixes are added. We'll study more about pronominal suffixes in Lessons 9 and 19.
+    * In verses 12 and 13, note that <span class="he">לְאִישׁ
+</span> has a prepositional prefix mean "to" or "for".  We will learn about prepositions in the next lesson.
+6. Find the vocabulary word <span class="he">כֹּה</span>. It appears once with the Vav conjunction and once without. (red)
+
+:::
 
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #05](./images/05_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #05 in a new window](https://forms.gle/NsrAS9XKMbtLToW1A){target="_blank"}
 
@@ -1874,7 +1895,7 @@ To help with this, we've gone a little bit lighter on the Grammar cards and the 
 
 We would recommend using the time between now and starting Lesson 7 to get caught up and make sure the new concepts start to take hold.  You might notice the intensity pick up starting with the next lesson as we get into some ways Hebrew handles adjectives and pronouns.  Until then, enjoy learning some more of God's work with Izzy in the `Word warm-up`, `Verse warm-up`, and `Anki`.
 
-### `Anki` {-}
+### Anki {-}
 
 * `Lesson 06 A. Vocab`
 * `Lesson 06 B. Grammar`
@@ -1884,7 +1905,7 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 * `Lesson 06 D. Verses`
 
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/P-oZ1J6ZyBc){target="_blank"}
 
@@ -1894,7 +1915,7 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtube.com/embed/z4QY0pMdPsA){target="_blank"}
 
@@ -1904,20 +1925,33 @@ We would recommend using the time between now and starting Lesson 7 to get caugh
 </div>
 
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
-1. Find examples of the three inseparable prepositions (Yellow)
-2. Find examples of מִן , one Maqqef and one inseparable (Green)
-3. Find the DDO (Maqqef) (Blue)
-
+1. Highlight the following words that begin with the inseparable pronouns and provide a definition (Yellow)
+    * <span class="he">בָּאָרֶץ</span>
+    * <span class="he">בַדֶּרֶךְ
+</span>     
+    * <span class="he">לְבֵית</span>
+    * <span class="he">לִי
+</span>     
+   
+2. Find examples of מִן (there is one Maqqef and the rest are inseparable) - translate the Maqqef phrase (look up the object of the מִן preposition in a lexicon if needed) (Green)
+3. Find one example of the DDO (Maqqef) (Blue)
+4. Find Lesson 6 vocabulary words:
+    * <span class="he">עַד</span>
+    * <span class="he">אַחֲרֵי
+</span> (note: In Ruth 1, one instance of word also has a מִן prefix (inseparable form) as well as a pronominal suffix, which we will study in Lesson 9)
+    * <span class="he">כָּל־</span>(Pink)
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #6](./images/06_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #6 in a new window](https://forms.gle/oeB8E6K4y4mTjPWGA){target="_blank"}
 
@@ -2101,7 +2135,7 @@ Note that <span class="he">אֶל־הָאָ֫רֶץ</span> and <span class="he">
 
 _I will go down with you to Egypt (Gen 46:4)_
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
 
@@ -2109,7 +2143,7 @@ _I will go down with you to Egypt (Gen 46:4)_
 <iframe class="responsive-iframe" src="https://youtube.com/embed/8GIYqACoOcQ" frameborder="0"></iframe>
 </div>
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/s0JvZ9z0jAg){target="_blank"}
 
@@ -2117,23 +2151,40 @@ _I will go down with you to Egypt (Gen 46:4)_
 <iframe class="responsive-iframe" src="https://youtube.com/embed/s0JvZ9z0jAg" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 07 A. Vocab`
-* `Lesson 07 B. Grammar` * `Lesson xx C. Workbook` 
+* `Lesson 07 B. Grammar` 
 * `Lesson 07 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate adjectives, including examples of attributive and predicate use
     * Be sure to look up any words you do not know.  
 * `Lesson 07 D. Verses`
 
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-Curiously, there are a lack of adjectives in Ruth 1.  It's a very direct, straightforward narrative.  There are several mappiq marks that should be relatively easy for you to locate (so much so that we don't need an answer key!).
+::: {.box .map}
+YOUR QUEST
+
+Curiously, there are a lack of adjectives in Ruth 1.  There are participles, which are verbal adjectives we will study in Lesson 22.    
+
+1. There are several mappiq marks that should be relatively easy for you to locate (yellow)
+2. Vocabulary words (green)
+    1. Find the Hebrew word for "name", that you learned in the Lesson 3 Vocab. Frequently, the word has the Vav conjunction.
+    2. Find the word for "very"
+    3. Find the word for "daughters" - it occurs with a pronominal suffix, and means "my daughters"
+    4. Find the phrase joined with a Maqqef that means "to the land (of)"
+3. Other words (pink)
+    1. Towards the end of the chapter, Naomi says "don't call me Naomi (pleasant) call me 'Mara' (bitter). Find the word for Bitter.  It occurs twice in two different forms.
+    2. Find the word for Orpah
+    3. <span class="he">רֵיקָם</span> is a word that means "empty". It occurs 16x, and almost always with the sense of sending someone away empty-handed.<small>^[<small>A chuckle-worthy example is 1st Samuel 6:3 when the Philistines realize that the Ark is causing nothing but trouble for them.  They purposed to send the Ark back to Israel, but said "send it not empty!" They sent it back with trespass offerings representing the plagues they suffered: five golden mice and, apparently, five golden hemorrhoids!</small>]</small>. In Ruth 1, Naomi said she left full but was sent back empty.  Find the one example of this word near the end of the chapter.
+:::
+
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #07 in a new window](https://forms.gle/uYiUgRBWeRJikaR57){target="_blank"}
 
@@ -2334,7 +2385,7 @@ It is important to know the gender, number, and where necessary the person of ea
 
 If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit extra.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs.  Keep at it!  You're doing awesome!
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/kNfZ8BblobA){target="_blank"}
 
@@ -2343,7 +2394,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 </div>
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/XXn6G8EWmn0){target="_blank"}
 
@@ -2352,15 +2403,15 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 </div>
 
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 08 A. Vocab`
-* `Lesson 08 B. Grammar` * `Lesson xx C. Workbook` 
+* `Lesson 08 B. Grammar`
 * `Lesson 08 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate pronouns
 * `Lesson 08 D. Verses`
 
-## `Worksheets: Pronouns` {-}
+## Worksheets: Pronouns {-}
 
 We have two worksheets for this lesson. Make sure you do the Anki work first, before tackling these worksheets.
 
@@ -2370,15 +2421,28 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 2. [Demonstrative Pronouns](./images/08_demonstrative_paradigm.pdf){target="_blank"}
 
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-1. Identify the first instance of the relative pronoun (Yellow)
-2. Find the three uses of the interrogative particle (Green)
-3. Find at least one of the following independent pronouns (Light Blue): 3MS, 3FS, 1CS
-4. Find one near demonstrative pronoun (FS) (Pink)
-    * Translate the demonstrative phrase (answer on last page of answer key)
+Just as the vocabulary for Lessons 8 and 9 are a bit longer, so too are the `Ruth Pursuit` exercises.  There are 33 total "finds" in `Ruth Pursuit` #8 and 34 in `Ruth Pursuit` #9.  Be patient and you'll find them all!
+
+1. Pronoun Vocabulary (yellow)
+    1. The relative pronoun meaning "who, whom, that, which" and the related pronoun meaning "as, when"
+    2. Independent Pronouns: I, he, she, them, they you (may have prepositional prefix)
+2. Interrogative (green)
+    1. Interrogative pronouns from Lesson 8 vocabulary
+    2. The idiom <span class="he">הַעוֹד־לִי</span>, means "have I yet?" or "do I have?"
+    2. Other uses of the interrogative particle
+2. Other vocabulary (blue)
+    1. because/for/if
+    2. also/even
+    3. Therefore (also has interrogative particle)
+4. Find one near demonstrative pronoun (also has interrogative particle) (Pink)
+    * Translate the demonstrative
+    
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
@@ -2609,7 +2673,7 @@ Although <span class="he">אֵל</span> may not appear with a suffix apart from 
 * <span class="he">אֱלֹהָֽי</span> = my gods (Genesis 31:30)
 * <span class="he">אֵלֶ֫יהַ</span> = to her/it (3FS)
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/IGxobVIxYkY){target="_blank"}
 
@@ -2617,7 +2681,7 @@ Although <span class="he">אֵל</span> may not appear with a suffix apart from 
 <iframe class="responsive-iframe" src="https://youtube.com/embed/IGxobVIxYkY" frameborder="0"></iframe>
 </div>
 
-## `Word Warm-up: pronominal suffixes` {-}
+## Word Warm-up: pronominal suffixes {-}
 
 We have created a special `Word Warm-up` for the pronominal suffixes.
 
@@ -2628,7 +2692,7 @@ We have created a special `Word Warm-up` for the pronominal suffixes.
 </div>
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/8Y7XdOBkWWo){target="_blank"}
 
@@ -2636,28 +2700,46 @@ We have created a special `Word Warm-up` for the pronominal suffixes.
 <iframe class="responsive-iframe" src="https://youtube.com/embed/8Y7XdOBkWWo" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 09 A. Vocab`
 * `Lesson 09 B. Grammar` 
 * `Lesson 09 C. Workbook`
 * `Lesson 09 D. Verses`
 
-## `Worksheets`: Pronominal Suffixes {-}
+## Worksheets: Pronominal Suffixes {-}
 
 After you have done your Anki work, we have an additional worksheet to help you drill your pronominal suffixes.  As with previous worksheets, study, then cover-up the first column on the right and see if you can complete the remainder of the worksheet by memory.
 
 [Pronominal Suffix](./images/09_pronominal_suffix_paradigm.pdf){target="_blank"}
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-1. Identify Type 1 suffixes in Ruth 1:1-5 (Yellow)
-2. Identify Type 2 suffixes in Ruth 1:1-5 (Green)
+1. Identify words with pronominal suffixes affixed to the following familial nouns (yellow)
+    * sons
+    * children
+    * people (be mindful of the difference between `people` and `with`)
+    * daughters
+    * God/gods (be mindful of the difference between `God` and `to them`.)
+    * mother-in-law <span class="he">לַחֲמוֹתָהּ</span>
+    * widow <span class="he">יְבִמְתֵּךְ</span>
+    (we are excluding "his wife", "her daughters-in-law", and "her husband" since you found those in previous lessons!)
+2. Identify words with pronominal suffixes affixed to the following other nouns (green)
+    * voice
+3. Identify words with pronominal suffixes affixed to the following prepositions (pink)
+    * between
+    * with
+    * in
+    * to
+    * about
+4. Identify the vocabulary word for "food" or "bread" that is NOT part of a city's name (blue)
 
-Refer to the chart in 9.5 as needed. 
+> You may see other words with pronominal suffixes.  These are likely verbs that we will cover in Lesson 19.
 
+:::
 
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
@@ -2866,7 +2948,7 @@ There are four extremely common constructs in the Bible so we must be able to re
 * <span class="he">אֲחִי־</span> = brother of
 * <span class="he">אֵ֫שֶׁת־</span> = wife of
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/1bvZ74a1SYU){target="_blank"}
 
@@ -2877,7 +2959,7 @@ There are four extremely common constructs in the Bible so we must be able to re
 
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/1JWesFEa2_c){target="_blank"}
 
@@ -2887,14 +2969,14 @@ There are four extremely common constructs in the Bible so we must be able to re
 </div>
 
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 10 A. Vocab`
 * `Lesson 10 B. Grammar`  
 * `Lesson 10 C. Workbook`
 * `Lesson 10 D. Verses`
 
-## `Worksheets`: Construct Identification {-}
+## Worksheets: Construct Identification {-}
 
 This attachment has a list of words, some are in absolute and some are in construct. See if you can determine the differences<small>^[<small>Odd 1-35, 39, 41, 42, 44, 45, 47 are Absolute; 37 and 38 are ambiguous; even 2-36, 40, 43, 46, and 48 are Construct. Most often it is "Long vowel, not a vowel letter" that identifies absolute.</small>]</small>.
 
@@ -2905,13 +2987,25 @@ This next attachment is not really a worksheet but is a summary of common constr
 [Construct Vocabulary](./images/10_construct_vocab.pdf){target="_blank"}
 
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-Find at least five construct chains, including at least two joined with maqqef (Yellow)
+1. Find the following construct nouns:
+    * days of (yellow)
+    * field(s) of (green)
+    * two of (blue)
+        * two construct M <span class="he">שְׁנֵי</span>
+        * two construct F <span class="he">שְׁתֵּי</span>
+    * house of (pink)
+2. Find the following vocabulary words (gray)
+    * Again
+    * Death
+    * Loyalty
 
-Note the prevalence of the Tsere-Yod as mentioned in 10.6.
+As always, words may have prefixes or suffixes.  Try to identify whether the construct is definite or indefinite based on the absolute noun.  
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #10](./images/10_Ruth_Pursuit_KEY.pdf){target="_blank"}
@@ -3113,7 +3207,7 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 * `Lesson 11 B. Grammar` 
 * `Lesson 11 C. Study Verses` - Note: there is no `Workbook` component to this lesson.
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/3OuD2Snu-Uk){target="_blank"}
 
@@ -3122,9 +3216,8 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 </div>
 
 
-## `Verses Warm-up` {-}
+## x Verses Warm-up` {-}
 
-### WAITING ON IZZY
 
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
@@ -3137,11 +3230,21 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 
 
 
-## `Ruth Pursuit` {-}        
 
-### Your Quest: Locate numerals {-}
+## Ruth Pursuit {-}        
 
-1. Find the numbers one, two (the first instance only), and ten (Yellow)
+::: {.box .map} 
+YOUR QUEST
+
+1. Find the following numbers:
+    * one (yellow)
+    * second (green)
+    * ten (pink)
+2. Find the following vocabulary words (blue)
+    * there
+    * night
+:::
+
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 
@@ -3589,6 +3692,29 @@ Note: See Unit 3 Introduction for a discussion of the cantillation accent marks 
 
 
 
+## Ruth Pursuit {-}        
+
+::: {.box .map} 
+YOUR QUEST
+
+Find the following miscellaneous words:
+
+    * <span class="he">בְּמֵעַי</span> - "in my belly/womb" (yellow)
+    * <span class="he">תִקְוָה</span> - "hope." (green)
+        * The Israeli national anthem is called <span class="he">הַתִּקְוָה</span>. 
+        * [Watch the _Hebrew Quest_ Lesson on "HaTiqvah"](https://holylanguage.com/hebrew-history-8.php){target="_blank"}
+    * <span class="he">בִּתְחִלַּת</span> - "in the beginning" (pink)
+    * <span class="he">קְצִיר</span> - "harvest of" (blue)
+    * Vocabulary word for "no, not" (immediate and specific prohibition) - gray
+
+:::
+
+
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+
+* [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+
 ## Hebrew Quest Study Passage: Proverbs Study #1-4 {-}
 
 [Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/edit?usp=sharing){target="_blank"}
@@ -3968,18 +4094,22 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
 * `Lesson 13 D. Study Verses`
 
 
-
 ## Ruth Pursuit {-}        
 
-###  Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-1. Identify all Qal Perfect Strong Verbs (Yellow)
+1. Identify and translate the following Qal Perfect Strong Verbs:
+    * פקד QP3ms (yellow)
+    * זקן QP1cs (green)
+        * What is unique about this verb?
+    * ילד QP1cs (gray)
+    * דבק QP3fs (blue)
+        * Hint: See {page 65 of this dictionary](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}
+2. Identify and translate מלא FS (adjective)(pink)
 
-For now, you may consider a "strong" verb as one that does not have a guttural in any root consonant position.
+:::
 
-In your attempt to identify only strong verbs, you may notice that there are many more Qal Perfect weak verbs than Qal Perfect strong verbs (you can highlight these for next time, we won't tell!).  This gives you an indication of the prevalence of weak verbs.
-
-Hint: there are only four Qal Perfect forms that do not have a guttural.
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #13](./images/13_Ruth_Pursuit_KEY.pdf){target="_blank"}
@@ -4327,21 +4457,29 @@ Commit the 3ה clues to memory.  Geminate and Biconsonantal are much less freque
 * `Lesson 14 C. Workbook`
 * `Lesson 14 D. Study Verses`
 
+> unless there is something unique to point out, we will omit the Anki section from the Hebrew GRAMMAR Quest Guidebook going foward. You know the drill!  Be sure to do the four Anki levels after each Lesson.
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}    
 
-### X Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are vocabulary words from Lesson 12 or Lesson 14.
+
+1. שׁמע QP3fs
+2. היה QP3fs
+3. עשה QP2mp
+4. אמר QP1cs
+5. יצא QP3fs - why is this verb 3fs?
+6. שׁוּב QP3fs X2
+7. הלך QP1cs
+8. ענה QP3ms
+9  בוֹא QP3cp
+
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #14](./images/14_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 ## Hebrew Quest Study Passage: Proverbs #8-10 {-}
@@ -4609,33 +4747,27 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 <iframe class="responsive-iframe" src="https://youtube.com/embed/fellWe2bUt8" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 15 A. Vocab`
-* `Lesson 15 B. Grammar` 
-* `Lesson 15 C. Workbook`
-* `Lesson 15 D. Study Verses`
-
 ## Worksheets: Qal Imperfect Strong Paradigm {-}
 
 > Complete the paradigm from memory at least once, then return here and continue in the guidebook.
 
 [Qal Imperfect Strong Paradigm](15_qal_imperfect_strong_paradigm.pdf){target="_blank"}
 
-## X Ruth Pursuit {-}        
 
-### X Your Quest: {-}
+## Ruth Pursuit {-}   
 
-1. Instruction#1 (Yellow)
-2. Instruction#2 (Green)
-3. Instruction3 (Light Blue)
-4. Instruction4 (Pink)
-5. Instruction5 (Light Grey)
-6. Instruction6 (Red) <!--Try to use darker colors sparingly -->
-7. instruction7 (Blue)
+::: {.box .map} 
+YOUR QUEST
+
+Identify and translate the Qal Verbs below.  
+
+* היה QP1cs
+* גדל QI3mp
+
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #15](./images/15_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
@@ -5014,7 +5146,6 @@ Overall the Qal Imperfect is relatively easy to recognize with the distinctive p
 
 
 
-
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/AVjuXDd5BbI){target="_blank"}
@@ -5033,24 +5164,30 @@ Overall the Qal Imperfect is relatively easy to recognize with the distinctive p
 <iframe class="responsive-iframe" src="https://youtube.com/embed/z6AvUVjwSzo" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 16 A. Vocab`
-* `Lesson 16 B. Grammar` 
-* `Lesson 16 C. Workbook`
-* `Lesson 16 D. Study Verses`
+## Ruth Pursuit {-}   
 
+::: {.box .map} 
+YOUR QUEST
 
+Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar words.  (Hint: most of these verbs come from Ruth's famous oath of loyalty.)
 
-## X Ruth Pursuit {-}        
+* נתן QI3ms
+* שׁוּב QI1cp
+* הלך QI2fp
+* הלך QI2fs
+* הלך QI1cs
+* לין QI2fs
+* לין QI1cs
+* םוּת QI2fs
+* מוּת QI1cs
+* עשֹה QI3ms
+* קתא QI2fp
 
-:::  {.box .map}
-
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #16](./images/16_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
@@ -5272,27 +5409,37 @@ Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫א�
 <iframe class="responsive-iframe" src="https://youtube.com/embed/mfNf7nNcRPA" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 17 A. Vocab`
-* `Lesson 17 B. Grammar` 
-* `Lesson 17 C. Workbook`
-* `Lesson 17 D. Study Verses`
 
 ## Worksheets: Qal Vav-Consecutive Paradigms {-}
 
 
 [Qal Vav-consecutive Paradigms](17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}   
 
-:::  {.box .map}
+::: {.box .map} 
+YOUR QUEST
 
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+1. Identify and translate the Qal Vav Consecutive Verbs below from verses 1-5. Be sure to look up any unfamiliar words. 
+    * היה QIwc3ms x2
+    * הלך QIwc3ms
+    * בוא QIwc3mp
+    * היה QIwc3mp
+    * מות QIwc3ms
+    * נשׂא QIwc3mp
+    * ישׁב QIwc3mp
+    * מות QIwc3mp
+
+2. Identify, parse, and translate all remaining Qal Vav Consecutive verbs in verses 6-22.  
+    * There is one QPwc and the rest are QIwc.  
+    * As needed, break down the preformatives and sufformatives to identify the lexical form in order to look up its meaning.  
+    * You may disregard the instances of <span class="he">וַתֹּאמֶר</span>.
+
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #17](./images/17_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
@@ -5545,6 +5692,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 | 3ה | <span class="he">יִבְנֶה</span> | <span class="he">יִבֶן</span> | Let him build
 | Bicons. | <span class="he">יָשִֹים</span> | <span class="he">יָשֵֹׁם</span> | Let him put
 | Bicons. | <span class="he">יָשׁוּב</span> | <span class="he">יָשֹׁב</span> | Let him return
+
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/Ycsb8GLkFRA){target="_blank"}
@@ -5563,12 +5711,6 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 <iframe class="responsive-iframe" src="https://youtube.com/embed/3mMX0zLi0cU" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 18 A. Vocab`
-* `Lesson 18 B. Grammar` 
-* `Lesson 18 C. Workbook`
-* `Lesson 18 D. Study Verses`
 
 ## Worksheets: Qal Volitional Forms {-}
 
@@ -5576,15 +5718,18 @@ Qal Volitional Forms
 
 [Name of worksheet](18_qal_volitive_paradigm.pdf){target="_blank"}
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}   
 
-:::  {.box .map}
+::: {.box .map} 
+YOUR QUEST
 
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+1. Identify, parse, and translate eight Qal Imperatives
+2. Identify, parse, and translate the one 3rd person Jussive 
+3. Identify, parse, and translate the two negated commands
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #18](./images/18_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
@@ -5900,26 +6045,10 @@ Meditate on that as you work through this lesson and, especially, as you study t
 <iframe class="responsive-iframe" src="https://youtube.com/embed/tY9vx7ZRSwQ" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 19 A. Vocab`
-* `Lesson 19 B. Grammar` 
-* `Lesson 19 C. Workbook`
-* `Lesson 19 D. Study Verses`
+## Ruth Pursuit {-}        
 
-
-
-## X Ruth Pursuit {-}        
-
-:::  {.box .map}
-
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
-:::
-
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
-
-
+Most verbal pronominal suffixes in Ruth 1 are on Qal Infinitive Construct conjugations.  We will study these in lesson 20.  There is no `Ruth Pursuit` for lesson 19.
 
 ## Hebrew Quest Study Passage: Matthew 6 {-}
 
@@ -6168,28 +6297,21 @@ Since only ∞ and Participle can have a prefixed preposition, identifying and p
 <iframe class="responsive-iframe" src="https://youtube.com/embed/9eYgruFN7bM" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 20 A. Vocab`
-* `Lesson 20 B. Grammar` 
-* `Lesson 20 C. Workbook`
-* `Lesson 20 D. Study Verses`
+## Ruth Pursuit {-}   
 
-## X Worksheets: NameOfWorksheet {-}
+::: {.box .map} 
+YOUR QUEST
 
-<describe the worksheet>
-
-[Name of worksheet](){target="_blank"}
-
-## X Ruth Pursuit {-}        
-
-:::  {.box .map}
-
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+1. Identify, parse, and translate the eleven Q∞
+    * Identify pronominal suffixes in the parsing, when present
+    * All but two of these have prepositional prefixes
+2. Identify the Lesson 20 vocabulary word that negates an Infinitive (blue)
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #20](./images/20_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
 
 
 
@@ -6374,29 +6496,30 @@ English equivalent | Verbal noun "to do" or "doing" | No direct equivalent
 <iframe class="responsive-iframe" src="https://youtube.com/embed/4-EL_lcP2xU" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 21 A. Vocab`
-* `Lesson 21 B. Grammar` 
-* `Lesson 21 C. Workbook`
-* `Lesson 21 D. Study Verses`
 
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}   
 
-:::  {.box .map}
+::: {.box .map} 
+YOUR QUEST
 
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+
+There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!)
+
+1. Identify the particle affirming the existence of someone or something (yellow)
+2. Identify the Lesson 21 vocabulary word for "faminine" (green)
+3. A vocabulary verb for this lesson was <span class="he">נוּחַ</span>.  Identify the FS noun in Ruth 1 that is derived from this verb. (blue)
+
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #21](./images/21_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
 ## Hebrew Quest Study Passage: Numbers 6: Priestly Blessing {-}
 
-[Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/edit?usp=sharing){target="_blank"}
+[Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
 
 
 1. Read through the passage straight through
@@ -6606,12 +6729,6 @@ QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּ
 <iframe class="responsive-iframe" src="https://youtube.com/embed/uCkJD0fhT74" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 22 A. Vocab`
-* `Lesson 22 B. Grammar` 
-* `Lesson 22 C. Workbook`
-* `Lesson 22 D. Study Verses`
 
 ## Worksheets: All Qal Paradigms {-}
 
@@ -6619,15 +6736,17 @@ The attached worksheet has all of the Qal strong forms we have studied in Lesson
 
 [All Qal paradigms worksheet](22_qal_paradigms_strong_verbs.pdf){target="_blank"}
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}        
 
 :::  {.box .map}
+YOUR QUEST
 
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+Identify the one Participle in Ruth 1.  You might recall that we discussed this word in the Lesson 4 `Ruth Pursuit`.
+
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #22](./images/22_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
@@ -6874,7 +6993,7 @@ When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the na
 * As the above examples illustrate, this is not a hard-and-fast-rule
 :::
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](){target="_blank"}
 
@@ -6884,7 +7003,7 @@ When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the na
 </div>
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
@@ -6892,16 +7011,16 @@ When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the na
 <iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Ruth Pursuit {-}        
 
-* `Lesson xx A. Vocab`
-* `Lesson xx B. Grammar` 
-* `Lesson xx C. Verses`
-* `Lesson xx D. Workbook`
+::: {.box .map} 
 
+There is no formal quest for this lesson, but consider the following points based on the material in Lesson 23:
 
+* Note the disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is supplemental, background information. 
+* The Conjunctive Vav in Ruth 1:7 serves to begin a more detailed, focused narrative account of Naomi's return
 
-## `Hebrew Quest Study Passage: Psalm 19` {-}
+## Hebrew Quest Study Passage: Psalm 19 {-}
 
 [Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/edit?usp=sharing){target="_blank"}
 
@@ -7644,18 +7763,17 @@ Also:
 <iframe class="responsive-iframe" src="https://youtube.com/embed/hgbj52voNtw" frameborder="0"></iframe>
 </div>
 
-## X Anki {-}
-
-* `Lesson 25 A. Vocab`
-* `Lesson 25 B. Grammar` 
-* `Lesson 25 C. Workbook`
-* `Lesson 25 D. Study Verses`
 
 ## Ruth Pursuit {-}        
 
 :::  {.box .map}
+YOUR QUEST
 
-Your Quest: Find all Niphal Verbs in Ruth 1 (Yellow)
+Identify, parse, and translate the five Niphal verbs in Ruth 1.
+
+You are likely unfamiliar with the meanings of at least two of these.  Identify the Niphal forms by their diagnostics, then identify and look-up the meaning of the root. 
+
+By now, if you have been completing your `Ruth Pursuit` table along with each Lesson, you may have noted that there aren't that many words left in the passage that we haven't translated.  This may make it easier for you to identify the remaining verbs by process of elimination, but do make sure you understand WHY the words you select are Niphal.
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
@@ -7999,12 +8117,6 @@ Hithpael | תִמְ
 <iframe class="responsive-iframe" src="https://youtube.com/embed/NGT8fiuGGp0" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 26 A. Vocab`
-* `Lesson 26 B. Grammar` 
-* `Lesson 26 C. Workbook`
-* `Lesson 26 D. Study Verses`
 
 ## Worksheets: Piel Strong Paradigms {-}
 
@@ -8261,19 +8373,15 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 <iframe class="responsive-iframe" src="https://youtube.com/embed/nIcuyVOHIhw" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 27 A. Vocab`
-* `Lesson 27 B. Grammar` 
-* `Lesson 27 C. Workbook`
-* `Lesson 27 D. Study Verses`
 
 
 ## Ruth Pursuit {-}        
 
 :::  {.box .map}
 
-Your Quest: Find the two Piel Verbs in Ruth 1 (Yellow)
+Identify, parse, and translate the two Piel verbs in Ruth 1
+
+Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Daghesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
@@ -8330,6 +8438,8 @@ The Pual occurs 423 times in the Hebrew Bible:
 * Imperfect 85 
 * Participle: 190
 * Never in the Imperative and only once each in Infinitives.
+
+There are no Pual verbs in Ruth chapter 1 so lesson 29 will not have a `Ruth Pursuit` activity.
 
 ::: {.box .map}
 <span class="he">LESSON ITINERARY<span class="he">
@@ -8543,12 +8653,6 @@ Hithpael | תִמְ
 <iframe class="responsive-iframe" src="https://youtube.com/embed/x6Sg3_NbX3w" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 28 A. Vocab`
-* `Lesson 28 B. Grammar` 
-* `Lesson 28 C. Workbook`
-* `Lesson 28 D. Study Verses`
 
 ## Worksheets: Pual Paradigm {-}
 
@@ -8681,12 +8785,6 @@ In every respect except for $V_S = A$, this is identical to the Polel stem for t
 <iframe class="responsive-iframe" src="https://youtube.com/embed/YiO_gyPz-nM" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 29 A. Vocab`
-* `Lesson 29 B. Grammar` 
-* `Lesson 29 C. Workbook`
-* `Lesson 29 D. Study Verses`
 
 
 
@@ -9002,15 +9100,6 @@ After you have reviewed the Anki material for this lesson, test yourself by comp
 <iframe class="responsive-iframe" src="https://youtube.com/embed/-WjxwqdN5UQ" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 30 A. Vocab`
-* `Lesson 30 B. Grammar` 
-* `Lesson 30 C. Workbook`
-* `Lesson 30 D. Study Verses`
-
-
-
 
 ## Hebrew Quest Study Passage: Exodus 19 {-}
 
@@ -9185,28 +9274,27 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 <iframe class="responsive-iframe" src="https://youtube.com/embed/Y7p9lMZ79FY" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 31 A. Vocab`
-* `Lesson 31 B. Grammar` 
-* `Lesson 31 C. Workbook`
-* `Lesson 31 D. Study Verses`
 
 ## Ruth Pursuit {-}        
 
 :::  {.box .map}
+YOUR QUEST
 
-Your Quest: Find the five Hiphil Verbs in Ruth 1 (Yellow)
+Identify, parse, and translate the five Hiphil Verbs in Ruth 1.
+
+Make sure you are able to identify the diagnostic indicators of these Hiphil verbs.
+
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
 ## Hebrew Quest Study Passage: Exodus 20 {-}
 
-[Blank copy of Book ##](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/edit?usp=sharing){target="_blank"}
+[Blank copy of Book ##](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
 
 
 1. Read through the passage straight through
@@ -9445,7 +9533,7 @@ Hithpael | תִמְ
 </div>
 
 
-## X Verses Warm-up {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/O5CU62O94Cw){target="_blank"}
 
@@ -9453,12 +9541,6 @@ Hithpael | תִמְ
 <iframe class="responsive-iframe" src="https://youtube.com/embed/O5CU62O94Cw" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 32 A. Vocab`
-* `Lesson 32 B. Grammar` 
-* `Lesson 32 C. Workbook`
-* `Lesson 32 D. Study Verses`
 
 ## OPTIONAL: Hophal Parsing Worksheet {-}
 
@@ -10075,23 +10157,17 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 <iframe class="responsive-iframe" src="https://youtube.com/embed/G7286j0gy80" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 35 A. Vocab`
-* `Lesson 35 B. Grammar` 
-* `Lesson 35 C. Workbook`
-* `Lesson 35 D. Study Verses`
-
 
 
 ## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
 Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael verbs in the remainder of Ruth.
+:::
 
-
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #35](./images/35_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 

@@ -142,23 +142,17 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 <iframe class="responsive-iframe" src="https://youtube.com/embed/G7286j0gy80" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 35 A. Vocab`
-* `Lesson 35 B. Grammar` 
-* `Lesson 35 C. Workbook`
-* `Lesson 35 D. Study Verses`
-
 
 
 ## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map}
+YOUR QUEST
 
 Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael verbs in the remainder of Ruth.
+:::
 
-
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #35](./images/35_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 

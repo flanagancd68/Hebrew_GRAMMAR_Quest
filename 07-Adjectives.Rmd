@@ -174,7 +174,7 @@ Note that <span class="he">אֶל־הָאָ֫רֶץ</span> and <span class="he">
 
 _I will go down with you to Egypt (Gen 46:4)_
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
 
@@ -182,7 +182,7 @@ _I will go down with you to Egypt (Gen 46:4)_
 <iframe class="responsive-iframe" src="https://youtube.com/embed/8GIYqACoOcQ" frameborder="0"></iframe>
 </div>
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/s0JvZ9z0jAg){target="_blank"}
 
@@ -190,23 +190,40 @@ _I will go down with you to Egypt (Gen 46:4)_
 <iframe class="responsive-iframe" src="https://youtube.com/embed/s0JvZ9z0jAg" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 07 A. Vocab`
-* `Lesson 07 B. Grammar` * `Lesson xx C. Workbook` 
+* `Lesson 07 B. Grammar` 
 * `Lesson 07 C. Workbook`
     * In this activity, we will have very short passages of scripture that illustrate adjectives, including examples of attributive and predicate use
     * Be sure to look up any words you do not know.  
 * `Lesson 07 D. Verses`
 
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-Curiously, there are a lack of adjectives in Ruth 1.  It's a very direct, straightforward narrative.  There are several mappiq marks that should be relatively easy for you to locate (so much so that we don't need an answer key!).
+::: {.box .map}
+YOUR QUEST
+
+Curiously, there are a lack of adjectives in Ruth 1.  There are participles, which are verbal adjectives we will study in Lesson 22.    
+
+1. There are several mappiq marks that should be relatively easy for you to locate (yellow)
+2. Vocabulary words (green)
+    1. Find the Hebrew word for "name", that you learned in the Lesson 3 Vocab. Frequently, the word has the Vav conjunction.
+    2. Find the word for "very"
+    3. Find the word for "daughters" - it occurs with a pronominal suffix, and means "my daughters"
+    4. Find the phrase joined with a Maqqef that means "to the land (of)"
+3. Other words (pink)
+    1. Towards the end of the chapter, Naomi says "don't call me Naomi (pleasant) call me 'Mara' (bitter). Find the word for Bitter.  It occurs twice in two different forms.
+    2. Find the word for Orpah
+    3. <span class="he">רֵיקָם</span> is a word that means "empty". It occurs 16x, and almost always with the sense of sending someone away empty-handed.<small>^[<small>A chuckle-worthy example is 1st Samuel 6:3 when the Philistines realize that the Ark is causing nothing but trouble for them.  They purposed to send the Ark back to Israel, but said "send it not empty!" They sent it back with trespass offerings representing the plagues they suffered: five golden mice and, apparently, five golden hemorrhoids!</small>]</small>. In Ruth 1, Naomi said she left full but was sent back empty.  Find the one example of this word near the end of the chapter.
+:::
+
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #07 in a new window](https://forms.gle/uYiUgRBWeRJikaR57){target="_blank"}
 

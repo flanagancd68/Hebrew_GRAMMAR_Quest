@@ -227,7 +227,7 @@ Although <span class="he">אֵל</span> may not appear with a suffix apart from 
 * <span class="he">אֱלֹהָֽי</span> = my gods (Genesis 31:30)
 * <span class="he">אֵלֶ֫יהַ</span> = to her/it (3FS)
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/IGxobVIxYkY){target="_blank"}
 
@@ -235,7 +235,7 @@ Although <span class="he">אֵל</span> may not appear with a suffix apart from 
 <iframe class="responsive-iframe" src="https://youtube.com/embed/IGxobVIxYkY" frameborder="0"></iframe>
 </div>
 
-## `Word Warm-up: pronominal suffixes` {-}
+## Word Warm-up: pronominal suffixes {-}
 
 We have created a special `Word Warm-up` for the pronominal suffixes.
 
@@ -246,7 +246,7 @@ We have created a special `Word Warm-up` for the pronominal suffixes.
 </div>
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/8Y7XdOBkWWo){target="_blank"}
 
@@ -254,28 +254,46 @@ We have created a special `Word Warm-up` for the pronominal suffixes.
 <iframe class="responsive-iframe" src="https://youtube.com/embed/8Y7XdOBkWWo" frameborder="0"></iframe>
 </div>
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 09 A. Vocab`
 * `Lesson 09 B. Grammar` 
 * `Lesson 09 C. Workbook`
 * `Lesson 09 D. Verses`
 
-## `Worksheets`: Pronominal Suffixes {-}
+## Worksheets: Pronominal Suffixes {-}
 
 After you have done your Anki work, we have an additional worksheet to help you drill your pronominal suffixes.  As with previous worksheets, study, then cover-up the first column on the right and see if you can complete the remainder of the worksheet by memory.
 
 [Pronominal Suffix](./images/09_pronominal_suffix_paradigm.pdf){target="_blank"}
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-1. Identify Type 1 suffixes in Ruth 1:1-5 (Yellow)
-2. Identify Type 2 suffixes in Ruth 1:1-5 (Green)
+1. Identify words with pronominal suffixes affixed to the following familial nouns (yellow)
+    * sons
+    * children
+    * people (be mindful of the difference between `people` and `with`)
+    * daughters
+    * God/gods (be mindful of the difference between `God` and `to them`.)
+    * mother-in-law <span class="he">לַחֲמוֹתָהּ</span>
+    * widow <span class="he">יְבִמְתֵּךְ</span>
+    (we are excluding "his wife", "her daughters-in-law", and "her husband" since you found those in previous lessons!)
+2. Identify words with pronominal suffixes affixed to the following other nouns (green)
+    * voice
+3. Identify words with pronominal suffixes affixed to the following prepositions (pink)
+    * between
+    * with
+    * in
+    * to
+    * about
+4. Identify the vocabulary word for "food" or "bread" that is NOT part of a city's name (blue)
 
-Refer to the chart in 9.5 as needed. 
+> You may see other words with pronominal suffixes.  These are likely verbs that we will cover in Lesson 19.
 
+:::
 
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}

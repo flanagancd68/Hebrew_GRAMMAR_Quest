@@ -192,7 +192,7 @@ There are four extremely common constructs in the Bible so we must be able to re
 * <span class="he">אֲחִי־</span> = brother of
 * <span class="he">אֵ֫שֶׁת־</span> = wife of
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/1bvZ74a1SYU){target="_blank"}
 
@@ -203,7 +203,7 @@ There are four extremely common constructs in the Bible so we must be able to re
 
 
 
-## `Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/1JWesFEa2_c){target="_blank"}
 
@@ -213,14 +213,14 @@ There are four extremely common constructs in the Bible so we must be able to re
 </div>
 
 
-## `Anki` {-}
+## Anki {-}
 
 * `Lesson 10 A. Vocab`
 * `Lesson 10 B. Grammar`  
 * `Lesson 10 C. Workbook`
 * `Lesson 10 D. Verses`
 
-## `Worksheets`: Construct Identification {-}
+## Worksheets: Construct Identification {-}
 
 This attachment has a list of words, some are in absolute and some are in construct. See if you can determine the differences<small>^[<small>Odd 1-35, 39, 41, 42, 44, 45, 47 are Absolute; 37 and 38 are ambiguous; even 2-36, 40, 43, 46, and 48 are Construct. Most often it is "Long vowel, not a vowel letter" that identifies absolute.</small>]</small>.
 
@@ -231,13 +231,25 @@ This next attachment is not really a worksheet but is a summary of common constr
 [Construct Vocabulary](./images/10_construct_vocab.pdf){target="_blank"}
 
 
-## `Ruth Pursuit` {-}        
+## Ruth Pursuit {-}        
 
-### Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-Find at least five construct chains, including at least two joined with maqqef (Yellow)
+1. Find the following construct nouns:
+    * days of (yellow)
+    * field(s) of (green)
+    * two of (blue)
+        * two construct M <span class="he">שְׁנֵי</span>
+        * two construct F <span class="he">שְׁתֵּי</span>
+    * house of (pink)
+2. Find the following vocabulary words (gray)
+    * Again
+    * Death
+    * Loyalty
 
-Note the prevalence of the Tsere-Yod as mentioned in 10.6.
+As always, words may have prefixes or suffixes.  Try to identify whether the construct is definite or indefinite based on the absolute noun.  
+:::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #10](./images/10_Ruth_Pursuit_KEY.pdf){target="_blank"}

@@ -213,6 +213,7 @@ knitr::include_graphics("images/18_Mezuzah near Western Wall, tb091306071.jpg")
 | 3ה | <span class="he">יִבְנֶה</span> | <span class="he">יִבֶן</span> | Let him build
 | Bicons. | <span class="he">יָשִֹים</span> | <span class="he">יָשֵֹׁם</span> | Let him put
 | Bicons. | <span class="he">יָשׁוּב</span> | <span class="he">יָשֹׁב</span> | Let him return
+
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/Ycsb8GLkFRA){target="_blank"}
@@ -231,12 +232,6 @@ knitr::include_graphics("images/18_Mezuzah near Western Wall, tb091306071.jpg")
 <iframe class="responsive-iframe" src="https://youtube.com/embed/3mMX0zLi0cU" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 18 A. Vocab`
-* `Lesson 18 B. Grammar` 
-* `Lesson 18 C. Workbook`
-* `Lesson 18 D. Study Verses`
 
 ## Worksheets: Qal Volitional Forms {-}
 
@@ -244,15 +239,18 @@ Qal Volitional Forms
 
 [Name of worksheet](18_qal_volitive_paradigm.pdf){target="_blank"}
 
-## X Ruth Pursuit {-}        
+## Ruth Pursuit {-}   
 
-:::  {.box .map}
+::: {.box .map} 
+YOUR QUEST
 
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
+1. Identify, parse, and translate eight Qal Imperatives
+2. Identify, parse, and translate the one 3rd person Jussive 
+3. Identify, parse, and translate the two negated commands
 :::
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #18](./images/18_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 

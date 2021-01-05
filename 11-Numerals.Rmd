@@ -175,7 +175,7 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 * `Lesson 11 B. Grammar` 
 * `Lesson 11 C. Study Verses` - Note: there is no `Workbook` component to this lesson.
 
-## `Word Warm-up` {-}
+## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/3OuD2Snu-Uk){target="_blank"}
 
@@ -184,9 +184,8 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 </div>
 
 
-## `Verses Warm-up` {-}
+## x Verses Warm-up` {-}
 
-### WAITING ON IZZY
 
 [Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
 
@@ -199,11 +198,21 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 
 
 
-## `Ruth Pursuit` {-}        
 
-### Your Quest: Locate numerals {-}
+## Ruth Pursuit {-}        
 
-1. Find the numbers one, two (the first instance only), and ten (Yellow)
+::: {.box .map} 
+YOUR QUEST
+
+1. Find the following numbers:
+    * one (yellow)
+    * second (green)
+    * ten (pink)
+2. Find the following vocabulary words (blue)
+    * there
+    * night
+:::
+
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 

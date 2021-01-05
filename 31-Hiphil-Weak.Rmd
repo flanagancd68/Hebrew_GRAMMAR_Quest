@@ -130,28 +130,27 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 <iframe class="responsive-iframe" src="https://youtube.com/embed/Y7p9lMZ79FY" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
 
-* `Lesson 31 A. Vocab`
-* `Lesson 31 B. Grammar` 
-* `Lesson 31 C. Workbook`
-* `Lesson 31 D. Study Verses`
 
 ## Ruth Pursuit {-}        
 
 :::  {.box .map}
+YOUR QUEST
 
-Your Quest: Find the five Hiphil Verbs in Ruth 1 (Yellow)
+Identify, parse, and translate the five Hiphil Verbs in Ruth 1.
+
+Make sure you are able to identify the diagnostic indicators of these Hiphil verbs.
+
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
 ## Hebrew Quest Study Passage: Exodus 20 {-}
 
-[Blank copy of Book ##](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/edit?usp=sharing){target="_blank"}
+[Blank copy of Book ##](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
 
 
 1. Read through the passage straight through

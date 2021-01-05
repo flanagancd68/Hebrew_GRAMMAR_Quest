@@ -355,18 +355,22 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
 * `Lesson 13 D. Study Verses`
 
 
-
 ## Ruth Pursuit {-}        
 
-###  Your Quest: {-}
+::: {.box .map} 
+YOUR QUEST
 
-1. Identify all Qal Perfect Strong Verbs (Yellow)
+1. Identify and translate the following Qal Perfect Strong Verbs:
+    * פקד QP3ms (yellow)
+    * זקן QP1cs (green)
+        * What is unique about this verb?
+    * ילד QP1cs (gray)
+    * דבק QP3fs (blue)
+        * Hint: See {page 65 of this dictionary](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}
+2. Identify and translate מלא FS (adjective)(pink)
 
-For now, you may consider a "strong" verb as one that does not have a guttural in any root consonant position.
+:::
 
-In your attempt to identify only strong verbs, you may notice that there are many more Qal Perfect weak verbs than Qal Perfect strong verbs (you can highlight these for next time, we won't tell!).  This gives you an indication of the prevalence of weak verbs.
-
-Hint: there are only four Qal Perfect forms that do not have a guttural.
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #13](./images/13_Ruth_Pursuit_KEY.pdf){target="_blank"}
