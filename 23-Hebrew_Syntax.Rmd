@@ -228,8 +228,16 @@ When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the na
 
 There is no formal quest for this lesson, but consider the following points based on the material in Lesson 23:
 
-* Note the disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is supplemental, background information. 
+* Note the Disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is supplemental, background information. 
 * The Conjunctive Vav in Ruth 1:7 serves to begin a more detailed, focused narrative account of Naomi's return
+* Note how the Disjunctive Vav in the final clause of 1:14 - Vav + non-verb (subject) + predicate - introduces a CONTRAST of Ruth's attitude of clinging, signaling deep loyalty and attachment to Naomi (see the דבק + בְּ note in Lesson 13 answer key), compared to Orpah's goodbye kiss
+* In 1:16, כִּי introduces a subordinate clause that has an explanatory function.  "Ruth tells Naomi to stop urging her to go back, because she has determined that she will follow Naomi wherever her mother-in-law goes."<small>^[<small>Chisholm. _A Workbook for Intermediate Hebrew_, page 286.</small>]</small>
+* 1:17 has what some scholars refer to as an "oath formula".  <span class="he">כֹּה</span> gives the punishment for breaking the promise, and <span class="he">כִּי</span> gives the condition. The specifics appear to be implied rather than stated, which makes a literal translation awkward and any other translation someone speculative and dependent on what the translator believes is the context.  NET renders the first clause as "The LORD will punish me severely."
+    * Other oaths of this type appear in 1 Samuel 14:44, 1 Samuel 20:13, 2 Samuel 3:9, 1 Kings 2:23, and 1 Kings 19:2
+* In 1:20, כִּי introduces a subordinate clause that has an explanatory function. Naomi is elaborating on why she wants a new name.
+* We have noted that most Hebrew clauses begin with a verb, but 1:21 begins with "I".  Naomi is drawing attention to her condition - full when she left, but now returning empty.  Curiously, Ruth evidently counts for nothing.  Naomi's attitude will definitely change by the end of the book!
+    * Also note in 1:21 the Disjunctive Vav clauses, "And Adonai" followed by "And Shaddai."  Chisholm notes that the use may be "semi-poetic": "Adonai has testified about me; Shaddai has afflicted me"<small>^[<small>ibid. p. 133</small>]</small>.
+* Finally the Iwc in 1:22 begins a summarizing, concluding statement bringing the "first act" of the drama to a close.
 
 ## Hebrew Quest Study Passage: Psalm 19 {-}
 

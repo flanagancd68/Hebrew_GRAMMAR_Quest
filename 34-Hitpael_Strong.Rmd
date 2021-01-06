@@ -219,6 +219,20 @@ include_graphics("images/34_stemcomp.png")
 
 If you desire additional paradigm practice, you may use this [Hitpael parsing worksheet](./images/34_hithpael_strong_paradigms.pdf){target="_blank"}
 
+## Ruth Pursuit Analysis
+
+It's time for the Final segment of translating Ruth .  We'll move on to "Scene 3" which concludes "Act 1": Ruth 1:19b-22
+
+::: {.box .map}
+YOUR QUEST
+
+1. Read Ruth 1:19b-22 (the first וַיְהִי marks the start of 19b) in the Hebrew text and underline any words or forms do you not recognize
+2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation 
+3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications? 
+
+:::
+
 
 ## Hebrew Quest Study Passage: Leviticus 23 {-}
 

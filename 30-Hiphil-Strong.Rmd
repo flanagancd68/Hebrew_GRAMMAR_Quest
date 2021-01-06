@@ -279,6 +279,24 @@ After you have reviewed the Anki material for this lesson, test yourself by comp
 <iframe class="responsive-iframe" src="https://youtube.com/embed/-WjxwqdN5UQ" frameborder="0"></iframe>
 </div>
 
+## Ruth Pursuit Analysis {-}
+
+It's time for the next segment of translating Ruth.  We'll continue with "Scene 2": Ruth 1:11-14.
+
+::: {.box .map}
+YOUR QUEST
+
+1. Read Ruth 1:11-14 in the Hebrew text and underline any words or forms do you not recognize
+    * As needed, look up any words you don't recognize
+2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation 
+    * You may wish to compose a structural outline of "mini-scenes" identified by conjunctive or disjunctive clauses, quotations, or other constructions
+3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications? 
+
+:::
+
+
+
 
 ## Hebrew Quest Study Passage: Exodus 19 {-}
 

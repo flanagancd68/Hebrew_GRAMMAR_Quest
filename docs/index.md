@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-01-04"
+#date: "2021-01-05"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-01-04</small>
+<small>*Updated*: 2021-01-05</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -457,7 +457,7 @@ Congratulations on completing your first lesson.  If you look to the left, you s
 
 Now we'll move into the Physical Activity<small>^[<small>If you're wondering why we call it a "physical" activity, see [this discussion](#physical) in the appendix.</small>]</small> stage of the Lesson.  This is where you take what you learned above and put it into practice using `Anki`.  For this lesson, we also have a `worksheet` and an additional writing activity.
 
-### `Anki` {- #anki-1}
+### Anki {- #anki-1}
 
 * `Lesson 01 A. Vocab` - Learn (or relearn) the Aleph-Bet with Izzy. 
 * `Lesson 01 B. Grammar` - Identify look-alike Hebrew letters.
@@ -465,7 +465,7 @@ Now we'll move into the Physical Activity<small>^[<small>If you're wondering why
 
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
 
-### `Worksheets`: Letter Writing {- #worksheets-1}
+### Worksheets: Letter Writing {- #worksheets-1}
 
 1. Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
     * If you would like some tips on how to write the letters, you can use [this guide](https://drive.google.com/file/d/1cmrCXcafjwvbMNj7GgX7UPMGA0FcwvWN/view?usp=sharing){target="_blank"} from Dr. Beckman.
@@ -478,7 +478,7 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 
 You can do this activity online using Google Docs, or you can download/print and use physical highlighters.
 
-* Google Docs: Click the link to open a [blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}.  You may need to sign in with a Google account.  Now click "Open with Google Docs" to highlight the letters.
+* Google Docs: Click the link to open a [blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}.  You may need to sign in with a Google account.  
 * Download/Print: click the same link, then you should see options on the upper right of your screen to print or download (Word format).
 
 ::: {.box .map} 
@@ -496,8 +496,9 @@ Your Quest:
     * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
 :::
 
-* [Ruth Pursuit #1 Answer Key](./images/01_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
+* [Ruth Pursuit #1 Answer Key](./images/01_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* Update your `Ruth Pursuit Translation` Worksheet with the complete words you identify in each Ruth Pursuit lesson](){target="_blank"}
 
 ## Quest Quiz {-}
 
@@ -1081,10 +1082,14 @@ YOUR QUEST
 5. Find the Hebrew words for Elimelech, Machlon, Chilion, and Judah in verses 1-7. Chilion has the prefix "וְ" which means "and". (gray)
 6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #3](./images/03_Ruth Pursuit KEY.pdf){target="_blank"}
+:::
 
-## `Quest Quiz` {-}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #3](./images/03_Ruth Pursuit KEY.pdf){target="_blank"}
+* Be sure to update your `Ruth Pursuit Translation` worksheet from Lesson 1 with this lesson's words.  We encourage you to use "HaShem" or "Adonai" for the Tetragrammaton.
+
+
+## Quest Quiz {-}
 
 [Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 
@@ -2183,6 +2188,7 @@ Curiously, there are a lack of adjectives in Ruth 1.  There are participles, whi
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* Don't forget to update your `Ruth Pursuit Translation` worksheet with new words identified through lesson 7.
 
 ## Quest Quiz {-}
 
@@ -5434,7 +5440,7 @@ YOUR QUEST
 2. Identify, parse, and translate all remaining Qal Vav Consecutive verbs in verses 6-22.  
     * There is one QPwc and the rest are QIwc.  
     * As needed, break down the preformatives and sufformatives to identify the lexical form in order to look up its meaning.  
-    * You may disregard the instances of <span class="he">וַתֹּאמֶר</span>.
+    * For completeness, we will note the instances of <span class="he">וַתֹּאמֶר</span> in gray on the answer key.
 
 :::
 
@@ -6048,7 +6054,7 @@ Meditate on that as you work through this lesson and, especially, as you study t
 
 ## Ruth Pursuit {-}        
 
-Most verbal pronominal suffixes in Ruth 1 are on Qal Infinitive Construct conjugations.  We will study these in lesson 20.  There is no `Ruth Pursuit` for lesson 19.
+Most verbal pronominal suffixes in Ruth 1 are on Qal Infinitive Construct conjugations.  We will study these in lesson 20.  Therefore, there is is no `Ruth Pursuit` for lesson 19.
 
 ## Hebrew Quest Study Passage: Matthew 6 {-}
 
@@ -7017,8 +7023,16 @@ When a Vav is prefixed to a non-verb, it is called a DISjunctive Vav.  As the na
 
 There is no formal quest for this lesson, but consider the following points based on the material in Lesson 23:
 
-* Note the disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is supplemental, background information. 
+* Note the Disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is supplemental, background information. 
 * The Conjunctive Vav in Ruth 1:7 serves to begin a more detailed, focused narrative account of Naomi's return
+* Note how the Disjunctive Vav in the final clause of 1:14 - Vav + non-verb (subject) + predicate - introduces a CONTRAST of Ruth's attitude of clinging, signaling deep loyalty and attachment to Naomi (see the דבק + בְּ note in Lesson 13 answer key), compared to Orpah's goodbye kiss
+* In 1:16, כִּי introduces a subordinate clause that has an explanatory function.  "Ruth tells Naomi to stop urging her to go back, because she has determined that she will follow Naomi wherever her mother-in-law goes."<small>^[<small>Chisholm. _A Workbook for Intermediate Hebrew_, page 286.</small>]</small>
+* 1:17 has what some scholars refer to as an "oath formula".  <span class="he">כֹּה</span> gives the punishment for breaking the promise, and <span class="he">כִּי</span> gives the condition. The specifics appear to be implied rather than stated, which makes a literal translation awkward and any other translation someone speculative and dependent on what the translator believes is the context.  NET renders the first clause as "The LORD will punish me severely."
+    * Other oaths of this type appear in 1 Samuel 14:44, 1 Samuel 20:13, 2 Samuel 3:9, 1 Kings 2:23, and 1 Kings 19:2
+* In 1:20, כִּי introduces a subordinate clause that has an explanatory function. Naomi is elaborating on why she wants a new name.
+* We have noted that most Hebrew clauses begin with a verb, but 1:21 begins with "I".  Naomi is drawing attention to her condition - full when she left, but now returning empty.  Curiously, Ruth evidently counts for nothing.  Naomi's attitude will definitely change by the end of the book!
+    * Also note in 1:21 the Disjunctive Vav clauses, "And Adonai" followed by "And Shaddai."  Chisholm notes that the use may be "semi-poetic": "Adonai has testified about me; Shaddai has afflicted me"<small>^[<small>ibid. p. 133</small>]</small>.
+* Finally the Iwc in 1:22 begins a summarizing, concluding statement bringing the "first act" of the drama to a close.
 
 ## Hebrew Quest Study Passage: Psalm 19 {-}
 
@@ -8126,8 +8140,28 @@ Strive for pattern recognition over rote memorization.
 
 [Name of worksheet](26_piel_strong_paradigms.pdf){target="_blank"}
 
+## Ruth Pursuit Analysis
 
+We are now at the exciting stage where we can begin to stitch together an analysis of Ruth 1.  This will be much the same as you have done with the `Hebrew Quest Study Passages`.  The main difference is you will not have Izzy's video explanation.  In that sense, you will now be wading a little deeper into the Hebrew pool! 
 
+We're going to do this in small chunks over the next several lessons.  
+
+If Ruth 1 is "Act 1" of the drama, then we'll start with what is essentially "scene 1": Ruth 1:1-6.
+
+::: {.box .map}
+YOUR QUEST
+
+1. Read Ruth 1:1-6 in the Hebrew text and underline any words or forms do you not recognize
+    * For the first time, try doing this without any study aids, including your `Ruth Pursuit Translation Worksheet`
+    * Then as needed, look up the words you don't recognize
+2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation (using whatever resources you'd like!)
+    * You may wish to compose a structural outline of "mini-scenes" identified by conjunctive or disjunctive clauses, quotations, or other constructions
+3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications?  It's OK to disagree!
+
+This exercise is for you.  You do not have to turn this in and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their edification. 
+
+:::
 
 ## Hebrew Quest Study Passage: Exodus 31 {-}
 
@@ -8660,6 +8694,26 @@ After you have memorized the information in the "what to memorize" section, see 
 
 [Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
 
+## Ruth Pursuit Analysis {-}
+
+It's time for the next segment of translating Ruth.  This time, we'll start with "Scene 2": Ruth 1:7-10.
+
+::: {.box .map}
+YOUR QUEST
+
+1. Read Ruth 1:7-10 in the Hebrew text and underline any words or forms do you not recognize
+    * For the first time, try doing this without any study aids
+    * Then as needed, look up the words you don't recognize
+2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation 
+    * You may wish to compose a structural outline of "mini-scenes" identified by conjunctive or disjunctive clauses, quotations, or other constructions
+3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications? 
+
+:::
+
+This exercise is for you.  You do not have to turn this in and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their edification. 
+
+
 
 ## Hebrew Quest Study Passage: Revelation 1 {-}
 
@@ -8784,6 +8838,11 @@ In every respect except for $V_S = A$, this is identical to the Polel stem for t
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/YiO_gyPz-nM" frameborder="0"></iframe>
 </div>
+
+## Ruth Pursuit 
+
+Not surprisingly, there are not Pual verbs in Ruth 1.  We'll skip the `Ruth Pursuit` for this lesson.
+
 
 
 
@@ -9099,6 +9158,24 @@ After you have reviewed the Anki material for this lesson, test yourself by comp
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/-WjxwqdN5UQ" frameborder="0"></iframe>
 </div>
+
+## Ruth Pursuit Analysis {-}
+
+It's time for the next segment of translating Ruth.  We'll continue with "Scene 2": Ruth 1:11-14.
+
+::: {.box .map}
+YOUR QUEST
+
+1. Read Ruth 1:11-14 in the Hebrew text and underline any words or forms do you not recognize
+    * As needed, look up any words you don't recognize
+2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation 
+    * You may wish to compose a structural outline of "mini-scenes" identified by conjunctive or disjunctive clauses, quotations, or other constructions
+3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications? 
+
+:::
+
+
 
 
 ## Hebrew Quest Study Passage: Exodus 19 {-}
@@ -9558,6 +9635,21 @@ There are no Hophal verbs in Ruth 1 so there will be no `Ruth Pursuit` for Lesso
 * Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word <span class="he">כֹּל</span>, it seems more likely that his is referring to the completeness of the report that he has received."<small>^[<small>Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf </small>]</small>
 
 
+## Ruth Pursuit Analysis {-}
+
+It's time for the next segment of translating Ruth.  We'll continue with "Scene 2": Ruth 1:15-19a.
+
+::: {.box .map}
+YOUR QUEST
+
+1. Read Ruth 1:15-19a (the first וַיְהִי marks the start of 19b) in the Hebrew text and underline any words or forms do you not recognize
+    * There is one Hitpael form in this passage in verse 18 that we have not yet studied
+2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation 
+3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications? 
+
+:::
+
 ## Hebrew Quest Study Passage: 1 Samuel 17 {-}
 
 [Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/view?usp=sharing){target="_blank"}
@@ -9973,6 +10065,20 @@ HITPAEL | <span class="he">תִמְ</span>
 ## Hitpael Parsing Worksheet {-}
 
 If you desire additional paradigm practice, you may use this [Hitpael parsing worksheet](./images/34_hithpael_strong_paradigms.pdf){target="_blank"}
+
+## Ruth Pursuit Analysis
+
+It's time for the Final segment of translating Ruth .  We'll move on to "Scene 3" which concludes "Act 1": Ruth 1:19b-22
+
+::: {.box .map}
+YOUR QUEST
+
+1. Read Ruth 1:19b-22 (the first וַיְהִי marks the start of 19b) in the Hebrew text and underline any words or forms do you not recognize
+2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation 
+3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications? 
+
+:::
 
 
 ## Hebrew Quest Study Passage: Leviticus 23 {-}

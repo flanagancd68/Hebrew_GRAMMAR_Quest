@@ -208,7 +208,7 @@ Congratulations on completing your first lesson.  If you look to the left, you s
 
 Now we'll move into the Physical Activity<small>^[<small>If you're wondering why we call it a "physical" activity, see [this discussion](#physical) in the appendix.</small>]</small> stage of the Lesson.  This is where you take what you learned above and put it into practice using `Anki`.  For this lesson, we also have a `worksheet` and an additional writing activity.
 
-### `Anki` {- #anki-1}
+### Anki {- #anki-1}
 
 * `Lesson 01 A. Vocab` - Learn (or relearn) the Aleph-Bet with Izzy. 
 * `Lesson 01 B. Grammar` - Identify look-alike Hebrew letters.
@@ -216,7 +216,7 @@ Now we'll move into the Physical Activity<small>^[<small>If you're wondering why
 
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
 
-### `Worksheets`: Letter Writing {- #worksheets-1}
+### Worksheets: Letter Writing {- #worksheets-1}
 
 1. Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
     * If you would like some tips on how to write the letters, you can use [this guide](https://drive.google.com/file/d/1cmrCXcafjwvbMNj7GgX7UPMGA0FcwvWN/view?usp=sharing){target="_blank"} from Dr. Beckman.
@@ -229,7 +229,7 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 
 You can do this activity online using Google Docs, or you can download/print and use physical highlighters.
 
-* Google Docs: Click the link to open a [blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}.  You may need to sign in with a Google account.  Now click "Open with Google Docs" to highlight the letters.
+* Google Docs: Click the link to open a [blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}.  You may need to sign in with a Google account.  
 * Download/Print: click the same link, then you should see options on the upper right of your screen to print or download (Word format).
 
 ::: {.box .map} 
@@ -247,8 +247,9 @@ Your Quest:
     * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
 :::
 
-* [Ruth Pursuit #1 Answer Key](./images/01_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
+* [Ruth Pursuit #1 Answer Key](./images/01_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* Update your `Ruth Pursuit Translation` Worksheet with the complete words you identify in each Ruth Pursuit lesson](){target="_blank"}
 
 ## Quest Quiz {-}
 

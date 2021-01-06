@@ -204,7 +204,7 @@ YOUR QUEST
 2. Identify, parse, and translate all remaining Qal Vav Consecutive verbs in verses 6-22.  
     * There is one QPwc and the rest are QIwc.  
     * As needed, break down the preformatives and sufformatives to identify the lexical form in order to look up its meaning.  
-    * You may disregard the instances of <span class="he">וַתֹּאמֶר</span>.
+    * For completeness, we will note the instances of <span class="he">וַתֹּאמֶר</span> in gray on the answer key.
 
 :::
 

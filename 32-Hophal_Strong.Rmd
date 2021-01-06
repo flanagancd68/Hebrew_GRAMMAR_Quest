@@ -233,6 +233,21 @@ There are no Hophal verbs in Ruth 1 so there will be no `Ruth Pursuit` for Lesso
 * Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word <span class="he">כֹּל</span>, it seems more likely that his is referring to the completeness of the report that he has received."<small>^[<small>Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf </small>]</small>
 
 
+## Ruth Pursuit Analysis {-}
+
+It's time for the next segment of translating Ruth.  We'll continue with "Scene 2": Ruth 1:15-19a.
+
+::: {.box .map}
+YOUR QUEST
+
+1. Read Ruth 1:15-19a (the first וַיְהִי marks the start of 19b) in the Hebrew text and underline any words or forms do you not recognize
+    * There is one Hitpael form in this passage in verse 18 that we have not yet studied
+2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation 
+3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications? 
+
+:::
+
 ## Hebrew Quest Study Passage: 1 Samuel 17 {-}
 
 [Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/view?usp=sharing){target="_blank"}

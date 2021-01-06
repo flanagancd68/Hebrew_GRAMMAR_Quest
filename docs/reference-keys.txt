@@ -346,6 +346,7 @@ piel-infinitives-strong
 piel-participle-strong
 piel-parsing-examples
 stem-comparison-table-2
+ruth-pursuit-analysis
 the-piel-stem---weak-verbs
 guttural
 alephresh-often-cause-dp-v_1-bar-e-and-v_1-bar-a-in-all-other-forms
@@ -370,6 +371,7 @@ the-pual-stem---weak-verbs
 the-pual-diagnostic-v_1-u-is-maintained-in-almost-all-weak-verbs
 gutturals-reject-dagesh-forte
 biconsonantal-the-polal-minor-stem
+ruth-pursuit-25
 the-hiphil-stem---strong-verbs
 meaning-of-the-hiphil
 hiphil-strong-word-initial-combinations---think-hiphil-haphil
@@ -412,6 +414,7 @@ hitpael-imperative-strong
 hitpael-infinitives-strong
 hitpael-participle-strong
 stem-comparison-table-6
+ruth-pursuit-analysis-4
 the-hithpael-stem---weak-verbs
 r_2-can-lose-daghesh-forte
 transposition-of-ת-and-r_1-when-r_1-is-sibilant

@@ -282,7 +282,7 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 
 ## Ruth Pursuit {-}        
 
-Most verbal pronominal suffixes in Ruth 1 are on Qal Infinitive Construct conjugations.  We will study these in lesson 20.  There is no `Ruth Pursuit` for lesson 19.
+Most verbal pronominal suffixes in Ruth 1 are on Qal Infinitive Construct conjugations.  We will study these in lesson 20.  Therefore, there is is no `Ruth Pursuit` for lesson 19.
 
 ## Hebrew Quest Study Passage: Matthew 6 {-}
 
