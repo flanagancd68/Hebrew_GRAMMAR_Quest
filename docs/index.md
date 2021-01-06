@@ -6090,7 +6090,7 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 <!--chapter:end:19-Pronominal_Suffix_Verbs.Rmd-->
 
-# x Qal Infinitive Construct {.Qinfinitive}
+# Qal Infinitive Construct {.Qinfinitive}
 
 Infinitive constructs are verbal nouns.
 
@@ -6100,23 +6100,11 @@ There is a unique aspect that makes identifying and parsing the ∞<small>^[<sma
 ::: {.box .map}
 __LESSON ITINERARY__
 
-1. learning_objective_1
-1. learning_objective_2
-1. learning_objective_3
-1. learning_objective_4
-1. learning_objective_5
-1. learning_objective_6
-1. learning_objective_7
+1. Spelling of the Infinitive Construct
+1. Translating the Infinitive Construct
+1. Negating the Infinitive Construct
 :::
 
-::: {.box .stop}
-__EQUIPMENT CHECK__
-
-Before continuing, can you describe the following concepts?
-
-* 
-*
-:::
 
 ## First Thought {-}
 
@@ -6252,7 +6240,7 @@ Memorize **תֵּת*** as Q∞ of נתן
 When affixed to an ∞ verb, the suffix can be the SUBJECT as well as the object.
 :::
 
-# Most ∞ have a prefixed preposition
+## Most ∞ have a prefixed preposition
 
 * There are 6595 ∞ in the Bible
     * Only 896 do not have a prefixed preposition
@@ -7150,7 +7138,7 @@ $$V_{S_N} = A \sim \bar E (A)$$
 
 <!--chapter:end:23b-Unit4_Intro.Rmd-->
 
-# X The Niphal Stem - Strong Verbs
+# The Niphal Stem - Strong Verbs
 
 The Niphal stem occurs 4,138 times in the Bible. 
 
@@ -7526,12 +7514,6 @@ Hithpael | תִמְ
 <iframe class="responsive-iframe" src="https://youtube.com/embed/jEQ6P2xIDEo" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 24 A. Vocab`
-* `Lesson 24 B. Grammar` 
-* `Lesson 24 C. Workbook`
-* `Lesson 24 D. Study Verses`
 
 ## Worksheets: Niphal Strong Paradigm {-}
 
@@ -7584,7 +7566,7 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 
 <!--chapter:end:24-Niphal_Strong.Rmd-->
 
-# X The Niphal Stem - Weak Verbs {.N-w}
+# The Niphal Stem - Weak Verbs {.N-w}
 
 
 Now that we have learned the basic groundrules for the Niphal stem in Lesson 24, we now turn our attention to the spelling changes caused by verbs with one or more weak letters.  In all stems, weak verbs tend to be much more prevalent, but it is easier to start with the strong verb patterns, then "manage by exception" when it comes to the corresponding weak verbs.
@@ -7644,7 +7626,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 * A weak $R_3$ affects $V_S$ and sufformative (but NOT $V_1$ or $V_P$)
 
 
-## X 1-Guttural 
+## 1-Guttural 
 
 * Guttural takes Hateph Vowel instead of Sheva
     * Remember the Rule of Sheva - "Hateph Copy Cat"
@@ -7683,7 +7665,7 @@ If you see what looks like a "1-Vav" verb, parse it as 1-Yod
     * NP3ms - NOT *<span class="he">נִנְצַל</span> but <span class="he">נִצַּל</span>
     * NPtMS - NOT *<span class="he">נִנְטָל</span> but <span class="he">נִצָּל</span>
 
-## X 3-Aleph Changes $V_S$
+## 3-Aleph Changes $V_S$
 
 ::: {.map .light}
 You can usually parse a 3-Aleph verb based on the preformative alone

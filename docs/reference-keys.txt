@@ -270,7 +270,7 @@ x-imperative-strong
 x-infinitives-strong
 x-participle-strong
 x-parsing-examples
-x-qal-infinitive-construct
+qal-infinitive-construct
 two-types-of-infinitives
 q-spelling
 ה-endings
@@ -307,7 +307,7 @@ review-vowel-and-consonant-shorthand
 review-stem-vowel-is-the-vowel-with-the-2nd-root-consonant
 stem-vowel-pattern-nomenclature
 review-sheva-before-finite-verb-endings
-x-the-niphal-stem---strong-verbs
+the-niphal-stem---strong-verbs
 niphal-verb-stem-table
 niphal-meanings
 niphal-strong-pre-combinations
@@ -324,12 +324,12 @@ forms-with-identical-spelling
 easily-confused-forms
 niphal-parsing-examples
 stem-comparison-table-1
-x-the-niphal-stem---weak-verbs
+the-niphal-stem---weak-verbs
 a-weak-consonant-affects-the-vowels-that-touch-it
-x-1-guttural
+guttural
 yod-1
 nun-with-silent-sheva-assimilates
-x-3-aleph-changes-v_s
+aleph-changes-v_s
 hei-verbs-follow-the-same-general-principles
 what-to-memorize-for-niphal-weak
 top-10-niphal-verbs
@@ -348,7 +348,7 @@ piel-parsing-examples
 stem-comparison-table-2
 ruth-pursuit-analysis
 the-piel-stem---weak-verbs
-guttural
+guttural-1
 alephresh-often-cause-dp-v_1-bar-e-and-v_1-bar-a-in-all-other-forms
 nun
 biconsonantal-the-polel-minor-stem
@@ -387,7 +387,7 @@ strong-summary
 stem-comparison-table-4
 the-hiphil-stem---weak-verbs
 weak-verbs-review
-guttural-1
+guttural-2
 hei
 x-what-to-memorize-1
 x-parsing-examples-1

@@ -1,4 +1,4 @@
-# X The Niphal Stem - Strong Verbs
+# The Niphal Stem - Strong Verbs
 
 The Niphal stem occurs 4,138 times in the Bible. 
 
@@ -377,12 +377,6 @@ include_graphics("images/24_stemcomp.png")
 <iframe class="responsive-iframe" src="https://youtube.com/embed/jEQ6P2xIDEo" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 24 A. Vocab`
-* `Lesson 24 B. Grammar` 
-* `Lesson 24 C. Workbook`
-* `Lesson 24 D. Study Verses`
 
 ## Worksheets: Niphal Strong Paradigm {-}
 

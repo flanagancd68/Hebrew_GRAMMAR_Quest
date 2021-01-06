@@ -1,4 +1,4 @@
-# X The Niphal Stem - Weak Verbs {.N-w}
+# The Niphal Stem - Weak Verbs {.N-w}
 
 
 Now that we have learned the basic groundrules for the Niphal stem in Lesson 24, we now turn our attention to the spelling changes caused by verbs with one or more weak letters.  In all stems, weak verbs tend to be much more prevalent, but it is easier to start with the strong verb patterns, then "manage by exception" when it comes to the corresponding weak verbs.
@@ -58,7 +58,7 @@ knitr::include_graphics("images/25.Sunrise over Mount of Olives, tb031605564.jpg
 * A weak $R_3$ affects $V_S$ and sufformative (but NOT $V_1$ or $V_P$)
 
 
-## X 1-Guttural 
+## 1-Guttural 
 
 * Guttural takes Hateph Vowel instead of Sheva
     * Remember the Rule of Sheva - "Hateph Copy Cat"
@@ -97,7 +97,7 @@ If you see what looks like a "1-Vav" verb, parse it as 1-Yod
     * NP3ms - NOT *<span class="he">נִנְצַל</span> but <span class="he">נִצַּל</span>
     * NPtMS - NOT *<span class="he">נִנְטָל</span> but <span class="he">נִצָּל</span>
 
-## X 3-Aleph Changes $V_S$
+## 3-Aleph Changes $V_S$
 
 ::: {.map .light}
 You can usually parse a 3-Aleph verb based on the preformative alone
