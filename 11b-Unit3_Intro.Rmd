@@ -4,24 +4,16 @@
 
 This unit represents a pivot point in this course.  From now through the end of the course, we will be focusing on verbs.  In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth.  Then in Unit 4 we will learn the six so-called "derived" stems.
 
-With this unit, we are going to increase the intensity of our Hebrew workouts in a couple of ways:
+We wanted to let you know of some changes:
 
-1. Hebrew Quest Study Passages
+
 2. Vowel Shorthand
 2. Cantillation marks added to Study Verses
+3. Changes to Hebrew GRAMMAR Quest for Units 3 and 4
+    1. No more quizzes!
+    2. Cantilation marks added to study verses
+    3. OPTIONAL _Hebrew Quest_ Study Passage Translation
 
-## Hebrew Quest Study Passages {-}
-
-As we mentioned way back in the introduction, we will incorporate scripture reading passages from _Hebrew Quest_.  We will start off slowly with the verses from the Proverbs study.  Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40).
-
-Here is what we want you to do in these Study Passages activities:
-
-1. Download or print the applicable study passage document
-2. Translate verse by verse
-    1. First see how much you can do without a reference
-    2. Then look up any words you don't know in a lexicon
-3. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
-4. Compare your translation from step 2 with Izzy's explanation on the video?  How did you do?  Can you see how much you are learning?
 
 ## Vowel Transliteration/Shorthand
 
@@ -52,7 +44,13 @@ Here is what we want you to do in these Study Passages activities:
         * $V_1$ = Silent Sheva
     * We can shorten this by saying $Pre_{QI} =$ <span class="he">יִקְ</span>, where ק represents $R_1$ of any strong verb
 
-## Cantillation Marks {-}
+
+
+## Changes for Unit 3: No more quizzes!
+
+The purpose of the quizzes in Units 1 and 2 was to provide a checkpoint for students before proceeding to the next lesson.  If you have reached this point in the course, you are a veteran at this now. The workload in other areas of the course is steadily increasing, and of course the Anki reviews are growing (so be sure to keep up with daily reviews!).  We can now dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson.
+
+## Changes for Unit 3: Cantillation Marks added to Study Verses {-}
 
 Way back in Lesson 2, we also referenced additional marking called cantillation marks.  These are the marks in addition to vowels and consonants we sometimes see in Hebrew.  Here is an example from Genesis:
 ```{r, out.width = "600pt", fig.align='center'}
@@ -75,6 +73,24 @@ Things to keep in mind:
 * When in doubt, listen to Izzy's audio carefully as he reads each verse, to determine where the accent goes
 
 Trying to read with these marks can be visually distracting and overwhelming at first, but with practice you will get used to them.  They are part of the rich tradition of Biblical Hebrew that has been passed down to us from many centuries ago.
+
+## Changes for Unit 3: OPTIONAL Hebrew Quest Study Passage Translation{-}
+
+For those who seek more opportunities for additional Hebrew Bible reading and translating activity, we present the `Hebrew Quest Study Passages`.  Whether you have already completed _Hebrew Quest_ or not, this activity is sure to significantly expand your Hebrew reading skills.  
+You will be asked to read through the passage on your own, looking up any words you don't know, to then compose a translation.  You will then watch the applicable video from _Hebrew Quest_ where Izzy reads and breaks down the passage. 
+
+Completion of this activity may require a significant time investment to complete.  Therefore, completion of the `Hebrew Quest Study Passage Track` is not required to earn any Hebrew GRAMMAR Quest `Badges`, `Certificates`, or the `Graduation Diploma`.  
+
+We will start off slowly with the verses from the Proverbs study.  Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40).
+
+Here is what we want you to do in these Study Passages activities:
+
+1. Download or print the applicable study passage document
+2. Translate verse by verse
+    1. First see how much you can do without a reference
+    2. Then look up any words you don't know in a lexicon
+3. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
+4. Compare your translation from step 2 with Izzy's explanation on the video?  How did you do?  Can you see how much you are learning?
 
 ## Keep going! {-}
 

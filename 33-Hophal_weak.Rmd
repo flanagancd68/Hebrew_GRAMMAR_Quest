@@ -76,6 +76,18 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 * Only one geminate consonant is preserved - where possible, a Daghesh Forte will appear in the remaining consonant
 * The Holem+Vav as connecting vowel in some forms of the Perfect is another indicator of the geminate verb
 
+## Top 10 Hophal Verbs
+
+1. <span class="he">מוּת</span> - (Q) to die; (H) kill, put to death; (Hp) be killed, suffer death (69x in the Hp)
+1. <span class="he">נגד</span> - (H) to tell, announce, report; (Hp) be told, be announced, be reported (35x)
+1. <span class="he">בוֺא</span> - (Q) to go in, enter, come to; (H) bring (in), come (in); (Hp) be brought (24x)
+1. <span class="he">שׁזר</span> - (HpPt) twisted; always spelled <span class="he"></span> (21x all in Exod 26–39)
+1. <span class="he">נכה</span> - (H) to strike, smite, strike dead, destroy; (Hp) be struck down dead, be beaten (16x)
+1. <span class="he">שׁלך</span> - (H) to throw (down, into or away), cast; (Hp) be thrown, be cast (13x)
+1. <span class="he">יבל</span> - (H) to bring (as gift or tribute), lead; (Hp) be brought, be led (11x)
+1. <span class="he">יצק</span> - (Q) to pour (out); (Hp) be cast, be poured out, be emptied out (8x)
+1. <span class="he">פקד</span> - (Q)to attend, number, appoint, visit; (H) appoint, entrust; (Hp) be appointed (8x)
+1. <span class="he">גלה</span> - (Q) to uncover, reveal, disclose; (H) take into exile; (Hp) be deported (7x)
 
 ## Word Warm-up {-}
 
@@ -95,28 +107,19 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 <iframe class="responsive-iframe" src="https://youtube.com/embed/sTvLGMtaSpw" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 33 A. Vocab`
-* `Lesson 33 B. Grammar` 
-* `Lesson 33 C. Workbook`
-* `Lesson 33 D. Study Verses`
 
 
-## Ruth Pursuit {-}        
+## Ruth Pursuit {-}   
 
-As we mentioned in Lesson 32, there are no Hophal verbs in Ruth 1.
 
-For this week, read through Ruth 1 and look up any words you don't know.
 
-## Hebrew Quest Study Passage: Psalms 45 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 45 {-}
 
-[Blank copy of Psalms 45](https://docs.google.com/document/d/1Wt1c4OYlK0y2EZnqczRG2U3BhTEzklbHIVg4eNyFhhs/view?usp=sharing){target="_blank"}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
+::: {.box .map}
+YOUR HEBREW QUEST
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+1. Read through the passage - [Blank copy of Psalms 45](https://docs.google.com/document/d/1Wt1c4OYlK0y2EZnqczRG2U3BhTEzklbHIVg4eNyFhhs/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
@@ -126,25 +129,6 @@ For this week, read through Ruth 1 and look up any words you don't know.
     * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/45){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaQodesh speak to you through the passage?
+6. Complete Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/37/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/34/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-
+:::

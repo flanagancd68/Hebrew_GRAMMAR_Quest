@@ -209,7 +209,7 @@ knitr::include_graphics("images/14_gem_table.png")
 ``` 
 
 ::: {.box .map}
-Geminate verbs are relatively infrequent, so the changes in the table above needn't distract you from your verb parsing quest!  You will learn the major geminate verbs in your vocabulary. To start with, here are a few of the most common:
+Although they can be troublesome, Geminate verbs are relatively infrequent, so the changes in the table above needn't distract you from your verb parsing quest!  You will learn the major geminate verbs in your vocabulary. To start with, here are a few of the most common:
 
 * <span class="he">סָבַב</span>, to surround
 * <span class="he">שָׁלַל</span>, to plunder
@@ -322,18 +322,27 @@ Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are v
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #14](./images/14_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## Hebrew Quest Study Passage: Proverbs #8-10 {-}
+## X Quest Quiz {-}
 
-[Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/edit?usp=sharing){target="_blank"}
+[Open Quest Quiz #xx in a new window](){target="_blank"}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+
+## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #8-10 {-}
+
+
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can. [Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Sketch out a translation - there is a blank line between each verse
@@ -344,23 +353,4 @@ Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are v
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-We do not include _Hebrew Quest_ study passage memorization work in the Hebrew Grammar Quest Anki deck.  Optionally, you may wish to complete passage memorization in Memrise if you have not already done so [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/22/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::

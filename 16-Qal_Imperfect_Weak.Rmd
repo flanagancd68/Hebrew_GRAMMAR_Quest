@@ -369,26 +369,11 @@ Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar wo
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #16](./images/16_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
-## X Hebrew Quest Study Passage: Proverbs #15-17 {-}
-
-[Blank copy of Proberbs #15-17](https://docs.google.com/document/d/1ZuH8tOF8VEtLYCvAexzt0oScAKlfVEkSecPQ-ZjfuhM/edit?usp=sharing){target="_blank"}
-
-
-1. Read through the passage straight through
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #15](https://holylanguage.com/proverbs-15.php){target="_blank"}
-    1. [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
-    1. [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 ## X Quest Quiz {-}
 
@@ -407,4 +392,21 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
+
+
+## OPTIONAL:  _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. Read through the passage - [Blank copy of Proberbs #15-17](https://docs.google.com/document/d/1ZuH8tOF8VEtLYCvAexzt0oScAKlfVEkSecPQ-ZjfuhM/copy){target="_blank"}
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #15](https://holylanguage.com/proverbs-15.php){target="_blank"}
+    1. [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
+    1. [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+:::
 

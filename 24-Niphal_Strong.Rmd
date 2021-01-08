@@ -82,7 +82,7 @@ Cause an Action	| Hiphil | Hophal
     * <span class="he">אמן</span> - Niphal - to be reliable, faithful, trustworthy
     * <span class="he">לחם</span> - Niphal - to fight, do battle with
 
-## Niphal Strong $Pre$ Combinations 
+## Parsing Clues - _Pre_:  the נ prefix is added to EVERY conjugation
 
 * For ease of reference, we are going to use the label $Pre$ for any diagnostic combination of word-initial consonants (prefix or root letters), vowels, and Dagesh Fortes (as applicable)
     * ק is used as a placeholder to represent $R_1% of any strong verb
@@ -104,57 +104,40 @@ Memorize these three $Pre$ formulas and the conjugations in which they are used:
 
 :::
 
-## Niphal Strong Stem Vowels 
+## Parsing Clues - $V_S = A \sim \bar E(A)$
 
 ::: {.box .light}
-Memorize this $V_S$ formula:
+Memorize the $V_S$ formulas for each stem
+
+    *  NP = $A$
+    *  NP/NI/N∞ = $\bar E$ ($A$ for Feminine Plural forms)
+    *  NA (and A for all derived stems) = $\bar E$ (usually)
+    *  NPt (and Pt for all derived stems) = the P3ms $V_S$, _lengthened if possible_
 :::
 
-$$V_{S_N} = A \sim \bar E(A)$$
-
-* Examples:
-    * Perfect $V_S=A$, so NP3ms = <span class="he">נִקְתַל</span>
-    * Imperfect/Imperative/∞ (except FP) $V_S= \bar E$, so <span class="he">יִקָּטֵל</span>
-    * Imperfect/Imperative/∞ FP $V_S=(A)$, so <span class="he">תִּקָּטַ֫לְנָה</span>
-
-## Niphal Infinitive Absolute $V_S = \bar E$ (usually)
-
-* In the QA, $V_S = \hat O$ - ALWAYS
-* Some forms of Niphal also have $V_S = \hat O$
-* $\hat O$ - <span class="he">וֹ</span>-  can be written defectively
-* This means a Niphal Infinitive Absolute can occur in any one of six variants:
-    *  <span class="he">הִקָּטֵל</span>
-    *  <span class="he">הִקָּטוֹל</span>
-    *  <span class="he">נִקְטוֹל</span>
-    *  <span class="he">נִקְטֵל</span>
-    *  <span class="he">נִקְטֹל</span>
-    *  <span class="he">הִקָּטֹל</span>
-* Remember, the Niphal absolute only occurs 37 times total, so do not be overly concerned with these variations
-
-::: {.box .info}
-In all other stems, including one form of Niphal Absolute, the stem vowel is $\bar E$
-:::
-
-## Niphal Participle $V_S =$ Lengthened P3ms
-
-* If $V_S$ is already long, the Participle is the same as the Perfect 3ms
-* This is true for all Stems except Qal
-* Remember the formula: $V_{S_N} = A \sim \bar E(A)$
+* Perfect $V_S=A$, so NP3ms = <span class="he">נִקְתַל</span>
+* Imperfect/Imperative/∞ (except FP) $V_S= \bar E$, so <span class="he">יִקָּטֵל</span>
+* Imperfect/Imperative/∞ FP $V_S=(A)$, so <span class="he">תִּקָּטַ֫לְנָה</span>
+* Infinitive Absolute $V_S = \bar E$ (usually)
+    * In the QA, $V_S = \hat O$ - ALWAYS
+    * Some forms of Niphal also have $V_S = \hat O$ - <span class="he">וֹ</span>-  can be written defectively
+    * The Niphal absolute only occurs 37 times total
+* Niphal Participle $V_S =$ Lengthened P3ms
+    * If $V_S$ is already long, the Participle is the same as the Perfect 3ms
     * Since the Niphal Perfect 3ms $V_S = A$, the Niphal Participle $V_S = \bar A$
-    * NP3ms = <span class="he">נִקְטַל</span>
-    * NptMS = <span class="he">נִקְטָל</span>
-* $V_S$ does NOT reduce in the Niphal
-* This distinguishes Np3fs from NPtfs
-    * <span class="he">נִקְטָלָה</span> is NPtfs because $V_S$ is long
-    * <span class="he">נִקְתְלָה</span> is NP3fs because $V_S$ is reduced
-* Other stems reduce only if $V_S$ is $\bar E$ (Tsere)
-    * Qal Active, Piel and Hitpael
+        * NP3ms = <span class="he">נִקְטַל</span>
+        * NptMS = <span class="he">נִקְטָל</span>
+    * $V_S$ does NOT reduce in the NPt, which distinguishes Np3fs from NPtfs
+        * <span class="he">נִקְטָלָה</span> is NPtfs because $V_S$ is long
+        * <span class="he">נִקְתְלָה</span> is NP3fs because $V_S$ is reduced
+    * Other stems reduce only if $V_S$ is $\bar E$ (Tsere)
+        * Qal Active, Piel and Hitpael
     
 
 ## What to memorize for all Derived Stems {-}
 * Meaning of $V_S$ pattern
 
-$$V_S = Perfect \sim Imperfect (Imperfect FP)$$
+$$V_S = Perfect[2/1 person] \sim Imperfect (Imperfect FP)$$
 
 * Always a Sheva before finite verb endings (unless $\bar E$ (Tsere))
 * Participle $V_S$ = P3ms $V_S$ lengthened if possible (unless $\bar E$ (Tsere))
@@ -165,14 +148,14 @@ $$V_S = Perfect \sim Imperfect (Imperfect FP)$$
 
 ## What to memorize for Niphal 
 
-* The Three Primary Word-initial Sequences
+* The Three $Pre$ Sequences
     * $Pre_{NP, NPt} =$ <span class="he">ְנִק</span>        
         * Also one form of NA
     * $Pre_{NI3m} =$ <span class="he">יַקְ</span> - and so forth for the other Imperfect forms
     * $Pre_{NM/N∞}= $<span class="he">מַקְ</span>
         * Also one form of NA
-* The Niphal Stem vowel Pattern and what it means
-    * $V_{S_N} = A \sim \bar E(A)$
+* The Niphal $V_S$ formula and what it means
+    * $V_{S} = A \sim \bar E(A)$
 
 
 
@@ -395,29 +378,13 @@ Again, you do NOT need to have the Niphal paradigms memorized (although that may
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaQodesh speak to you through the passage?
+6. Complete associated Memrise module [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/27/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+:::
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/35/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
 
 
 

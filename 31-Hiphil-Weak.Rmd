@@ -86,29 +86,7 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 
 ## X <stem>: what to memorize
 
-## X <stem> Parsing Examples
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$<span class="he"></span>
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$<span class="he"></span>
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$<span class="he"></span>
-    * $V_S =$
-    * Result: 
-## Top 10 Niphal Verbs
+## Top 10 Hiphil Verbs
 
 
 
@@ -143,7 +121,7 @@ Make sure you are able to identify the diagnostic indicators of these Hiphil ver
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 

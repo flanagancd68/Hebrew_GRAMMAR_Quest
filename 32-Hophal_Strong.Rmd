@@ -1,6 +1,6 @@
 # The Hophal Stem - Strong Verbs {.Hp-s}
 
-Of the seven major stems, the Hophal occurs with the least frequency (396 times). Similar to the Pual, the Hophal has some distinctive characteristics making it relatively straightforward to identify.
+Of the seven major stems, the Hophal occurs with the least frequency (396 times, roughly split between the Perfect, Imperfect and Participle). Like the Pual, the Hophal has some distinctive characteristics making it relatively straightforward to identify.
 
 ::: {.box .map}
 <span class="he">LESSON ITINERARY<span class="he">
@@ -68,7 +68,7 @@ Meanings:
 
 Parsing Code: Hp (`p`assive of `H`iphil)
 
-## Hophal Strong Beginning Combinations - Think "Houûphal"
+## Hophal Strong Parsing Clues - _Pre_: Think "Houûphal"
 
 * Preformatives
     * Hophal verbs have preformative ה like the Hiphil
@@ -96,7 +96,7 @@ QAMETS HATUF
 * Therefore, in the Hophal Stem, <span class="he">הָקְטַל</span> is pronounced "hoq-TAL" (rhymes with "Hophal").
 :::
 
-## Hophal $V_S$ = A
+## Hophal Strong Parsing Clues - $V_S$ = A
     * P,I,M,∞ is A ַ  , like Pual
     * Particle stem is lengthened P3ms as expected - HpP3ms uses A ַַ  so HpPt uses Ā ָ  (only 8 Hp∞ and 2 HM in the Bible)
     * Absolute is  Ē ֵַ  as expected (only 6 HpA in the Bible)
@@ -221,7 +221,7 @@ include_graphics("images/32_stemcomp.png")
 
 If you desire additional paradigm practice, you may use this [Hophal parsing worksheet](./images/32_hophal_strong_paradigms.pdf){target="_blank"}
 
-## Ruth Pursuit {-}        
+     
 
 There are no Hophal verbs in Ruth 1 so there will be no `Ruth Pursuit` for Lessons 32 or 33.
 
@@ -248,14 +248,24 @@ YOUR QUEST
 
 :::
 
-## Hebrew Quest Study Passage: 1 Samuel 17 {-}
 
-[Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/view?usp=sharing){target="_blank"}
+## X Claim your next `Twelve Tribes Badge`! {-}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## OPTIONAL Hebrew Quest Study Passage: 1 Samuel 17 {-}
+
+
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read through the passage - [Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
@@ -270,23 +280,6 @@ YOUR QUEST
 
 Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
 
 
 

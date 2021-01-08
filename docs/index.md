@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-01-05"
+#date: "2021-01-08"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-01-05</small>
+<small>*Updated*: 2021-01-08</small>
 
 
 <!--chapter:end:index.Rmd-->
@@ -3266,24 +3266,16 @@ YOUR QUEST
 
 This unit represents a pivot point in this course.  From now through the end of the course, we will be focusing on verbs.  In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth.  Then in Unit 4 we will learn the six so-called "derived" stems.
 
-With this unit, we are going to increase the intensity of our Hebrew workouts in a couple of ways:
+We wanted to let you know of some changes:
 
-1. Hebrew Quest Study Passages
+
 2. Vowel Shorthand
 2. Cantillation marks added to Study Verses
+3. Changes to Hebrew GRAMMAR Quest for Units 3 and 4
+    1. No more quizzes!
+    2. Cantilation marks added to study verses
+    3. OPTIONAL _Hebrew Quest_ Study Passage Translation
 
-## Hebrew Quest Study Passages {-}
-
-As we mentioned way back in the introduction, we will incorporate scripture reading passages from _Hebrew Quest_.  We will start off slowly with the verses from the Proverbs study.  Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40).
-
-Here is what we want you to do in these Study Passages activities:
-
-1. Download or print the applicable study passage document
-2. Translate verse by verse
-    1. First see how much you can do without a reference
-    2. Then look up any words you don't know in a lexicon
-3. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
-4. Compare your translation from step 2 with Izzy's explanation on the video?  How did you do?  Can you see how much you are learning?
 
 ## Vowel Transliteration/Shorthand
 
@@ -3314,7 +3306,13 @@ Here is what we want you to do in these Study Passages activities:
         * $V_1$ = Silent Sheva
     * We can shorten this by saying $Pre_{QI} =$ <span class="he">יִקְ</span>, where ק represents $R_1$ of any strong verb
 
-## Cantillation Marks {-}
+
+
+## Changes for Unit 3: No more quizzes!
+
+The purpose of the quizzes in Units 1 and 2 was to provide a checkpoint for students before proceeding to the next lesson.  If you have reached this point in the course, you are a veteran at this now. The workload in other areas of the course is steadily increasing, and of course the Anki reviews are growing (so be sure to keep up with daily reviews!).  We can now dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson.
+
+## Changes for Unit 3: Cantillation Marks added to Study Verses {-}
 
 Way back in Lesson 2, we also referenced additional marking called cantillation marks.  These are the marks in addition to vowels and consonants we sometimes see in Hebrew.  Here is an example from Genesis:
 <img src="images/02.Gen0109.png" width="600pt" style="display: block; margin: auto;" />
@@ -3334,6 +3332,24 @@ Things to keep in mind:
 * When in doubt, listen to Izzy's audio carefully as he reads each verse, to determine where the accent goes
 
 Trying to read with these marks can be visually distracting and overwhelming at first, but with practice you will get used to them.  They are part of the rich tradition of Biblical Hebrew that has been passed down to us from many centuries ago.
+
+## Changes for Unit 3: OPTIONAL Hebrew Quest Study Passage Translation{-}
+
+For those who seek more opportunities for additional Hebrew Bible reading and translating activity, we present the `Hebrew Quest Study Passages`.  Whether you have already completed _Hebrew Quest_ or not, this activity is sure to significantly expand your Hebrew reading skills.  
+You will be asked to read through the passage on your own, looking up any words you don't know, to then compose a translation.  You will then watch the applicable video from _Hebrew Quest_ where Izzy reads and breaks down the passage. 
+
+Completion of this activity may require a significant time investment to complete.  Therefore, completion of the `Hebrew Quest Study Passage Track` is not required to earn any Hebrew GRAMMAR Quest `Badges`, `Certificates`, or the `Graduation Diploma`.  
+
+We will start off slowly with the verses from the Proverbs study.  Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40).
+
+Here is what we want you to do in these Study Passages activities:
+
+1. Download or print the applicable study passage document
+2. Translate verse by verse
+    1. First see how much you can do without a reference
+    2. Then look up any words you don't know in a lexicon
+3. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
+4. Compare your translation from step 2 with Izzy's explanation on the video?  How did you do?  Can you see how much you are learning?
 
 ## Keep going! {-}
 
@@ -3716,19 +3732,22 @@ Find the following miscellaneous words:
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 
 * [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## Hebrew Quest Study Passage: Proverbs Study #1-4 {-}
 
-[Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/edit?usp=sharing){target="_blank"}
+## OPTIONAL: _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* PLEASE DO NOT: `Request Edit Access`
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+
+[Blank copy of Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/copy){target="_blank"}
+
+::: {.box .map}
+YOUR HEBREW QUEST!
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can. [Blank copy of Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Sketch out a translation - there is a blank line between each verse
@@ -3738,18 +3757,8 @@ Find the following miscellaneous words:
     1. [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
     1. [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage.
-
-Optionally, you may wish to complete passage memorization in Memrise if you have not already done so [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/16/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## Quest Quiz #12 {-}
-
-[Open Quest Quiz #12 in a new window](https://forms.gle/WUNKaMmoPwZggTPB9){target="_blank"}
-
-<div class="containerLet">
-<iframe class="responsive-iframe" src="https://forms.gle/WUNKaMmoPwZggTPB9" frameborder="0"></iframe>
-</div>
-
+5. How did the Ruach HaQodesh speak to you through the passage?
+:::
 
 
 
@@ -4103,7 +4112,7 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
 ## Ruth Pursuit {-}        
 
 ::: {.box .map} 
-YOUR QUEST
+YOUR QUEST:
 
 1. Identify and translate the following Qal Perfect Strong Verbs:
     * פקד QP3ms (yellow)
@@ -4111,44 +4120,17 @@ YOUR QUEST
         * What is unique about this verb?
     * ילד QP1cs (gray)
     * דבק QP3fs (blue)
-        * Hint: See {page 65 of this dictionary](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}
+        * Hint: See [page 65 of this dictionary](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}
 2. Identify and translate מלא FS (adjective)(pink)
 
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #13](./images/13_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
-## Hebrew Quest Study Passage: Proverbs #5-7 {-}
-
-[Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/edit?usp=sharing){target="_blank"}
-
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
-
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #5](https://holylanguage.com/proverbs-5.php){target="_blank"}
-    1. [Proverbs #6](https://holylanguage.com/proverbs-6.php){target="_blank"}
-    1. [Proverbs #7](https://holylanguage.com/proverbs-7.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
-
-We do not include _Hebrew Quest_ study passage memorization work in the Hebrew Grammar Quest Anki deck.  Optionally, you may wish to complete passage memorization in Memrise if you have not already done so [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/22/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## Quest Quiz #13 {-}
-
-[Open Quest Quiz #13 in a new window](https://forms.gle/czcZwnd26WJj3rg46){target="_blank"}
-
-<div class="containerLet">
-<iframe class="responsive-iframe" src="https://forms.gle/czcZwnd26WJj3rg46" frameborder="0"></iframe>
-</div>
 
 ## X Claim your next `Twelve Tribes Badge`! {-}
 
@@ -4160,6 +4142,23 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
 
+## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #5-7 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can - [Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/copy){target="_blank"}
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #5](https://holylanguage.com/proverbs-5.php){target="_blank"}
+    1. [Proverbs #6](https://holylanguage.com/proverbs-6.php){target="_blank"}
+    1. [Proverbs #7](https://holylanguage.com/proverbs-7.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+:::
 
 <!--chapter:end:13-Qal_Perfect_Strong.Rmd-->
 
@@ -4371,7 +4370,7 @@ Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "re
 </div>
 
 ::: {.box .map}
-Geminate verbs are relatively infrequent, so the changes in the table above needn't distract you from your verb parsing quest!  You will learn the major geminate verbs in your vocabulary. To start with, here are a few of the most common:
+Although they can be troublesome, Geminate verbs are relatively infrequent, so the changes in the table above needn't distract you from your verb parsing quest!  You will learn the major geminate verbs in your vocabulary. To start with, here are a few of the most common:
 
 * <span class="he">סָבַב</span>, to surround
 * <span class="he">שָׁלַל</span>, to plunder
@@ -4484,18 +4483,27 @@ Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are v
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #14](./images/14_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## Hebrew Quest Study Passage: Proverbs #8-10 {-}
+## X Quest Quiz {-}
 
-[Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/edit?usp=sharing){target="_blank"}
+[Open Quest Quiz #xx in a new window](){target="_blank"}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+
+## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #8-10 {-}
+
+
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can. [Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Sketch out a translation - there is a blank line between each verse
@@ -4506,26 +4514,7 @@ Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are v
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-We do not include _Hebrew Quest_ study passage memorization work in the Hebrew Grammar Quest Anki deck.  Optionally, you may wish to complete passage memorization in Memrise if you have not already done so [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/22/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:14-Qal_Perfect_Weak.Rmd-->
 
@@ -4681,6 +4670,7 @@ Study the graphic and the steps below carefully.  It may seem confusing at first
             <code>audio</code> element.
     </audio>
 </figure>
+
 ## Worksheets: Qal Imperfect Strong Paradigm {-}
 
 As with Lesson 13 we want you to pause here and do the [Qal Imperfect Strong Paradigm](./images/15_qal_imperfect_strong_paradigm.pdf){target="_blank"}.
@@ -4772,32 +4762,9 @@ Identify and translate the Qal Verbs below.
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #15](./images/15_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-
-
-## Hebrew Quest Study Passage: Proverbs #11-14 {-}
-
-[Blank copy of Proverbs #11-14(https://docs.google.com/document/d/1E1Qbbx3tHw8pOfMSGwQHwD406eHIMd1O5lAS_tDWllE/edit?usp=sharing){target="_blank"}
-
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
-
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
-3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #11](https://holylanguage.com/proverbs-11.php){target="_blank"}
-    1. [Proverbs #12](https://holylanguage.com/proverbs-12.php){target="_blank"}
-    1. [Proverbs #13](https://holylanguage.com/proverbs-13.php){target="_blank"}
-    1. [Proverbs #14](https://holylanguage.com/proverbs-14.php){target="_blank"}
-4. After the video, assess your translation.  How close was it.
-5. How did the Ruach HaQodesh speak to you through the passage.
-
-Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 ## X Quest Quiz {-}
 
@@ -4807,17 +4774,26 @@ Optionally, as we discussed in Lesson 17, you may complete the passage memorizat
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
 
-## X Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
 
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
+1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can. [Blank copy of Proverbs #11-14(https://docs.google.com/document/d/1E1Qbbx3tHw8pOfMSGwQHwD406eHIMd1O5lAS_tDWllE/copy){target="_blank"}
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #11](https://holylanguage.com/proverbs-11.php){target="_blank"}
+    1. [Proverbs #12](https://holylanguage.com/proverbs-12.php){target="_blank"}
+    1. [Proverbs #13](https://holylanguage.com/proverbs-13.php){target="_blank"}
+    1. [Proverbs #14](https://holylanguage.com/proverbs-14.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
 
-
+:::
 
 <!--chapter:end:15-Qal_Imperfect_strong.Rmd-->
 
@@ -5192,26 +5168,11 @@ Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar wo
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #16](./images/16_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
-## X Hebrew Quest Study Passage: Proverbs #15-17 {-}
-
-[Blank copy of Proberbs #15-17](https://docs.google.com/document/d/1ZuH8tOF8VEtLYCvAexzt0oScAKlfVEkSecPQ-ZjfuhM/edit?usp=sharing){target="_blank"}
-
-
-1. Read through the passage straight through
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #15](https://holylanguage.com/proverbs-15.php){target="_blank"}
-    1. [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
-    1. [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 ## X Quest Quiz {-}
 
@@ -5230,6 +5191,23 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
+
+
+## OPTIONAL:  _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. Read through the passage - [Blank copy of Proberbs #15-17](https://docs.google.com/document/d/1ZuH8tOF8VEtLYCvAexzt0oScAKlfVEkSecPQ-ZjfuhM/copy){target="_blank"}
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
+    1. [Proverbs #15](https://holylanguage.com/proverbs-15.php){target="_blank"}
+    1. [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
+    1. [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+:::
 
 
 <!--chapter:end:16-Qal_Imperfect_Weak.Rmd-->
@@ -7222,7 +7200,7 @@ Cause an Action	| Hiphil | Hophal
     * <span class="he">אמן</span> - Niphal - to be reliable, faithful, trustworthy
     * <span class="he">לחם</span> - Niphal - to fight, do battle with
 
-## Niphal Strong $Pre$ Combinations 
+## Parsing Clues - _Pre_:  the נ prefix is added to EVERY conjugation
 
 * For ease of reference, we are going to use the label $Pre$ for any diagnostic combination of word-initial consonants (prefix or root letters), vowels, and Dagesh Fortes (as applicable)
     * ק is used as a placeholder to represent $R_1% of any strong verb
@@ -7244,57 +7222,40 @@ Memorize these three $Pre$ formulas and the conjugations in which they are used:
 
 :::
 
-## Niphal Strong Stem Vowels 
+## Parsing Clues - $V_S = A \sim \bar E(A)$
 
 ::: {.box .light}
-Memorize this $V_S$ formula:
+Memorize the $V_S$ formulas for each stem
+
+    *  NP = $A$
+    *  NP/NI/N∞ = $\bar E$ ($A$ for Feminine Plural forms)
+    *  NA (and A for all derived stems) = $\bar E$ (usually)
+    *  NPt (and Pt for all derived stems) = the P3ms $V_S$, _lengthened if possible_
 :::
 
-$$V_{S_N} = A \sim \bar E(A)$$
-
-* Examples:
-    * Perfect $V_S=A$, so NP3ms = <span class="he">נִקְתַל</span>
-    * Imperfect/Imperative/∞ (except FP) $V_S= \bar E$, so <span class="he">יִקָּטֵל</span>
-    * Imperfect/Imperative/∞ FP $V_S=(A)$, so <span class="he">תִּקָּטַ֫לְנָה</span>
-
-## Niphal Infinitive Absolute $V_S = \bar E$ (usually)
-
-* In the QA, $V_S = \hat O$ - ALWAYS
-* Some forms of Niphal also have $V_S = \hat O$
-* $\hat O$ - <span class="he">וֹ</span>-  can be written defectively
-* This means a Niphal Infinitive Absolute can occur in any one of six variants:
-    *  <span class="he">הִקָּטֵל</span>
-    *  <span class="he">הִקָּטוֹל</span>
-    *  <span class="he">נִקְטוֹל</span>
-    *  <span class="he">נִקְטֵל</span>
-    *  <span class="he">נִקְטֹל</span>
-    *  <span class="he">הִקָּטֹל</span>
-* Remember, the Niphal absolute only occurs 37 times total, so do not be overly concerned with these variations
-
-::: {.box .info}
-In all other stems, including one form of Niphal Absolute, the stem vowel is $\bar E$
-:::
-
-## Niphal Participle $V_S =$ Lengthened P3ms
-
-* If $V_S$ is already long, the Participle is the same as the Perfect 3ms
-* This is true for all Stems except Qal
-* Remember the formula: $V_{S_N} = A \sim \bar E(A)$
+* Perfect $V_S=A$, so NP3ms = <span class="he">נִקְתַל</span>
+* Imperfect/Imperative/∞ (except FP) $V_S= \bar E$, so <span class="he">יִקָּטֵל</span>
+* Imperfect/Imperative/∞ FP $V_S=(A)$, so <span class="he">תִּקָּטַ֫לְנָה</span>
+* Infinitive Absolute $V_S = \bar E$ (usually)
+    * In the QA, $V_S = \hat O$ - ALWAYS
+    * Some forms of Niphal also have $V_S = \hat O$ - <span class="he">וֹ</span>-  can be written defectively
+    * The Niphal absolute only occurs 37 times total
+* Niphal Participle $V_S =$ Lengthened P3ms
+    * If $V_S$ is already long, the Participle is the same as the Perfect 3ms
     * Since the Niphal Perfect 3ms $V_S = A$, the Niphal Participle $V_S = \bar A$
-    * NP3ms = <span class="he">נִקְטַל</span>
-    * NptMS = <span class="he">נִקְטָל</span>
-* $V_S$ does NOT reduce in the Niphal
-* This distinguishes Np3fs from NPtfs
-    * <span class="he">נִקְטָלָה</span> is NPtfs because $V_S$ is long
-    * <span class="he">נִקְתְלָה</span> is NP3fs because $V_S$ is reduced
-* Other stems reduce only if $V_S$ is $\bar E$ (Tsere)
-    * Qal Active, Piel and Hitpael
+        * NP3ms = <span class="he">נִקְטַל</span>
+        * NptMS = <span class="he">נִקְטָל</span>
+    * $V_S$ does NOT reduce in the NPt, which distinguishes Np3fs from NPtfs
+        * <span class="he">נִקְטָלָה</span> is NPtfs because $V_S$ is long
+        * <span class="he">נִקְתְלָה</span> is NP3fs because $V_S$ is reduced
+    * Other stems reduce only if $V_S$ is $\bar E$ (Tsere)
+        * Qal Active, Piel and Hitpael
     
 
 ## What to memorize for all Derived Stems {-}
 * Meaning of $V_S$ pattern
 
-$$V_S = Perfect \sim Imperfect (Imperfect FP)$$
+$$V_S = Perfect[2/1 person] \sim Imperfect (Imperfect FP)$$
 
 * Always a Sheva before finite verb endings (unless $\bar E$ (Tsere))
 * Participle $V_S$ = P3ms $V_S$ lengthened if possible (unless $\bar E$ (Tsere))
@@ -7305,14 +7266,14 @@ $$V_S = Perfect \sim Imperfect (Imperfect FP)$$
 
 ## What to memorize for Niphal 
 
-* The Three Primary Word-initial Sequences
+* The Three $Pre$ Sequences
     * $Pre_{NP, NPt} =$ <span class="he">ְנִק</span>        
         * Also one form of NA
     * $Pre_{NI3m} =$ <span class="he">יַקְ</span> - and so forth for the other Imperfect forms
     * $Pre_{NM/N∞}= $<span class="he">מַקְ</span>
         * Also one form of NA
-* The Niphal Stem vowel Pattern and what it means
-    * $V_{S_N} = A \sim \bar E(A)$
+* The Niphal $V_S$ formula and what it means
+    * $V_{S} = A \sim \bar E(A)$
 
 
 
@@ -7532,29 +7493,13 @@ Again, you do NOT need to have the Niphal paradigms memorized (although that may
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaQodesh speak to you through the passage?
+6. Complete associated Memrise module [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/27/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+:::
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/35/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
 
 
 
@@ -8363,7 +8308,7 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 1. <span class="he">דָּבַר</span> - (Q) to speak; (D) speak to, with or about (someone or something) (1,085x in the Piel)
 1. <span class="he">צָוָה</span> - (D) to command, give an order, charge (487x)
 1. <span class="he">שָׁלַח</span> - (Q) to send, stretch out; (D) send, stretch out, send away, expel, let go free (267x)
-1. <span class="he">בָּרַךְ</span> - (Q Pass Ptc) blessed, praised, adored; (D) bless, praise (233x)
+1. <span class="he">בָּרַךְ</span> - (QPp) blessed, praised, adored; (D) bless, praise (233x)
 1. <span class="he">בָּקַשׁ</span> - (D) to seek (to find or obtain), search for, look for, discover, demand, require (222x)
 1. <span class="he">כָּלָה</span> - (Q) to (be) complete, be finished, be at an end,come to an end; (D) complete, finish, bring to an end (141x)
 1. <span class="he">כָּסָה</span> - (Q) to cover, conceal, hide; (D) cover (up), conceal, clothe (132x) 
@@ -8453,9 +8398,7 @@ The Pual occurs 423 times in the Hebrew Bible:
 * Perfect 146
 * Imperfect 85 
 * Participle: 190
-* Never in the Imperative and only once each in Infinitives.
-
-There are no Pual verbs in Ruth chapter 1 so lesson 29 will not have a `Ruth Pursuit` activity.
+* The Pual never occurs in DpM, and occurs only once each in Dp∞ and DpA
 
 ::: {.box .map}
 <span class="he">LESSON ITINERARY<span class="he">
@@ -8528,29 +8471,29 @@ The Pual is the Passive of the Piel, or sometimes, the passive of the Qal
 
 
 
-## Pual Strong Spelling
+## Parsing Clues - _Pre_: $V_1 = U$ - ALWAYS for strong verbs
 
 * The Pual is very consistent making it easily recognizable
     * $V_1 = U$ - ALWAYS for strong verbs
-    
+* Perfect: <span class="he">קֻטּ</span>
+* Imperfect: <span class="he">יְקֻטּּ</span>
+    * $V_P = \ :$ (I1cs/I1cp never occurs)
+* Parcitiple: <span class="he">ּמְקֻט</span>
+
 ::: {.box .light}
 The Qibbuts under the first root consonant distinguishes the Pual Form
 :::
 
-* Other characteristics of the Pual:
-    * $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
-        * I.e. $V_S = A \sim A$
-        * Pt lengthens as expected: $V_S = \bar A$
+## Parsing Clues - $V_S = A$ and Dagesh Forte in $R_2$
+
+* $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
+    * I.e. $V_S = A \sim A$
+    * Pt lengthens as expected: $V_S = \bar A$
 * The Pual retains the other diagnostics of the Piel:
     * Daghesh Forte in $R_2$
-    * $V_P = \ :$ (I1cs/I1cp never occurs)
-* The Pual never occurs in DpM, and occurs only once each in Dp∞ and DpA
 
-## Pual Strong $Pre$
 
-* Perfect: <span class="he">קֻטּ</span>
-* Imperfect: <span class="he">יְקֻטּּ</span>
-* Parcitiple: <span class="he">ּמְקֻט</span>
+
 
 ## Pual: what to memorize
 
@@ -8563,7 +8506,7 @@ The Qibbuts under the first root consonant distinguishes the Pual Form
 * Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
 * Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
 
-## X Pual Perfect Strong
+## X Perfect  
 
 Qibbuts in $V_1$ always
 
@@ -8586,10 +8529,10 @@ Qibbuts in $V_1$ always
 </figure>
 
 
-## X Pual Imperfect Strong
+## X Imperfect  
 
-* Qibbuts in $V_1$ always
-* Sheva/Hateph in $V_P$ always
+* Qibbuts in $V_1 = U$ always
+* If there is a preformative, $V_P = \ :$ always
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -8610,7 +8553,7 @@ Qibbuts in $V_1$ always
 </figure>
 
 
-## X Pual Participle Strong
+## X Participle
 
 * Qibbuts in $V_1$ always
 * Mem+Sheva prefix always
@@ -8670,11 +8613,6 @@ Hithpael | תִמְ
 </div>
 
 
-## Worksheets: Pual Paradigm {-}
-
-After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
-
-[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
 
 ## Ruth Pursuit Analysis {-}
 
@@ -8697,26 +8635,7 @@ This exercise is for you.  You do not have to turn this in and it will not be gr
 
 
 
-## Hebrew Quest Study Passage: Revelation 1 {-}
 
-[Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/edit?usp=sharing){target="_blank"}
-
-
-1. Read through the passage straight through
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
 
 ## X Claim your next `Twelve Tribes Badge`! {-}
 
@@ -8727,6 +8646,29 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
+
+## OPTIONAL Worksheets: Pual Paradigm {-}
+
+After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
+
+[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
+
+
+
+## OPTIONAL Hebrew Quest Study Passage: Revelation 1 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read through the passage straight through - [Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/copy){target="_blank"}
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
+4. After the video, compare your translation with versions such as ESV, NASB, NIV and/or NLT. How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+6. Complete associated Memrise module [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/31/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+:::
+
 
 
 <!--chapter:end:28-Pual_Strong.Rmd-->
@@ -9289,29 +9231,7 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 
 ## X <stem>: what to memorize
 
-## X <stem> Parsing Examples
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$<span class="he"></span>
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$<span class="he"></span>
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$<span class="he"></span>
-    * $V_S =$
-    * Result: 
-## Top 10 Niphal Verbs
+## Top 10 Hiphil Verbs
 
 
 
@@ -9346,7 +9266,7 @@ Make sure you are able to identify the diagnostic indicators of these Hiphil ver
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -9387,7 +9307,7 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 # The Hophal Stem - Strong Verbs {.Hp-s}
 
-Of the seven major stems, the Hophal occurs with the least frequency (396 times). Similar to the Pual, the Hophal has some distinctive characteristics making it relatively straightforward to identify.
+Of the seven major stems, the Hophal occurs with the least frequency (396 times, roughly split between the Perfect, Imperfect and Participle). Like the Pual, the Hophal has some distinctive characteristics making it relatively straightforward to identify.
 
 ::: {.box .map}
 <span class="he">LESSON ITINERARY<span class="he">
@@ -9455,7 +9375,7 @@ Meanings:
 
 Parsing Code: Hp (`p`assive of `H`iphil)
 
-## Hophal Strong Beginning Combinations - Think "Houûphal"
+## Hophal Strong Parsing Clues - _Pre_: Think "Houûphal"
 
 * Preformatives
     * Hophal verbs have preformative ה like the Hiphil
@@ -9483,7 +9403,7 @@ QAMETS HATUF
 * Therefore, in the Hophal Stem, <span class="he">הָקְטַל</span> is pronounced "hoq-TAL" (rhymes with "Hophal").
 :::
 
-## Hophal $V_S$ = A
+## Hophal Strong Parsing Clues - $V_S$ = A
     * P,I,M,∞ is A ַ  , like Pual
     * Particle stem is lengthened P3ms as expected - HpP3ms uses A ַַ  so HpPt uses Ā ָ  (only 8 Hp∞ and 2 HM in the Bible)
     * Absolute is  Ē ֵַ  as expected (only 6 HpA in the Bible)
@@ -9605,7 +9525,7 @@ Hithpael | תִמְ
 
 If you desire additional paradigm practice, you may use this [Hophal parsing worksheet](./images/32_hophal_strong_paradigms.pdf){target="_blank"}
 
-## Ruth Pursuit {-}        
+     
 
 There are no Hophal verbs in Ruth 1 so there will be no `Ruth Pursuit` for Lessons 32 or 33.
 
@@ -9632,14 +9552,24 @@ YOUR QUEST
 
 :::
 
-## Hebrew Quest Study Passage: 1 Samuel 17 {-}
 
-[Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/view?usp=sharing){target="_blank"}
+## X Claim your next `Twelve Tribes Badge`! {-}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+</div>
+
+## OPTIONAL Hebrew Quest Study Passage: 1 Samuel 17 {-}
+
+
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read through the passage - [Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
@@ -9654,23 +9584,6 @@ YOUR QUEST
 
 Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
 
 
 
@@ -9755,6 +9668,18 @@ As people of God, we are sometimes faced with situations where we are tempted to
 * Only one geminate consonant is preserved - where possible, a Daghesh Forte will appear in the remaining consonant
 * The Holem+Vav as connecting vowel in some forms of the Perfect is another indicator of the geminate verb
 
+## Top 10 Hophal Verbs
+
+1. <span class="he">מוּת</span> - (Q) to die; (H) kill, put to death; (Hp) be killed, suffer death (69x in the Hp)
+1. <span class="he">נגד</span> - (H) to tell, announce, report; (Hp) be told, be announced, be reported (35x)
+1. <span class="he">בוֺא</span> - (Q) to go in, enter, come to; (H) bring (in), come (in); (Hp) be brought (24x)
+1. <span class="he">שׁזר</span> - (HpPt) twisted; always spelled <span class="he"></span> (21x all in Exod 26–39)
+1. <span class="he">נכה</span> - (H) to strike, smite, strike dead, destroy; (Hp) be struck down dead, be beaten (16x)
+1. <span class="he">שׁלך</span> - (H) to throw (down, into or away), cast; (Hp) be thrown, be cast (13x)
+1. <span class="he">יבל</span> - (H) to bring (as gift or tribute), lead; (Hp) be brought, be led (11x)
+1. <span class="he">יצק</span> - (Q) to pour (out); (Hp) be cast, be poured out, be emptied out (8x)
+1. <span class="he">פקד</span> - (Q)to attend, number, appoint, visit; (H) appoint, entrust; (Hp) be appointed (8x)
+1. <span class="he">גלה</span> - (Q) to uncover, reveal, disclose; (H) take into exile; (Hp) be deported (7x)
 
 ## Word Warm-up {-}
 
@@ -9774,28 +9699,19 @@ As people of God, we are sometimes faced with situations where we are tempted to
 <iframe class="responsive-iframe" src="https://youtube.com/embed/sTvLGMtaSpw" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 33 A. Vocab`
-* `Lesson 33 B. Grammar` 
-* `Lesson 33 C. Workbook`
-* `Lesson 33 D. Study Verses`
 
 
-## Ruth Pursuit {-}        
+## Ruth Pursuit {-}   
 
-As we mentioned in Lesson 32, there are no Hophal verbs in Ruth 1.
 
-For this week, read through Ruth 1 and look up any words you don't know.
 
-## Hebrew Quest Study Passage: Psalms 45 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 45 {-}
 
-[Blank copy of Psalms 45](https://docs.google.com/document/d/1Wt1c4OYlK0y2EZnqczRG2U3BhTEzklbHIVg4eNyFhhs/view?usp=sharing){target="_blank"}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
+::: {.box .map}
+YOUR HEBREW QUEST
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
+1. Read through the passage - [Blank copy of Psalms 45](https://docs.google.com/document/d/1Wt1c4OYlK0y2EZnqczRG2U3BhTEzklbHIVg4eNyFhhs/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
@@ -9805,39 +9721,27 @@ For this week, read through Ruth 1 and look up any words you don't know.
     * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/45){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaQodesh speak to you through the passage?
+6. Complete Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/37/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/34/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-
+:::
 
 <!--chapter:end:33-Hophal_weak.Rmd-->
 
 # The Hithpael Stem - Strong Verbs {.HT-s}
 
 
-> To comprehend Biblical Hebrew, we must be able to identify the Hitpael verbs.
-
 This is one of the shortest and easiest chapters in Hebrew GRAMMAR Quest.
 
 If you've made it this far, you've earned it!
+
+There are just under 1000 instances of the Hitpael stem:
+
+* tDP - 161
+* tDI - 491
+* tDM - 78
+* tD∞ - 104
+* tDA - 3
+* tDPt - 147
 
 
 ##  First Thought {-}
@@ -9873,7 +9777,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 
 
-## Meaning of the Hitpael
+## Meaning
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -9897,11 +9801,11 @@ Meanings:
 * Simple active - <span class="he">פלל</span>
     * tD - to pray
 
-## Hitpael Strong Beginning Combinations - Think "_IT"
+## Parsing Clues - _Pre_: a distinctive "_h_IT" prefix
 
 The Hitpael is probably the easiest stem to identify:
 
-* All conjugations have a distinctive preformative:
+* All conjugations have a distinctive prefix:
     * <span class="he">הִתְקַטֶּל</span> - tDP3ms, tDM2ms, tD∞, or tDA
     * <span class="he">יִתְקַטֶּל</span> - tDI3ms, and so forth for the remaining imperfect stems. 
         * tDI1cs preformative is <span class="he">אֶתְ</span>
@@ -9915,13 +9819,14 @@ Also:
 * $V_1$ is Patach
 
 
-## Hitpael $V_S$ = Ē[A] ~ Ē
-    * tDP2ms and tDP1cs have $V_S$ = ַ , otherwise it's very consistent
+## Parsing Clues - $V_S = /bar E[A] /sim /bar E$
+
+* tDP2ms and tDP1cs have $V_S$ = ַ , otherwise it's very consistent
 
 > The Preformative alone is sufficient to identify the Hitpael stem
 
 
-## Hitpael Perfect Strong
+## Perfect Strong
 
 * The standard Perfect sufformatives
 * $V_S =$ Patach
@@ -9946,7 +9851,7 @@ Also:
 </figure>
 
 
-## Hitpael Imperfect Strong
+## Imperfect Strong
 
 * The standard Imperfect preformatives and sufformatives
 * $V_S =$ Patach
@@ -9972,14 +9877,14 @@ Also:
     </audio>
 </figure>
 
-## Hitpael Imperative Strong
+## Imperative Strong
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">הִתְקַטֵּל</span> | 2mp | <span class="he">הִתְקַטְּלוּ</span>
 | 2fs | <span class="he">הִתְקַטְּלִי</span> | 2fp | <span class="he">הִתְקַטֵּ֫לְנָה</span>
 
-## Hitpael Infinitives Strong
+## Infinitives Strong
 
 
 | Type | Paradigm 
@@ -9989,7 +9894,7 @@ Also:
 
 Although these forms are identical to tDP3ms and tDM2ms, the infinitive forms are infrequent.  The tDA only appears three times in the Hebrew Bible.
 
-## Hitpael Participle Strong
+## Participle Strong
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -10015,7 +9920,7 @@ HITPAEL | <span class="he">תִמְ</span>
 
 ## Stem Comparison Table
 
-* Here is the complete Stem Comparison Table
+* Here is the complete Stem Comparison Table listing $Pre$ and $V_S$ for each stem and the three major conjugations:
 
 <img src="images/34_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 ## Word Warm-up {-}
@@ -10036,14 +9941,6 @@ HITPAEL | <span class="he">תִמְ</span>
 <iframe class="responsive-iframe" src="https://youtube.com/embed/unjNAqluDpk" frameborder="0"></iframe>
 </div>
 
-## Anki {-}
-
-* `Lesson 34 A. Vocab`
-* `Lesson 34 B. Grammar`
-* `Lesson 34 C. Workbook`
-* `Lesson 34 D. Study Verses`
-
-
 ## Hitpael Parsing Worksheet {-}
 
 If you desire additional paradigm practice, you may use this [Hitpael parsing worksheet](./images/34_hithpael_strong_paradigms.pdf){target="_blank"}
@@ -10063,14 +9960,14 @@ YOUR QUEST
 :::
 
 
-## Hebrew Quest Study Passage: Leviticus 23 {-}
 
-[Blank copy of Leviticus 23](https://docs.google.com/document/d/1QlmWYqkD6NNOM0VcJCrJbB_ntpuXnoCCdpqJ0m6xcqU/edit?usp=sharing){target="_blank"}
+## OPTIONAL _Hebrew Quest_ Study Passage: Leviticus 23 {-}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
 
-1. BEFORE WATCHING THE VIDEOS, read through the passage on your own straight through one time - pick up as much as you can
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read through the passage - [Blank copy of Leviticus 23](https://docs.google.com/document/d/1QlmWYqkD6NNOM0VcJCrJbB_ntpuXnoCCdpqJ0m6xcqU/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
@@ -10078,29 +9975,13 @@ YOUR QUEST
 3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)]
     * [Part 1](https://holylanguage.com/leviticus-23.1.php){target="_blank"}
     * [Part 2](https://holylanguage.com/leviticus-23.2.php){target="_blank"}
-4. After the video, assess your translation.  How close was it
+4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaQodesh speak to you through the passage?
+6. Complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/38/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/37/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed __all activities__ through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:34-Hitpael_Strong.Rmd-->
 
@@ -10225,6 +10106,19 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
     * <span class="he">וְנִשְׁתַּחֲוֶה וְנָשׁוּבָה אֲלֵיכֶם</span> - (and) we will worship and we will return to you (Gen 22:5)
 
 
+## Top 10 Hitpael Verbs
+
+1. <span class="he">פלל</span> - (tD) to pray, make intercession (80x in the tD)
+2. <span class="he">הלך</span> - (Q) to go, walk; (tD) walk about, move to and fro (64x)
+3. <span class="he">יצב</span> - (tD) to take one’s stand, stand firm, station oneself, resist (48x)
+4. <span class="he">נבא</span> - (tD) speak or behave as a prophet, be in a state of prophetic ecstasy (28x)
+5. <span class="he">חזק</span> - (Q) to be strong, have courage; (tD) strengthen oneself (27x)
+6. <span class="he">קדש</span> - (Q) to be holy, set apart or consecrated; (tD) show or keep oneself holy (24x)
+7. <span class="he">הלל</span> - (D) to praise, sing hallelujah; (tD) boast (23x)
+8. <span class="he">טהר</span> - (Q) to be clean, be pure; (tD) purify or cleanse oneself (20x)
+9. <span class="he">יחשֹ</span> - (tD) to be enrolled in a genealogical list; (tD∞ as noun) genealogy (20x)
+10 <span class="he">אבל</span> - (Q) to mourn, lament; (tD) observe mourning rites (19x)
+
 
 
 ## Word Warm-up {-}
@@ -10255,36 +10149,12 @@ YOUR QUEST
 Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael verbs in the remainder of Ruth.
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #35](./images/35_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
-## Hebrew Quest Study Passage: 1 Kings 18 {-}
 
-[Blank copy of 1 Kings 18](https://docs.google.com/document/d/1YmsEP2tiOf2qtI3xSM_HJ0sgTYUtV8Up86UIFotRtNY/view?usp=sharing){target="_blank"}
-
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
-
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/kings-18.php){target="_blank"}
-4. After the video, assess your translation.  How close was it.
-5. How did the Ruach HaQodesh speak to you through the passage.
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/40/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
 
 ## X Claim your next `Twelve Tribes Badge`! {-}
 
@@ -10296,6 +10166,26 @@ Check to be sure you have have completed **all activities** through this lesson,
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
 
+
+## OPTIONAL_Hebrew Quest_ Study Passage: 1 Kings 18 {-}
+
+
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read through the passage - [Blank copy of 1 Kings 18](https://docs.google.com/document/d/1YmsEP2tiOf2qtI3xSM_HJ0sgTYUtV8Up86UIFotRtNY/copy){target="_blank"}
+2. Now re-read the passage critically
+    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    2. Parse as many verbs as you can
+    3. Sketch out a translation - there is a blank line between each verse
+3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/kings-18.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
+    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
+5. How did the Ruach HaQodesh speak to you through the passage?
+6. Complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/40/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+:::
 
 <!--chapter:end:35-Hitpael_Weak.Rmd-->
 

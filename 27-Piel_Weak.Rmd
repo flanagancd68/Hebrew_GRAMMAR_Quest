@@ -188,7 +188,7 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 1. <span class="he">דָּבַר</span> - (Q) to speak; (D) speak to, with or about (someone or something) (1,085x in the Piel)
 1. <span class="he">צָוָה</span> - (D) to command, give an order, charge (487x)
 1. <span class="he">שָׁלַח</span> - (Q) to send, stretch out; (D) send, stretch out, send away, expel, let go free (267x)
-1. <span class="he">בָּרַךְ</span> - (Q Pass Ptc) blessed, praised, adored; (D) bless, praise (233x)
+1. <span class="he">בָּרַךְ</span> - (QPp) blessed, praised, adored; (D) bless, praise (233x)
 1. <span class="he">בָּקַשׁ</span> - (D) to seek (to find or obtain), search for, look for, discover, demand, require (222x)
 1. <span class="he">כָּלָה</span> - (Q) to (be) complete, be finished, be at an end,come to an end; (D) complete, finish, bring to an end (141x)
 1. <span class="he">כָּסָה</span> - (Q) to cover, conceal, hide; (D) cover (up), conceal, clothe (132x) 

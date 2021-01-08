@@ -7,9 +7,7 @@ The Pual occurs 423 times in the Hebrew Bible:
 * Perfect 146
 * Imperfect 85 
 * Participle: 190
-* Never in the Imperative and only once each in Infinitives.
-
-There are no Pual verbs in Ruth chapter 1 so lesson 29 will not have a `Ruth Pursuit` activity.
+* The Pual never occurs in DpM, and occurs only once each in Dp∞ and DpA
 
 ::: {.box .map}
 <span class="he">LESSON ITINERARY<span class="he">
@@ -85,29 +83,29 @@ The Pual is the Passive of the Piel, or sometimes, the passive of the Qal
 
 
 
-## Pual Strong Spelling
+## Parsing Clues - _Pre_: $V_1 = U$ - ALWAYS for strong verbs
 
 * The Pual is very consistent making it easily recognizable
     * $V_1 = U$ - ALWAYS for strong verbs
-    
+* Perfect: <span class="he">קֻטּ</span>
+* Imperfect: <span class="he">יְקֻטּּ</span>
+    * $V_P = \ :$ (I1cs/I1cp never occurs)
+* Parcitiple: <span class="he">ּמְקֻט</span>
+
 ::: {.box .light}
 The Qibbuts under the first root consonant distinguishes the Pual Form
 :::
 
-* Other characteristics of the Pual:
-    * $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
-        * I.e. $V_S = A \sim A$
-        * Pt lengthens as expected: $V_S = \bar A$
+## Parsing Clues - $V_S = A$ and Dagesh Forte in $R_2$
+
+* $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
+    * I.e. $V_S = A \sim A$
+    * Pt lengthens as expected: $V_S = \bar A$
 * The Pual retains the other diagnostics of the Piel:
     * Daghesh Forte in $R_2$
-    * $V_P = \ :$ (I1cs/I1cp never occurs)
-* The Pual never occurs in DpM, and occurs only once each in Dp∞ and DpA
 
-## Pual Strong $Pre$
 
-* Perfect: <span class="he">קֻטּ</span>
-* Imperfect: <span class="he">יְקֻטּּ</span>
-* Parcitiple: <span class="he">ּמְקֻט</span>
+
 
 ## Pual: what to memorize
 
@@ -120,7 +118,7 @@ The Qibbuts under the first root consonant distinguishes the Pual Form
 * Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
 * Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
 
-## X Pual Perfect Strong
+## X Perfect  
 
 Qibbuts in $V_1$ always
 
@@ -143,10 +141,10 @@ Qibbuts in $V_1$ always
 </figure>
 
 
-## X Pual Imperfect Strong
+## X Imperfect  
 
-* Qibbuts in $V_1$ always
-* Sheva/Hateph in $V_P$ always
+* Qibbuts in $V_1 = U$ always
+* If there is a preformative, $V_P = \ :$ always
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -167,7 +165,7 @@ Qibbuts in $V_1$ always
 </figure>
 
 
-## X Pual Participle Strong
+## X Participle
 
 * Qibbuts in $V_1$ always
 * Mem+Sheva prefix always
@@ -230,11 +228,6 @@ include_graphics("images/28_stemcomp.png")
 </div>
 
 
-## Worksheets: Pual Paradigm {-}
-
-After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
-
-[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
 
 ## Ruth Pursuit Analysis {-}
 
@@ -257,26 +250,7 @@ This exercise is for you.  You do not have to turn this in and it will not be gr
 
 
 
-## Hebrew Quest Study Passage: Revelation 1 {-}
 
-[Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/edit?usp=sharing){target="_blank"}
-
-
-1. Read through the passage straight through
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
 
 ## X Claim your next `Twelve Tribes Badge`! {-}
 
@@ -287,4 +261,27 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="" frameborder="0"></iframe>
 </div>
+
+## OPTIONAL Worksheets: Pual Paradigm {-}
+
+After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
+
+[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
+
+
+
+## OPTIONAL Hebrew Quest Study Passage: Revelation 1 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read through the passage straight through - [Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/copy){target="_blank"}
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
+4. After the video, compare your translation with versions such as ESV, NASB, NIV and/or NLT. How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+6. Complete associated Memrise module [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/31/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+
+:::
+
 
