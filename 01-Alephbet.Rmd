@@ -93,7 +93,7 @@ Almost every other grammar book would start with a lengthy description of each l
 
 * We'll talk about vowels in Lesson 2
 
-::: {.box .idea}
+::: {.box .stop}
 
 If you have not yet completed _Hebrew Quest_ Lessons 1-11, we encourage you to stop here and move over to Hebrew Quest to complete the Alephbet lessons.
 

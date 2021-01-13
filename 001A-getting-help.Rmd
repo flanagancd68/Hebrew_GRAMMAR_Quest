@@ -2,8 +2,8 @@
 # Getting Started / Getting Help {- #intro-a}
 
 1. [How do I navigate around this book?](#navigating)
-4. [How do I get started?](#get_started)
 5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
+4. [How do I get started?](#get_started)
 2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
 3. [How to ask a question if you get stuck](#get_help)
 
@@ -29,12 +29,51 @@ There are several ways to navigate from page to page within this guidebook:
 * Use the left-navigation sidebar (type `s` to reveal/hide)
 * Click the left or right arrow on each page to go forward or back
 * Use the left or right arrow keys on your keyboard to move forward or back
-* Use hyperlinks on selected pages, like this one: [Continue to the Introduction section](#motivation)
+* Use hyperlinks on selected pages, like this one: [Continue to "A Typical Lesson" section](#features)
 
 
-## Book features {-}
 
-Along the way, you'll see some informational boxes.  Here is what they mean:
+## A Typical Lesson {- #typical-lesson}
+
+```{r, out.width = "400pt", fig.align='center'}
+knitr::include_graphics("images/checklist.png")
+```
+
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain:<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
+
+
+**Title**|**Description**|**Estimated Minutes**
+:-----|:----- | :---
+  READING|
+Lesson Itinerary | Introduction and the lesson's learning objectives | <1
+Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
+First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
+Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
+ ACTIVITIES|
+ `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
+ `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be four stages to each Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
+`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
+ `B. Grammar`|Here, you will work through the main grammar concepts discussed in the lesson.
+ `C. Workbook/Parsing`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
+ `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
+`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
+`Ruth Pursuit`|Similar to the "bag the letter" activity in the early lessons of  _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
+`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
+`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
+TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
+
+Of course, some lessons will be more involved than others, and each of us works at a different pace. One of the beautiful things about a self-paced class is the pace is not set by a course syllabus.  The pace is set by YOU!
+
+::: {.box .light}
+DON'T BE OVERWHELMED!  YOU GOT THIS!
+
+Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this were back on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
+:::
+
+Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+
+
+## Information Boxes {-}
 
 ::: {.infobox .map}
 QUEST   
@@ -75,69 +114,121 @@ We also have footnotes<small>^[<small>Minor or parenthetical/non-essential point
 
 ## Quick Start Instructions {.unnumbered #get_started}
 
-These instructions will get you up and running with the course.  
+These ten easy steps will get you up and running with the course.  
 
+<!-- update the final anki deck version - current link is PREVIEW -->
+
+| Step | Comments
+| :-- | :-- 
+|1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course
+|2. Download the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
+3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards
+4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and synch your data to the cloud and mobile devices
+5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | You MUST install Anki from a desktop/laptop first
+6. [Download the Hebrew GRAMMAR Quest Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"} | This deck is the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone
+7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness
+8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | This creates a version of your deck in the cloud, which case be used to sync with a mobile device or simply as a backup
+9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons, while you assess whether the cost is justified
+10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time, and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
+11. Finally, read the `Getting Started/Getting Help` and `About This Course` introductions | You have already started this! These sections contain important background information to help assure you are oriented to Hebrew GRAMMAR Quest.  If you are not familiar with `Anki`, the `Help with Anki` section (on the next page) is critically important to read.
+    
 > **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
 
+## Help with Anki {-}
 
-1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}.
-1. INSTALL ANKI
-    1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}.
-        * Doing this allows you to synch your data to the cloud and mobile devices
-    1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}.
-    1. [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"}
-    1. Change the Anki settings [as described here](#anki_settings).
-    1. As desired, download the Anki app to your phone or tablet.  
-        1. The [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} is free
-        1. The [iOS app](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} is $25 - see discussions in the Appendix for additional discussion as to whether the cost is "worth it"
-        1. Synch
-            1. In your _desktop_ Anki, click on `synch` (enter Ankiweb credentials) - `upload to Ankiweb` if asked.
-            1. In your _mobile_ app do the same, except here click `download from Ankiweb`
-            1. Should you go back and forth between mobile and desktop, make sure you `synch` each time, and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
-1. You will need a Google account to complete many of the activities in this course
-     1. if you do not already have one, or would like to create an additional account only for this course, click [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"}
-1. Open the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} for you to keep track of your progress in this course.
-    * Download a copy of the checklist to your personal Google Drive, where you will be able to complete it online
-    * Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
-    
-## A Typical Lesson {- #typical-lesson}
+```{r, fig.show="hold", out.width = "150pt", fig.align='center', fig.cap="Strength and Endurance"}
 
-```{r, out.width = "400pt", fig.align='center'}
-knitr::include_graphics("images/checklist.png")
+knitr::include_graphics("images/weight.png")
+knitr::include_graphics("images/treadmill.png")
 ```
 
-In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what will be inside a typical lesson<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
 
+If one wants to build strength and endurance, it's important to use the right machines. weight machine.  Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times, helping you build both Hebrew strength and Hebrew endurance!
 
-**Title**|**Description**|**Estimated Time**
-:-----|:----- | :---
-  READING|
-Lesson Itinerary | The lesson's key learning objectives | <1
-Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
-First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
-Lesson Points | The main grammar concepts - Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
- ACTIVITIES|
- `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
- `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be three stages to each Lesson. | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
-`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
- `B. Grammar`|Here, you will work through (and at times grapple with) the main grammar concepts discussed in the Lesson.
- `C. Workbook`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
- `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
-`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
-`Ruth Pursuit`|Similar to the "bag the letter" in _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
-`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
-`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
-TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
-
-Of course, some lessons will be more involved than others, and each of us works at different paces. One of the beautiful things about a self-paced class is the pace is not set by a course syllabus.  The pace is set by YOU!
-
-::: {.box .light}
-DON'T BE OVERWHELMED!  YOU GOT THIS!
-
-Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this were back on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
+::: {.box .info}
+As you work through this course, it will be important to set aside time to review DAILY
 :::
 
-Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+The sections below will help you get started with Anki.
+
+### How do I get help with Anki? {-}
+
+::: {.box .info}
+
+What appears in the sections below is only the information you will need for Hebrew GRAMMAR Quest.
+
+While we are here to [help](#report_issue) with any issues related to the course including our `Hebrew Grammar Quest Anki Deck`, unfortunately it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple websearch.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
+:::
+
+### Customize Anki Settings {- #anki_settings}
+
+1. Change USER1 Name 
+    1. In Anki, click File, then Switch Profile  
+    2. Select “User 1,” then Rename and type your name
+1. Change global settings
+    1. Click `Tools,` then `Preferences.`
+        1. On the `Basic` tab, some people prefer `night mode` - if this is you, check the `Night Mode` box
+        2. On the `Scheduling` tab:
+            1. Check the box that says `Anki 2.1 Scheduler.`
+            2. Note the hour the `next day` starts - 
+                * You want to set this for a time where you will NOT be doing reviews.  
+                * For most people, 4:00 am is a safe time, but if you're routinely awake at 4:00 am, set this field to be earlier or later.
+        3. Close out of this window to return to the main page
+1. On the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select “Options” ([click for image](./images/a.anki_settings.png){target="_blank"})
+    1. `New Cards`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information</small>]</small>
+        * `Steps` = 10 1440 4320
+        * `New cards/day` = 200
+        * `Graduating interval` = 15
+        * `Easy interval` = 60
+        * `Starting ease` = 250%
+        * `Bury related new cards...` = Up to you but we recommend - CHECKED
+    2. `Reviews`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=reviews for additional information</small>]</small>
+        * `Maximum reviews/day` = 9999
+        * `Easy bonus` = 130%
+        * `Interval modifier` = 100
+        * `Maximum interval` = 210
+        * `Bury related reviews...` = Up to you but we recommend - CHECKED    
+    3. `Lapses`
+        * `Steps` = 10
+        * `New interval` = 60
+        * `Maximum interval` = 1
+        * `Leech threshold` = 8
+        * `Leech action` = TAG ONLY
+
+Your settings should look like this:
+```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
+
+knitr::include_graphics("images/anki_custom_new.png")
+```
+    
+### How do I navigate within Anki? {-}
+
+* Click the +/- buttons to expand/collapse the folders within the Anki deck [see example](./images/a.anki_hint.gif){target="_blank"}
+  * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
+* Many cards have "hints" - click on the `hint` button to reveal [see example](./images/anki.png){target="_blank"}
+    * If you needed a hint, be sure to select `Again` on the answer side
+* When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
+
+### How do I know when to hit the `Good` button on an `Anki` card? {-}
+
+We suggest using the following guidelines:
+
+* `Again`
+  * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
+  * Your answer was correct, but you required a hint
+* `Good`
+  * All parts of the answer are correct; no hints
+  * For Bible Verses, you can read and understand the passage in Hebrew and your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse. You do NOT need to have the passage and its meaning memorized in order to mark `Good`
+  * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
+* `Easy`
+  * We do not recommend selecting `Easy.` 
+  * An exception might be when you are confident that you already have the word, rule, or passage memorized
+* `Hard` - You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed
+
+Most importantly, be patient with yourself.  It may take you many tries in the early going before you can hit `Good.`
+
+See [Anki info and FAQ](#anki_faq) for additional information on Anki.
+
 
 ## Report an Issue {- #report_issue}
 

@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-01-12"
+#date: "2021-01-13"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-01-12</small>
+<small>*Updated*: 2021-01-13</small>
 
 
 © 2021 Holy Language Institute. All rights reserved.
@@ -60,8 +60,8 @@ Biblical Hebrew text is courtesy of tanach.us (version 26.0).
 # Getting Started / Getting Help {- #intro-a}
 
 1. [How do I navigate around this book?](#navigating)
-4. [How do I get started?](#get_started)
 5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
+4. [How do I get started?](#get_started)
 2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
 3. [How to ask a question if you get stuck](#get_help)
 
@@ -84,12 +84,49 @@ There are several ways to navigate from page to page within this guidebook:
 * Use the left-navigation sidebar (type `s` to reveal/hide)
 * Click the left or right arrow on each page to go forward or back
 * Use the left or right arrow keys on your keyboard to move forward or back
-* Use hyperlinks on selected pages, like this one: [Continue to the Introduction section](#motivation)
+* Use hyperlinks on selected pages, like this one: [Continue to "A Typical Lesson" section](#features)
 
 
-## Book features {-}
 
-Along the way, you'll see some informational boxes.  Here is what they mean:
+## A Typical Lesson {- #typical-lesson}
+
+<img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
+
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain:<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
+
+
+**Title**|**Description**|**Estimated Minutes**
+:-----|:----- | :---
+  READING|
+Lesson Itinerary | Introduction and the lesson's learning objectives | <1
+Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
+First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
+Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
+ ACTIVITIES|
+ `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
+ `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be four stages to each Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
+`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
+ `B. Grammar`|Here, you will work through the main grammar concepts discussed in the lesson.
+ `C. Workbook/Parsing`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
+ `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
+`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
+`Ruth Pursuit`|Similar to the "bag the letter" activity in the early lessons of  _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
+`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
+`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
+TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
+
+Of course, some lessons will be more involved than others, and each of us works at a different pace. One of the beautiful things about a self-paced class is the pace is not set by a course syllabus.  The pace is set by YOU!
+
+::: {.box .light}
+DON'T BE OVERWHELMED!  YOU GOT THIS!
+
+Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this were back on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
+:::
+
+Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+
+
+## Information Boxes {-}
 
 ::: {.infobox .map}
 QUEST   
@@ -130,67 +167,120 @@ We also have footnotes<small>^[<small>Minor or parenthetical/non-essential point
 
 ## Quick Start Instructions {.unnumbered #get_started}
 
-These instructions will get you up and running with the course.  
+These ten easy steps will get you up and running with the course.  
 
+<!-- update the final anki deck version - current link is PREVIEW -->
+
+| Step | Comments
+| :-- | :-- 
+|1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course
+|2. Download the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
+3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards
+4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and synch your data to the cloud and mobile devices
+5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | You MUST install Anki from a desktop/laptop first
+6. [Download the Hebrew GRAMMAR Quest Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"} | This deck is the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone
+7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness
+8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | This creates a version of your deck in the cloud, which case be used to sync with a mobile device or simply as a backup
+9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons, while you assess whether the cost is justified
+10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time, and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
+11. Finally, read the `Getting Started/Getting Help` and `About This Course` introductions | You have already started this! These sections contain important background information to help assure you are oriented to Hebrew GRAMMAR Quest.  If you are not familiar with `Anki`, the `Help with Anki` section (on the next page) is critically important to read.
+    
 > **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
 
+## Help with Anki {-}
 
-1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}.
-1. INSTALL ANKI
-    1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}.
-        * Doing this allows you to synch your data to the cloud and mobile devices
-    1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}.
-    1. [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"}
-    1. Change the Anki settings [as described here](#anki_settings).
-    1. As desired, download the Anki app to your phone or tablet.  
-        1. The [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} is free
-        1. The [iOS app](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} is $25 - see discussions in the Appendix for additional discussion as to whether the cost is "worth it"
-        1. Synch
-            1. In your _desktop_ Anki, click on `synch` (enter Ankiweb credentials) - `upload to Ankiweb` if asked.
-            1. In your _mobile_ app do the same, except here click `download from Ankiweb`
-            1. Should you go back and forth between mobile and desktop, make sure you `synch` each time, and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
-1. You will need a Google account to complete many of the activities in this course
-     1. if you do not already have one, or would like to create an additional account only for this course, click [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"}
-1. Open the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} for you to keep track of your progress in this course.
-    * Download a copy of the checklist to your personal Google Drive, where you will be able to complete it online
-    * Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
-    
-## A Typical Lesson {- #typical-lesson}
-
-<img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
-
-In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what will be inside a typical lesson<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
+<div class="figure" style="text-align: center">
+<img src="images/weight.png" alt="Strength and Endurance" width="150pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="150pt" />
+<p class="caption">(\#fig:unnamed-chunk-4)Strength and Endurance</p>
+</div>
 
 
-**Title**|**Description**|**Estimated Time**
-:-----|:----- | :---
-  READING|
-Lesson Itinerary | The lesson's key learning objectives | <1
-Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
-First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
-Lesson Points | The main grammar concepts - Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
- ACTIVITIES|
- `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
- `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be three stages to each Lesson. | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
-`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
- `B. Grammar`|Here, you will work through (and at times grapple with) the main grammar concepts discussed in the Lesson.
- `C. Workbook`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
- `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
-`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
-`Ruth Pursuit`|Similar to the "bag the letter" in _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
-`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
-`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
-TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
+If one wants to build strength and endurance, it's important to use the right machines. weight machine.  Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times, helping you build both Hebrew strength and Hebrew endurance!
 
-Of course, some lessons will be more involved than others, and each of us works at different paces. One of the beautiful things about a self-paced class is the pace is not set by a course syllabus.  The pace is set by YOU!
-
-::: {.box .light}
-DON'T BE OVERWHELMED!  YOU GOT THIS!
-
-Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this were back on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
+::: {.box .info}
+As you work through this course, it will be important to set aside time to review DAILY
 :::
 
-Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+The sections below will help you get started with Anki.
+
+### How do I get help with Anki? {-}
+
+::: {.box .info}
+
+What appears in the sections below is only the information you will need for Hebrew GRAMMAR Quest.
+
+While we are here to [help](#report_issue) with any issues related to the course including our `Hebrew Grammar Quest Anki Deck`, unfortunately it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple websearch.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
+:::
+
+### Customize Anki Settings {- #anki_settings}
+
+1. Change USER1 Name 
+    1. In Anki, click File, then Switch Profile  
+    2. Select “User 1,” then Rename and type your name
+1. Change global settings
+    1. Click `Tools,` then `Preferences.`
+        1. On the `Basic` tab, some people prefer `night mode` - if this is you, check the `Night Mode` box
+        2. On the `Scheduling` tab:
+            1. Check the box that says `Anki 2.1 Scheduler.`
+            2. Note the hour the `next day` starts - 
+                * You want to set this for a time where you will NOT be doing reviews.  
+                * For most people, 4:00 am is a safe time, but if you're routinely awake at 4:00 am, set this field to be earlier or later.
+        3. Close out of this window to return to the main page
+1. On the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select “Options” ([click for image](./images/a.anki_settings.png){target="_blank"})
+    1. `New Cards`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information</small>]</small>
+        * `Steps` = 10 1440 4320
+        * `New cards/day` = 200
+        * `Graduating interval` = 15
+        * `Easy interval` = 60
+        * `Starting ease` = 250%
+        * `Bury related new cards...` = Up to you but we recommend - CHECKED
+    2. `Reviews`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=reviews for additional information</small>]</small>
+        * `Maximum reviews/day` = 9999
+        * `Easy bonus` = 130%
+        * `Interval modifier` = 100
+        * `Maximum interval` = 210
+        * `Bury related reviews...` = Up to you but we recommend - CHECKED    
+    3. `Lapses`
+        * `Steps` = 10
+        * `New interval` = 60
+        * `Maximum interval` = 1
+        * `Leech threshold` = 8
+        * `Leech action` = TAG ONLY
+
+Your settings should look like this:
+<div class="figure" style="text-align: center">
+<img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
+<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
+</div>
+    
+### How do I navigate within Anki? {-}
+
+* Click the +/- buttons to expand/collapse the folders within the Anki deck [see example](./images/a.anki_hint.gif){target="_blank"}
+  * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
+* Many cards have "hints" - click on the `hint` button to reveal [see example](./images/anki.png){target="_blank"}
+    * If you needed a hint, be sure to select `Again` on the answer side
+* When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
+
+### How do I know when to hit the `Good` button on an `Anki` card? {-}
+
+We suggest using the following guidelines:
+
+* `Again`
+  * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
+  * Your answer was correct, but you required a hint
+* `Good`
+  * All parts of the answer are correct; no hints
+  * For Bible Verses, you can read and understand the passage in Hebrew and your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse. You do NOT need to have the passage and its meaning memorized in order to mark `Good`
+  * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
+* `Easy`
+  * We do not recommend selecting `Easy.` 
+  * An exception might be when you are confident that you already have the word, rule, or passage memorized
+* `Hard` - You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed
+
+Most importantly, be patient with yourself.  It may take you many tries in the early going before you can hit `Good.`
+
+See [Anki info and FAQ](#anki_faq) for additional information on Anki.
+
 
 ## Report an Issue {- #report_issue}
 
@@ -283,6 +373,7 @@ We have talked a bit about our Holy Language Learning Philosophy.  Our belief is
 </div>
 
 
+
 ## Relationship to _Hebrew Quest_ {- #hgq_and_hq}
 
 One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
@@ -300,24 +391,22 @@ Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of 
 
 ## Completion of _Hebrew Quest_ is NOT a Prerequisite! {- #finish_hq}
 
-If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  
+If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  If you _have not_ finished, it's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
 
-On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up.  We're going to help you with this goal. In the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of _Hebrew Quest_.  
+Maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
 
-::: {.box .map}
-If you are interested in learning some of Hebrew's inner workings, you’re in the right place!
-:::
+This grammar course starts from the beginning (with learning the Aleph-bet) and assumes no prior knowledge of Hebrew.  However, the more of Hebrew Quest you have completed, the more comfortable you may find it is to work through the grammar material.
 
-Additional questions regarding _Hebrew Quest_ and Hebrew GRAMMAR Quest:
+As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest.
 
-* [Do I need to complete _Hebrew Quest_ before I start Hebrew GRAMMAR Quest?](#complete_hq_first) Quick answer: NO!
-* [When I complete this course, should I go back and finish _Hebrew Quest_?](#need_to_finish_hq) Quick answer:: YES!
-*  [I haven't started either course.  Which should I do first?](#which_first) Quick Answer: 
-    1. Complete _Hebrew Quest_ Lessons 1-15 (don't worry about whether you fully absorb the grammar material in Lessons 13-15)
-    2. Hop over to Hebrew GRAMMAR Quest and complete the full course, including the _Hebrew Quest_ Study Passage track, if possible
-    3. When you finish here, return to complete _Hebrew Quest_
-    
-We have FAQs on other topics of interest in our Appendix.
+To say it differently, Hebrew Quest and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
+
+* The more Hebrew Quest you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
+* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of Hebrew Quest
+* Either way, you can't go wrong!  The most important thing is to start.
+
+Whichever direction you take, we would encourage you to ultimately complete both **Hebrew Quest** and **Hebrew GRAMMAR Quest**.  
+
 
 ::: {.box .map}
 Let's get started on our Hebrew GRAMMAR Quest!
@@ -395,7 +484,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 
 <div class="figure" style="text-align: center">
 <img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-6)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-8)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 <small>Note: acoustic tests have been performed at this location.  These have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment (and Yeshua didn't have to deal with road noise!).  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
@@ -415,7 +504,7 @@ Almost every other grammar book would start with a lengthy description of each l
 
 * We'll talk about vowels in Lesson 2
 
-::: {.box .idea}
+::: {.box .stop}
 
 If you have not yet completed _Hebrew Quest_ Lessons 1-11, we encourage you to stop here and move over to Hebrew Quest to complete the Alephbet lessons.
 
@@ -677,7 +766,7 @@ Reflect on the works of HaShem that you have seen.
 
 <div class="figure" style="text-align: center">
 <img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-16)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-18)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -861,7 +950,7 @@ Quiz yourself with these examples (answers below):
 
 <div class="figure" style="text-align: center">
 <img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-22)That's no moon.  That's a Guttural!</p>
+<p class="caption">(\#fig:unnamed-chunk-24)That's no moon.  That's a Guttural!</p>
 </div>
 
 * A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements
@@ -1009,7 +1098,7 @@ Thank God for his blessings and meditate upon them.
 
 <div class="figure" style="text-align: center">
 <img src="images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg" alt="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-23)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-25)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Hebrew Syllables {#syllables}
@@ -1360,7 +1449,7 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-38)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-40)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Gender and Number {#gender_number}
@@ -1682,7 +1771,7 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 <div class="figure" style="text-align: center">
 <img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-39)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-41)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -1966,7 +2055,7 @@ The בּ in <span class="he">בְּיוֹם</span> is an example of an "insepara
 
 <div class="figure" style="text-align: center">
 <img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-42)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-44)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -2252,7 +2341,7 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-46)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-48)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -2503,7 +2592,7 @@ The first word in above passage is an example of a "demonstrative pronoun". The 
 
 <div class="figure" style="text-align: center">
 <img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-48)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-50)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Independent Personal Pronoun
@@ -2752,7 +2841,7 @@ In addition to offering up our petitions, let us be sure to listen for God's que
 
 <div class="figure" style="text-align: center">
 <img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-51)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-53)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -3051,7 +3140,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-57)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-59)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -3325,7 +3414,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-59)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-61)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -3590,7 +3679,7 @@ Here is what we want you to do in these Study Passages activities:
 
 <div class="figure" style="text-align: center">
 <img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-62)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
+<p class="caption">(\#fig:unnamed-chunk-64)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
 </div>
 
 
@@ -3656,7 +3745,7 @@ It is these times where we must depend on God, and it is times like these where 
 
 <div class="figure" style="text-align: center">
 <img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-63)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-65)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4051,7 +4140,7 @@ Everyday, and frequently throughout each day, we have two choices.  We can keep 
 
 <div class="figure" style="text-align: center">
 <img src="images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg" alt="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-66)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-68)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4447,7 +4536,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-71)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-73)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4600,7 +4689,7 @@ Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "re
 
 <div class="figure" style="text-align: center">
 <img src="images/14_gem_table.png" alt="Qal Perfect: Geminate/Strong Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-73)Qal Perfect: Geminate/Strong Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-75)Qal Perfect: Geminate/Strong Paradigms</p>
 </div>
 
 ::: {.box .map}
@@ -4628,7 +4717,7 @@ Review the table below, noting $V_1$ and accent changes:
 
 <div class="figure" style="text-align: center">
 <img src="images/14_bicons_table.png" alt="Qal Perfect: Biconsonantal/Strong Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-74)Qal Perfect: Biconsonantal/Strong Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-76)Qal Perfect: Biconsonantal/Strong Paradigms</p>
 </div>
 
 ## <span class="he">םוּת</span> is Biconsonantal and Stative
@@ -4640,7 +4729,7 @@ Review the table below, noting $V_1$ and accent changes:
 * Compare <span class="he">םוּת</span> and <span class="he">קוּם</span> in the table below:
 <div class="figure" style="text-align: center">
 <img src="images/14_moot_table.png" alt="Qal Perfect: &lt;U+05DE&gt;&lt;U+05D5&gt;&lt;U+05BC&gt;&lt;U+05EA&gt;/&lt;U+05E7&gt;&lt;U+05D5&gt;&lt;U+05BC&gt;&lt;U+05DD&gt; Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-75)Qal Perfect: <U+05DE><U+05D5><U+05BC><U+05EA>/<U+05E7><U+05D5><U+05BC><U+05DD> Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-77)Qal Perfect: <U+05DE><U+05D5><U+05BC><U+05EA>/<U+05E7><U+05D5><U+05BC><U+05DD> Paradigms</p>
 </div>
 
 ## Qal Perfect Quest Clues
@@ -4809,7 +4898,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-76)Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-78)Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5075,7 +5164,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-81)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-83)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5505,7 +5594,7 @@ Like the dawning of a new day, after you complete this lesson, a majority the ve
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-84)Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5747,7 +5836,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-83)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-85)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6051,7 +6140,7 @@ Meditate on that as you work through this lesson and, especially, as you study t
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-84)Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-86)Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6341,7 +6430,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-86)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-88)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6603,7 +6692,7 @@ This is a great picture of what the LORD means when He says He will "keep" us!
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-89)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6812,7 +6901,7 @@ It's become a cliche for teachers to ask, "which of the four soils are you?"  In
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7040,7 +7129,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-90)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7404,7 +7493,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7794,7 +7883,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8030,7 +8119,7 @@ __LESSON ITINERARY__
 
 <div class="figure" style="text-align: center">
 <img src="images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8406,7 +8495,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-100)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8672,7 +8761,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8950,7 +9039,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, a good 
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9079,7 +9168,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-107)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9429,7 +9518,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9582,7 +9671,7 @@ The Hebrew Quest Study Passage for this lesson is the story of David and Goliath
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9868,7 +9957,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10005,7 +10094,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10265,7 +10354,7 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10454,371 +10543,6 @@ You have studied 20 distinct passages, most of which were full chapters of the H
 
 <!--chapter:end:40-Appendices.Rmd-->
 
-# Anki info and FAQ {#anki_faq}
-
-
-> Strength and Endurance Builds Muscle
-
-
-<div class="figure" style="text-align: center">
-<img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Strength and Endurance</p>
-</div>
-
-
-If one wants to build strength, she might use a weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
-
-
-> Anki is Gym Equipment for your Brain 
-
-<div class="figure" style="text-align: center">
-<img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-116)Anki Home Screen</p>
-</div>
-
-Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
-
-Thus, it is not just a flashcard program but is a tremendous strength and endurance tool for learning, and it is where we will be spending the bulk of your time in the course.  It has become the “go-to” for many medical school students to learn all the intricate facts they have to know.
-
-::: {.box .info}
-It is beyond our scope to give you a complete tutorial on Anki.  There are plenty of blogs and videos posted by the Anki community, which you can find from a simple websearch: `Anki tuturial`.
-:::
-
-## Installation {- #installation_anki}
-
-**Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop<small>^[<small>By "desktop" we generically mean a desktop or laptop computer (as opposed to a mobile device) running a Windows, Mac, or Linux operating system.</small>]</small> computer_.
-
-Follow the steps outlined on the Quick Start page.
-
-## Customize Anki Settings {- #anki_settings}
-
-1. Change USER1 Name 
-    1. In Anki, click File, then Switch Profile  
-    2. Select “User 1,” then Rename and type your name
-1. Change global settings
-    1. Click `Tools,` then `Preferences.`
-        1. On the `Basic` tab, some people prefer `night mode` - if this is you, check the `Night Mode` box
-        2. On the `Scheduling` tab:
-            1. Check the box that says `Anki 2.1 Scheduler.`
-            2. Note the hour the `next day` starts - 
-                * You want to set this for a time where you will NOT be doing reviews.  
-                * For most people, 4:00 am is a safe time, but if you're routinely awake at 4:00 am, set this field to be earlier or later.
-
-### Below is the main set you will want to change.  Enter these numbers carefully: {-}
-
-1. Back on the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select “Options”
-    1. `New Cards`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information</small>]</small>
-        * `Steps` = 10 1440 4320
-        * `New cards/day` = 200
-        * `Graduating interval` = 15
-        * `Easy interval` = 60
-        * `Starting ease` = 250%
-        * `Bury related new cards...` = Up to you but we recommend - CHECKED
-    2. `Reviews`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=reviews for additional information</small>]</small>
-        * `Maximum reviews/day` = 9999
-        * `Easy bonus` = 130%
-        * `Interval modifier` = 100
-        * `Maximum interval` = 210
-        * `Bury related reviews...` = Up to you but we recommend - CHECKED    
-    3. `Lapses`
-        * `Steps` = 10
-        * `New interval` = 60
-        * `Maximum interval` = 1
-        * `Leech threshold` = 8
-        * `Leech action` = TAG ONLY
-
-Your settings should look like this:
-<div class="figure" style="text-align: center">
-<img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-117)Settings</p>
-</div>
-
-[Return to Quick Start page](#get_started)
-
-## How do I access Anki on my mobile device? {-}
-
-After you have installed Anki, loaded a deck and then synched to your Ankiweb account, theoretically, you do not ever need to access the non-mobile version again.
-
-There are versions of the mobile app in the Google or Apple store.  As we mentioned above, the apple version is a one-time cost of $25. Once you download the app, you can login with your same Ankiweb account and, if you synched from the desktop version of the software, you should see the Hebrew GRAMMAR Quest deck appear.
-
-You can also access a [web-based version of Anki (login with your Ankiweb credentials)](https://ankiweb.net/decks/).  Functionality is a bit more limited, but it is generally sufficient for the learning aspects.  Please note you will need the not be able to meet the `Graduation Process` requirements for the `Certificate` or `Diploma` using only ankiweb.net  
-
-One note: if you plan to go back and forth between a computer and a mobile device, make sure you sync after each session.
-
-Here are the steps:
-
-1. On your laptop/desktop: Sync → Log In → log in using your account information
-1. If a pop-up window asks you, choose "**Upload to** AnkiWeb"
-1. On your phone, download and install the Anki app.
-    * The Android app is free. The iPhone app costs $25.
-1. On your phone, start the Anki app and log in using your account information
-1. If a pop-up window asks you, choose "**Download from** AnkiWeb"
-1. Anki will now automatically keep your work on your phone and laptop/desktop in sync.
-
-<div class="figure" style="text-align: center">
-<img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Anki web and mobile views</p>
-</div>
-
-## How do I navigate within Anki? {-}
-
-* Click the +/- buttons to expand/collapse the folders within the Anki deck
-<div class="figure" style="text-align: center">
-<img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-119)Anki - subdecks collapsed</p>
-</div>
-    * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
-* Many cards have "hints" - click on the `hint` button to reveal
-    * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
-    <div class="figure" style="text-align: center">
-    <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-120)Revealing a hint in Anki</p>
-    </div>
-* For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
-* When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
-
-## How do I know when to hit the `Good` button on a **Vocabulary** or **Grammar** card? {-}
-
-We suggest using the following guidelines to select the most appropriate answer.
-
-<div class="figure" style="text-align: center">
-<img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)Anki Response Definitions</p>
-</div>
-
-* There is no “value judgment” to hitting `Again` – you will learn on your timeline
-* Be honest with yourself! 
-* If you doubt, between `Again` and `Good,` select `Again.`
-
-## How do I know when to hit the `Good` button on a **Verse Translation** card? {-}
-
-While the same general guidelines apply to all cards, one of the main goals of this course is to give you the ability to translate from Hebrew to English at a basic level.    
-
-Below are some guidelines for answering the Verse Translation cards:
-* You do not necessarily need to be able to translate the entire passage from memory.  Suppose you can comfortably read the Hebrew. Your translation is roughly similar to the English answer (it doesn't have to be exact).  In that scenario, you should hit `good.`
-1. If your translation is missing one or more words (again excluding roughly equivalent meanings), you should select `again.`
-1. If you need to use a `hint,` you should select `again` until you can translate without needing to refer to the hint.
-1. We do not recommend selecting `easy.` An exception might be when you are confident that you already have the word, rule, or passage memorized.
-
-Most importantly, be patient with yourself.  It may take you many tries in the early going before you can hit `good.`
-
-Learning a new language is not easy.  We applaud you for the Hebrew learning road you are now taking!
-
-## What are Anki Add-ons? {-}
-
-* Add-ons are small packages that extend the base application of Anki.
-* Many add-ons are geared towards the developers/editors of decks, but there are a few that enhance the end-user experience
-* To access, select `Tools,` `Add-ons,` then click `Get Add-ons...`
-* You will then be asked for the add-on code, which will install the add-on
-* Click `Browse Add-ons` to be taken to the Anki Add-on website, where you can get the code
-* For example, this add-on will change the button colors:
-    * `The KING of Button Add-ons` - `374005964.`
-
-## How often should I expect to work in Anki? {-}
-
-The best case is DAILY.
-
-Once you get going, you may find you look forward to it.
-
-There is a custom add-on called `Review Heatmap.`  At the time we are writing this Guidebook, the Add-on is still in beta, so it's not available on the Anki Add-on page.  
-
-* [Click here to download](./images/review-heatmap-v1.0.0-beta.1-anki21.ankiaddon)
-* Then double-click and restart Anki
-* You will now see a grid that shows you your daily reviews to keep you motivated
-
-<div class="figure" style="text-align: center">
-<img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)Keep your daily Anki streak going!</p>
-</div>
-
-## How do I know when I'm done with a deck? {-}
-
-Learning and active-recall is an on-going process. In theory, Anki will keep scheduling reviews until you delete the deck.  This follows a "use it or lose it" philosophy.  If we spend a day learning some material but then don't think about it again for two weeks, we're likely to forget most of it.
-
-So while this could be an indefinite process, we do have some guidelines as they pertain to the `Course Checklist` and the `Certificate`/`Diploma`.
-
-* For the `Course Checklist`, all cards should be moved out of the `New` category and into the `Young` or `Mature` categories, with no cards `Suspended` or `Buried`. 
-* To qualify for a `Certificate` or `Diploma`, all cards must be in the `Mature` category with no cards `New`, `Young`, `Suspended`, or `Buried`.
-
-<div class="figure" style="text-align: center">
-<img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-123)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
-</div>
-
-See the next two pages for more information on how to locate your statistics.
-
-## Anki Completion Requirements for the`Course Checklist` {-}
-
-For each lesson, we are looking for all cards to be moved out of the `New` category and into the `Young` or `Mature` categories, with no cards `Suspended` or `Buried`.  Below are the steps to check.
-
-_You must do the steps below  from a Desktop (or laptop) or the ios/Android mobile app.  Statistics are not available from the ankiweb.net site_.
-
-1. In Anki, select the applicable deck, for example "`Lesson 01 A.Vocab`"
-    1. On mobile, once you tap the deck it may take you into the deck information section.
-    1. Click the left arrow in the upper left of the screen to access the bar chart icon
-2. Click on `Stats` (desktop) or tap the Bar chart icon (mobile)
-3. Scroll down to the `Card Counts` pie graph
-4. If all cards are `Young` or `Mature` with no cards `New`, `Suspended`, or `Buried` as shown on the acceptable examples below, you can mark that deck as completed on your `Course Checklist`
-
-<div class="figure" style="text-align: center">
-<img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-124)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
-</div>
-
-
-## Anki Completion Requirements for the `Certificate` {-}
-
-To be eligible for the `Certificate`<small>^[<small>Certificates are not available in the Preview Version of Hebrew GRAMMAR Quest.</small>]</small> and `Diploma`, you will need to provide a screenshot from the Anki `Stats`.  The `Card Counts` pie chart should reflect ALL cards for the unit are in the `Mature` row.
-
-_You must do the steps below  from a Desktop (or laptop) or the ios/Android mobile app.  Statistics are not available from the ankiweb.net site_.
-
-1. In Anki, select the applicable unit, for example "`Hebrew Grammar Quest::1. Lessons 1-3`"
-    1. On mobile, once you tap the deck it may take you into the deck information section.
-    1. Click the left arrow in the upper left of the screen to access the bar chart icon
-2. Click on `Stats` (desktop) or tap the Bar chart icon (mobile)
-3. Scroll down to the `Card Counts` pie graph
-4. If all cards are  `Mature` with no cards `New`, `Young`, `Suspended`, or `Buried`, and you have done everything else for that unit on the `Course Checklist`, you are ready to apply for your unit completion `Certificate` or `Diploma`.  CAPTURE A SCREENSHOT as directed below:
-    * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
-<div class="figure" style="text-align: center">
-<img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-125)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
-</div>
-    * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
-    
-<div class="figure" style="text-align: center">
-<img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-126)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
-</div>
-<!-- Please see [`Graduation` process page]() for additional information -->
-
-## What do the different card stages mean? {-}
-
-There are a few different terms Anki uses for different stages of card maturity:
-
-
-* `New` Cards
-    * `Unseen` - A card you have not seen!
-    * `Learn` - a card you have seen that is in the initial learning phase. Based on our settings above, you need to get a card correctly three consecutive times for three days in a row (4320 minutes) to move from `Learn` to `Young`.
-* `Review` Cards
-    * `Young` - a card that has "graduated" from the `Learn` stage, but has a calculated review interval of less than 21 days
-    * `Mature` - a card that has a calculated review interval greater than 21 days
-* `Lapse` - a card formerly in the `Review` category that was answered incorrectly
-    * `Relearn` - the phase to describe a lapsed card that you are relearning
-
-## Can I add an image or a hint? {-}
-
-* If you would like to edit a card, such as to add a picture or change/add a hint - you can do this.  Just press `E.`
-    * You can do this from either the "question" or the "answer" side of the card
-    * We do not recommend you change the `word,` `definition` or `audio` fields
-    * To add an image simply copy and paste into the image field
-<div class="figure" style="text-align: center">
-<img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-127)Adding a custom image in Anki</p>
-</div>
-
-## Can I modify the layout of a card? {-}
-
-The short answer is `yes,` but you would need to learn more about how Anki works.  Such a discussion is beyond our scope with this book. Still, if you are interested in learning more about Anki, there are dozens of YouTube videos.
-
-### Proceed with caution: {-}
-
-With the above caveat, if you are comfortable with Anki, we have added some extra `Note Types.` 
-
-1. Click `Browse.`
-1. Select the card(s) you wish to change 
-1. If you want to be tested on both Hebrew-to-English and reverse, English-to-Hebrew, select note type `Vocab Basic Hebrew/English.`
-1. If you have added images and want Anki to test you on Hebrew-to-English, English-to-Hebrew, and Image-to-Hebrew, select note type `Vocab Basic Hebrew/English/Image.`
-1. If you have added images and only want to be tested on Hebrew-to-English and Image-to-Hebrew, select note type `Vocab Basic Hebrew/Image.`
-1. If you want to be tested audio to Hebrew (and reverse), select note type `Vocab Basic Hebrew/Audio` - the Aleph-bet cards use this note type
-Just be aware that changing to one of these optional note types will double (or triple if you chose Hebrew/English/Image) the number of vocabulary cards.  If you decide you want to go back to Hebrew-to-English, repeat steps 1-4 and select Note Type `Vocab Basic Hebrew.`
-
-## What does `There are more new cards available, but the daily limit has been reached` mean? {-}
-
-Anki is doing precisely what we told it to do in the `settings`!  As much as possible, we want to let Anki tell _us_ when to work.
-
-* We go when it tells us there are cards to learn or review
-* We stop when it tells us there are no cards
-
-1. We set new cards to `200` - it's essential not to overload yourself.
-    * Generally, if you work one deck at a time, e.g. `Lesson 01 A. Vocab`, then `Lesson 01 B. Grammar` and so on, you will be less likely to hit the daily limit
-    * You can keep going using the `Custom Study.` Do note the warning: `You can increase the limit in the options, but please bear in mind that the more new cards you introduce, the higher your short-term review workload will become.`
-2. We checked `bury related cards.`
-    * If an answer has two parts in two separate questions, we want to make sure you answer the second question from your knowledge, not because you just saw the solution on a related card
-    * If you want to work on these cards anyway, click `Unbury.`
-
-<div class="figure" style="text-align: center">
-<img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-128)With `Custom Study` you can temporarily increase your daily new cards</p>
-</div>
-
-
-
-## How do I submit screenshots for the `Certificate`? {-}
-
-<!--chapter:end:45-Anki.Rmd-->
-
-# More Hebrew Quest and Hebrew GRAMMAR Quest FAQ {#hq_hgq_faq}
-
-* [What is the difference between Hebrew Quest and Hebrew GRAMMAR Quest?](#difference)
-* [Do I need to complete Hebrew Quest before I start Hebrew GRAMMAR Quest?](#complete_hq_first)
-* [When I complete this course, should I go back and finish Hebrew Quest?](#need_to_finish_hq)
-*  [I haven't started either course.  Which should I do first?](#which_first)
-
-<!-- Grammarly check: 10/24/2020 108 lines -->
-
-## What is the difference between Hebrew Quest and Hebrew GRAMMAR Quest? {- #difference}
-
-* Both courses are born of the same Holy Language Learning philosophy: the optimal method to interact with the Sacred Scriptures is by *doing*
-* Hebrew Quest was intentionally designed to get students into Hebrew texts with as little "grammar" as possible
-* Hebrew GRAMMAR Quest is designed to fill a gap for those students who want to know more about the inner workings of Hebrew but wish to do so in a fun, low-pressure format (as opposed to taking a formal Hebrew course or trying to read an academic-level textbook on their own)
-* Also, we know that everyone learns a little differently
-    * Many can view the 40 lessons of Hebrew Quest, and they "get it" concerning Hebrew
-    * Others may have found themselves getting stuck on the "grammar" sections of Hebrew Quest and need some more in-depth grammar preparation before returning to the study passages
-    * Still others made it through some or all of Hebrew Quest and have a desire to know more
-* [As we said earlier](#hgq_and_hq), wherever you find yourself, if you are interested in digging deeper, you have come to the right place!
-
-## Do I need to complete Hebrew Quest before I start Hebrew GRAMMAR Quest? {- #complete_hq_first}
-
-* Emphatically - **No!** 
-    * This grammar course starts from the beginning (with learning the Aleph-bet) and assumes no prior knowledge of Hebrew
-* With that said, the more of Hebrew Quest you have completed, the more comfortable you may find it is to work through the grammar material
-* If we were to categorize as "good," "better," "best" in terms of Hebrew Quest completion, here's what we would say:
-    * **Good**: 
-        * You have completed some or no Hebrew Quest lessons  
-        * This means that the first three lessons of Hebrew GRAMMAR Quest might take you a little longer, but once you have that foundation, you'll be up to speed
-    * **Better**: 
-        * You have completed through Hebrew Quest Lesson 12 (the Aleph-bet and Vowels)  
-        * This means the first three lessons will go a little more quickly for you
-    * **Best**: 
-        * You have completed through Lesson 15 (verbs) and beyond
-        * This means that more of the concepts presented in Hebrew GRAMMAR Quest will tend to be things you have heard before versus brand new
-
-## When I complete this course, should I go back and finish Hebrew Quest? {- #need_to_finish_hq}
-
-> Hebrew GRAMMAR Quest is an extension of Hebrew Quest, not a substitute.
-
-* So the answer to the question is, **ABSOLUTELY!**
-* In fact, the most logical next step after completing a first-year Hebrew grammar course is to dig into the Scriptures and start reading.
-* Hebrew Quest, starting with Lesson 16, is all about reading Hebrew<small>^[<small>Although, with your more in-depth knowledge, you may be able to go a little faster. If the Hebrew Quest videos are too slow for you, click the "Settings" gear icon in the bottom right corner of the video, click "Speed," and then select a faster speed.</small>]</small>.
-* To say it differently, Hebrew Quest and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
-    * The more Hebrew Quest you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
-    * The more Hebrew GRAMMAR Quest you have completed, the more you will get out of Hebrew Quest
-    * Either way, you can't go wrong!  The most important thing is to start.
-
-## I haven't started either course.  Which should I do first? {- #which_first}
-
-* If the word "grammar" makes your stomach churn, then start with (and stick with) **Hebrew Quest**!
-* Otherwise, we can suggest doing the first 16 lessons of **Hebrew Quest** - this will take you in-depth through the Aleph-bet and give you an overview of Grammar and give you an introduction to reading Proverbs.
-    * Also plan to do Hebrew Quest Memrise or Anki so you can pick up your first two Certificates as outlined [here](https://holylanguage.com/graduate.html)
-* Then hop over to this course and get a firm foundation of Hebrew grammar
-* Then go back to Hebrew Quest lesson 17 and the study passages will have extra life for you
-* This will likely take you a long time to complete both<small>^[<small>It probably is not entirely unreasonable to be able to do two lessons per week, but be prepared to spend a LOT of time in Anki (or Memrise, for Hebrew Quest).  One lesson per week is probably a better pace.  In any case remember you get out of it what you put into it.  It's a marathon, not a sprint!</small>]</small>, but remember the proverb about the best time to plant a tree:  "The best time was 20 years ago.  The second-best time is today."
-    
-Whichever direction you take, we would encourage you to ultimately complete both **Hebrew Quest** and **Hebrew GRAMMAR Quest**.
-
-
-<!--chapter:end:50-HQ_HGQ_FAQ.Rmd-->
-
 # Other FAQ {#other_faq}
 
 * [There are many books out there to learn Hebrew.  What makes Hebrew GRAMMAR Quest different?](#hgq_difference)
@@ -10946,7 +10670,7 @@ Finally, we thank YOU for your interest in this course!
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-131)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-119)Chris Flanagan</p>
 </div>
 
 
@@ -11011,7 +10735,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-132)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-120)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 

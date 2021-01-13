@@ -49,6 +49,7 @@ We have talked a bit about our Holy Language Learning Philosophy.  Our belief is
 </div>
 
 
+
 ## Relationship to _Hebrew Quest_ {- #hgq_and_hq}
 
 One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
@@ -69,24 +70,22 @@ knitr::include_graphics("images/i.hq_hgq.png")
 
 ## Completion of _Hebrew Quest_ is NOT a Prerequisite! {- #finish_hq}
 
-If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  
+If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  If you _have not_ finished, it's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
 
-On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up.  We're going to help you with this goal. In the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of _Hebrew Quest_.  
+Maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
 
-::: {.box .map}
-If you are interested in learning some of Hebrew's inner workings, you’re in the right place!
-:::
+This grammar course starts from the beginning (with learning the Aleph-bet) and assumes no prior knowledge of Hebrew.  However, the more of Hebrew Quest you have completed, the more comfortable you may find it is to work through the grammar material.
 
-Additional questions regarding _Hebrew Quest_ and Hebrew GRAMMAR Quest:
+As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest.
 
-* [Do I need to complete _Hebrew Quest_ before I start Hebrew GRAMMAR Quest?](#complete_hq_first) Quick answer: NO!
-* [When I complete this course, should I go back and finish _Hebrew Quest_?](#need_to_finish_hq) Quick answer:: YES!
-*  [I haven't started either course.  Which should I do first?](#which_first) Quick Answer: 
-    1. Complete _Hebrew Quest_ Lessons 1-15 (don't worry about whether you fully absorb the grammar material in Lessons 13-15)
-    2. Hop over to Hebrew GRAMMAR Quest and complete the full course, including the _Hebrew Quest_ Study Passage track, if possible
-    3. When you finish here, return to complete _Hebrew Quest_
-    
-We have FAQs on other topics of interest in our Appendix.
+To say it differently, Hebrew Quest and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
+
+* The more Hebrew Quest you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
+* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of Hebrew Quest
+* Either way, you can't go wrong!  The most important thing is to start.
+
+Whichever direction you take, we would encourage you to ultimately complete both **Hebrew Quest** and **Hebrew GRAMMAR Quest**.  
+
 
 ::: {.box .map}
 Let's get started on our Hebrew GRAMMAR Quest!
