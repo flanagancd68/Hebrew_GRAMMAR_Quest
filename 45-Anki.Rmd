@@ -1,6 +1,5 @@
 # Anki info and FAQ {#anki_faq}
 
-<!-- Grammarly check: 10/24/2020 - 179 lines -->
 
 > Strength and Endurance Builds Muscle
 
@@ -12,7 +11,7 @@ include_graphics("images/treadmill.png")
 ```
 
 
-If one wants to build strength, she might use the weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
+If one wants to build strength, she might use a weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
 
 
 > Anki is Gym Equipment for your Brain 
@@ -25,6 +24,10 @@ include_graphics("images/Anki_home_screen.png")
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
 
 Thus, it is not just a flashcard program but is a tremendous strength and endurance tool for learning, and it is where we will be spending the bulk of your time in the course.  It has become the “go-to” for many medical school students to learn all the intricate facts they have to know.
+
+::: {.box .info}
+It is beyond our scope to give you a complete tutorial on Anki.  There are plenty of blogs and videos posted by the Anki community, which you can find from a simple websearch: `Anki tuturial`.
+:::
 
 ## Installation {- #installation_anki}
 

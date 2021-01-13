@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-01-08"
+#date: "2021-01-12"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 #biblio-style: APA-like
 link-citations: yes
 nocite: |
-    @rmarkdown2020, @bookdown2016, @stiles2013wsa, @pratico2007, @avraham2012, @beckman, @beckman2012, @beckmana
+    @rmarkdown2020, @bookdown2016, @stiles2013wsa, @pratico2007, @avraham2012, @beckman, @beckman2012, @delauro2009, @beckmana
 description: "A Hebrew Grammar guidebook for students of Holy Language Institute."
 header-includes:
   - \usepackage{pdfpages}
@@ -23,20 +23,51 @@ lof: no
 
 
 <div style="display:none">
-# Cover {.unnumbered}
+# Copyright {.unnumbered}
 </div>
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-01-08</small>
+<small>*Updated*: 2021-01-12</small>
 
+
+© 2021 Holy Language Institute. All rights reserved.
+
+![Creative Commons](images/by-nc-sa.png)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+
+This license is for personal use only.  This publication may not be downloaded, redistributed, re-uploaded, published, or used for any other purposes without explicit permission from the copyright holder.
+
+If you received this book and you are not a member of Holy Language Institute, [become a member](https://holylanguage.com/subscribe.html) today!  Subscribing will give you access to the full Hebrew GRAMMAR Quest course materials, as well as access to our founder, Izzy Avraham's, complete library of teaching materials.
+
+Unless, otherwise noted, English Scripture quotations taken from the NASB. Copyright Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation. Used by permission.
+
+Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version, copyright © 2001 by Good News Publishers. Used by permission. All rights reserved.
+
+As applicable:
+
+* Vocabulary portions of this book and accompanying Anki deck are derivatives of [00_vocabulary.pdf](https://hebrewsyntax.org/bbh2new/00_vocabulary.pdf) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* Grammar portions of this book and accompanying Anki deck are derivatives of [00_study_guide.pdf](https://hebrewsyntax.org/bbh2new/00_study_guide.pdf) as well as the "overhead" files for each chapter (for example [Chapter 1-The Hebrew Alephabet](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf), and so forth for each successive chapter) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+The photographs of Israel to begin each lesson are courtesy of the [Pictorial Library of Bible Lands](www.bibleplaces.com){target="_blank"}. Used by permission.
+
+Biblical Hebrew text is courtesy of tanach.us (version 26.0). 
 
 <!--chapter:end:index.Rmd-->
 
 
-# Navigating this book {-}
+# Getting Started / Getting Help {- #intro-a}
 
-In the upper-left corner of this page you will see a series of icons.  
+1. [How do I navigate around this book?](#navigating)
+4. [How do I get started?](#get_started)
+5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
+2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
+3. [How to ask a question if you get stuck](#get_help)
+
+## Navigating this book {- #navigating}
+
+In the upper-left corner of this page, you will see a series of icons.  
 
 <img src="images/toolbar.png" width="300pt" style="display: block; margin: auto;" />
 
@@ -53,155 +84,51 @@ There are several ways to navigate from page to page within this guidebook:
 * Use the left-navigation sidebar (type `s` to reveal/hide)
 * Click the left or right arrow on each page to go forward or back
 * Use the left or right arrow keys on your keyboard to move forward or back
-* Use hyperlinks on selected pages, like this one: [Continue to Introduction section](#motivation)
+* Use hyperlinks on selected pages, like this one: [Continue to the Introduction section](#motivation)
 
 
-
-<!--chapter:end:001A-introduction-header.Rmd-->
-
-# (PART\*) Introduction {-}
-
-# Why a Hebrew Grammar course? {- #motivation}
-
-If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to the Jewishness of our Messiah and our Bible.
-
-***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful; but, we also noticed other students began to drop off between lessons 12 and 16. These are the grammar lessons in between the Aleph-Bet (1-11) and the study passages (17-40). For some, these lessons were too much Hebrew grammar too fast, and for others it was not enough Hebrew grammar.
-
-As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
-
-1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u>. 
-    * There may be some exercises, but generally tend to not be rigorous from an academic standpoint.
-    * Additionally, with this format, there is no way for a student to get feedback on progress.
-    
-2. <u>Academic/Seminary level textbooks and courses</u>. 
-    * These materials are __extremely__ rigorous with copious amounts of reading, rote memorization of paradigms, and in the case of courses, lectures and exams
-    * The textbooks generally are much more detailed and advanced than most of our students need (or would enjoy). For example, there is usually an emphasis on Hebrew writing, such as learning how to convert a noun from singular to plural.
-    * The pace of these courses is usually fast, and the stress level is high, focusing on due dates and grades.
-
-Additionally, with either option, our students would incur additional fees to purchase these materials. This is something we wanted to avoid.
-
-Although many of the resources we researched are top-notch, they were not quite what we were seeking for our students.
-
-<div align="right">_(continued)_</div>
-
-## Grammar course wishlist {- #our_course}
-
----
-
-So what _were_ we seeking?
-
-* In terms of content and rigor, the course would be academically challenging, but it would still be enjoyable with a low-stress level.
-* The course would be self-paced for independent learning but provide feedback and encouragement.
-* The course must align with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over tons of reading and long lectures. It should seamlessly mesh with _Hebrew Quest_.
-* From a technological standpoint, the course must be inexpensive and straightforward to deliver and maintain, while at the same time being high-quality and visually pleasant.
-* The course should be easy to use (and if at all possible, free) for our students.
-* Most importantly, the course must be Yeshua-centered that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy).
-
-We couldn't find a course like this...so we BUILT it ourselves!
-
-### Welcome to Hebrew GRAMMAR Quest - Experience Biblical Hebrew Grammar, the Holy Language Way! {-}
-
-
-<!--chapter:end:001A-Motivation.Rmd-->
-
-
-# "Hebrew Quest: Extended Edition" {- #hgq_and_hq}
-
-> The reason we study Biblical Hebrew grammar is so we can better EXPERIENCE Biblical Hebrew
-
-
-What do we mean by "Hebrew Quest: Extended Edition"?  
-
-Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. In that case, we believe <u>Hebrew GRAMMAR Quest</u> is what you would see. Hebrew GRAMMAR Quest will begin with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12. Then we begin our deep dive into grammar topics touched upon in _Hebrew Quest_ Lessons 13-15.
-
-<img src="images/i.hq_hgq.png" width="700pt" style="display: block; margin: auto;" />
-
-
-If you finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  
-
-On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, we believe Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up.  We're going to help you with this goal. In the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of _Hebrew Quest_.  
-
-If you have an interest in learning some of the inner workings of Hebrew, then we'd say you're in the right place!
-
-Here are some additional FAQ about the two courses:
-
-* [What are the differences between _Hebrew Quest_ and Hebrew GRAMMAR Quest?](#difference)
-* [Do I need to complete _Hebrew Quest_ before I start Hebrew GRAMMAR Quest?](#complete_hq_first) Quick answer: NO!
-* [When I complete this course, should I go back and finish _Hebrew Quest_?](#need_to_finish_hq) Quick answer:: YES!
-*  [I haven't started either course.  Which should I do first?](#which_first) Quick Answer: 
-    1. Complete _Hebrew Quest_ Lessons 1-15 (don't worry about whether you fully absorb the grammar material in Lessons 13-15)
-    2. Hop over to Hebrew GRAMMAR Quest and complete the full course  
-    3. When you finish here, return to complete _Hebrew Quest_
-
-<!--chapter:end:001D-hq_and_hgq.Rmd-->
-
-# A Typical Lesson {- #typical-lesson}
-
-<img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
-
-In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities.  You'll recognize an activity in this book by `this unique font`.  You can read more in our [Course Structure](#what_to_expect) article. Below is what will be inside a typical lesson<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
-
-
-**Title**|**Description**
-:-----|:-----
-  READING|
-The "Why" | A statement that links the lesson's content back to the overarching goal of reading and understanding Biblical Hebrew.  The Why will help to keep us motivated as we deal with the intricacies of each lesson
-Lesson Itinerary | The lesson's key learning objectives.
-Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey.
-First Thought |A Bible verse from the lesson.
-Lesson Points | A brief discussion of the items on the Lesson Itinerary. The goal is to give you just enough information to get started in `Anki`  The Lesson Points will be the numbered sections in each lesson. 1.1, 1.2, etc.
- ACTIVITIES|
- `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy!
- `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be three stages to each Lesson.
-`A. Vocab`|By the end of the course, you will have around 500 words memorized
- `B. Grammar`|Here, you will work through (and at times grapple with) the main grammar concepts discussed in the Lesson.
- `C. Workbook`| Brief Hebrew word activities to reinforce the grammar concepts
- `D. Study Verses`|You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Keep in mind the goal is translation and comprehension, not rote memorization.
-`Worksheets`|Additional activities to reinforce learning (selected lessons)
-`Ruth Pursuit`|Similar to the "bag the letter" in _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1.
-`Hebrew Quest Study Passages`|Beginning with Lesson 17, we will link-up with the Hebrew Quest study passages.
-`Quest Quiz`|Self-assessment activity to measure your familiarity with the material.  No grades are recorded or granted in this course. 
-`Twelve Tribes Badges` and `Graduation`|Fun things that mark the completion of various stages of your GRAMMAR Quest.
-
-
-We have also created a Course Checklist to help keep you organized. Instructions for accessing this are on the next page.
-
-Throughout the way you'll see some informational boxes.  Here is what they mean:
+Along the way, you'll see some informational boxes.  Here is what they mean:
 
 ::: {.infobox .map}
-The Lesson Itinerary - learning objectives
+QUEST   
+
+* The Lesson Itinerary - learning objectives
+* Ruth Pursuit, Hebrew Quest Study Passages, and other "Quest" related topics
 :::
 
 ::: {.infobox .stop}
-Equipment Check - concepts from previous lessons you should know before starting the next lesson
+STOP  
+
+* Equipment Check - concepts from previous lessons you should know before starting the next lesson
+* Other "Dont's"
 :::
 
 ::: {.infobox .light}
-A critical point not to be missed
+LIGHT  
+
+* A critical point not to be missed
+* Other "Do's"
+* You will often want to MEMORIZE the concepts in a LIGHT box
 :::
 
 ::: {.infobox .info}
+INFO  
+
 Additional information that is good to know
 :::
 
-Minor or parenthetical points will be included as footnotes throughout each lesson.
+::: {.infobox .caution}
+CAUTION  
 
-Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
+A potential pitfall, such as a concept that could be easily confused with another
+:::
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
-</div>
-
-
+We also have footnotes<small>^[<small>Minor or parenthetical/non-essential points will be included as footnotes throughout each lesson.</small>]</small>
 
 
+## Quick Start Instructions {.unnumbered #get_started}
 
-
-<!--chapter:end:001E-typical_lesson.Rmd-->
-
-# Quick Start Instructions {.unnumbered #get_started}
-
-These instructions will get you up and running with the course.  We do encourage you to read the other introductory materials before you tackle Lesson 1.
+These instructions will get you up and running with the course.  
 
 > **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
 
@@ -209,7 +136,7 @@ These instructions will get you up and running with the course.  We do encourage
 1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}.
 1. INSTALL ANKI
     1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}.
-        * This allows you to synch your data from your desktop app to the cloud and to your phone or tablet
+        * Doing this allows you to synch your data to the cloud and mobile devices
     1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}.
     1. [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"}
     1. Change the Anki settings [as described here](#anki_settings).
@@ -217,45 +144,77 @@ These instructions will get you up and running with the course.  We do encourage
         1. The [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} is free
         1. The [iOS app](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} is $25 - see discussions in the Appendix for additional discussion as to whether the cost is "worth it"
         1. Synch
-            1. In your desktop Anki app, click on synch (enter ankiweb credentials) - you probably want "upload to ankiweb" if asked.
-            1. In your mobile app do the same, except here click "download from Ankiweb"
-            1. Be sure to repeat the process if you go back and forth between mobile and desktop (be very careful when you select "upload to" or "download from" to make sure your information is flowing in the correct direction!)
-1. Download the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"} for you to keep track of your progress in this course.
-    * Make a copy:
-        * Click `File` then select `Make a copy` to save a copy to your personal Google Drive (recommended)
-        * Click `File` then choose `Download` to save a copy to your local computer (you may lose the checkbox functionality when you do this)
-        * (PLEASE <u>DO NOT</u> `Request Edit Access`)
-
+            1. In your _desktop_ Anki, click on `synch` (enter Ankiweb credentials) - `upload to Ankiweb` if asked.
+            1. In your _mobile_ app do the same, except here click `download from Ankiweb`
+            1. Should you go back and forth between mobile and desktop, make sure you `synch` each time, and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
+1. You will need a Google account to complete many of the activities in this course
+     1. if you do not already have one, or would like to create an additional account only for this course, click [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"}
+1. Open the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} for you to keep track of your progress in this course.
+    * Download a copy of the checklist to your personal Google Drive, where you will be able to complete it online
+    * Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
     
+## A Typical Lesson {- #typical-lesson}
 
-> Let's get started!
+<img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
 
-<!--chapter:end:001F-quick-start.Rmd-->
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what will be inside a typical lesson<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
 
-# Report an Issue {- #report_issue}
 
-Please do not hesitate to report errors, omissions, or improvement opportunities (in fact, we'd rather hear about mistakes sooner rather than later)! Feedback is anonymous.  If you have a specific question about the content, you can use the [Get Help](#get_help) page.
+**Title**|**Description**|**Estimated Time**
+:-----|:----- | :---
+  READING|
+Lesson Itinerary | The lesson's key learning objectives | <1
+Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
+First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
+Lesson Points | The main grammar concepts - Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
+ ACTIVITIES|
+ `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
+ `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be three stages to each Lesson. | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
+`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
+ `B. Grammar`|Here, you will work through (and at times grapple with) the main grammar concepts discussed in the Lesson.
+ `C. Workbook`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
+ `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
+`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
+`Ruth Pursuit`|Similar to the "bag the letter" in _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
+`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
+`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
+TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
+
+Of course, some lessons will be more involved than others, and each of us works at different paces. One of the beautiful things about a self-paced class is the pace is not set by a course syllabus.  The pace is set by YOU!
+
+::: {.box .light}
+DON'T BE OVERWHELMED!  YOU GOT THIS!
+
+Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this were back on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
+:::
+
+Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+
+## Report an Issue {- #report_issue}
+
+Please do not hesitate to report any errors, omissions, or improvement opportunities.  In fact, we'd rather hear about mistakes sooner rather than later! Feedback is anonymous.  
+
+::: {.box .stop}
+If you have a specific question about the content or are stuck on a concept, please use the [Get Help](#get_help) question form instead of the `Report an Issue` form.
+:::
 
 [Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf3obLnGzJQ6d7Rtyy2YXDln3g-kJWCY-4IlRLE_mnFuWv2AQ/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
+## Ask a question {- #get_help}
 
+While this is a self-paced course with no formal instructor or teaching assistant, we want to provide a way for you to get help and ask a question should you get stuck.
 
+We request that before you submit a question, you read through the lesson a couple of times, then attempt to do the Anki cards for that lesson.  Sometimes by doing this, things will "click" on their own.  If you are still unclear, we are here!
 
+Use the form below to ask a question. Please note, we are staffed by volunteers, so please allow a few days for us to research and get back to you.  
 
-<!--chapter:end:001L-issue.Rmd-->
-
-# Get Help {- #get_help}
-
-While this is a self-paced course with no formal instructor or teaching assistant, we do want to provide a way for you to get help if you get stuck.
-
-We request that before you submit a question, you read through the lesson's Seven Points a couple of times, then attempt to do the Anki cards for that lesson.  If you are still unclear, we are here!
-
-Use the form below to ask a question. Please note, we are staffed by volunteers, so please allow a few days for us to research and get back to you.  If you have general feedback or wish to report an issue, please use the [Report an Issue](#report_issue) form.
+::: {.box .stop}
+If you have general feedback or wish to report an issue, please use the [`Report an Issue`](#report_issue) form instead of the `Get Help` form. 
+:::
 
 [Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
 
@@ -265,7 +224,93 @@ Use the form below to ask a question. Please note, we are staffed by volunteers,
 
 
 
-<!--chapter:end:001P-question.Rmd-->
+
+<!--chapter:end:001A-getting-help.Rmd-->
+
+
+<!--chapter:end:001L-introduction-header.Rmd-->
+
+# About This Course {-}
+
+* [Why is Holy Language Institute offering a Hebrew Grammar course?](#motivation)
+* [What makes our course Distinct?](#our_course)
+* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
+
+
+## Why a Hebrew Grammar course {- #motivation}
+
+If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
+
+***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful; but, we also noticed other students began to drop off between lessons 12 and 16, after the lessons on the Aleph-Bet. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.
+
+As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
+
+1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u> 
+    * Sometimes these are too easy, and we tend not to learn very much
+    * Additionally, with this format, there is no way for a student to get feedback on progress
+    
+2. <u>Academic/Seminary level textbooks and courses</u>
+    * These materials are incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures and exams
+    * The pace is usually fast, and the stress level is high, focusing on due dates and grades.<small>^[<small>For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.</small>]</small>.
+    * The textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)<small>^[<small>For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible.</small>]</small>
+   
+Additionally, with either option, our students would incur additional fees to purchase these materials.
+
+Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for our students.
+
+<div align="right">_(continued)_</div>
+
+## Reasons our Course is Distinct {- #our_course}
+
+Our goals for a Hebrew grammar course are the following:
+
+* Academically challenging, but with a low-stress level
+* Primary emphasis on understanding God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.
+* Self-paced for independent learning but with mechanisms to provide feedback, encouragement, and ways to celebrate students' accomplishments in the course
+* Aligns with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over tons of textbook reading and long lectures
+* Compliments (not replaces) and integrates with _Hebrew Quest_
+* Inexpensive and straightforward to develop, deliver, and maintain
+* Free of charge for our students
+* Most importantly, the course must be Yeshua-centered that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+
+We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
+</div>
+
+
+## Relationship to _Hebrew Quest_ {- #hgq_and_hq}
+
+One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
+
+Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. In that case, we believe <u>Hebrew GRAMMAR Quest</u> is what you would see. Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12. Then we begin our deep dive into grammar topics touched upon in _Hebrew Quest_ Lessons 13-15.
+
+<img src="images/i.hq_hgq.png" width="400pt" style="display: block; margin: auto;" />
+
+If you finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  
+
+On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, we believe Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up.  We're going to help you with this goal. In the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of _Hebrew Quest_.  
+
+::: {.box .map}
+If you are interested in learning some of Hebrew's inner workings, you’re in the right place!
+:::
+###  FAQ about the two courses {-}
+
+* [Do I need to complete _Hebrew Quest_ before I start Hebrew GRAMMAR Quest?](#complete_hq_first) Quick answer: NO!
+* [When I complete this course, should I go back and finish _Hebrew Quest_?](#need_to_finish_hq) Quick answer:: YES!
+*  [I haven't started either course.  Which should I do first?](#which_first) Quick Answer: 
+    1. Complete _Hebrew Quest_ Lessons 1-15 (don't worry about whether you fully absorb the grammar material in Lessons 13-15)
+    2. Hop over to Hebrew GRAMMAR Quest and complete the full course, including the _Hebrew Quest_ Study Passage track, if possible
+    3. When you finish here, return to complete _Hebrew Quest_
+    
+We have FAQs on other topics of interest in our Appendix section.
+
+::: {.box .map}
+Let's get started on our Hebrew GRAMMAR Quest!
+:::
+
+<!--chapter:end:001N-introduction.Rmd-->
 
 # (PART) Hebrew Grammar Foundations {-}
 
@@ -280,7 +325,7 @@ Use the form below to ask a question. Please note, we are staffed by volunteers,
 
 <img src="images/alephbet_multi.png" width="400pt" style="display: block; margin: auto;" />
 
-This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson we will meet the Hebrew Aleph-Bet.  The letters are like a family, and with any family there can be interesting dynamics (including not always playing nice with each other!).  The bulk of the lesson will take a look at some of those dynamics.
+This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like a family.  With any family there can be unique dynamics (including not always playing nice with each other!).  This lesson will take a look at some of those dynamics.
 
 
 ::: {.infobox .map}
@@ -301,16 +346,15 @@ This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~160
 
 **EQUIPMENT CHECK**
 
-If you are eager to jump right in with Lesson 1, we understand totally.  We are also excited for you to start!
+If you are eager to jump right in with Lesson 1, we understand.  We are also excited for you to start!
 
 "Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing<small>^[<small>See discussion on ["The Fog"](#the-fog) in the appendix</small>]</small>
 
 
 Before continuing, make sure of the following:
 
-*  You read the [Introduction](#hgq_and_hq)
-*  You understand what will [a typical lesson](#typical-lesson) will include
-*  You followed the steps on our [Quick Start Instructions](#get_started), are ready go to with `Anki` and have your `Course Checklist` to track your progress
+*  You understand what [a typical lesson](#typical-lesson) will include
+*  You followed the steps on our [Quick Start Instructions](#get_started), are ready go to with `Anki` and have your `Course Checklist` downloaded to track your progress
  
 :::
 
@@ -339,14 +383,14 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 <p class="caption">(\#fig:unnamed-chunk-6)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
-<small>Note: acoustic tests have been performed at this location that have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment (and Yeshua didn't have to deal with road noise!).  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
+<small>Note: acoustic tests have been performed at this location.  These have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment (and Yeshua didn't have to deal with road noise!).  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
 
 
 ## The Hebrew Aleph-Bet {#consonants}
 
 <img src="images/alephbet.png" width="800pt" style="display: block; margin: auto;" />
 
-Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Lessons 2-11](https://holylanguage.com/letters.html){target="_blank"}.  The points below and on the following pages will provide some foundations so your grammar journey gets started in the right direction.
+Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Lessons 2-11](https://holylanguage.com/letters.html){target="_blank"}.  The points below and on the following pages will provide some foundations. This way, your grammar journey gets started in the right direction.
 
 * All letters you see in the picture of the Aleph-Bet above are classified as "consonants."
 
@@ -359,7 +403,7 @@ Almost every other grammar book would start with a lengthy description of each l
 
 ## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
 
-Note the front of a Hebrew book is in the same location as the back of an English one:
+Note the front of a Hebrew book is the back of an English one:
 
 <img src="images/right_to_left.png" width="300pt" style="display: block; margin: auto;" /><img src="images/hebrewbook.png" width="300pt" style="display: block; margin: auto;" />
 
@@ -382,10 +426,10 @@ See **Hebrew Quest** discussion on Right to Left:
 
 * Hebrew does not have capital letters the way English does, but a somewhat similar concept is five letters take what are called “Final” or “Sofit”<small>^[<small>_Sofit_ is just the Hebrew word for final</small>]</small> forms when they appear at the END of a word
     * Those letters are in red text above
-* The names of these letters is quite simple
-    * Take the letter Kaf כּ, which is the first letter in the Aleph-bet with a sofit form
-    * The final form is named Kaf Sofit ך. Same for Mem מ and Mem sofit ם and so on<small>^[<small>"Final Kaf," "Final Mem," etc., are also terms you may hear.</small>]</small>
-* The five letters that have these forms are the letters, Kaf, Mem, Nun, Pei, and Tsaddi: ך ם ן ף ץ
+* The letter Kaf כּ is the first letter in the Aleph-bet with a sofit form
+    * The final form is named Kaf Sofit ך
+    * Same for Mem מ and Mem sofit ם and so on<small>^[<small>"Final Kaf," "Final Mem," etc., are also terms you may hear.</small>]</small>
+* The five letters that have these forms are Kaf, Mem, Nun, Pei, and Tsaddi: ך ם ן ף ץ
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 * The KiMNePaTZ sofit forms can look like other letters - your `Anki` work for this Lesson will give you practice with identifying look-alike letters
 
@@ -393,74 +437,92 @@ See **Hebrew Quest** discussion on Right to Left:
 
 <img src="images/bdgkpt.gif" width="800pt" style="display: block; margin: auto;" />
 
-* The next sub-group of letters you need to study are the "BeGaD Kephat" letters<small>^[<small>See also Lesson 3 of Hebrew Quest</small>]</small>
-* The red dot in the above letters is called a **DAGHESH LENE**
+* Next, we need to learn the "BeGaD Kephat" letters<small>^[<small>See also Lesson 3 of Hebrew Quest</small>]</small>
+* The red and blue dots in the above letters are called **DAGHESH LENE**
 * The Daghesh Lene is inserted into the middle of the consonant
-    * The pronunciation of the letter is hard if the Daghesh Lene present or soft if not present
+    * The pronunciation of the letter is linguistically "hard" if the Daghesh Lene present or linguistically "soft" if not present
         * so ב has a "soft b" sound, in other words a "v" sound
         * בּ has a "hard b" sound, in other words a "b" sound
         * כ sounds like the "ch" in "bach", while כּ is "k" as in "kite"
         * פ is the "ph" in "phone", while פּ is the "p" in "pull"
-    * The Daghesh Forte ONLY applies to Bet - Gimmel - Dalet - Kaf - Pei - and Tav 
-* At one time, all six of these letters had different pronunciations, but today, only three do.  These are the letters in blue above: **בּ כּ פּ**
+
+* At one time, all six of these letters had different pronunciations, but today, only three do.  These are the letters in blue above **בּ כּ פּ**
     * Since the letters without the Daghesh Lene want to be "lazy" - for example a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"
 
-::: {.infobox .info}
-We’ll dig deeper into the Daghesh Lene and its much more important twin, the Daghesh Forte, over the next few lessons.
+::: {.box .caution}
+* There other "dots" in Hebrew with various meanings
+* The Daghesh Lene ONLY applies to Bet - Gimmel - Dalet - Kaf - Pei - and Tav 
+    * If a dot appears in any other letter, it is NOT a Daghesh Lene
+* We’ll dig deeper into the Daghesh Lene and its much more important twin, the Daghesh Forte, over the next few lessons.
 :::
 
 ## We classify four consonants as **Gutturals** (and one is a sometimes-guttural) {#gutturals}
 
 <img src="images/gutturals.gif" width="800pt" style="display: block; margin: auto;" />
 
-
-* There are four proper gutturals: Aleph, Hei, Chet, and Ayin (in red above)
- * The letter Resh ר (in orange above) is not formally a Guttural; but since it can’t decide whether to behave or not, sometimes we include Resh with the other Gutturalsl
-* We like to say that the gutturals will be our trouble-makers because they tend not to play nice with the other Hebrew rules 
+* We like to say that the gutturals (and sometimes Resh) will be our trouble-makers because they tend not to play nice with the other Hebrew rules 
     * The good news is the behavior of the Gutturals and Resh is entirely predictable
     * We will learn this over the next few lessons (and indeed, the rest of the course) 
+* There are four proper gutturals: Aleph, Hei, Chet, and Ayin (in red above)
+* The letter Resh ר (in orange above) is not formally a Guttural; but since it can’t decide whether to behave or not, sometimes we include Resh with the other Gutturals
 * For now, memorize the group of four guttural consonants in red and Resh, the sometimes-guttural-like letter in orange.
 
 ::: {.infobox .info}
 Learning how the Gutturals behave and what spelling changes they cause is one of the most critical facets of Hebrew grammar
 :::
 
+## We classify ten consonants as "SQiN eM LeVY"
+
+<img src="images/01_sqinemlevy_gif.gif" width="800pt" style="display: block; margin: auto;" />
+
+
+
+* This is another group of letters that can behave differently
+* They are called the _SQiN eM LeVY_ letters because of the made-up word that is formed by the letters:
+    * S - שׂשׁסצ the Sibilants (letters that make an S sound)<small>^[<small>The ז is also a sibilant, but as it turns out, it is not generally affected by the SQiN eM LeVY exception.</small>]</small>
+    * Q - ק
+    * N - נ
+    * M - מ
+    * L - ל
+    * V - ו
+    * Y - י
+    
+    
 ## Look out for look-alike Letters {#look-alike-letters}
 
-<img src="images/lookalikes.png" width="400pt" style="display: block; margin: auto;" />
-
 * Hebrew has many letters that can look similar, especially to someone just learning the Aleph-bet
-    * The `Anki` deck will give you practice on distinguishing these.
-    * Also, in Hebrew Quest, when Izzy reviewed the Aleph-Bet in lessons 2-11, he talked about each letter’s "twin" and how to spot the difference 
-    * We encourage you to revisit those [letter lessons](https://holylanguage.com/letters.html). 
+* For example <span class="he">נ</span>, <span class="he">ג</span> and <span class="he">כ</span>; <span class="he">ס</span> and <span class="he">ם</span>; or <span class="he">ר</span>, <span class="he">ד</span> and <span class="he">ך</span>
+* The `Anki` deck will give you practice on distinguishing these.
+* Also, in Hebrew Quest, when Izzy reviewed the Aleph-Bet in lessons 2-11, he talked about each letter’s "twin" and how to spot the difference 
+* We encourage you to revisit those [letter lessons](https://holylanguage.com/letters.html). 
 
 <img src="images/01.izzy_aleph.jpg" width="400pt" style="display: block; margin: auto;" />
 
-## Sephardic vs "Seminary" Pronunciation {#pronunciation}
+## Sephardic and "Seminary" Pronunciation {#pronunciation}
 
 <img src="images/vav.png" width="800pt" style="display: block; margin: auto;" />
 
 * There are some notable differences between what we might call academic or "seminary<small>^[<small>"Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.</small>]</small>" Hebrew and "real-world" Hebrew.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
     * Real-world Hebrew is based on Sephardic pronunciation
-* We've already talked about how only three of the Daghesh Lene letters need to "buck up"
-* With "Seminary Hebrew," the ג without the Daghesh Lene receives something like the GH in "aGHast." The ד and ת without the Daghesh Lene are closer to the English DH/TH like "this." 
-* Another difference between Sephardic and Seminary pronunciation is how to pronounce ו 
-    * In academia, the consonant receives the "w" sound and is called "Waw." 
-    * In most non-academic circles, it receives the "v" sound and is pronounced "vav."
+* We've already talked about how only three of the Daghesh Lene letters need to "BucK-uP"
+* With "Seminary Hebrew," the <span class="he">ג</span> without the Daghesh Lene receives something like the GH in "aGHast." The <span class="he">ד</span> and <span class="he">ת</span> without the Daghesh Lene are closer to the English DH/TH like "this" 
+* Another difference between Sephardic and Seminary pronunciation is how to pronounce <span class="he">ו</span> 
+    * In academia, the consonant receives the "w" sound and is called "waw" 
+    * In most non-academic circles, it receives the "v" sound and is pronounced "vav"
 * There are also significant differences in pronouncing vowels, which we will talk about in Lesson 2.
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
-* We will use "Adonai" or "the LORD" when we encounter the Covenant Name.
+* Lastly, will use "Adonai" or "the LORD" when we encounter the Covenant Name<small>^[<small>Please read Izzy's statement on the Covenant Name: "When I filmed Hebrew Quest I read God's Hebrew name as "Yahweh". This is a relatively common practice in academic circles and was also an expression of my personal love for God's holy name. Since then though I've encountered conclusive evidence that Yeshua and his disciples followed the Jewish tradition of saying "Adonai" instead of using the Sacred Name. It's my deep conviction that we should follow the example of Messiah and his apostles, so I've returned to saying "Adonai" (Hebrew for "the LORD") or "Hashem" (Hebrew for "the Name") instead of using the Sacred Name, and I encourage our students to do likewise." </small>]</small>
 
 ## Lesson Conclusion and Activities {-}
 
-Congratulations on completing your first lesson.  If you look to the left, you should see 1.1 through 1.7 (hit the `s` key if you don't see the sidebar).  After each lesson, take a moment to review list of the Seven Practical Points. Don't hesitate to go back and re-review anything that might be a bit fuzzy.
+Congratulations on completing your first lesson!
 
-Now we'll move into the Physical Activity<small>^[<small>If you're wondering why we call it a "physical" activity, see [this discussion](#physical) in the appendix.</small>]</small> stage of the Lesson.  This is where you take what you learned above and put it into practice using `Anki`.  For this lesson, we also have a `worksheet` and an additional writing activity.
+Now we'll move into the Activities.  This is where you take what you learned above and put it into practice using `Anki`.  For this lesson, we also have a `worksheet` and an additional writing activity.
 
 ### Anki {- #anki-1}
 
-* `Lesson 01 A. Vocab` - Learn (or relearn) the Aleph-Bet with Izzy. 
-* `Lesson 01 B. Grammar` - Identify look-alike Hebrew letters.
+* `Lesson 01 A. Vocab` - Learn (or relearn) the Aleph-Bet with Izzy
+* `Lesson 01 B. Grammar` - Identify look-alike Hebrew letters
 * `Lesson 01 C. Study Verses` - we won't be working on any Study Verses just yet, but we will learn some grammar shorthand that we will use when we get to Lesson 3.
 
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
@@ -469,20 +531,20 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 
 1. Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
     * If you would like some tips on how to write the letters, you can use [this guide](https://drive.google.com/file/d/1cmrCXcafjwvbMNj7GgX7UPMGA0FcwvWN/view?usp=sharing){target="_blank"} from Dr. Beckman.
-    * As we've said before, we strongly encourage everone to watch (or re-watch) the [_Hebrew Quest_ lessons on the Aleph-Bet](https://holylanguage.com/letters.html){target="_blank"}
+    * As we've said before, we strongly encourage everyone to watch (or re-watch) the [_Hebrew Quest_ lessons on the Aleph-Bet](https://holylanguage.com/letters.html){target="_blank"}
     
 2. Practice writing the entire AlephBet until you can do it FIVE times from memory.  This will also be an instruction on the Quest Quiz.
 
 
 ## Ruth Pursuit {-}
 
-You can do this activity online using Google Docs, or you can download/print and use physical highlighters.
+* This is a QUEST activity, similar to "bag the letters" from _Hebrew Quest_.  
+* You can do this activity online using Google Docs or download/print and use physical highlighters.
+* Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}.  You may need to sign in with a Google account.  
 
-* Google Docs: Click the link to open a [blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}.  You may need to sign in with a Google account.  
-* Download/Print: click the same link, then you should see options on the upper right of your screen to print or download (Word format).
 
 ::: {.box .map} 
-Your Quest: 
+YOUR QUEST
 
 1. Identify the four guttural letters in Ruth chapter 1(pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
 2. Identify the one half-guttural (red)
@@ -493,20 +555,45 @@ Your Quest:
     * Ruth - spelled <span class="he">רוּת</span>; also "and Ruth" - <span class="he">וְרוּת</span>
     * Naomi - spelled <span class="he">נָעֳמִי</span> 
     * Bethlehem - spelled <span class="he">בֵּית לֶחֶם  </span>, also "from Bethlehem" - <span class="he">מִבֵּית לֶחֶם<span>
+        * Our one word "Bethlehem" is two words in Hebrew: <span class="he">בֵּית</span> means "house of" and  <span class="he">לֶחֶם</span> means "bread"
     * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
 :::
 
 
-* [Ruth Pursuit #1 Answer Key](./images/01_Ruth_Pursuit_KEY.pdf){target="_blank"}
-* Update your `Ruth Pursuit Translation` Worksheet with the complete words you identify in each Ruth Pursuit lesson](){target="_blank"}
+* Check your results against the [Ruth Pursuit #1 Answer Key](./images/01_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+## Ruth Pursuit Translation Worksheet {-}
+
+* With almost every lesson of Hebrew GRAMMAR Quest, we will be gradually building a translation of Ruth chapter one
+* Instead of going sequentially, we will be working to identify concepts  
+    * We started with the simple words in the previous section
+    * Towards the end of the course, you will be translating complex verbs
+* We want you to keep track of your progress, because in Unit 4, you will know enough Hebrew to compose your own translation of Ruth 1
+* After you finish each `Ruth Pursuit`, be sure to update your worksheet
+
+::: {.box .map}
+RUTH PURSUIT TRANSLATION WORKSHEET INSTRUCTIONS
+
+* Download and open your `Hebrew GRAMMAR Quest Checklist` if you haven't already done so
+* Find the `Ruth 1 Translation` tab
+* As you identify complete words (not the individual letters), enter the English meaning next to the applicable word
+    * For example, next to each occurrence of <span class="he">מוֹאָב</span>, type the word `Moab`, for <span class="he">רוּת</span>, enter "Ruth" and so forth
+    * You might want to make a note of the Lesson # (in this case "1") in case you need to refer back
+    * There is also a column for any notes you wish to make
+    * See examples for verse 1 in the worksheet
+* Remember to update your translation worksheet after each lesson
+:::
 
 ## Quest Quiz {-}
+
+Here is our first `Quest Quiz`.  Remember to treat this as a self-assessment.  If you do well, you should be ready to progress to Lesson 2.  If not, you may need to go back and review some concepts from Lesson 1.  This is not for a grade, as there are no grades given in this course.
 
 [Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
 
 
 <!--chapter:end:01-Alephbet.Rmd-->
@@ -516,7 +603,7 @@ Your Quest:
 
 > To comprehend Biblical Hebrew, we must understand how words are formed and pronounced
 
-Even though our goal may not necessarily be to converse in Biblical Hebrew, hearing the sound of the language aides our learning.  Vowels are what give a language its distinctive sound.  In Hebrew, the same three consonants can change meaning depending on the vowel combination.
+Even though our goal may not necessarily be to converse in Biblical Hebrew, hearing the sound of the language aids our learning.  Vowels are what give a language its distinctive sound.  In Hebrew, the same three consonants can change meaning depending on the vowel combination.
 
 
 
@@ -528,12 +615,12 @@ As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you s
 **LESSON ITINERARY**
 
 1. Memorize vowels that are not vowel letters
-1. Learn vocal sheva and silent sheva
+1. Learn vocal Sheva and silent Sheva
 1. Memorize the vowel letters
 1. Meet "defective" and "plene" spelling 
-1. Meet Daghesh Lene's twin, Daghesh Forte
-1. Know the rule for a Daghesh Forte
-1. Know that the Gutturals and Resh reject Daghesh Forte
+1. Meet Dagesh Lene's twin, Dagesh Forte
+1. Know the rule for a Dagesh Forte
+1. Know that the Gutturals and Resh reject Dagesh Forte
 ::: 
 
 ::: {.infobox .stop}
@@ -579,40 +666,51 @@ Reflect on the works of HaShem that you have seen.
 
 ### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
 
-Like the Aleph-bet, we are going to have to commit the vowels in the table below to memory. You will do this in `Anki`. Knowing the vowel types and classes will make your grammatical life much more comfortable in the future.  
-
-* The letter בּ is provided as a placeholder
-* Say the vowel _after_ saying the associated consonant<small>^[<small>We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.</small>]</small> So the first vowel example is "baw" not "awb".
+* Like we memorized the Aleph-bet, we will commit the vowels in the table below to memory
+* Study the table below before doing the drills in `Anki` 
+  * Knowing the vowel types (Long, Short, Reduced) and classes will make your grammatical life much more comfortable in the future
+  * The letter בּ is provided as a placeholder for the long/short vowels; ע represents any Guttural for the reduced vowels, since only Gutturals take the Reduced vowels
+* Say the vowel _after_ saying the associated consonant<small>^[<small>We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.</small>]</small> So the first vowel example is "qaw" not "awq".
 *  Future lessons will explain the difference between Qamets and Qamets Hatuf
 
-<img src="images/02.vowels_not_letters.png" width="500pt" style="display: block; margin: auto;" />
+Another table to memorize:
 
+<img src="images/02.vowels_not_letters.png" width="300pt" style="display: block; margin: auto;" />
 
-
-::: {.infobox .light}
+::: {.infobox .info}
 Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
 
-Hateph vowels are used because Gutturals reject vocal sheva (2.2)
+Hateph vowels are used because Gutturals reject vocal Sheva 
 :::
 
 
-## Vocal and Silent Sheva {#sheva}
+## Vocal and Silent Sheva {#Sheva}
 
-* Both are written as בְּ 
+* The Sheva can be tricky to grasp at first, since vocal and silent Sheva are written the same, but have two very different uses
+* Both are written as קְ
   * Both mark the END of a syllable
-* VOCAL Sheva<small>^[<small>Many academic textbooks will use the term "Shewa" instead of "Sheva". Both words mean the same thing.</small>]</small> is a REDUCED vowel 
+* VOCAL Sheva<small>^[<small>Many academic textbooks will use the term "Shewa" instead of "Sheva". Both words mean the same thing.</small>]</small> is a REDUCED vowel, but does NOT have a vowel Class
   *  Only non-gutturals can take a Vocal Sheva
       * Gutturals **reject** the Vocal Sheva and take the Hateph vowels instead
     * Pronounced like the A in <u>A</u>muse (same as Hateph Patach)
-* SILENT Sheva is NOT A Vowel
-    * <u>Any</u> letter can take a Silent Sheva
+* SILENT Sheva is not a reduced vowel, in fact, it is NOT A VOWEL AT ALL
+    * <u>Any</u> letter, including Gutturals can take a Silent Sheva
     * Silent/ No sound
-    
-::: {.infobox .info}
- We will learn how to distinguish between the two kinds of Sheva in the next lesson
-:::
+* We will learn how to distinguish between the two kinds of Sheva in the next lesson
 
-It is worth pointing out that in Hebrew Bibles you may come across a mark that looks like a super-sized sheva.  In English, we might say it looks like a colon (:).  In Hebrew this mark is called a sof pasuq and it is used to mark the end of the verse.  It is no other effect on grammar or pronunciation.  (סוֹף=end; פָּסוּק=verse).  And while we're on this note, sometimes you may see a vertical line |.  This has no meaning for us whatsoever.  You may ignore it when you encounter it.
+Type | Class | Hebrew | Name | Pronunciation
+| :-: | :-: | :-: | :-: | :-: 
+Reduced | No Class | <span class="he">ְבּ</span> | Vocal Sheva | amuse
+Not a Vowel | | <span class="he">ְבּ</span> | Silent Sheva | No pronunciation
+
+::: {.box .info}
+The Sof Pasuq
+
+* It is worth pointing out that in Hebrew Bibles, we may come across a mark that looks like a super-sized Sheva
+* In English, we might say it looks like a giant colon mark (:)
+* In Hebrew, this mark is called a Sof Pasuq, and it is used to mark the end of the verse
+* Other than this, the mark has no meaning for us whatsoever.  You may ignore it when you encounter it.
+:::
 
 ## Vowel letters {#vowel_letters}
 
@@ -627,7 +725,7 @@ Another table to memorize:
 * All others are pronounced like their non-vowel-letter counterparts
 * Yod and Vav vowels - י,ו 
     * These are Long Vowels that do not reduce
-    * Therefore they are called "irreducible (unchangeable) long vowels"<small>^[<small>We'll explain what this means in the next lesson</small>]</small>
+    * Therefore they are called, "Unchangeable long vowels"<small>^[<small>We'll explain what this means in the next lesson</small>]</small>
     * These occur in the middle or at the end of a word
 
 ::: {.infobox .info}
@@ -639,7 +737,26 @@ If the Yod or Vav has a vowel of it's own, then the Yod/Vav is acting as a _cons
     * Hei vowels **ONLY** occur at the end of a word (often called "word-final hei")
     * Hei vowels are extremely common in Hebrew
 
+## Transliteration Shorthand
 
+* Most Hebrew grammar books include transliteration values
+* While learning the transliteration scheme can help in some instances, our general position is that it can be an unnecessary distraction
+* Where it can be useful is as shorthand
+  * It would get wordy to write "holem vav" repeatedly
+  * It's much less clutter to write the shorthand version based on transliteration: $\hat O$
+* As we move forward in the course, particularly in unit three, we will be making use of the vowel shorthand listed below
+
+::: {.map. info}
+
+* Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, and so forth for the remaining short vowels
+* Long Vowels (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
+* Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
+* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod, $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav; $\hat U$ = Shureq
+* Additionally, the ending Qamets+He = $\hat A$ and Sheva = $ə$
+
+:::
+
+You do NOT need to memorize this.  We will review the values as we get into Unit 3.
 
 ## "Defective" and "plene" spelling {#defective_spelling}
 
@@ -647,67 +764,77 @@ In "defective" spelling, letter vowels can sometimes drop their letter and take 
 
 This is the word for "laws" showing both "plene" spelling (left) and "defective" spelling (right):
 
-<img src="images/defective.gif" width="500pt" style="display: block; margin: auto;" />
+<img src="images/defective.gif" width="300pt" style="display: block; margin: auto;" />
 
 * Three vowel letters commonly take "defective" forms<small>^[<small>"Defective", in this sense, does not have a negative connotation.</small>]</small>
     * Holem-vav can drop the Vav and contract to Holem, as in the example above
     * Hireq-Yod can drop the Yod and contract to Hireq
     * Shuruq can drop the Vav and it's associated nikkud and contract to Qibbuts
     
-The qamets-hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the qamets under the now-final letter.
+The Qamets-Hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the Qamets under the now-final letter.
 
 ::: {.infobox .info}    
 As you progress, you’ll start to develop a mental checklist when you encounter something that does not seem to follow the normal/regular rules. Asking yourself “Could this be a defective spelling?” will be one of those checklist items.
 :::
 
-## The Daghesh Forte Doubles the Consonant {#daghesh_forte}
+::: {.box .caution}
+An unchangeable long vowel written defectively is still an unchangeable long vowel
+
+
+* A Qibbuts that is _not_ defective is a short vowel
+* A Qibbuts that is a defective Shureq is an unchangeable long vowel
+
+For now, do not be concerned about the difference.  As we progress in the course, you will see this in action.
+:::
+
+## The Dagesh Forte Doubles the Consonant {#dagesh_forte}
 
 Notice the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
 
 <img src="images/02.daghesh_forte.gif" width="500pt" style="display: block; margin: auto;" />
  
-* Since שׁ is not a בגד כפת letter, we know this *cannot* be a Daghesh Lene, but it is a Daghesh **Forte**
-* The letter with the Daghesh Forte both ends one syllable and begins the next syllable
+* Since שׁ is not a בגד כפת letter, we know this *cannot* be a Dagesh Lene, but it is a Dagesh **Forte**
+* The letter with the Dagesh Forte both ends one syllable and begins the next syllable
 * If we were to syllabify <span class="he"> הַשָּׁמַיִם</span>, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)<small>^[<small> `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!</small>]</small>
 * A similar word in English might be better = bet | ter
     * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*<small>^[<small>The * means this is not a real Hebrew word, but we show it in this form for illustration.</small>]</small>
-* Notice the syllable breaks in these words that have a Daghesh Forte:
+* Notice the syllable breaks in these words that have a Dagesh Forte:
 <img src="images/02.forte.png" width="200pt" style="display: block; margin: auto;" />
-* Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter, which can take either a Daghesh Lene or a Daghesh Forte
-    * The "Buck-up" letters will take the **hard** pronunciation regardless of a Daghesh Lene or Daghesh Forte - See the final word אַתָּה in the image above
-    * "Any consonant" includes the Vav ו.  When a Vav has a Daghesh Forte it looks like this וּ. Does that remind you of anything?  Maybe something we just discussed on the previous page?
-        * That's right. A Vav with a Daghesh Forte וּ is identical to a Shurek וּ.
-        * It's surprisingly easy to tell the difference: if there is an additional vowel either under or over the same letter, or if the preceding consonant has a vowel, the letter is a Vav with Daghesh.  A Shurek will _never_ have an additional vowel following or preceding.
+* Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter, which can take either a Dagesh Lene or a Dagesh Forte
+    * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word אַתָּה in the image above
+    * "Any consonant" includes the Vav ו.  When a Vav has a Dagesh Forte it looks like this וּ. Does that remind you of anything?  Maybe something we just discussed on the previous page?
+        * That's right. A Vav with a Dagesh Forte וּ is identical to a Shurek וּ.
+        * It's surprisingly easy to tell the difference: if there is an additional vowel either under or over the same letter, or if the preceding consonant has a vowel, the letter is a Vav with Dagesh.  A Shurek will _never_ have a separate vowel following or preceding.
 
-_Advanced tip:_ When you see a Daghesh Forte, it often means that another letter has disappeared<small>^[<small>Not entirely unlike the English apostrophe in words like _can't_.</small>]</small>.  We will talk more about this later in the course.
+_Advanced tip:_ When you see a Dagesh Forte, it often means that another letter has disappeared<small>^[<small>Not entirely unlike the English apostrophe in words like _can't_.</small>]</small>.  We will talk more about this later in the course.
 
 ::: {.infobox .info}
-It's good to think of the Daghesh Forte as the "Doubling Daghesh", since it doubles the consonant, and often changes a word's meaning.  
+It's good to think of the Dagesh Forte as the "Doubling Dagesh" since it doubles the consonant and often changes a word's meaning.  
 
-Conversely we can think of the Daghesh Lene as the "Meaningless Daghesh", since it does not ever change a word's meaning
+Conversely, we can think of the Dagesh Lene as the "Meaningless Dagesh", since it does not ever change a word's meaning
 :::
 
 
-## Daghesh Forte Rule {#daghesh_forte_in_bgdkpt}
+## Dagesh Forte Rule {#dagesh_forte_in_bgdkpt}
 
 ::: {.infobox .light} 
-A Daghesh is a Forte if, and only if, it's preceded by a vowel that is not a Sheva
+A Dagesh is a Forte if, and only if, it's preceded by a vowel that is not a Sheva<small>^[<small>Remember we said in the introduction that content in "light" information boxes should usually be memorized.  You will want to memorize the Dagesh Forte rule.</small>]</small>
 :::
 
-That's it.  That's the rule<small>^[<small>Strictly speaking, there are exceptions, but you won't encounter them in a first-year Hebrew course</small>]</small>.  
+That's it.  That's the rule<small>^[<small>Strictly speaking, there are exceptions.  We only have one in this course and we won't see it until Unit 4.</small>]</small>.  
 
 Quiz yourself with these examples (answers below):
 
-* <span class="he">אַתָּה</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a patach. Daghesh Forte</small>]</small>
-* <span class="he">בְּרֵאשִׁית</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene</small>]</small>
-* <span class="he">עַל־פְּנֵי</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Daghesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the same function as the Hyphen does in English.</small>]</small>
-* <span class="he">מַבְדִּיל</span> = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>No, it is preceded by a Sheva. Daghesh Lene.</small>]</small>
-* <span class="he">מִתַּחַת</span>  = Is the Daghesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a Hiriq. Daghesh Forte</small>]</small>
+* <span class="he">אַתָּה</span> = Is the Dagesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a patach. Dagesh Forte</small>]</small>
+* <span class="he">בְּרֵאשִׁית</span> = Is the Dagesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Dagesh Lene</small>]</small>
+* <span class="he">עַל־פְּנֵי</span> = Is the Dagesh preceded by a vowel that is not a Sheva?<small>^[<small>No. Dagesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the same function as the Hyphen does in English.</small>]</small>
+* <span class="he">מַבְדִּיל</span> = Is the Dagesh preceded by a vowel that is not a Sheva?<small>^[<small>No, it is preceded by a Sheva. Dagesh Lene.</small>]</small>
+* <span class="he">מִתַּחַת</span>  = Is the Dagesh preceded by a vowel that is not a Sheva?<small>^[<small>Yes, a Hiriq. Dagesh Forte</small>]</small>
 
 
-## Gutturals and Resh reject Daghesh Forte {#gutturals_reject_daghesh_forte}
+## Gutturals and Resh reject Dagesh Forte {#gutturals_reject_dagesh_forte}
 
-* We said in Lesson One that the Gutturals don’t play nice with the other Hebrew Rules, and this rejection of the Daghesh Forte is one of those ways
+* We said in Lesson One that the Gutturals don’t play nice with the other Hebrew Rules, and this rejection of the Dagesh Forte is one of those ways
 * A Hebrew collision like this means something has to give. . . and the gutturals tend to get their way.
 * It's like they have a force-field shielding them from other Hebrew grammar rules!
 
@@ -716,16 +843,24 @@ Quiz yourself with these examples (answers below):
 <p class="caption">(\#fig:unnamed-chunk-22)That's no moon.  That's a Guttural!</p>
 </div>
 
-* A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements.
-* You may see הּ. This dot is not a Daghesh but what is called a mappiq.  We'll talk more about the mappiq in Lesson 6.
+* A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements
+
+::: {.box .caution}
+MAPPIQ
+
+* You may see הּ. This dot is not a Dagesh, because we just learned that gutturals never take a Dagesh but what is called a Mappiq. 
+* A word final ה is typically a vowel
+* A Mappiq signifies that a word-final ה is a consonant, not a vowel
+* We'll talk more about the mappiq in Lesson 6
+:::
 
 ## Lesson Conclusion and Activities {-}
 
-Congratulations on completing the vowels lesson.  Make sure you know that Daghesh Forte rule and the guttural behavior  The Daghesh Forte is our Hebrew friend who can tell us a great deal about what is happening grammatically with a word.  
+Congratulations on completing the vowels lesson.  Make sure you memorize the vowel classes, the Dagesh Forte rule, and the guttural behavior.  
 
 We're about halfway through the first stage of the course on Hebrew Grammar Foundations.  Keep going! You're doing great!  After you finish all of the activities for this lesson, you can claim the first of our `Twelve Tribes Badges`. 
 
-Take a second to review the section headings 2.1 - 2.7 on the left side of the screen before heading on to tackle the activities.
+Take a moment to review the section headings on the left side of the screen before heading on to tackle the activities.
 
 
 ### Anki {-}
@@ -743,7 +878,7 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 
 ### Vowel worksheet {-}
 
-* Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/view?usp=sharing){target="_blank"} See note<small>^[<small>ignore the "transliteration" column.  An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory.</small>]</small>
+* Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/copy){target="_blank"}. See note<small>^[<small>An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory. The translation column is optional.</small>]</small>
 
 
 ## Ruth Pursuit {-}
@@ -757,17 +892,16 @@ YOUR QUEST
 4. Identify the three LONG vowels in Verse 1 (that are not part of a vowel letter) (pink)|
 5. Identify three of the five SHORT vowels in Verse 1 (that are not part of a vowel letter)<small>^[<small>We haven't learned to spot Qamets Hatuf yet, and Qibbuts does not appear in this passage</small>]</small> (red)
 6. Five the three REDUCED/HATEPHH vowels, including Hateph Qamets Hatuf<small>^[<small>You should be able to make out the word that has the Hateph Qamets Hatuph</small>]</small>.  They are in verses 2-4. (grey)
-7. One of the more common verbs in the Tanach is **וַיֹּאמֶר **, which means "(and) he said. 
-    * Vav-Patach-**Yod**-Daghesh Forte --וַיּ to start a verb means "And he (did or was something)  
+7. One of the more common verbs in the Tanach is <span class="he">וַיֹּאמֶר</span>, which means "(and) he said.     * Vav-Patach-**Yod**-Dagesh Forte --וַיּ to start a verb means "And he (did or was something)  
     * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ, "and **S**he (did or was something).  
-            * Thus, וַתֹּאמֶר means "and she said."  
-            * Challenge: Find the five instances of וַתֹּאמֶר in Ruth Chapter 1<small>^[<small>In at least three of the cases, you should be able to figure out who is speaking.</small>]</small>  (yellow)  
+    * Thus, <span class="he">וַתֹּאמֶר</span> means "and she said."  
+    * Challenge: Find the five instances of <span class="he">וַתֹּאמֶר</span> in Ruth Chapter 1<small>^[<small>In at least three of the cases, you should be able to figure out who is speaking.</small>]</small>  (yellow)  
 :::
 
-* [Blank copy of Ruth Chapter 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #2](./images/02_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* Update your Ruth Translation worksheet with <span class="he">וַתֹּאמֶר</span> = "and she said"        
 
-* [Ruth Pursuit Answer Key #2](./images/02_Ruth_Pursuit_KEY.pdf}{target="_blank"}
-        
 ## Quest Quiz {-}
 
 [Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
@@ -781,9 +915,9 @@ YOUR QUEST
 
 If you have completed **all activities** in Lessons 1 and 2, you may claim the first of our "Twelve Tribes" badges<small>^[<small>Once published, the full thirty-five lesson course will have a badge to be claimed after every two to three lessons.  There is only one badge available in the preview version of the course.</small>]</small>.
 
-[Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 <!--chapter:end:02-Vowels.Rmd-->
 
@@ -792,7 +926,7 @@ If you have completed **all activities** in Lessons 1 and 2, you may claim the f
 > To comprehend Biblical Hebrew, we must know how syllables function
 
 
-Originally, the Bible and other ancient documents, were written without spaces.  In addition to vowels, the ancient scribes and readers organically adopted a system of syllables and accents.  They knew where one word ended, and another began without needing to write it down.  
+Originally, the Bible and other ancient documents were written without spaces.  In addition to vowels, the ancient scribes and readers organically adopted a system of syllables and accents.  They knew where one word ended and another began without needing to write it down.  
 
 What we call "Hebrew grammar" is truly an exciting journey into the system of spoken and written Hebrew, which had its formation thousands of years ago!
 
@@ -813,14 +947,12 @@ What we call "Hebrew grammar" is truly an exciting journey into the system of sp
 
 Before continuing, can you describe the following concepts?
 
-* The vowels that are not letters, including their type (long, short, reduced) and class (a,e,i,o,u)
+* The vowels that are not letters, including their type (long, short, reduced) and class (a, e, i, o, u)
 * The vowels that are letters, including which are the "irreducible long" type
-* The difference between a Daghesh Forte and a Daghesh Lene
+* The difference between a Dagesh Forte and a Dagesh Lene
 :::
 
-**The authors of <u>Basics of Biblical Hebrew</u> believe Lesson 3 could be the most challenging chapter in the book.** 
-
-Suppose you do not have the vowels and, chiefly, the vowel types memorized. In that case, this chapter will be all the more difficult.
+Lesson 3 and Lesson 16 are the two most content-heavy lessons in this course.  For that reason, it is critical that you have your alephbet and vowels (including the vowel types) memorized.
 
 Assuming you've checked your equipment as directed above, and everything is in tip-top shape for your Lesson 3 adventure, take your time.  Work through the written material, then do a little Anki work and see if it starts to click. 
 
@@ -884,9 +1016,9 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 ## Hebrew Word Accents {#accents}
 
-::: {.infobox .light}
+::: {.infobox .info}
 * Most frequently, Hebrew words are accented on the last syllable  
-* If not, then the accent will be on the next-to-last syllable<small>^[<small>Later in the course, we will learn about a mark called a maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the maqqef technically does not have an accent.</small>]</small>
+* If not, then the accent will be on the next-to-last syllable<small>^[<small>Later in the course, we will learn about a mark called a maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the Maqqef technically does not have an accent.</small>]</small>
 * Reduced vowels and Sheva never take an accent. If there is a word-final Sheva, the accent will be on the next-to-last syllable 
 :::
 
@@ -903,11 +1035,11 @@ Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<
 * We will encounter specific terms for a syllable's position respective to the word's accent
 * Let's use the plural of <span class="he">דָּבָר</span> to illustrate: <span class="he">דְּ ׀ בָ ׀ רִים</span>
     * The **Propretonic** syllable is two (or more) steps away from the accent = <span class="he">דְּ</span>
-        * Notice how the vowel changed from the Qamets in <span class="he">דָּבָר</span> to a Vocal Shewa in <span class="he">דְּבָרִים</span>
+        * Notice how the vowel changed from the Qamets in <span class="he">דָּבָר</span> to a Vocal Sheva in <span class="he">דְּבָרִים</span>
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
-        * Qamets and Tsere will become Sheva (or hateph patach/hateph seghol)
+        * Qamets and Tsere will become Sheva (or Hateph Patach/Hateph Seghol)
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = <span class="he">בָ</span>
-    * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span><small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not reencounter this term for the remainder of this course.  </small>]</small>
+    * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span><small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not encounter this term for the remainder of this course.  </small>]</small>
     
 ## Ultima, Penultima, and Antepenultima syllables
 
@@ -932,6 +1064,14 @@ Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
 
 ### A Sheva is SILENT when at the end of a word: {-}
 <img src="images/03.sheva-endofword.png" width="200pt" style="display: block; margin: auto;" />
+::: {.map .light}
+THREE SILENT SHEVA CLUES  
+
+1. Previous vowel is short
+2. First of two consecutive Sheva in the MIDDLE of a word
+3. Word-final
+:::
+
 
 ## Rules for Vocal Sheva {#v_sheva}
 
@@ -946,7 +1086,7 @@ Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
 <img src="images/03.sheva-secondoftwovocal.png" width="200pt" style="display: block; margin: auto;" />
 
 
-### A Sheva is VOCAL when under a Daghesh Forte: {-}
+### A Sheva is VOCAL when under a Dagesh Forte: {-}
 
 <img src="images/03.sheva-fortevocal.png" width="200pt" style="display: block; margin: auto;" />
 
@@ -956,17 +1096,30 @@ Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
 
 This one may seem random, but it is relatively common with _long_ vowels in a propretonic position<small>^[<small>These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.</small>]</small>  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
-## Hebrew Diphthong = Accented Patach-Yod-Hiriq {#diphthong}
 
-<img src="images/03.diphthong.png" width="600pt" style="display: block; margin: auto;" />
+::: {.map .light}
+FOUR VOCAL SHEVA CLUES  
 
-::: {.infobox .light} 
-The diphthong is a single vowel unit, which means it is only one syllable
+1. Word-initial
+2. SECOND of two within a word
+3. Under a Dagesh Forte
+4. After unaccented long vowel
 :::
 
-We do not pronounce as "BUY-it", but monosyllabic, like "BITE"<small>^[<small>With this said, "buy" it makes a handy mnemonic for remembering this word means 'house', as there are a few look-alike words.</small>]</small>; and not "sh-MAY-im" but it sounds more like "sh-MIME"
 
-*****
+
+
+## Hebrew Diphthong = Accented Patach-Yod-Hireq {#diphthong}
+
+<img src="images/03.diphthong.png" width="500pt" style="display: block; margin: auto;" />
+
+* The diphthong is a single vowel unit, which means it is only one syllable
+* We do not pronounce the word on the right above as "BUY-it", but monosyllabic, more like "BITE"<small>^[<small>With this said, "buy" it makes a handy mnemonic for remembering this word means 'house', as there are a few look-alike words.</small>]</small>
+* The word on the left is not "sh-MAY-im" but it sounds more like "sh-MIME"
+
+::: {.box .light}
+Remember "Accent+Patach+Yod+Hireq" as the main Hebrew Diphthong:  <span class="he">יִ ַ֫</span>
+:::
 
 Qamets-Yod-Vav is another Diphthong that you'll see in Lesson 9.  It's the pronoun suffix endings for "his" or "him". 
 
@@ -980,21 +1133,31 @@ There is scholarly disagreement as to whether (vowel)+Yod are vowel letters or d
 
 ## Vowels and Syllable Preference {#vowel_pref}
 
-<img src="images/03.vowelpreferencetable.png" width="500pt" style="display: block; margin: auto;" />
+:: {.box .light}
+Memorisze this table:
 
-This table may seem like minutiae, but do yourself a favor: memorize it, noting the following:
+Syllable | Tonic | Pretonic | Propretonic
+| :--: | :--: | :--: | :--:
+Open  |  SHORT | LONG | REDUCED
+Closed | LONG | SHORT | SHORT
 
-* *In an open pretonic syllable, Hebrew REQUIRES a long vowel.
-* *In a closed unaccented syllable, Hebrew REQUIRES a short vowel.
-* **Open/Propretonic _must_ reduce from a long vowel to Vocal Sheva (or Hateph if guttural), _except_ when there is an unchangeable long vowel
-  * Go back and look at <span class="he">דָּבָר</span> and <span class="he">דְּבָרִים</span>
-    * The vowel preference table explains why the vowel under the Dalet changes from Qamets in the open pretonic to Vocal Shewa (reduced vowel) in the open propretonic when the plural suffix "im" is added
-    * This is called "_propretonic reduction_" - you will encounter this topic frequently.   
-  * As we saw with <span class="he">כֹּתְבִים,</span> uunchangeable long vowels written "defectively" will not reduce - at their essence, they are still unchangable.
+:::
 
-## Qamets Hatuf, Furtive Patach, Quiescent Alef {#misc_vowels}
+* Tonic syllables PREFER the listed vowels, but can take any type
+* Pretonic syllable REQUIRE the listed vowels
+* Propretonic syllables
+  * Closed REQUIRES Short
+  * Open REQUIRES reducetion from a long vowel to Vocal Sheva (or Hateph if guttural), _except_ when there is an unchangeable long vowel
+* Go back and look at <span class="he">דָּבָר</span> and <span class="he">דְּבָרִים</span>
+    * The vowel preference table explains why the vowel under the Dalet changes from Qamets in the Open/Pretonic to Vocal Sheva (reduced vowel) in the open propretonic when the plural suffix is added
+    * This is called "_propretonic reduction_" - you will encounter this topic frequently
+  * As we saw with <span class="he">כֹּתְבִים,</span> unchangeable long vowels written "defectively" will not reduce - at their essence, they are still unchangeable
 
-These are three miscellaneous but straightforward rules.
+## Qamets Hatuf, Furtive Patach, Quiescent Aleph {#misc_vowels}
+
+The next three sections will examine these special situations
+
+## Qamets Hatuf
 
 ::: {.infobox .light} 
 Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable
@@ -1002,28 +1165,41 @@ Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable
 <img src="images/03.qametshatuf.png" width="200pt" style="display: block; margin: auto;" />
 :::
 
-There are many instances where the vowel could be a short qamets-hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable.  When this ambiguity occurs, many printings will print a vertical line called a meteg בָּֽ.  The meteg tells you the vowel is the **long, a-class**
-
+* Metheg mark
+  * There are many instances where the vowel could be a short Qamets-Hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable
+  * When this ambiguity occurs, some printings will print a small vertical line called a Meteg בָּֽ.<small>^[<small>Unfortunately, many Tanachs DO not differentiate.</small>]</small>  The Meteg tells you the vowel is the **long, a-class**
+  
 <img src="images/03.meteg.png" width="100pt" style="display: block; margin: auto;" />
 
-*****
+::: {.box .info}
+QAMETS OR QAMETS HATUF  
 
-::: {.infobox .light} 
+* The A-class is FAR more prevalent
+* Nouns such as <span class="he">חָכְמָה</span> that have the pattern <Qamets mark>+Sheva+Qamets+Hei, _TEND_ to be O-class
+* You may know a word from vocabulary that has a Holem, such as <span class="he">כֹל</span>.
+  * When you encounter that same word in its shortened form, <span class="he">כָל־</span>, the vowel will be shortened O-class
+  * This is usually the Construct form, which we will study in Lesson 10.
+:::
+
+
+## Furtive Patach 
+
+::: {.infobox .info} 
 Furtive Patach under final ח or ע is said BEFORE the guttural letter and is not a full vowel
 
-<img src="images/03.furtivepathach.png" width="200pt" style="display: block; margin: auto;" />
+<img src="images/03.furtivepathach.png" width="100pt" style="display: block; margin: auto;" />
 :::
 
 The Furtive Patach is a significant exception to just about everything else we've discussed related to vowels and syllabification:
   * The vowel is pronounced *before* the guttural - so the above word is **Ruach** not "rucha"
-  * The Furtive Patach is not a full vowel and is counted in syllabification - so the above word is **Ruach** not "ru-ach"
+  * The Furtive Patach is not a full vowel and is counted in syllabification 
 
-*****
+## Quiescent Aleph
 
-::: {.infobox .light} 
-Quiescent Aleph is silent, neither a consonant nor a vowel
+::: {.infobox .info} 
+Quiescent Aleph is silent. It is neither a consonant nor a vowel
 
-<img src="images/03.quiescentaleph.png" width="200pt" style="display: block; margin: auto;" />
+<img src="images/03.quiescentaleph.png" width="100pt" style="display: block; margin: auto;" />
 :::
 
 * When you see an Aleph with no vowels, it is acting as a silent letter
@@ -1036,7 +1212,7 @@ Congratulations on getting this far! We realize that there are a lot of heavy co
 
 Some of you may try to read this lesson then do the Anki work (perhaps repeated a few times), and you still aren't getting it.  The Fog isn't clearing.  If this is the case, and you want a more in-depth lecture covering this material, we recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){target="_blank"}
 
-For this lesson, we are introducing two new activities that correspond with the official launch of `Vocabulary` and `Study Verses` you will see in `Anki`.
+For this lesson, we introduce two new activities that correspond with the official launch of `Vocabulary` and `Study Verses` you will see in `Anki`.
 
 ### Introduction to Video Warm-ups {-}
 
@@ -1058,35 +1234,39 @@ Then after watching these, go ahead and jump into `Anki`.
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/h0Ni1_Zya2U){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/h0Ni1_Zya2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class ="responsive-iframe" src="https://www.youtube.com/embed/h0Ni1_Zya2U" frameborder="0"></iframe>
+</div>
 
 ## Verses Warm-up {-}
 
-* Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The greatest journey begins with a single step.  You are now about to take that step!
+* Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The most extraordinary journey begins with a single step.  You are now about to take that step!
      
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA){target="_blank"}
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/9IkIvWPArlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class ="responsive-iframe"  src="https://www.youtube.com/embed/9IkIvWPArlA" frameborder="0"></iframe>
+</div>
 
 
   
 ## Ruth Pursuit {-}        
 
-:::
-YOUR QUEST
+::: {.box .map}
+YOUR QUEST  
 
-1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. Also, <span class="he">שַׁדַּי</span> is another name for God.  It means "Almighty".  Find two examples of this name. (Blue)
+1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. Also, <span class="he">שַׁדַּי</span> is another name for God.  It means "Almighty."  Find two examples of this name. (Blue)
 2. In verse 16, highlight, <span class="he">"עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי"</span> in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is <span class="he">אֱלֹהִים</span>. In the last two words of what you just highlighted, you can still see the core portion of <span class="he">אֱלֹהִים</span> present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
-3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word. (Yellow) Which one is a silent Sheva, and which one is the vocal Sheva?
+3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word. (Yellow). Which one is a silent Sheva, and which one is the vocal Sheva?
 4. Find the Quiescent Aleph in verse 1 (pink)
-5. Find the Hebrew words for Elimelech, Machlon, Chilion, and Judah in verses 1-7. Chilion has the prefix "וְ" which means "and". (gray)
-6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
+5. Find the Hebrew words for Elimelech, Machlon, Chilion, and Judah in verses 1-7. Chilion has the prefix "וְ" which means "and." (gray)
+6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #3](./images/03_Ruth Pursuit KEY.pdf){target="_blank"}
-* Be sure to update your `Ruth Pursuit Translation` worksheet from Lesson 1 with this lesson's words.  We encourage you to use "HaShem" or "Adonai" for the Tetragrammaton.
+* Be sure to update your `Ruth Pursuit Translation` worksheet with this lesson's words.  We encourage you to use "HaShem" or "Adonai" for the Tetragrammaton.
 
 
 ## Quest Quiz {-}
@@ -1106,10 +1286,10 @@ YOUR QUEST
 
 
 
-> In order to comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.
+> To comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.
 
 
-Nouns consist of a person, place, thing, or idea and can be singular or plural.  Hebrew also introduces the concept of "gender".  In this lesson we will review aspects of the Hebrew noun with specific attention focused on the rules of pluralization.
+Nouns consist of a person, place, thing, or idea and can be singular or plural.  Hebrew also introduces the concept of "gender."  This lesson will review aspects of the Hebrew noun with specific attention focused on pluralization rules.
 
 ::: {.infobox .map}
 **LESSON ITINERARY**
@@ -1132,16 +1312,8 @@ Before continuing, can you describe the following concepts?
 * The rules for Silent Sheva and Vocal Sheva
 :::
 
-Additionally, starting with this lesson we will invoke the shorthand we've been learning in Anki (e.g. MP = Masculine Plural, FS = Feminine singular).
+Additionally, starting with this lesson, we will invoke the shorthand we've been learning in Anki (e.g., MP = Masculine Plural, FS = Feminine singular).
 
-
-**Parsing vs Inflecting:** Many Hebrew grammar books expect students to know how to pluralize nouns in writing. This is called inflecting.  Inflecting is when we take a base word and do something with it, such as change its gender or number.  When those books get to verbs, they spend a lot of effort focused on taking a base verb and inflecting it into all the different forms (person, gender, number, active, passive, reflexive, and so forth).  _Parsing_ is somewhat of the opposite concept where you take an inflected word and break it down into its base form.
-
-Reading the Hebrew Bible does not require you to inflect a noun or a verb; however, reading the Bible **does** require you to parse a word. 
-
-This is so that you are able identify the lexical form and understand what the word means means (or if you don't know what it means, how to look it up in a dictionary).
-
-Our objective with Hebrew GRAMMAR Quest is only that you know how to parse words. Beginning with this lesson you will see an `Anki` chapter called `Workbook`, which will have some activities like parsing. The ability to inflect **IS** a great skill to have to master the language.  If you wish to dig deeper and get into inflecting, we encourage you to check out <u>Basics of Biblical Hebrew</u> or another suitable textbook or workbook.
 
 
 ## First Thought {-}
@@ -1167,38 +1339,44 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-39)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-38)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
-
-
-
-
 
 ## Gender and Number {#gender_number}
 
-All Hebrew nouns have Gender and Number. 
-
+* All Hebrew nouns have Gender and Number
 * Gender
-    * The "gender" sometimes does, but usually does not, have anything to do with biologic gender.  
-    * <span class="he">סֵ֫פֶר</span> is masculine (M), while <span class="he">תּוֹרָה</span>  is feminine (F). There is nothing inherently masculine about books nor feminine about laws or instructions
+    * The "gender" sometimes does, but usually does not, have anything to do with biological gender.  
+    * <span class="he">סֵ֫פֶר</span> is masculine (M), while <span class="he">תּוֹרָה</span>  is feminine (F). There is nothing inherently masculine about books, nor is there anything feminine about laws or instructions
     * The gender of a noun never changes
-    
 * Number
     * A noun is either singular (S), plural (P), or less frequently, dual (D)
-        * Dual is exactly two of something
+        * Dual is precisely two of something
         * Apart from the words "pair" or "both", English doesn't have too many dual forms
         * In Hebrew, typically paired body parts are in the dual form
     * The number of a noun CAN change
     * A word's ending indicates the number
-    
-Verbs, will introduce "person".  Collectively, when you see "PGN" in grammar, this refers to "person, gender, number"; e.g. "3MS" means "3rd person, masculine, singualr".
+* Person
+    * In Unit 3 (Verbs), we will introduce the concept of "person"  
+        * Collectively, when you see "PGN" in grammar, this refers to "person, gender, and number"; e.g., "3MS" means "3rd person, masculine, singular".
+
+
+## Parsing vs. Inflecting
+
+* When we take a base word and do something with it, such as change its gender or number, we call that _inflecting_ the word
+* _Parsing_ is somewhat of the opposite concept where we take an inflected word and break it down into its base form to determine its meaning
+* Reading the Hebrew Bible does not require us to inflect a noun or a verb, but it **does** require us to parse
+* When we parse a word, we identify the lexical form, and the inflected person, gender, and number to understand what the word is communicating to us
+    * Or, if we don't know what it means, we have at least identified the lexical form so we can look it up in a dictionary
+* Beginning with this lesson, you will see an `Anki` chapter called `Workbook`, which will have some activities like parsing
 
 ## Singular Noun Endings {#sing_noun_endings}
 
-* Singular
-    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) <span class="he">ה ֶ֫</span>
-    * The following words are examples of FS endings:
-        * <span class="he">תּוֹרָה</span> (Most common)
+* Masculine singular (MS)
+    * Usually "endingless" 
+    * Occasionally a MS noun may end in (accented) <span class="he">ה ֶ֫</span>
+* Feminine Singular FS:
+        * <span class="he">תּוֹרָה</span> (the Qamets+Hei ending is most typical)
         * <span class="he">בַּת</span> 
         * <span class="he">תִּפְאֶ֫רֶת</span>  (glory)
         * <span class="he">בְּרִית</span> (covenant)
@@ -1214,7 +1392,7 @@ Some students fall into a habit of thinking every word-final ה is feminine.  Re
 For regular nouns, simply remove the singular ending if there is one, and add the plural ending.
 
 * Plural endings:
-    * MP: <span class="he">ים ִ</span> e.g. **<span class="he">סוּסִים</span>** 
+    * MP: <span class="he">ים ִ</span> e.g., **<span class="he">סוּסִים</span>** 
         * <span class="he">דָּבָר</span> becomes **<span class="he">דְּבָרִים</span>**
             * A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
             * As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
@@ -1222,35 +1400,37 @@ For regular nouns, simply remove the singular ending if there is one, and add th
             *  A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
         * <span class="he">כּוֹכָב</span> becomes **<span class="he">כּוֹכָבִים</span>**
             *  An irreducible long vowel will not reduce - <span class="he">כּוֹכָבִים</span> 
-    * FP: <span class="he">וֹת</span> e.g. **<span class="he">מְלָכוֹת</span>** (queens)
+    * FP: <span class="he">וֹת</span> e.g., **<span class="he">מְלָכוֹת</span>** (queens)
         * <span class="he">תּוֹרָה</span> becomes **<span class="he">תּוֹרוֹת</span>** 
 
 Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. 
 
 ## Dual Noun Endings
 
-* MD: <span class="he">יִם ַ</span> e.g. <span class="he">סוּסַ֫יִם</span> (two horses)
-* FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws).
+* MD: <span class="he">יִם ַ</span> e.g., <span class="he">סוּסַ֫יִם</span> (two horses)
+* FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws)
 
-Occasionally, we will see defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>
+Occasionally, we will see the defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>
 
 
 ## Special dual forms {#dual_forms}
 
-Hebrew has three common words that have the dual ending but are usually translated as singular.
-
-* <span class="he">שַׁמַ֫יִם</span> heaven, sky (sometimes "heavens")
-* <span class="he">מִצְרַ֫יִם</span> Egypt
-* <span class="he">מַ֫יִם</span> water (sometimes "waters")
-* <span class="he">פָּנִים</span> face
+* Hebrew has four common words that have the unique dual ending 
+* These words are usually translated as singular
+    * <span class="he">שַׁמַ֫יִם</span> heaven, sky (sometimes "heavens")
+    * <span class="he">מִצְרַ֫יִם</span> Egypt
+    * <span class="he">מַ֫יִם</span> water (sometimes "waters")
+    * <span class="he">פָּנִים</span> face
 
 
 ## Irregular Pluralization  {#irregular_pluralization}
 
-* Hebrew does have a handful of irregular nouns.  
-* For example you won't find <span class="he">נִשִׁים</span> in a dictionary. 
+* Like any language, Hebrew has a handful of irregular nouns 
+* For example, you won't find <span class="he">נִשִׁים</span> in a dictionary. 
 * You need to know the singular form, <span class="he">אִשָּׁה</span>
-* Rather than a detailed discussion on what is going on with the plural forms (and honestly, scholars don't really know why a word like <span class="he">אָבוֹת</span> looks like a feminine word), it's easier to memorize these eight most common pairs:
+
+::: {.box .light} 
+Memorize these eight most common pairs:
 
 | S   | Def      | P     | Def.      |
 |:-----|:----------|:-------|:-----------|
@@ -1262,6 +1442,7 @@ Hebrew has three common words that have the dual ending but are usually translat
 |<span class="he"> בַּת</span>  | daughter | <span class="he">בָּנוֹת </span> | daughters |
 |<span class="he"> בֵּן</span>  | son      | <span class="he">בָּנִים </span> | sons      |
 |<span class="he"> יוֹם</span> | day      | <span class="he">יָמִים </span> | day       |
+:::
 
 * The plural forms retain the gender of their singular noun
 * <span class="he">אָבוֹת</span> is still masculine,  and <span class="he">נָשִׁים</span> is still feminine, despite the plural endings.
@@ -1275,9 +1456,9 @@ The next two categories of irregular words are more straightforward:
 
 ### Segholate Nouns follow a standard vowel pattern when pluralizing {-}
 
-* Did you notice that the words, <span class="he">דֶּ֫רֶךְ</span>  and <span class="he">סֵ֫פֶר</span> have the accent is on the first syllable?
-* Many two syllable words accented on the penult are classified as _Segholate_ nouns.  
-* They get this name because frequently, though not always, there are two Seghol vowels. <span class="he">נַ֫עַר</span>  (boy, youth) is a segholate noun even though it doesn't have any Seghol vowels.
+* Did you notice that the words <span class="he">דֶּ֫רֶךְ</span>  and <span class="he">סֵ֫פֶר</span> have the accent is on the first syllable?
+* Many two-syllable words accented on the penult are classified as _Segholate_ nouns.  
+* They get this name because frequently, though not always, there are two Seghol vowels. <span class="he">נַ֫עַר</span>  (boy, youth) is a Segholate noun even though it doesn't have any Seghol vowels.
 
 ::: {.box .info}
 If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending, the word is likely a Segholate noun.
@@ -1287,7 +1468,7 @@ If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets und
 * <span class="he">סֵ֫פֶר</span> to <span class="he">סְפָרִים</span>
 * <span class="he">נַ֫עַר</span> to <span class="he">נְעָרִים</span>
 
-### Geminate words take a Daghesh Forte {-}
+### Geminate Words take a Daghesh Forte {-}
 
 _Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal"), but at one point the second consonant appeared twice.  Example <span class="he">עַם</span> (people) was once *<span class="he">עמם</span>.
 The lexical form drops the extra consonant.
@@ -1300,55 +1481,58 @@ The reason we don't have a Daghesh Forte in עַם is that **the last consonant 
 
 ## Rule of Sheva {#rules_sheva}
 
-Sometimes, according to other rules of grammar, we end up with a scenario where we have two reduced vowels, such as two vocal sheva, back to back.  However, an overarching facet of Hebrew is that two reduced vowels in a row cannot stand.  
+* Hebrew does not allow two reduced vowels in a row to remain (or "stand")
+    * If you see two Sheva in a row in the text, the first one must be Silent
+    * We remember the reduced vowels are _Vocal_ Sheva, Hateph Patach, Hateph Seghol, and Hateph Qamets Hatuf
+* Sometimes, according to grammar rules, we end up with a scenario where we would have two reduced vowels such as two Vocal Sheva, back to back
+* The "Rule of Sheva" defines what happens to resolve: when two reduced vowels occur in a row, the first becomes short
+* It is important to recognize when a word has vowels modified because of the Rule of Sheva
+    * If we see the combination Hireq+Sheva, the word was _likely_ two consecutive Vocal Sheva before the Rule of Sheva was applied
+    * If we see a short vowel under a guttural followed by Sheva (or vice-versa) the short vowel was originally the Hateph vowel in the same class as the short vowel
 
 ::: {.box .light}
-The Rule of Sheva changes the first of two reduced vowels into the corresponding short vowel.
-The first of two contiguous Vocal Sheva will usually change to a Hireq.  
+RULE OF SHEVA
+
+| Type | After Rule of Sheva | Before*<small>^[<small>When you see an asterisk in the context of a word form, it means this form is impossible.  The form is being shown for illustrative purposes only.</small>]</small>
+| :-: | :-: | :-:
+| Strong | <span class="he">קִטְ</span><small>^[<small>Hebrew Grammars have what are called "paradigm words" to represent any combination of consonants meeting the patter. קטל is a paradigm for any three strong (non-guttural) letters, עמד represents any guttural in the first position, and בחר represents any guttural in the second position.  The examples use these paradigm words.</small>]</small> | <span class="he">קְטְ</span>*
+| Yod | <span class="he">קִי</span> | <span class="he">קְיְ</span>*
+| Patach/Sheva | <span class="he">עַמְ</span> | <span class="he">עֲמְ</span>*
+| Seghol/Sheva | <span class="he">עֶמְ</span> | <span class="he">עֱמְ</span>*
+| Sheva/Patach | <span class="he">בַּחֲ</span> | <span class="he">בְּחֲ</span>*
+| Sheva/Seghol | <span class="he">בֶּחֱ</span> | <span class="he">בְּחֱ</span>*
+
 :::
 
-* Note the unique situation when the second consonant is a Yod:
+* Note the unique situation above when the second consonant is a Yod; this occurs frequently
+* When a prefix is added to <span class="he">אלֹהִים</span> and the Tetragramaton, the vowel changes are irregular:
+    * With <span class="he">אלֹהִים</span> the aleph becomes quiescent after a prefix:
+        * <span class="he">אלֹהִים + לְ = לֵאלֹהִים</span>
+    * With the Tetragramaton, the prefixed letter with take a Patach, with nothing under the Yod:
+        *  <span class="he">בַיהוָה</span>
 
-<img src="images/04.vocal_vocal_hireq.png" width="600pt" style="display: block; margin: auto;" />
+::: {.box .info}
+You may be wondering why you need to know this
 
-These next two could be called "Hateph copy-cat" rules.  Notice how the vowel under the first consonant in all six examples takes on the short-vowel equivalent of the hateph vowel:
-
-* A hateph vowel under a "G"uttural that is followed by a Vocal Sheva will change to the short vowel in the same class (e.g. hateph patach to patach)
-<img src="images/04.hateph_vocal_shift.png" width="600pt" style="display: block; margin: auto;" />
-* A Vocal Sheva that is followed by a hateph vowel will change to the short-vowel in the same class as the hateph vowel.  
-<img src="images/04.vocal_hateph_shift.png" width="600pt" style="display: block; margin: auto;" />
-When a prefix is added to <span class="he">אלֹהִים</span>. and the Tetragramaton the vowel changes are irregular:
-
-* With <span class="he">אלֹהִים</span> the aleph becomes quiescent after a prefix:
-    * <span class="he">אלֹהִים + לְ = לֵאלֹהִים</span>
-* With the Tetragramaton, the prefixed letter with take a Patach, with nothing under the Yod:
-    *  <span class="he">בַיהוָה</span>
-
-
-To flip around the Rule of Sheva, suppose as you are reading, you encounter a syllable that begins with a _short_ vowel followed by a reduced vowel.  In that case, you may be looking at a grammatical scenario where there were originally been two reduced vowels.
-
-You may be wondering why you need to know this.  Understanding that a syllable may have "originally" had a reduced vowel is an important clue when it comes to translating and parsing.  If you're 'foggy' now, hang in there.  It will make sense in a bit!
-
+Understanding that a syllable may have "originally" had a reduced vowel is an important clue when it comes to translating and parsing.  If you're 'foggy' now, hang in there.  It will make sense in a bit!
+:::
 
 ## Lexical Form {#lexical_form}
 
+::: {.box .map}
 The Lexical Form is the dictionary version of the word.
+:::
 
-English examples:
-* "Oxen" may not be its own entry, but you would find it under "Ox"
-* You may not find "went", but you would find "go"
-
-Hebrew dictionaries (called "Lexicons" in academia) work the same way.
-
-For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how to go from a plural noun to the singular, Lexical form (assuming you didn't already know the singular Lexical Form):
-
-1. Drop the plural or dual ending
-2. Perhaps add a singular ending
-3. For Geiminate nouns, drop the Dagesh Forte when it lacks a vowel
-4. Often change vowels if no singular ending - reduced vowels often become regular vowels but vowel letters do not change
-
-
-
+* English examples:
+    * "Oxen" may not be its own entry, but you would find it under "ox"
+    * You may not find "went," but you would find "go"
+* Hebrew dictionaries (called "Lexicons" in academia) work the same way
+    * For nouns, the Lexical Form is the SINGULAR version of the noun
+* Below is how to go from a plural noun to the singular, Lexical form (assuming you didn't already know the singular Lexical Form):
+    1. Drop the plural or dual ending
+    2. Perhaps add a Feminine Singular ending (usually ה ָ ), or less frequently, ה ֶ for Masculine Singular
+    3. For Geiminate nouns, drop the Dagesh Forte when it lacks a vowel
+    4. Often change vowels if no singular ending - reduced vowels often become regular vowels but vowel letters do not change
 
 ## Word Warm-up {-}
 
@@ -1393,15 +1577,16 @@ For nouns, the Lexical Form is the SINGULAR version of the noun.  Below is how t
 ::: {.box .map}
 YOUR QUEST
 
-1. find one regular singular segholate noun in V1.  In this verse there is also a segholate noun with a propositional prefix that we haven't studied yet; this world also takes on vowel changes but we'll cover that in a few lessons. (yellow)
-2. find all words regular masculine plural in the chapter (pink). Some words are prefixed with the definite article, which we will cover in the next lesson.  Also find all regular Feminine plural nouns in the chapter (pink).  One of the words in verses 2-6 has a MP ending but is actually an irregular FP.  Highlight this word in (green).
+1. Find one regular singular segholate noun in V1.  In this verse there is also a segholate noun with a propositional prefix that we haven't studied yet; this world also takes on vowel changes but we'll cover that in a few lessons (yellow)
+2. Find all words regular masculine plural in the chapter (pink). Some words are prefixed with the definite article, which we will cover in the next lesson.  Also find all regular Feminine plural nouns in the chapter (pink).  One of the words in verses 2-6 has a MP ending but is actually an irregular FP.  Highlight this word in (green).
     * Be sure to research any words you don't know. HLI has a [lexicon available here.](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
 3. <span class="he">כַלֹּתֶיהָ
 </span> is a word meaning her daughters-in-law (in verse 22, this word is in the singular).  It comes from a verb meaning "finish" or "end" (we'll let you ponder that!). Find all four examples of these feminine nouns, including one with the "and" prefix (grey)
 4. Find the vocabulary word <span class="he">עִיר</span>. In Ruth 1, it appears as <span class="he">הָעִיר</span>. In the next lesson, we will learn about the prefix ה
 (blue)
+:::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #4](./images/04_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## Quest Quiz {-}
@@ -1422,22 +1607,22 @@ YOUR QUEST
 
 # Definite Article and Conjunction Vav {.Article}
 
-> In order to comprehend Biblical Hebrew, we must be able to identify the definite article and the conjunction Vav whenever we see them in a word.
+> To comprehend Biblical Hebrew, we must be able to identify the definite article and the conjunction Vav whenever we see them in a word.
 
-As we say often, our focus with Hebrew GRAMMAR Quest is not on writing Biblical Hebrew, but in _comprehending_ Biblical Hebrew.  In this lesson, the sections that deal with meaning are more important than those that deal with the specific spelling<small>^[<small>In contrast, _Basics of Biblical Hebrew_ places significant emphasizes on learning the spelling rules. This is not wrong; it is just not our approach.</small>]</small> 
+As we say often, our focus with Hebrew GRAMMAR Quest is not to write or speak Biblical Hebrew but to _read and comprehend_ Biblical Hebrew.  In this lesson, the sections that deal with meaning are more important than those that deal with the specific spelling<small>^[<small>In contrast, _Basics of Biblical Hebrew_ places significant emphasizes on learning the spelling rules. This is not wrong; it is just not our approach.</small>]</small> 
 
-It is unlikely you will ever need to write the article or the conjunction with the correct vowel. We discuss these spelling details, as well as have some Anki work in these areas, because it is important to know how to recognize them in the Bible when you encounter them.
+It is unlikely you will ever need to write the article or the conjunction with the correct vowel. We discuss these spelling details because it is important to know how to recognize them in the Bible when you encounter them.
 
 
 ::: {.infobox .map}
 **LESSON ITINERARY**
 
-1. Translate the Vav conjunction
-2. Identify the Vav conjunction
-3. Understand why the Daghesh Forte is important (even when it's not there)
-4. Translate The article 
-5. Identify the article
-6. Understand the concepts of definiteness vs indefiniteness in Hebrew
+1. Translate the Vav Conjunction
+2. Identify the Vav Conjunction
+3. Understand why the Dagesh Forte is your friend
+4. Translate the Article 
+5. Identify the Article
+6. Understand the concepts of definiteness and indefiniteness in Hebrew
 7. Discuss what makes a noun definite
 :::
 
@@ -1447,7 +1632,7 @@ It is unlikely you will ever need to write the article or the conjunction with t
 Before continuing, can you describe the following concepts?
 
 * Identifying the lexical form of a noun
-* The "rule of Sheva", including what happens in different combinations of two contiguous reduced vowels
+* The "rule of Sheva," including what happens in different combinations of two contiguous reduced vowels
 * How vowels can shift when the number of syllables changes
 * The masculine and feminine plural endings
 
@@ -1476,23 +1661,32 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 <div class="figure" style="text-align: center">
 <img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-43)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-39)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 ## Translate the Vav Conjunction {#vav_translate}
 
-The Vav conjunction serves _many_ different purposes in Hebrew.  Some of these can be translated into English, but others are more like "stage directions" in a play.
+* The Vav conjunction serves _many_ different purposes in Hebrew
+    * Some of these can be translated into English
+    * Other times there is no direct English translation; these uses are more like "stage directions" in a play
+* When translating the Vav, we must make sure our translation fits the context
+    * Most often, it merely means "and"
+    * Other options include: then, and then, but, also, even, together with, that is  
+    * Occasionally, the best option is to leave it untranslated
+        * English does not like to start sentences with "and" or have multiple "and" clauses in a sentence; we call these "run-on sentences"
+        * Hebrew LOVES to start sentences with "and" and is just fine with run-on sentences
+        *  For example, suppose you read and translate the story of David and Goliath in 1 Samuel 17
+        * You would discover that nearly every sentence would begin with "and"
+            * In English, we would consider these "run-on" sentences.  
+            * What is exciting about the Hebrew, and this passage in particular, is that the reader can feel the sense of tension and action building in the narrative by the use of the Vav
+            * Review [this segment from _Hebrew Quest_](https://youtu.be/oZ1VbPCpMvw?t=729){target="_blank} for additional discussion
+* As you advance in Hebrew, you will enjoy seeing how the Bible authors employ the Vav at the beginning of a sentence or clause to evoke different meanings
+    * For example, when added to a verb, it usually serves to continue or advance the narrative
+        * It can also have a special use of changing the verb's aspect.  We'll address that in Chapter 17.
+    * When added to a non-verb it is often those stage directions we mentioned: a contrast, a scene shift, or a parenthetical comment
 
-When translating (or not) the Vav, it is very important to make sure it fits the context.  Admittedly, this is a challenge for us as we are just learning Hebrew Grammar, but it is important to keep this in mind. Most often, it simply means "and".  Other options include: then, and then, but, also, even, together with, that is.
-
-As you advance in Hebrew, you will enjoy seeing how the authors employ the Vav at the beginning of a sentence or clause to evoke different meanings.
-
-* For example, when added to a verb, it often indicates a advancing the narrative.  It also has a special use on a verb (depending on the vowel) of changing the verb's aspect.  We'll address that in Chapter 17.
-* When added to a non-verb it is often those stage directions we mentioned: a contrast, a scene shift, or a parenthetical comment. 
-
-Many times, it makes the most sense in English to leave the Vav untranslated.  For example, suppose you read and translate the story of David and Goliath in 1 Samuel 17.  You would discover that nearly every sentence would begin with "and".  In English, we would consider these "run-on" sentences.  What is exciting about the Hebrew, and this passage in particular, is that the reader can feel the sense of tension and action building in the narrative by the use of the Vav.
 
 ::: {.box .info}
 * As you are starting out in Hebrew, start your translation of the Vav Conjunction with "And", but be flexible.
@@ -1500,87 +1694,56 @@ Many times, it makes the most sense in English to leave the Vav untranslated.  F
 * Many times for smooth English, we will leave the Vav untranslated.
 :::
 
+
+
 ## Identify the Vav Conjunction {#vav_identify}
 
 <img src="images/05.vav_conjunction.png" width="50pt" style="display: block; margin: auto;" />
 
 * The Vav conjunction is usually <span class="he">וְ</span> prefixed to a word
 * You will see <span class="he">וּ</span> before  <span class="he">במפ</span> - remember "BuMP"- this is the ONLY time a vowel will ever begin a syllable
-    * The <span class="he">ב</span> and <span class="he">פ</span> will lose their Daghesh Lene 
-        * It's <span class="he">בֵּן</span>, (between), but it's <span class="he">וּבֵן</span> (and between)
+    * The <span class="he">ב</span> and <span class="he">פ</span> will lose their Dagesh Lene 
+    * It's <span class="he">בֵּן</span>, (between), but it's <span class="he">וּבֵן</span> (and between)
     * The conjunction will also be <span class="he">וּ</span> before a consonant that has a Sheva
 * You may see <span class="he">וָ</span> before some accented syllables (remember the Vowel-Syllable preferences)
-* The Rule of Sheva that we studied in Lesson 4 applies when <span class="he">וְ</span> is prefixed to a word beginning with a reduced vowel (Vocal Sheva or Hateph vowel)
-
-How to tell the difference between the conjunction and words that start with <span class="he">ו</span>?
-
-99.99% of the time **any Vav or Shureq as the first letter of a word is the conjunction Vav.**
-
-* Only 10 words start with Vav, and only two occur more than once
-    * <span class="he">וָו</span> means "hook" and  <span class="he">וָוִים</span> means "hooks - occurs 13 times in Exodus 26-38 in reference to the Tabernacle
-    * <span class="he">וַשְׁתִּי</span> - Queen Vashti - occurs only in the book of Esther
-
-## Loss of Daghesh Forte {#loss_daghesh_forte}
-
-We've been referencing the Daghesh Forte in almost every Lesson of this course.  Now we're about to meet it face to face as we discuss the Hebrew Article. 
-
-We like to think of the Daghesh Forte as your friend.  When you see it, it is Hebrew's way of saying "pay attention; something is different."
-
-As we've discussed, sometimes the Daghesh Forte gets rejected from time to time (everybody say "awwww.")  We've discussed two of those already:
-
-1. It is ALWAYS rejected by the Gutturals and Resh (2.7)
-2. It is ALWAYS rejected when it would go inside the last consonant of a word when it has no vowel (4.5)
-
-Now we add a third.  This one is very technical, so please don't worry if you don't understand this at first.
-
-3. There is a group of consonants that SOMETIMES rejects the Daghesh Forte, but *only* when those consonants have a Sheva
-    * They are called the _SQiN eM LeVY_ letters
-        * S - שׂשׁסצ the sibilants (letters that make an S sound)
-        * Q - ק
-        * N - נ
-        * M - מ
-        * L - ל
-        * V - ו
-        * Y - י
-        
-
-If you're expecting a Daghesh Forte and there isn't one, look to see if the next letter has a SQiN eM LeVY letter with a Sheva.  
-
-See [this handout](./images/05_sqin_em_levy.pdf){target="_blank"} for additional discussion on SQiN eM LeVY consonants.
-
-
-## Translate the Article {#article_translate}
-
-In English, we have two "Indefinite Articles" = "a" or "an", and one "Definite" article = "the".  Hebrew just has one article for definiteness (so we just call it the "Article").
-
-The Article has many translations: "the", "this", "o" (as in "O king"), "his", "her", "my".
-
-<span class="he">הַיּוֹם</span> is literally "the day", however a better translation is "today", or sometimes "this day".
-
-It can make an adjective superlative: <span class="he">הַתּוֹב</span> is literally "the good", but can mean "the best".
-
-
-## Identify the Article {#article_identify}
-
-<img src="images/05.def_art.png" width="100pt" style="display: block; margin: auto;" />
-
-The usual form is Hei with a patach and a Daghesh Forte in the next letter.  Hebrew will have a lot of these repetitive sequences.  To keep things as concise as possible, we will just say "Hei+Patach+Daghesh Forte", of course moving from right to left.
-
-As we've been saying, some unusual things can happen when the letter following the <span class="he">ה</span> rejects the Daghesh Forte:
-
-* <span class="he">ּ הַ</span> becomes simply <span class="he">הַ</span> (no Daghesh Forte):
-    * Before SQiN eM LeVY with a Sheva
-    * Before a ח or another <span class="he">ה</span> (see הֶ note below)- this is called "Virtual doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
-* Becomes <span class="he">הָ</span> (no daghesh forte and patach lengthens to Qamets):
-    * Before <span class="he">א ע ר or הָ֫ </span>- 
-        * This is called "Compensatory Lengthening", and is quite common with these gutturals.  (see note below)
-* Becomes <span class="he">הֶ</span> (no Daghesh Forte and a Seghol instead of a Patach):
-    * Before accented or unaccented <span class="he">חָ</span>, or unaccented <span class="he">הָ</span> or <span class="he">עָ</span>
+* Since Vav takes a Vocal Sheva, the Rule of Sheva applies when <span class="he">וְ</span> is prefixed to a word beginning with a reduced vowel (Vocal Sheva or Hateph vowel)
+    * As we learned in Lesson 4, the Vav will take the corresponding short vowel
 
 ::: {.box .info}
-* The goal is not to memorize the alternate forms as much as recognize that they exist.
-* Hei+Patach+Daghesh Forte is the form you need to memorize
+How to tell the difference between the conjunction and words that start with <span class="he">ו</span>?
+
+* ** A Vav or Shureq as the first letter of a word is ALMOST ALWAYS the conjunction Vav.**
+* Only 10 words start with Vav, and only two occur more than once
+    * <span class="he">וָו</span> means "hook," and  <span class="he">וָוִים</span> means "hooks - occurs 13 times in Exodus 26-38, talking about the hooks for the Tabernacle
+    * <span class="he">וַשְׁתִּי</span> - Queen Vashti - occurs only in the book of Esther
 :::
+
+## Loss of Dagesh Forte {#loss_Dagesh_forte}
+
+* We've been referencing the Dagesh Forte in almost every Lesson of this course, and now we're about to meet it face to face as we discuss the Hebrew Article
+* We like to think of the Dagesh Forte as your friend
+* When you see it, it is Hebrew's way of saying "pay attention; something is different"
+* As we've discussed, sometimes the Dagesh Forte gets rejected from time to time (everybody say "awwww.") 
+* We've discussed two of those already, and in this lesson, we'll add a third
+* A SQiN eM LeVY consontant with a Sheva SOMETIMES rejects the Dagesh Forte
+    * When this happens, there is NEVER compensatory lengthening
+* See table below:
+
+| Scenario | Reject Dagesh | Compensatory Lengthening
+| :-: | :-: | :-: 
+| Gutturals/Resh | ALWAYS | Sometimes
+| Word-final Dagesh without a Vowel (Lesson 4) | ALWAYS | Sometimes
+| **SQiN eM Levy WITH SHEVA** | SOMETIMES | NEVER
+
+
+::: {.box .info}
+SQiN eM LeVY Rule
+
+* Please don't worry if you don't understand this at first
+* When you start to see the SQiN eM LeVY rule in action, it will get easier
+* See [this handout](./images/05_sqin_em_levy.pdf){target="_blank"} for additional discussion on SQiN eM LeVY consonants
+:::
+
 
 
 ## Compensatory Lengthening
@@ -1589,12 +1752,43 @@ As we've been saying, some unusual things can happen when the letter following t
     * Patach will lengthen to Qamets
     * Hireq will lengthen to Tsere
     * Qibbuts will lengthen to Holem
-* Compensatory Lengthening can occur in ANY letter that precedes a Daghesh Forte-rejecting Guttural or Resh...but it does not _always_ occur
+* Compensatory Lengthening can occur in ANY letter that precedes a Dagesh Forte-rejecting Guttural or Resh...but it does not _always_ occur
 * Compensatory Lengthening can also occur in a Quiescent Aleph that rejects a Sheva.
 
 ::: {.infobox .info}
-* When SQiN eM LeVY consonants reject the Daghesh, there is NEVER compensatory lengthening.
+* When SQiN eM LeVY consonants reject the Dagesh, there is NEVER compensatory lengthening.
 * Sometimes there is no change to the preceding vowel - this is called "virtual doubling" as discussed above.
+:::
+
+
+
+## Translate the Article {#article_translate}
+
+* In English, we have two "Indefinite articles" = "a" or "an", and one "Definite article" = "the"
+* Hebrew just has one article for definiteness (so we just call it the "Article")
+* The Hebrew article has many translations: "the", "this", "o" (as in "O king"), "his", "her", "my".
+* <span class="he">הַיּוֹם</span> is literally "the day"; however, a better translation is "today", or sometimes "this day"
+* The Hebrew article can make an adjective superlative: <span class="he">הַתּוֹב</span> is literally "the good", but can mean "the best".
+
+
+## Identify the Article {#article_identify}
+
+<img src="images/05.def_art.png" width="100pt" style="display: block; margin: auto;" />
+
+* The usual form is Hei with a Patach and a Dagesh Forte in the next letter ("Hei+Patach+Dagesh"<small>^[<small>By definition, the Dagesh is a Forte as it comes after a vowel that is not a Sheva.</small>)</small>
+* As we've been saying, some unusual things can happen when the letter following the <span class="he">ה</span> rejects the Dagesh Forte:
+    * <span class="he">ּ הַ</span> becomes simply <span class="he">הַ</span> (no Dagesh Forte):
+        * Before SQiN eM LeVY with a Sheva
+        * Before a ח or another <span class="he">ה</span> (see הֶ note below)- this is called "Virtual Doubling"<small>^[<small>Or, as Dr. Van Pelt likes to say "virtually NO DOUBLING, because nothing changes."</small>]</small>
+    * Becomes <span class="he">הָ</span> (no Dagesh Forte and the Patach lengthens to Qamets):
+        * Before <span class="he">א ע ר or הָ֫ </span>
+        * This is called "Compensatory Lengthening", and is quite common with these gutturals.
+* Becomes <span class="he">הֶ</span> (no Dagesh Forte and a Seghol instead of a Patach):
+    * Before accented or unaccented <span class="he">חָ</span>, or unaccented <span class="he">הָ</span> or <span class="he">עָ</span>
+
+::: {.box .info}
+* The goal is not to memorize the alternate forms as much as recognize that they exist
+* "Hei+Patach+Dagesh" is the form you need to memorize
 :::
 
 
@@ -1606,25 +1800,24 @@ A word without the Article is indefinite.
 
 Occasionally you will see "one" - <span class="he">אַחַת אֶהַר</span> to indicate indefiniteness
 
-## Hebrew Definiteness {#definiteness}
+## Other Hebrew Definiteness {#definiteness}
 
-The Article is not the only way Hebrew indicates definiteness
-
-An individual's name and most proper nouns are definite by definition.  <span class="he">דָּוִד</span> is definite.  You will never see: <span class="he">*הַדָּוִד</span> . On the other hand names of people groups and some geographic features often take the article. <span class="he">הַיַּרְדֵּן</span>= the Jordan River.
-
-A word with a pronominal suffix is definite, since the suffix indicates possession, and possession is definite. See Lesson 9.
-
-A word in its construct state is definite when the last word in the construct chain is definite. See Lesson 10.
+* The Article is not the only way Hebrew indicates definiteness
+* An individual's name and most proper nouns are definite by definition.
+    * <span class="he">דָּוִד</span> is definite (we will never see: <span class="he">*הַדָּוִד</span>)
+    * On the other hand names of people groups and some geographic features often take the article. <span class="he">הַיַּרְדֵּן</span>= the Jordan River.
+* A word with a pronominal suffix is definite, since the suffix indicates possession, and possession is definite<small>^[Pronominal suffixes are the subject of Lesson 9</small>]</small>.
+* A word in its construct state is definite when the last word in the construct chain is definite<small>^[Lesson 10</small>]</small>.
 
 ## Lesson Conclusion and Activities {-}
 
-You made it through another lesson!  Way to go!  Even though we only studied two concepts - the word for "and" and the word for "the", you can see how even with these concepts there is a lot more going on.  We were introduced to several technical aspects in this lesson, such as "SQiN eM LeVY" and "Compensatory Lengthening".
+You made it through another lesson!  Way to go!  Even though we only studied two concepts - the word for "and" and the word for "the", these concepts may not be as straightforward as we might have thought. 
 
-You may be noticing how each new lesson builds upon the previous ones. If something isn't fully making sense, or if you find yourself asking "why in the world do I need to know this?", just be patient and it should start to come together in a lesson or two.  Now might also be a good time to look back and see how far you have come in just five lessons.
+You may be noticing how each new lesson builds upon the previous ones. If something isn't entirely making sense, or if you find yourself asking, "why in the world do I need to know this?" just be patient, and it should start to come together in a lesson or two.  Now might also be a good time to look back and see how far you have come in just five lessons.
 
 As far as activities, we have the warm-up videos, Anki, the Ruth Pursuit and the Quest Quiz. When you finish all of that, we have our second `Twelve Tribes Badge` you can claim.
 
-Take your time and let the simple, but not so simple, concepts in this chapter sink in.  You're about half-way through "non-verbs" portion of the course.  Lessons 6-10 will be continuing to build out sentences with prepositions, adjectives and pronouns.  Then we'll take a little bit of a break with numbers in Lesson 11, before we move on to verbs.
+Take your time and let the simple, but not so simple, concepts in this chapter sink in.  You're about half-way through "non-verbs" portion of the course.  Lessons 6-10 will be continuing to build out sentences with prepositions, adjectives, and pronouns.  Then we'll take a little bit of a break with numbers in Lesson 11 before we move on to verbs.
 
 Keep with it; you're doing great!
 
@@ -1662,11 +1855,11 @@ YOUR QUEST
 1. Find five examples of the conjunction vav: וְ (note the Vocal Sheva) (Yellow)
 2. find five examples of the standard definite article ּ  הַ (Green)
 3. Find the first three examples of "Compensatory Lengthening" of the definite article.  There is one example of "Virtual Doubling" of the definite article in verses 10-15.  Can you find it?(Light Blue)
-4. הִנֵה is a very common Biblical expression that meaans, "look!" or "behold". Find the one example of הִנֵה in Ruth 1 (Pink)
+4. הִנֵה is a widespread Biblical expression that means, "look!" or "behold." Find the one example of הִנֵה in Ruth 1. (Pink)
 5. Find all examples of <span class="he">אִישׁ</span> (man), and <span class="he">אִשָּׁה</span>, wife/woman. (grey) 
-    * In verses 1 and 2, note that <span class="he">אִשְׁתּוֹ</span> has a pronominal suffix, so the word means "his wife".  Words that normally end with a ה tend to lose the ה when suffixes are added. We'll study more about pronominal suffixes in Lessons 9 and 19.
+    * In verses 1 and 2, note that <span class="he">אִשְׁתּוֹ</span> has a pronominal suffix, so the word means "his wife."  Words that normally end with a ה tend to lose the ה when suffixes are added. We'll study more about pronominal suffixes in Lessons 9 and 19.
     * In verses 12 and 13, note that <span class="he">לְאִישׁ
-</span> has a prepositional prefix mean "to" or "for".  We will learn about prepositions in the next lesson.
+</span> has a prepositional prefix mean "to" or "for."  We will learn about prepositions in the next lesson.
 6. Find the vocabulary word <span class="he">כֹּה</span>. It appears once with the Vav conjunction and once without. (red)
 
 :::
@@ -1674,6 +1867,7 @@ YOUR QUEST
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #05](./images/05_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* Update your `Ruth Pursuit Translation` worksheet.
 
 
 ## Quest Quiz {-}
@@ -1686,7 +1880,7 @@ YOUR QUEST
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
+Check to be sure you have completed **all activities** through this lesson, then fill out the form below.
 
 [Check to be sure you have completed all ACTIVities here](https://forms.gle/vgjsvL4QNMXzkcAE6){target="_blank"}, complete the certification below, and your badge will be on its way!
 
@@ -1700,14 +1894,14 @@ Check to be sure you have have completed **all activities** through this lesson,
 
 # Hebrew Prepositions
 
-> In order to comprehend Biblical Hebrew, we must be able to identify prepositions as we read the Text.
+> To comprehend Biblical Hebrew, we must be able to identify prepositions as we read the Text.
 
-Prepositions give us space and context.  Given that much of the Tanach is narrative, prepositions are on almost every page that we read as the authors describe the events to us.  There is one Hebrew word, <span class="he">מִן</span>, that is classified as a preposition but depending on the context can convey a wide array of meanings. 
+Prepositions give us space and context.  Prepositions are on almost every page as the authors seek to communicate this context to us.  Furthermore, there is one Hebrew word, <span class="he">מִן</span>, that is classified as a preposition, but, depending on the context, can convey a wide array of meanings. 
 
 ::: {.infobox .map}
 **LESSON ITINERARY**
 
-1. Recognize that a Nun with Silent Sheva becomes a Daghesh Forte
+1. Recognize that a Nun with Silent Sheva becomes a Dagesh Forte
 2. Describe Independent and Maqqef prepositions
 3. Define Inseparable prepositions
 4. Identify when a word with an inseparable preposition also has the definite article
@@ -1722,7 +1916,7 @@ Prepositions give us space and context.  Given that much of the Tanach is narrat
 
 Before continuing, can you describe the following concepts?
 
-* The construction of the definite article, including what happens when the Daghesh Forte is rejected
+* The construction of the definite article, including what happens when the Dagesh Forte is rejected
 * The construction of the Vav conjunction
 * How Hebrew handles indefinite words
 :::
@@ -1745,125 +1939,138 @@ Meditate and celebrate that the Lord is in the midst of our troubles.
     </audio>
 </figure>
 
-The בּ in <span class="he">בְּיוֹם</span> is an example of an "inseparable preposition" that means "in".  We will study various types of prepositions in this lesson.
+The בּ in <span class="he">בְּיוֹם</span> is an example of an "inseparable preposition" that means "in."  We will study various types of prepositions in this lesson.
 
 *****
 
 <div class="figure" style="text-align: center">
 <img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-46)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-42)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
+## Nun with Silent Sheva Becomes Dagesh Forte
 
-## Nun with Silent Sheva Becomes Daghesh Forte
-
-You may be wondering what this has to do with prepositions, but stick with us.  It will make sense by the end of the lesson!
-
-Nun is considered a "weak letter" and it has a tendency to drop out of a word under certain scenarios. When the nun appears with a SILENT sheva <span class="he">נְ</span> (or no vowel at all) is one of those times.  You remember how we said that the Daghesh Forte is your friend, because it tells you that something has changed?  
-
-* When then nun drops, whenever possible it will be replaced with a Daghesh Forte.  
-* The technical term for this is called "assimilation".   
-* To get back to the original/lexical form we would substitute the Daghesh Forte for the nun+sheva
 
 <img src="images/06.nun-assimilation.gif" width="600pt" style="display: block; margin: auto;" />
 
-This is why we spend time talking about when the Daghesh Forte might get rejected.  Do you remember the three times we have studied where the Daghesh Forte may be rejected?  
+* Nun is considered a "weak letter" 
+* One aspect of weak letters is that they disappear from a word under specific scenarios
+* One such scenario is when the nun appears with a SILENT Sheva <span class="he">נְ</span> (or no vowel at all)
+* When then nun drops, whenever possible, it will be replaced with a Dagesh Forte
+* The technical term for this is called "assimilation"
+    * So grammarians say, "the נ has assimilated into a Dagesh Forte"
+* To get back to the original/lexical form, we would substitute the Dagesh Forte for the Nun+Sheva
 
-* Gutturals and Resh (may be compensatory lengthening)
-* At the end of a word (may be compensatory lengthening)
-* With a SQiN eM LeVY with a Sheva: <span class="he">מִנְקְצֵה* > מִקְּצֵה* > מִקְצֵה</span> (will never be compensatory lengthening)
+::: {.box .light}
+ASSIMILATED NUN
+
+A Dagesh Forte frequently indicates an assimilated נ
+:::
+
+* When the Dagesh Forte is rejected, we have lost our big clue that a letter like נ has gone missing
+    * Occasionally, but not always, we will have Compensatory Lengthening to help us out
+* Recall the three scenarios where the Dagesh Forte may be rejected:
+
+| Scenario | Reject Dagesh | Compensatory Lengthening
+| :-: | :-: | :-: 
+| Gutturals/Resh | ALWAYS | Sometimes
+| Word-final Dagesh without a Vowel (Lesson 4) | ALWAYS | Sometimes
+| SQiN eM Levy WITH SHEVA | SOMETIMES | NEVER
+
 
 ## Independent and Maqqef prepositions 
 
-Prepositions explains the relationship between its object and something else.  In Hebrew, there are three different types of Hebrew prepositions: independent, Maqqef, and inseparable. 
-
-An _independent preposition_ is a separate word with a space before it and after it.
-
-The preposition comes first, followed by its object (just like English). E.g.,  <span class="he">תַּחַת אֹתוֹ</span> (under it)
-
-_Maqqef_ is a mark like the English hyphen.  They are nearly identical in meaning and appearance except the Hebrew maqqef is raised ־ whereas the English is middle -.  Like the hyphen used to join two English words, the maqqef lets us know that two Hebrew words are closely connected grammatically.
-
-In a _Maqqef preposition_, the maqqef connects a preposition to its object. Again, the preposition comes first.  <span class="he">עַל־מֶלֶךְ</span>.  English prepositions are NOT written this way.  You would never see "on-a-king."
-
+* In Hebrew, there are three different types of Hebrew prepositions: independent, Maqqef, and inseparable. 
+* An _independent preposition_ is a separate word with a space before it and after it
+    * The preposition comes first, followed by its object (just like English). E.g.,  <span class="he">תַּחַת אֹתוֹ</span> (under it)
+* _Maqqef_ is a mark like the English hyphen
+    * The two marks are nearly identical in meaning and appearance except the Hebrew Maqqef is raised ־ whereas the English is middle -  
+    * Like the hyphen used to join two English words, the Maqqef lets us know that two Hebrew words are closely connected grammatically
+* In a _Maqqef preposition_, the Maqqef connects a preposition to its object
+* Again, the preposition comes first:  <span class="he">עַל־מֶלֶךְ</span>
+    * English prepositions are NOT written this way; we would never see "on-a-king."
+* One notable aspect about the Maqqef is that the first word (to the left of the Maqqef) loses its accent
+    * As a result, the vowel that loses its accent may change
+    
 ::: {.box .info}
-* You may see the same preposition written both with and without the Maqqef.  
-* The meaning does not change.  <span class="he">עַל מֶלֶךְ</span> means the same as <span class="he">עַל־מֶלֶךְ</span>
-* One notable aspect about the maqqef is that the word loses its accent.  As a result, the vowel that loses its accent may change.
+The same preposition may be written both with and without the Maqqef
+
+* The meaning does not change
+* <span class="he">עַל מֶלֶךְ</span> means the same as <span class="he">עַל־מֶלֶךְ</span>
 :::
 
 ## Inseparable prepositions
 
-Like <span class="he">וְ</span> for the word "and", an inseparable preposition is a one-letter prefix that is affixed to its object. 
-
-Three Hebrew prepositions are **ALWAYS** written this way, usually with a Vocal Sheva under the prepositional letter:
-
-<img src="images/05.inseparable.png" width="300pt" style="display: block; margin: auto;" />
+* Like <span class="he">וְ</span> for the word "and," an inseparable preposition is a one-letter prefix affixed to its object
+* Three Hebrew prepositions are **ALWAYS** written this way, usually with a Vocal Sheva under the prepositional letter:
+    * <span class="he">בְּ</span> - in, at, with, by, against
+        * <span class="he">בְּמֶ֫לֶךְ</span>
+        * With a king
+    * <span class="he">כְּ</span> - as, like, according to
+        * <span class="he">כְּמֶ֫לֶךְ</span>
+        * Like a king
+    * <span class="he">לּ</span> - to, toward, for
+        * <span class="he">לְמֶ֫לֶךְ</span>
+        * To/towards a king
 
 ::: {.box .info}
-A mnemonic to remember these three inseparable prepositions is "buckle"
+A mnemonic to remember these three inseparable prepositions is "BucKLe"
+
+The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning"
 :::
 
-The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning".
-
-In the lexical form of these prepositions, there is a vocal sheva vowel under the "buckle" consonant.  If there is a Sheva or Hateph vowel in the next letter, the Rules of Sheva come into play.  Review Lesson 4 if you need to.
-
-* Before another Vocal Sheva, the preposition usually takes a Hireq
-* Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
-* Note the names of God again receive special treatment: <span class="he">לֵאלֹהִים</span> and <span class="he">לַיהוָה</span>
+* In the lexical form of these prepositions, there is a Vocal Sheva vowel under the "buckle" consonant
+* If there is a Sheva or Hateph vowel in the next letter, the Rule of Sheva come into play (see Lesson 4)
+    * Before another Vocal Sheva, the preposition usually takes a Hireq
+    * Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
+    * Note the names of God again receive special treatment: <span class="he">לֵאלֹהִים</span> and <span class="he">לַיהוָה</span>
 
 ## The Article and Inseparable Prepositions
 
-Words with both an inseparable preposition AND the article undergo a type of contraction.  
 
 ::: {.box .light}
-The one-letter preposition replaces the <span class="he">ה</span> of the article. The vowel under the preposition and the daghesh forte (if it is there) are your clues that the word is definite.
-:::
+ARTICLE WITH INSEPARABLE PREPOSITION
 
-For example, note how we would spell "in the field":
+The one-letter preposition replaces the <span class="he">ה</span> of the article. The vowel under the preposition and the Dagesh Forte (if it is there) are your clues that the word is definite.
 
 <img src="images/06.preposition_article.png" width="800pt" style="display: block; margin: auto;" />
-
-For words that keep the pathach and daghesh forte of the article, it is straightforward to determine the article.  The challenge comes when the next letter rejects the Daghesh Forte.
-
-::: {.box .info}
-Here's how to tell whether there is the article with a preposition:
-
-* NO ARTICLE if there is a Sheva under the preposition - the article never takes a Sheva
-* NO ARTICLE if the short vowel under the preposition can be explained by the Rules of Sheva: 
-    * <span class="he">אֲנָשִׁים + לְ = לַאֲנָשִׁים</span> - for men, (not 'for the men')
-* ARTICLE if vowel under the preposition is not Sheva and can NOT be explain by the Rule of Sheva: 
-    * <span class="he">לַהֵיכָל</span> = for THE temple
 :::
 
-Some situations will be ambiguous.  The context will guide us.
+* We have learned previously that some letters reject the Dagesh Forte, which robs us of a clue
+* Below is how we can tell whether there is the article with a preposition in the absence of a Dagesh
+    * NO ARTICLE if there is a Sheva under the preposition - the article never takes a Sheva
+    * NO ARTICLE if the short vowel under the preposition can be explained by the Rules of Sheva: 
+        * <span class="he">אֲנָשִׁים + לְ = לַאֲנָשִׁים</span> - for men, (not 'for the men')
+    * ARTICLE if vowel under the preposition is not Sheva and can NOT be explained by the Rule of Sheva: 
+        * <span class="he">לַהֵיכָל</span> = for THE temple
 
 ## The flexible <span class="he">מִן</span>: construction
 
-There is one preposition that is unique: <span class="he">מִן</span>
-
-It can be a maqqef preposition, as in: <span class="he">מִן־זָהָב</span>, or it can be an inseparable preposition: <span class="he">מִזָּהָב.</span> Both mean "from gold." 
-
-Now you know the reason we began this lesson with a discussion on "nun with a silent sheva." When <span class="he">מִן</span> is an inseparable preposition, the nun assimilates into the following consonant, usually becoming a Daghesh Forte.  This is so frequent that it is just as easy to think of the standard <span class="he">מִנ</span> inseparable preposition form as *Mem+Hireq+Daghesh Forte*:
+* There is one preposition that is unique: <span class="he">מִן</span>
+    * It can be a Maqqef preposition, as in: <span class="he">מִן־זָהָב</span>
+    * It can also be an inseparable preposition: <span class="he">מִזָּהָב.</span>
+    * Both examples above literally mean "from gold." 
+* Note the spelling of the inseparable preposition:
 
 <img src="images/06.preposition_min.jpg" width="100pt" style="display: block; margin: auto;" />
+* When we see `Mem+Hireq+Dagesh`, we know it is <span class="he">מִן</span> written as an inseparable preposition
+* As we know well by know, the Gutturals and Resh reject the Dagesh Forte:
+    * <span class="he">א צ ה ר</span> have compensatory lengthening so the Hireq becomes Tsere.
+    * <span class="he">ח</span> has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the <span class="he">מ</span> remains a Hireq
+* SQiN eM LeVY with a Sheva may reject the Dagesh - as we know, there will never be any Compensatory Lengthening
+    * So when we see מִקְ, מִיְ or Mem+Hireq followed by any other SQiN eM LeVY letter and there is no Dagesh Forte, we need to say to ourselves, "I don't see a Dagesh Forte, but wait.  That's a `SQiN eM LeVY` letter, so this may still be מִן."
 
+## The Article and מִן
 
-As we know well by know, the Gutturals and Resh reject the Daghesh Forte:
+Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is always RETAINED with <span class="he">מִן</span>
 
-* <span class="he">א צ ה ר</span> have compensatory lengthening so the Hireq becomes Tsere.
-* <span class="he">ח</span> has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the <span class="he">מ</span> remains a Hireq
+* <span class="he">מֶהָאָ֫רֶץ</span> = from the land.
 
-One last, very important, point to make about this preposition:
-
-::: {.box .light}
-Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is RETAINED with <span class="he">מִן</span>: <span class="he">מֶהָאָ֫רֶץ</span> = from the land.
-:::
 
 ## The flexible <span class="he">מִן</span>: meanings 
 
-<span class="he">מִן</span> occurs 7,592 times in the Bible, so it is important to study its uses.
-
+* <span class="he">מִן</span> occurs 7,592 times in the Bible, so it is important to study its multiple uses
 * The most direct meaning is "from" - <span class="he">מֵהָאָ֫רֶץ</span> from the land
 * <span class="he">מִן</span> can also have comparative (think "bigger") and superlative (think "biggest") meanings depending on the context
     * <span class="he">טוֹבָה חָכְמָה מִזָּהָב</span> = wisdom is better *than* gold 
@@ -1871,20 +2078,26 @@ Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</s
     * <span class="he">עָרוּם מִכֹּל חַיַּת הַשָֹּדֶה ּ</span>  = the *most* clever living thing *of all* the field
 * There is also a use called "partive" that denotes a portion or part of something else:
     * <span class="he">מֵהָאֲנָשִׁים</span> may mean "*some* *of* the men" (lit. from the men)
-
-Other uses: 'because', 'by', 'without', 'even', 'namely'.
+* Other uses: 'because', 'by', 'without', 'even', 'namely'.
 
 
 ::: {.box .info}
 * This is a word that takes practice to appreciate the various nuanced meanings
-* As you are starting out in Hebrew, when you see <span class="he">מִן</span>, start your translation with "from...", but don't be surprised if "from" does not make sense (such as "good the wisdom from the gold")
+* As you are starting out in Hebrew, when you see <span class="he">מִן</span>, start your translation with "from...", but don't be surprised if "from" does not make sense
+* For example, if our translation is something like, "good the wisdom from the gold," we know that doesn't make sense
+    * We need to remember the comparative or supurlative uses
+    * "_Better_ is wisdom _than_ gold"
 :::
 
 ## The Definite Direct Object marker 
 
-Hebrew has an untranslated word that is often used to mark a direct object that is definite.  It is often abbreviated DDO (Definite Direct Object) marker.
-
-The DDO is spelled <span class="he">תֵא</span> (independent) or <span class="he">תֶא־</span> with a maqqef. the challenge can be that this is the same spelling as the preposition "with".  As both the DDO and preposition can take pronominal suffixes, we will save a discussion of differentiating between the two words for Lesson 9 (see Lesson 9.9 if you can't wait!).
+* Hebrew has an untranslated word that is often used to mark a direct object that is definite
+* It is often abbreviated DDO (Definite Direct Object) marker
+* Spelling:
+    * <span class="he">תֵא</span> (independent) 
+    * <span class="he">תֶא־</span> (Maqqef)
+* The challenge can be that this is the same spelling as the preposition "with." 
+* As both the DDO and preposition can take pronominal suffixes, we will save a discussion of differentiating between the two words for Lesson 9 
 
 ::: {.box .info}
 We see the DDO twice in the first verse of the Bible:
@@ -2018,7 +2231,7 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-51)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-46)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -2269,7 +2482,7 @@ The first word in above passage is an example of a "demonstrative pronoun". The 
 
 <div class="figure" style="text-align: center">
 <img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-53)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-48)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Independent Personal Pronoun
@@ -2518,7 +2731,7 @@ In addition to offering up our petitions, let us be sure to listen for God's que
 
 <div class="figure" style="text-align: center">
 <img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-56)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-51)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -2817,7 +3030,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-62)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-57)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -3091,7 +3304,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-64)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-59)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -3356,7 +3569,7 @@ Here is what we want you to do in these Study Passages activities:
 
 <div class="figure" style="text-align: center">
 <img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-67)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
+<p class="caption">(\#fig:unnamed-chunk-62)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
 </div>
 
 
@@ -3422,7 +3635,7 @@ It is these times where we must depend on God, and it is times like these where 
 
 <div class="figure" style="text-align: center">
 <img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-68)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-63)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -3817,7 +4030,7 @@ Everyday, and frequently throughout each day, we have two choices.  We can keep 
 
 <div class="figure" style="text-align: center">
 <img src="images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg" alt="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-71)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-66)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4213,7 +4426,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-76)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-71)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4366,7 +4579,7 @@ Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "re
 
 <div class="figure" style="text-align: center">
 <img src="images/14_gem_table.png" alt="Qal Perfect: Geminate/Strong Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-78)Qal Perfect: Geminate/Strong Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-73)Qal Perfect: Geminate/Strong Paradigms</p>
 </div>
 
 ::: {.box .map}
@@ -4394,7 +4607,7 @@ Review the table below, noting $V_1$ and accent changes:
 
 <div class="figure" style="text-align: center">
 <img src="images/14_bicons_table.png" alt="Qal Perfect: Biconsonantal/Strong Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-79)Qal Perfect: Biconsonantal/Strong Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-74)Qal Perfect: Biconsonantal/Strong Paradigms</p>
 </div>
 
 ## <span class="he">םוּת</span> is Biconsonantal and Stative
@@ -4406,7 +4619,7 @@ Review the table below, noting $V_1$ and accent changes:
 * Compare <span class="he">םוּת</span> and <span class="he">קוּם</span> in the table below:
 <div class="figure" style="text-align: center">
 <img src="images/14_moot_table.png" alt="Qal Perfect: &lt;U+05DE&gt;&lt;U+05D5&gt;&lt;U+05BC&gt;&lt;U+05EA&gt;/&lt;U+05E7&gt;&lt;U+05D5&gt;&lt;U+05BC&gt;&lt;U+05DD&gt; Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-80)Qal Perfect: <U+05DE><U+05D5><U+05BC><U+05EA>/<U+05E7><U+05D5><U+05BC><U+05DD> Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-75)Qal Perfect: <U+05DE><U+05D5><U+05BC><U+05EA>/<U+05E7><U+05D5><U+05BC><U+05DD> Paradigms</p>
 </div>
 
 ## Qal Perfect Quest Clues
@@ -4575,7 +4788,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-81)Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-76)Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4841,7 +5054,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-86)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-81)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5271,7 +5484,7 @@ Like the dawning of a new day, after you complete this lesson, a majority the ve
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-82)Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5513,7 +5726,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-83)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5817,7 +6030,7 @@ Meditate on that as you work through this lesson and, especially, as you study t
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-84)Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6107,7 +6320,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-86)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6369,7 +6582,7 @@ This is a great picture of what the LORD means when He says He will "keep" us!
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-87)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6578,7 +6791,7 @@ It's become a cliche for teachers to ask, "which of the four soils are you?"  In
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-88)Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6806,7 +7019,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7170,7 +7383,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7560,7 +7773,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7796,7 +8009,7 @@ __LESSON ITINERARY__
 
 <div class="figure" style="text-align: center">
 <img src="images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8172,7 +8385,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-103)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8438,7 +8651,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-101)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8716,7 +8929,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, a good 
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-104)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8845,7 +9058,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9195,7 +9408,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-107)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9348,7 +9561,7 @@ The Hebrew Quest Study Passage for this lesson is the story of David and Goliath
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9634,7 +9847,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9771,7 +9984,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-116)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10031,7 +10244,7 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10222,30 +10435,33 @@ You have studied 20 distinct passages, most of which were full chapters of the H
 
 # Anki info and FAQ {#anki_faq}
 
-<!-- Grammarly check: 10/24/2020 - 179 lines -->
 
 > Strength and Endurance Builds Muscle
 
 
 <div class="figure" style="text-align: center">
 <img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)Strength and Endurance</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Strength and Endurance</p>
 </div>
 
 
-If one wants to build strength, she might use the weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
+If one wants to build strength, she might use a weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
 
 
 > Anki is Gym Equipment for your Brain 
 
 <div class="figure" style="text-align: center">
 <img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)Anki Home Screen</p>
+<p class="caption">(\#fig:unnamed-chunk-116)Anki Home Screen</p>
 </div>
 
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
 
 Thus, it is not just a flashcard program but is a tremendous strength and endurance tool for learning, and it is where we will be spending the bulk of your time in the course.  It has become the “go-to” for many medical school students to learn all the intricate facts they have to know.
+
+::: {.box .info}
+It is beyond our scope to give you a complete tutorial on Anki.  There are plenty of blogs and videos posted by the Anki community, which you can find from a simple websearch: `Anki tuturial`.
+:::
 
 ## Installation {- #installation_anki}
 
@@ -10293,7 +10509,7 @@ Follow the steps outlined on the Quick Start page.
 Your settings should look like this:
 <div class="figure" style="text-align: center">
 <img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-117)Settings</p>
 </div>
 
 [Return to Quick Start page](#get_started)
@@ -10320,7 +10536,7 @@ Here are the steps:
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-123)Anki web and mobile views</p>
+<p class="caption">(\#fig:unnamed-chunk-118)Anki web and mobile views</p>
 </div>
 
 ## How do I navigate within Anki? {-}
@@ -10328,14 +10544,14 @@ Here are the steps:
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
 <div class="figure" style="text-align: center">
 <img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-124)Anki - subdecks collapsed</p>
+<p class="caption">(\#fig:unnamed-chunk-119)Anki - subdecks collapsed</p>
 </div>
     * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
 * Many cards have "hints" - click on the `hint` button to reveal
     * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
     <div class="figure" style="text-align: center">
     <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-125)Revealing a hint in Anki</p>
+    <p class="caption">(\#fig:unnamed-chunk-120)Revealing a hint in Anki</p>
     </div>
 * For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
@@ -10346,7 +10562,7 @@ We suggest using the following guidelines to select the most appropriate answer.
 
 <div class="figure" style="text-align: center">
 <img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-126)Anki Response Definitions</p>
+<p class="caption">(\#fig:unnamed-chunk-121)Anki Response Definitions</p>
 </div>
 
 * There is no “value judgment” to hitting `Again` – you will learn on your timeline
@@ -10391,7 +10607,7 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 
 <div class="figure" style="text-align: center">
 <img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-127)Keep your daily Anki streak going!</p>
+<p class="caption">(\#fig:unnamed-chunk-122)Keep your daily Anki streak going!</p>
 </div>
 
 ## How do I know when I'm done with a deck? {-}
@@ -10405,7 +10621,7 @@ So while this could be an indefinite process, we do have some guidelines as they
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-128)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-123)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 See the next two pages for more information on how to locate your statistics.
@@ -10425,7 +10641,7 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 
 <div class="figure" style="text-align: center">
 <img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-129)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-124)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 
 
@@ -10444,13 +10660,13 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
     * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
 <div class="figure" style="text-align: center">
 <img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-130)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-125)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
     * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
     
 <div class="figure" style="text-align: center">
 <img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-131)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
+<p class="caption">(\#fig:unnamed-chunk-126)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
 </div>
 <!-- Please see [`Graduation` process page]() for additional information -->
 
@@ -10476,7 +10692,7 @@ There are a few different terms Anki uses for different stages of card maturity:
     * To add an image simply copy and paste into the image field
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-132)Adding a custom image in Anki</p>
+<p class="caption">(\#fig:unnamed-chunk-127)Adding a custom image in Anki</p>
 </div>
 
 ## Can I modify the layout of a card? {-}
@@ -10511,7 +10727,7 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
 
 <div class="figure" style="text-align: center">
 <img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-133)With `Custom Study` you can temporarily increase your daily new cards</p>
+<p class="caption">(\#fig:unnamed-chunk-128)With `Custom Study` you can temporarily increase your daily new cards</p>
 </div>
 
 
@@ -10686,21 +10902,10 @@ The men and women who followed Yeshua became a safe and loving community. Same w
 
 All honor and glory to Yeshua, our Lord.  שֵׁם יְהוָה אֶקְרָא
 
-Unless, otherwise noted, English Scripture quotations taken from the NASB. Copyright by The Lockman Foundation. Used by permission.
 
-Pictures of Israel to begin each lesson are courtesy of the [Pictorial Library of Bible Lands](www.bibleplaces.com){target="_blank"}. Used by permission.
-
-Biblical Hebrew text is courtesy of tanach.us (version 26.0).
-
-Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the format of **Hebrew Grammar Quest**.  We encourage any of our students who wish to go further with Hebrew grammar to purchase the textbook or any related materials.
+Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the format of **Hebrew GRAMMAR Quest**.  We encourage any of our students who wish to go further with Hebrew grammar to purchase the textbook or any related materials.
 
 Additionally, our thanks to Dr. John Beckman for making his extensive library of materials to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
-
-As applicable:
-
-* Vocabulary portions of this book are derivatives of [00_vocabulary.pdf](https://hebrewsyntax.org/bbh2new/00_vocabulary.pdf) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-* Grammar portions of this book are derivatives of [00_study_guide.pdf](https://hebrewsyntax.org/bbh2new/00_study_guide.pdf) as well as the "overhead" files for each chapter (for example [Chapter 1-The Hebrew Alephabet](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf), and so on for each successive chapter) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-* Study verses portions of this Anki deck are derivatives of [00_workbook_answers.pdf](https://hebrewsyntax.org/bbh2new/00_workbook_answers.pdf) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/) tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have been able to achieve those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free, while maintaining a professional look.
 
@@ -10720,24 +10925,11 @@ Finally, we thank YOU for your interest in this course!
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-136)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-131)Chris Flanagan</p>
 </div>
 
 
 <!--chapter:end:65-abouttheauthor.Rmd-->
-
-# License {-}
-
-
-© 2020 Holy Language Institute. All rights reserved.
-
-![Creative Commons](images/by-nc-sa.png)
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
-
-This license is for personal use only.  This publication may not be downloaded, redistributed, re-uploaded, published, or used for any other purposes without explicit permission from the copyright holder.
-
-If you received this book and you are not a member of Holy Language Institute, [become a member](https://holylanguage.com/subscribe.html) today!  Subscribing will give you access to the full Hebrew GRAMMAR Quest course, as well as our complete library of teaching materials.
 
 
 <!--chapter:end:70-License.Rmd-->
@@ -10798,7 +10990,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-137)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-132)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 

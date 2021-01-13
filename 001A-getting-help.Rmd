@@ -1,0 +1,173 @@
+
+# Getting Started / Getting Help {- #intro-a}
+
+1. [How do I navigate around this book?](#navigating)
+4. [How do I get started?](#get_started)
+5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
+2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
+3. [How to ask a question if you get stuck](#get_help)
+
+## Navigating this book {- #navigating}
+
+In the upper-left corner of this page, you will see a series of icons.  
+
+```{r, out.width = "300pt", fig.align='center'}
+
+knitr::include_graphics("images/toolbar.png")
+``` 
+
+These do the following tasks:
+
+* the file drawer expands/collapses the sidebar table of contents; you can also click `s`
+* the magnifying glass toggles search input; you can also click `f`
+* the big `A` allows you to change the font size and theme
+* the little `i` shows you available keyboard shortcuts
+
+
+There are several ways to navigate from page to page within this guidebook:
+
+* Use the left-navigation sidebar (type `s` to reveal/hide)
+* Click the left or right arrow on each page to go forward or back
+* Use the left or right arrow keys on your keyboard to move forward or back
+* Use hyperlinks on selected pages, like this one: [Continue to the Introduction section](#motivation)
+
+
+Along the way, you'll see some informational boxes.  Here is what they mean:
+
+::: {.infobox .map}
+QUEST   
+
+* The Lesson Itinerary - learning objectives
+* Ruth Pursuit, Hebrew Quest Study Passages, and other "Quest" related topics
+:::
+
+::: {.infobox .stop}
+STOP  
+
+* Equipment Check - concepts from previous lessons you should know before starting the next lesson
+* Other "Dont's"
+:::
+
+::: {.infobox .light}
+LIGHT  
+
+* A critical point not to be missed
+* Other "Do's"
+* You will often want to MEMORIZE the concepts in a LIGHT box
+:::
+
+::: {.infobox .info}
+INFO  
+
+Additional information that is good to know
+:::
+
+::: {.infobox .caution}
+CAUTION  
+
+A potential pitfall, such as a concept that could be easily confused with another
+:::
+
+We also have footnotes<small>^[<small>Minor or parenthetical/non-essential points will be included as footnotes throughout each lesson.</small>]</small>
+
+
+## Quick Start Instructions {.unnumbered #get_started}
+
+These instructions will get you up and running with the course.  
+
+> **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
+
+
+1. Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}.
+1. INSTALL ANKI
+    1. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"}.
+        * Doing this allows you to synch your data to the cloud and mobile devices
+    1. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"}.
+    1. [Download the Hebrew GRAMMAR Quest (Preview Version) Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"}
+    1. Change the Anki settings [as described here](#anki_settings).
+    1. As desired, download the Anki app to your phone or tablet.  
+        1. The [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} is free
+        1. The [iOS app](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} is $25 - see discussions in the Appendix for additional discussion as to whether the cost is "worth it"
+        1. Synch
+            1. In your _desktop_ Anki, click on `synch` (enter Ankiweb credentials) - `upload to Ankiweb` if asked.
+            1. In your _mobile_ app do the same, except here click `download from Ankiweb`
+            1. Should you go back and forth between mobile and desktop, make sure you `synch` each time, and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
+1. You will need a Google account to complete many of the activities in this course
+     1. if you do not already have one, or would like to create an additional account only for this course, click [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"}
+1. Open the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} for you to keep track of your progress in this course.
+    * Download a copy of the checklist to your personal Google Drive, where you will be able to complete it online
+    * Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
+    
+## A Typical Lesson {- #typical-lesson}
+
+```{r, out.width = "400pt", fig.align='center'}
+knitr::include_graphics("images/checklist.png")
+```
+
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what will be inside a typical lesson<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
+
+
+**Title**|**Description**|**Estimated Time**
+:-----|:----- | :---
+  READING|
+Lesson Itinerary | The lesson's key learning objectives | <1
+Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
+First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
+Lesson Points | The main grammar concepts - Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
+ ACTIVITIES|
+ `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
+ `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be three stages to each Lesson. | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
+`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
+ `B. Grammar`|Here, you will work through (and at times grapple with) the main grammar concepts discussed in the Lesson.
+ `C. Workbook`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
+ `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
+`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
+`Ruth Pursuit`|Similar to the "bag the letter" in _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
+`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
+`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
+TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
+
+Of course, some lessons will be more involved than others, and each of us works at different paces. One of the beautiful things about a self-paced class is the pace is not set by a course syllabus.  The pace is set by YOU!
+
+::: {.box .light}
+DON'T BE OVERWHELMED!  YOU GOT THIS!
+
+Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this were back on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
+:::
+
+Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+
+## Report an Issue {- #report_issue}
+
+Please do not hesitate to report any errors, omissions, or improvement opportunities.  In fact, we'd rather hear about mistakes sooner rather than later! Feedback is anonymous.  
+
+::: {.box .stop}
+If you have a specific question about the content or are stuck on a concept, please use the [Get Help](#get_help) question form instead of the `Report an Issue` form.
+:::
+
+[Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf3obLnGzJQ6d7Rtyy2YXDln3g-kJWCY-4IlRLE_mnFuWv2AQ/viewform?embedded=true" frameborder="0"></iframe>
+</div>
+
+## Ask a question {- #get_help}
+
+While this is a self-paced course with no formal instructor or teaching assistant, we want to provide a way for you to get help and ask a question should you get stuck.
+
+We request that before you submit a question, you read through the lesson a couple of times, then attempt to do the Anki cards for that lesson.  Sometimes by doing this, things will "click" on their own.  If you are still unclear, we are here!
+
+Use the form below to ask a question. Please note, we are staffed by volunteers, so please allow a few days for us to research and get back to you.  
+
+::: {.box .stop}
+If you have general feedback or wish to report an issue, please use the [`Report an Issue`](#report_issue) form instead of the `Get Help` form. 
+:::
+
+[Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdWJc7ri0andmyu70D1USeDRtbsrHLaYLNrs0rvI2qBJx-yEg/viewform?embedded=true" frameborder="0"></iframe>
+</div>
+
+
+
