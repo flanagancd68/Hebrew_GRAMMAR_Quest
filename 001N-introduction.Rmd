@@ -53,12 +53,19 @@ We have talked a bit about our Holy Language Learning Philosophy.  Our belief is
 
 One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
 
-Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs and so forth.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12. Then we begin our deep dive into grammar topics touched upon in _Hebrew Quest_ Lessons 13-15.
+Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs and so forth.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 
 knitr::include_graphics("images/i.hq_hgq.png")
 ``` 
+
+* Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12
+* Then we begin our deep dive into core grammar topics touched upon in _Hebrew Quest_ Lessons 13-15
+* Additionally, starting with Hebrew GRAMMAR Quest Lesson 12, Students can elect to complete a "_Hebrew Quest_ Study Passage Track"
+    * This will incorporate the Proverbs study and the Bible reading sections from _Hebrew Quest_
+    * Students will read through the passage and compose a translation
+    * They will then watch Izzy's _Hebrew Quest_ teaching video explaining the passage
 
 ## Completion of _Hebrew Quest_ is NOT a Prerequisite! {- #finish_hq}
 

@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-01-12"
+#date: "`r Sys.Date()`"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -20,15 +20,22 @@ lof: no
 #mainfont: Ezra SIL
 ---
 
+```{r setup, include=FALSE}
+library(knitr)
+library(fontawesome)
+knitr::opts_chunk$set(echo = FALSE)
 
+```
 
 <div style="display:none">
 # Copyright {.unnumbered}
 </div>
 
-<img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+knitr::include_graphics("images/HGQ_book_cover_draft.png")
+```
 
-<small>*Updated*: 2021-01-12</small>
+<small>*Updated*: `r Sys.Date()`</small>
 
 
 © 2021 Holy Language Institute. All rights reserved.
@@ -69,7 +76,10 @@ Biblical Hebrew text is courtesy of tanach.us (version 26.0).
 
 In the upper-left corner of this page, you will see a series of icons.  
 
-<img src="images/toolbar.png" width="300pt" style="display: block; margin: auto;" />
+```{r, out.width = "300pt", fig.align='center'}
+
+knitr::include_graphics("images/toolbar.png")
+``` 
 
 These do the following tasks:
 
@@ -157,7 +167,9 @@ These instructions will get you up and running with the course.
     
 ## A Typical Lesson {- #typical-lesson}
 
-<img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+knitr::include_graphics("images/checklist.png")
+```
 
 In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what will be inside a typical lesson<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
 
@@ -289,7 +301,10 @@ One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
 
 Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs and so forth.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
 
-<img src="images/i.hq_hgq.png" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/i.hq_hgq.png")
+``` 
 
 * Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12
 * Then we begin our deep dive into core grammar topics touched upon in _Hebrew Quest_ Lessons 13-15
@@ -336,7 +351,10 @@ Let's get started on our Hebrew GRAMMAR Quest!
 
 <br>
 
-<img src="images/alephbet_multi.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/alephbet_multi.png")
+``` 
 
 This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. 
 
@@ -393,17 +411,19 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-6)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
+``` 
 
 <small>Note: acoustic tests have been performed at this location.  These have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment (and Yeshua didn't have to deal with road noise!).  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
 
 
 ## The Hebrew Aleph-Bet {#consonants}
 
-<img src="images/alephbet.png" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+include_graphics("images/alephbet.png")
+```
 
 Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Lessons 2-11](https://holylanguage.com/letters.html){target="_blank"}.  The points below and on the following pages will provide some foundations. This way, your grammar journey gets started in the right direction.
 
@@ -426,7 +446,10 @@ In addition to learning the letters, you will learn things each letter has to te
 
 Note the front of a Hebrew book is the back of an English one:
 
-<img src="images/right_to_left.png" width="300pt" style="display: block; margin: auto;" /><img src="images/hebrewbook.png" width="300pt" style="display: block; margin: auto;" />
+```{r, , fig.show="hold", out.width = "300pt", fig.align='center'}
+include_graphics("images/right_to_left.png")
+include_graphics("images/hebrewbook.png")
+```
 
 * To our western eyes, this looks "backward" (but Israelis would say _we_ are reading backward!)
 
@@ -443,7 +466,9 @@ See **Hebrew Quest** discussion on Right to Left:
 
 ## Five "KiMNePaTZ" letters have different final forms {#sofit_letters}
 
-<img src="images/kimnepatz.gif" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+knitr::include_graphics("images/kimnepatz.gif")
+```
 
 * Hebrew does not have capital letters the way English does, but a somewhat similar concept is five letters take what are called “Final” or “Sofit”<small>^[<small>_Sofit_ is just the Hebrew word for final</small>]</small> forms when they appear at the END of a word
     * Those letters are in red text above
@@ -456,7 +481,9 @@ See **Hebrew Quest** discussion on Right to Left:
 
 ## Six" BeGaD KePHaT" letters take a Daghesh Lene {#daghesh_lene}
 
-<img src="images/bdgkpt.gif" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+knitr::include_graphics("images/bdgkpt.gif")
+```
 
 * Next, we need to learn the "BeGaD Kephat" letters<small>^[<small>See also Lesson 3 of Hebrew Quest</small>]</small>
 * The red and blue dots in the above letters are called **DAGHESH LENE**
@@ -479,7 +506,9 @@ See **Hebrew Quest** discussion on Right to Left:
 
 ## We classify four consonants as **Gutturals** (and one is a sometimes-guttural) {#gutturals}
 
-<img src="images/gutturals.gif" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+knitr::include_graphics("images/gutturals.gif")
+```
 
 * We like to say that the gutturals (and sometimes Resh) will be our trouble-makers because they tend not to play nice with the other Hebrew rules 
     * The good news is the behavior of the Gutturals and Resh is entirely predictable
@@ -494,7 +523,9 @@ Learning how the Gutturals behave and what spelling changes they cause is one of
 
 ## We classify ten consonants as "SQiN eM LeVY"
 
-<img src="images/01_sqinemlevy_gif.gif" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+knitr::include_graphics("images/01_sqinemlevy_gif.gif")
+```
 
 
 
@@ -517,11 +548,15 @@ Learning how the Gutturals behave and what spelling changes they cause is one of
 * Also, in Hebrew Quest, when Izzy reviewed the Aleph-Bet in lessons 2-11, he talked about each letter’s "twin" and how to spot the difference 
 * We encourage you to revisit those [letter lessons](https://holylanguage.com/letters.html). 
 
-<img src="images/01.izzy_aleph.jpg" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+include_graphics("images/01.izzy_aleph.jpg")
+```
 
 ## Sephardic and "Seminary" Pronunciation {#pronunciation}
 
-<img src="images/vav.png" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+knitr::include_graphics("images/vav.png")
+```
 
 * There are some notable differences between what we might call academic or "seminary<small>^[<small>"Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.</small>]</small>" Hebrew and "real-world" Hebrew.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
     * Real-world Hebrew is based on Sephardic pronunciation
@@ -628,7 +663,10 @@ Even though our goal may not necessarily be to converse in Biblical Hebrew, hear
 
 
 
-<img src="images/02.Gen0109.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/02.Gen0109.png")
+```
 
 As Izzy says in Hebrew Quest, “Vowels are important.”  On your screen, you see Genesis 1:9.  The black font shows the text with no vowels. Over time, a group known as the Masorites developed the vowel notation we use today. These are the symbols in red.  These are usually under, but sometimes in the middle of or over the affected consonant. This vowel system intends to preserve the pronunciation passed down for centuries via the oral tradition. The Hebrew name for these diacritical dots and dashes is _nikudot_. The blue font shows additional cantillation marks, which synagogues use for chanting the verses.  These marks also show where the word's accent is.<small>^[<small>Image Source: Originally uploaded as en:File:Example of biblical Hebrew trope.svg on 04:27, 19 November 2006 (UTC) by en:User:SyntaxError55. </small>]</small>
 
@@ -675,10 +713,10 @@ Reflect on the works of HaShem that you have seen.
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-16)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "600pt", fig.align='center', fig.cap="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/02-Plain of Bethsaida with green grass, tb110206630.jpg")
+``` 
 
 
 
@@ -696,7 +734,10 @@ Reflect on the works of HaShem that you have seen.
 
 Another table to memorize:
 
-<img src="images/02.vowels_not_letters.png" width="300pt" style="display: block; margin: auto;" />
+```{r, out.width = "300pt", fig.align='center'}
+
+knitr::include_graphics("images/02.vowels_not_letters.png")
+```
 
 ::: {.infobox .info}
 Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
@@ -739,7 +780,10 @@ The Sof Pasuq
 
 Another table to memorize:
 
-<img src="images/02.vowels_letters.png" width="300pt" style="display: block; margin: auto;" />
+```{r, out.width = "300pt", fig.align='center'}
+
+include_graphics("images/02.vowels_letters.png")
+```
 
 * Shureq is pronounced like Qibbuts (r<u>u</u>ler)
 * Hireq Yod is pronounced like the i in mach<u>i</u>ne
@@ -785,7 +829,10 @@ In "defective" spelling, letter vowels can sometimes drop their letter and take 
 
 This is the word for "laws" showing both "plene" spelling (left) and "defective" spelling (right):
 
-<img src="images/defective.gif" width="300pt" style="display: block; margin: auto;" />
+```{r, out.width = "300pt", fig.align='center'}
+
+knitr::include_graphics("images/defective.gif")
+```
 
 * Three vowel letters commonly take "defective" forms<small>^[<small>"Defective", in this sense, does not have a negative connotation.</small>]</small>
     * Holem-vav can drop the Vav and contract to Holem, as in the example above
@@ -812,7 +859,10 @@ For now, do not be concerned about the difference.  As we progress in the course
 
 Notice the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
 
-<img src="images/02.daghesh_forte.gif" width="500pt" style="display: block; margin: auto;" />
+```{r, out.width = "500pt", fig.align='center'}
+
+knitr::include_graphics("images/02.daghesh_forte.gif")
+```
  
 * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Dagesh Lene, but it is a Dagesh **Forte**
 * The letter with the Dagesh Forte both ends one syllable and begins the next syllable
@@ -820,7 +870,10 @@ Notice the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
 * A similar word in English might be better = bet | ter
     * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*<small>^[<small>The * means this is not a real Hebrew word, but we show it in this form for illustration.</small>]</small>
 * Notice the syllable breaks in these words that have a Dagesh Forte:
-<img src="images/02.forte.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+
+include_graphics("images/02.forte.png")
+```
 * Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter, which can take either a Dagesh Lene or a Dagesh Forte
     * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word אַתָּה in the image above
     * "Any consonant" includes the Vav ו.  When a Vav has a Dagesh Forte it looks like this וּ. Does that remind you of anything?  Maybe something we just discussed on the previous page?
@@ -859,10 +912,10 @@ Quiz yourself with these examples (answers below):
 * A Hebrew collision like this means something has to give. . . and the gutturals tend to get their way.
 * It's like they have a force-field shielding them from other Hebrew grammar rules!
 
-<div class="figure" style="text-align: center">
-<img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-22)That's no moon.  That's a Guttural!</p>
-</div>
+```{r, out.width = "600pt", fig.align='center', fig.cap="That's no moon.  That's a Guttural!"}
+
+knitr::include_graphics("images/02.reject.gif")
+```
 
 * A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements
 
@@ -1007,10 +1060,10 @@ Thank God for his blessings and meditate upon them.
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg" alt="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-23)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "600pt", fig.align='center', fig.cap="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg")
+``` 
 
 ## Hebrew Syllables {#syllables}
 
@@ -1023,7 +1076,10 @@ There are two basic concepts when it comes to Hebrew Syllables:
 
 :::
 
-<img src="images/03.syllable.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+
+knitr::include_graphics("images/03.syllable.png")
+```
 
 We see the two basic concepts at play in this simple word (pronounced "da-var" and means word, matter, thing):
 
@@ -1045,7 +1101,10 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<small>Modern Hebrew has words (mostly borrowed from other languages) that don't always follow this rule</small>]</small>.
 
-<img src="images/03.accent_stress.png" width="500pt" style="display: block; margin: auto;" />
+```{r, out.width = "500pt", fig.align='center'}
+
+knitr::include_graphics("images/03.accent_stress.png")
+```
 
 * The word on the left is stressed on the last syllable
 * The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
@@ -1078,13 +1137,19 @@ Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
 
 ### A Sheva is SILENT when the previous vowel is short: {-}
 
-<img src="images/03.sheva-shortvowel.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+knitr::include_graphics("images/03.sheva-shortvowel.png")
+```
 
 ### A Sheva is SILENT when the first of two consecutive Shevas _within a word_: {-}
-<img src="images/03.sheva-firstoftwo.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+knitr::include_graphics("images/03.sheva-firstoftwo.png")
+```
 
 ### A Sheva is SILENT when at the end of a word: {-}
-<img src="images/03.sheva-endofword.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+knitr::include_graphics("images/03.sheva-endofword.png")
+```
 ::: {.map .light}
 THREE SILENT SHEVA CLUES  
 
@@ -1100,20 +1165,28 @@ Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
 
 ### A Sheva is VOCAL when the initial Sheva in a word: {-}
 
-<img src="images/03.sheva-initialvocal.png" width="300pt" style="display: block; margin: auto;" />
+```{r, out.width = "300pt", fig.align='center'}
+knitr::include_graphics("images/03.sheva-initialvocal.png")
+```
 
 ### A Sheva is VOCAL when the second of two consecutive Shevas _within a word_<small>^[<small>A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive Shevas.</small>]</small>:  {-}
 
-<img src="images/03.sheva-secondoftwovocal.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+knitr::include_graphics("images/03.sheva-secondoftwovocal.png")
+```
 
 
 ### A Sheva is VOCAL when under a Dagesh Forte: {-}
 
-<img src="images/03.sheva-fortevocal.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+knitr::include_graphics("images/03.sheva-fortevocal.png")
+```
 
 ### A Sheva is VOCAL after an unaccented long vowel: {-}
 
-<img src="images/03.sheva-unaccentedlongvocal.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+knitr::include_graphics("images/03.sheva-unaccentedlongvocal.png")
+```
 
 This one may seem random, but it is relatively common with _long_ vowels in a propretonic position<small>^[<small>These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.</small>]</small>  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
@@ -1132,7 +1205,9 @@ FOUR VOCAL SHEVA CLUES
 
 ## Hebrew Diphthong = Accented Patach-Yod-Hireq {#diphthong}
 
-<img src="images/03.diphthong.png" width="500pt" style="display: block; margin: auto;" />
+```{r, out.width = "500pt", fig.align='center'}
+knitr::include_graphics("images/03.diphthong.png")
+```
 
 * The diphthong is a single vowel unit, which means it is only one syllable
 * We do not pronounce the word on the right above as "BUY-it", but monosyllabic, more like "BITE"<small>^[<small>With this said, "buy" it makes a handy mnemonic for remembering this word means 'house', as there are a few look-alike words.</small>]</small>
@@ -1183,14 +1258,18 @@ The next three sections will examine these special situations
 ::: {.infobox .light} 
 Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable
 
-<img src="images/03.qametshatuf.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+knitr::include_graphics("images/03.qametshatuf.png")
+```
 :::
 
 * Metheg mark
   * There are many instances where the vowel could be a short Qamets-Hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable
   * When this ambiguity occurs, some printings will print a small vertical line called a Meteg בָּֽ.<small>^[<small>Unfortunately, many Tanachs DO not differentiate.</small>]</small>  The Meteg tells you the vowel is the **long, a-class**
   
-<img src="images/03.meteg.png" width="100pt" style="display: block; margin: auto;" />
+```{r, out.width = "100pt", fig.align='center'}
+knitr::include_graphics("images/03.meteg.png")
+```
 
 ::: {.box .info}
 QAMETS OR QAMETS HATUF  
@@ -1208,7 +1287,9 @@ QAMETS OR QAMETS HATUF
 ::: {.infobox .info} 
 Furtive Patach under final ח or ע is said BEFORE the guttural letter and is not a full vowel
 
-<img src="images/03.furtivepathach.png" width="100pt" style="display: block; margin: auto;" />
+```{r, out.width = "100pt", fig.align='center'}
+knitr::include_graphics("images/03.furtivepathach.png")
+```
 :::
 
 The Furtive Patach is a significant exception to just about everything else we've discussed related to vowels and syllabification:
@@ -1220,7 +1301,9 @@ The Furtive Patach is a significant exception to just about everything else we'v
 ::: {.infobox .info} 
 Quiescent Aleph is silent. It is neither a consonant nor a vowel
 
-<img src="images/03.quiescentaleph.png" width="100pt" style="display: block; margin: auto;" />
+```{r, out.width = "100pt", fig.align='center'}
+knitr::include_graphics("images/03.quiescentaleph.png")
+```
 :::
 
 * When you see an Aleph with no vowels, it is acting as a silent letter
@@ -1358,10 +1441,10 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-38)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg")
+``` 
 
 ## Gender and Number {#gender_number}
 
@@ -1680,10 +1763,10 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-39)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg")
+``` 
 
 
 
@@ -1719,7 +1802,10 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 ## Identify the Vav Conjunction {#vav_identify}
 
-<img src="images/05.vav_conjunction.png" width="50pt" style="display: block; margin: auto;" />
+```{r, out.width = "50pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/05.vav_conjunction.png")
+```
 
 * The Vav conjunction is usually <span class="he">וְ</span> prefixed to a word
 * You will see <span class="he">וּ</span> before  <span class="he">במפ</span> - remember "BuMP"- this is the ONLY time a vowel will ever begin a syllable
@@ -1794,7 +1880,10 @@ SQiN eM LeVY Rule
 
 ## Identify the Article {#article_identify}
 
-<img src="images/05.def_art.png" width="100pt" style="display: block; margin: auto;" />
+```{r, out.width = "100pt", fig.align='center'}
+library(knitr)
+include_graphics("images/05.def_art.png")
+```
 
 * The usual form is Hei with a Patach and a Dagesh Forte in the next letter ("Hei+Patach+Dagesh"<small>^[<small>By definition, the Dagesh is a Forte as it comes after a vowel that is not a Sheva.</small>)</small>
 * As we've been saying, some unusual things can happen when the letter following the <span class="he">ה</span> rejects the Dagesh Forte:
@@ -1964,16 +2053,19 @@ The בּ in <span class="he">בְּיוֹם</span> is an example of an "insepara
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-42)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "600pt", fig.align='center', fig.cap="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg")
+``` 
 
 
 ## Nun with Silent Sheva Becomes Dagesh Forte
 
 
-<img src="images/06.nun-assimilation.gif" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/06.nun-assimilation.gif")
+```
 
 * Nun is considered a "weak letter" 
 * One aspect of weak letters is that they disappear from a word under specific scenarios
@@ -2055,7 +2147,10 @@ ARTICLE WITH INSEPARABLE PREPOSITION
 
 The one-letter preposition replaces the <span class="he">ה</span> of the article. The vowel under the preposition and the Dagesh Forte (if it is there) are your clues that the word is definite.
 
-<img src="images/06.preposition_article.png" width="800pt" style="display: block; margin: auto;" />
+```{r, out.width = "800pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/06.preposition_article.png")
+```
 :::
 
 * We have learned previously that some letters reject the Dagesh Forte, which robs us of a clue
@@ -2074,7 +2169,10 @@ The one-letter preposition replaces the <span class="he">ה</span> of the articl
     * Both examples above literally mean "from gold." 
 * Note the spelling of the inseparable preposition:
 
-<img src="images/06.preposition_min.jpg" width="100pt" style="display: block; margin: auto;" />
+```{r, out.width = "100pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/06.preposition_min.jpg")
+```
 * When we see `Mem+Hireq+Dagesh`, we know it is <span class="he">מִן</span> written as an inseparable preposition
 * As we know well by know, the Gutturals and Resh reject the Dagesh Forte:
     * <span class="he">א צ ה ר</span> have compensatory lengthening so the Hireq becomes Tsere.
@@ -2250,10 +2348,10 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-46)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 
 ## Inflecting Adjectives
@@ -2262,7 +2360,10 @@ Adjective inflection is relatively straight-forward.
 
 We will use the paradigm word <span class="he">טוֹב</span> to illustrate
 
-<img src="images/07.tov-inflection.png" width="300pt" style="display: block; margin: auto;" />
+```{r, out.width = "300pt", fig.align='center'}
+library(knitr)
+include_graphics("images/07.tov-inflection.png")
+```
 
 
 1. An adjective is either masculine or feminine
@@ -2501,16 +2602,19 @@ The first word in above passage is an example of a "demonstrative pronoun". The 
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-48)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "600pt", fig.align='center', fig.cap="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg")
+``` 
 
 ## Independent Personal Pronoun
 
 Independent personal pronouns are _always_ subjects, meaning they are equivalent to I, you, she, he, it and they in English (NOT me, my, her, him, his)
 
-<img src="images/08.sub_pn_table.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/08.sub_pn_table.png")
+```
 
 You will work to memorize these in `Anki`.
 
@@ -2577,7 +2681,10 @@ In English, the near demonstratives are this and these. The far demonstratives a
 Hebrew has three words to indicate nearness.  We already learned the words to indicate distance - they are the same as the subject pronouns.
 
 
-<img src="images/08.demons_tbl.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/08.demons_tbl.png")
+```
 
 ## Demonstrative Adjective 
 
@@ -2750,10 +2857,10 @@ In addition to offering up our petitions, let us be sure to listen for God's que
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-51)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/09-Banias waterfall, tb032704275.jpg")
+``` 
 
 
 
@@ -2793,7 +2900,10 @@ While Type 1 and Type 2 suffixes have distinctives, there are also some commonal
 
 Below are the singular suffixes.  You will use `Anki` to commit these to memory.
 
-<img src="images/09.ps_sing_tbl.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/09.ps_sing_tbl.png")
+```
 
 * 1CS end with י
 * 2MS/2FS end with ך
@@ -2802,7 +2912,10 @@ Below are the singular suffixes.  You will use `Anki` to commit these to memory.
 ## Plural Suffixes
 
 Below are the plural suffixes:
-<img src="images/09.ps_plrl_tbl.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/09.ps_plrl_tbl.png")
+```
 
 * 1CP ends with נוּ
 * 2MP/2FP have כ
@@ -2824,7 +2937,10 @@ This simple rule, plus the tips on the previous pages about patterns in gender a
 When you encounter a word with a suffix, always start by asking "is there a vowel + yod, that is not hiriq + yod?"
 
 
-<img src="images/09.ps_both_tbl.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/09.ps_both_tbl.png")
+```
 
 
 ## Lexical Form with Type 1
@@ -2840,7 +2956,10 @@ Part of learning to read Biblical Hebrew is assembling a set of skills that make
 
 Here is Dr. Beckman's example of the four steps using five example words with Type 1 suffixes.  Note that words do not always need all four steps.
 
-<img src="images/09.lex_type2_tbl.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/09.lex_type2_tbl.png")
+```
 
 ## Lexical Form with Type 2
 
@@ -2854,7 +2973,10 @@ Here is Dr. Beckman's example of the four steps using five example words with Ty
 
 Here is Dr. Beckman's example of the five steps.  Note that words do not always need all five steps.
 
-<img src="images/09.lex_type1_tbl.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/09.lex_type1_tbl.png")
+```
 
 
 The changes to the base words are due to the words being in **construct** form.  We will study more about this in Lesson 10.
@@ -3049,10 +3171,10 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-57)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/10-Capernaum synagogue interior, tb102702014.jpg")
+``` 
 
 
 ## What is a Construct Chain?
@@ -3159,7 +3281,10 @@ Long vowel, not accented, not a vowel letter = absolute
 
 Nouns in construct often sometimes (but will not always) change endings.  The table below shows the Absolute ending and then the difference in the Construct form. 
 
-<img src="images/10_construct_endings.png" width="300pt" style="display: block; margin: auto;" />
+```{r, out.width = "300pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/10_construct_endings.png")
+```
 Other nouns may not change endings but will exhibit a loss of long vowels as discussed in the previous section.
 
 ::: {.box .light}
@@ -3323,10 +3448,10 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 ---
 
-<div class="figure" style="text-align: center">
-<img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-59)Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/11-Tabgha from boat, tb011500051.jpg")
+``` 
 
 
 
@@ -3355,7 +3480,10 @@ Below is Genesis 1:1.
 means "Genesis Chapter 1"
 * Next, note the diminished א indicating "1" for the first verse
 
-<img src="images/11.gen0101.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+
+knitr::include_graphics("images/11.gen0101.png")
+``` 
 
 ## Hebrew Ordinal Numbers
 
@@ -3549,7 +3677,10 @@ The purpose of the quizzes in Units 1 and 2 was to provide a checkpoint for stud
 ## Changes for Unit 3: Cantillation Marks added to Study Verses {-}
 
 Way back in Lesson 2, we also referenced additional marking called cantillation marks.  These are the marks in addition to vowels and consonants we sometimes see in Hebrew.  Here is an example from Genesis:
-<img src="images/02.Gen0109.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/02.Gen0109.png")
+```
 
 Up until now, we have been using a simple accent mark whenever a Hebrew word has an accent on the second to last syllable.  For example, <span class="he">נֶ֫גֶב</span>.  While the Lessons and other materials will continue to use these simple accents, from now on, we will graduate to using the full set of Hebrew accents in our Study Verses and Workbook exercises.  Why do this?
 
@@ -3588,10 +3719,10 @@ Here is what we want you to do in these Study Passages activities:
 ## Keep going! {-}
 
 
-<div class="figure" style="text-align: center">
-<img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-62)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013."}
+
+knitr::include_graphics("images/11b.bethabara.JPG")
+``` 
 
 
 * The photo above is of the Jordan River baptismal area in Israel near Jericho - it was taken less than a month after flooding of the area
@@ -3654,10 +3785,10 @@ It is these times where we must depend on God, and it is times like these where 
     </audio>
 </figure>
 
-<div class="figure" style="text-align: center">
-<img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-63)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/13-Acacia tree in Red Canyon, tb030101203.jpg")
+``` 
 
 
 
@@ -3666,7 +3797,10 @@ It is these times where we must depend on God, and it is times like these where 
 * A _Root_ is the set of consonants on which a verb (and often nouns) are based
 * The majority of verbs have three _root consonants_ from which the other words are derived.
 
-<img src="images/12-verb-root.gif" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/12-verb-root.gif")
+``` 
 
 ## Person, Gender, Number
 
@@ -3899,7 +4033,10 @@ WHERE WE ARE HEADING
 
 When we get to the end of the course, we're going to have built a Stem Comparison Table that looks like this:
 
-<img src="images/34_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/34_stemcomp.png")
+```
 
 * The marks in RED are the distinctive $Pre$ patterns for the strong verbs in that stem/conjugation
 * The vowels in BLUE and the "formula" in the last column are the $V_S$ patterns for that stem/conjugation
@@ -4049,10 +4186,10 @@ Everyday, and frequently throughout each day, we have two choices.  We can keep 
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg" alt="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-66)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg")
+``` 
 
 
 
@@ -4087,7 +4224,10 @@ Cause an Action	|Hiphil | Hophal
 
 ## Components of the Qal Perfect Strong Paradigm
 
-<img src="images/13.qptable.png" width="700pt" style="display: block; margin: auto;" />
+```{r, out.width = "700pt", fig.align='center'}
+
+knitr::include_graphics("images/13.qptable.png")
+``` 
 
 The next few sections go into detail of building the paradigm.  
 
@@ -4095,7 +4235,10 @@ The next few sections go into detail of building the paradigm.
 
 The table below shows the perfect sufformatives in the middle column.  The 1st and 2nd Person forms are similar to the respective pronominal suffix.
 
-<img src="images/13_perfect sufformatives.png" width="700pt" style="display: block; margin: auto;" />
+```{r, out.width = "700pt", fig.align='center'}
+
+knitr::include_graphics("images/13_perfect sufformatives.png")
+``` 
 
 Notes:
 
@@ -4190,7 +4333,10 @@ Our general philosophy is to prepare you to read Hebrew.  While it is unlikely y
 
 Study the graphic and the steps below carefully.  It may seem confusing at first but, with practice, you'll get it.  You'll note that the steps work backwards from left to right
 
-<img src="images/13.Qal_Perfect_Strong.gif" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+
+knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
+``` 
 
 1. Add the perfect sufformatives (13.4)
 2. Put a Sheva before the sufformative (13.7)
@@ -4223,7 +4369,10 @@ Below is the complete paradigm.  Be sure to listen to Izzy read the forms with t
 </figure>
 
 
-<img src="images/13.qptable.png" width="700pt" style="display: block; margin: auto;" />
+```{r, out.width = "700pt", fig.align='center'}
+
+knitr::include_graphics("images/13.qptable.png")
+``` 
 
 <figure>
     <figcaption>Qal Perfect Strong Paradigm from _Hebrew Quest_ Chapter 14</figcaption>
@@ -4445,17 +4594,20 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-71)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg")
+``` 
 
 
 
 
 <!-- picture -->
 
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 
 
@@ -4598,10 +4750,10 @@ Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "re
     * $V_2 = \hat O$ before sufformative that starts with a consonant
 * Review the table below, noting $V_1$ and accent changes:
 
-<div class="figure" style="text-align: center">
-<img src="images/14_gem_table.png" alt="Qal Perfect: Geminate/Strong Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-73)Qal Perfect: Geminate/Strong Paradigms</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Qal Perfect: Geminate/Strong Paradigms"}
+
+knitr::include_graphics("images/14_gem_table.png")
+``` 
 
 ::: {.box .map}
 Although they can be troublesome, Geminate verbs are relatively infrequent, so the changes in the table above needn't distract you from your verb parsing quest!  You will learn the major geminate verbs in your vocabulary. To start with, here are a few of the most common:
@@ -4626,10 +4778,10 @@ Although they can be troublesome, Geminate verbs are relatively infrequent, so t
     
 Review the table below, noting $V_1$ and accent changes:
 
-<div class="figure" style="text-align: center">
-<img src="images/14_bicons_table.png" alt="Qal Perfect: Biconsonantal/Strong Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-74)Qal Perfect: Biconsonantal/Strong Paradigms</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Qal Perfect: Biconsonantal/Strong Paradigms"}
+
+knitr::include_graphics("images/14_bicons_table.png")
+``` 
 
 ## <span class="he">םוּת</span> is Biconsonantal and Stative
 
@@ -4638,10 +4790,10 @@ Review the table below, noting $V_1$ and accent changes:
 * Tsere stem vowel in 3rd person
 * In the perfect, only occurs in 3rd person and 1cp
 * Compare <span class="he">םוּת</span> and <span class="he">קוּם</span> in the table below:
-<div class="figure" style="text-align: center">
-<img src="images/14_moot_table.png" alt="Qal Perfect: &lt;U+05DE&gt;&lt;U+05D5&gt;&lt;U+05BC&gt;&lt;U+05EA&gt;/&lt;U+05E7&gt;&lt;U+05D5&gt;&lt;U+05BC&gt;&lt;U+05DD&gt; Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-75)Qal Perfect: <U+05DE><U+05D5><U+05BC><U+05EA>/<U+05E7><U+05D5><U+05BC><U+05DD> Paradigms</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Qal Perfect: מוּת/קוּם Paradigms"}
+
+knitr::include_graphics("images/14_moot_table.png")
+``` 
 
 ## Qal Perfect Quest Clues
 
@@ -4807,10 +4959,10 @@ Let that sink in as you study Biblical Hebrew.
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-76)Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "600pt", fig.align='center', fig.cap="Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/15.Ascent of Adummim Roman road remains, tb113006725.jpg")
+``` 
 
 
 
@@ -4851,7 +5003,10 @@ Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ combination
 * 1cs begins with Aleph+Seghol+Silent Sheva **ְ אֶ***
 * The vowels behave as if they were from the Rule of Sheva (they aren't)
 
-<img src="images/15-rule-of-sheva.png" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/15-rule-of-sheva.png")
+``` 
 
 
 ## Imperfect Sufformatives
@@ -4878,13 +5033,22 @@ Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ combination
 Study the graphic and the steps below carefully.  It may seem confusing at first but, with practice, you'll get it.  You'll note that the steps work backwards from left to right.
 
 
-<img src="images/15.Qal_imperfect_Strong.png" width="900pt" style="display: block; margin: auto;" />
+```{r, out.width = "900pt", fig.align='center'}
 
-<img src="images/15.QI_steps.png" width="600pt" style="display: block; margin: auto;" />
+knitr::include_graphics("images/15.Qal_imperfect_Strong.png")
+``` 
+
+```{r, out.width = "600pt", fig.align='center'}
+
+knitr::include_graphics("images/15.QI_steps.png")
+``` 
 
 ## Hearing the Qal Imperfect Strong Paradigm
 
-<img src="images/15.qisimple.png" width="200pt" style="display: block; margin: auto;" />
+```{r, out.width = "200pt", fig.align='center'}
+
+knitr::include_graphics("images/15.qisimple.png")
+``` 
 <figure>
     <figcaption>Qal Imperfect Strong (Singular) read by Izzy</figcaption>
     <audio
@@ -5073,10 +5237,10 @@ Before continuing, can you describe the following concepts?
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-81)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "900pt", fig.align='center', fig.cap="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg")
+``` 
 
 
 ## Our Quest
@@ -5503,10 +5667,10 @@ Like the dawning of a new day, after you complete this lesson, a majority the ve
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/17_Masada sunrise over Dead Sea, dg030401281.jpg")
+``` 
 
 
 
@@ -5745,10 +5909,10 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-83)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/18_Mezuzah near Western Wall, tb091306071.jpg")
+``` 
 
 
 
@@ -6049,17 +6213,20 @@ Meditate on that as you work through this lesson and, especially, as you study t
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-84)Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg")
+``` 
 
 
 
 
 <!-- picture -->
 
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 
 
@@ -6339,10 +6506,10 @@ Ponder these things as you work through this Lesson and the study passage.
 </figure>
 
 
-<div class="figure" style="text-align: center">
-<img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-86)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg")
+``` 
 
 
 
@@ -6601,10 +6768,10 @@ This is a great picture of what the LORD means when He says He will "keep" us!
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg")
+``` 
 
 
 
@@ -6810,10 +6977,10 @@ It's become a cliche for teachers to ask, "which of the four soils are you?"  In
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/22_Cove of the Sower from east, tb112000201.jpg")
+``` 
 
 
 
@@ -6914,7 +7081,10 @@ QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּ
 * The last column indicates the $V_S$ pattern for perfects on the left, and Imperfects/Imperatives/Infinitives on the right.
 * We will update this table as we conclude each additional stem in Unit 4
 
-<img src="images/22_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/22_stemcomp.png")
+```
 
 
 ## Word Warm-up {-}
@@ -7038,10 +7208,10 @@ Before continuing, can you describe the following concepts?
 
 *****
 
-<div class="figure" style="text-align: center">
-<img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-90)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg")
+``` 
 
 
 
@@ -7332,7 +7502,10 @@ $$V_{S_N} = A \sim \bar E (A)$$
     * Perfect exceptions will tend to apply to the 2nd and 1st person forms
     * Niphal does not have any Perfect exceptions
     
-<img src="images/23b.stemvowelformula.png" width="300pt" style="display: block; margin: auto;" />
+```{r, out.width = "300pt", fig.align='center'}
+
+knitr::include_graphics("images/23b.stemvowelformula.png")
+``` 
 
 ## Review: Sheva before Finite Verb Endings
 
@@ -7402,10 +7575,10 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg")
+``` 
 
 
 
@@ -7688,7 +7861,10 @@ Hithpael | תִמְ
     * When you are able to work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
 
 
-<img src="images/24_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/24_stemcomp.png")
+```
 
 ## Word Warm-up {-}
 
@@ -7792,10 +7968,10 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/25.Sunrise over Mount of Olives, tb031605564.jpg")
+``` 
 
 
 ## A weak consonant affects the vowels that touch it
@@ -7905,7 +8081,10 @@ Also:
 * Verbs that look "1-Vav" are actually 1-Yod - <span class="he">יִוָּשֵׁב</span>
 * Memorize the list of 3-ה verb endings:
 
-<img src="images/25-3-hei_endings.png" width="500pt" style="display: block; margin: auto;" />
+```{r, out.width = "500pt", fig.align='center'}
+
+knitr::include_graphics("images/25-3-hei_endings.png")
+``` 
 
 ## Top 10 Niphal Verbs 
 
@@ -8028,10 +8207,10 @@ __LESSON ITINERARY__
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/26_Man with arms upraised at Western Wall, tb092603064.jpg")
+``` 
 
 
 
@@ -8272,7 +8451,10 @@ Hithpael | תִמְ
 * Here is the Stem Comparison Table showing Qal, Niphal, and now Piel
 
 
-<img src="images/26_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/26_stemcomp.png")
+```
 
 ## Word Warm-up {-}
 
@@ -8404,17 +8586,20 @@ Before continuing, can you describe the following concepts?
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/27_Golden menorah for third temple, tb123199206.jpg")
+``` 
 
 
 
 
 <!-- picture -->
 
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 
 
@@ -8431,7 +8616,10 @@ Before continuing, can you describe the following concepts?
 * 3-ה - The same as 3-ה in other stems
     * Memorize the 3-ה endings:
 
-<img src="images/25-3-hei_endings.png" width="500pt" style="display: block; margin: auto;" />
+```{r, out.width = "500pt", fig.align='center'}
+
+knitr::include_graphics("images/25-3-hei_endings.png")
+``` 
 
 
 ## 2-Aleph/Resh often cause DP $V_1 = \bar E$ and $V_1 = \bar A$ in all other forms
@@ -8670,17 +8858,20 @@ Before continuing, can you describe the following concepts?
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg")
+``` 
 
 
 
 
 <!-- picture -->
 
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 ## Pual Verb Stem Table and Meaning
 
@@ -8826,7 +9017,10 @@ Hithpael | תִמְ
 * Here is the Stem Comparison Table showing the stems we have studied thus far
 
 
-<img src="images/28_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/28_stemcomp.png")
+```
 
 ## Word Warm-up {-}
 
@@ -8948,10 +9142,10 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, a good 
 </figure>
 
 
-<div class="figure" style="text-align: center">
-<img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/29_Man with hands on sons for priestly blessing, tb092302202.jpg")
+``` 
 
 
 
@@ -9077,10 +9271,10 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/30.Western Wall with chairs and snow, tb022503206.jpg")
+``` 
 
 
 
@@ -9291,7 +9485,10 @@ Hithpael | תִמְ
 * Here is the Stem Comparison Table showing the stems we have studied thus far
 
 
-<img src="images/30_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/30_stemcomp.png")
+```
 
 ## Hiphil Strong Paradigm Worksheet {-}
 
@@ -9427,10 +9624,10 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg")
+``` 
 
 
 
@@ -9580,10 +9777,10 @@ The Hebrew Quest Study Passage for this lesson is the story of David and Goliath
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/32-Elah brook with students picking smooth stones, tbs75039303.jpg")
+``` 
 
 
 
@@ -9734,7 +9931,10 @@ Hithpael | תִמְ
 * Here is the Stem Comparison Table showing the stems we have studied thus far
 
 
-<img src="images/32_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/32_stemcomp.png")
+```
 
 ## Word Warm-up {-}
 
@@ -9866,10 +10066,10 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
+``` 
 
 
 
@@ -10003,10 +10203,10 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/34.Men praying at Western Wall, tb090705000.jpg")
+``` 
 
 
 
@@ -10156,7 +10356,10 @@ HITPAEL | <span class="he">תִמְ</span>
 
 * Here is the complete Stem Comparison Table listing $Pre$ and $V_S$ for each stem and the three major conjugations:
 
-<img src="images/34_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/34_stemcomp.png")
+```
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/U7bGSrESfco){target="_blank"}
@@ -10263,17 +10466,20 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg")
+``` 
 
 
 
 
 <!-- picture -->
 
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 
 
@@ -10460,10 +10666,11 @@ You have studied 20 distinct passages, most of which were full chapters of the H
 > Strength and Endurance Builds Muscle
 
 
-<div class="figure" style="text-align: center">
-<img src="images/weight.png" alt="Strength and Endurance" width="250pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Strength and Endurance</p>
-</div>
+```{r, fig.show="hold", out.width = "250pt", fig.align='center', fig.cap="Strength and Endurance"}
+
+include_graphics("images/weight.png")
+include_graphics("images/treadmill.png")
+```
 
 
 If one wants to build strength, she might use a weight machine.  If one wants to build endurance and overall health, she might use the treadmill.  Most people will want to use a combination of both. What does this have to do with Anki (whatever that is)? I’m glad you asked!
@@ -10471,10 +10678,10 @@ If one wants to build strength, she might use a weight machine.  If one wants to
 
 > Anki is Gym Equipment for your Brain 
 
-<div class="figure" style="text-align: center">
-<img src="images/Anki_home_screen.png" alt="Anki Home Screen" width="350pt" />
-<p class="caption">(\#fig:unnamed-chunk-116)Anki Home Screen</p>
-</div>
+```{r, out.width = "350pt", fig.align='center', fig.cap="Anki Home Screen"}
+
+include_graphics("images/Anki_home_screen.png")
+```
 
 Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times.
 
@@ -10528,10 +10735,10 @@ Follow the steps outlined on the Quick Start page.
         * `Leech action` = TAG ONLY
 
 Your settings should look like this:
-<div class="figure" style="text-align: center">
-<img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-117)Settings</p>
-</div>
+```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
+
+knitr::include_graphics("images/anki_custom_new.png")
+```
 
 [Return to Quick Start page](#get_started)
 
@@ -10555,25 +10762,26 @@ Here are the steps:
 1. If a pop-up window asks you, choose "**Download from** AnkiWeb"
 1. Anki will now automatically keep your work on your phone and laptop/desktop in sync.
 
-<div class="figure" style="text-align: center">
-<img src="images/anki_web-based.png" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_decks.PNG" alt="Anki web and mobile views" width="250pt" /><img src="images/anki_mobile_card.PNG" alt="Anki web and mobile views" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Anki web and mobile views</p>
-</div>
+```{r, fig.show="hold", out.width = "250pt", fig.align='center', fig.cap="Anki web and mobile views"}
+include_graphics("images/anki_web-based.png")
+include_graphics("images/anki_mobile_decks.PNG")
+include_graphics("images/anki_mobile_card.PNG")
+```
 
 ## How do I navigate within Anki? {-}
 
 * Click the +/- buttons to expand/collapse the folders within the Anki deck
-<div class="figure" style="text-align: center">
-<img src="images/anki.png" alt="Anki - subdecks collapsed" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-119)Anki - subdecks collapsed</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Anki - subdecks collapsed"}
+
+include_graphics("images/anki.png")
+```
     * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
 * Many cards have "hints" - click on the `hint` button to reveal
     * If you needed a hint, be sure to select `Again` on the answer side. See discussion below.
-    <div class="figure" style="text-align: center">
-    <img src="images/a.anki_hint.gif" alt="Revealing a hint in Anki" width="800pt" />
-    <p class="caption">(\#fig:unnamed-chunk-120)Revealing a hint in Anki</p>
-    </div>
+    ```{r, out.width = "800pt", fig.align='center', fig.cap="Revealing a hint in Anki"}
+
+include_graphics("images/a.anki_hint.gif")
+```  
 * For cards that have audio, it should play when you are first shown the card. If you need to hear the audio again, hit the `play` button
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
 
@@ -10581,10 +10789,10 @@ Here are the steps:
 
 We suggest using the following guidelines to select the most appropriate answer.
 
-<div class="figure" style="text-align: center">
-<img src="images/A.anki.answer_grid.png" alt="Anki Response Definitions" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)Anki Response Definitions</p>
-</div>
+```{r, out.width = "700pt", fig.align='center', fig.cap="Anki Response Definitions"}
+
+knitr::include_graphics("images/A.anki.answer_grid.png")
+```     
 
 * There is no “value judgment” to hitting `Again` – you will learn on your timeline
 * Be honest with yourself! 
@@ -10626,10 +10834,10 @@ There is a custom add-on called `Review Heatmap.`  At the time we are writing th
 * Then double-click and restart Anki
 * You will now see a grid that shows you your daily reviews to keep you motivated
 
-<div class="figure" style="text-align: center">
-<img src="images/a.year_heatmap.png" alt="Keep your daily Anki streak going!" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)Keep your daily Anki streak going!</p>
-</div>
+```{r, out.width = "800pt", fig.align='center', fig.cap="Keep your daily Anki streak going!"}
+
+include_graphics("images/a.year_heatmap.png")
+```  
 
 ## How do I know when I'm done with a deck? {-}
 
@@ -10640,10 +10848,10 @@ So while this could be an indefinite process, we do have some guidelines as they
 * For the `Course Checklist`, all cards should be moved out of the `New` category and into the `Young` or `Mature` categories, with no cards `Suspended` or `Buried`. 
 * To qualify for a `Certificate` or `Diploma`, all cards must be in the `Mature` category with no cards `New`, `Young`, `Suspended`, or `Buried`.
 
-<div class="figure" style="text-align: center">
-<img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-123)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
-</div>
+```{r, out.width = "900pt", fig.align='center', fig.cap="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature"}
+
+knitr::include_graphics("images/anki_comparison.png")
+``` 
 
 See the next two pages for more information on how to locate your statistics.
 
@@ -10660,10 +10868,10 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 3. Scroll down to the `Card Counts` pie graph
 4. If all cards are `Young` or `Mature` with no cards `New`, `Suspended`, or `Buried` as shown on the acceptable examples below, you can mark that deck as completed on your `Course Checklist`
 
-<div class="figure" style="text-align: center">
-<img src="images/anki_comparison.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="1000pt" />
-<p class="caption">(\#fig:unnamed-chunk-124)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
-</div>
+```{r, out.width = "1000pt", fig.align='center', fig.cap="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature"}
+
+knitr::include_graphics("images/anki_comparison.png")
+``` 
 
 
 ## Anki Completion Requirements for the `Certificate` {-}
@@ -10679,16 +10887,16 @@ _You must do the steps below  from a Desktop (or laptop) or the ios/Android mobi
 3. Scroll down to the `Card Counts` pie graph
 4. If all cards are  `Mature` with no cards `New`, `Young`, `Suspended`, or `Buried`, and you have done everything else for that unit on the `Course Checklist`, you are ready to apply for your unit completion `Certificate` or `Diploma`.  CAPTURE A SCREENSHOT as directed below:
     * Desktop: Make sure the Statistics window is aligned on top of the main Anki widow so that the course name is visible as shown in the image below:
-<div class="figure" style="text-align: center">
-<img src="images/anki_mature.png" alt="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-125)DESKTOP Card Counts chart from Anki Stats showing all cards = Mature</p>
-</div>
+```{r, out.width = "300pt", fig.align='center', fig.cap="DESKTOP Card Counts chart from Anki Stats showing all cards = Mature"}
+
+knitr::include_graphics("images/anki_mature.png")
+``` 
     * Mobile - simply capture a screenshot showing the `Card Counts` statistics as shown below:
     
-<div class="figure" style="text-align: center">
-<img src="images/Anki_mature_mobile.png" alt="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-126)MOBILE: Card Counts chart from Anki Stats showing all cards = Mature</p>
-</div>
+```{r, out.width = "300pt", fig.align='center', fig.cap="MOBILE: Card Counts chart from Anki Stats showing all cards = Mature"}
+
+knitr::include_graphics("images/Anki_mature_mobile.png")
+``` 
 <!-- Please see [`Graduation` process page]() for additional information -->
 
 ## What do the different card stages mean? {-}
@@ -10711,10 +10919,10 @@ There are a few different terms Anki uses for different stages of card maturity:
     * You can do this from either the "question" or the "answer" side of the card
     * We do not recommend you change the `word,` `definition` or `audio` fields
     * To add an image simply copy and paste into the image field
-<div class="figure" style="text-align: center">
-<img src="images/a.anki_image.gif" alt="Adding a custom image in Anki" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-127)Adding a custom image in Anki</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Adding a custom image in Anki"}
+
+include_graphics("images/a.anki_image.gif")
+```  
 
 ## Can I modify the layout of a card? {-}
 
@@ -10746,10 +10954,10 @@ Anki is doing precisely what we told it to do in the `settings`!  As much as pos
     * If an answer has two parts in two separate questions, we want to make sure you answer the second question from your knowledge, not because you just saw the solution on a related card
     * If you want to work on these cards anyway, click `Unbury.`
 
-<div class="figure" style="text-align: center">
-<img src="images/a.anki_custom_study.png" alt="With `Custom Study` you can temporarily increase your daily new cards" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-128)With `Custom Study` you can temporarily increase your daily new cards</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="With `Custom Study` you can temporarily increase your daily new cards"}
+
+include_graphics("images/a.anki_custom_study.png")
+``` 
 
 
 
@@ -10878,7 +11086,10 @@ Whichever direction you take, we would encourage you to ultimately complete both
 
 # Lexicon 
 
-<img src="images/lexicon.jpg" width="600pt" style="display: block; margin: auto;" />
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/lexicon.jpg")
+```
 The authors of <u>Basics of Biblical Hebrew</u> have created an abridged Lexicon to accompany this course.  This document is nice as vocabulary words are indexed to the Lesson #, and irregular plural forms and selected construct forms are also included.
 
 [Open/download BBH Lexicon](./images/BBH_Lexicon.pdf){target="_blank"}
@@ -10891,7 +11102,9 @@ You are also encouraged to check out the Lexicon resources in the [Holy Language
 
 # About Holy Language Institute {-}
 
-<img src="images/following_yeshua.jpg" width="500pt" style="display: block; margin: auto;" />
+```{r, out.width = "500pt", fig.align='center'}
+include_graphics("images/following_yeshua.jpg")
+```
 
 ***Jesus is Jewish.*** 
 
@@ -10944,10 +11157,10 @@ Finally, we thank YOU for your interest in this course!
 * Professionally, Chris has worked in the healthcare compliance field for over 30 years
 * Personally, Chris is married and has two men in college.  He and his wife, Sarah, love to travel, especially to Israel; (which, as you can tell, has inspired the format of each lesson in this book)
 
-<div class="figure" style="text-align: center">
-<img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-131)Chris Flanagan</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Chris Flanagan"}
+
+knitr::include_graphics("images/cf.jpg")
+```
 
 
 <!--chapter:end:65-abouttheauthor.Rmd-->
@@ -10955,9 +11168,9 @@ Finally, we thank YOU for your interest in this course!
 
 <!--chapter:end:70-License.Rmd-->
 
-
+`r if (knitr::is_html_output()) '
 # References {-}
-
+'`
 
 <!--chapter:end:99-References.Rmd-->
 
@@ -11009,17 +11222,20 @@ Before continuing, can you describe the following concepts?
 
 
 
-<div class="figure" style="text-align: center">
-<img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-132)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
+```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+
+knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg")
+``` 
 
 
 
 
 <!-- picture -->
 
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
+```{r, out.width = "400pt", fig.align='center'}
+
+knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
+``` 
 
 
 
