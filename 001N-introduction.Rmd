@@ -1,8 +1,9 @@
 # About This Course {-}
 
-* [Why is Holy Language Institute offering a Hebrew Grammar course?](#motivation)
-* [What makes our course Distinct?](#our_course)
+* [Why is Holy Language Institute offering a Hebrew grammar course?](#motivation)
+* [What makes our course distinct?](#our_course)
 * [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
+* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 
 
 ## Why a Hebrew Grammar course {- #motivation}
@@ -28,14 +29,14 @@ Many of the resources we researched are top-notch.  Depending on a student's goa
 
 <div align="right">_(continued)_</div>
 
-## Reasons our Course is Distinct {- #our_course}
+## Why Our Course is Distinct {- #our_course}
 
 Our goals for a Hebrew grammar course are the following:
 
 * Academically challenging, but with a low-stress level
 * Primary emphasis on understanding God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.
 * Self-paced for independent learning but with mechanisms to provide feedback, encouragement, and ways to celebrate students' accomplishments in the course
-* Aligns with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over tons of textbook reading and long lectures
+* Aligns with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
 * Compliments (not replaces) and integrates with _Hebrew Quest_
 * Inexpensive and straightforward to develop, deliver, and maintain
 * Free of charge for our students
@@ -52,21 +53,24 @@ We have talked a bit about our Holy Language Learning Philosophy.  Our belief is
 
 One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
 
-Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. In that case, we believe <u>Hebrew GRAMMAR Quest</u> is what you would see. Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12. Then we begin our deep dive into grammar topics touched upon in _Hebrew Quest_ Lessons 13-15.
+Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs and so forth.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12. Then we begin our deep dive into grammar topics touched upon in _Hebrew Quest_ Lessons 13-15.
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "600pt", fig.align='center'}
 
 knitr::include_graphics("images/i.hq_hgq.png")
 ``` 
 
-If you finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  
+## Completion of _Hebrew Quest_ is NOT a Prerequisite! {- #finish_hq}
 
-On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, we believe Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up.  We're going to help you with this goal. In the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of _Hebrew Quest_.  
+If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  
+
+On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up.  We're going to help you with this goal. In the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of _Hebrew Quest_.  
 
 ::: {.box .map}
 If you are interested in learning some of Hebrew's inner workings, you’re in the right place!
 :::
-###  FAQ about the two courses {-}
+
+Additional questions regarding _Hebrew Quest_ and Hebrew GRAMMAR Quest:
 
 * [Do I need to complete _Hebrew Quest_ before I start Hebrew GRAMMAR Quest?](#complete_hq_first) Quick answer: NO!
 * [When I complete this course, should I go back and finish _Hebrew Quest_?](#need_to_finish_hq) Quick answer:: YES!
@@ -75,7 +79,7 @@ If you are interested in learning some of Hebrew's inner workings, you’re in t
     2. Hop over to Hebrew GRAMMAR Quest and complete the full course, including the _Hebrew Quest_ Study Passage track, if possible
     3. When you finish here, return to complete _Hebrew Quest_
     
-We have FAQs on other topics of interest in our Appendix section.
+We have FAQs on other topics of interest in our Appendix.
 
 ::: {.box .map}
 Let's get started on our Hebrew GRAMMAR Quest!

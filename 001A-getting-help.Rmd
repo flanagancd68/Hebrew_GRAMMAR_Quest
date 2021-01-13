@@ -32,6 +32,8 @@ There are several ways to navigate from page to page within this guidebook:
 * Use hyperlinks on selected pages, like this one: [Continue to the Introduction section](#motivation)
 
 
+## Book features {-}
+
 Along the way, you'll see some informational boxes.  Here is what they mean:
 
 ::: {.infobox .map}

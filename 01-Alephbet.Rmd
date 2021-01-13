@@ -14,7 +14,9 @@
 knitr::include_graphics("images/alephbet_multi.png")
 ``` 
 
-This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like a family.  With any family there can be unique dynamics (including not always playing nice with each other!).  This lesson will take a look at some of those dynamics.
+This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. 
+
+In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like a family.  With any family there can be unique dynamics (including not always playing nice with each other!).  This lesson will take a look at some of those dynamics.
 
 
 ::: {.infobox .map}
@@ -91,6 +93,12 @@ Almost every other grammar book would start with a lengthy description of each l
 
 * We'll talk about vowels in Lesson 2
 
+::: {.box .idea}
+
+If you have not yet completed _Hebrew Quest_ Lessons 1-11, we encourage you to stop here and move over to Hebrew Quest to complete the Alephbet lessons.
+
+In addition to learning the letters, you will learn things each letter has to teach us from a spiritual perspective.
+:::
 
 ## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
 

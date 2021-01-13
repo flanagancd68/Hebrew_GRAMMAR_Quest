@@ -87,6 +87,8 @@ There are several ways to navigate from page to page within this guidebook:
 * Use hyperlinks on selected pages, like this one: [Continue to the Introduction section](#motivation)
 
 
+## Book features {-}
+
 Along the way, you'll see some informational boxes.  Here is what they mean:
 
 ::: {.infobox .map}
@@ -232,9 +234,10 @@ If you have general feedback or wish to report an issue, please use the [`Report
 
 # About This Course {-}
 
-* [Why is Holy Language Institute offering a Hebrew Grammar course?](#motivation)
-* [What makes our course Distinct?](#our_course)
+* [Why is Holy Language Institute offering a Hebrew grammar course?](#motivation)
+* [What makes our course distinct?](#our_course)
 * [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
+* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 
 
 ## Why a Hebrew Grammar course {- #motivation}
@@ -260,14 +263,14 @@ Many of the resources we researched are top-notch.  Depending on a student's goa
 
 <div align="right">_(continued)_</div>
 
-## Reasons our Course is Distinct {- #our_course}
+## Why Our Course is Distinct {- #our_course}
 
 Our goals for a Hebrew grammar course are the following:
 
 * Academically challenging, but with a low-stress level
 * Primary emphasis on understanding God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.
 * Self-paced for independent learning but with mechanisms to provide feedback, encouragement, and ways to celebrate students' accomplishments in the course
-* Aligns with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over tons of textbook reading and long lectures
+* Aligns with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
 * Compliments (not replaces) and integrates with _Hebrew Quest_
 * Inexpensive and straightforward to develop, deliver, and maintain
 * Free of charge for our students
@@ -284,18 +287,21 @@ We have talked a bit about our Holy Language Learning Philosophy.  Our belief is
 
 One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
 
-Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. In that case, we believe <u>Hebrew GRAMMAR Quest</u> is what you would see. Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12. Then we begin our deep dive into grammar topics touched upon in _Hebrew Quest_ Lessons 13-15.
+Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs and so forth.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12. Then we begin our deep dive into grammar topics touched upon in _Hebrew Quest_ Lessons 13-15.
 
-<img src="images/i.hq_hgq.png" width="400pt" style="display: block; margin: auto;" />
+<img src="images/i.hq_hgq.png" width="600pt" style="display: block; margin: auto;" />
 
-If you finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  
+## Completion of _Hebrew Quest_ is NOT a Prerequisite! {- #finish_hq}
 
-On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, we believe Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up.  We're going to help you with this goal. In the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of _Hebrew Quest_.  
+If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  
+
+On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up.  We're going to help you with this goal. In the second half of this grammar course, we will incorporate several of the [Study Passage](https://holylanguage.com/ot-readings.html) sections of _Hebrew Quest_.  
 
 ::: {.box .map}
 If you are interested in learning some of Hebrew's inner workings, you’re in the right place!
 :::
-###  FAQ about the two courses {-}
+
+Additional questions regarding _Hebrew Quest_ and Hebrew GRAMMAR Quest:
 
 * [Do I need to complete _Hebrew Quest_ before I start Hebrew GRAMMAR Quest?](#complete_hq_first) Quick answer: NO!
 * [When I complete this course, should I go back and finish _Hebrew Quest_?](#need_to_finish_hq) Quick answer:: YES!
@@ -304,7 +310,7 @@ If you are interested in learning some of Hebrew's inner workings, you’re in t
     2. Hop over to Hebrew GRAMMAR Quest and complete the full course, including the _Hebrew Quest_ Study Passage track, if possible
     3. When you finish here, return to complete _Hebrew Quest_
     
-We have FAQs on other topics of interest in our Appendix section.
+We have FAQs on other topics of interest in our Appendix.
 
 ::: {.box .map}
 Let's get started on our Hebrew GRAMMAR Quest!
@@ -325,7 +331,9 @@ Let's get started on our Hebrew GRAMMAR Quest!
 
 <img src="images/alephbet_multi.png" width="400pt" style="display: block; margin: auto;" />
 
-This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. For more history and discussion on the other script forms, see Hebrew Quest, lessons 2-11.  In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like a family.  With any family there can be unique dynamics (including not always playing nice with each other!).  This lesson will take a look at some of those dynamics.
+This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. 
+
+In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like a family.  With any family there can be unique dynamics (including not always playing nice with each other!).  This lesson will take a look at some of those dynamics.
 
 
 ::: {.infobox .map}
@@ -400,6 +408,12 @@ Almost every other grammar book would start with a lengthy description of each l
 
 * We'll talk about vowels in Lesson 2
 
+::: {.box .idea}
+
+If you have not yet completed _Hebrew Quest_ Lessons 1-11, we encourage you to stop here and move over to Hebrew Quest to complete the Alephbet lessons.
+
+In addition to learning the letters, you will learn things each letter has to teach us from a spiritual perspective.
+:::
 
 ## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
 
