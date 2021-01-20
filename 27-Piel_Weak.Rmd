@@ -232,37 +232,17 @@ Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 =
 
 ## Hebrew Quest Study Passages: Psalms 1 and 27 {-}
 
-[Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/edit?usp=sharing){target="_blank"}
 
-[Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/edit?usp=sharing){target="_blank"}
+::: {.box .map}
+YOUR HEBREW QUEST
 
-
-1. Read through the passages straight through
+1. Read the passages
+    * [Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/edit?usp=sharing){target="_blank"}
+    * [Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3. Watch Izzy's _Hebrew Quest_ videos
     * [Psalm 1](https://holylanguage.com/psalm-1.php){target="_blank"}
     * [Psalm 27](https://holylanguage.com/psalm-27.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/30/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-
+:::

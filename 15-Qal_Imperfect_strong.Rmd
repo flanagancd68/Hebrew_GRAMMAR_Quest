@@ -237,7 +237,7 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 
 ## Worksheets: Qal Imperfect Strong Paradigm {-}
 
-> Complete the paradigm from memory at least once, then return here and continue in the guidebook.
+Complete the paradigm from memory at least once, then return here and continue in the guidebook.
 
 [Qal Imperfect Strong Paradigm](15_qal_imperfect_strong_paradigm.pdf){target="_blank"}
 
@@ -258,16 +258,8 @@ Identify and translate the Qal Verbs below.
 * [Ruth Pursuit Answer Key #15](./images/15_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## X Quest Quiz {-}
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-
-## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:

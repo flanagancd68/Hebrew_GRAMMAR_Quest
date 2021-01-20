@@ -1,4 +1,4 @@
-# The Hiphil Stem - Weak Verbs {.H-w}
+# The X Hiphil Stem - Weak Verbs {.H-w}
 
 
 > To comprehend Biblical Hebrew, we must be able to . . . 
@@ -67,27 +67,45 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 * Gutturals take Hateph, not Sheva
     * In Hiphil Strong, $V_1$ always takes Sheva
     
+## Strong Summary
+
+* In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
+    * The exceptions come when $R_1$ is a weak letter (discussed in Lesson 31)
+* Hiphil Beginning Combination:
+    * <span class="he">ְ הִ</span> - HP
+    * <span class="he">ְ יַ</span> - (etc) HI
+    * <span class="he">ְ הַ</span> - HM/H∞/HA
+    * <span class="he">ְ מַ</span> - HPt
+* $V_S = Î[A] \sim Î(Ē)$
+    * It's important to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
+    
 
 ## 1-Guttural
 
 * Hiphil 1G $V_1$ takes Hateph vowel - $V_P$ affected by Rule of Sheva
-    * HP -<span class="he">הֶעֱמִיד</span>
-    * All others:<span class="he">יַעֲמִיד</span>
-        * Qal Imperfect also begins<span class="he">יַעֲ</span>
-        * Distinguish by Hiphil $V_S = \hat I$, which never reduces  -<span class="he">יַעֲמִיד</span>
-        * Qal $V_S = O$ -<span class="he">יַעֲמֹד</span>
+* HP -<span class="he">הֶעֱמִיד</span>
+* All others:<span class="he">יַעֲמִיד</span>
+    * Qal Imperfect also begins<span class="he">יַעֲ</span>
+    * Distinguish by Hiphil $V_S = \hat I$, which never reduces  -<span class="he">יַעֲמִיד</span>
+    * Qal $V_S = O$ -<span class="he">יַעֲמֹד</span>
+* 3-Hei lose the stem vowel and are ambiguous<span class="he">יַעֲלֶה</span> - (Q/H)I3ms
 
 
 ## 3-Hei
 
-3-Hei lose the stem vowel and are ambiguous<span class="he">יַעֲלֶה</span> - (Q/H)I3ms
-
-
-
-## X <stem>: what to memorize
 
 ## Top 10 Hiphil Verbs
 
+1. <span class="he">בּוֺא</span> - (Q) to go in, enter, come to; (H) bring (in), come (in) (557x in the Hiphil)
+1. <span class="he">נָכָה</span> - (H) to strike, smite, beat, strike dead, destroy, injure (482x)
+1. <span class="he">שׁוּב</span> - (Q) to turn back, return, go back; (H) cause to return, bring back, give back (364x)
+1. <span class="he">נָגַד</span> - (H) to tell, announce, report, declare, inform (336x)
+1. <span class="he">יָצָא</span> - (Q) to go (come) out, go (come) forth; (H) cause to go (come) out, bring forth (282x)
+1. <span class="he">עָלָה</span> - (Q) to go up, ascend; (H) bring or lead up or out, offer up (sacrifice); (260x)
+1. <span class="he">נָצַל</span> - (H) tear from, take away, deliver from (191x)
+1. <span class="he">יָשַׁע</span> - (H) help, save, deliver, rescue, come to the aid of (184x)
+1. <span class="he">קָרַב</span> - (Q) to approach, draw near; (H) bring (near), present, offer a sacrifice (177x)
+1. <span class="he">יָלַד</span> - (Q) to bear (children), give birth, beget; (H) beget, become the father of (176x)
 
 
 ## Word Warm-up {-}
@@ -125,35 +143,25 @@ Make sure you are able to identify the diagnostic indicators of these Hiphil ver
 * [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
+## Claim your next `Twelve Tribes Badge`! {-}
 
-## Hebrew Quest Study Passage: Exodus 20 {-}
+<!-- Lesson 31 Tribe Badge 11 = SIMEON -->
 
-[Blank copy of Book ##](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
+Check to be sure you have have completed all activities through this lesson, then fill out the form below.
 
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/gD1doxWveXuijHUF6" frameborder="0"></iframe>
+</div>
 
-1. Read through the passage straight through
+## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 20 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read the passage - [Blank copy of Exodus 20](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-34.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/34/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::

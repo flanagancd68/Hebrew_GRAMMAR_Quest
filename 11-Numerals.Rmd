@@ -184,13 +184,13 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 </div>
 
 
-## x Verses Warm-up` {-}
+## Verses Warm-up` {-}
 
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/JeU84P1AdEM){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/JeU84P1AdEM" frameborder="0"></iframe>
 </div>
 
 
@@ -218,4 +218,18 @@ YOUR QUEST
 
 * [Ruth Pursuit Answer Key #11](./images/11_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
+## Claim your Unit 2 Completion Certificate! {-}
+
+If you have completed **all activities** in Lessons 1-11, you may claim the second `Unit Completion Certificates`.
+
+::: {.box .caution}
+* Reminder that the Anki Requirement for the `Unit Completin Certificate` is different from the requirement for the `12 Tribes Badges`.
+* You must submit a screenshot showing that all cards are **MATURE**
+* No cards may be "New", "Young", "Suspended", or "buried"
+* See the `Hebrew Grammar Quest Checklist` for additional information
+:::
+
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
+</div>
 

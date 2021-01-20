@@ -20,7 +20,7 @@ Before continuing, can you describe the following concepts?
 * Pual strong diagnostics (Lesson 28)
 :::
 
-## X First Thought {-}
+## First Thought {-}
 
 ### <span class="he">גִּבּ֣וֹר בָּ֭אָרֶץ יִהְיֶ֣ה זַרְע֑וֹ דּ֭וֹר יְשָׁרִ֣ים יְבֹרָֽךְ׃</span> {-}
 
@@ -90,40 +90,19 @@ In every respect except for $V_S = A$, this is identical to the Polel stem for t
 
 ## Ruth Pursuit 
 
-Not surprisingly, there are not Pual verbs in Ruth 1.  We'll skip the `Ruth Pursuit` for this lesson.
+Not surprisingly, there are no Pual verbs in Ruth 1.  We'll skip the `Ruth Pursuit` for this lesson.
 
 
 
+## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 145 {-}
 
 
-## Hebrew Quest Study Passage: Psalms 145 {-}
+::: {.box .map}
+YOUR HEBREW QUEST
 
-[Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/edit?usp=sharing){target="_blank"}
-
-
-1. Read through the passage straight through
+1. Read the passage - [Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::

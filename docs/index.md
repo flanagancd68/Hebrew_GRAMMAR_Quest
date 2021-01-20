@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-01-13"
+#date: "2021-01-19"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -23,13 +23,16 @@ lof: no
 
 
 <div style="display:none">
-# Copyright {.unnumbered}
+# Cover {.unnumbered}
 </div>
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-01-13</small>
+<small>*Updated*: 2021-01-19</small>
 
+<small>
+
+**LICENSE**
 
 © 2021 Holy Language Institute. All rights reserved.
 
@@ -41,9 +44,16 @@ This license is for personal use only.  This publication may not be downloaded, 
 
 If you received this book and you are not a member of Holy Language Institute, [become a member](https://holylanguage.com/subscribe.html) today!  Subscribing will give you access to the full Hebrew GRAMMAR Quest course materials, as well as access to our founder, Izzy Avraham's, complete library of teaching materials.
 
+
+**CREDITS AND ACKNOWLEDGMENTS**
+
 Unless, otherwise noted, English Scripture quotations taken from the NASB. Copyright Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation. Used by permission.
 
 Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version, copyright © 2001 by Good News Publishers. Used by permission. All rights reserved.
+
+Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the format of **Hebrew GRAMMAR Quest**.  We encourage any of our students who wish to go further with Hebrew grammar to purchase the textbook or any related materials.
+
+Additionally, our thanks to Dr. John Beckman for making his extensive library of materials to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
 
 As applicable:
 
@@ -54,6 +64,16 @@ The photographs of Israel to begin each lesson are courtesy of the [Pictorial Li
 
 Biblical Hebrew text is courtesy of tanach.us (version 26.0). 
 
+Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/) tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have been able to achieve those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free, while maintaining a professional look.
+
+We believe have made reasonable attempts to acknowledge our sources where indicated. Notwithstanding these attempts, this work, including related materials and videos, may contain certain copyrighted works which we nonetheless believe in good faith are protected by United States federal law and the fair use doctrine.  Section 107 of the U.S. Copyright Act allows for reproduction for purposes such as teaching, scholarship, or research.   Concerns related to a citation/copyright matter may be directed to "contact at holylanguage dot com" for review and as needed, acknowledgment.
+
+</small>
+
+
+All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה אֶקְרָא</span>
+
+
 <!--chapter:end:index.Rmd-->
 
 
@@ -62,6 +82,8 @@ Biblical Hebrew text is courtesy of tanach.us (version 26.0).
 1. [How do I navigate around this book?](#navigating)
 5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
 4. [How do I get started?](#get_started)
+5. [How do I use Anki?](#anki_help)
+5. [What are required and optional resources?](#optional_resources)
 2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
 3. [How to ask a question if you get stuck](#get_help)
 
@@ -125,6 +147,7 @@ Use the `Course Checklist` to help keep you organized and do a little bit at a t
 
 Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
 
+Lastly, you might be encouraged by this article on [conquering the Fog] (./images/00_Fog_Article.pdf){target="_blank}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_ to describe the feeling that you aren't making any progress in learning a Biblical language, when you actually are making TREMENDOUS progress!
 
 ## Information Boxes {-}
 
@@ -162,7 +185,7 @@ CAUTION
 A potential pitfall, such as a concept that could be easily confused with another
 :::
 
-We also have footnotes<small>^[<small>Minor or parenthetical/non-essential points will be included as footnotes throughout each lesson.</small>]</small>
+We also have footnotes<small>^[<small>Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.</small>]</small>
 
 
 ## Quick Start Instructions {.unnumbered #get_started}
@@ -187,54 +210,36 @@ These ten easy steps will get you up and running with the course.
     
 > **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
 
-## Help with Anki {-}
+## Help with Anki {- #anki_help}
 
-<div class="figure" style="text-align: center">
-<img src="images/weight.png" alt="Strength and Endurance" width="150pt" /><img src="images/treadmill.png" alt="Strength and Endurance" width="150pt" />
-<p class="caption">(\#fig:unnamed-chunk-4)Strength and Endurance</p>
-</div>
+<img src="images/weight.png" width="150pt" style="display: block; margin: auto;" /><img src="images/treadmill.png" width="150pt" style="display: block; margin: auto;" />
 
 
-If one wants to build strength and endurance, it's important to use the right machines. weight machine.  Anki is free<small>^[<small>all platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times, helping you build both Hebrew strength and Hebrew endurance!
+If one wants to build strength and endurance, it's important to use the right machines. weight machine.  Anki is free<small>^[<small>All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times, helping you build both Hebrew strength and Hebrew endurance!
 
 ::: {.box .info}
 As you work through this course, it will be important to set aside time to review DAILY
 :::
 
-The sections below will help you get started with Anki.
+The sections below will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Anki deck with additional how-to information.
 
-### How do I get help with Anki? {-}
-
-::: {.box .info}
-
-What appears in the sections below is only the information you will need for Hebrew GRAMMAR Quest.
-
-While we are here to [help](#report_issue) with any issues related to the course including our `Hebrew Grammar Quest Anki Deck`, unfortunately it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple websearch.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
-:::
 
 ### Customize Anki Settings {- #anki_settings}
 
-1. Change USER1 Name 
-    1. In Anki, click File, then Switch Profile  
-    2. Select “User 1,” then Rename and type your name
+1. Change `USER1` Name 
+    1. In Anki, click `File`, then `Switch Profile`  
+    2. Select `User 1`, then `Rename` and type your name
 1. Change global settings
-    1. Click `Tools,` then `Preferences.`
-        1. On the `Basic` tab, some people prefer `night mode` - if this is you, check the `Night Mode` box
-        2. On the `Scheduling` tab:
-            1. Check the box that says `Anki 2.1 Scheduler.`
-            2. Note the hour the `next day` starts - 
-                * You want to set this for a time where you will NOT be doing reviews.  
-                * For most people, 4:00 am is a safe time, but if you're routinely awake at 4:00 am, set this field to be earlier or later.
-        3. Close out of this window to return to the main page
-1. On the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select “Options” ([click for image](./images/a.anki_settings.png){target="_blank"})
-    1. `New Cards`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information</small>]</small>
+    1. Click `Tools,` then `Preferences.` On the `Scheduling` tab, check the box that says `Anki 2.1 Scheduler`.
+1. On the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select `Options` ([click to see example](./images/a.anki_settings.png){target="_blank"})
+    1. `New Cards`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information and the definitions of these terms, `New`, `Review`, and `Lapsed`</small>]</small>
         * `Steps` = 10 1440 4320
         * `New cards/day` = 200
         * `Graduating interval` = 15
         * `Easy interval` = 60
         * `Starting ease` = 250%
         * `Bury related new cards...` = Up to you but we recommend - CHECKED
-    2. `Reviews`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=reviews for additional information</small>]</small>
+    2. `Reviews`
         * `Maximum reviews/day` = 9999
         * `Easy bonus` = 130%
         * `Interval modifier` = 100
@@ -255,13 +260,13 @@ Your settings should look like this:
     
 ### How do I navigate within Anki? {-}
 
-* Click the +/- buttons to expand/collapse the folders within the Anki deck [see example](./images/a.anki_hint.gif){target="_blank"}
+* Click the +/- buttons to expand/collapse the folders within the Anki deck [(click to see example)](./images/a.anki_hint.gif){target="_blank"}
   * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
-* Many cards have "hints" - click on the `hint` button to reveal [see example](./images/anki.png){target="_blank"}
+* Many cards have "hints" - click on the `hint` button to reveal [(click to see example)](./images/anki.png){target="_blank"}
     * If you needed a hint, be sure to select `Again` on the answer side
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
 
-### How do I know when to hit the `Good` button on an `Anki` card? {-}
+### How do I know when to hit the `Good` button on an Anki card? {-}
 
 We suggest using the following guidelines:
 
@@ -275,12 +280,44 @@ We suggest using the following guidelines:
 * `Easy`
   * We do not recommend selecting `Easy.` 
   * An exception might be when you are confident that you already have the word, rule, or passage memorized
-* `Hard` - You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed
+* `Hard` - You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed.  `Hard` may not be an option on cards in the learning phase.
 
-Most importantly, be patient with yourself.  It may take you many tries in the early going before you can hit `Good.`
+::: {.box .info}
+Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
 
-See [Anki info and FAQ](#anki_faq) for additional information on Anki.
 
+### How do I get help with Anki? {-}
+
+::: {.box .info}
+
+What appears in the sections below is only the information you will need for Hebrew GRAMMAR Quest.
+
+While we are here to [help](#report_issue) with any issues related to the course including our `Hebrew Grammar Quest Anki Deck`, unfortunately it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple websearch.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
+:::
+
+## Course Resources {- #optional_resources}
+
+REQUIRED: 
+
+* Other than being a subscriber to Holy Language Institute, you will not need to purchase or obtain anything for this course (unless you want to)
+* You will need a computer with internet access, a free Google account to open and complete documents and exercises, the free Anki desktop software to do the flashcard activities, and a pen or a pencil to complete writing worksheets
+
+OPTIONAL:
+
+Below are additional resources, some of which are free and some paid:
+
+* Free of charge
+  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you desire a much deeper dive into any lesson, you may wish to refer to the Lecture videos and overheads.  Everything on his site is free.
+  * Dr. Bill Mounce has study guides available for each Chapter of _Basics of Biblical Hebrew_
+    * In most cases, these will not vary much from the lessons in Hebrew GRAMMAR Quest, but some students might find them valuable
+    * For Chapter 1, click [http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target="_blank"); for other chapters, change the `01` in the URL to the chapter number you are seeking<small>^[</small>Except Chapter 4, which for some reason, is not available.</small>]</small>
+* Paid
+  * As mentioned elsewhere, the iOS version of the Anki app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensiveinvestment in your Hebrew journey.  
+  * To supplement your studies, you may wish to purchase the _Basics of Biblical Hebrew_ textbook or any of the accompanying resources:
+    * [Basics of Biblical Hebrew Textbook](https://www.amazon.com/gp/product/031053349X/&tag=holylanginst-20)
+    * [Basics of Biblical Hebrew Workbook](https://www.amazon.com/gp/product/0310533554/&tag=holylanginst-20)
+    * [Basics of Biblical Hebrew Laminated Reference Card](https://www.amazon.com/gp/product/031026295X/&tag=holylanginst-20)
+    * We would appreciate it if you would use one of the affiliate links, which allows Holy Language Institute to receive a small commission
 
 ## Report an Issue {- #report_issue}
 
@@ -292,7 +329,7 @@ If you have a specific question about the content or are stuck on a concept, ple
 
 [Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}
 
-<div class="container">
+<div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf3obLnGzJQ6d7Rtyy2YXDln3g-kJWCY-4IlRLE_mnFuWv2AQ/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
@@ -310,7 +347,7 @@ If you have general feedback or wish to report an issue, please use the [`Report
 
 [Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
 
-<div class="container">
+<div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdWJc7ri0andmyu70D1USeDRtbsrHLaYLNrs0rvI2qBJx-yEg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
@@ -318,9 +355,6 @@ If you have general feedback or wish to report an issue, please use the [`Report
 
 
 <!--chapter:end:001A-getting-help.Rmd-->
-
-
-<!--chapter:end:001L-introduction-header.Rmd-->
 
 # About This Course {-}
 
@@ -330,41 +364,39 @@ If you have general feedback or wish to report an issue, please use the [`Report
 * [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 
 
-## Why a Hebrew Grammar course {- #motivation}
+## Why an HLI Hebrew Grammar Course {- #motivation}
 
 If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
 
-***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful; but, we also noticed other students began to drop off between lessons 12 and 16, after the lessons on the Aleph-Bet. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.
+***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful.  We began to notice that many other students began to drop off between lessons 12 and 16, after the lessons on the Aleph-Bet. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.  
+
+As a result, several of our students have asked us for a grammar resource to supplement _Hebrew Quest_.  
 
 As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
 
 1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u> 
-    * Sometimes these are too easy, and we tend not to learn very much
-    * Additionally, with this format, there is no way for a student to get feedback on progress
-    
 2. <u>Academic/Seminary level textbooks and courses</u>
-    * These materials are incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures and exams
-    * The pace is usually fast, and the stress level is high, focusing on due dates and grades.<small>^[<small>For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.</small>]</small>.
-    * The textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)<small>^[<small>For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible.</small>]</small>
+
+These two are often opposite extremes.  Self-paced courses can have too little structure, and often provide only a superficial review of Hebrew.  At the end, the student may only be slightly more prepared to read the Hebrew Bible than if they had not done the course.  There is also limited feedback opportunities as these courses are designed for independent learning.  On the other hand, seminary courses and seminary-level textbooks are usually incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures and exams. Academic courses are fast-paced and high-stress <small>^[<small>For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.</small>]</small>. Textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)<small>^[<small>For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible.</small>]</small>
    
-Additionally, with either option, our students would incur additional fees to purchase these materials.
+Additionally, with either option, our Holy Language students would incur additional fees to purchase these materials.  Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for the majority of our students.
 
-Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for our students.
+See the next section to how Hebrew GRAMMAR Quest is distinct.
 
-<div align="right">_(continued)_</div>
-
-## Why Our Course is Distinct {- #our_course}
+## How our course Is distinct {- #our_course}
 
 Our goals for a Hebrew grammar course are the following:
 
-* Academically challenging, but with a low-stress level
-* Primary emphasis on understanding God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.
-* Self-paced for independent learning but with mechanisms to provide feedback, encouragement, and ways to celebrate students' accomplishments in the course
-* Aligns with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
-* Compliments (not replaces) and integrates with _Hebrew Quest_
-* Inexpensive and straightforward to develop, deliver, and maintain
-* Free of charge for our students
-* Most importantly, the course must be Yeshua-centered that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+* Academically CHALLENGING, but with a LOW-STRESS level
+* Primary emphasis on READING and UNDERSTANDING God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.  We do not make writing or speaking in Hebrew a priority<small>^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Those who are seeking (or whose position requires) more of an academic/seminary type of setting might fare better with a traditional, instructor-led, Hebrew course; but the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!</small>]</small>.
+* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
+* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
+* COMPLIMENTS and INTEGRATES with _Hebrew Quest_, but does not replace it
+* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward to develop, deliver, and maintain
+* FREE of charge for our students
+* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+
+Essentially, we are trying to take the best attributes of a self-paced course and merge them with the best attributes of a seminary-level Hebrew course!  
 
 We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
 
@@ -389,27 +421,25 @@ Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of 
     * Students will read through the passage and compose a translation
     * They will then watch Izzy's _Hebrew Quest_ teaching video explaining the passage
 
-## Completion of _Hebrew Quest_ is NOT a Prerequisite! {- #finish_hq}
+## Completion of _Hebrew Quest_ is NOT a prerequisite! {- #finish_hq}
 
-If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  If you _have not_ finished, it's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
+It's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
 
-Maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
+If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step to go deeper.
 
-This grammar course starts from the beginning (with learning the Aleph-bet) and assumes no prior knowledge of Hebrew.  However, the more of Hebrew Quest you have completed, the more comfortable you may find it is to work through the grammar material.
+On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
 
-As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest.
+As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest.  _Hebrew Quest_ [videos are here](https://holylanguage.com/quest.html){target="_blank"} and accompanying [Memrise module is here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}.
 
-To say it differently, Hebrew Quest and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
+To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
 
-* The more Hebrew Quest you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
-* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of Hebrew Quest
-* Either way, you can't go wrong!  The most important thing is to start.
-
-Whichever direction you take, we would encourage you to ultimately complete both **Hebrew Quest** and **Hebrew GRAMMAR Quest**.  
+* The more _Hebrew Quest_ you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
+* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of _Hebrew Quest_ (especially _Hebrew Quest_ Lessons 13-40)
+* Either way, you can't go wrong!  The most important thing is to start, and ultimately complete both.
 
 
 ::: {.box .map}
-Let's get started on our Hebrew GRAMMAR Quest!
+Let's get started!
 :::
 
 <!--chapter:end:001N-introduction.Rmd-->
@@ -452,14 +482,10 @@ In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like
 
 If you are eager to jump right in with Lesson 1, we understand.  We are also excited for you to start!
 
-"Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing<small>^[<small>See discussion on ["The Fog"](#the-fog) in the appendix</small>]</small>
+"Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing.
 
+BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIMINARY` TASKS ON YOUR `COURSE CHECKLIST` AND ARE READY TO GO WITH `ANKI`!
 
-Before continuing, make sure of the following:
-
-*  You understand what [a typical lesson](#typical-lesson) will include
-*  You followed the steps on our [Quick Start Instructions](#get_started), are ready go to with `Anki` and have your `Course Checklist` downloaded to track your progress
- 
 :::
 
 ## First Thought {-}
@@ -646,6 +672,7 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 2. Practice writing the entire AlephBet until you can do it FIVE times from memory.  This will also be an instruction on the Quest Quiz.
 
 
+
 ## Ruth Pursuit {-}
 
 * This is a QUEST activity, similar to "bag the letters" from _Hebrew Quest_.  
@@ -666,7 +693,7 @@ YOUR QUEST
     * Naomi - spelled <span class="he">נָעֳמִי</span> 
     * Bethlehem - spelled <span class="he">בֵּית לֶחֶם  </span>, also "from Bethlehem" - <span class="he">מִבֵּית לֶחֶם</span>
         * Our one word "Bethlehem" is two words in Hebrew: <span class="he">בֵּית</span> means "house of" and  <span class="he">לֶחֶם</span> means "bread"
-    * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
+    * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span><small>^[<small>As a taste of what is to come, this word מֹאֲבִיּוֹת has 1) defective spelling - notice how the Vav in מוֹאָב is not in מֹאֲבִיּוֹת? (Lesson 2), 2) propretonic reducticn - Compare the markings under the aleph in מֹאֲבִיּוֹת as compared to מוֹאָב. (Lesson 3), and a 3) Feminine plural suffix - Notice the Vav + Tav in מֹאֲבִיּוֹת are not present in מוֹאָב. (Lesson 4)</small>]</small>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
 :::
 
 
@@ -679,14 +706,14 @@ YOUR QUEST
     * We started with the simple words in the previous section
     * Towards the end of the course, you will be translating complex verbs
 * We want you to keep track of your progress, because in Unit 4, you will know enough Hebrew to compose your own translation of Ruth 1
-* After you finish each `Ruth Pursuit`, be sure to update your worksheet
+* After you finish each `Ruth Pursuit`, be sure to update the `Ruth 1 Translation` tab in your course checklist
 
 ::: {.box .map}
 RUTH PURSUIT TRANSLATION WORKSHEET INSTRUCTIONS
 
 * Download and open your `Hebrew GRAMMAR Quest Checklist` if you haven't already done so
 * Find the `Ruth 1 Translation` tab
-* As you identify complete words (not the individual letters), enter the English meaning next to the applicable word
+* As you identify complete words (not the individual letters), enter the English meaning next to the applicable word - note that the same word may occur multiple times in the passage
     * For example, next to each occurrence of <span class="he">מוֹאָב</span>, type the word `Moab`, for <span class="he">רוּת</span>, enter "Ruth" and so forth
     * You might want to make a note of the Lesson # (in this case "1") in case you need to refer back
     * There is also a column for any notes you wish to make
@@ -1336,7 +1363,7 @@ Then after watching these, go ahead and jump into `Anki`.
 * `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
 * `Lesson 03 B. Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
 * `Lesson 03 C. Study Verses`
-  * This is also the verse lesson using the <u>Basics of Biblical Hebrew</u> study verses.
+  * This is also the first lesson using the <u>Basics of Biblical Hebrew</u> study verses.
   * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
   * Be patient and stick with it - you'll get it!
 
@@ -1386,6 +1413,22 @@ YOUR QUEST
 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" frameborder="0"></iframe>
+</div>
+
+## Claim your `Unit 1 Completion Certificate`! {-}
+
+If you have completed **all activities** in Lessons 1, 2, and 3, you may claim the first of our `Unit Completion Certificates`.
+
+::: {.box .caution}
+* Note that the Anki Requirement for the `Unit Completin Certificate` is different from the requirement for the `12 Tribes Badges`.
+* You must submit a screenshot showing that all cards are **MATURE**
+  * No cards may be "New", "Young", "Suspended", or "buried"
+  * From the Anki manual, ["A mature card is one that has an interval of 21 days or greater"](https://docs.ankiweb.net/#/stats?id=types-of-cards){target="_blank"}
+* See the `Hebrew Grammar Quest Checklist` for additional information
+:::
+
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
 </div>
 
 <!--chapter:end:03-Syllabification.Rmd-->
@@ -1990,9 +2033,8 @@ YOUR QUEST
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have completed **all activities** through this lesson, then fill out the form below.
 
-[Check to be sure you have completed all ACTIVities here](https://forms.gle/vgjsvL4QNMXzkcAE6){target="_blank"}, complete the certification below, and your badge will be on its way!
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
 <!-- Tribe Badge 2 = Benjamin -->
 
@@ -2517,21 +2559,19 @@ Curiously, there are a lack of adjectives in Ruth 1.  There are participles, whi
 
 [Open Quest Quiz #07 in a new window](https://forms.gle/uYiUgRBWeRJikaR57){target="_blank"}
 
-<div class="container">
+<div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdheixGPVo9sfn-K51QEgjP8qaZQyqd2uQY6yAGV4hn8vqYyg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
 <!-- Tribe Badge 3 = Dan -->
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf0XIRTMiuOVLITH3DMpt8xDygItycZgs9JY3uIAc1ntmVoow/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://forms.gle/u7NiyG7MzE4inxj86" frameborder="0"></iframe>
 </div>
 
 <!--chapter:end:07-Adjectives.Rmd-->
@@ -3348,16 +3388,17 @@ As always, words may have prefixes or suffixes.  Try to identify whether the con
 <iframe class="responsive-iframe" src="https://forms.gle/ST6XfCvKRXHRfxfVA" frameborder="0"></iframe>
 </div>
 
+https://forms.gle/7X1tmBcU5WtGT46A7
+
 ## Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
 
-[Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
 <!-- Tribe Badge 4 = gad -->
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfQN__POt8uRnfPCRkaMILJgh7-cXMWbGna1GavqC4j0aQ5rw/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/7X1tmBcU5WtGT46A7" frameborder="0"></iframe>
 </div>
 
 <!--chapter:end:10-ConstructChain.Rmd-->
@@ -3545,13 +3586,13 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 </div>
 
 
-## x Verses Warm-up` {-}
+## Verses Warm-up` {-}
 
 
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/JeU84P1AdEM){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/JeU84P1AdEM" frameborder="0"></iframe>
 </div>
 
 
@@ -3579,6 +3620,20 @@ YOUR QUEST
 
 * [Ruth Pursuit Answer Key #11](./images/11_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
+## Claim your Unit 2 Completion Certificate! {-}
+
+If you have completed **all activities** in Lessons 1-11, you may claim the second `Unit Completion Certificates`.
+
+::: {.box .caution}
+* Reminder that the Anki Requirement for the `Unit Completin Certificate` is different from the requirement for the `12 Tribes Badges`.
+* You must submit a screenshot showing that all cards are **MATURE**
+* No cards may be "New", "Young", "Suspended", or "buried"
+* See the `Hebrew Grammar Quest Checklist` for additional information
+:::
+
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
+</div>
 
 
 <!--chapter:end:11-Numerals.Rmd-->
@@ -4061,7 +4116,7 @@ Find the following miscellaneous words:
 
 
 
-## OPTIONAL: _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
 
 
 
@@ -4455,17 +4510,17 @@ YOUR QUEST:
 
 
 
-## X Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+<!-- Lesson 13 Tribe Badge 5 = Issachar -->
 
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://forms.gle/ywRYeNmuKkK441Pj9" frameborder="0"></iframe>
 </div>
 
-## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #5-7 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #5-7 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -4810,16 +4865,8 @@ Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are v
 * [Ruth Pursuit Answer Key #14](./images/14_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## X Quest Quiz {-}
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-
-## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #8-10 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #8-10 {-}
 
 
 
@@ -5068,7 +5115,7 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 
 ## Worksheets: Qal Imperfect Strong Paradigm {-}
 
-> Complete the paradigm from memory at least once, then return here and continue in the guidebook.
+Complete the paradigm from memory at least once, then return here and continue in the guidebook.
 
 [Qal Imperfect Strong Paradigm](15_qal_imperfect_strong_paradigm.pdf){target="_blank"}
 
@@ -5089,16 +5136,8 @@ Identify and translate the Qal Verbs below.
 * [Ruth Pursuit Answer Key #15](./images/15_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## X Quest Quiz {-}
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-
-## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -5497,26 +5536,20 @@ Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar wo
 
 
 
-## X Quest Quiz {-}
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
+## Claim your next `Twelve Tribes Badge`! {-}
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
+<!-- Lesson 16 Tribe Badge 6 = Joseph -->
 
 Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
 
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://forms.gle/y2JPkZAxVGEsmACr6" frameborder="0"></iframe>
 </div>
 
 
-## OPTIONAL:  _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -5720,6 +5753,7 @@ Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫א�
 
 ## Worksheets: Qal Vav-Consecutive Paradigms {-}
 
+Complete the paradigm from memory at least once.
 
 [Qal Vav-consecutive Paradigms](17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
 
@@ -5750,37 +5784,33 @@ YOUR QUEST
 
 
 
-## Hebrew Quest Study Passage: Genesis 1:1-5 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Genesis 1:1-5 {-}
 
-[Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/edit?usp=sharing){target="_blank"}
+With this lesson, we move away from the selected verses in Proverbs to lengthier study passages.
 
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-1. Read through the passage straight through
+1. Read through the passage - [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/17/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+:::
 
-## X Quest Quiz {-}
+::: {.box .info}
+MEMRISE
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+* If your goal is to simultaneously complete both _Hebrew Quest_ and Hebrew GRAMMAR Quest, you may wish to complete the associated _Hebrew Quest_ passage memorization in Memrise
+* The Genesis passage begins in [Memrise Level 17](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/17/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}
+    * Note that the Memrise work may contain vocabulary and passages in addition to the study passage (for example Names of God, Titles of Messiah, Terms of Love/Friendship, and Proverbs)
+* Although the majority of time in each _Hebrew Quest_ lesson is spent on the Study Passages, be sure to set aside time to watch the lesson's video in its entirety in order to meet the _Hebrew Quest_ Graduation requirements (also be sure to complete any videos/Memrise modules for Lessons 1-16 that you have not completed)
+* See additional resources on the Holylanguage.com page:
+    * [Hebrew Quest Overview](https://holylanguage.com/quest.html){target="_blank"}
+    * [Hebrew Quest Graduation](https://holylanguage.com/graduate.html){target="_blank"}
+    * [Memrise](https://holylanguage.com/memrise.html){target="_blank"}
+:::
 
 <!--chapter:end:17-Vav_Consecutive.Rmd-->
 
@@ -6021,9 +6051,10 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 ## Worksheets: Qal Volitional Forms {-}
 
-Qal Volitional Forms
+Complete the Qal Volitional paradigm from memory at least once.
 
-[Name of worksheet](18_qal_volitive_paradigm.pdf){target="_blank"}
+
+[Qal Volitional Forms](18_qal_volitive_paradigm.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}   
 
@@ -6038,39 +6069,20 @@ YOUR QUEST
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #18](./images/18_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
+## OPTIONAL _Hebrew Quest_ Study Passage: The Shema {-}
 
 
-## Hebrew Quest Study Passage: The Shema {-}
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-[Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/edit?usp=sharing){target="_blank"}
-
-
-1. Read through the passage straight through
+1. Read through the passage - [Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+Also, as desired, continue with Memrise for this and all future study passage sections
+:::
 
 <!--chapter:end:18-Qal_Imperative_strong.Rmd-->
 
@@ -6081,8 +6093,6 @@ There is good news and bad news with pronominal suffixes.  The good news is that
 The more challenging aspects can include significant spelling and accent changes, which result in a few forms that are identical.  For these we can only depend on context to help us translate correctly.
 
 One of the first vocabulary words in _Hebrew Quest_ was **וּכְתַטְתָּם***.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
-
-
 
 
 
@@ -6107,13 +6117,13 @@ Before continuing, can you describe the following concepts?
 *
 :::
 
-## X First Thought {-}
+##  First Thought {-}
 
-### X <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
+### <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
 
 *I have called upon You, for You will answer me, O God; Incline Your ear to me, hear my speech. (Psalms 17:6)*
 
-Imagine walking along a path like the one below on a day Yeshua taught in this very area. What would you be thinking and feeling?  
+Imagine walking along a path like the one pictured below on a day Yeshua taught in this very area. What would you be thinking and feeling?  
 
 * Would you be giddy, as if if you got special access to a famous entertainer or dignitary?  Would you try to get His autograph or a selfie with Him?
 * Would you be skeptical, wondering whether this Yeshua you have heard about is really "all that"?  In the back of your mind, would you even be questioning whether He is a fraud?
@@ -6229,111 +6239,6 @@ Meditate on that as you work through this lesson and, especially, as you study t
 | <span class="he">יְטָלוּ</span> | <span class="he">יְטָלוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
 
 
-
-<!-- FOR STRONG VERB CHAPTERS -->
-
-## X <stem> Verb Stem Table 
-
-
-
-## X <stem> Meanings
-
-
-
-## X <stem> Strong Word-initial Combinations 
-
-
-## X <stem> Strong Stem Vowels 
-
-## X <stem>: what to memorize
-
-## X <stem> Perfect Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 3ms | *****  | 3cp | ***** 
-| 3fs | ***** | 
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-| 1cs | ***** | 1cp | *****
-
-<figure>
-    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-## X <stem> Imperfect Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 3ms | *****  | 3mp | ***** 
-| 3fs | ***** | 3fp | *****
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-| 1cs | ***** | 1cp | *****
-
-<figure>
-    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-## X <stem> Imperative Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-
-## X <stem> Infinitives Strong
-
-
-| Type | Paradigm 
-| :-  | :- 
-| ∞ | *****  
-| A | *****
-
-## X <stem> Participle Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| ms | ***** | mp | *****
-| fs | ***** | fp | *****
-
-## X <stem> Parsing Examples
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/VnY-EzVTywk){target="_blank"}
@@ -6357,37 +6262,30 @@ Meditate on that as you work through this lesson and, especially, as you study t
 
 Most verbal pronominal suffixes in Ruth 1 are on Qal Infinitive Construct conjugations.  We will study these in lesson 20.  Therefore, there is is no `Ruth Pursuit` for lesson 19.
 
-## Hebrew Quest Study Passage: Matthew 6 {-}
 
-[Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/edit?usp=sharing){target="_blank"}
+## Claim your next `Twelve Tribes Badge`! {-}
 
 
-1. Read through the passage straight through
+<!-- Lesson 19 Tribe Badge 7 = Judah -->
+
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/4Q8STELkBPRy6mEw8" frameborder="0"></iframe>
+</div>
+
+## OPTIONAL _Hebrew Quest_ Study Passage: Matthew 6 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. Read through the passage - [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:19-Pronominal_Suffix_Verbs.Rmd-->
 
@@ -6610,37 +6508,18 @@ YOUR QUEST
 
 
 
-## Hebrew Quest Study Passage: Genesis 22:1-19 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Genesis 22:1-19 {-}
 
-[Blank copy of Genesis 22:1-19](https://docs.google.com/document/d/1zpIOg9zyDv_qPK9f69QexbIlBhH6wKO74YkPz3xpurI/edit?usp=sharing){target="_blank"}
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-
-1. Read through the passage straight through
+1. Read through the passage - [Blank copy of Genesis 22:1-19](https://docs.google.com/document/d/1zpIOg9zyDv_qPK9f69QexbIlBhH6wKO74YkPz3xpurI/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-22.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:20-Qal_Infinitive_Construct.Rmd-->
 
@@ -6795,14 +6674,13 @@ English equivalent | Verbal noun "to do" or "doing" | No direct equivalent
 
 ## Ruth Pursuit {-}   
 
+There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!), but we do have a few words for you to identify
+
 ::: {.box .map} 
-YOUR QUEST
-
-
-There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!)
+YOUR QUEST:
 
 1. Identify the particle affirming the existence of someone or something (yellow)
-2. Identify the Lesson 21 vocabulary word for "faminine" (green)
+2. Identify the Lesson 21 vocabulary word for "famine" (green)
 3. A vocabulary verb for this lesson was <span class="he">נוּחַ</span>.  Identify the FS noun in Ruth 1 that is derived from this verb. (blue)
 
 :::
@@ -6812,37 +6690,18 @@ There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!)
 
 
 
-## Hebrew Quest Study Passage: Numbers 6: Priestly Blessing {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Aaronic/Priestly Blessing {-}
 
-[Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-
-1. Read through the passage straight through
+1. Read through the passage - [Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:21-Qal_Infinitive_Absolute.Rmd-->
 
@@ -7044,41 +6903,31 @@ Identify the one Participle in Ruth 1.  You might recall that we discussed this 
 * [Ruth Pursuit Answer Key #22](./images/22_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
+## Claim your next `Twelve Tribes Badge`! {-}
 
-## Hebrew Quest Study Passage: Matthew 13 {-}
+<!-- Lesson 22 Tribe Badge 8 = LEVI -->
 
-[Blank copy of Matthew 13](https://docs.google.com/document/d/1rl--X01fxApzUiadlxg68F6qVcx_nEsYlJP5LCGSsxo/edit?usp=sharing){target="_blank"}
+Check to be sure you have have completed all activities through this lesson, then fill out the form below.
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/ncXmf7QRuoYCL3hz8" frameborder="0"></iframe>
+</div>
 
 
-1. Read through the passage straight through
+## OPTIONAL _Hebrew Quest_ Study Passage: Matthew 13 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. Read through the passage - [Blank copy of Matthew 13](https://docs.google.com/document/d/1rl--X01fxApzUiadlxg68F6qVcx_nEsYlJP5LCGSsxo/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3. Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)
     * [Part 1](https://holylanguage.com/matthew-13.1.php){target="_blank"}
     * [Part 2](https://holylanguage.com/matthew-13.2.php){target="_blank"}
-
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:22-Qal_Participle.Rmd-->
 
@@ -7323,25 +7172,28 @@ There is no formal quest for this lesson, but consider the following points base
     * Also note in 1:21 the Disjunctive Vav clauses, "And Adonai" followed by "And Shaddai."  Chisholm notes that the use may be "semi-poetic": "Adonai has testified about me; Shaddai has afflicted me"<small>^[<small>ibid. p. 133</small>]</small>.
 * Finally the Iwc in 1:22 begins a summarizing, concluding statement bringing the "first act" of the drama to a close.
 
-## Hebrew Quest Study Passage: Psalm 19 {-}
+## Claim your Unit 3 Completion Certificate! {-}
 
-[Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/edit?usp=sharing){target="_blank"}
+If you have completed **all activities** in Lessons 1-23, you may claim the third `Unit Completion Certificates`.
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
+</div>
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-19.php){target="_blank"}
-4. After the video, assess your translation.  How close was it.
-5. How did the Ruach HaQodesh speak to you through the passage.
-
-Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/26/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+## OPTIONAL _Hebrew Quest_ Study Passage: Psalm 19 {-}
 
 
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. Read through the passage - [Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/edit?usp=sharing){target="_blank"}
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-19.php){target="_blank"}
+4. After the video, assess your translation.  How close was it?
+5. How did the Ruach HaQodesh speak to you through the passage?
+
+:::
 
 
 
@@ -7808,19 +7660,18 @@ Again, you do NOT need to have the Niphal paradigms memorized (although that may
 [Niphal Strong Paradigm](24_niphal_strong_paradigms.pdf){target="_blank"}
 
 
-## Hebrew Quest Study Passage: Numbers 15 {-}
+## Optional _Hebrew Quest_ Study Passage: Numbers 15 {-}
 
-[Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/view?usp=sharing){target="_blank"}
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-1. Read through the passage straight through
+1. Read the passage - [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/view?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
     * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaQodesh speak to you through the passage?
-6. Complete associated Memrise module [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
 :::
 
 
@@ -8043,39 +7894,28 @@ By now, if you have been completing your `Ruth Pursuit` table along with each Le
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #25](./images/25_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
+## Claim your next `Twelve Tribes Badge`! {-}
+
+<!-- Lesson 25 Tribe Badge 9 = Naftali -->
+
+Check to be sure you have have completed all activities through this lesson, then fill out the form below.
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/ScmbVPvSFGLW9P9p8" frameborder="0"></iframe>
+</div>
 
 
-## Hebrew Quest Study Passage: John 1 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: John 1 {-}
 
-[Blank copy of John 1 in Hebrew](https://docs.google.com/document/d/1jWt3rS5Z5az2X_gCRO4Wg9mS4svUIHa5CrjUoqg-xnk/view?usp=sharing){target="_blank"}
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-
-1. Read through the passage straight through
+1. Read the passage - [Blank copy of John 1 in Hebrew](https://docs.google.com/document/d/1jWt3rS5Z5az2X_gCRO4Wg9mS4svUIHa5CrjUoqg-xnk/view?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/john-1.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:25-Niphal_Weak.Rmd-->
 
@@ -8388,7 +8228,7 @@ Use your knowledge of the $Pre$, $Suf$, and $V_S$ of the Piel stem, complete the
 
 Strive for pattern recognition over rote memorization.
 
-[Name of worksheet](26_piel_strong_paradigms.pdf){target="_blank"}
+[Piel Strong Worksheet](26_piel_strong_paradigms.pdf){target="_blank"}
 
 ## Ruth Pursuit Analysis
 
@@ -8404,46 +8244,29 @@ YOUR QUEST
 1. Read Ruth 1:1-6 in the Hebrew text and underline any words or forms do you not recognize
     * For the first time, try doing this without any study aids, including your `Ruth Pursuit Translation Worksheet`
     * Then as needed, look up the words you don't recognize
-2. Using what you have learned about syntax/phrase constructions and context, provide your own interpretative translation (using whatever resources you'd like!)
+2. Using what you have learned about syntax/phrase constructions and context, compose your own interpretative translation (this time, using whatever resources you'd like!)
     * You may wish to compose a structural outline of "mini-scenes" identified by conjunctive or disjunctive clauses, quotations, or other constructions
-3. Compare your version with translations such as JPS, KJV, ESV, NASB, NIV, or NLT.  
-    * At what points do you agree and disagree with translation decisions made by these publications?  It's OK to disagree!
+3. Compare your version with translations of your choice.  These may include JPS, KJV, ESV, NASB, NIV, or NLT.  
+    * At what points do you agree and disagree with translation decisions made by these publications? 
 
 This exercise is for you.  You do not have to turn this in and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their edification. 
 
 :::
 
-## Hebrew Quest Study Passage: Exodus 31 {-}
-
-[Blank copy of Exodus 31](https://docs.google.com/document/d/1uRkk2MNy6-8CqSzXQAadDqhnHqUTI6i7Bd6OOxCbYjQ/edit?usp=sharing){target="_blank"}
+## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 31 {-}
 
 
-1. Read through the passage straight through
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read the passage - [Blank copy of Exodus 31](https://docs.google.com/document/d/1uRkk2MNy6-8CqSzXQAadDqhnHqUTI6i7Bd6OOxCbYjQ/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/exodus-31.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
+    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31){target="_blank"}
+
 5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/29/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:26-Piel_Strong.Rmd-->
 
@@ -8675,40 +8498,20 @@ Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 =
 
 ## Hebrew Quest Study Passages: Psalms 1 and 27 {-}
 
-[Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/edit?usp=sharing){target="_blank"}
 
-[Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/edit?usp=sharing){target="_blank"}
+::: {.box .map}
+YOUR HEBREW QUEST
 
-
-1. Read through the passages straight through
+1. Read the passages
+    * [Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/edit?usp=sharing){target="_blank"}
+    * [Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3. Watch Izzy's _Hebrew Quest_ videos
     * [Psalm 1](https://holylanguage.com/psalm-1.php){target="_blank"}
     * [Psalm 27](https://holylanguage.com/psalm-27.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/30/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-
+:::
 
 <!--chapter:end:27-Piel_Weak.Rmd-->
 
@@ -8829,7 +8632,7 @@ The Qibbuts under the first root consonant distinguishes the Pual Form
 * Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
 * Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
 
-## X Perfect  
+## Perfect  
 
 Qibbuts in $V_1$ always
 
@@ -8845,14 +8648,14 @@ Qibbuts in $V_1$ always
     <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/.mp3">
+        src="./images/28_pual_perfect.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
 
 
-## X Imperfect  
+## Imperfect  
 
 * Qibbuts in $V_1 = U$ always
 * If there is a preformative, $V_P = \ :$ always
@@ -8866,17 +8669,17 @@ Qibbuts in $V_1$ always
 | 1cs | <span class="he">אֲקֻטַּל</span> | 1cp | <span class="he">נְקֻטַּל</span>
 
 <figure>
-    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <figcaption>Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/.mp3">
+        src="./images/28_pual_imperfect.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
 
 
-## X Participle
+## Participle
 
 * Qibbuts in $V_1$ always
 * Mem+Sheva prefix always
@@ -8916,6 +8719,13 @@ Hithpael | תִמְ
 
 
 <img src="images/28_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
+
+## Worksheets: Pual Paradigm {-}
+
+After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
+
+[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
+
 
 ## Word Warm-up {-}
 
@@ -8957,25 +8767,15 @@ YOUR QUEST
 This exercise is for you.  You do not have to turn this in and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their edification. 
 
 
+## Claim your next `Twelve Tribes Badge`! {-}
 
+<!-- Lesson 28 Tribe Badge 10 = Reuben -->
 
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+Check to be sure you have have completed all activities through this lesson, then fill out the form below.
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://forms.gle/QC5VgJExb9R89Yde8" frameborder="0"></iframe>
 </div>
-
-## OPTIONAL Worksheets: Pual Paradigm {-}
-
-After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
-
-[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
-
 
 
 ## OPTIONAL Hebrew Quest Study Passage: Revelation 1 {-}
@@ -8983,13 +8783,11 @@ After you have memorized the information in the "what to memorize" section, see 
 ::: {.box .map}
 YOUR HEBREW QUEST
 
-1. Read through the passage straight through - [Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/copy){target="_blank"}
+1. Read the passage - [Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
 4. After the video, compare your translation with versions such as ESV, NASB, NIV and/or NLT. How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
-6. Complete associated Memrise module [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/31/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
 :::
 
 
@@ -9018,7 +8816,7 @@ Before continuing, can you describe the following concepts?
 * Pual strong diagnostics (Lesson 28)
 :::
 
-## X First Thought {-}
+## First Thought {-}
 
 ### <span class="he">גִּבּ֣וֹר בָּ֭אָרֶץ יִהְיֶ֣ה זַרְע֑וֹ דּ֭וֹר יְשָׁרִ֣ים יְבֹרָֽךְ׃</span> {-}
 
@@ -9088,43 +8886,22 @@ In every respect except for $V_S = A$, this is identical to the Polel stem for t
 
 ## Ruth Pursuit 
 
-Not surprisingly, there are not Pual verbs in Ruth 1.  We'll skip the `Ruth Pursuit` for this lesson.
+Not surprisingly, there are no Pual verbs in Ruth 1.  We'll skip the `Ruth Pursuit` for this lesson.
 
 
 
+## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 145 {-}
 
 
-## Hebrew Quest Study Passage: Psalms 145 {-}
+::: {.box .map}
+YOUR HEBREW QUEST
 
-[Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/edit?usp=sharing){target="_blank"}
-
-
-1. Read through the passage straight through
+1. Read the passage - [Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:29-Pual_Weak.Rmd-->
 
@@ -9425,48 +9202,25 @@ YOUR QUEST
 
 
 
-## Hebrew Quest Study Passage: Exodus 19 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 19 {-}
 
-[Blank copy of Exodus 19](https://docs.google.com/document/d/1OGYrVxUGGPbwi8ioGi1bnt_vwA4YCNE2XZ2l3GQ8rQM/edit?usp=sharing){target="_blank"}
 
-* DO: `File | Make a copy` to store in your local Google Drive so you can highlight and edit
-* DON'T: `Request Edit Access`
+::: {.box .map}
+YOUR HEBREW QUEST
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
+1. Read the passage - [Blank copy of Exodus 19](https://docs.google.com/document/d/1OGYrVxUGGPbwi8ioGi1bnt_vwA4YCNE2XZ2l3GQ8rQM/edit?usp=sharing){target="_blank"}
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-33.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
     * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Exocus/19){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/33/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
+:::
 
 
 <!--chapter:end:30-Hiphil-Strong.Rmd-->
 
-# The Hiphil Stem - Weak Verbs {.H-w}
+# The X Hiphil Stem - Weak Verbs {.H-w}
 
 
 > To comprehend Biblical Hebrew, we must be able to . . . 
@@ -9535,27 +9289,45 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 * Gutturals take Hateph, not Sheva
     * In Hiphil Strong, $V_1$ always takes Sheva
     
+## Strong Summary
+
+* In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
+    * The exceptions come when $R_1$ is a weak letter (discussed in Lesson 31)
+* Hiphil Beginning Combination:
+    * <span class="he">ְ הִ</span> - HP
+    * <span class="he">ְ יַ</span> - (etc) HI
+    * <span class="he">ְ הַ</span> - HM/H∞/HA
+    * <span class="he">ְ מַ</span> - HPt
+* $V_S = Î[A] \sim Î(Ē)$
+    * It's important to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
+    
 
 ## 1-Guttural
 
 * Hiphil 1G $V_1$ takes Hateph vowel - $V_P$ affected by Rule of Sheva
-    * HP -<span class="he">הֶעֱמִיד</span>
-    * All others:<span class="he">יַעֲמִיד</span>
-        * Qal Imperfect also begins<span class="he">יַעֲ</span>
-        * Distinguish by Hiphil $V_S = \hat I$, which never reduces  -<span class="he">יַעֲמִיד</span>
-        * Qal $V_S = O$ -<span class="he">יַעֲמֹד</span>
+* HP -<span class="he">הֶעֱמִיד</span>
+* All others:<span class="he">יַעֲמִיד</span>
+    * Qal Imperfect also begins<span class="he">יַעֲ</span>
+    * Distinguish by Hiphil $V_S = \hat I$, which never reduces  -<span class="he">יַעֲמִיד</span>
+    * Qal $V_S = O$ -<span class="he">יַעֲמֹד</span>
+* 3-Hei lose the stem vowel and are ambiguous<span class="he">יַעֲלֶה</span> - (Q/H)I3ms
 
 
 ## 3-Hei
 
-3-Hei lose the stem vowel and are ambiguous<span class="he">יַעֲלֶה</span> - (Q/H)I3ms
-
-
-
-## X <stem>: what to memorize
 
 ## Top 10 Hiphil Verbs
 
+1. <span class="he">בּוֺא</span> - (Q) to go in, enter, come to; (H) bring (in), come (in) (557x in the Hiphil)
+1. <span class="he">נָכָה</span> - (H) to strike, smite, beat, strike dead, destroy, injure (482x)
+1. <span class="he">שׁוּב</span> - (Q) to turn back, return, go back; (H) cause to return, bring back, give back (364x)
+1. <span class="he">נָגַד</span> - (H) to tell, announce, report, declare, inform (336x)
+1. <span class="he">יָצָא</span> - (Q) to go (come) out, go (come) forth; (H) cause to go (come) out, bring forth (282x)
+1. <span class="he">עָלָה</span> - (Q) to go up, ascend; (H) bring or lead up or out, offer up (sacrifice); (260x)
+1. <span class="he">נָצַל</span> - (H) tear from, take away, deliver from (191x)
+1. <span class="he">יָשַׁע</span> - (H) help, save, deliver, rescue, come to the aid of (184x)
+1. <span class="he">קָרַב</span> - (Q) to approach, draw near; (H) bring (near), present, offer a sacrifice (177x)
+1. <span class="he">יָלַד</span> - (Q) to bear (children), give birth, beget; (H) beget, become the father of (176x)
 
 
 ## Word Warm-up {-}
@@ -9593,38 +9365,28 @@ Make sure you are able to identify the diagnostic indicators of these Hiphil ver
 * [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
+## Claim your next `Twelve Tribes Badge`! {-}
 
-## Hebrew Quest Study Passage: Exodus 20 {-}
+<!-- Lesson 31 Tribe Badge 11 = SIMEON -->
 
-[Blank copy of Book ##](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
+Check to be sure you have have completed all activities through this lesson, then fill out the form below.
 
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/gD1doxWveXuijHUF6" frameborder="0"></iframe>
+</div>
 
-1. Read through the passage straight through
+## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 20 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST
+
+1. Read the passage - [Blank copy of Exodus 20](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-34.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/34/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::
 
 <!--chapter:end:31-Hiphil-Weak.Rmd-->
 
@@ -9844,12 +9606,12 @@ Hithpael | תִמְ
 </div>
 
 
-## OPTIONAL: Hophal Parsing Worksheet {-}
+## Hophal Strong Worksheet {-}
 
-If you desire additional paradigm practice, you may use this [Hophal parsing worksheet](./images/32_hophal_strong_paradigms.pdf){target="_blank"}
+Complete this [Hophal parsing worksheet](./images/32_hophal_strong_paradigms.pdf){target="_blank"} using the concepts discussed in this lesson.  Paradigm memorization should not be necessary.
 
      
-
+## Ruth Pursuit {-}
 There are no Hophal verbs in Ruth 1 so there will be no `Ruth Pursuit` for Lessons 32 or 33.
 
 * There ARE two Hophal verbs in 2:11.  Can you find them?
@@ -9876,15 +9638,7 @@ YOUR QUEST
 :::
 
 
-## X Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
 
 ## OPTIONAL Hebrew Quest Study Passage: 1 Samuel 17 {-}
 
@@ -9892,7 +9646,7 @@ Check to be sure you have have completed <span class="he">all activities<span cl
 ::: {.box .map}
 YOUR HEBREW QUEST
 
-1. Read through the passage - [Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/copy){target="_blank"}
+1. Read the passage - [Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
@@ -9904,10 +9658,7 @@ YOUR HEBREW QUEST
     * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, as we discussed in Lesson 17, you may complete the passage memorization in the separate `Anki` deck, or in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/##/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-
+:::
 
 
 
@@ -10021,10 +9772,6 @@ As people of God, we are sometimes faced with situations where we are tempted to
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/sTvLGMtaSpw" frameborder="0"></iframe>
 </div>
-
-
-
-## Ruth Pursuit {-}   
 
 
 
@@ -10283,6 +10030,16 @@ YOUR QUEST
 :::
 
 
+## Claim your next `Twelve Tribes Badge`! {-}
+
+<!-- Lesson 34 Tribe Badge 12 = ZEBULUN -->
+
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/ejQEQDRGZJT1v8jE6" frameborder="0"></iframe>
+</div>
+
 
 ## OPTIONAL _Hebrew Quest_ Study Passage: Leviticus 23 {-}
 
@@ -10476,21 +10233,14 @@ Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael v
 * [Ruth Pursuit Answer Key #35](./images/35_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
+## You did it!  Claim your Diploma! {-}
 
+Once all Anki cards are `Mature`, please complete the attached form to begin the Graduation process and earn your Hebrew GRAMMAR Quest Diploma!      
 
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://forms.gle/eyX82mzkCjoh9oM56" frameborder="0"></iframe>
 </div>
-
-
-## OPTIONAL_Hebrew Quest_ Study Passage: 1 Kings 18 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
 
 
 ::: {.box .map}
@@ -10512,28 +10262,35 @@ YOUR HEBREW QUEST
 
 <!--chapter:end:35-Hitpael_Weak.Rmd-->
 
-# X Conclusion {-}
+# Conclusion {-}
 
 We would like to take a moment and recap all that you have accomplished in His strength.  Each section will also have tips and references on where you can go next.
 
+* Vocabulary
+    * What you have accomplished: 570 of the most common Biblical Hebrew words committed to memory!
+    * Where you can go next: Continue to grow your vocabulary, both by isolated word memorization, such as by learning the top 1000 (or more) Biblical Hebrew words and, of course, by continuing to read your Hebrew Bible.  For word memorization, there are modules on Memrise and Anki that are free (these are not affiliated with Holy Language Institute)
+* Bible Verses
+    * _What you have accomplished_:
+    * _Where you can go next_:
+* Hebrew Quest Study Passages (optional track)
+    * _What you have accomplished_: You have studied 20 distinct passages, most of which were full chapters of the Hebrew Bible or passages from the Delitsch Hebrew New Testament.  You have also completed the 17-lesson "Premium Proverbs" study.
+    * _Where you can go next_:
+        * Complete _Hebrew Quest_ if you have not already done so!
+        * After _Hebrew Quest_, review Izzy's [Hebrew Verses](https://holylanguage.com/verses.html) studies.  Hebrew Verses picks up where Hebrew Quest left off.
+* Ruth
+    * _What you have accomplished_: You have skimmed, if not read entirely through, Ruth Chapter one at least 35 times, and written your own translations.
+    * _Where you can go next_: INTERMEDIATE HEBREW!
+        * You can review [Dr. Beckman's Notes on Ruth](./images/00_Ruth_notes.pdf){target="_blank"}
+    * We can recommend two Intermediate Hebrew books:
+        * [A Workbook for Intermediate Hebrew](https://www.amazon.com/gp/product/0825423902/&tag=holylanginst-20){target="_blank"}, by Robert B. Chisholm, Jr., which contains a verse by verse expositional grammar study through the books of Ruth and Jonah
+        * The same author has [From Exegesis to Exposition: A practical Guide to Using Biblical Hebrew](https://www.amazon.com/gp/product/B009UOG4N4/&tag=holylanginst-20){target="_blank"}
 
 
-## Hebrew Quest Study Passages {-}
 
-You have studied 20 distinct passages, most of which were full chapters of the Hebrew Bible or passages from the Delitsch Hebrew New Testament.  You have also completed the 17-lesson "Premium Proverbs" study.
-
-**Next steps**: If you haven't yet finished _Hebrew Quest_ this is where you should head next.  
-
-## Ruth Pursuit - Intermediate Hebrew {-}   
-
-* You have skimmed, if not read entirely through, Ruth Chapter one at least 35 times!
 
 **Next steps**: Continue with Intermediate Hebrew!
 
-* You can review [Dr. Beckman's Notes on Ruth](./images/00_Ruth_notes.pdf){target="_blank"}
-* We can recommend two Intermediate Hebrew books:
-    * [A Workbook for Intermediate Hebrew](https://www.amazon.com/gp/product/0825423902/&tag=holylanginst-20){target="_blank"}, by Robert B. Chisholm, Jr., which contains a verse by verse expositional grammar study through the books of Ruth and Jonah
-    * The same author has [From Exegesis to Exposition: A practical Guide to Using Biblical Hebrew](https://www.amazon.com/gp/product/B009UOG4N4/&tag=holylanginst-20){target="_blank"}
+
 
 
 
@@ -10542,63 +10299,6 @@ You have studied 20 distinct passages, most of which were full chapters of the H
 # (APPENDIX) Appendices {-} 
 
 <!--chapter:end:40-Appendices.Rmd-->
-
-# Other FAQ {#other_faq}
-
-* [There are many books out there to learn Hebrew.  What makes Hebrew GRAMMAR Quest different?](#hgq_difference)
-* [What are the course Activities?](#activities_faq)
-* [Will I be required to buy anything?](#buy_materials)
-* [Who will (and who might not) benefit from Hebrew GRAMMAR Quest?](#who_benefits)
-* [What if I am a Bible teacher? Should I take this course?](#bible_teacher)
-
-## There are many books out there to learn Hebrew.  What makes Hebrew GRAMMAR Quest different? {- #hgq_difference}
-
-* As we say above, we want students to learn by **doing**
-    * While **Hebrew GRAMMAR Quest** will cover the same concepts as a typical first-year Hebrew textbook, the instructional design team at Holy Language Institute are big proponents of _active_ learning as opposed to passive learning
-    * Reading a book is mostly a passive activity 
-    * Therefore, our goal for this interactive, self-contained book is to provide a quick orientation to the concepts<small>^[<small>If you're looking for a stand-alone textbook, there is none better than <u>Basics of Biblical Hebrew</u>.</small>]</small>
-* Textbooks have their place, but in our view, your "real" learning will take place when you complete the ACTIVities (see the root of the word "active" in there?)
-    * This is the impetus behind the current "flipped classroom" philosophy in traditional education
-
-
-## Will I be required to buy anything? {- #buy_materials} 
-
-* **NO**.  Other than being a subscriber to Holy Language Institute, you will not need to purchase anything for this course (unless you want to)
-* We would like to disclose that the iOS version of the Anki app requires a one-time purchase through the Apple store of $25
-    * Note: Holy Language Institute has nothing to do with this policy and receives nothing should you decide to purchase the app
-    * The developers of Anki provide every other platform for free and say they use the proceeds from the iOS app to fund these different platforms and program enhancements
-    * While the price is steep for an app, most online reviews say the cost is justified (a few pennies a day over a year)
-    * If you have an Apple device and do not wish to purchase the app, you may use a web-based version of mobile Anki at no charge (you won't be able to use it offline)
-
-* There are lots of additional resources available that accompany Basics of Biblical Hebrew for free and to purchase - we will incorporate many of the free resources into this book package
-* In other words, we have designed this book so that you should not need to purchase any additional learning materials
-* With that said, if you wish to purchase _Basics of Biblical Hebrew_ or any of the accompanying resources for a more in-depth Grammar study, some options are below<small>^[<small>Before purchasing, we would like to make our students aware that the authors of these materials take an academic, as opposed to a reverential approach regarding God's Holy Name. You will see the transliteration of the Tetragrammaton printed on nearly every page.  While we believe this is unfortunate and unnecessary, Basics of Biblical Hebrew remains an excellent resource for an in-depth study of first-year Hebrew grammar.</small>]</small> 
-    * [Basics of Biblical Hebrew Textbook](https://www.amazon.com/gp/product/031053349X/&tag=holylanginst-20)
-    * [Basics of Biblical Hebrew Workbook](https://www.amazon.com/gp/product/0310533554/&tag=holylanginst-20)
-    * [Basics of Biblical Hebrew Laminated Reference Card](https://www.amazon.com/gp/product/031026295X/&tag=holylanginst-20)
-    * We would appreciate it if you would use one of the affiliate links, which allows Holy Language Institute to receive a small commission
-    
-## Who will (and who might not) benefit from Hebrew GRAMMAR Quest? {- #who_benefits}
-
-* Hebrew GRAMMAR Quest is focused on reading and understanding Hebrew for the English speaker.
-    * If you desire to read the Hebrew Scriptures in the original language and have a greater comprehension of what you read, this course is for you!
-    * If one was looking to be a fluent writer or speaker<small>^[<small>There are speaking activities beginning with Lesson 3, but this is more to engage additional senses in the learning process and not to become a fluent reader.</small>]</small> of Hebrew, or teach Hebrew in a formal academic setting, this course probably would not fully meet that person's goals (although it would be a terrific first step).
-* This course focuses on Biblical Hebrew, not Modern Hebrew.
-    * If you are looking to translate "can you direct me to the railway station?", we apologize, but this course will not benefit you!
-* Hebrew GRAMMAR Quest is designed to be self-directed and (mostly) stress-free.
-    * By design, it does not have the accountability and rigor of a traditional academic program.
-        * By saying it does not have "academic rigor," we are **NOT** saying this course will be __easy__.
-        * You will likely spend _many_ hours on this course, mostly in Anki.
-        * We believe it will be a tremendous investment you can make for the kingdom and the impact you can have on others.
-        * When you start to see your knowledge building up in Anki, we believe you will find it rewarding and fun as well.
-    * Those who are seeking more of an academic/seminary type of setting might fare better with a traditional, instructor-led, Hebrew course (but the more of THIS course you complete, the easier THAT course will be!).
-    
-## What if I am a Bible teacher? Should I take this course? {- #bible_teacher}
-
-* We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or teacher of a traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text to be able to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.
-    * Additionally, for those who have had first-year Hebrew at seminary (perhaps many years ago) but have struggled to apply knowledge of the original language to their vocation, or for those pastors/teachers who may have never taken a grammar course in Hebrew, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***<small>^[<small>This book's compiler can testify to this!</small>]</small>.
-
-<!--chapter:end:55-faq.RMD-->
 
 # Lexicon 
 
@@ -10642,21 +10342,6 @@ The men and women who followed Yeshua became a safe and loving community. Same w
 [Become a member](https://holylanguage.com/subscribe.html) to access the full Hebrew GRAMMAR Quest course, as well as our complete library of teaching materials.
 
 <!--chapter:end:60-About_HLI.Rmd-->
-
-# Acknowledgments {-}
-
-All honor and glory to Yeshua, our Lord.  שֵׁם יְהוָה אֶקְרָא
-
-
-Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the format of **Hebrew GRAMMAR Quest**.  We encourage any of our students who wish to go further with Hebrew grammar to purchase the textbook or any related materials.
-
-Additionally, our thanks to Dr. John Beckman for making his extensive library of materials to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
-
-Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/) tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have been able to achieve those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free, while maintaining a professional look.
-
-Finally, we thank YOU for your interest in this course! 
-
-<!--chapter:end:60-Acknowledgments.Rmd-->
 
 # About the designer of this book {-}
 

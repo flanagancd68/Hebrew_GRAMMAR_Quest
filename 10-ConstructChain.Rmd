@@ -263,14 +263,15 @@ As always, words may have prefixes or suffixes.  Try to identify whether the con
 <iframe class="responsive-iframe" src="https://forms.gle/ST6XfCvKRXHRfxfVA" frameborder="0"></iframe>
 </div>
 
+https://forms.gle/7X1tmBcU5WtGT46A7
+
 ## Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
 
-[Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
 <!-- Tribe Badge 4 = gad -->
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfQN__POt8uRnfPCRkaMILJgh7-cXMWbGna1GavqC4j0aQ5rw/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/7X1tmBcU5WtGT46A7" frameborder="0"></iframe>
 </div>

@@ -333,7 +333,7 @@ Then after watching these, go ahead and jump into `Anki`.
 * `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
 * `Lesson 03 B. Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
 * `Lesson 03 C. Study Verses`
-  * This is also the verse lesson using the <u>Basics of Biblical Hebrew</u> study verses.
+  * This is also the first lesson using the <u>Basics of Biblical Hebrew</u> study verses.
   * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
   * Be patient and stick with it - you'll get it!
 
@@ -383,4 +383,20 @@ YOUR QUEST
 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" frameborder="0"></iframe>
+</div>
+
+## Claim your `Unit 1 Completion Certificate`! {-}
+
+If you have completed **all activities** in Lessons 1, 2, and 3, you may claim the first of our `Unit Completion Certificates`.
+
+::: {.box .caution}
+* Note that the Anki Requirement for the `Unit Completin Certificate` is different from the requirement for the `12 Tribes Badges`.
+* You must submit a screenshot showing that all cards are **MATURE**
+  * No cards may be "New", "Young", "Suspended", or "buried"
+  * From the Anki manual, ["A mature card is one that has an interval of 21 days or greater"](https://docs.ankiweb.net/#/stats?id=types-of-cards){target="_blank"}
+* See the `Hebrew Grammar Quest Checklist` for additional information
+:::
+
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
 </div>

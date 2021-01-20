@@ -109,10 +109,6 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 
 
 
-## Ruth Pursuit {-}   
-
-
-
 ## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 45 {-}
 
 

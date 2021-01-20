@@ -8,8 +8,6 @@ One of the first vocabulary words in _Hebrew Quest_ was **וּכְתַטְתָּ
 
 
 
-
-
 ::: {.box .map}
 __LESSON ITINERARY__
 
@@ -31,13 +29,13 @@ Before continuing, can you describe the following concepts?
 *
 :::
 
-## X First Thought {-}
+##  First Thought {-}
 
-### X <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
+### <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
 
 *I have called upon You, for You will answer me, O God; Incline Your ear to me, hear my speech. (Psalms 17:6)*
 
-Imagine walking along a path like the one below on a day Yeshua taught in this very area. What would you be thinking and feeling?  
+Imagine walking along a path like the one pictured below on a day Yeshua taught in this very area. What would you be thinking and feeling?  
 
 * Would you be giddy, as if if you got special access to a famous entertainer or dignitary?  Would you try to get His autograph or a selfie with Him?
 * Would you be skeptical, wondering whether this Yeshua you have heard about is really "all that"?  In the back of your mind, would you even be questioning whether He is a fraud?
@@ -156,111 +154,6 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 | <span class="he">יְטָלוּ</span> | <span class="he">יְטָלוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
 
 
-
-<!-- FOR STRONG VERB CHAPTERS -->
-
-## X <stem> Verb Stem Table 
-
-
-
-## X <stem> Meanings
-
-
-
-## X <stem> Strong Word-initial Combinations 
-
-
-## X <stem> Strong Stem Vowels 
-
-## X <stem>: what to memorize
-
-## X <stem> Perfect Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 3ms | *****  | 3cp | ***** 
-| 3fs | ***** | 
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-| 1cs | ***** | 1cp | *****
-
-<figure>
-    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-## X <stem> Imperfect Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 3ms | *****  | 3mp | ***** 
-| 3fs | ***** | 3fp | *****
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-| 1cs | ***** | 1cp | *****
-
-<figure>
-    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-## X <stem> Imperative Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-
-## X <stem> Infinitives Strong
-
-
-| Type | Paradigm 
-| :-  | :- 
-| ∞ | *****  
-| A | *****
-
-## X <stem> Participle Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| ms | ***** | mp | *****
-| fs | ***** | fp | *****
-
-## X <stem> Parsing Examples
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/VnY-EzVTywk){target="_blank"}
@@ -284,34 +177,27 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 
 Most verbal pronominal suffixes in Ruth 1 are on Qal Infinitive Construct conjugations.  We will study these in lesson 20.  Therefore, there is is no `Ruth Pursuit` for lesson 19.
 
-## Hebrew Quest Study Passage: Matthew 6 {-}
 
-[Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/edit?usp=sharing){target="_blank"}
+## Claim your next `Twelve Tribes Badge`! {-}
 
 
-1. Read through the passage straight through
+<!-- Lesson 19 Tribe Badge 7 = Judah -->
+
+Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/4Q8STELkBPRy6mEw8" frameborder="0"></iframe>
+</div>
+
+## OPTIONAL _Hebrew Quest_ Study Passage: Matthew 6 {-}
+
+::: {.box .map}
+YOUR HEBREW QUEST:
+
+1. Read through the passage - [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::

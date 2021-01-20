@@ -149,14 +149,13 @@ English equivalent | Verbal noun "to do" or "doing" | No direct equivalent
 
 ## Ruth Pursuit {-}   
 
+There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!), but we do have a few words for you to identify
+
 ::: {.box .map} 
-YOUR QUEST
-
-
-There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!)
+YOUR QUEST:
 
 1. Identify the particle affirming the existence of someone or something (yellow)
-2. Identify the Lesson 21 vocabulary word for "faminine" (green)
+2. Identify the Lesson 21 vocabulary word for "famine" (green)
 3. A vocabulary verb for this lesson was <span class="he">נוּחַ</span>.  Identify the FS noun in Ruth 1 that is derived from this verb. (blue)
 
 :::
@@ -166,34 +165,15 @@ There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!)
 
 
 
-## Hebrew Quest Study Passage: Numbers 6: Priestly Blessing {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Aaronic/Priestly Blessing {-}
 
-[Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-
-1. Read through the passage straight through
+1. Read through the passage - [Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+:::

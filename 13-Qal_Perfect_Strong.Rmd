@@ -378,17 +378,17 @@ YOUR QUEST:
 
 
 
-## X Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+<!-- Lesson 13 Tribe Badge 5 = Issachar -->
 
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://forms.gle/ywRYeNmuKkK441Pj9" frameborder="0"></iframe>
 </div>
 
-## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #5-7 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #5-7 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:

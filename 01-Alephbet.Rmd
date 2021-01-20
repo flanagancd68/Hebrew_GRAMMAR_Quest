@@ -39,14 +39,10 @@ In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like
 
 If you are eager to jump right in with Lesson 1, we understand.  We are also excited for you to start!
 
-"Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing<small>^[<small>See discussion on ["The Fog"](#the-fog) in the appendix</small>]</small>
+"Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing.
 
+BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIMINARY` TASKS ON YOUR `COURSE CHECKLIST` AND ARE READY TO GO WITH `ANKI`!
 
-Before continuing, make sure of the following:
-
-*  You understand what [a typical lesson](#typical-lesson) will include
-*  You followed the steps on our [Quick Start Instructions](#get_started), are ready go to with `Anki` and have your `Course Checklist` downloaded to track your progress
- 
 :::
 
 ## First Thought {-}
@@ -250,6 +246,7 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 2. Practice writing the entire AlephBet until you can do it FIVE times from memory.  This will also be an instruction on the Quest Quiz.
 
 
+
 ## Ruth Pursuit {-}
 
 * This is a QUEST activity, similar to "bag the letters" from _Hebrew Quest_.  
@@ -270,7 +267,7 @@ YOUR QUEST
     * Naomi - spelled <span class="he">נָעֳמִי</span> 
     * Bethlehem - spelled <span class="he">בֵּית לֶחֶם  </span>, also "from Bethlehem" - <span class="he">מִבֵּית לֶחֶם</span>
         * Our one word "Bethlehem" is two words in Hebrew: <span class="he">בֵּית</span> means "house of" and  <span class="he">לֶחֶם</span> means "bread"
-    * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
+    * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span><small>^[<small>As a taste of what is to come, this word מֹאֲבִיּוֹת has 1) defective spelling - notice how the Vav in מוֹאָב is not in מֹאֲבִיּוֹת? (Lesson 2), 2) propretonic reducticn - Compare the markings under the aleph in מֹאֲבִיּוֹת as compared to מוֹאָב. (Lesson 3), and a 3) Feminine plural suffix - Notice the Vav + Tav in מֹאֲבִיּוֹת are not present in מוֹאָב. (Lesson 4)</small>]</small>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
 :::
 
 
@@ -283,14 +280,14 @@ YOUR QUEST
     * We started with the simple words in the previous section
     * Towards the end of the course, you will be translating complex verbs
 * We want you to keep track of your progress, because in Unit 4, you will know enough Hebrew to compose your own translation of Ruth 1
-* After you finish each `Ruth Pursuit`, be sure to update your worksheet
+* After you finish each `Ruth Pursuit`, be sure to update the `Ruth 1 Translation` tab in your course checklist
 
 ::: {.box .map}
 RUTH PURSUIT TRANSLATION WORKSHEET INSTRUCTIONS
 
 * Download and open your `Hebrew GRAMMAR Quest Checklist` if you haven't already done so
 * Find the `Ruth 1 Translation` tab
-* As you identify complete words (not the individual letters), enter the English meaning next to the applicable word
+* As you identify complete words (not the individual letters), enter the English meaning next to the applicable word - note that the same word may occur multiple times in the passage
     * For example, next to each occurrence of <span class="he">מוֹאָב</span>, type the word `Moab`, for <span class="he">רוּת</span>, enter "Ruth" and so forth
     * You might want to make a note of the Lesson # (in this case "1") in case you need to refer back
     * There is also a column for any notes you wish to make

@@ -228,19 +228,17 @@ Curiously, there are a lack of adjectives in Ruth 1.  There are participles, whi
 
 [Open Quest Quiz #07 in a new window](https://forms.gle/uYiUgRBWeRJikaR57){target="_blank"}
 
-<div class="container">
+<div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdheixGPVo9sfn-K51QEgjP8qaZQyqd2uQY6yAGV4hn8vqYyg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check the requirements here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/edit?usp=sharing){target="_blank"}, then complete the certification and claim your badge below:
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
 <!-- Tribe Badge 3 = Dan -->
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf0XIRTMiuOVLITH3DMpt8xDygItycZgs9JY3uIAc1ntmVoow/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class="responsive-iframe" src="https://forms.gle/u7NiyG7MzE4inxj86" frameborder="0"></iframe>
 </div>

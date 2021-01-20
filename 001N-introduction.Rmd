@@ -6,41 +6,39 @@
 * [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 
 
-## Why a Hebrew Grammar course {- #motivation}
+## Why an HLI Hebrew Grammar Course {- #motivation}
 
 If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
 
-***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful; but, we also noticed other students began to drop off between lessons 12 and 16, after the lessons on the Aleph-Bet. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.
+***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful.  We began to notice that many other students began to drop off between lessons 12 and 16, after the lessons on the Aleph-Bet. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.  
+
+As a result, several of our students have asked us for a grammar resource to supplement _Hebrew Quest_.  
 
 As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
 
 1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u> 
-    * Sometimes these are too easy, and we tend not to learn very much
-    * Additionally, with this format, there is no way for a student to get feedback on progress
-    
 2. <u>Academic/Seminary level textbooks and courses</u>
-    * These materials are incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures and exams
-    * The pace is usually fast, and the stress level is high, focusing on due dates and grades.<small>^[<small>For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.</small>]</small>.
-    * The textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)<small>^[<small>For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible.</small>]</small>
+
+These two are often opposite extremes.  Self-paced courses can have too little structure, and often provide only a superficial review of Hebrew.  At the end, the student may only be slightly more prepared to read the Hebrew Bible than if they had not done the course.  There is also limited feedback opportunities as these courses are designed for independent learning.  On the other hand, seminary courses and seminary-level textbooks are usually incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures and exams. Academic courses are fast-paced and high-stress <small>^[<small>For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.</small>]</small>. Textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)<small>^[<small>For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible.</small>]</small>
    
-Additionally, with either option, our students would incur additional fees to purchase these materials.
+Additionally, with either option, our Holy Language students would incur additional fees to purchase these materials.  Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for the majority of our students.
 
-Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for our students.
+See the next section to how Hebrew GRAMMAR Quest is distinct.
 
-<div align="right">_(continued)_</div>
-
-## Why Our Course is Distinct {- #our_course}
+## How our course Is distinct {- #our_course}
 
 Our goals for a Hebrew grammar course are the following:
 
-* Academically challenging, but with a low-stress level
-* Primary emphasis on understanding God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.
-* Self-paced for independent learning but with mechanisms to provide feedback, encouragement, and ways to celebrate students' accomplishments in the course
-* Aligns with our [Holy Language Learning Philosophy](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
-* Compliments (not replaces) and integrates with _Hebrew Quest_
-* Inexpensive and straightforward to develop, deliver, and maintain
-* Free of charge for our students
-* Most importantly, the course must be Yeshua-centered that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+* Academically CHALLENGING, but with a LOW-STRESS level
+* Primary emphasis on READING and UNDERSTANDING God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.  We do not make writing or speaking in Hebrew a priority<small>^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Those who are seeking (or whose position requires) more of an academic/seminary type of setting might fare better with a traditional, instructor-led, Hebrew course; but the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!</small>]</small>.
+* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
+* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
+* COMPLIMENTS and INTEGRATES with _Hebrew Quest_, but does not replace it
+* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward to develop, deliver, and maintain
+* FREE of charge for our students
+* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+
+Essentially, we are trying to take the best attributes of a self-paced course and merge them with the best attributes of a seminary-level Hebrew course!  
 
 We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
 
@@ -68,25 +66,23 @@ knitr::include_graphics("images/i.hq_hgq.png")
     * Students will read through the passage and compose a translation
     * They will then watch Izzy's _Hebrew Quest_ teaching video explaining the passage
 
-## Completion of _Hebrew Quest_ is NOT a Prerequisite! {- #finish_hq}
+## Completion of _Hebrew Quest_ is NOT a prerequisite! {- #finish_hq}
 
-If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step.  If you _have not_ finished, it's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
+It's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
 
-Maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
+If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step to go deeper.
 
-This grammar course starts from the beginning (with learning the Aleph-bet) and assumes no prior knowledge of Hebrew.  However, the more of Hebrew Quest you have completed, the more comfortable you may find it is to work through the grammar material.
+On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
 
-As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest.
+As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest.  _Hebrew Quest_ [videos are here](https://holylanguage.com/quest.html){target="_blank"} and accompanying [Memrise module is here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}.
 
-To say it differently, Hebrew Quest and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
+To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
 
-* The more Hebrew Quest you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
-* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of Hebrew Quest
-* Either way, you can't go wrong!  The most important thing is to start.
-
-Whichever direction you take, we would encourage you to ultimately complete both **Hebrew Quest** and **Hebrew GRAMMAR Quest**.  
+* The more _Hebrew Quest_ you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
+* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of _Hebrew Quest_ (especially _Hebrew Quest_ Lessons 13-40)
+* Either way, you can't go wrong!  The most important thing is to start, and ultimately complete both.
 
 
 ::: {.box .map}
-Let's get started on our Hebrew GRAMMAR Quest!
+Let's get started!
 :::

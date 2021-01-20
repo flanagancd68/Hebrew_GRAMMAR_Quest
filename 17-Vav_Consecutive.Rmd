@@ -183,6 +183,7 @@ Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫א�
 
 ## Worksheets: Qal Vav-Consecutive Paradigms {-}
 
+Complete the paradigm from memory at least once.
 
 [Qal Vav-consecutive Paradigms](17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
 
@@ -213,34 +214,30 @@ YOUR QUEST
 
 
 
-## Hebrew Quest Study Passage: Genesis 1:1-5 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Genesis 1:1-5 {-}
 
-[Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/edit?usp=sharing){target="_blank"}
+With this lesson, we move away from the selected verses in Proverbs to lengthier study passages.
 
+::: {.box .map}
+YOUR HEBREW QUEST:
 
-1. Read through the passage straight through
+1. Read through the passage - [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/17/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
+:::
 
-## X Quest Quiz {-}
+::: {.box .info}
+MEMRISE
 
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
+* If your goal is to simultaneously complete both _Hebrew Quest_ and Hebrew GRAMMAR Quest, you may wish to complete the associated _Hebrew Quest_ passage memorization in Memrise
+* The Genesis passage begins in [Memrise Level 17](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/17/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}
+    * Note that the Memrise work may contain vocabulary and passages in addition to the study passage (for example Names of God, Titles of Messiah, Terms of Love/Friendship, and Proverbs)
+* Although the majority of time in each _Hebrew Quest_ lesson is spent on the Study Passages, be sure to set aside time to watch the lesson's video in its entirety in order to meet the _Hebrew Quest_ Graduation requirements (also be sure to complete any videos/Memrise modules for Lessons 1-16 that you have not completed)
+* See additional resources on the Holylanguage.com page:
+    * [Hebrew Quest Overview](https://holylanguage.com/quest.html){target="_blank"}
+    * [Hebrew Quest Graduation](https://holylanguage.com/graduate.html){target="_blank"}
+    * [Memrise](https://holylanguage.com/memrise.html){target="_blank"}
+:::

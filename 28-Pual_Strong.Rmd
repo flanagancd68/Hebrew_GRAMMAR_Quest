@@ -118,7 +118,7 @@ The Qibbuts under the first root consonant distinguishes the Pual Form
 * Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
 * Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
 
-## X Perfect  
+## Perfect  
 
 Qibbuts in $V_1$ always
 
@@ -134,14 +134,14 @@ Qibbuts in $V_1$ always
     <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/.mp3">
+        src="./images/28_pual_perfect.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
 
 
-## X Imperfect  
+## Imperfect  
 
 * Qibbuts in $V_1 = U$ always
 * If there is a preformative, $V_P = \ :$ always
@@ -155,17 +155,17 @@ Qibbuts in $V_1$ always
 | 1cs | <span class="he">אֲקֻטַּל</span> | 1cp | <span class="he">נְקֻטַּל</span>
 
 <figure>
-    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <figcaption>Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/.mp3">
+        src="./images/28_pual_imperfect.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
 
 
-## X Participle
+## Participle
 
 * Qibbuts in $V_1$ always
 * Mem+Sheva prefix always
@@ -209,6 +209,13 @@ library(knitr)
 include_graphics("images/28_stemcomp.png")
 ```
 
+## Worksheets: Pual Paradigm {-}
+
+After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
+
+[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
+
+
 ## Word Warm-up {-}
 
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/ujh7gojxD9Q){target="_blank"}
@@ -249,25 +256,15 @@ YOUR QUEST
 This exercise is for you.  You do not have to turn this in and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their edification. 
 
 
+## Claim your next `Twelve Tribes Badge`! {-}
 
+<!-- Lesson 28 Tribe Badge 10 = Reuben -->
 
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
+Check to be sure you have have completed all activities through this lesson, then fill out the form below.
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://forms.gle/QC5VgJExb9R89Yde8" frameborder="0"></iframe>
 </div>
-
-## OPTIONAL Worksheets: Pual Paradigm {-}
-
-After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
-
-[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
-
 
 
 ## OPTIONAL Hebrew Quest Study Passage: Revelation 1 {-}
@@ -275,13 +272,11 @@ After you have memorized the information in the "what to memorize" section, see 
 ::: {.box .map}
 YOUR HEBREW QUEST
 
-1. Read through the passage straight through - [Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/copy){target="_blank"}
+1. Read the passage - [Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
 4. After the video, compare your translation with versions such as ESV, NASB, NIV and/or NLT. How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
-6. Complete associated Memrise module [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/31/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
 :::
 
 
