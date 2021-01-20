@@ -1,4 +1,4 @@
-fig:unnamed-chunk-5
+fig:unnamed-chunk-6
 fig:unnamed-chunk-8
 fig:unnamed-chunk-18
 fig:unnamed-chunk-24
@@ -40,7 +40,6 @@ fig:unnamed-chunk-112
 fig:unnamed-chunk-113
 fig:unnamed-chunk-115
 fig:unnamed-chunk-119
-fig:unnamed-chunk-120
 alephbet
 consonants
 right_to_left
@@ -405,19 +404,4 @@ preformative-תְ-assimilates-when-r_1-is-ז-ד-ט-ת
 hitpolel-is-td-of-some-biconsonantal-and-geminate-verbs
 חָוָה---hishtapel-stem
 top-10-hitpael-verbs
-lexicon
-lessontitle
-x-point1
-x-point2
-x-point3
-x-verb-stem-table
-x-meanings
-x-strong-word-initial-combinations
-x-strong-stem-vowels
-x-what-to-memorize
-x-perfect-strong
-x-imperfect-strong
-x-imperative-strong
-x-infinitives-strong
-x-participle-strong
-x-parsing-examples
+hebrew-lexicon

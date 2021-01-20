@@ -1,13 +1,12 @@
+# Getting Started / Getting Help {-}
 
-# Getting Started / Getting Help {- #intro-a}
-
-1. [How do I navigate around this book?](#navigating)
-5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
-4. [How do I get started?](#get_started)
-5. [How do I use Anki?](#anki_help)
-5. [What are required and optional resources?](#optional_resources)
-2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
-3. [How to ask a question if you get stuck](#get_help)
+<!-- 1. [How do I navigate around this book?](#navigating) -->
+<!-- 5. [What is in a typical lesson, and how long will it take?](#typical-lesson) -->
+<!-- 4. [How do I get started?](#get_started) -->
+<!-- 5. [How do I use Anki?](#anki_help) -->
+<!-- 5. [What are required and optional resources?](#optional_resources) -->
+<!-- 2. [How to report an issue, error, omission, or improvement opportunity](#report_issue) -->
+<!-- 3. [How to ask a question if you get stuck](#get_help) -->
 
 ## Navigating this book {- #navigating}
 
@@ -197,7 +196,7 @@ knitr::include_graphics("images/anki_custom_new.png")
     * If you needed a hint, be sure to select `Again` on the answer side
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
 
-### How do I know when to hit the `Good` button on an Anki card? {-}
+### How do I know when to hit the Good button on an Anki card? {-}
 
 We suggest using the following guidelines:
 
@@ -215,7 +214,7 @@ We suggest using the following guidelines:
 
 ::: {.box .info}
 Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
-
+:::
 
 ### How do I get help with Anki? {-}
 
@@ -281,6 +280,4 @@ If you have general feedback or wish to report an issue, please use the [`Report
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdWJc7ri0andmyu70D1USeDRtbsrHLaYLNrs0rvI2qBJx-yEg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
-
-
 

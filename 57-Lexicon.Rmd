@@ -1,4 +1,4 @@
-# Lexicon 
+# Hebrew Lexicon 
 
 ```{r, out.width = "600pt", fig.align='center'}
 library(knitr)

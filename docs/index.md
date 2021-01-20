@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-01-19"
+#date: "2021-01-20"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-01-19</small>
+<small>*Updated*: 2021-01-20</small>
 
 <small>
 
@@ -76,16 +76,104 @@ All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה
 
 <!--chapter:end:index.Rmd-->
 
+# About This Course {-}
 
-# Getting Started / Getting Help {- #intro-a}
+* [Why is Holy Language Institute offering a Hebrew grammar course?](#motivation)
+* [What makes our course distinct?](#our_course)
+* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
+* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 
-1. [How do I navigate around this book?](#navigating)
-5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
-4. [How do I get started?](#get_started)
-5. [How do I use Anki?](#anki_help)
-5. [What are required and optional resources?](#optional_resources)
-2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
-3. [How to ask a question if you get stuck](#get_help)
+
+## Why an HLI Hebrew Grammar Course {- #motivation}
+
+If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
+
+***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful.  We began to notice that many other students began to drop off between lessons 12 and 16, after the lessons on the Aleph-Bet. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.  
+
+As a result, several of our students have asked us for a grammar resource to supplement _Hebrew Quest_.  
+
+As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
+
+1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u> 
+2. <u>Academic/Seminary level textbooks and courses</u>
+
+These two are often opposite extremes.  Self-paced courses can have too little structure, and often provide only a superficial review of Hebrew.  At the end, the student may only be slightly more prepared to read the Hebrew Bible than if they had not done the course.  There is also limited feedback opportunities as these courses are designed for independent learning.  On the other hand, seminary courses and seminary-level textbooks are usually incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures and exams. Academic courses are fast-paced and high-stress <small>^[<small>For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.</small>]</small>. Textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)<small>^[<small>For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible.</small>]</small>
+   
+Additionally, with either option, our Holy Language students would incur additional fees to purchase these materials.  Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for the majority of our students.
+
+See the next section to how Hebrew GRAMMAR Quest is distinct.
+
+## How our course Is distinct {- #our_course}
+
+Our goals for a Hebrew grammar course are the following:
+
+* Academically CHALLENGING, but with a LOW-STRESS level
+* Primary emphasis on READING and UNDERSTANDING God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.  We do not make writing or speaking in Hebrew a priority<small>^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Those who are seeking (or whose position requires) more of an academic/seminary type of setting might fare better with a traditional, instructor-led, Hebrew course; but the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!</small>]</small>.
+* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
+* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
+* COMPLIMENTS and INTEGRATES with _Hebrew Quest_, but does not replace it
+* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward to develop, deliver, and maintain
+* FREE of charge for our students
+* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+
+Essentially, we are trying to take the best attributes of a self-paced course and merge them with the best attributes of a seminary-level Hebrew course!  
+
+We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
+</div>
+
+
+
+## Relationship to _Hebrew Quest_ {- #hgq_and_hq}
+
+One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
+
+Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs and so forth.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
+
+<img src="images/i.hq_hgq.png" width="800pt" style="display: block; margin: auto;" />
+
+* Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12
+* Then we begin our deep dive into core grammar topics touched upon in _Hebrew Quest_ Lessons 13-15
+* Additionally, starting with Hebrew GRAMMAR Quest Lesson 12, Students can elect to complete a "_Hebrew Quest_ Study Passage Track"
+    * This will incorporate the Proverbs study and the Bible reading sections from _Hebrew Quest_
+    * Students will read through the passage and compose a translation
+    * They will then watch Izzy's _Hebrew Quest_ teaching video explaining the passage
+
+## Completion of _Hebrew Quest_ is NOT a prerequisite! {- #finish_hq}
+
+It's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
+
+If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step to go deeper.
+
+On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
+
+As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest.  _Hebrew Quest_ [videos are here](https://holylanguage.com/quest.html){target="_blank"} and accompanying [Memrise module is here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}.
+
+To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
+
+* The more _Hebrew Quest_ you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
+* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of _Hebrew Quest_ (especially _Hebrew Quest_ Lessons 13-40)
+* Either way, you can't go wrong!  The most important thing is to start, and ultimately complete both.
+
+
+::: {.box .map}
+Let's get started!
+:::
+
+
+<!--chapter:end:00b-introduction.Rmd-->
+
+# Getting Started / Getting Help {-}
+
+<!-- 1. [How do I navigate around this book?](#navigating) -->
+<!-- 5. [What is in a typical lesson, and how long will it take?](#typical-lesson) -->
+<!-- 4. [How do I get started?](#get_started) -->
+<!-- 5. [How do I use Anki?](#anki_help) -->
+<!-- 5. [What are required and optional resources?](#optional_resources) -->
+<!-- 2. [How to report an issue, error, omission, or improvement opportunity](#report_issue) -->
+<!-- 3. [How to ask a question if you get stuck](#get_help) -->
 
 ## Navigating this book {- #navigating}
 
@@ -255,7 +343,7 @@ The sections below will help you get started with Anki. There is also an `0. Int
 Your settings should look like this:
 <div class="figure" style="text-align: center">
 <img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
 </div>
     
 ### How do I navigate within Anki? {-}
@@ -266,7 +354,7 @@ Your settings should look like this:
     * If you needed a hint, be sure to select `Again` on the answer side
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
 
-### How do I know when to hit the `Good` button on an Anki card? {-}
+### How do I know when to hit the Good button on an Anki card? {-}
 
 We suggest using the following guidelines:
 
@@ -284,7 +372,7 @@ We suggest using the following guidelines:
 
 ::: {.box .info}
 Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
-
+:::
 
 ### How do I get help with Anki? {-}
 
@@ -352,101 +440,11 @@ If you have general feedback or wish to report an issue, please use the [`Report
 </div>
 
 
-
-
-<!--chapter:end:001A-getting-help.Rmd-->
-
-# About This Course {-}
-
-* [Why is Holy Language Institute offering a Hebrew grammar course?](#motivation)
-* [What makes our course distinct?](#our_course)
-* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
-* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
-
-
-## Why an HLI Hebrew Grammar Course {- #motivation}
-
-If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
-
-***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful.  We began to notice that many other students began to drop off between lessons 12 and 16, after the lessons on the Aleph-Bet. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.  
-
-As a result, several of our students have asked us for a grammar resource to supplement _Hebrew Quest_.  
-
-As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
-
-1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u> 
-2. <u>Academic/Seminary level textbooks and courses</u>
-
-These two are often opposite extremes.  Self-paced courses can have too little structure, and often provide only a superficial review of Hebrew.  At the end, the student may only be slightly more prepared to read the Hebrew Bible than if they had not done the course.  There is also limited feedback opportunities as these courses are designed for independent learning.  On the other hand, seminary courses and seminary-level textbooks are usually incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures and exams. Academic courses are fast-paced and high-stress <small>^[<small>For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.</small>]</small>. Textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)<small>^[<small>For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible.</small>]</small>
-   
-Additionally, with either option, our Holy Language students would incur additional fees to purchase these materials.  Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for the majority of our students.
-
-See the next section to how Hebrew GRAMMAR Quest is distinct.
-
-## How our course Is distinct {- #our_course}
-
-Our goals for a Hebrew grammar course are the following:
-
-* Academically CHALLENGING, but with a LOW-STRESS level
-* Primary emphasis on READING and UNDERSTANDING God's Word, using grammar rules, paradigms, and memorization as a means to achieve this goal.  The "final exam" should be whether you can understand the Bible, not whether you can conjugate a Niphal verb.  We do not make writing or speaking in Hebrew a priority<small>^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Those who are seeking (or whose position requires) more of an academic/seminary type of setting might fare better with a traditional, instructor-led, Hebrew course; but the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!</small>]</small>.
-* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
-* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
-* COMPLIMENTS and INTEGRATES with _Hebrew Quest_, but does not replace it
-* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward to develop, deliver, and maintain
-* FREE of charge for our students
-* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
-
-Essentially, we are trying to take the best attributes of a self-paced course and merge them with the best attributes of a seminary-level Hebrew course!  
-
-We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this is greater detail in the clip below from **Hebrew Quest** Lesson 1:
-
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
-</div>
-
-
-
-## Relationship to _Hebrew Quest_ {- #hgq_and_hq}
-
-One way to think of Hebrew GRAMMAR Quest is "Hebrew Quest: Extended Edition"!
-
-Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs and so forth.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
-
-<img src="images/i.hq_hgq.png" width="800pt" style="display: block; margin: auto;" />
-
-* Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12
-* Then we begin our deep dive into core grammar topics touched upon in _Hebrew Quest_ Lessons 13-15
-* Additionally, starting with Hebrew GRAMMAR Quest Lesson 12, Students can elect to complete a "_Hebrew Quest_ Study Passage Track"
-    * This will incorporate the Proverbs study and the Bible reading sections from _Hebrew Quest_
-    * Students will read through the passage and compose a translation
-    * They will then watch Izzy's _Hebrew Quest_ teaching video explaining the passage
-
-## Completion of _Hebrew Quest_ is NOT a prerequisite! {- #finish_hq}
-
-It's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
-
-If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step to go deeper.
-
-On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
-
-As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest.  _Hebrew Quest_ [videos are here](https://holylanguage.com/quest.html){target="_blank"} and accompanying [Memrise module is here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}.
-
-To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
-
-* The more _Hebrew Quest_ you have completed, the more you will get out of Hebrew GRAMMAR Quest, and
-* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of _Hebrew Quest_ (especially _Hebrew Quest_ Lessons 13-40)
-* Either way, you can't go wrong!  The most important thing is to start, and ultimately complete both.
-
-
-::: {.box .map}
-Let's get started!
-:::
-
-<!--chapter:end:001N-introduction.Rmd-->
+<!--chapter:end:00d-help.Rmd-->
 
 # (PART) Hebrew Grammar Foundations {-}
 
-
+<!--chapter:end:01a-Part_I_header.Rmd-->
 
 # The Hebrew Aleph-bet {#alephbet}
 
@@ -733,10 +731,9 @@ Here is our first `Quest Quiz`.  Remember to treat this as a self-assessment.  I
 
 
 
-<!--chapter:end:01-Alephbet.Rmd-->
+<!--chapter:end:01b-Alephbet.Rmd-->
 
 # Hebrew Vowels {.vowels}
-
 
 > To comprehend Biblical Hebrew, we must understand how words are formed and pronounced
 
@@ -10300,7 +10297,7 @@ We would like to take a moment and recap all that you have accomplished in His s
 
 <!--chapter:end:40-Appendices.Rmd-->
 
-# Lexicon 
+# Hebrew Lexicon 
 
 <img src="images/lexicon.jpg" width="600pt" style="display: block; margin: auto;" />
 The authors of <u>Basics of Biblical Hebrew</u> have created an abridged Lexicon to accompany this course.  This document is nice as vocabulary words are indexed to the Lesson #, and irregular plural forms and selected construct forms are also included.
@@ -10362,266 +10359,8 @@ The men and women who followed Yeshua became a safe and loving community. Same w
 <!--chapter:end:65-abouttheauthor.Rmd-->
 
 
-<!--chapter:end:70-License.Rmd-->
-
-
 # References {-}
 
 
 <!--chapter:end:99-References.Rmd-->
-
-# X LessonTitle {#lessontitle}
-
-> To comprehend Biblical Hebrew, we must be able to . . . 
-
-Say something general bridging the desired outcome above with the learning objectives below
-
-::: {.box .map}
-__LESSON ITINERARY__
-
-1. learning_objective_1
-1. learning_objective_2
-1. learning_objective_3
-1. learning_objective_4
-1. learning_objective_5
-1. learning_objective_6
-1. learning_objective_7
-:::
-
-::: {.box .stop}
-__EQUIPMENT CHECK__
-
-Before continuing, can you describe the following concepts?
-
-* 
-*
-:::
-
-## X First Thought {-}
-
-### X <span class="he"> </span> {-}
-
-*verse (reference 1:1)*
-
--brief meditation-
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
-
-<div class="figure" style="text-align: center">
-<img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
-</div>
-
-
-
-
-<!-- picture -->
-
-<img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
-
-
-
-## X Point1 
-
-
-
-## X Point2 
-
-
-
-## X Point3 
-
-
-
-<!-- FOR STRONG VERB CHAPTERS -->
-
-## X <stem> Verb Stem Table 
-
-
-
-## X <stem> Meanings
-
-
-
-## X <stem> Strong Word-initial Combinations 
-
-
-## X <stem> Strong Stem Vowels 
-
-## X <stem>: what to memorize
-
-## X <stem> Perfect Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 3ms | *****  | 3cp | ***** 
-| 3fs | ***** | 
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-| 1cs | ***** | 1cp | *****
-
-<figure>
-    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-## X <stem> Imperfect Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 3ms | *****  | 3mp | ***** 
-| 3fs | ***** | 3fp | *****
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-| 1cs | ***** | 1cp | *****
-
-<figure>
-    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-## X <stem> Imperative Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 2ms | ***** | 2mp | *****
-| 2fs | ***** | 2fp | *****
-
-## X <stem> Infinitives Strong
-
-
-| Type | Paradigm 
-| :-  | :- 
-| ∞ | *****  
-| A | *****
-
-## X <stem> Participle Strong
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| ms | ***** | mp | *****
-| fs | ***** | fp | *****
-
-## X <stem> Parsing Examples
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-* Word: <span class="he"> </span>
-    * $WI =$
-    * $Sufformative =$
-    * $Root =$ *****
-    * $V_S =$
-    * Result: 
-
-
-## X Word Warm-up {-}
-
-[Click to open `Word Warm-up` video in a new tab](){target="_blank"}
-
-
-<div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
-</div>
-
-
-## X Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](){target="_blank"}
-
-<div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/" frameborder="0"></iframe>
-</div>
-
-## X Anki {-}
-
-* `Lesson xx A. Vocab`
-* `Lesson xx B. Grammar` 
-* `Lesson xx C. Workbook`
-* `Lesson xx D. Study Verses`
-
-## X Worksheets: NameOfWorksheet {-}
-
-<describe the worksheet>
-
-[Name of worksheet](){target="_blank"}
-
-## X Ruth Pursuit {-}        
-
-:::  {.box .map}
-
-Your Quest: Find all xxx Verbs in Ruth 1 (Yellow)
-:::
-
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/xx_Ruth_Pursuit_KEY.pdf){target="_blank"}
-
-
-
-## X Hebrew Quest Study Passage: Book ## {-}
-
-[Blank copy of Book ##](){target="_blank"}
-
-
-1. Read through the passage straight through
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/john-1.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
-
-Optionally, you may complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/28/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-## X Quest Quiz {-}
-
-[Open Quest Quiz #xx in a new window](){target="_blank"}
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-Check to be sure you have have completed **all activities** through this lesson, then fill out the form below.
-
-[Check to be sure you have completed all ACTIVities here](){target="_blank"}, complete the certification below, and your badge will be on its way!
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
-</div>
-
-
-<!--chapter:end:99-zChapter_Template.Rmd-->
 

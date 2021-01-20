@@ -1,6 +1,5 @@
 # Hebrew Vowels {.vowels}
 
-
 > To comprehend Biblical Hebrew, we must understand how words are formed and pronounced
 
 Even though our goal may not necessarily be to converse in Biblical Hebrew, hearing the sound of the language aids our learning.  Vowels are what give a language its distinctive sound.  In Hebrew, the same three consonants can change meaning depending on the vowel combination.
