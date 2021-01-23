@@ -2831,7 +2831,7 @@ Usually, interrogative pronouns will appear at the beginning of a clause
     * Questions that ask who? what? or why? will use interrogative pronouns
 * We notice that  <span class="he">הֲ</span> looks a lot like the definite article - the next section will examine differences
 
-## Interrogative Particle vs Definite Article {-}
+## Interrogative Particle vs Definite Article 
 
 * Despite the similarity, most of the time, we will not have trouble differentiating the Article from the Interrogative Particle
 * Below are potential sources of ambiguity:
@@ -2915,18 +2915,18 @@ Demonstrative Adjective Always After the noun, Always has Article, Always Agrees
 :::
 
 
-## Conclusion {-}
+## Lesson 8 Conclusion {-}
 
-* Your mission for the next two lessons is to focus on building your pronoun vocabulary!
+* Your mission is to focus on building your pronoun vocabulary!
     * You may notice more `Anki` words than usual to learn but most of these are short
-    * After you finish the stack in `Anki` we have two pronoun worksheets for you to test your memory
-* Know the gender, number, and, where necessary, the person of each
+    * After you finish the stack in `Anki,` we have two pronoun worksheets for you to test your memory
+* Know the gender, number, and, where necessary, the person of each pronoun
     * For learning purposes, get in the habit of providing the PGN whenever translating "you"
         * For example, אַתֵּ֫נָה = "you" (2FP)
 
 ::: {.box .map}
 
-If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit to make it to the top.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs.  Keep at it!  You're doing awesome!
+If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit to make it to the top.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs in Unit 3.  Keep at it!  You're doing awesome!
 
 <div class="figure" style="text-align: center">
 <img src="images/08-manna-ko-hiking-en-gedi.jpg" alt="[Manna Ko](https://mannaforlife.com/) Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission." width="600pt" />
@@ -2936,21 +2936,21 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/kNfZ8BblobA){target="_blank"}
+
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/kNfZ8BblobA" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/_5MpcMzKxWk" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/_5MpcMzKxWk){target="_blank"}
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/XXn6G8EWmn0){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/XXn6G8EWmn0" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/wUF6y7MHtuc" frameborder="0"></iframe>
 </div>
 
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/wUF6y7MHtuc){target="_blank"}
 
 ## Anki {-}
 

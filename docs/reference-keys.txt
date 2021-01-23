@@ -121,6 +121,7 @@ independent-personal-pronouns-discussion
 relative-pronoun-אֲשֶׁר
 interrogative-pronoun
 interrogative-particle-הֲ
+interrogative-particle-vs-definite-article
 hebrew-quest-demonstratives-lecture
 near-and-far-demonstratives
 demonstrative-pronoun
@@ -153,7 +154,7 @@ notes-and-footnotes-use-symbols-for-numbers
 hebrew-ordinal-numbers
 cardinal-numbers-1-10
 cardinal-numbers-above-10
-conclusion-2
+conclusion-1
 hebrew-quest-verb-summary-lecture
 introduction-to-hebrew-verbs
 hebrew-quest-verb-introduction-lecture
