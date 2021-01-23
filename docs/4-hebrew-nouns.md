@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-01-11"
+#date: "2021-01-22"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 documentclass: turabian-researchpaper
@@ -20,7 +20,7 @@ lof: no
 #mainfont: Ezra SIL
 ---
 
-# Copyright {.unnumbered}
+# Cover {.unnumbered}
 
 Placeholder
 
@@ -29,37 +29,44 @@ Placeholder
 <!--chapter:end:index.Rmd-->
 
 
-# Getting Started / Getting Help {- #intro-a}
-
-Placeholder
-
-
-## Navigating this book {- #navigating}
-## Quick Start Instructions {.unnumbered #get_started}
-## A Typical Lesson {- #typical-lesson}
-## Report an Issue {- #report_issue}
-## Ask a question {- #get_help}
-
-<!--chapter:end:001A-getting-help.Rmd-->
-
-
-<!--chapter:end:001L-introduction-header.Rmd-->
-
-
 # About This Course {-}
 
 Placeholder
 
 
-## Why a Hebrew Grammar course {- #motivation}
-## Reasons our Course is Distinct {- #our_course}
+## Why an HLI Hebrew Grammar Course {- #motivation}
+## How our course Is distinct {- #our_course}
 ## Relationship to _Hebrew Quest_ {- #hgq_and_hq}
-###  FAQ about the two courses {-}
+## Completion of _Hebrew Quest_ is NOT a prerequisite! {- #finish_hq}
 
-<!--chapter:end:001N-introduction.Rmd-->
+<!--chapter:end:00b-introduction.Rmd-->
 
+
+# Getting Started / Getting Help {-}
+
+Placeholder
+
+
+## Navigating this book {- #navigating}
+## A Typical Lesson {- #typical-lesson}
+## Information Boxes {-}
+## Quick Start Instructions {.unnumbered #get_started}
+## Help with Anki {- #anki_help}
+### Customize Anki Settings {- #anki_settings}
+### How do I navigate within Anki? {-}
+### How do I know when to hit the Good button on an Anki card? {-}
+### How do I get help with Anki? {-}
+## Course Resources {- #optional_resources}
+## Report an Issue {- #report_issue}
+## Ask a question {- #get_help}
+
+<!--chapter:end:00d-help.Rmd-->
 
 # (PART) Hebrew Grammar Foundations {-}
+
+<!--chapter:end:01a-Part_I_header.Rmd-->
+
+
 # The Hebrew Aleph-bet {#alephbet}
 
 Placeholder
@@ -72,6 +79,7 @@ Placeholder
 ## Five "KiMNePaTZ" letters have different final forms {#sofit_letters}
 ## Six" BeGaD KePHaT" letters take a Daghesh Lene {#daghesh_lene}
 ## We classify four consonants as **Gutturals** (and one is a sometimes-guttural) {#gutturals}
+## We classify ten consonants as "SQiN eM LeVY"
 ## Look out for look-alike Letters {#look-alike-letters}
 ## Sephardic and "Seminary" Pronunciation {#pronunciation}
 ## Lesson Conclusion and Activities {-}
@@ -81,7 +89,7 @@ Placeholder
 ## Ruth Pursuit Translation Worksheet {-}
 ## Quest Quiz {-}
 
-<!--chapter:end:01-Alephbet.Rmd-->
+<!--chapter:end:01b-Alephbet.Rmd-->
 
 
 # Hebrew Vowels {.vowels}
@@ -143,6 +151,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
 ## Quest Quiz {-}
+## Claim your `Unit 1 Completion Certificate`! {-}
 
 <!--chapter:end:03-Syllabification.Rmd-->
 
@@ -161,7 +170,7 @@ Nouns consist of a person, place, thing, or idea and can be singular or plural. 
 **LESSON ITINERARY**
 
 1. Understand Noun Gender and Number
-2. Examine singular noun endings and "endingless" nouns for both Masculine and Feminine nouns
+2. Examine singular noun endings and "endingless" nouns for both masculine and feminine nouns
 3. Examine endings for plural and dual nouns
 4. Identify special dual forms
 6. Examine other/irregular Pluralization
@@ -213,6 +222,21 @@ knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of
 <p class="caption">(\#fig:unnamed-chunk-1)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
+
+## _Hebrew Quest_ Grammatical Gender Lecture
+
+View this overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?end=637
+&amp;rel=0&amp;showinfo=0&amp;autohide=1&amp;autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?end=637){target="_blank"}
+
+
+
 ## Gender and Number {#gender_number}
 
 * All Hebrew nouns have Gender and Number
@@ -232,24 +256,22 @@ knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of
         * Collectively, when you see "PGN" in grammar, this refers to "person, gender, and number"; e.g., "3MS" means "3rd person, masculine, singular".
 
 
-##Parsing vs. Inflecting
+## Parsing vs. Inflecting
 
-* Many Hebrew grammar books expect students to know how to pluralize nouns in writing
-    * When we take a base word and do something with it, such as change its gender or number, we call that _inflecting_ the word
-* _Parsing_ is somewhat of the opposite concept
-    * When we take an inflected word and break it down into its base form, we call that _parsing_
-* Reading the Hebrew Bible does not require you to inflect a noun or a verb
-* Reading the Bible **does** require you to parse a word
-* When we parse a word, we identify the lexical form, and the inflected person, gender, and number to understand what the word is communicating to us
+* When we take a base word and do something with it, such as change its gender or number, we call that _inflecting_ the word
+* _Parsing_ is somewhat of the opposite concept where we take an inflected word and break it down into its base form to determine its meaning
+* Reading the Hebrew Bible does not require us to _inflect_ a noun or a verb, but it **does** require us to _parse_
+* When we parse a word, we identify the lexical form and the inflected person, gender, and number to understand what the word is communicating to us
     * Or, if we don't know what it means, we have at least identified the lexical form so we can look it up in a dictionary
 * Beginning with this lesson, you will see an `Anki` chapter called `Workbook`, which will have some activities like parsing
 
 ## Singular Noun Endings {#sing_noun_endings}
 
-* Singular
-    * Masculine singular (MS): generally are "endingless" (but all MS are endingless and not all endingless are MS); occasionally a MS noun may end in (accented) <span class="he">ה ֶ֫</span>
-    * The following words are examples of FS endings:
-        * <span class="he">תּוֹרָה</span> (most typical)
+* Masculine singular (MS)
+    * MS are usually "endingless" 
+    * Occasionally an MS noun may end in (accented) <span class="he">ה ֶ֫</span>
+* Feminine Singular FS:
+        * <span class="he">תּוֹרָה</span> (the Qamets+Hei ending is most typical)
         * <span class="he">בַּת</span> 
         * <span class="he">תִּפְאֶ֫רֶת</span>  (glory)
         * <span class="he">בְּרִית</span> (covenant)
@@ -264,27 +286,25 @@ Some students fall into a habit of thinking every word-final ה is feminine.  Re
 
 For regular nouns, simply remove the singular ending if there is one, and add the plural ending.
 
-* Plural endings:
-    * MP: <span class="he">ים ִ</span> e.g., **<span class="he">סוּסִים</span>** 
-        * <span class="he">דָּבָר</span> becomes **<span class="he">דְּבָרִים</span>**
-            * A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
-            * As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
-        * <span class="he">עָנָן</span> becomes **<span class="he">עֲנָנִים</span>** (clouds)
-            *  A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
-        * <span class="he">כּוֹכָב</span> becomes **<span class="he">כּוֹכָבִים</span>**
+* MP: <span class="he">ים ִ</span>, e.g., **<span class="he">סוּסִים</span>** 
+    * <span class="he">דָּבָר</span> becomes **<span class="he">דְּבָרִים</span>**
+        * A vowel under a non-Guttural will reduce to Vocal Shewa -<span class="he"> דְּבָרִים</span>
+        * As we saw in Lesson 3.2,<span class="he"> דְּבָרִים</span> changes from <span class="he">דָבָר </span>because an open propretonic syllable prefers a reduced vowel. 
+    * <span class="he">עָנָן</span> becomes **<span class="he">עֲנָנִים</span>** (clouds)
+        *  A vowel under a guttural will take a Hateph vowel, usually Hateph Patach - <span class="he">עֲנָנִים</span>
+    * <span class="he">כּוֹכָב</span> becomes **<span class="he">כּוֹכָבִים</span>**
             *  An irreducible long vowel will not reduce - <span class="he">כּוֹכָבִים</span> 
-    * FP: <span class="he">וֹת</span> e.g., **<span class="he">מְלָכוֹת</span>** (queens)
-        * <span class="he">תּוֹרָה</span> becomes **<span class="he">תּוֹרוֹת</span>** 
+    * Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. 
+* FP: <span class="he">וֹת</span>, e.g., **<span class="he">מְלָכוֹת</span>** (queens)
+    * <span class="he">תּוֹרָה</span> becomes **<span class="he">תּוֹרוֹת</span>** 
 
-Under the MP endings above, note the propretonic reduction when the original word is more the one syllable. 
 
 ## Dual Noun Endings
 
-* MD: <span class="he">יִם ַ</span> e.g., <span class="he">סוּסַ֫יִם</span> (two horses)
-* FD: <span class="he">יִם ַ </span> e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws)
+* MD: <span class="he">יִם ַ</span>, e.g., <span class="he">סוּסַ֫יִם</span> (two horses)
+* FD: <span class="he">יִם ַ </span>, e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws)
 
 Occasionally, we will see the defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>
-
 
 ## Special dual forms {#dual_forms}
 
@@ -299,7 +319,7 @@ Occasionally, we will see the defective spelling of the plural and dual endings:
 ## Irregular Pluralization  {#irregular_pluralization}
 
 * Like any language, Hebrew has a handful of irregular nouns 
-* For example, you won't find <span class="he">נִשִׁים</span> in a dictionary. 
+* For example, you won't find <span class="he">נִשִׁים</span> in a dictionary
 * You need to know the singular form, <span class="he">אִשָּׁה</span>
 
 ::: {.box .light} 
@@ -307,14 +327,14 @@ Memorize these eight most common pairs:
 
 | S   | Def      | P     | Def.      |
 |:-----|:----------|:-------|:-----------|
-|<span class="he"> אִישׁ </span>| man      | <span class="he">אֲנָשִׁים</span> | men       |
-|<span class="he"> אִשָּׁה </span>| woman    | <span class="he">נָשִׁים</span>  | women     |
-|<span class="he"> עִיר </span>| city     | <span class="he">עָרִים </span> | cities    |
-|<span class="he"> אָב </span> | father   | <span class="he">אָבוֹת </span> | fathers   |
-|<span class="he"> בַּ֫יִת</span> | house    | <span class="he">בָּתִּים </span> | houses    |
-|<span class="he"> בַּת</span>  | daughter | <span class="he">בָּנוֹת </span> | daughters |
-|<span class="he"> בֵּן</span>  | son      | <span class="he">בָּנִים </span> | sons      |
-|<span class="he"> יוֹם</span> | day      | <span class="he">יָמִים </span> | day       |
+|<span class="he"> אִישׁ </span>| man      | **<span class="he">אֲנָשִׁים</span>** | men       |
+|<span class="he"> אִשָּׁה </span>| woman    | **<span class="he">נָשִׁים</span>  **| women     |
+|<span class="he"> עִיר </span>| city     | **<span class="he">עָרִים </span>** | cities    |
+|<span class="he"> אָב </span> | father   | **<span class="he">אָבוֹת </span>** | fathers   |
+|<span class="he"> בַּ֫יִת</span> | house    | **<span class="he">בָּתִּים </span>** | houses    |
+|<span class="he"> בַּת</span>  | daughter | **<span class="he">בָּנוֹת </span> **| daughters |
+|<span class="he"> בֵּן</span>  | son      | **<span class="he">בָּנִים </span> **| sons      |
+|<span class="he"> יוֹם</span> | day      | **<span class="he">יָמִים </span>** | day       |
 :::
 
 * The plural forms retain the gender of their singular noun
@@ -329,22 +349,24 @@ The next two categories of irregular words are more straightforward:
 
 ### Segholate Nouns follow a standard vowel pattern when pluralizing {-}
 
-* Did you notice that the words <span class="he">דֶּ֫רֶךְ</span>  and <span class="he">סֵ֫פֶר</span> have the accent is on the first syllable?
+* Did you notice that the words <span class="he">דֶּ֫רֶךְ</span> and <span class="he">סֵ֫פֶר</span> have the accent is on the first syllable?
 * Many two-syllable words accented on the penult are classified as _Segholate_ nouns.  
 * They get this name because frequently, though not always, there are two Seghol vowels. <span class="he">נַ֫עַר</span>  (boy, youth) is a Segholate noun even though it doesn't have any Seghol vowels.
 
 ::: {.box .info}
-If a plural word has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending, the word is likely a Segholate noun.
-:::
+PLURAL SEGHOLATE NOUN HINT
 
-* <span class="he">מֶ֫לֶךְ</span> to <span class="he">מְלָכִים</span>
-* <span class="he">סֵ֫פֶר</span> to <span class="he">סְפָרִים</span>
-* <span class="he">נַ֫עַר</span> to <span class="he">נְעָרִים</span>
+A plural word that has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending is probably a Segholate noun
+
+* <span class="he">מֶ֫לֶךְ</span> to **<span class="he">מְלָכִים</span>**
+* <span class="he">סֵ֫פֶר</span> to **<span class="he">סְפָרִים</span>**
+* <span class="he">נַ֫עַר</span> to **<span class="he">נְעָרִים</span>**
+
+:::
 
 ### Geminate Words take a Daghesh Forte {-}
 
-_Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal"), but at one point the second consonant appeared twice.  Example <span class="he">עַם</span> (people) was once *<span class="he">עמם</span>.
-The lexical form drops the extra consonant.
+_Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal").  At one point in history, the second consonant appeared twice.  Example <span class="he">עַם</span> (people) was once *<span class="he">עמם</span>.  The lexical form drops the extra consonant.
 
 ::: {.box .info}
 When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example,<span class="he"> עַם</span> becomes <span class="he">עַמִּים</span> (peoples).
@@ -359,7 +381,7 @@ The reason we don't have a Daghesh Forte in עַם is that **the last consonant 
     * We remember the reduced vowels are _Vocal_ Sheva, Hateph Patach, Hateph Seghol, and Hateph Qamets Hatuf
 * Sometimes, according to grammar rules, we end up with a scenario where we would have two reduced vowels such as two Vocal Sheva, back to back
 * The "Rule of Sheva" defines what happens to resolve: when two reduced vowels occur in a row, the first becomes short
-* It is important to recognize when a word has vowels modified because of the Rule of Sheva
+* Learn to recognize when a word has vowels modified because of the Rule of Sheva
     * If we see the combination Hireq+Sheva, the word was _likely_ two consecutive Vocal Sheva before the Rule of Sheva was applied
     * If we see a short vowel under a guttural followed by Sheva (or vice-versa) the short vowel was originally the Hateph vowel in the same class as the short vowel
 
@@ -378,16 +400,16 @@ RULE OF SHEVA
 :::
 
 * Note the unique situation above when the second consonant is a Yod; this occurs frequently
-* When a prefix is added to <span class="he">אלֹהִים</span> and the Tetragramaton, the vowel changes are irregular:
+* When a prefix is added to <span class="he">אלֹהִים</span> and the Tetragrammaton, the vowel changes are irregular:
     * With <span class="he">אלֹהִים</span> the aleph becomes quiescent after a prefix:
         * <span class="he">אלֹהִים + לְ = לֵאלֹהִים</span>
-    * With the Tetragramaton, the prefixed letter with take a Patach, with nothing under the Yod:
+    * With the Tetragrammaton, the prefixed letter with take a Patach, with nothing under the Yod:
         *  <span class="he">בַיהוָה</span>
 
 ::: {.box .info}
 You may be wondering why you need to know this
 
-Understanding that a syllable may have "originally" had a reduced vowel is an important clue when it comes to translating and parsing.  If you're 'foggy' now, hang in there.  It will make sense in a bit!
+Understanding that a syllable may have "originally" had a reduced vowel is an important clue in translating and parsing.  If you're 'foggy' now, hang in there.  It will make sense in a bit!
 :::
 
 ## Lexical Form {#lexical_form}
@@ -405,7 +427,7 @@ The Lexical Form is the dictionary version of the word.
     1. Drop the plural or dual ending
     2. Perhaps add a Feminine Singular ending (usually ה ָ ), or less frequently, ה ֶ for Masculine Singular
     3. For Geiminate nouns, drop the Dagesh Forte when it lacks a vowel
-    4. Often change vowels if no singular ending - reduced vowels often become regular vowels but vowel letters do not change
+    4. Often change vowels if no singular ending - reduced vowels often become regular vowels, but vowel letters do not change
 
 ## Word Warm-up {-}
 
@@ -431,16 +453,16 @@ The Lexical Form is the dictionary version of the word.
     * With Lesson 4, we are gradually increasing the depth of work in `Anki`
     * The `Workbook` will have short activities such as translation examples of concepts taught in the lesson and word "parsing"
     * When we parse a Hebrew word, we identify three things:
-        * the Person (if applicable), Number and Gender of the word
+        * the Person (if applicable), Number, and Gender of the word
         * the Lexical form
         * the definition of the original word
-    * For example if the instruction is to parse <span class="he">שִׁירִים</span>  , we would respond with: "MP שִׁיר  Songs"
+    * For example, if the instruction is to parse <span class="he">שִׁירִים</span>  , we would respond with: "MP שִׁיר  Songs"
     * You may not know every word -
         * **That is the point of this exercise!**  
         * As you read your Hebrew Bible, you will invariably come across words you don't know.  
         * You will need to be able to break down a word into its Lexical form so you can look it up
         * In the [appendix](#lexicon), we have links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"} 
-    * As we continue to advance, future lessons will incorporate additional aspects into our parsing activities such as verb conjugation.
+    * Future lessons will incorporate additional aspects into our parsing activities such as verb conjugation
 * `Lesson 04 D. Study Verses`
     * We will continue with study verses that provide examples of the Lesson's vocabulary
     * Hints will be provided for less familiar verbs
@@ -450,8 +472,8 @@ The Lexical Form is the dictionary version of the word.
 ::: {.box .map}
 YOUR QUEST
 
-1. Find one regular singular segholate noun in V1.  In this verse there is also a segholate noun with a propositional prefix that we haven't studied yet; this world also takes on vowel changes but we'll cover that in a few lessons (yellow)
-2. Find all words regular masculine plural in the chapter (pink). Some words are prefixed with the definite article, which we will cover in the next lesson.  Also find all regular Feminine plural nouns in the chapter (pink).  One of the words in verses 2-6 has a MP ending but is actually an irregular FP.  Highlight this word in (green).
+1. Find one regular singular segholate noun in V1.  In this verse, there is also a segholate noun with a propositional prefix that we haven't studied yet; this world also takes on vowel changes, which we'll cover in a few lessons (yellow)
+2. Find all words regular masculine plural in the chapter (pink). Some words are prefixed with the definite article, which we will cover in the next lesson.  Also, find all regular Feminine plural nouns in the chapter (pink).  One of the words in verses 2-6 has a MP ending but is actually an irregular FP.  Highlight this word in (green).
     * Be sure to research any words you don't know. HLI has a [lexicon available here.](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
 3. <span class="he">כַלֹּתֶיהָ
 </span> is a word meaning her daughters-in-law (in verse 22, this word is in the singular).  It comes from a verb meaning "finish" or "end" (we'll let you ponder that!). Find all four examples of these feminine nouns, including one with the "and" prefix (grey)
@@ -488,12 +510,12 @@ Placeholder
 ### <span class="he">מִי־מָדַד בְּשָׁעֳלוֹ מַיִם וְשָׁמַיִם</span> {-}
 ## Translate the Vav Conjunction {#vav_translate}
 ## Identify the Vav Conjunction {#vav_identify}
-## Loss of Daghesh Forte {#loss_daghesh_forte}
+## Loss of Dagesh Forte {#loss_Dagesh_forte}
+## Compensatory Lengthening
 ## Translate the Article {#article_translate}
 ## Identify the Article {#article_identify}
-## Compensatory Lengthening
 ## Hebrew Indefiniteness {#indefiniteness}
-## Hebrew Definiteness {#definiteness}
+## Other Hebrew Definiteness {#definiteness}
 ## Lesson Conclusion and Activities {-}
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
@@ -512,14 +534,17 @@ Placeholder
 
 ## First Thought {-}
 ### <span class="he">  בְּיוֹם צָרָתִי אֲדֹנָי דָּרָשְׁתִּי </span> {-}
-## Nun with Silent Sheva Becomes Daghesh Forte
+## _Hebrew Quest_ Prepositions Lecture
+## Nun with Silent Sheva Becomes Dagesh Forte
 ## Independent and Maqqef prepositions 
 ## Inseparable prepositions
 ## The Article and Inseparable Prepositions
 ## The flexible <span class="he">מִן</span>: construction
+## The Article and <span class="he">מִן</span>
 ## The flexible <span class="he">מִן</span>: meanings 
 ## The Definite Direct Object marker 
-## Review and Activities {-}
+## _Hebrew Quest_ discussion of Genesis 1:1 
+## Conclusion {-}
 ### Anki {-}
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
@@ -540,7 +565,7 @@ Placeholder
 ## Substantival Use
 ## Attributive Use
 ## Predicative Use
-## Adjective Use Summary
+## Attributive, Predicative, and Substantival Comparison
 ## The Mappiq 
 ## The Directional Ending 
 ## Word Warm-up {-}
@@ -560,21 +585,23 @@ Placeholder
 
 ## First Thought {-}
 ### <span class="he">זֶה הַדֶּרֶךְ לְכוּ בוֹ</span> {-}
-## Independent Personal Pronoun
+## Independent Personal Pronoun Table
+## Independent Personal Pronouns Discussion
 ## Relative Pronoun <span class="he">אֲשֶׁר</span>
 ## Interrogative Pronoun
 ## Interrogative Particle <span class="he">הֲ</span>
-### Interrogative Particle vs Definite Article {-}
+## Interrogative Particle vs Definite Article {-}
 ## Near and Far Demonstratives
-## Demonstrative Adjective 
 ## Demonstrative Pronoun
-## Conclusion and Intro to Activities {-}
+## Demonstrative Adjective 
+## Conclusion {-}
+## _Hebrew Quest_ Pronouns
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Worksheets: Pronouns {-}
 ## Ruth Pursuit {-}        
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 <!--chapter:end:08-Pronouns.Rmd-->
 
@@ -650,8 +677,9 @@ Placeholder
 ## Conclusion
 ### Anki {-}
 ## Word Warm-up {-}
-## x Verses Warm-up` {-}
+## Verses Warm-up` {-}
 ## Ruth Pursuit {-}        
+## Claim your Unit 2 Completion Certificate! {-}
 
 <!--chapter:end:11-Numerals.Rmd-->
 
@@ -698,7 +726,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
-## OPTIONAL: _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
 
 <!--chapter:end:12-Verbs_Intro.Rmd-->
 
@@ -729,8 +757,8 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
-## X Claim your next `Twelve Tribes Badge`! {-}
-## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #5-7 {-}
+## Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #5-7 {-}
 
 <!--chapter:end:13-Qal_Perfect_Strong.Rmd-->
 
@@ -761,8 +789,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}    
-## X Quest Quiz {-}
-## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #8-10 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #8-10 {-}
 
 <!--chapter:end:14-Qal_Perfect_Weak.Rmd-->
 
@@ -788,8 +815,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheets: Qal Imperfect Strong Paradigm {-}
 ## Ruth Pursuit {-}   
-## X Quest Quiz {-}
-## OPTIONAL: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
 
 <!--chapter:end:15-Qal_Imperfect_strong.Rmd-->
 
@@ -822,9 +848,8 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
-## OPTIONAL:  _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
+## Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
 
 <!--chapter:end:16-Qal_Imperfect_Weak.Rmd-->
 
@@ -850,9 +875,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheets: Qal Vav-Consecutive Paradigms {-}
 ## Ruth Pursuit {-}   
-## Hebrew Quest Study Passage: Genesis 1:1-5 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Genesis 1:1-5 {-}
 
 <!--chapter:end:17-Vav_Consecutive.Rmd-->
 
@@ -882,9 +905,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheets: Qal Volitional Forms {-}
 ## Ruth Pursuit {-}   
-## Hebrew Quest Study Passage: The Shema {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: The Shema {-}
 
 <!--chapter:end:18-Qal_Imperative_strong.Rmd-->
 
@@ -894,31 +915,19 @@ Placeholder
 Placeholder
 
 
-## X First Thought {-}
-### X <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
+##  First Thought {-}
+### <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
 ## Hebrew Direct Object Pronouns
 ## Verbs use Type 1 Suffixes
 ## QP Vowel Changes
 ## QI Vowel Changes 
 ## QM Vowel Changes
 ## Imperative/Perfect Ambiguity when normal Imperative $V_S = A$
-## X <stem> Verb Stem Table 
-## X <stem> Meanings
-## X <stem> Strong Word-initial Combinations 
-## X <stem> Strong Stem Vowels 
-## X <stem>: what to memorize
-## X <stem> Perfect Strong
-## X <stem> Imperfect Strong
-## X <stem> Imperative Strong
-## X <stem> Infinitives Strong
-## X <stem> Participle Strong
-## X <stem> Parsing Examples
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Hebrew Quest Study Passage: Matthew 6 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Matthew 6 {-}
 
 <!--chapter:end:19-Pronominal_Suffix_Verbs.Rmd-->
 
@@ -943,9 +952,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## Hebrew Quest Study Passage: Genesis 22:1-19 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Genesis 22:1-19 {-}
 
 <!--chapter:end:20-Qal_Infinitive_Construct.Rmd-->
 
@@ -965,9 +972,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## Hebrew Quest Study Passage: Numbers 6: Priestly Blessing {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Aaronic/Priestly Blessing {-}
 
 <!--chapter:end:21-Qal_Infinitive_Absolute.Rmd-->
 
@@ -990,9 +995,8 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheets: All Qal Paradigms {-}
 ## Ruth Pursuit {-}        
-## Hebrew Quest Study Passage: Matthew 13 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Matthew 13 {-}
 
 <!--chapter:end:22-Qal_Participle.Rmd-->
 
@@ -1015,7 +1019,8 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Hebrew Quest Study Passage: Psalm 19 {-}
+## Claim your Unit 3 Completion Certificate! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Psalm 19 {-}
 
 <!--chapter:end:23-Hebrew_Syntax.Rmd-->
 
@@ -1064,7 +1069,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Worksheets: Niphal Strong Paradigm {-}
-## Hebrew Quest Study Passage: Numbers 15 {-}
+## Optional _Hebrew Quest_ Study Passage: Numbers 15 {-}
 
 <!--chapter:end:24-Niphal_Strong.Rmd-->
 
@@ -1087,9 +1092,8 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Hebrew Quest Study Passage: John 1 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: John 1 {-}
 
 <!--chapter:end:25-Niphal_Weak.Rmd-->
 
@@ -1118,9 +1122,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheets: Piel Strong Paradigms {-}
 ## Ruth Pursuit Analysis
-## Hebrew Quest Study Passage: Exodus 31 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 31 {-}
 
 <!--chapter:end:26-Piel_Strong.Rmd-->
 
@@ -1145,8 +1147,6 @@ Placeholder
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
 ## Hebrew Quest Study Passages: Psalms 1 and 27 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
 
 <!--chapter:end:27-Piel_Weak.Rmd-->
 
@@ -1162,17 +1162,17 @@ Placeholder
 ## Parsing Clues - _Pre_: $V_1 = U$ - ALWAYS for strong verbs
 ## Parsing Clues - $V_S = A$ and Dagesh Forte in $R_2$
 ## Pual: what to memorize
-## X Perfect  
-## X Imperfect  
-## X Participle
+## Perfect  
+## Imperfect  
+## Participle
 ### Participle Prefixes in the Derived Stems {-}
 ## Pual Parsing Examples
 ## Stem Comparison Table
+## Worksheets: Pual Paradigm {-}
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit Analysis {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
-## OPTIONAL Worksheets: Pual Paradigm {-}
+## Claim your next `Twelve Tribes Badge`! {-}
 ## OPTIONAL Hebrew Quest Study Passage: Revelation 1 {-}
 
 <!--chapter:end:28-Pual_Strong.Rmd-->
@@ -1183,7 +1183,7 @@ Placeholder
 Placeholder
 
 
-## X First Thought {-}
+## First Thought {-}
 ### <span class="he">גִּבּ֣וֹר בָּ֭אָרֶץ יִהְיֶ֣ה זַרְע֑וֹ דּ֭וֹר יְשָׁרִ֣ים יְבֹרָֽךְ׃</span> {-}
 ## The Pual diagnostic $V_1 = U$ is maintained in almost all weak verbs
 ## 2-Gutturals Reject Dagesh Forte
@@ -1191,9 +1191,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit 
-## Hebrew Quest Study Passage: Psalms 145 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 145 {-}
 
 <!--chapter:end:29-Pual_Weak.Rmd-->
 
@@ -1223,14 +1221,12 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit Analysis {-}
-## Hebrew Quest Study Passage: Exodus 19 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 19 {-}
 
 <!--chapter:end:30-Hiphil-Strong.Rmd-->
 
 
-# The Hiphil Stem - Weak Verbs {.H-w}
+# The X Hiphil Stem - Weak Verbs {.H-w}
 
 Placeholder
 
@@ -1238,16 +1234,15 @@ Placeholder
 ## First Thought {-}
 ### <span class="he">תּ֘וֹרַ֤ת יְהוָ֣ה תְּ֭מִימָה מְשִׁ֣יבַת נָ֑פֶשׁ עֵד֥וּת יְהוָ֥ה נֶ֝אֱמָנָ֗ה מַחְכִּ֥ימַת פֶּֽתִי׃</span> {-}
 ## Weak Verbs Review: 
+## Strong Summary
 ## 1-Guttural
 ## 3-Hei
-## X <stem>: what to memorize
 ## Top 10 Hiphil Verbs
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Hebrew Quest Study Passage: Exodus 20 {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next `Twelve Tribes Badge`! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 20 {-}
 
 <!--chapter:end:31-Hiphil-Weak.Rmd-->
 
@@ -1270,9 +1265,9 @@ Placeholder
 ## Stem Comparison Table
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
-## OPTIONAL: Hophal Parsing Worksheet {-}
+## Hophal Strong Worksheet {-}
+## Ruth Pursuit {-}
 ## Ruth Pursuit Analysis {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
 ## OPTIONAL Hebrew Quest Study Passage: 1 Samuel 17 {-}
 
 <!--chapter:end:32-Hophal_Strong.Rmd-->
@@ -1291,7 +1286,6 @@ Placeholder
 ## Top 10 Hophal Verbs
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
-## Ruth Pursuit {-}   
 ## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 45 {-}
 
 <!--chapter:end:33-Hophal_weak.Rmd-->
@@ -1318,6 +1312,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Hitpael Parsing Worksheet {-}
 ## Ruth Pursuit Analysis
+## Claim your next `Twelve Tribes Badge`! {-}
 ## OPTIONAL _Hebrew Quest_ Study Passage: Leviticus 23 {-}
 
 <!--chapter:end:34-Hitpael_Strong.Rmd-->
@@ -1339,33 +1334,15 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## X Claim your next `Twelve Tribes Badge`! {-}
-## OPTIONAL_Hebrew Quest_ Study Passage: 1 Kings 18 {-}
+## You did it!  Claim your Diploma! {-}
+## OPTIONAL _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
 
 <!--chapter:end:35-Hitpael_Weak.Rmd-->
 
-# X Conclusion {-}
 
-We would like to take a moment and recap all that you have accomplished in His strength.  Each section will also have tips and references on where you can go next.
+# Conclusion {-}
 
-
-
-## Hebrew Quest Study Passages {-}
-
-You have studied 20 distinct passages, most of which were full chapters of the Hebrew Bible or passages from the Delitsch Hebrew New Testament.  You have also completed the 17-lesson "Premium Proverbs" study.
-
-**Next steps**: If you haven't yet finished _Hebrew Quest_ this is where you should head next.  
-
-## Ruth Pursuit - Intermediate Hebrew {-}   
-
-* You have skimmed, if not read entirely through, Ruth Chapter one at least 35 times!
-
-**Next steps**: Continue with Intermediate Hebrew!
-
-* You can review [Dr. Beckman's Notes on Ruth](./images/00_Ruth_notes.pdf){target="_blank"}
-* We can recommend two Intermediate Hebrew books:
-    * [A Workbook for Intermediate Hebrew](https://www.amazon.com/gp/product/0825423902/&tag=holylanginst-20){target="_blank"}, by Robert B. Chisholm, Jr., which contains a verse by verse expositional grammar study through the books of Ruth and Jonah
-    * The same author has [From Exegesis to Exposition: A practical Guide to Using Biblical Hebrew](https://www.amazon.com/gp/product/B009UOG4N4/&tag=holylanginst-20){target="_blank"}
+Placeholder
 
 
 
@@ -1375,60 +1352,7 @@ You have studied 20 distinct passages, most of which were full chapters of the H
 
 <!--chapter:end:40-Appendices.Rmd-->
 
-
-# Anki info and FAQ {#anki_faq}
-
-Placeholder
-
-
-## Installation {- #installation_anki}
-## Customize Anki Settings {- #anki_settings}
-### Below is the main set you will want to change.  Enter these numbers carefully: {-}
-## How do I access Anki on my mobile device? {-}
-## How do I navigate within Anki? {-}
-## How do I know when to hit the `Good` button on a **Vocabulary** or **Grammar** card? {-}
-## How do I know when to hit the `Good` button on a **Verse Translation** card? {-}
-## What are Anki Add-ons? {-}
-## How often should I expect to work in Anki? {-}
-## How do I know when I'm done with a deck? {-}
-## Anki Completion Requirements for the`Course Checklist` {-}
-## Anki Completion Requirements for the `Certificate` {-}
-## What do the different card stages mean? {-}
-## Can I add an image or a hint? {-}
-## Can I modify the layout of a card? {-}
-### Proceed with caution: {-}
-## What does `There are more new cards available, but the daily limit has been reached` mean? {-}
-## How do I submit screenshots for the `Certificate`? {-}
-
-<!--chapter:end:45-Anki.Rmd-->
-
-
-# More Hebrew Quest and Hebrew GRAMMAR Quest FAQ {#hq_hgq_faq}
-
-Placeholder
-
-
-## What is the difference between Hebrew Quest and Hebrew GRAMMAR Quest? {- #difference}
-## Do I need to complete Hebrew Quest before I start Hebrew GRAMMAR Quest? {- #complete_hq_first}
-## When I complete this course, should I go back and finish Hebrew Quest? {- #need_to_finish_hq}
-## I haven't started either course.  Which should I do first? {- #which_first}
-
-<!--chapter:end:50-HQ_HGQ_FAQ.Rmd-->
-
-
-# Other FAQ {#other_faq}
-
-Placeholder
-
-
-## There are many books out there to learn Hebrew.  What makes Hebrew GRAMMAR Quest different? {- #hgq_difference}
-## Will I be required to buy anything? {- #buy_materials} 
-## Who will (and who might not) benefit from Hebrew GRAMMAR Quest? {- #who_benefits}
-## What if I am a Bible teacher? Should I take this course? {- #bible_teacher}
-
-<!--chapter:end:55-faq.RMD-->
-
-# Lexicon 
+# Hebrew Lexicon 
 
 
 ```r
@@ -1458,21 +1382,6 @@ Placeholder
 
 <!--chapter:end:60-About_HLI.Rmd-->
 
-# Acknowledgments {-}
-
-All honor and glory to Yeshua, our Lord.  שֵׁם יְהוָה אֶקְרָא
-
-
-Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the format of **Hebrew GRAMMAR Quest**.  We encourage any of our students who wish to go further with Hebrew grammar to purchase the textbook or any related materials.
-
-Additionally, our thanks to Dr. John Beckman for making his extensive library of materials to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
-
-Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/) tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have been able to achieve those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free, while maintaining a professional look.
-
-Finally, we thank YOU for your interest in this course! 
-
-<!--chapter:end:60-Acknowledgments.Rmd-->
-
 # About the designer of this book {-}
 
 * Chris Flanagan has been a member of HLI since 2013 and joined as a ministry volunteer in 2015.
@@ -1497,44 +1406,8 @@ knitr::include_graphics("images/cf.jpg")
 <!--chapter:end:65-abouttheauthor.Rmd-->
 
 
-<!--chapter:end:70-License.Rmd-->
-
-
 # References {-}
 
 
 <!--chapter:end:99-References.Rmd-->
-
-
-# X LessonTitle {#lessontitle}
-
-Placeholder
-
-
-## X First Thought {-}
-### X <span class="he"> </span> {-}
-## X Point1 
-## X Point2 
-## X Point3 
-## X <stem> Verb Stem Table 
-## X <stem> Meanings
-## X <stem> Strong Word-initial Combinations 
-## X <stem> Strong Stem Vowels 
-## X <stem>: what to memorize
-## X <stem> Perfect Strong
-## X <stem> Imperfect Strong
-## X <stem> Imperative Strong
-## X <stem> Infinitives Strong
-## X <stem> Participle Strong
-## X <stem> Parsing Examples
-## X Word Warm-up {-}
-## X Verses Warm-up {-}
-## X Anki {-}
-## X Worksheets: NameOfWorksheet {-}
-## X Ruth Pursuit {-}        
-## X Hebrew Quest Study Passage: Book ## {-}
-## X Quest Quiz {-}
-## X Claim your next `Twelve Tribes Badge`! {-}
-
-<!--chapter:end:99-zChapter_Template.Rmd-->
 

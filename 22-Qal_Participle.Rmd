@@ -56,7 +56,16 @@ It's become a cliche for teachers to ask, "which of the four soils are you?"  In
 knitr::include_graphics("images/22_Cove of the Sower from east, tb112000201.jpg")
 ``` 
 
+## _Hebrew Quest_ Qal Participles Lecture
 
+View this 1-minute overview video from _Hebrew Quest_ on Hebrew Qal Participle Verbs. 
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hfu4gjNo2K4?start=3664&end=3737&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3664){target="_blank"}
 
 ## Participles are Verbal Adjectives
 
@@ -160,6 +169,16 @@ library(knitr)
 include_graphics("images/22_stemcomp.png")
 ```
 
+## _Hebrew Quest_ Qal Summary Lecture
+
+As a conclusion to our study of Qal verbs, view this 5-minute summary of the Qal stem from _Hebrew Quest_. 
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3737){target="_blank"}
 
 ## Word Warm-up {-}
 

@@ -241,7 +241,7 @@ There is no formal quest for this lesson, but consider the following points base
 
 ## Claim your Unit 3 Completion Certificate! {-}
 
-If you have completed **all activities** in Lessons 1-23, you may claim the third `Unit Completion Certificates`.
+If you have completed **all activities** in Lessons 1-23, you may claim the third `Unit Completion Certificate`.
 
 <div class="containerLet">
 <iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>

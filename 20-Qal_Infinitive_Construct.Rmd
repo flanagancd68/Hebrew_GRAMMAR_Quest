@@ -40,7 +40,17 @@ Ponder these things as you work through this Lesson and the study passage.
 knitr::include_graphics("images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg")
 ``` 
 
+## _Hebrew Quest_ Qal Infinitves Lecture
 
+View this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs. Izzy spends the bulk of the lecture discussing the Qal Infinitive Absolute form, which we will study in Lesson 21.
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3505){target="_blank"}
 
 ## Two types of Infinitives
 

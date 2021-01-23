@@ -49,7 +49,17 @@ This is a great picture of what the LORD means when He says He will "keep" us!
 knitr::include_graphics("images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg")
 ``` 
 
+## _Hebrew Quest_ Qal Infinitves Lecture
 
+As needed, review this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs.
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3505){target="_blank"}
 
 
 ## QA

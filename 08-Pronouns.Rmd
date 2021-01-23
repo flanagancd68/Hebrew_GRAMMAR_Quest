@@ -1,10 +1,16 @@
 # Hebrew Pronouns
 
-> To comprehend Biblical Hebrew, we must be able to identify pronouns with gender, number and person 
+> To comprehend Biblical Hebrew, we must be able to identify pronouns with gender, number, and person 
 
-Pronouns are essentially a language's shorthand so we don't have to keep repeating nouns (because saying all of those nouns over and over can really wear you down).
+Pronouns are essentially a language's shorthand, so we don't have to keep repeating nouns (because saying all of those nouns over and over can really wear you down<small>^[If you grew up in the late 70s and early 80s, you might be familiar with the [Schoolhouse Rock Pronoun video](https://www.youtube.com/watch?v=cZaMXYAu9h0){target="_blank"}</small>]</small>).
 
-As such, this is an important topic that will take two lessons (8 and 9).  If you want to understand what you're reading, you will need a firm grasp of pronouns to help decipher what is happening in the narrative.
+The main challenge with a pronoun is determining the noun _it_ replaces.  See what happened there?  We used the pronoun "it".  You probably deduced "it" was referring to the word "pronoun," not "noun."  That is because you are very familiar with English context and syntax.  
+
+* The example, "John saw Bob. He said, 'hello'" is ambiguous; we are not sure what the author meant to convey
+* The example "John saw Sally. He said, 'hello'" is not ambiguous at all
+* Hebrew works very similarly
+
+As such, this is an important topic that will take two lessons (8 and 9). A firm grasp of pronouns helps us to decipher what is happening in the narrative.
 
 ::: {.infobox .map}
 **LESSON ITINERARY**
@@ -48,38 +54,63 @@ Pray that you continually walk in His way, not your own way
     </audio>
 </figure>
 
-The first word in above passage is an example of a "demonstrative pronoun". The first two words are translated, "this is the way".  Contrast "this is the way" with the phrase "this way."  "This way" would be written <span class="he">הַדֶּרֶךְ הַזֶּה</span>.  "This way" is an example of a "demonstrative adjective."  We'll learn about demonstratives in this lesson.
+The first word in the passage above is an example of a "demonstrative pronoun". The first two words are translated, "this is the way".  Contrast "this is the way" with the phrase "this way."  "This way" would be written <span class="he">הַדֶּרֶךְ הַזֶּה</span>.  "This way" is an example of a "demonstrative adjective."  
 
 *****
 
-```{r, out.width = "600pt", fig.align='center', fig.cap="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley below on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg")
 ``` 
 
-## Independent Personal Pronoun
+## _Hebrew Quest_ Independent Pronouns Lecture
 
-Independent personal pronouns are _always_ subjects, meaning they are equivalent to I, you, she, he, it and they in English (NOT me, my, her, him, his)
+View this 4-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. The first table Izzy reviews is reproduced in the next section. Prominimal suffixes will be discussed in the next lesson.
 
-```{r, out.width = "400pt", fig.align='center'}
-library(knitr)
-knitr::include_graphics("images/08.sub_pn_table.png")
-```
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?start=637&end=921
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
 
-You will work to memorize these in `Anki`.
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=637){target="_blank"}
 
-Notes:
 
-* This is the first time we are officially using all three elements of Person, Gender and Number.  3MS is shorthand for Person = 3rd Person, Gender = Masculine, Number=Singular
-* For 1st person, Hebrew, like English, does not distinguish between gender in the first person.  A woman says "I" and a man says "I"
+## Independent Personal Pronoun Table
+
+P/G |S | P
+:-: | :-: | :-:
+1C | <span class="he>אֲנִי ,אָנֹכִי</span> | <span class="he>אֲנַ֫חְנוּ</span> | 
+2M  | <span class="he>אַתָּה</span> | <span class="he>אַתֶּם</span> | 
+2F | <span class="he>אַתְּ</span> | <span class="he>אַתֵּ֫נָה</span> | 
+3M  | <span class="he>הוּא</span> | <span class="he>הֵם ,הֵ֫מָּה</span> | 
+3F  | <span class="he>הִיא ,הִוא</span> | <span class="he>הֵן ,הֵ֫נָּה</span> | 
+
+* You will work on memorizing these in `Anki`
+* The 3FS form הִוא is found only in the Torah
+
+::: {.box .info}
+PRONOUN TIPS
+
+* All 1st person pronouns begin with <span class="he">אנ</span>
+* All 2 begin with accented <span class="he">אַתּ֫</span> - note the Daghesh Forte
+* All 3 begin with accented <span class="he">ה֫</span>
+* All MP end with either <span class="he">מָה</span> or <span class="he">ם.</span> Think "monks" since men are monks
+* All FP end with either <span class="he">נָה</span> or <span class="he">ן.</span> Think "nuns" since women are nuns
+* Who (הוּא) is he
+* He (הִיא ) is she
+
+:::
+
+## Independent Personal Pronouns Discussion
+
+* Independent personal pronouns are _always_ subjects, meaning they are equivalent to I, you, she, he, it, and they in English (NOT me, my, her, him, his)
+* This is the first time we are officially using all three elements of Person, Gender and Number
+    * 3MS is shorthand for Person = 3rd Person, Gender = Masculine, Number=Singular
+* 1st person
+    * Like English, Hebrew does not distinguish between gender in the first person
+    * A woman says "I" and a man says "I"
     * <span class="he">אָנֹכִי</span> is considered more formal or emphatic.  It is often translated, "I, myself"
-* Note the following memory aids:
-    * All 1st person pronouns begin with <span class="he">אנ</span>
-    * All 2 begin with accented <span class="he">אַתּ֫</span> - note the Daghesh Forte
-    * All 3 begin with accented <span class="he">ה֫</span>
-    * All MP end with either <span class="he">מָה</span> or <span class="he">ם.</span> Think "monks" since men are monks
-    * All FP end with either <span class="he">נָה</span> or <span class="he">ן.</span> Think "nuns" since women are nuns
-    * Who is he? He is she.
 * Do not confuse <span class="he">אַתָּה</span> (you 2MS) with <span class="he">עַתָּה</span> (now)
     
 ## Relative Pronoun <span class="he">אֲשֶׁר</span>
@@ -88,12 +119,8 @@ Notes:
 * <span class="he">אֲשֶׁר</span> is a vocabulary word for this lesson
 * This word does not inflect/the spelling never changes
 * It can refer to people (who) or things (that), subjectively (who) or objectively (whom)
-
-Example Deuteronomy 1:1
-
-> <span class="he">אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה</span>
-
-_These are the words *that* Moses spoke_
+* <span class="he">אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה</span>
+    * _These are the words *that* Moses spoke (Deuteronomy 1:1)_
 
 ## Interrogative Pronoun
 
@@ -101,86 +128,125 @@ _These are the words *that* Moses spoke_
 * <span class="he">מָה</span> = what (think of your mom questioning you, "What, ma?")
     * Can also be written as Maqqef - note the vowel shortens <span class="he">מַה־</span>
 *   <span class="he">לָמָה</span> = why
-    * Remember the familiar verse "<span class="he">אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי</span> " - My God, my God, WHY have you forsaken me?
+* <span class="he">אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי</span>
+    *  _My God, my God, WHY have you forsaken me? (Psalms 22:1)_
 
 ::: {.box .info}
-Usually these words will appear at the beginning of a clause
+
+Usually, interrogative pronouns will appear at the beginning of a clause
+
 :::
 
 ## Interrogative Particle <span class="he">הֲ</span>
 
-English has a question mark at the end of a sentence. Hebrew has what is called an interrogative particle at the BEGINNING of a sentence that asks a yes/no question.
+* English has a question mark at the end of a sentence
+* Hebrew has what is called an interrogative particle at the BEGINNING of a sentence
+* The interrogative particle ONLY asks a yes/no question
+    * Questions that ask who? what? or why? will use interrogative pronouns
+* We notice that  <span class="he">הֲ</span> looks a lot like the definite article - the next section will examine differences
 
-Questions that ask who? what? or why? will use the interrogative pronouns.
+## Interrogative Particle vs Definite Article {-}
 
-### Interrogative Particle vs Definite Article {-}
+* Despite the similarity, most of the time, we will not have trouble differentiating the Article from the Interrogative Particle
+* Below are potential sources of ambiguity:
+    * 1st word of a clause before <span class="he">חָ֫,חָ, הָ, עָ</span>   = both are <span class="he">הֶ</span>
+    * 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = both are <span class="he">הַ</span>
+    * In these situations, you guessed it, you will need to let context determine whether a question is being asked
+* With lots of reading practice, this will get easier
+* Additionally, the Definite Article is about **300X more common**
 
-In most cases you will not have trouble differentiating the Article from the Interrogative Particle.  Below are potential sources of ambiguity:
 
-* 1st word of a clause before <span class="he">חָ֫,חָ, הָ, עָ</span>   = both are <span class="he">הֶ</span>
-* 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = both are <span class="he">הַ</span>
-* In these situations, you guessed it, you will need to let context determine whether a question is being asked.  
-* With lots of reading practice, this will get easier.  
-* Additionally, the Definite Article is about **300X more common**.
 
+
+## _Hebrew Quest_ Demonstratives Lecture
+
+
+View this brief overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. 
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?start=1160&end=1232
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1160){target="_blank"}
 
 ## Near and Far Demonstratives
 
-In English, the near demonstratives are this and these. The far demonstratives are that and those.  Think of "this right here" and "those, over there".
+* Demonstratives indicate distance
+* Hebrew has three words to indicate nearness; grammarians call these "near demonstratives"
+    * MS - <span class="he">זֶה</span> - "this"
+    * FS - <span class="he">זֹאת</span> - "this"
+    * (M/F)P - <span class="he">אֵ֫לֶּה</span> - "these"
+* The Hebrew words for farness ("far demonstratives") are the same as the subject pronouns
+    * MS - <span class="he">הוּא</span> -"that"
+    * FS - <span class="he">הִיא</span> - "that"
+    * MP - <span class="he">הֵם ,הֵ֫מָּה</span> - "those"
+    * FP - <span class="he">הֵן ,הֵ֫נָּה</span> - "those"
+    
+::: {.box .caution}
+POTENTIAL AMBIGUITY
 
-Hebrew has three words to indicate nearness.  We already learned the words to indicate distance - they are the same as the subject pronouns.
+<span class="he">הוּא הָאִישׁ</span> can mean either "he is the man," (personal pronoun) or "that is the man" (demonstrative pronoun)
 
-
-```{r, out.width = "400pt", fig.align='center'}
-library(knitr)
-knitr::include_graphics("images/08.demons_tbl.png")
-```
-
-## Demonstrative Adjective 
-
-Demonstratives act as adjectives or as pronouns.
-
-A demonstrative adjective modifies a noun just as an attributive adjective does.  These daughters.
-
-The behavior is a lot like the Attributive use: 
-
-* Always comes after the noun (Dem Adjective Always After)
-* Always has the article (Dem. Adjective Always Article)
-* Always matches in Gender and Number
-    * <span class="he">הָאִשָּׁה הַזֹּאת</span> = this woman (FS)
-    * <span class="he">הָאֲנָשִׁים הָהֵם</span>  = those men (MP)
-
-Mnemonic: 
-
-::: {.box .info}
-Demonstrative Adjective Always After noun, Always has Article
 :::
 
 ## Demonstrative Pronoun
 
-A demonstrative pronoun takes the place of a noun as the subject of a clause.  This is her daughter.
-
-The behavior is a lot like the Predicative use: 
-
-* Always comes before the noun (Pronoun Perpetually Precedes)
-* Does NOT have the article (Pronoun dePrived of article)
-* Matches Gender and Number
-    * <span class="he">זֹאת הַמַּלְכָּה</span>  = this is the queen (FS)
-    * <span class="he">זֶה הַמֶּ֫לֶךְ</span> = this is the king (MS)
-    
-Mnemonic:
+* Demonstratives act as adjectives or as pronouns
+* As we saw in the example <span class="he">הוּא הָאִישׁ</span>, a demonstrative pronoun takes the place of a noun as the subject of a clause<small>^[<small> When <span class="he">הוּא הָאִישׁ</span> means "he is the man", the personal pronoun "he" is the subject</small>]</small>
+* The behavior of the demonstrative pronoun is a lot like the Predicative Adjective use: 
+    * Always comes before the noun (Pronoun Perpetually Precedes)
+    * Does NOT have the article (Pronoun dePrived of article)
+    * Matches Gender and Number
+        * <span class="he">זֹאת הַמַּלְכָּה</span>  = this is the queen (FS)
+        * <span class="he">זֶה הַמֶּ֫לֶךְ</span> = this is the king (MS)
 
 ::: {.box .info}
+DEMONSTRATIVE PRONOUN MNEMONIC
+
 Demonstrative Pronoun Perpetually Precedes, Perpetually dePrived of article
+
 :::
 
-## Conclusion and Intro to Activities {-}
 
-Your mission for the next two lessons is to focus on building your pronoun vocabulary.  You may notice more `Anki` words than usual to learn but most of these are short (and for next lesson, the pronouns will mostly be two letters each).  After you finish the stack in `Anki` we have two pronoun worksheets for you to test your memory.
+## Demonstrative Adjective 
 
-It is important to know the gender, number, and where necessary the person of each.  Also the concept of multiple ways to say "you" can be confusing to the English speaker.  It's important to give the PGN, for example אַתֵּ֫נָה means "you (2FP)."
+* A demonstrative adjective modifies a noun just as an attributive adjective does
+* The behavior is a lot like the Attributive Adjective use: 
+    * Always comes after the noun (Dem Adjective Always After)
+    * Always has the Article (Dem. Adjective Always Article)
+        * A demonstrative adjective is referencing a specific something or someone; therefore, it is always definite
+    * Always matches in Gender and Number
+    * <span class="he">הָאִשָּׁה הַזֹּאת</span> = this woman (FS)
+    * <span class="he">הָאֲנָשִׁים הָהֵם</span>  = those men (MP)
 
-If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit extra.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs.  Keep at it!  You're doing awesome!
+::: {.box .info}
+DEMONSTRATIVE ADJECTIVE MNEMONIC
+
+Demonstrative Adjective Always After the noun, Always has Article, Always Agrees
+
+:::
+
+
+## Conclusion {-}
+
+* Your mission for the next two lessons is to focus on building your pronoun vocabulary!
+    * You may notice more `Anki` words than usual to learn but most of these are short
+    * After you finish the stack in `Anki` we have two pronoun worksheets for you to test your memory
+* Know the gender, number, and, where necessary, the person of each
+    * For learning purposes, get in the habit of providing the PGN whenever translating "you"
+        * For example, אַתֵּ֫נָה = "you" (2FP)
+
+::: {.box .map}
+
+If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit to make it to the top.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs.  Keep at it!  You're doing awesome!
+
+```{r, out.width = "600pt", fig.align='center', fig.cap="[Manna Ko](https://mannaforlife.com/) Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission."}
+
+knitr::include_graphics("images/08-manna-ko-hiking-en-gedi.jpg")
+``` 
+:::
 
 ## Word Warm-up {-}
 
@@ -205,12 +271,11 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 * `Lesson 08 A. Vocab`
 * `Lesson 08 B. Grammar`
 * `Lesson 08 C. Workbook`
-    * In this activity, we will have very short passages of scripture that illustrate pronouns
 * `Lesson 08 D. Verses`
 
 ## Worksheets: Pronouns {-}
 
-We have two worksheets for this lesson. Make sure you do the Anki work first, before tackling these worksheets.
+We have two worksheets for this lesson. Make sure you do the Anki work first before tackling these worksheets.
 
 While our focus is on reading Hebrew, pronouns are so prevalent that it's highly beneficial to commit them to memory.  Review the column on the right, then cover it up and try to complete the remaining columns by memory (right to left).
 
@@ -223,16 +288,18 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 ::: {.box .map} 
 YOUR QUEST
 
-Just as the vocabulary for Lessons 8 and 9 are a bit longer, so too are the `Ruth Pursuit` exercises.  There are 33 total "finds" in `Ruth Pursuit` #8 and 34 in `Ruth Pursuit` #9.  Be patient and you'll find them all!
+Just as the vocabulary for Lessons 8 and 9 are a bit longer, the `Ruth Pursuit` exercise for this lesson has 33 total "finds." There are 34 words to locate in `Ruth Pursuit` #9.  Be patient, and you'll find them all!
+
+Identify each occurrence of the following:
 
 1. Pronoun Vocabulary (yellow)
-    1. The relative pronoun meaning "who, whom, that, which" and the related pronoun meaning "as, when"
-    2. Independent Pronouns: I, he, she, them, they you (may have prepositional prefix)
+    1. The relative pronoun meaning "who, whom, that, which," and the related pronoun meaning "as, when"
+    2. Independent Pronouns: I, he, she, them, they, you (these may have prepositional prefix)
 2. Interrogative (green)
     1. Interrogative pronouns from Lesson 8 vocabulary
     2. The idiom <span class="he">הַעוֹד־לִי</span>, means "have I yet?" or "do I have?"
     2. Other uses of the interrogative particle
-2. Other vocabulary (blue)
+2. Other vocabulary words(blue)
     1. because/for/if
     2. also/even
     3. Therefore (also has interrogative particle)
@@ -241,11 +308,11 @@ Just as the vocabulary for Lessons 8 and 9 are a bit longer, so too are the `Rut
     
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
 [Open Quest Quiz #8 in a new window](https://forms.gle/Ew13bcUBZM8T7ck86){target="_blank"}
 

@@ -2,7 +2,7 @@
 
 > To comprehend Biblical Hebrew, we must be able to translate a noun or preposition with a pronominal suffix
 
-In this lesson, we continue the important discussion on pronouns.  In Lesson 9, we focus on an aspect of pronouns we don't have in English - pronominal suffixes.  
+In this lesson, we continue the discussion on pronouns.  In Lesson 9, we focus on an aspect of pronouns we don't have in English - pronominal suffixes.  
 
 
 ::: {.infobox .map}
@@ -10,7 +10,7 @@ In this lesson, we continue the important discussion on pronouns.  In Lesson 9, 
 
 
 1.  Understand the meaning of pronominal suffixes
-2.  Define Type 1 vs Type 2 suffixes
+2.  Define Type 1 and Type 2 suffixes
 3.  Differentiate Type 1 from Type 2
 4.  Identify the Lexical Form of a Noun with a Type 1 Suffix
 5.  Identify the Lexical Form of a Noun with a Type 2 Suffix
@@ -34,7 +34,7 @@ Before continuing, can you describe the following concepts?
 
 *This man heavily questioned us and our kindred. (Genesis 43:7)*
 
-In addition to offering up our petitions, let us be sure to listen for God's questions.  What is He asking you (or asking of you) today?  Take a moment.
+In addition to offering up our petitions, let us be sure to hear God's questions.  What is He asking you (or asking of you) today?  Take a moment.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -49,18 +49,27 @@ In addition to offering up our petitions, let us be sure to listen for God's que
 
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a very important question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/09-Banias waterfall, tb032704275.jpg")
 ``` 
 
+## _Hebrew Quest_ Possessive Pronominal Suffixes Lecture
+
+View this overview video from _Hebrew Quest_ on possessive suffixes.  Don't fret if you don't fully understand this material.  We will break down these concepts as we progress through the lesson.   We will discuss Construct forms in Lesson 10.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?start=1232&end=1647
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1232){target="_blank"}
 
 
+## Possessive Pronominal Suffix Meaning
 
-
-## Meaning
-
-Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 6, we talked about "inseparable prepositions", which are one-letter prefixes to words.  Pronominal suffixes work similarly, except as the name "suffix" implies, these go on the back of words instead of the front.
+Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 6, we learned about one-letter preposition prefixes to words.  Pronominal suffixes work similarly. The difference is these go on the back of words instead of the front.
 
 * On a noun, a pronominal suffix indicates the one who owns or is related to the noun:  His books / her houses / their house / our father
 * On a preposition, the suffix indicates the object: to her / with them / behind him / in front of it
@@ -69,28 +78,31 @@ Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 
 Pronominal suffixes have *gender*, *number*, and *person*.
 
 ::: {.box .info}
-* Whereas independent personal pronouns were always "subject" pronouns (e.g., I, she, he, it and they), pronominal suffixes are always "object" or "possessive" pronouns (e.g., me, my, her, him, them, theirs).
-* "You" can be an ambiguous term in English, not only with number and gender but also, "you" can be either a subject or object.  Hebrew has distinct ways of saying 2MS, 2FS, 2MP, and 2FP, as well as different forms for subject and object.
+* Independent personal pronouns were always "subject" pronouns (e.g., I, she, he, it, and they)
+* Pronominal suffixes are always "object" or "possessive" pronouns (e.g., me, my, her, him, them, theirs)
 :::
 
-## Type 1 vs Type 2 Suffixes
+::: {.box .caution}
+* "You" can be an ambiguous term in English, not only with number and gender but also, "you" can be either a subject or object
+* Hebrew has distinct ways of saying 2MS, 2FS, 2MP, and 2FP, as well as different forms for subject and object
+:::
 
-Pronominal suffixes are further divided into two types.  
+## Type 1 and Type 2 Suffixes
 
+* Hebrew has two distinct groups of Pronominal suffixes
 * **Type 1** suffixes go on **SINGULAR** nouns<small>^[<small>As with most grammar rules, there are exceptions. For now, stick with these definitions of Type 1 and Type 2.</small>]</small>
     * Keep in mind there are both plural and singular Type 1 suffixes for use on singular nouns
     * Multiple people can have ownership of a single object
-    * In English we would say "his house" and "their house"
+    * In English, we would say "his house" and "their house"
 * **Type 2** suffixes go on **PLURAL** nouns
     * Similar to above, there are both singular and plural type 2 suffixes for use on plural nouns
     * "his houses" as well as "their houses"
-* Type on a preposition means nothing in terms of translation; each preposition will only take one class or the other
+* The type of suffix on a preposition means nothing in terms of translation; each preposition will only take one class or the other
 
 ## Singular Suffixes
 
-While Type 1 and Type 2 suffixes have distinctives, there are also some commonalities with singular suffixes of both types.
-
-Below are the singular suffixes.  You will use `Anki` to commit these to memory.
+* While Type 1 and Type 2 suffixes have key differences, there are also some commonalities with singular suffixes of both types.
+* Below are the singular suffixes
 
 ```{r, out.width = "400pt", fig.align='center'}
 library(knitr)
@@ -104,6 +116,7 @@ knitr::include_graphics("images/09.ps_sing_tbl.png")
 ## Plural Suffixes
 
 Below are the plural suffixes:
+
 ```{r, out.width = "400pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/09.ps_plrl_tbl.png")
@@ -124,9 +137,9 @@ Type 2 **always** contains vowel + yod, but **not** hiriq + yod
 Type 1 **never** contains yod, *unless* it's hiriq+yod
 :::
 
-This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
-
-When you encounter a word with a suffix, always start by asking "is there a vowel + yod, that is not hiriq + yod?"
+*This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
+* When you encounter a word with a suffix, always start by asking "is there a vowel + yod, that is not hiriq + yod?"
+    * If yes, then we have a Type 2 suffix, which indicates the noun is plural
 
 
 ```{r, out.width = "600pt", fig.align='center'}
@@ -135,43 +148,50 @@ knitr::include_graphics("images/09.ps_both_tbl.png")
 ```
 
 
-## Lexical Form with Type 1
+## Identifying the Lexical Form with Type 1
 
-Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamiliar to you than a preposition so we'll focus on that.  Below is a procedure you may follow that should help with this.  The steps for a Type 1 suffix are on this page and the steps for Type 2 are on the next page.
+Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamiliar to you than a preposition, so we'll focus on nouns.  Below is a procedure you may follow that should help with this.  The steps for a Type 1 suffix are on this page, and the steps for Type 2 are in the next section.
 
 1. Remove the pronominal suffix
-2. Remembering that type one suffixes can *only* go with SINGULAR nouns, the next step is to fix the singular ending as needed
+    * With שִׁיר, we are done at step 1
+2. Remembering that type one suffixes can *only* go with SINGULAR nouns, the next step is to fix the singular ending as needed 
     * If the remaining word ends with a <span class="he">ת</span>, it is likely Feminine. Replace <span class="he">ת ַ</span> or <span class="he">ת ָ</span>  with<span class="he"> ה ָ</span> (usually)
+        * See תּוֺרָתָם as an example
+        * Note בֵּית does not have a feminine ending; we will recognize this word from our vocabulary memory
     * If the remaining word does not end with a <span class="he">ת</span>, it is likely masculine.  Most often, masculine words are endingless but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
+        * See שָֹדֶה, which is another word that should be memorized
 3. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
-4. Change other vowels as needed according to the vowel preference table we studied several lessons ago.
+    * See word בֵּיתְךָ
+4. Change other vowels as needed according to the vowel preference table we studied several lessons ago
+    * See word דָּבָר
 
 Here is Dr. Beckman's example of the four steps using five example words with Type 1 suffixes.  Note that words do not always need all four steps.
-
-```{r, out.width = "400pt", fig.align='center'}
-library(knitr)
-knitr::include_graphics("images/09.lex_type2_tbl.png")
-```
-
-## Lexical Form with Type 2
-
-1. Remove the pronominal suffix
-2. Remembering that type 2 suffixes can *only* go with PLURAL nouns, but the Lexical Form is going to be the SINGLULAR, the next step is to fix the singular ending as needed.  Remove the <span class="he">וֹת</span> ending if there is one.  Keep in mind that the word could exhibit defective spelling as with <span class="he">שְֹדֹת</span> below.
-3. Add the appropirate singular ending, if needed
-    * If the word ended with a <span class="he">וֹת</span>, it is Feminine. Replace with <span class="he">ה</span> ָ (usually)
-    * If the remaining word does not end with <span class="he">וֹת</span>, it is likely masculine.  Most often, masculine words are endingless but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
-4. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
-5. Change other vowels as needed according to the vowel preference table we studied several lessons ago.
-
-Here is Dr. Beckman's example of the five steps.  Note that words do not always need all five steps.
 
 ```{r, out.width = "400pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/09.lex_type1_tbl.png")
 ```
 
+## Identifying the Lexical Form with Type 2
 
-The changes to the base words are due to the words being in **construct** form.  We will study more about this in Lesson 10.
+1. Remove the pronominal suffix
+2. Type 2 suffixes can *only* go with PLURAL nouns
+    * The Lexical Form is going to be the SINGULAR
+    * The next step is to fix the singular ending as needed
+        * Remove the <span class="he">וֹת</span> ending if there is one
+        * Keep in mind that the word could exhibit defective spelling as with <span class="he">שְֹדֹת</span> below
+3. Add the appropriate singular ending, if needed
+    * If the word ended with a <span class="he">וֹת</span>, it is Feminine. Replace with <span class="he">ה</span> ָ (usually)
+    * If the remaining word does not end with <span class="he">וֹת</span>, it is likely masculine.  Most often, masculine words are endingless, but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
+4. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
+5. Change other vowels as needed according to the vowel preference table we studied several lessons ago.
+
+Here is Dr. Beckman's example of the five steps.  Note that words do not always need all five iterations.
+
+```{r, out.width = "400pt", fig.align='center'}
+library(knitr)
+knitr::include_graphics("images/09.lex_type1_tbl.png")
+```
 
 ## Unexpected changes
 
@@ -187,12 +207,22 @@ Two of the prepositions we studied in Lesson 6 undergo some irregular changes yo
     
 The rule still applies:
 
-> Type 2 **always** begins with vowel + yod, but **not** hiriq + yod
+> Type 2 suffixes **always** begins with vowel + yod, but **not** hiriq + yod
+
+This _Hebrew Quest_ segment discusses pronominal suffixes with prepositions:
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?start=921&end=1160
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1160){target="_blank"}
 
 ## Look-alike words: <span class="he">אֵת</span> as "with" or as Definite Direct Object (DDO) marker
 
-* As we learned previously, <span class="he">אֵת</span> can mean either the DDO or the preposition "with".  They are spelled the same way and either form can take a pronominal suffix.
-* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DDO, when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
+* As we learned previously, <span class="he">אֵת</span> can mean either the DDO or the preposition "with".  They are spelled the same way, and either form can take a pronominal suffix.
+* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DD, when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
     * 3MS: <span class="he">אֹתוֹ</span>
     * 2FP: <span class="he">אֶתְכֶן</span>
 * When then author intends to communicate the preposition with, as in "with him", the א will take a Hireq in all forms
@@ -216,7 +246,7 @@ This one is _slightly_ easier.
 * <span class="he">אֵלִי</span>, my God is the only form of <span class="he">אֶל</span> that appears with a pronominal suffix in the Bible
 * to me (1CS) is: <span class="he">אֶלַי</span> - Patach under the <span class="he">ל</span>
 
-Although <span class="he">אֵל</span> may not appear with a suffix apart from this one time, <span class="he">אֱלֹהִ֑ים</span> can, and in the Torah, frequently does take suffixes.   The words pairs below are close but not equivalent.
+Although <span class="he">אֵל</span> may not appear with a suffix apart from this one time, <span class="he">אֱלֹהִ֑ים</span> can, and in the Torah, frequently does take suffixes.   The ords pairs below are close but not equivalent.
 
 * <span class="he">אֱלֹהֶ֑יךָ</span>  = your God (See Deuteronomy 6:5)
 * <span class="he">אֵלֶ֫יךָ</span> = to you (2MS)
@@ -277,7 +307,7 @@ YOUR QUEST
     * children
     * people (be mindful of the difference between `people` and `with`)
     * daughters
-    * God/gods (be mindful of the difference between `God` and `to them`.)
+    * God/gods (be cognizant of the difference between `God` and `to them`.)
     * mother-in-law <span class="he">לַחֲמוֹתָהּ</span>
     * widow <span class="he">יְבִמְתֵּךְ</span>
     (we are excluding "his wife", "her daughters-in-law", and "her husband" since you found those in previous lessons!)
@@ -291,12 +321,12 @@ YOUR QUEST
     * about
 4. Identify the vocabulary word for "food" or "bread" that is NOT part of a city's name (blue)
 
-> You may see other words with pronominal suffixes.  These are likely verbs that we will cover in Lesson 19.
+> You may see other words with pronominal suffixes.  These are verbs that we will cover in Lesson 19.
 
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #09](./images/09_Ruth_Pursuit_KEY.pdf){target="_blank"}<small>^[<small>Note: Many English Bibles contain a footnote at Ruth 1:20 that Naomi means "pleasant"; however, the precise etymology of Naomi's name is unclear.  While her name appears to have a Type 1 1CS suffix, since it is a proper name, we are not including it in our answer key.</small>]</small>
 
 

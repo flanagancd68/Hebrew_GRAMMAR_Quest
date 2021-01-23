@@ -56,6 +56,18 @@ knitr::include_graphics("images/13.Mount Gerizim, Shechem, Mount Ebal from east,
 
 
 
+
+## _Hebrew Quest_ Qal Perfect Lecture
+
+View this 3-minute overview video from _Hebrew Quest_ on Hebrew Verbs.  We will break down the concepts Izzy discusses as we progress through this lesson.  Note: the terms "afformatives" used by Izzy, and "sufformatives" used by <u>Basics of Biblical Hebrew</u> are synonymous.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hfu4gjNo2K4?start=2846&end=3062&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2846){target="_blank"}
+
 ##  Qal is Simple action, Active voice
 
 | |Active Voice| Passive Voice | Reflexive Voice

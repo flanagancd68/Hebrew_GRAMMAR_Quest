@@ -2,7 +2,7 @@
 
 > To comprehend Biblical Hebrew, we must understand how words are formed and pronounced
 
-Even though our goal may not necessarily be to converse in Biblical Hebrew, hearing the sound of the language aids our learning.  Vowels are what give a language its distinctive sound.  In Hebrew, the same three consonants can change meaning depending on the vowel combination.
+Even though our goal may not necessarily be to converse in Biblical Hebrew, hearing the language's sound aids our learning.  Vowels are what give a language its distinctive sound.  In Hebrew, the same three consonants can change meaning depending on the vowel combination.
 
 
 
@@ -71,8 +71,8 @@ knitr::include_graphics("images/02-Plain of Bethsaida with green grass, tb110206
 * Like we memorized the Aleph-bet, we will commit the vowels in the table below to memory
 * Study the table below before doing the drills in `Anki` 
   * Knowing the vowel types (Long, Short, Reduced) and classes will make your grammatical life much more comfortable in the future
-  * The letter בּ is provided as a placeholder for the long/short vowels; ע represents any Guttural for the reduced vowels, since only Gutturals take the Reduced vowels
-* Say the vowel _after_ saying the associated consonant<small>^[<small>We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.</small>]</small> So the first vowel example is "qaw" not "awq".
+  * The letter בּ is provided as a placeholder for the long/short vowels; ע represents any Guttural for the reduced vowels since only Gutturals take the Reduced vowels
+* Say the vowel _after_ saying the associated consonant<small>^[<small>We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.</small>]</small>. So, the first vowel example is "qaw" not "awq."
 *  Future lessons will explain the difference between Qamets and Qamets Hatuf
 
 Another table to memorize:
@@ -91,15 +91,15 @@ Hateph vowels are used because Gutturals reject vocal Sheva
 
 ## Vocal and Silent Sheva {#Sheva}
 
-* The Sheva can be tricky to grasp at first, since vocal and silent Sheva are written the same, but have two very different uses
+* The Sheva can be tricky to grasp at first since vocal and silent Sheva are written the same but have two very different uses
 * Both are written as קְ
   * Both mark the END of a syllable
-* VOCAL Sheva<small>^[<small>Many academic textbooks will use the term "Shewa" instead of "Sheva". Both words mean the same thing.</small>]</small> is a REDUCED vowel, but does NOT have a vowel Class
+* VOCAL Sheva<small>^[<small>Many academic textbooks will use the term "Shewa" instead of "Sheva". Both words mean the same thing.</small>]</small> is a REDUCED vowel but does NOT have a vowel Class
   *  Only non-gutturals can take a Vocal Sheva
       * Gutturals **reject** the Vocal Sheva and take the Hateph vowels instead
     * Pronounced like the A in <u>A</u>muse (same as Hateph Patach)
-* SILENT Sheva is not a reduced vowel, in fact, it is NOT A VOWEL AT ALL
-    * <u>Any</u> letter, including Gutturals can take a Silent Sheva
+* SILENT Sheva is not a reduced vowel. In fact, it is NOT A VOWEL AT ALL
+    * <u>Any</u> letter, including Gutturals, can take a Silent Sheva
     * Silent/ No sound
 * We will learn how to distinguish between the two kinds of Sheva in the next lesson
 
@@ -133,11 +133,11 @@ include_graphics("images/02.vowels_letters.png")
 * All others are pronounced like their non-vowel-letter counterparts
 * Yod and Vav vowels - י,ו 
     * These are Long Vowels that do not reduce
-    * Therefore they are called, "Unchangeable long vowels"<small>^[<small>We'll explain what this means in the next lesson</small>]</small>
+    * Therefore they are called "Unchangeable long vowels"<small>^[<small>We'll explain what this means in the next lesson</small>]</small>
     * These occur in the middle or at the end of a word
 
 ::: {.infobox .info}
-If the Yod or Vav has a vowel of it's own, then the Yod/Vav is acting as a _consonant_, not an irreducible long vowel.
+If the Yod or Vav has a vowel of its own, then the Yod/Vav is a _consonant_, not an irreducible long vowel.
 :::
 
 * Hei Vowels - ה
@@ -150,7 +150,7 @@ If the Yod or Vav has a vowel of it's own, then the Yod/Vav is acting as a _cons
 * Most Hebrew grammar books include transliteration values
 * While learning the transliteration scheme can help in some instances, our general position is that it can be an unnecessary distraction
 * Where it can be useful is as shorthand
-  * It would get wordy to write "holem vav" repeatedly
+  * It would get wordy to write "Holem Vav" repeatedly
   * It's much less clutter to write the shorthand version based on transliteration: $\hat O$
 * As we move forward in the course, particularly in unit three, we will be making use of the vowel shorthand listed below
 
@@ -180,12 +180,12 @@ knitr::include_graphics("images/defective.gif")
 * Three vowel letters commonly take "defective" forms<small>^[<small>"Defective", in this sense, does not have a negative connotation.</small>]</small>
     * Holem-vav can drop the Vav and contract to Holem, as in the example above
     * Hireq-Yod can drop the Yod and contract to Hireq
-    * Shuruq can drop the Vav and it's associated nikkud and contract to Qibbuts
+    * Shuruq can drop the Vav with its associated nikkud and contract to Qibbuts
     
 The Qamets-Hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the Qamets under the now-final letter.
 
 ::: {.infobox .info}    
-As you progress, you’ll start to develop a mental checklist when you encounter something that does not seem to follow the normal/regular rules. Asking yourself “Could this be a defective spelling?” will be one of those checklist items.
+As you progress, you’ll start to develop a mental checklist when you encounter something that does not seem to follow the regular rules. Asking yourself, “Could this be a defective spelling?” will be one of those checklist items.
 :::
 
 ::: {.box .caution}
@@ -219,7 +219,7 @@ include_graphics("images/02.forte.png")
 ```
 * Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter, which can take either a Dagesh Lene or a Dagesh Forte
     * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word אַתָּה in the image above
-    * "Any consonant" includes the Vav ו.  When a Vav has a Dagesh Forte it looks like this וּ. Does that remind you of anything?  Maybe something we just discussed on the previous page?
+    * "Any consonant" includes the Vav ו.  When a Vav has a Dagesh Forte, it looks like this וּ. Does that remind you of anything?  Maybe something we just discussed on the previous page?
         * That's right. A Vav with a Dagesh Forte וּ is identical to a Shurek וּ.
         * It's surprisingly easy to tell the difference: if there is an additional vowel either under or over the same letter, or if the preceding consonant has a vowel, the letter is a Vav with Dagesh.  A Shurek will _never_ have a separate vowel following or preceding.
 
@@ -228,7 +228,7 @@ _Advanced tip:_ When you see a Dagesh Forte, it often means that another letter 
 ::: {.infobox .info}
 It's good to think of the Dagesh Forte as the "Doubling Dagesh" since it doubles the consonant and often changes a word's meaning.  
 
-Conversely, we can think of the Dagesh Lene as the "Meaningless Dagesh", since it does not ever change a word's meaning
+Conversely, we can think of the Dagesh Lene as the "Meaningless Dagesh" since it does not ever change a word's meaning
 :::
 
 
@@ -265,10 +265,10 @@ knitr::include_graphics("images/02.reject.gif")
 ::: {.box .caution}
 MAPPIQ
 
-* You may see הּ. This dot is not a Dagesh, because we just learned that gutturals never take a Dagesh but what is called a Mappiq. 
-* A word final ה is typically a vowel
+* You may see הּ. This dot is not a Dagesh because we just learned that gutturals never take a Dagesh but a Mappiq. 
+* A word-final ה is typically a vowel
 * A Mappiq signifies that a word-final ה is a consonant, not a vowel
-* We'll talk more about the mappiq in Lesson 6
+* We'll talk more about the Mappiq in Lesson 6
 :::
 
 ## Lesson Conclusion and Activities {-}
@@ -277,7 +277,7 @@ Congratulations on completing the vowels lesson.  Make sure you memorize the vow
 
 We're about halfway through the first stage of the course on Hebrew Grammar Foundations.  Keep going! You're doing great!  After you finish all of the activities for this lesson, you can claim the first of our `Twelve Tribes Badges`. 
 
-Take a moment to review the section headings on the left side of the screen before heading on to tackle the activities.
+Take a moment to review the section headings on the screen's left side, before heading on to tackle the activities.
 
 
 ### Anki {-}
@@ -308,8 +308,9 @@ YOUR QUEST
 3. Identify QAMETS HEI in Verse 1.  There is a TSERE Hei between Verses 5-10.  Can you find it?<small>^[<small>The other vowels that use hei are less common, but we will see them when we discuss verbs.</small>]</small> (Purple)
 4. Identify the three LONG vowels in Verse 1 (that are not part of a vowel letter) (pink)|
 5. Identify three of the five SHORT vowels in Verse 1 (that are not part of a vowel letter)<small>^[<small>We haven't learned to spot Qamets Hatuf yet, and Qibbuts does not appear in this passage</small>]</small> (red)
-6. Five the three REDUCED/HATEPHH vowels, including Hateph Qamets Hatuf<small>^[<small>You should be able to make out the word that has the Hateph Qamets Hatuph</small>]</small>.  They are in verses 2-4. (grey)
-7. One of the more common verbs in the Tanach is <span class="he">וַיֹּאמֶר</span>, which means "(and) he said.     * Vav-Patach-**Yod**-Dagesh Forte --וַיּ to start a verb means "And he (did or was something)  
+6. Five of the three REDUCED/HATEPH vowels, including Hateph Qamets Hatuf<small>^[<small>You should be able to make out the word that has the Hateph Qamets Hatuph</small>]</small>.  They are in verses 2-4. (grey)
+7. One of the more common verbs in the Tanach is <span class="he">וַיֹּאמֶר</span>, which means "(and) he said."     
+  * Vav-Patach-**Yod**-Dagesh Forte --וַיּ to start a verb means "And he (did or was something)  
     * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ, "and **S**he (did or was something).  
     * Thus, <span class="he">וַתֹּאמֶר</span> means "and she said."  
     * Challenge: Find the five instances of <span class="he">וַתֹּאמֶר</span> in Ruth Chapter 1<small>^[<small>In at least three of the cases, you should be able to figure out who is speaking.</small>]</small>  (yellow)  

@@ -1,12 +1,12 @@
 # Getting Started / Getting Help {-}
 
-<!-- 1. [How do I navigate around this book?](#navigating) -->
-<!-- 5. [What is in a typical lesson, and how long will it take?](#typical-lesson) -->
-<!-- 4. [How do I get started?](#get_started) -->
-<!-- 5. [How do I use Anki?](#anki_help) -->
-<!-- 5. [What are required and optional resources?](#optional_resources) -->
-<!-- 2. [How to report an issue, error, omission, or improvement opportunity](#report_issue) -->
-<!-- 3. [How to ask a question if you get stuck](#get_help) -->
+1. [How do I navigate around this book?](#navigating)
+5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
+4. [How do I get started?](#get_started)
+5. [How do I use Anki?](#anki_help)
+5. [What are required and optional resources?](#optional_resources)
+2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
+3. [How to ask a question if you get stuck](#get_help)
 
 ## Navigating this book {- #navigating}
 
@@ -63,7 +63,7 @@ Lesson Points | The main grammar concepts. Our goal is to give you just enough i
 `Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
 TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
 
-Of course, some lessons will be more involved than others, and each of us works at a different pace. One of the beautiful things about a self-paced class is the pace is not set by a course syllabus.  The pace is set by YOU!
+Of course, some lessons will be more involved than others, and each of us works at a different pace. One of the beautiful things about a self-paced class is the speed and due dates are not set by a course syllabus.   With a self-paced class, YOU are in control!
 
 ::: {.box .light}
 DON'T BE OVERWHELMED!  YOU GOT THIS!
@@ -73,7 +73,7 @@ Use the `Course Checklist` to help keep you organized and do a little bit at a t
 
 Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
 
-Lastly, you might be encouraged by this article on [conquering the Fog] (./images/00_Fog_Article.pdf){target="_blank}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_ to describe the feeling that you aren't making any progress in learning a Biblical language, when you actually are making TREMENDOUS progress!
+Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
 
 ## Information Boxes {-}
 
@@ -125,14 +125,14 @@ These ten easy steps will get you up and running with the course.
 |1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course
 |2. Download the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
 3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards
-4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and synch your data to the cloud and mobile devices
+4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | You MUST install Anki from a desktop/laptop first
 6. [Download the Hebrew GRAMMAR Quest Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"} | This deck is the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone
 7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness
-8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | This creates a version of your deck in the cloud, which case be used to sync with a mobile device or simply as a backup
-9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons, while you assess whether the cost is justified
-10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time, and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
-11. Finally, read the `Getting Started/Getting Help` and `About This Course` introductions | You have already started this! These sections contain important background information to help assure you are oriented to Hebrew GRAMMAR Quest.  If you are not familiar with `Anki`, the `Help with Anki` section (on the next page) is critically important to read.
+8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Syncing creates a version of your deck in the cloud, which case be used to sync with a mobile device or merely as a backup
+9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified
+10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
+11. Finally, read the `Getting Started/Getting Help` and `About This Course` introductions | You have already started this! These sections contain essential background information to help assure you are oriented to Hebrew GRAMMAR Quest.  If you are not familiar with `Anki`, the `Help with Anki` section (on the next page) is critically important to read.
     
 > **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
 
@@ -145,10 +145,10 @@ knitr::include_graphics("images/treadmill.png")
 ```
 
 
-If one wants to build strength and endurance, it's important to use the right machines. weight machine.  Anki is free<small>^[<small>All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that contains a unique algorithm to present you with cards to review at just the right times, helping you build both Hebrew strength and Hebrew endurance!
+If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free<small>^[<small>All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that helps you build both Hebrew strength and Hebrew endurance!
 
 ::: {.box .info}
-As you work through this course, it will be important to set aside time to review DAILY
+As you work through this course, set aside time to review Anki on a DAILY basis
 :::
 
 The sections below will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Anki deck with additional how-to information.
@@ -168,13 +168,13 @@ The sections below will help you get started with Anki. There is also an `0. Int
         * `Graduating interval` = 15
         * `Easy interval` = 60
         * `Starting ease` = 250%
-        * `Bury related new cards...` = Up to you but we recommend - CHECKED
+        * `Bury related new cards...` = we recommend CHECKED, but this is not mandatory<small>^[<small>Checking this will _slightly_ increase the length of time required to move cards from `Young` to `Mature`, but is the stronger option for learning.</small>]</small>
     2. `Reviews`
         * `Maximum reviews/day` = 9999
         * `Easy bonus` = 130%
         * `Interval modifier` = 100
         * `Maximum interval` = 210
-        * `Bury related reviews...` = Up to you but we recommend - CHECKED    
+        * `Bury related reviews...` = we recommend CHECKED, but this is not mandatory   
     3. `Lapses`
         * `Steps` = 10
         * `New interval` = 60
@@ -205,7 +205,7 @@ We suggest using the following guidelines:
   * Your answer was correct, but you required a hint
 * `Good`
   * All parts of the answer are correct; no hints
-  * For Bible Verses, you can read and understand the passage in Hebrew and your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse. You do NOT need to have the passage and its meaning memorized in order to mark `Good`
+  * For Bible Verses, you can read and understand the passage in Hebrew. Your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse. You do NOT need to have the passage and its meaning memorized to mark `Good`
   * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
 * `Easy`
   * We do not recommend selecting `Easy.` 
@@ -222,7 +222,7 @@ Be patient with yourself.  It may take you _many_ tries in the early going befor
 
 What appears in the sections below is only the information you will need for Hebrew GRAMMAR Quest.
 
-While we are here to [help](#report_issue) with any issues related to the course including our `Hebrew Grammar Quest Anki Deck`, unfortunately it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple websearch.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
+We are here to [help](#report_issue) with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`.  Unfortunately it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple web search.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
 :::
 
 ## Course Resources {- #optional_resources}
@@ -237,12 +237,12 @@ OPTIONAL:
 Below are additional resources, some of which are free and some paid:
 
 * Free of charge
-  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you desire a much deeper dive into any lesson, you may wish to refer to the Lecture videos and overheads.  Everything on his site is free.
+  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to Dr. Beckman's videos and handouts.  Everything on his site is free.
   * Dr. Bill Mounce has study guides available for each Chapter of _Basics of Biblical Hebrew_
     * In most cases, these will not vary much from the lessons in Hebrew GRAMMAR Quest, but some students might find them valuable
     * For Chapter 1, click [http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target="_blank"); for other chapters, change the `01` in the URL to the chapter number you are seeking<small>^[</small>Except Chapter 4, which for some reason, is not available.</small>]</small>
 * Paid
-  * As mentioned elsewhere, the iOS version of the Anki app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensiveinvestment in your Hebrew journey.  
+  * As mentioned elsewhere, Anki's iOS app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensive investment in your Hebrew journey.  
   * To supplement your studies, you may wish to purchase the _Basics of Biblical Hebrew_ textbook or any of the accompanying resources:
     * [Basics of Biblical Hebrew Textbook](https://www.amazon.com/gp/product/031053349X/&tag=holylanginst-20)
     * [Basics of Biblical Hebrew Workbook](https://www.amazon.com/gp/product/0310533554/&tag=holylanginst-20)

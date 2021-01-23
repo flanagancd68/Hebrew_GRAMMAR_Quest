@@ -60,7 +60,17 @@ Like the dawning of a new day, after you complete this lesson, a majority the ve
 knitr::include_graphics("images/17_Masada sunrise over Dead Sea, dg030401281.jpg")
 ``` 
 
+## _Hebrew Quest_ Qal Vav Consecutive Lecture
 
+View this 2-minute overview video from _Hebrew Quest_ on Hebrew Qal Vav Consecutive Verbs.  We will break down the concepts Izzy discusses as we progress through this lesson.  
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hfu4gjNo2K4?start=3308&end=3425&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3308){target="_blank"}
 
 ## Review of the Conjunction Vav
 
@@ -221,9 +231,10 @@ With this lesson, we move away from the selected verses in Proverbs to lengthier
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/edit?usp=sharing){target="_blank"}
+1. Read through the passage - [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}, or you may use your copy from Lesson 6
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
+    * Though we would encourage viewing the entire segment, since you already reviewed Genesis 1:1 back in Lesson 6, you can start with Genesis 1:2 at the 46:50 mark
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaQodesh speak to you through the passage?
 

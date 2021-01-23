@@ -3,7 +3,7 @@
 > To comprehend Biblical Hebrew, we must know how syllables function
 
 
-Originally, the Bible and other ancient documents were written without spaces.  In addition to vowels, the ancient scribes and readers organically adopted a system of syllables and accents.  They knew where one word ended and another began without needing to write it down.  
+Initially, the Bible and other ancient documents were written without spaces.  In addition to vowels, the ancient scribes and readers organically adopted a system of syllables and accents.  They knew where one word ended and where the next began without needing to write it down.  
 
 What we call "Hebrew grammar" is truly an exciting journey into the system of spoken and written Hebrew, which had its formation thousands of years ago!
 
@@ -29,7 +29,7 @@ Before continuing, can you describe the following concepts?
 * The difference between a Dagesh Forte and a Dagesh Lene
 :::
 
-Lesson 3 and Lesson 16 are the two most content-heavy lessons in this course.  For that reason, it is critical that you have your alephbet and vowels (including the vowel types) memorized.
+Lesson 3 and Lesson 16 are the two most content-heavy lessons in this course.  For that reason, you must have your alephbet and vowels (including the vowel types) memorized.
 
 Assuming you've checked your equipment as directed above, and everything is in tip-top shape for your Lesson 3 adventure, take your time.  Work through the written material, then do a little Anki work and see if it starts to click. 
 
@@ -98,7 +98,7 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 ::: {.infobox .info}
 * Most frequently, Hebrew words are accented on the last syllable  
-* If not, then the accent will be on the next-to-last syllable<small>^[<small>Later in the course, we will learn about a mark called a maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the Maqqef technically does not have an accent.</small>]</small>
+* If not, then the accent will be on the next-to-last syllable<small>^[<small>Later in the course, we will learn about a mark called a Maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the Maqqef technically does not have an accent.</small>]</small>
 * Reduced vowels and Sheva never take an accent. If there is a word-final Sheva, the accent will be on the next-to-last syllable 
 :::
 
@@ -126,12 +126,11 @@ knitr::include_graphics("images/03.accent_stress.png")
     
 ## Ultima, Penultima, and Antepenultima syllables
 
-Since the accent is not always in a fixed location, we sometimes will use other words that describes a syllable's position irrespective of the accent. 
+Since the accent is not always in a fixed location, we sometimes will use other words that describe a syllable's position irrespective of the accent. 
 
   * _ultima_ = the last syllable
   * _penultima_ = the next-to-last syllable - this is also called the "penult" syllable
   * _antepenultima_ = the syllable(s) before the _penultima/penult_
-  
 
 
 ## Rules for Silent Sheva {#s_sheva}
@@ -156,9 +155,10 @@ knitr::include_graphics("images/03.sheva-endofword.png")
 ::: {.map .light}
 THREE SILENT SHEVA CLUES  
 
-1. Previous vowel is short
+1. The previous vowel is short
 2. First of two consecutive Sheva in the MIDDLE of a word
 3. Word-final
+
 :::
 
 
@@ -200,7 +200,7 @@ FOUR VOCAL SHEVA CLUES
 1. Word-initial
 2. SECOND of two within a word
 3. Under a Dagesh Forte
-4. After unaccented long vowel
+4. After an unaccented long vowel
 :::
 
 
@@ -213,16 +213,16 @@ knitr::include_graphics("images/03.diphthong.png")
 ```
 
 * The diphthong is a single vowel unit, which means it is only one syllable
-* We do not pronounce the word on the right above as "BUY-it", but monosyllabic, more like "BITE"<small>^[<small>With this said, "buy" it makes a handy mnemonic for remembering this word means 'house', as there are a few look-alike words.</small>]</small>
-* The word on the left is not "sh-MAY-im" but it sounds more like "sh-MIME"
+* We do not pronounce the word on the right above as "BUY-it," but monosyllabic, more like "BITE"<small>^[<small>With this said, "buy" it makes a handy mnemonic for remembering this word means 'house', as there are a few look-alike words.</small>]</small>
+* The word on the left is not "sh-MAY-im," but it sounds more like "sh-MIME"
 
 ::: {.box .light}
 Remember "Accent+Patach+Yod+Hireq" as the main Hebrew Diphthong:  <span class="he">יִ ַ֫</span>
 :::
 
-Qamets-Yod-Vav is another Diphthong that you'll see in Lesson 9.  It's the pronoun suffix endings for "his" or "him". 
+Qamets-Yod-Vav is another Diphthong that you'll see in Lesson 9.  It's the pronoun suffix endings for "his" or "him."
 
-* <span class="he">אֵלָיו</span> (to him) pronounced 'eLAV.
+* <span class="he">אֵלָיו</span> (to him) pronounced eLAV
 * <span class="he">פָּנָיו</span> (his face) pronounced paNAV
 
 There is scholarly disagreement as to whether (vowel)+Yod are vowel letters or diphthongs.  <u>Basics of Biblical Hebrew</u> treats them as vowel letters.
@@ -232,8 +232,8 @@ There is scholarly disagreement as to whether (vowel)+Yod are vowel letters or d
 
 ## Vowels and Syllable Preference {#vowel_pref}
 
-:: {.box .light}
-Memorisze this table:
+::: {.box .light}
+Memorize this table:
 
 Syllable | Tonic | Pretonic | Propretonic
 | :--: | :--: | :--: | :--:
@@ -242,15 +242,15 @@ Closed | LONG | SHORT | SHORT
 
 :::
 
-* Tonic syllables PREFER the listed vowels, but can take any type
+* Tonic syllables PREFER the listed vowels but can take any type
 * Pretonic syllable REQUIRE the listed vowels
 * Propretonic syllables
   * Closed REQUIRES Short
-  * Open REQUIRES reducetion from a long vowel to Vocal Sheva (or Hateph if guttural), _except_ when there is an unchangeable long vowel
+  * Open REQUIRES reduction from a long vowel to Vocal Sheva (or Hateph if guttural), _except_ when there is an unchangeable long vowel
 * Go back and look at <span class="he">דָּבָר</span> and <span class="he">דְּבָרִים</span>
     * The vowel preference table explains why the vowel under the Dalet changes from Qamets in the Open/Pretonic to Vocal Sheva (reduced vowel) in the open propretonic when the plural suffix is added
     * This is called "_propretonic reduction_" - you will encounter this topic frequently
-  * As we saw with <span class="he">כֹּתְבִים,</span> unchangeable long vowels written "defectively" will not reduce - at their essence, they are still unchangeable
+  * As we saw with <span class="he">כֹּתְבִים,</span> unchangeable long vowels that are written "defectively" will not reduce - at their essence, they are still unchangeable
 
 ## Qamets Hatuf, Furtive Patach, Quiescent Aleph {#misc_vowels}
 
@@ -278,10 +278,10 @@ knitr::include_graphics("images/03.meteg.png")
 QAMETS OR QAMETS HATUF  
 
 * The A-class is FAR more prevalent
-* Nouns such as <span class="he">חָכְמָה</span> that have the pattern <Qamets mark>+Sheva+Qamets+Hei, _TEND_ to be O-class
-* You may know a word from vocabulary that has a Holem, such as <span class="he">כֹל</span>.
+* Nouns such as <span class="he">חָכְמָה</span> that have the pattern (Qamets mark)+Sheva+Qamets+Hei _TEND_ to be O-class
+* You may know a word from your vocabulary that has a Holem, such as <span class="he">כֹל</span>
   * When you encounter that same word in its shortened form, <span class="he">כָל־</span>, the vowel will be shortened O-class
-  * This is usually the Construct form, which we will study in Lesson 10.
+  * This is usually the Construct form, which we will study in Lesson 10
 :::
 
 
@@ -296,8 +296,9 @@ knitr::include_graphics("images/03.furtivepathach.png")
 :::
 
 The Furtive Patach is a significant exception to just about everything else we've discussed related to vowels and syllabification:
-  * The vowel is pronounced *before* the guttural - so the above word is **Ruach** not "rucha"
-  * The Furtive Patach is not a full vowel and is counted in syllabification 
+
+  * The vowel is pronounced *before* the guttural - so the above word is **Ruach**, not "rucha"
+  * The Furtive Patach is not a full vowel and is not counted in syllabification 
 
 ## Quiescent Aleph
 
@@ -362,12 +363,12 @@ Then after watching these, go ahead and jump into `Anki`.
 ::: {.box .map}
 YOUR QUEST  
 
-1. Identify all examples of the Tetragrammaton, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. Also, <span class="he">שַׁדַּי</span> is another name for God.  It means "Almighty."  Find two examples of this name. (Blue)
+1. Identify all Tetragrammaton examples, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. Also, <span class="he">שַׁדַּי</span> is another name for God.  It means "Almighty."  Find two examples of this name. (Blue)
 2. In verse 16, highlight, <span class="he">"עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי"</span> in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is <span class="he">אֱלֹהִים</span>. In the last two words of what you just highlighted, you can still see the core portion of <span class="he">אֱלֹהִים</span> present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
 3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word. (Yellow). Which one is a silent Sheva, and which one is the vocal Sheva?
 4. Find the Quiescent Aleph in verse 1 (pink)
 5. Find the Hebrew words for Elimelech, Machlon, Chilion, and Judah in verses 1-7. Chilion has the prefix "וְ" which means "and." (gray)
-6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
+6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
 
 :::
 
@@ -390,10 +391,10 @@ YOUR QUEST
 If you have completed **all activities** in Lessons 1, 2, and 3, you may claim the first of our `Unit Completion Certificates`.
 
 ::: {.box .caution}
-* Note that the Anki Requirement for the `Unit Completin Certificate` is different from the requirement for the `12 Tribes Badges`.
+* Note that the Anki Requirement for the `Unit Completion Certificate` is different from the `12 Tribes Badges` requirement.
 * You must submit a screenshot showing that all cards are **MATURE**
-  * No cards may be "New", "Young", "Suspended", or "buried"
-  * From the Anki manual, ["A mature card is one that has an interval of 21 days or greater"](https://docs.ankiweb.net/#/stats?id=types-of-cards){target="_blank"}
+  * No cards may be "New," "Young," "Suspended," or "Buried"
+  * From the Anki manual, ["A mature card is one that has an interval of 21 days or greater."](https://docs.ankiweb.net/#/stats?id=types-of-cards){target="_blank"}
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
 

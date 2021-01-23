@@ -7,7 +7,7 @@
 **LESSON ITINERARY**
 
 1. Understand how an adjective relates to the noun it is modifying
-1. Define and identify Substantival se
+1. Define and identify Substantival use
 1. Define and identify Attributive use
 1. Define and identify Predicative use
 1. Determine the appropriate adjectival use in a passage
@@ -52,6 +52,18 @@ Offer a word of gratitude that HaShem has made you beautiful!
 knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
 ``` 
 
+## _Hebrew Quest_ Adjectives Lecture
+
+View this 5-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?start=2671&end=2978
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=2671){target="_blank"}
+
 
 ## Inflecting Adjectives
 
@@ -61,22 +73,20 @@ We will use the paradigm word <span class="he">טוֹב</span> to illustrate
 
 ```{r, out.width = "300pt", fig.align='center'}
 library(knitr)
-include_graphics("images/07.tov-inflection.png")
+include_graphics("images/07_adjective_gif.gif")
 ```
 
 
 1. An adjective is either masculine or feminine
 2. An adjective is either singular or plural (dual nouns take plural adjectives)
 3. An adjective will match the gender and number of the noun that it modifies or for which it substitutes
+    * This is a big difference from nouns, which can change number but never gender
     * Note that for irregular nouns, the adjective will not necessarily match the exact ending
     * <span class="he">נָשִׁים טוֹבוֹת</span> - even though "<span class="he">נָשִׁים</span>" has the irregular -im ending, the adjective <span class="he">טוֹבוֹת</span> remains the regular feminine plural
-4. An adjectives will use expected endings
-
-
-Unlike nouns, adjectives can inflect across genders in order to match the respective gender of the noun.  
-
-The Lexical Form of an adjective is the MS.  MS is usually endingless, but can be Seghol+Hei as in <span class="he">יָפֶה</span>, which is MS for pleasing, beautiful.
-
+4. An adjective will use expected gender and number endings as shown in the graphic above
+5. The Lexical Form of an adjective is the MS
+    * The MS form is usually endingless
+    * the MS can be Seghol+Hei as in <span class="he">יָפֶה</span>, which is MS for pleasing, beautiful.
 
 ::: {.box .info}
 Note that unlike <span class="he">טוֹב</span>, most adjectives undergo vowel changes when the inflectional endings are added. 
@@ -86,93 +96,108 @@ The good news is you already know what to do. Adjectives follow the same rules a
 
 ## Substantival Use
 
-In the Substantival use, the adjective acts as a noun. We could say the "Substantiv Substitutes" for a noun. 
-
-Perhaps an obvious example of this from pop culture is the film, "The Good, The Bad, and The Ugly."  The three words, "good", "bad" and "ugly" are adjectives being used as nouns.  In a sense the noun is implied.  It could be the "good ones" or the "bad man".
-
-The Substantival use in Hebrew is relatively easy to identify.  You will see an adjective but there will be no related noun that matches in gender and number.
-
-<span class="he">הַטּוֹבָה</span> - "the good" (feminine singular something). So depending on the context it could be "the good woman", or a feminine object like "the good Torah."
+* In the Substantival use, the adjective acts as a noun
+    * We could say the "Substantive Substitutes" for a noun
+    * Perhaps an obvious example of this from pop culture is the film "The Good, The Bad, and The Ugly"  
+        * The three words, "good", "bad", and "ugly" are adjectives being used as nouns
+        * In a sense, the noun is implied
+        * It could be the "good ones", the "bad man", or the "ugly idol"
+            * Remember that Hebrew gender does not always refer to an animate object
+            * <span class="he">הַטּוֹבָה</span> - "the good" 
+                * The word above is "the good (feminine singular something)"
+                * Depending on the context, it could be "the good woman", or a feminine object like "the good Torah"
 
 ::: {.box .light}
-In substantival use, the adjective never directly modifies a noun.
+SUBSTANTIVAL USE IS RELATIVELY EASY TO IDENTIFY 
+
+* When you see an adjective but no related noun that matches in gender and number, the adjective is in the Substantival Use
+* Think "the Good, the Bad, and the Ugly"
 :::
 
 ## Attributive Use
 
-The Attributive use is usually what we think of with respect to adjectives. The adjective modifies and describes a noun. "The good book" is an example of the Attributive use.
-
-Hebrew makes it much easier to identify the Attributive use.  The adjective MUST come AFTER the noun it modifies, and it MUST match in definiteness - meaning either both the noun and the adjective have the definite article or they both will not have the article.
-
+* In the Attributive use, the adjective modifies and describes a noun
+    * "Good" in "The good book" is Attributive 
+* Hebrew makes it much easier to identify the Attributive use - see the mnemonic below
+    * The adjective MUST come AFTER the noun it modifies
+    * It MUST AGREE in definiteness 
+        * This means both the noun and the adjective either HAVE the definite article or they both WILL NOT have the article
 * <span class="he">הָאִשָּׁה הָטּוֹבָה</span> - the good woman
 * <span class="he">אִשָּׁה טוֹבָה</span> - a good woman (or "the woman is good"-predicate use; see next section)
 
 ::: {.box .light}
-**A**ttributive **A**fter noun, **A**rticle **A**grees
+ATTRIBUTIVE MNEMONIC
+
+**A**ttributive **A**lways **A**fter noun, **A**rticle **A**grees
+
 :::
 
 ## Predicative Use
 
-The Predicative use (often called the predicate use) asserts something about the noun. The noun is the subject and the adjective is the predicate of the sentence: "The book is good."
-
-The Predicative use is more flexible than the Attributive, in that the adjective can be either before or after the noun.  One way to differentiate it from the Attributive use is the Predicative use WILL NOT have the Article.
-
-
-All of the options below can mean "the woman is good":
-
-* <span class="he">טוֹבָה הָאִשָּׁה</span>
-* <span class="he">הָאִשָּׁה טוֹבָה</span>
-* <span class="he">טוֹבָה אִשָּׁה</span>
-* <span class="he">אִשָּׁה טוֹבָה</span> (or "attributative")
-
-As this illustrates, the only time there can be any ambiguity between Attributive and Predicative is when the adjective follows the noun and both are indefinite.  In these situations, we need to let context determine the use.
+* The Predicative use (often called the predicate use) asserts something about the noun
+* In English translation, we must insert the applicable form of the verb "to be"
+* The noun is the subject and the adjective is the predicate of the sentence: "The book is good."
+* In some ways, the rules for Hebrew Predicative use are the opposite of Attributive rules
+    * The Predicative adjective will NEVER have the article
+    * The Predicative adjective can come before or after the noun
+    * The only ambiguity is when the both the adjective and noun are indefinite and the adjective comes after the noun
+* Examples:
+    * טוֹבָה הָאִשָּׁה - "the woman is good"
+    * הָאִשָּׁה טוֹבָה - "the woman is good"
+    * טוֹבָה אִשָּׁה - "a woman is good"
+    * אִשָּׁה טוֹבָה - this can either be Attributive "a good woman" or "a woman is good"
 
 ::: {.box .light}
+PREDICATIVE MNEMONIC
+
 **P**redicative de**P**rived of the article; **P**erhaps **P**rior
+
 :::
 
-## Adjective Use Summary
+## Attributive, Predicative, and Substantival Comparison
 
-Here is a decision tree:
-
-* Is the adjective modifying a noun?
-    * No - *Substantival*
-    * Yes - does the adjective have the article?
-        * Yes - *Attributive* (Predicate dePrived of Article)
-        * No - is the adjective before the noun?
-            * Yes - *Predicate* (Attributive Always After)
-            * No - Potentially ambiguous when both noun and following adjective are indefinite: Predicate or Attributive depending on context
+* <span class="he">הָאִשָּׁה הָטּוֹבָה</span> 
+    * **ATTRIBUTIVE - "Attributive Always After, Article Agrees"**
+        * While a Predicative adjective can occur after the noun, this example can't be Predicative because the adjective has the article - "Predicate dePrived of Article..."
+* <span class="he">טוֹבָה הָאִשָּׁה</span> 
+    * **PREDICATIVE - "Predicative dePrived of article, Perhaps Prior"**
+    * This example can't be attributive because the adjective comes before the noun and the article does not agree - "Attributive Always After, Article Agrees"
+* <span class="he">הָאִשָּׁה טוֹבָה</span> 
+    * **PREDICATIVE - "Predicative dePrived of article..."**
+    * This example can't be Attributive because the article does not agree  "Attributive Always After, Article Agrees"
+* <span class="he">טוֹבָה אִשָּׁה</span> - 
+    * PREDICATIVE - "Predicative dePrived of Article, Perhaps Prior"
+    * While the adjective and noun agree in definiteness (both are indefinite), this example can't be Attributive because the adjective comes before the noun: "Attributive Always After..."
+* <span class="he">אִשָּׁה טוֹבָה</span> - 
+    * ATTRIBUTIVE or PREDICATIVE
+    * The only time there can be any ambiguity between Attributive and Predicative is when the adjective comes after the noun and both are indefinite
+    * In these situations, we need to let the context determine the use
+* <span class="he">הַטּוֹבָה</span> - 
+    * SUBSTANTIVAL
+    * This example can't be Attributive or Predicative because there is no noun that the adjective is modifying
 
 ## The Mappiq 
 
-The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in a word-final Hei (a Hei that is the final letter of a word).
+* The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in the letter <span class="he">ה</span> and ONLY when it is the last letter of a word
+    * Gutturals never take a Daghesh
+    * Dagesh are never in the final letter of a word
+* A word-final <span class="he">ה</span> is always part of a vowel unless it has a Mappiq (<span class="he">הּ</span>).
+* The Mappiq is a sign that the breathy sound of the consonantal hei should be accentuated slightly
+* It does not affect the word's meaning or syllabification
 
-It is virtually impossible to confuse a Daghesh and a Mappiq because <span class="he">ה</span> can never take a Daghesh.
-
-A word-final <span class="he">ה</span> is always a vowel unless it has a mappiq (<span class="he">הּ</span>).
-
-The mappiq is a sign that the breathy sound of the consonantal hei should be accentuated slightly.
-
-At the end of a word:
-
-* <span class="he">ה ָ</span>  - "aaw"(long A sound)
-* <span class="he">הּ ָ</span>  - "ahh"(breathy)
 
 ## The Directional Ending 
 
-We've studied the fact that the <span class="he">ה ָ</span>  is the Feminine Singular ending.  We now need to refine this definition slightly.  
-
-* An ACCENTED <span class="he">ה ָ</span>  is the FS ending
-* However, an UNACCENTED <span class="he">ה ָ</span>  is known as a "directional ending"
+* We've studied the fact that the <span class="he">ה ָ</span>  is the Feminine Singular ending
+* We now need to refine this definition slightly: it is USUALLY the Feminine Singular ending
+    * An ACCENTED <span class="he">ה ָ</span>  is the FS ending
+    * However, an UNACCENTED <span class="he">ה ָ</span>  is known as a "directional ending"
 * The directional ending is used to indicate motion towards or to, whatever the noun is
     * <span class="he">אַ֫רְצָה</span> - to/toward a land
     * <span class="he">הָעִ֫ירָה</span> - to/toward the city
-
-Note that <span class="he">אֶל־הָאָ֫רֶץ</span> and <span class="he">אַ֫רְצָה</span> are essentially synonymous.
-
-<span class="he">אָנֹכִי אֵרֵד עִמְּךָ מִצְרַ֫יְמָה </span>
-
-_I will go down with you to Egypt (Gen 46:4)_
+* <span class="he">אֶל־הָאָ֫רֶץ</span> and <span class="he">אַ֫רְצָה</span> are synonymous
+* <span class="he">אָנֹכִי אֵרֵד עִמְּךָ מִצְרַ֫יְמָה </span>
+    * _I will go down with you to Egypt (Gen 46:4)_
 
 ## Word Warm-up {-}
 
@@ -195,32 +220,37 @@ _I will go down with you to Egypt (Gen 46:4)_
 * `Lesson 07 A. Vocab`
 * `Lesson 07 B. Grammar` 
 * `Lesson 07 C. Workbook`
-    * In this activity, we will have very short passages of scripture that illustrate adjectives, including examples of attributive and predicate use
+    * In this activity, we will have short passages of scripture that illustrate adjectives, including examples of attributive and predicate use
     * Be sure to look up any words you do not know.  
 * `Lesson 07 D. Verses`
 
 
 ## Ruth Pursuit {-}        
 
+Curiously, there are a lack of adjectives in Ruth 1.  There are _participles_, which are verbal adjectives we will study in Lesson 22.  
+
 ::: {.box .map}
 YOUR QUEST
 
-Curiously, there are a lack of adjectives in Ruth 1.  There are participles, which are verbal adjectives we will study in Lesson 22.    
-
-1. There are several mappiq marks that should be relatively easy for you to locate (yellow)
+1. Locate a few of the Mappiq marks (yellow)
 2. Vocabulary words (green)
-    1. Find the Hebrew word for "name", that you learned in the Lesson 3 Vocab. Frequently, the word has the Vav conjunction.
+    1. Find the Hebrew word for "name," that you learned in the Lesson 3 Vocab; frequently, the word has the Vav conjunction
     2. Find the word for "very"
     3. Find the word for "daughters" - it occurs with a pronominal suffix, and means "my daughters"
     4. Find the phrase joined with a Maqqef that means "to the land (of)"
 3. Other words (pink)
-    1. Towards the end of the chapter, Naomi says "don't call me Naomi (pleasant) call me 'Mara' (bitter). Find the word for Bitter.  It occurs twice in two different forms.
-    2. Find the word for Orpah
-    3. <span class="he">רֵיקָם</span> is a word that means "empty". It occurs 16x, and almost always with the sense of sending someone away empty-handed.<small>^[<small>A chuckle-worthy example is 1st Samuel 6:3 when the Philistines realize that the Ark is causing nothing but trouble for them.  They purposed to send the Ark back to Israel, but said "send it not empty!" They sent it back with trespass offerings representing the plagues they suffered: five golden mice and, apparently, five golden hemorrhoids!</small>]</small>. In Ruth 1, Naomi said she left full but was sent back empty.  Find the one example of this word near the end of the chapter.
+    1. Towards the end of the chapter, Naomi says, "don't call me Naomi (pleasant) call me 'Mara' (bitter)
+        * Find the word for "bitter"
+        * It occurs twice in two different forms
+    2. Find the word for "Orpah"
+    3. <span class="he">רֵיקָם</span> is a word that means "empty." It only occurs 16x in the entire Bible, and almost always with the sense of sending someone away empty-handed.<small>^[<small>A chuckle-worthy example is 1st Samuel 6:3 when the Philistines realize that the Ark is causing nothing but trouble for them.  They purposed to send the Ark back to Israel, but said "send it not empty!" They sent it back with trespass offerings representing the plagues they suffered: five golden mice and five golden tumors, which some scholars believe were actually hemorrhoids!</small>]</small>. In Ruth 1, Naomi said she left full but was sent back empty.  Find the lone example of this word near the end of the chapter.
+    
+Be sure to update your `Ruth Pursuit Translation Worksheet` with the findings from your Quest!
+
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
 * Don't forget to update your `Ruth Pursuit Translation` worksheet with new words identified through lesson 7.
 
@@ -235,7 +265,7 @@ Curiously, there are a lack of adjectives in Ruth 1.  There are participles, whi
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
-When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` through Lesson 7, complete the certification below and your Dan badge and devotional will be on its way!
 
 <!-- Tribe Badge 3 = Dan -->
 

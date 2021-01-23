@@ -1,6 +1,5 @@
 # The Hebrew Aleph-bet {#alephbet}
 
-
 > To comprehend Biblical Hebrew, we must have the Aleph-Bet memorized
 
 <br>
@@ -12,7 +11,7 @@ knitr::include_graphics("images/alephbet_multi.png")
 
 This graphic shows the evolution of Hebrew. Top to bottom: proto-Canaanite (~1600 BCE), paleo-Hebrew (~900 BCE), Rashi (1500 CE), Ketav Stam (used in Torah scrolls and other formal documents), contemporary block, and modern cursive. This course will use the contemporary block style. 
 
-In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like a family.  With any family there can be unique dynamics (including not always playing nice with each other!).  This lesson will take a look at some of those dynamics.
+In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like a family.  Like a family, there can be unique dynamics (including not always playing nice with each other!).  This lesson will take a look at some of those dynamics.
 
 
 ::: {.infobox .map}
@@ -35,7 +34,7 @@ In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like
 
 If you are eager to jump right in with Lesson 1, we understand.  We are also excited for you to start!
 
-"Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you have an understanding of specific concepts before continuing.
+"Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you understand specific concepts before continuing.
 
 BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIMINARY` TASKS ON YOUR `COURSE CHECKLIST` AND ARE READY TO GO WITH `ANKI`!
 
@@ -66,7 +65,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
 ``` 
 
-<small>Note: acoustic tests have been performed at this location.  These have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment (and Yeshua didn't have to deal with road noise!).  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
+<small>Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
 
 
 ## The Hebrew Aleph-Bet {#consonants}
@@ -86,10 +85,11 @@ Almost every other grammar book would start with a lengthy description of each l
 * We'll talk about vowels in Lesson 2
 
 ::: {.box .stop}
+_Hebrew Quest_ Lessons 1-11
 
-If you have not yet completed _Hebrew Quest_ Lessons 1-11, we encourage you to stop here and move over to Hebrew Quest to complete the Alephbet lessons.
+We encourage you to stop here and move over to _Hebrew Quest_ to complete the Alephbet lessons if you haven't already done so.
 
-In addition to learning the letters, you will learn things each letter has to teach us from a spiritual perspective.
+Besides learning the letters, you will learn things each letter has to teach us from a spiritual perspective.
 :::
 
 ## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
@@ -135,23 +135,23 @@ knitr::include_graphics("images/kimnepatz.gif")
 knitr::include_graphics("images/bdgkpt.gif")
 ```
 
-* Next, we need to learn the "BeGaD Kephat" letters<small>^[<small>See also Lesson 3 of Hebrew Quest</small>]</small>
+* Next, we need to learn the "BeGaD KePhaT" letters<small>^[<small>See also Lesson 3 of _Hebrew Quest_</small>]</small>
 * The red and blue dots in the above letters are called **DAGHESH LENE**
 * The Daghesh Lene is inserted into the middle of the consonant
-    * The pronunciation of the letter is linguistically "hard" if the Daghesh Lene present or linguistically "soft" if not present
-        * so ב has a "soft b" sound, in other words a "v" sound
-        * בּ has a "hard b" sound, in other words a "b" sound
+    * The pronunciation of the letter is "hard" if the Daghesh Lene present or linguistically "soft" if not present
+        * so ב has a "soft b" sound, in other words, a "v" sound
+        * בּ has a "hard b" sound, in other words, a "b" sound
         * כ sounds like the "ch" in "bach", while כּ is "k" as in "kite"
         * פ is the "ph" in "phone", while פּ is the "p" in "pull"
 
 * At one time, all six of these letters had different pronunciations, but today, only three do.  These are the letters in blue above **בּ כּ פּ**
-    * Since the letters without the Daghesh Lene want to be "lazy" - for example a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"
+    * Since the letters without the Daghesh Lene want to be "lazy" - for example, a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"
 
 ::: {.box .caution}
 * There other "dots" in Hebrew with various meanings
 * The Daghesh Lene ONLY applies to Bet - Gimmel - Dalet - Kaf - Pei - and Tav 
     * If a dot appears in any other letter, it is NOT a Daghesh Lene
-* We’ll dig deeper into the Daghesh Lene and its much more important twin, the Daghesh Forte, over the next few lessons.
+* We’ll dig deeper into the Daghesh Lene and its much more notable twin, the Daghesh Forte, over the next few lessons.
 :::
 
 ## We classify four consonants as **Gutturals** (and one is a sometimes-guttural) {#gutturals}
@@ -193,7 +193,7 @@ knitr::include_graphics("images/01_sqinemlevy_gif.gif")
 ## Look out for look-alike Letters {#look-alike-letters}
 
 * Hebrew has many letters that can look similar, especially to someone just learning the Aleph-bet
-* For example <span class="he">נ</span>, <span class="he">ג</span> and <span class="he">כ</span>; <span class="he">ס</span> and <span class="he">ם</span>; or <span class="he">ר</span>, <span class="he">ד</span> and <span class="he">ך</span>
+* For example <span class="he">נ</span>, <span class="he">ג</span> and <span class="he">כ</span>; <span class="he">ס</span> and <span class="he">ם</span>; or <span class="he">ר</span>, <span class="he">ד</span>, and <span class="he">ך</span>
 * The `Anki` deck will give you practice on distinguishing these.
 * Also, in Hebrew Quest, when Izzy reviewed the Aleph-Bet in lessons 2-11, he talked about each letter’s "twin" and how to spot the difference 
 * We encourage you to revisit those [letter lessons](https://holylanguage.com/letters.html). 
@@ -275,7 +275,7 @@ YOUR QUEST
 * Instead of going sequentially, we will be working to identify concepts  
     * We started with the simple words in the previous section
     * Towards the end of the course, you will be translating complex verbs
-* We want you to keep track of your progress, because in Unit 4, you will know enough Hebrew to compose your own translation of Ruth 1
+* We want you to keep track of your progress because, in Unit 4, you will know enough Hebrew to compose your own translation of Ruth 1
 * After you finish each `Ruth Pursuit`, be sure to update the `Ruth 1 Translation` tab in your course checklist
 
 ::: {.box .map}
@@ -285,7 +285,7 @@ RUTH PURSUIT TRANSLATION WORKSHEET INSTRUCTIONS
 * Find the `Ruth 1 Translation` tab
 * As you identify complete words (not the individual letters), enter the English meaning next to the applicable word - note that the same word may occur multiple times in the passage
     * For example, next to each occurrence of <span class="he">מוֹאָב</span>, type the word `Moab`, for <span class="he">רוּת</span>, enter "Ruth" and so forth
-    * You might want to make a note of the Lesson # (in this case "1") in case you need to refer back
+    * You might want to make a note of the Lesson # (in this case "1") if you need to refer back to the lesson
     * There is also a column for any notes you wish to make
     * See examples for verse 1 in the worksheet
 * Remember to update your translation worksheet after each lesson

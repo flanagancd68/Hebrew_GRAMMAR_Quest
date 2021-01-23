@@ -3,7 +3,7 @@
 > To comprehend Biblical Hebrew, we must be able to figure out numbers, with or without a dictionary, when we encounter them in the Bible
 
 
-You have worked very hard on the first ten lessons!  Way to go!  While a discussion on numbers and counting is often interweaved in a discussion with the Aleph-Bet, the authors of <u>Basics of Biblical Hebrew</u>, wisely in our opinion, strategically placed a necessary but lighter discussion on numerals right here in Lesson 11.  We are emerging from what may be a lot of foggy concepts with all of the noun, pronoun, and adjective concepts in lessons 4-10 (particularly Lessons 8-10).  The bulk of the work in Lesson 11 will be in `Anki` learning numbers from _Hebrew Quest_.
+You have worked very hard on the first ten lessons!  Way to go!  The authors of <u>Basics of Biblical Hebrew</u>, wisely in our opinion, strategically placed a necessary but lighter discussion on numerals right here in Lesson 11.  We are emerging from what may be a lot of foggy concepts with all of the noun, pronoun, and adjective concepts in lessons 4-10 (particularly Lessons 8-10).  The bulk of the work in Lesson 11 will be in `Anki` learning numbers from _Hebrew Quest_.
 
 For the next 25 lessons, we will focus on the Hebrew verbal system and -- the entire point of this course -- reading and understanding Scripture.
 
@@ -48,36 +48,45 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 ---
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha, traditional location of the calling of the twelve disciples (). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/11-Tabgha from boat, tb011500051.jpg")
 ``` 
 
 
+## _Hebrew Quest_ Numerals Lecture
+
+View this 17-minute overview video from _Hebrew Quest_ on Hebrew Numerals.  Don't fret if you don't understand this material completely.  We will break down these concepts as we progress through this lesson.  
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+MlfwNNuWgto?start=1675&end=2710
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/MlfwNNuWgto?t=1675){target="_blank"}
+
 
 
 ## The Biblical text always spells out numbers
 
-There is not a lot of elaboration needed except to note that this is the case.  You will not see "1", "200", or "969", either in modern symbols or in Rabbinic symbols (using the Aleph-bet) in the Hebrew text.  
+There is not a lot of elaboration needed except to note that this is the case.  You will not see "1", "200", or "969", either in modern symbols or in Rabbinic characters (using the Aleph-bet) in the Hebrew text.  
 
 <span class="he">כָּל־יְמֵי מְתוּשֶׁלַח **תֵּשַׁע וְשִׁשִּׁים שָׁנָה וּתְשַׁע**</span>
 
-"all the days of Methuselah (were) **nine and sixty years (i.e 960) and nine (i.e. 969)**."
+"all the days of Methuselah (were) **nine and sixty years (i.e., 960) and nine (i.e., 969)**."
 
 ## Notes and footnotes use symbols for numbers
 
-You may come across a system of counting that uses numerical values for each of the Hebrew letters.  The term for this is "gemetria".  Gemetria is interesting and the Rabbis have a lot of fun with comparing words that have identical numerical values, but it won't be a focus of this course.
-
+* You may come across a system of counting that uses numerical values for each of the Hebrew letters
 * א ב ג ד ה ו ז ח ת represent 1-9
 * י כ ל מ נ ס ע פ צ represent 10-90 by tens
     * So to say 33, would be 30 and 3 = לג or often ל״ג, with the ״ indicating that this is not a real word
 * ק ר ש ת are 100, 200, 300, and 400, then we go to the sofit forms ך ם ן ף ץ for 500-900
 * In some reckonings, a series of dots or diamonds above the letters, or ’ is used for numbers above 999.  For example, 1000 is ’א
-
-Below is Genesis 1:1.
-
-* בראשית פרק א
-means "Genesis Chapter 1"
+* Below is how a Hebrew reference might say "Genesis 1:1"
+  * בראשית פרק א
+  * This means "Genesis Chapter 1"
 * Next, note the diminished א indicating "1" for the first verse
 
 ```{r, out.width = "600pt", fig.align='center'}
@@ -88,20 +97,20 @@ knitr::include_graphics("images/11.gen0101.png")
 ## Hebrew Ordinal Numbers
 
 * Ordinal numbers denote order.  first, second, third
-* In Hebrew, these are attributive adjectives.  As such, they follow the noun and match in gender, number and definiteness (Attributive Always After, Always Agree).
+* In Hebrew, these are attributive adjectives
+* They follow the noun and match in gender, number, and definiteness (Attributive Always After, Always Agree)
     * <span class="he">יוֹם רִאשׁוֹן</span> or <span class="he">הַיּוֹם הָרִאשׁוֹן</span> = first day or the first day
 * Ordinal numbers end in Hireq-Yod (M) or Hireq-Yod_Tav (F)
-    *  <span class="he">שְׁלִישִׁי</span> and <span class="he">שְׁלִישִׁית</span> mean 'third'
+    *  <span class="he">שְׁלִישִׁי</span> and <span class="he">שְׁלִישִׁית</span> mean "third"
 * To denote the 11th position or higher, we would use cardinal numbers
     * We are dependent on the context of the passage to indicate whether the number is cardinal or ordinal
     * <span class="he">בִּשְׁנַת הָאַרְבָּעִים</span>  = in the year of the forty = in the 40th year
 
-We encourage you to learn the "days of the week" song with Izzy in the video below.
+We encourage you to review the "days of the week" song with Izzy in the video below.
 
-### Hebrew Quest Ordinal Numbers Video {-}
+### _Hebrew Quest_ Ordinal Numbers Video {-}
 
 [Open video in new window](https://www.youtube.com/embed/MlfwNNuWgto?t=2545){target="_blank"}
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/MlfwNNuWgto?t=2545" frameborder="0"></iframe>
@@ -156,22 +165,22 @@ The technical term for this is "chiastic concord" (you don't need to know this)
     
 ## Conclusion
 
-This chapter omits many details about numbers and counting.  We aimed to provide an introduction so that you will have basic familiarity when you encounter numbers in the Bible.
+* This chapter omits many details about numbers and counting
+* We aimed to provide an introduction to have basic familiarity when you encounter numbers in the Bible.
+* For Hebrew GRAMMAR Quest, it is sufficient for you to learn the Ordinals 1-10, and the Cardinals 1-10, then 20-100 by 10s, and 1000
+* There is no quiz and no Anki Workbook for this lesson
 
-If you are interested in going a little deeper, we encourage you to view the complete [Hebrew Quest segment on numerals](https://holylanguage.com/grammar-1.php){target="_blank"}. 
-
-For Hebrew GRAMMAR Quest, it is sufficient for you to learn the Ordinals 1-10, and the Cardinals 1-10, then 20-100 by 10s, and 1000.
-
-There is no quiz and no Anki Workbook for this lesson. 
+::: {.box .map}
 
 You are at an exciting point in the course.  Next week we get into Hebrew Verbs, where your understanding of Hebrew Scripture will start to move into high gear!
 
+:::
 
 ### Anki {-}
 * `Lesson 11 A. Vocab` 
     * The vocab work will be a little bit longer than in a usual lesson.  
-        * We will have the normal set of words from <u>Basics of Biblical Hebrew</u>
-        * We will also incorporate the numerals cards from <u>Hebrew Quest</u>
+    * We will have the typical set of words from <u>Basics of Biblical Hebrew</u>
+    * We will also incorporate the numerals cards from <u>Hebrew Quest</u>
 * `Lesson 11 B. Grammar` 
 * `Lesson 11 C. Study Verses` - Note: there is no `Workbook` component to this lesson.
 
@@ -193,12 +202,6 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 <iframe class="responsive-iframe" src="https://youtube.com/embed/JeU84P1AdEM" frameborder="0"></iframe>
 </div>
 
-
-
-
-
-
-
 ## Ruth Pursuit {-}        
 
 ::: {.box .map} 
@@ -214,18 +217,18 @@ YOUR QUEST
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 
 * [Ruth Pursuit Answer Key #11](./images/11_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## Claim your Unit 2 Completion Certificate! {-}
 
-If you have completed **all activities** in Lessons 1-11, you may claim the second `Unit Completion Certificates`.
+If you have completed **all activities** in Lessons 1-11, you may claim the second `Unit Completion Certificate`.
 
 ::: {.box .caution}
-* Reminder that the Anki Requirement for the `Unit Completin Certificate` is different from the requirement for the `12 Tribes Badges`.
+* A remember that the Anki Requirement for the `Unit Completion Certificate` is different from the `12 Tribes Badges` requirement
 * You must submit a screenshot showing that all cards are **MATURE**
-* No cards may be "New", "Young", "Suspended", or "buried"
+    * No cards may be "New," "Young," "Suspended," or "Buried"
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
 

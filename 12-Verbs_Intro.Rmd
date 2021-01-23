@@ -51,6 +51,29 @@ knitr::include_graphics("images/13-Acacia tree in Red Canyon, tb030101203.jpg")
 
 
 
+
+## _Hebrew Quest_ Verb Introduction Lecture
+
+View this 5-minute overview video from _Hebrew Quest_ on Hebrew Verbs. You may disregard references to the "Student Manual" and "Essentials of Biblical Hebrew" as we will break down the concepts Izzy discusses as we progress through this lesson.  
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hfu4gjNo2K4?start=2342&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2342){target="_blank"}
+
+## A note on the paradigm strong verb <span class="he">קטל</span>
+
+* As Izzy mentioned in the video we just viewed, Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
+* It is meant to represent _ANY_ strong verb (we'll discuss strong and weak verbs later in this Lesson)
+* What makes <span class="he">קטל</span> awkward is the word means "to kill"
+* As we go through this course, remember that the actual translation of <span class="he">קטל</span> is not material to our purposes
+* In this respect, it is similar to a math formula
+    * In $a^2 + b^2 = c^2$, the letters "a", "b", and "c" have no direct, literal meaning
+    * They are meant to represent the lengths of any three sides of a right triangle
+* We encourage you to think of <span class="he">קטל</span> the same way - they are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
+
 ## The Verbal Root
 
 * A _Root_ is the set of consonants on which a verb (and often nouns) are based
@@ -301,16 +324,6 @@ include_graphics("images/34_stemcomp.png")
 * The vowels in BLUE and the "formula" in the last column are the $V_S$ patterns for that stem/conjugation
 * You do not need to do anything with this table right now - we only want to show you how this relatively simple series of patterns will help you unlock the meaning of the Bible
 
-## A note on the paradigm strong verb <span class="he">קטל</span>
-
-* Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
-* It is meant to represent _ANY_ strong verb
-* What makes <span class="he">קטל</span> awkward is the word means "to kill"
-* As we go through this course, remember that the actual translation of <span class="he">קטל</span> is not material to our purposes
-* In this respect, it is similar to a math formula like we mentioned above
-    * In $a^2 + b^2 = c^2$, the letters "a", "b", and "c" have no direct, literal meaning
-    * They are meant to represent the lengths of any three sides of a right triangle
-* We encourage you to think of <span class="he">קטל</span> the same way - they are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
 
 
 That's enough for this introduction to Hebrew verbs.  Let's get to the exercises!

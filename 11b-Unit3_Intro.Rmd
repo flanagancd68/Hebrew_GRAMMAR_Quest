@@ -2,97 +2,114 @@
 
 # Introduction to Unit 3 {-}
 
-This unit represents a pivot point in this course.  From now through the end of the course, we will be focusing on verbs.  In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth.  Then in Unit 4 we will learn the six so-called "derived" stems.
+* Unit 3 represents a pivot point in this course
+* From now through the end of the course, we will focus on verbs
+* In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth
+* Then in Unit 4 we will learn the six so-called "derived" stems
 
 We wanted to let you know of some changes:
 
 
-2. Vowel Shorthand
-2. Cantillation marks added to Study Verses
+1. Vowel Shorthand
+2. $Pre$ = a diagnostic word-initial combination
 3. Changes to Hebrew GRAMMAR Quest for Units 3 and 4
     1. No more quizzes!
     2. Cantilation marks added to study verses
     3. OPTIONAL _Hebrew Quest_ Study Passage Translation
 
 
-## Vowel Transliteration/Shorthand
+## Vowel Transliteration/Shorthand {-}
 
-* Way back in Chapters 1 and 2, _Basics of Biblical Hebrew_ taught transliteration for both consonants and vowels
-* At the time you studied these lessons, we omitted this discussion. For Hebrew GRAMMAR Quest, we want to get you into the actual Hebrew text, not rely on a transliteration
-* The transliteration shorthand used does turn out to be valuable as we progress in the derived verb stems
-    * It allows us to create mathematical-style formulas which are much easier to remember than writing and reading everything in long-form.  Compare:
-        * "The stem vowel is Hireq + Yod and the preformative vowel is Hateph Qamets Hatuf", with "$V_S = \hat I$ and $V_P = \breve O$"
-* Below is the vowel shorthand we will use:
+We will begin to use the vowel transliteration introduced in Lesson 2
 
-|Type / Class|A|E|I|O|U
-|:-:           |:-:|:-:|:-:|:-:|:-: 
-| Short (plain) |<span class="he">בַ</span><small>^[ב is used as a placeholder. _Basics of Biblical Hebrew_ has these as lowercase letters, while Beckman's version uses uppercase. As you know by now, Hebrew GRAMMAR Quest primarily follows Beckman's conventions. </small>]</small>>$= A$ | <span class="he">בֶ</span> $= E$ | <span class="he">בִ</span> $= I$  | <span class="he">בָ</span> $= O$ | <span class="he">בֻ</span> $= U$
-|Long (bar) | <span class="he">בֲ</span> $= \bar A$ | <span class="he">בֵ</span> $= \bar E$| | <span class="he">בֹ</span> $= \bar O$ |
-|Reduced (breve) | <span class="he">ב</span> $= \breve A$ | <span class="he">בֱ</span> $\breve E$ | | <span class="he">בֳ</span> $= \breve O$ |
-| Letters (hat)<small>^[Of all the vowel letters, Hebrew verbs tend to use only these three as stem vowels</small>]</small>| | |<span class="he">בִי</span> $= \hat I$ |<span class="he">וֹ</span> $= \hat O$ | <span class="he">וּ</span> $= \hat U$
+::: {.map. info}
 
-* Finally, we will use $:$ for Sheva (silent or vocal)
-* As we remember, the ה vowel letters are only used at the end of words, so they would never be the $V_P$ or the $V_S$
+* Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, and so forth for the remaining short vowels
+* Long Vowels (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
+* Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
+* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod, $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav; $\hat U$ = Shureq
+* Additionally, the ending Qamets+He = $\hat A$ and Sheva = $ə$
 
-## Word Initial Combinations
+:::
 
-* A Hebrew strong verb conjugation, regardless of stem, can usually be identified based on its initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
-* For example, in Lesson 15, we will learn the "Imperfect Preformatives"
+## Word Initial Combinations {-}
+
+* A Hebrew strong verb conjugation, regardless of the stem, can usually be identified based on its initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
+* For example, in Lesson 15, we will learn the "Imperfect Preformatives" (we'll describe what a preformative is a little later)
     * The 3ms and 3mp strong forms will always have:
         * Preformative consonant = Yod
         * $V_P$ = Hireq, and
         * $V_1$ = Silent Sheva
-    * We can shorten this by saying $Pre_{QI} =$ <span class="he">יִקְ</span>, where ק represents $R_1$ of any strong verb
+    * We can shorten this by saying $Pre =$ <span class="he">יִקְ</span>, where ק represents $R_1$ of any strong verb
+    * $Pre$ is not simply the verb's prefix or preformative, but the entire word-initial combination of preformatives, vowels, and possibly a Dagesh that can help us identify and translate a specific verb form
 
+## Changes for Unit 3: No more quizzes! {-}
 
-
-## Changes for Unit 3: No more quizzes!
-
-The purpose of the quizzes in Units 1 and 2 was to provide a checkpoint for students before proceeding to the next lesson.  If you have reached this point in the course, you are a veteran at this now. The workload in other areas of the course is steadily increasing, and of course the Anki reviews are growing (so be sure to keep up with daily reviews!).  We can now dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson.
+* The quizzes in Units 1 and 2 provided a checkpoint before proceeding to the next lesson
+    * We wanted to make sure you had the essential components of the lesson
+* At this stage of the course,we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
+* The overload workload is steadily increasing, and of course the Anki reviews are growing (so be sure to keep up with daily reviews!)
 
 ## Changes for Unit 3: Cantillation Marks added to Study Verses {-}
 
-Way back in Lesson 2, we also referenced additional marking called cantillation marks.  These are the marks in addition to vowels and consonants we sometimes see in Hebrew.  Here is an example from Genesis:
+* Back in Lesson 2, we also referenced additional marking called cantillation marks
+* These are the marks in addition to vowels and consonants we sometimes see in Hebrew
+    * Here is the example we looked at from Genesis:
+
 ```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
 include_graphics("images/02.Gen0109.png")
 ```
 
-Up until now, we have been using a simple accent mark whenever a Hebrew word has an accent on the second to last syllable.  For example, <span class="he">נֶ֫גֶב</span>.  While the Lessons and other materials will continue to use these simple accents, from now on, we will graduate to using the full set of Hebrew accents in our Study Verses and Workbook exercises.  Why do this?
-
-> When you read from a Tanach, you are much more likely to encounter the complete set of Hebrew accent marks.  So part of becoming more comfortable with the Hebrew Bible must include a basic familiarity with these additional marks. 
-
-Things to keep in mind:
-
-* There are over 20 different cantilation marks.  We won't go into what each one means, but there are plenty of resources on the Internet if you are interested in digging deeper
-* If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark
-* Remember that a syllable can have only one vowel
-* Most often there is only one cantillation mark per word - <u>where you see the mark is where the accent goes</u>
-* Occasionally you will see a mark near the front or middle of the word and a mark near the end of a word.  The first mark is a secondary accent.  Remember, a primary Hebrew accent can ONLY be on the LAST or SECOND-TO-LAST syllable
+* Up until now, we have been using a simple accent mark whenever a Hebrew word has an accent on the second to last syllable
+    * For example, <span class="he">נֶ֫גֶב</span>
+    * While the Lessons and other materials will continue to use these simple accents, from now on, we will graduate to using the full set of Hebrew accents in our Study Verses and Workbook exercises
+* Why do this?
+    * When you read from a Tanach, you are much more likely to encounter the complete set of Hebrew accent marks
+    * Becoming more comfortable with the Hebrew Bible includes having a basic familiarity with these additional marks
+* Things to keep in mind:
+    * There are over 20 different cantillation marks
+    * We won't go into what each one means, but there are plenty of resources on the Internet if you are interested in digging deeper
+    * Remember that a syllable can have only one vowel
+    * Most often, there is only one cantillation mark per word - <u>where you see the mark is where the accent goes</u>
+    * Occasionally, you will see a mark near the front or middle of the word, as well as a mark near the end of a word         
+        * The first mark is a secondary accent
+        * Remember, a primary Hebrew accent can ONLY be on the LAST or SECOND-TO-LAST syllable
 * The vertical line | that can appear between two words can be ignored
-* When in doubt, listen to Izzy's audio carefully as he reads each verse, to determine where the accent goes
+* When in doubt, listen to Izzy's audio carefully as he reads each verse to determine where the accent goes
 
-Trying to read with these marks can be visually distracting and overwhelming at first, but with practice you will get used to them.  They are part of the rich tradition of Biblical Hebrew that has been passed down to us from many centuries ago.
+::: {.box .light}
+If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark.
 
-## Changes for Unit 3: OPTIONAL Hebrew Quest Study Passage Translation{-}
+:::
 
-For those who seek more opportunities for additional Hebrew Bible reading and translating activity, we present the `Hebrew Quest Study Passages`.  Whether you have already completed _Hebrew Quest_ or not, this activity is sure to significantly expand your Hebrew reading skills.  
-You will be asked to read through the passage on your own, looking up any words you don't know, to then compose a translation.  You will then watch the applicable video from _Hebrew Quest_ where Izzy reads and breaks down the passage. 
+::: {.box .info}
+Trying to read with these marks can be visually distracting and overwhelming at first. With practice you will get used to them.  Cantillation marks are part of the rich tradition of Biblical Hebrew passed down to us from many centuries ago.
 
-Completion of this activity may require a significant time investment to complete.  Therefore, completion of the `Hebrew Quest Study Passage Track` is not required to earn any Hebrew GRAMMAR Quest `Badges`, `Certificates`, or the `Graduation Diploma`.  
+:::
 
-We will start off slowly with the verses from the Proverbs study.  Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40).
+## Changes for Unit 3: OPTIONAL _Hebrew_ Quest Study Passage Translation {-}
 
-Here is what we want you to do in these Study Passages activities:
+* `Hebrew Quest Study Passages` are designed for those who seek more opportunities for additional Hebrew Bible reading and translating activity
+* They also offer a method to simultaneously complete _Hebrew Quest_ and Hebrew GRAMMAR Quest
+* Completion of this activity may require a significant time investment to complete
+    * For this reason, completing the `Hebrew Quest Study Passage Track` is not required to earn any Hebrew GRAMMAR Quest `Badges`, `Certificates`, or the `Graduation Diploma`
+* Whether you have already completed _Hebrew Quest_ or not, this activity is sure to significantly expand your Hebrew reading skills
+* We will start off slowly with the verses from the Proverbs study
+* Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40)
+* Here is what we want you to do in these Study Passages activities:
+    1. Download or print the applicable study passage document
+    2. Read the passage straight through to gain an overview
+    3. Read again, but this time, compose a translation
+        1. First see how much you can do without a reference
+        2. Then look up any words you don't know in a lexicon
+    4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
+        * As you are watching, compare your translation with Izzy's explanation
+        * How did you do?  Can you see how much you are learning?
+        * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on part of speech and PGN information when you hover over a word
+    5. Ask what the Spirit of Holiness, the Ruach HaKodesh, is teaching you
 
-1. Download or print the applicable study passage document
-2. Translate verse by verse
-    1. First see how much you can do without a reference
-    2. Then look up any words you don't know in a lexicon
-3. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
-4. Compare your translation from step 2 with Izzy's explanation on the video?  How did you do?  Can you see how much you are learning?
-
-## Keep going! {-}
+## Lessons 13-16 are critical {-}
 
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013."}
@@ -101,14 +118,31 @@ knitr::include_graphics("images/11b.bethabara.JPG")
 ``` 
 
 
-* The photo above is of the Jordan River baptismal area in Israel near Jericho - it was taken less than a month after flooding of the area
+* The image above is of the Jordan River baptismal area in Israel near Jericho - it was taken less than a month after flooding of the area
 * Lessons 13-16 could be considered the "high-water mark" of the course
-* There will be a lot of details to digest as we talk about the two most critical verb forms in the Bible, the Qal Perfect and the Qal Imperfect
-* It's important that you master the material in these four chapters - this will make the rest of the course much smoother 
-* The high water will start to recede a little starting with Lesson 17
-* For the most part, the rest of the course from 17-35 will be building off of what we learned in Chapters 13-16
-* Hang in there and keep going!  Slow and steady wins your Hebrew race!
+    * There will be a lot of details to digest as we talk about the two most critical verb forms in the Bible, the Qal Perfect and the Qal Imperfect
+    * YOU MUST MASTER the material in these four chapters
+    * Doing so will make the rest of the course much smoother, and more importantly, this will help you better understand your Hebrew Bible
+* The "high water" will start to recede a little starting with Lesson 17
+* The rest of the course from Lessons 17-35 build upon Chapters 13-16
 
+
+## _Hebrew Quest_ Verb Summary Lecture
+
+Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy's discussion on Hebrew verbs, we wanted to share it with you here.  Izzy offers tremendous encouragement for you which you can apply throughout your verbal journey. 
+    
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hWmwyosdP-s?start=3343&end=3512&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=3343){target="_blank"}
+
+::: {.box .map}
+* Hang in there and keep going!  
+* We are studying grammar to draw closer to the Holy One!
+* Slow and steady wins your Hebrew verbal race!
 
 Now, let's get to Hebrew Verbs!
 
+:::

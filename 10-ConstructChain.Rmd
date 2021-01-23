@@ -27,7 +27,7 @@ In this lesson, we will discuss the parameters of a Hebrew construct chain.  Kee
 Before continuing, can you describe the following concepts?
 
 * The pronominal suffixes (you have them memorized)
-* Define Type 1 vs Type 2 suffixes
+* Define Type 1 and Type 2 pronominal suffixes
 :::
 
 ## First Thought {-}
@@ -46,7 +46,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
     </audio>
 </figure>
 
-<span class="he">כָּל־אִמְרֵי־פִי</span> "all _of_ the utturances _of_ my mouth" is a construct chain.
+<span class="he">כָּל־אִמְרֵי־פִי</span> "all _of_ the utterances _of_ my mouth" is a construct chain.
 
 *****
 
@@ -67,39 +67,40 @@ The first important thing to know about a Hebrew construct chain is this:
 * Back to <span class="he">בֵּית לֶחֶם</span>, "house of bread" 
     * "bread" would be in the absolute state
     * "house of" is in the construct state
-    * The entire phrase, with one and only one absolute noun and one or more construct nouns, would be called a "construct chain."  
+    * The entire phrase would be called a "construct chain"  
+        * A construct chain has one and only one absolute noun and one or more construct nouns
 
-::: {.box .light}
+::: {.box .caution}
 The purpose of the chain is to describe the **first** _noun_ in the chain.  
+
+* It might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case
+* In <span class="he">בֵּית לֶחֶם</span>, we are describing the house, not the bread  
+* A chain describes the first NOUN in the chain, not necessarily the first word in the chain
+* If there were a substantival adjective as the first word, e.g., "wise of heart", the chain is describing "heart," not "wise"
+
 :::
 
-* It might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case.  
-* In <span class="he">בֵּית לֶחֶם</span>, we are describing the house, not the bread  
-* Note that we said the first NOUN in the chain
-    * If there were a substantival adjective as the first word, e.g. "wise of heart", the chain is describing "heart" not "wise".  
-    * A chain describes the first NOUN in the chain, not necessarily the first word in the chain.
-
-In English, we would typically add the word "of" after each word in the construct state.  
+* In English, we would typically add the word "of" after each word in the construct state.  
     * We could say "the king's son" or the "son of the king," and both would mean the same thing
     * Translating a construct word as "of" is a _starting point_ and not a hard-and-fast requirement
-
-Just like we may add `'s`, Hebrew has different spelling for nouns in construct.  The absolute noun is the "normal" spelling and meaning.
+* Just like we may add `'s`, Hebrew has different spelling for nouns in construct
+    * The absolute noun is the "normal" spelling and meaning
 
 
 ## What makes a construct chain
 
-What makes a Hebrew construct chain different is that nothing else comes between the words of the chain.  
-
-* In English, we could add an adjective like "the servant of the _wicked_ son of the king."
-* In Hebrew, any adjectives must come after the whole chain.  
-* A literal translation would look like: "servant of son of the king the wicked."
-* To resolve, we would need to go back and determine which word the adjective modifies by matching the gender and number.
-* In the example above, there is ambiguity.  Without more context, it is impossible to determine which of the three men is the wicked one.
-* Translating is more straightforward when the nouns in the construct chain are of a mixed number or gender.
-    * For example: "the wife of David the strong the smart, the beautiful."
-        * If "strong" and "beautiful" were FS then we know they are referring to David's wife.
-        * If "smart" was MS, we know it is referring to David.
-        * The sentence translation would be clear: "The strong and beautiful wife of smart David."
+* What makes a Hebrew construct chain different is that nothing else comes between the words of the chain
+    * In English, we could add an adjective like "the servant of the _wicked_ son of the king"
+    * In Hebrew, any adjectives must come after the whole chain
+        * A literal translation would look like: "servant of son of the king the wicked"    
+        * To resolve, we would need to go back and determine which word the adjective modifies by matching the gender and number
+* In the example of "servant of son of the king the wicked" there is ambiguity
+    * Without more context, it is impossible to determine which of the three men is the wicked one
+    * Translating is more straightforward when the nouns in the construct chain are of a mixed number or gender
+    * For example: "the wife of David the strong the smart, the beautiful"
+        * If "strong" and "beautiful" were FS, then we know they are referring to David's wife
+        * If "smart" was MS, we know it is referring to David
+        * The sentence translation would be clear: "The strong and beautiful wife of smart David"
 
 ## Review: what makes a word definite 
 
@@ -122,16 +123,14 @@ Even though a noun in construct may not have the definite article, it is deemed 
 
 ## The Absolute noun establishes the definiteness of a chain
 
-A construct chain is either entirely definite, or entirely indefinite and it is the last, absolute, word that defines whether the chain is definite or indefinite.
-
-* <span class="he">בֶּן הַמֶּלֶךְ</span> = the son of the king
-* <span class="he">בֶּן מֶלֶךְ</span> = a son of a king
-
-> A construct chain cannot mix definite and indefinite.
-
-You will never see "a son of the king" or "the son of a king" in a construct chain.  It's only one or the other.
-
-There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains<small>^[<small><span class="he">מִ֭שְׁלֵי שְׁלֹמֹ֣ה</span> is a construct chain that means "THE proverbs of Solomon."<span class="he">מִזְמ֗וֹר לְדָ֫וִ֥ד</span> means "a psalm of (to) David", but this is not a construct chain.</small>]</small>.
+* A construct chain is either entirely definite or entirely indefinite
+    * In other words, a construct chain cannot mix definite and indefinite
+* It is the last, absolute, word that defines whether the chain is definite or indefinite
+    * <span class="he">בֶּן הַמֶּלֶךְ</span> = the son of the king
+    * <span class="he">בֶּן מֶלֶךְ</span> = a son of a king
+    * You will never see "a son of the king" or "the son of a king" in a construct chain
+    * It's only one or the other
+* There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains<small>^[<small><span class="he">מִ֭שְׁלֵי שְׁלֹמֹ֣ה</span> is a construct chain that means "THE proverbs of Solomon."<span class="he">מִזְמ֗וֹר לְדָ֫וִ֥ד</span> means "a psalm of (to) David", but this is not a construct chain.</small>]</small>.
 
 
 ## How to Recognize a Construct Chain
@@ -140,7 +139,7 @@ The following are characteristics of nouns in the construct state:
 
 * Never an article
 * Never a pronominal suffix
-* Never a unaccented long vowel unless it is a vowel letter 
+* Never an unaccented long vowel unless it is a vowel letter 
     * We will see Tsere-yod and Holem-Vav
     * We will not see Holem, Qamets, or Tsere
     * We will see _accented_ long vowels in the penult<small>^[<small>That is the next to last syllable position.</small>]</small> - <span class="he">סֵ֫פֶר</span>
@@ -150,21 +149,21 @@ The following are characteristics of nouns in the construct state:
 * Two nouns connected by maqqef is a construct chain
     * <span class="he">כְּבוֹד־יְהוָה</span> = The glory of the LORD
 
-A good rule:
-
 ::: {.box .light}
 Long vowel, not accented, not a vowel letter = absolute
 :::
 
 ## Identifying Construct state by Noun Endings
 
-Nouns in construct often sometimes (but will not always) change endings.  The table below shows the Absolute ending and then the difference in the Construct form. 
+* Nouns in construct often sometimes (but will not always) change endings
+* The table below shows the Absolute ending and then the difference in the Construct form
 
 ```{r, out.width = "300pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/10_construct_endings.png")
 ```
-Other nouns may not change endings but will exhibit a loss of long vowels as discussed in the previous section.
+
+Other nouns may not change endings but will exhibit a loss of long vowels, as discussed in the previous section
 
 ::: {.box .light}
 Word-final Tsere+Yod is diagnostic of Plural and Dual construct forms
@@ -175,7 +174,7 @@ Word-final Tsere+Yod is diagnostic of Plural and Dual construct forms
 
 * Remember the rules for what makes a noun definite.  This will help you determine whether the entire construct chain is definite or indefinite (for it can only be entirely definite or entirely indefinite)
     * "THE son of the queen" OR "A son of a queen"
-* All words except for the last are in the "construct state"
+* All words, except for the last, are in the "construct state"
     * No article or pronominal suffix
     * Long vowels are limited
         * ("Long vowel, not a vowel letter = Absolute" - Dr. Beckman)
@@ -185,7 +184,7 @@ Word-final Tsere+Yod is diagnostic of Plural and Dual construct forms
     * A reduced vowel in the penult is usually construct - <span class="he">נְבִיא</span>
     * Noun with Maqqef is construct - <span class="he">בֶּן־</span>
 
-There are four extremely common constructs in the Bible so we must be able to recognize them.  These will be reviewed in `Anki`.
+There are four extremely common constructs in the Bible, so we must be able to recognize them.  These will be reviewed in `Anki`.
 
 * <span class="he">כָּל־</span> - all of
 * <span class="he">אֲבִי־</span> = father of
@@ -216,13 +215,13 @@ There are four extremely common constructs in the Bible so we must be able to re
 ## Anki {-}
 
 * `Lesson 10 A. Vocab`
-* `Lesson 10 B. Grammar`  
+* `Lesson 10 B. Grammar`
 * `Lesson 10 C. Workbook`
 * `Lesson 10 D. Verses`
 
 ## Worksheets: Construct Identification {-}
 
-This attachment has a list of words, some are in absolute and some are in construct. See if you can determine the differences<small>^[<small>Odd 1-35, 39, 41, 42, 44, 45, 47 are Absolute; 37 and 38 are ambiguous; even 2-36, 40, 43, 46, and 48 are Construct. Most often it is "Long vowel, not a vowel letter" that identifies absolute.</small>]</small>.
+This attachment has a list of words, some are in absolute, and some are in construct. See if you can determine the differences<small>^[<small>Odd 1-35, 39, 41, 42, 44, 45, 47 are Absolute; 37 and 38 are ambiguous; even 2-36, 40, 43, 46, and 48 are Construct. Most often it is "Long vowel, not a vowel letter" that identifies absolute.</small>]</small>.
 
 [Construct Practice](./images/10_construct_practice.pdf){target="_blank"}
 
@@ -251,7 +250,7 @@ YOUR QUEST
 As always, words may have prefixes or suffixes.  Try to identify whether the construct is definite or indefinite based on the absolute noun.  
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #10](./images/10_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -263,12 +262,11 @@ As always, words may have prefixes or suffixes.  Try to identify whether the con
 <iframe class="responsive-iframe" src="https://forms.gle/ST6XfCvKRXHRfxfVA" frameborder="0"></iframe>
 </div>
 
-https://forms.gle/7X1tmBcU5WtGT46A7
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
 
-When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` through Lesson 10, complete the certification below, and your badge will be on its way!
 
 <!-- Tribe Badge 4 = gad -->
 

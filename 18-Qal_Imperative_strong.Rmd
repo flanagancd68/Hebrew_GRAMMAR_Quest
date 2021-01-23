@@ -55,7 +55,17 @@ knitr::include_graphics("images/18_Mezuzah near Western Wall, tb091306071.jpg")
 
 
 
+## _Hebrew Quest_ Qal Imperative Lecture
 
+View this 1-minute overview video from _Hebrew Quest_ on Hebrew Qal Imperative Verbs.
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3425){target="_blank"}
 
 ## Volitional Forms Introduction
 

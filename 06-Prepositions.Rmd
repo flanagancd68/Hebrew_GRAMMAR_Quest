@@ -31,9 +31,9 @@ Before continuing, can you describe the following concepts?
 
 ### <span class="he">  בְּיוֹם צָרָתִי אֲדֹנָי דָּרָשְׁתִּי </span> {-}
 
-_In the day of my trouble I sought the Lord  (Psalms 77:3)_
+_In the day of my trouble, I sought the Lord  (Psalms 77:3)_
 
-Meditate and celebrate that the Lord is in the midst of our troubles.
+Meditate and celebrate that the Lord is in the midst of our problems.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -54,6 +54,19 @@ The בּ in <span class="he">בְּיוֹם</span> is an example of an "insepara
 knitr::include_graphics("images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg")
 ``` 
 
+
+
+## _Hebrew Quest_ Prepositions Lecture
+
+View this overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?start=1836&end=2460
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1836){target="_blank"}
 
 ## Nun with Silent Sheva Becomes Dagesh Forte
 
@@ -90,17 +103,19 @@ A Dagesh Forte frequently indicates an assimilated נ
 
 ## Independent and Maqqef prepositions 
 
-* In Hebrew, there are three different types of Hebrew prepositions: independent, Maqqef, and inseparable. 
+* There are three different types of Hebrew prepositions: independent, Maqqef, and inseparable
 * An _independent preposition_ is a separate word with a space before it and after it
     * The preposition comes first, followed by its object (just like English). E.g.,  <span class="he">תַּחַת אֹתוֹ</span> (under it)
 * _Maqqef_ is a mark like the English hyphen
-    * The two marks are nearly identical in meaning and appearance except the Hebrew Maqqef is raised ־ whereas the English is middle -  
+    * The two marks are nearly identical in meaning and appearance
+        * the Hebrew Maqqef is raised: א־בּ 
+        * the English hyphen is midline: a-b  
     * Like the hyphen used to join two English words, the Maqqef lets us know that two Hebrew words are closely connected grammatically
 * In a _Maqqef preposition_, the Maqqef connects a preposition to its object
-* Again, the preposition comes first:  <span class="he">עַל־מֶלֶךְ</span>
-    * English prepositions are NOT written this way; we would never see "on-a-king."
-* One notable aspect about the Maqqef is that the first word (to the left of the Maqqef) loses its accent
-    * As a result, the vowel that loses its accent may change
+    * Again, the preposition comes first:  <span class="he">עַל־מֶלֶךְ</span>
+        * English prepositions are NOT written this way; we would never see "on-a-king."
+    * One notable aspect about the Maqqef is that the first word (to the left of the Maqqef) loses its accent
+        * As a result, the vowel that loses its accent may change
     
 ::: {.box .info}
 The same preposition may be written both with and without the Maqqef
@@ -112,7 +127,7 @@ The same preposition may be written both with and without the Maqqef
 ## Inseparable prepositions
 
 * Like <span class="he">וְ</span> for the word "and," an inseparable preposition is a one-letter prefix affixed to its object
-* Three Hebrew prepositions are **ALWAYS** written this way, usually with a Vocal Sheva under the prepositional letter:
+* Three Hebrew prepositions are **ALWAYS** inseparable
     * <span class="he">בְּ</span> - in, at, with, by, against
         * <span class="he">בְּמֶ֫לֶךְ</span>
         * With a king
@@ -137,46 +152,53 @@ The first word of the Bible contains an inseparable preposition: <span class="he
 
 ## The Article and Inseparable Prepositions
 
-
-::: {.box .light}
-ARTICLE WITH INSEPARABLE PREPOSITION
-
-The one-letter preposition replaces the <span class="he">ה</span> of the article. The vowel under the preposition and the Dagesh Forte (if it is there) are your clues that the word is definite.
+* When a word has both the Article and an inseparable preposition, a form of contraction occurs:
+    * The one-letter preposition replaces the <span class="he">ה</span> of the Article
+    * The vowel under the preposition and the Dagesh Forte (if it is there) are your clues that the word is definite.
 
 ```{r, out.width = "800pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/06.preposition_article.png")
 ```
-:::
 
-* We have learned previously that some letters reject the Dagesh Forte, which robs us of a clue
+
+* On reason we spend so much time talking about the Dagesh Forte is that it is an extremely useful clue as to what is going on within a word
+* When a letter rejects the Dagesh Forte, this clue is gone
 * Below is how we can tell whether there is the article with a preposition in the absence of a Dagesh
-    * NO ARTICLE if there is a Sheva under the preposition - the article never takes a Sheva
-    * NO ARTICLE if the short vowel under the preposition can be explained by the Rules of Sheva: 
-        * <span class="he">אֲנָשִׁים + לְ = לַאֲנָשִׁים</span> - for men, (not 'for the men')
-    * ARTICLE if vowel under the preposition is not Sheva and can NOT be explained by the Rule of Sheva: 
-        * <span class="he">לַהֵיכָל</span> = for THE temple
+
+::: {.box .light}
+ARTICLE WITH PREPOSITION
+
+* NO ARTICLE if there is a Sheva under the preposition - the article never takes a Sheva
+* NO ARTICLE if the short vowel under the preposition can be explained by the Rules of Sheva: 
+    * <span class="he">אֲנָשִׁים + לְ = לַאֲנָשִׁים</span> - for men, (not 'for the men')
+* ARTICLE if vowel under the preposition is not Sheva and can NOT be explained by the Rule of Sheva: 
+    * <span class="he">לַהֵיכָל</span> = for THE temple
+:::
 
 ## The flexible <span class="he">מִן</span>: construction
 
-* There is one preposition that is unique: <span class="he">מִן</span>
-    * It can be a Maqqef preposition, as in: <span class="he">מִן־זָהָב</span>
-    * It can also be an inseparable preposition: <span class="he">מִזָּהָב.</span>
-    * Both examples above literally mean "from gold." 
+* <span class="he">מִן</span> is a unique preposition
+    * It can be a Maqqef preposition, as in <span class="he">מִן־זָהָב</span>
+    * It can also be an inseparable preposition: <span class="he">מִזָּהָב</span>
+    * Both examples above literally mean "from gold" 
 * Note the spelling of the inseparable preposition:
 
 ```{r, out.width = "100pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/06.preposition_min.jpg")
 ```
-* When we see `Mem+Hireq+Dagesh`, we know it is <span class="he">מִן</span> written as an inseparable preposition
-* As we know well by know, the Gutturals and Resh reject the Dagesh Forte:
-    * <span class="he">א צ ה ר</span> have compensatory lengthening so the Hireq becomes Tsere.
-    * <span class="he">ח</span> has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the <span class="he">מ</span> remains a Hireq
-* SQiN eM LeVY with a Sheva may reject the Dagesh - as we know, there will never be any Compensatory Lengthening
-    * So when we see מִקְ, מִיְ or Mem+Hireq followed by any other SQiN eM LeVY letter and there is no Dagesh Forte, we need to say to ourselves, "I don't see a Dagesh Forte, but wait.  That's a `SQiN eM LeVY` letter, so this may still be מִן."
 
-## The Article and מִן
+* When we see `Mem+Hireq+Dagesh`, we know it is <span class="he">מִן</span> written as an inseparable preposition
+* As we know by now, the Gutturals and Resh reject the Dagesh Forte:
+    * <span class="he">א צ ה ר</span> have compensatory lengthening, so the Hireq becomes Tsere
+    * <span class="he">ח</span> has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the <span class="he">מ</span> remains a Hireq
+* SQiN eM LeVY with a Sheva may reject the Dagesh
+    * As we know, there will never be any Compensatory Lengthening with a SQiN eM LeVY scenario
+    * When we see מִקְ, מִיְ or Mem+Hireq followed by a SQiN eM LeVY letter and there is no Dagesh Forte, this may be a clue
+    * We should say to ourselves, "I don't see a Dagesh Forte, but that's a `SQiN eM LeVY` letter. This may still be מִן."
+
+## The Article and <span class="he">מִן</span>
 
 Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is always RETAINED with <span class="he">מִן</span>
 
@@ -185,56 +207,75 @@ Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</s
 
 ## The flexible <span class="he">מִן</span>: meanings 
 
-* <span class="he">מִן</span> occurs 7,592 times in the Bible, so it is important to study its multiple uses
-* The most direct meaning is "from" - <span class="he">מֵהָאָ֫רֶץ</span> from the land
+* <span class="he">מִן</span> occurs 7,592 times in the Bible, and can have multiple meanings
+* The most direct purpose is "from" - <span class="he">מֵהָאָ֫רֶץ</span> from the land
 * <span class="he">מִן</span> can also have comparative (think "bigger") and superlative (think "biggest") meanings depending on the context
     * <span class="he">טוֹבָה חָכְמָה מִזָּהָב</span> = wisdom is better *than* gold 
     * <span class="he">קָשָׁה הָעֲבֹדָה מֵהָאֲנָשִׁים</span> = the work is *too* difficult *for* the men
     * <span class="he">עָרוּם מִכֹּל חַיַּת הַשָֹּדֶה ּ</span>  = the *most* clever living thing *of all* the field
-* There is also a use called "partive" that denotes a portion or part of something else:
+* There is also a use called "partitive" that denotes a portion or part of something else:
     * <span class="he">מֵהָאֲנָשִׁים</span> may mean "*some* *of* the men" (lit. from the men)
 * Other uses: 'because', 'by', 'without', 'even', 'namely'.
 
 
 ::: {.box .info}
+MEANING OF <span class="he">מִן</span>
+
 * This is a word that takes practice to appreciate the various nuanced meanings
-* As you are starting out in Hebrew, when you see <span class="he">מִן</span>, start your translation with "from...", but don't be surprised if "from" does not make sense
+* As you are starting out in Hebrew, when you see <span class="he">מִן</span>, start your translation with "from..." * However, don't be surprised if "from" does not make sense
 * For example, if our translation is something like, "good the wisdom from the gold," we know that doesn't make sense
-    * We need to remember the comparative or supurlative uses
+    * We need to remember the comparative or superlative uses
     * "_Better_ is wisdom _than_ gold"
 :::
 
 ## The Definite Direct Object marker 
 
-* Hebrew has an untranslated word that is often used to mark a direct object that is definite
-* It is often abbreviated DDO (Definite Direct Object) marker
+* Hebrew has a word that is often used to mark a definite direct object (DDO)
+* It has no translational value
 * Spelling:
-    * <span class="he">תֵא</span> (independent) 
-    * <span class="he">תֶא־</span> (Maqqef)
-* The challenge can be that this is the same spelling as the preposition "with." 
+    * <span class="he">אֵת</span> (independent) 
+    * <span class="he">אֶת־</span> (Maqqef)
+* The challenge can be that this is the same spelling as the preposition "with" 
 * As both the DDO and preposition can take pronominal suffixes, we will save a discussion of differentiating between the two words for Lesson 9 
 
 ::: {.box .info}
 We see the DDO twice in the first verse of the Bible:
 
 <span class="he">בְּרֵאשִׁית בָּרָא אֱלֹהִים *אֵת* הַשָּׁמַיִם *וְאֵת* הָאָרֶץ</span>
+
 :::
 
-## Review and Activities {-}
+## _Hebrew Quest_ discussion of Genesis 1:1 
 
-How are you feeling so far?  Is any component of "the fog" refusing to dissipate? Keep sticking with `Anki` and try to do your reviews at least once daily.
+* As a conclusion to this lesson, please watch the video below where Izzy discusses Genesis 1:1
+* Genesis 1:1 contains examples of the Article, the conjunction, an inseparable preposition and the DDO marker (Izzy also discusses how the DDO speaks of Messiah!)
+* The Genesis 1:1 segments runs from 12:45 - 46:50
+* We encourage you to take notes using [a blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}<small>^[<small>In Unit 3, you will have the option of completing our "_Hebrew Quest_ Study Passage Track".  In Lesson 17, we will study Genesis 1:1-5, which is why this document has verses 1-5.]
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://youtube.com/embed/sQKorif_GBk?start=732&end=2815" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/sQKorif_GBk?t=732){target="_blank"}
+
+
+
+
+## Conclusion {-}
+
+How are you feeling so far?  Is any component of "the fog" refusing to dissipate? Keep sticking with `Anki,` and try to do your reviews at least once daily.
 
 To help with this, we've gone a little bit lighter on the Grammar cards and the Ruth Pursuit for Lesson 6.  While there are some differences, prepositions are used much the same way in Hebrew as they are in English.  There is no sense in creating a lot of busy work.
 
-We would recommend using the time between now and starting Lesson 7 to get caught up and make sure the new concepts start to take hold.  You might notice the intensity pick up starting with the next lesson as we get into some ways Hebrew handles adjectives and pronouns.  Until then, enjoy learning some more of God's work with Izzy in the `Word warm-up`, `Verse warm-up`, and `Anki`.
+We recommend using the time between now and starting Lesson 7 to get caught up and make sure the new concepts begin to take hold.  You might notice the intensity pick up with the next few lessons as we get into some ways Hebrew handles adjectives and pronouns.  Until then, enjoy learning some more of God's work with Izzy in the `Word warm-up`, `Verse warm-up`, and `Anki`.
 
 ### Anki {-}
 
 * `Lesson 06 A. Vocab`
 * `Lesson 06 B. Grammar`
 * `Lesson 06 C. Workbook`
-    * In this activity, we will have very short passages of scripture that illustrate prepositions.
-    * Make sure you look up any words you do not know.  See the [appendix](#lexicon) for links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"}.
+    * In this activity, we will have brief passages of scripture that illustrate prepositions.
+    * Make sure you look up any words you do not know.  You can download an abridged lexicon [here](./images/BBH_Lexicon.pdf){target="_blank"}.
 * `Lesson 06 D. Verses`
 
 
@@ -265,22 +306,19 @@ YOUR QUEST
 
 1. Highlight the following words that begin with the inseparable pronouns and provide a definition (Yellow)
     * <span class="he">בָּאָרֶץ</span>
-    * <span class="he">בַדֶּרֶךְ
-</span>     
+    * <span class="he">בַדֶּרֶךְ</span>     
     * <span class="he">לְבֵית</span>
-    * <span class="he">לִי
-</span>     
-   
+    * <span class="he">לִי</span>     
 2. Find examples of מִן (there is one Maqqef and the rest are inseparable) - translate the Maqqef phrase (look up the object of the מִן preposition in a lexicon if needed) (Green)
 3. Find one example of the DDO (Maqqef) (Blue)
 4. Find Lesson 6 vocabulary words:
     * <span class="he">עַד</span>
     * <span class="he">אַחֲרֵי
-</span> (note: In Ruth 1, one instance of word also has a מִן prefix (inseparable form) as well as a pronominal suffix, which we will study in Lesson 9)
+</span> (note: In Ruth 1, one instance of this word also has a מִן prefix (inseparable form) as well as a pronominal suffix, which we will study in Lesson 9)
     * <span class="he">כָּל־</span>(Pink)
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #6](./images/06_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
