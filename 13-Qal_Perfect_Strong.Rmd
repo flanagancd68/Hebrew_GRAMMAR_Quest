@@ -4,7 +4,7 @@
 
 > To comprehend Biblical Hebrew, we must be able to translate Qal verbs, which are over 2/3 of all verbs in the Bible
 
-While our focus is not on writing Biblical Hebrew, you do need to be able to write the details on the Qal strong verb paradigm. This will make it easier to recognize Qal weak and non-Qal verbs.
+While our focus is not on writing Biblical Hebrew, you need to be able to write the details on the Qal strong verb paradigm. This will make it easier to recognize Qal weak and non-Qal verbs.
 
 ::: {.box .map}
 LESSON ITINERARY
@@ -33,9 +33,9 @@ Before continuing, make sure you understand the $R_n$ and the $V_n$ nomenclature
 
 *Our fathers did not keep the word of Adonai (2 Chronicles 34:21)*
 
-<span class="he">שָׁמַר</span> means guard or keep, in the sense of obey.  It is a verb that occurs frequently in the Hebrew Bible. In <span class="he">לֹא־שָׁמְרוּ</span>, the word לֹא serves to negate the verb it preceedes.  Literally this might be "not they kept", but in English we would say "they did not keep".
+<span class="he">שָׁמַר</span> means to guard or keep, in the sense of obeying.  It is a verb that frequently occurs in the Hebrew Bible. In <span class="he">לֹא־שָׁמְרוּ</span>, the word לֹא serves to negate the verb it precedes.  Literally, this might be "not they kept", but we would say "they did not keep" in English.
 
-Everyday, and frequently throughout each day, we have two choices.  We can keep His word or we can ignore His word.  Let us strive to have it be said of all of us, <span class="he">שָׁמְרוּ אֶת־דְּבַר יְהוָה </span>, "they KEPT the word of Adonai."
+Every day, and frequently throughout each day, we have two choices.  We can keep His word, or we can ignore His word.  Let us strive to have it be said of all of us, <span class="he">שָׁמְרוּ אֶת־דְּבַר יְהוָה </span>, "they KEPT the word of Adonai."
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -95,7 +95,7 @@ Cause an Action	|Hiphil | Hophal
     
 > The Hebrew perfect describes an action or a state of being as a whole, not as a process
 
-* I.e. "she was studying" is an incomplete process, but "she had studied" is completed action
+* I.e., "she was studying" is an incomplete process, but "she had studied" is completed action
 
 ## Components of the Qal Perfect Strong Paradigm
 
@@ -104,11 +104,13 @@ Cause an Action	|Hiphil | Hophal
 knitr::include_graphics("images/13.qptable.png")
 ``` 
 
-The next few sections go into detail of building the paradigm.  
+The next few sections go into detail about building the paradigm.  
 
 ## The Perfect Sufformatives
 
 The table below shows the perfect sufformatives in the middle column.  The 1st and 2nd Person forms are similar to the respective pronominal suffix.
+
+
 
 ```{r, out.width = "700pt", fig.align='center'}
 
@@ -118,8 +120,8 @@ knitr::include_graphics("images/13_perfect sufformatives.png")
 Notes:
 
 * 3MS has no Perfect sufformative
-    * so the steps such as adding a sheva before a perfect sufformative" do not apply to 3ms
-* Since 3mp and 3fp are the same, we simply say "3cp" - Third person, common, plural
+    * The steps such as adding a Sheva before a perfect sufformative" do not apply to 3ms
+* Since 3mp and 3fp are the same, we simply say "3cp" - Third-person, common, plural
 * Good news: these sufformatives REMAIN THE SAME throughout all seven Perfect conjugations
 
 
@@ -127,94 +129,113 @@ Notes:
 ## Qal Perfect Vowels: $V_1$ is almost always Qamets
 
 * $V_1$ is almost always Qamets
-* As we learned way back in this course, an unaccented long vowel in an open propretonic syllable, will undergo propretonic reduction
+* As we learned way back in this course, an unaccented long vowel in an open propretonic syllable will undergo propretonic reduction
     * When this happens, you will see a Vocal Sheva, but you will be able to deduce that $V_1$ used to be a long vowel - and if it's a Qal verb, you'll know it used to be a Qamets
 
-::: {.box .info}
-HGQ SHORTHAND: $B$ = Strong Form Distinctive "B"eginning
+## Qal Perfect Strong $Pre =$ <span class="he">קָ</span>
 
+* HGQ SHORTHAND: $Pre$ = Strong Form Diagnostic Word-initial Sequence
 * Each of the stems/conjugations has a distinctive combination of consonants, vowels, and occasionally Daghesh Forte marks the first one or two syllables of a given verb
-    * This serves to make the strong form of the verb easy to differentiate from the other stems
-    * We will call this a "Distinctive Beginning" which we will combine with parsing code
-* ק represents any strong letter in $R_1$ 
-*  $B_{QP} =$ <span class="he">קָ</span>, means the Distinctve "<u>B</u>"eginning of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
-:::
-    
-## Qal Perfect Vowels: $V_2$ prefers patach
+* This serves to make the strong form of the verb easy to differentiate from the other stems
+* We will call this diagnostic sequence "$Pre$"
+    * Saying "diagnostic word-initial sequence of consonants and vowels" would get tiresome!
+* For Qal Perfect (QP), $Pre =$ <span class="he">קָ</span>
+    * ק represents any strong letter in $R_1$ 
+    * This means the distinctive word-initial sequence of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
 
-* $V_2$ prefers patach 
+    
+## Qal Perfect Strong $V_S = A$
+
+* For QP, $V_2$ prefers Patach 
 * For strong verbs, $V_S = V_2$
     * So we could either say "$V_S$ for Qal Perfect Strong equals Patach"
-    * Or we could use formula shorthand and say $V_S{Q} = A$, since "A" without 
+    * Or we could use formula shorthand and say $V_S{Q} = A$, since "A" is our shorthand for a short A vowel, i.e., Patach
 * In 3cp and 3fs, the Sheva of the perfect sufformative goes in $V_2$
-    * Some stative verbs can also take a Tsere or Holem in $V_2$
 
+::: {.box .caution}
+EXCEPTIONS
+
+* The $V_S$ can change based on other grammar rules, for example, when the vowel must reduce to a Sheva/Reduced Vowel
+* Some stative verbs can also take a Tsere or Holem in $V_2$ (see "Stative Verbs..." section in this Lesson)
+
+:::
     
-::: {.box .info}
-HGQ SHORTHAND: $V_S =$ Formulas for Stem Vowels
+
+## Each Stem will have a $V_S$ FORMULA
 
 * As we progress through the verbs, each major stem will end up with a formula that looks something like this: 
 
-$$V_{S_{H}} =  Î[A] \sim  Î(Ē)$$
+$$V_{S} =  Î[A] \sim  Î(Ē)$$
 
-* This may be utter gibberish to you right now, but as we get into Unit 4, this formula (in combination with the $B$ pattern for the conjugation's Distinctive Beginning) will save you hours of paradigm memorization of the derived stems
-* You will only need to memorize the Qal paradigms, then apply this formula for the other stems
+* This is probably complete gibberish to you right now
+* As we get into Unit 4, this formula (in combination with the $Pre$ pattern) will save you hours of paradigm memorization of the derived stems
+* You will only need to memorize the Qal paradigms, then apply this formula to the other stems
 * So let's start to build this formula for the Qal:
 
-$$V_{S_{Q}} = A \sim$$
-* In the formula, $A$ refers to Patach - you may need to review the Vowel shorthand in the Unit 3 Introduction
-* This formula is telling you that the Stem Vowel of the Perfect Conjugation is Patach
-    * The $V_S$ can change based on other grammar rules, but if you are looking at a Qal Perfect verb, the $V_S$ is _or was_ a Patach
-    * The _Imperfect_ Stem Vowel will be to the right of the $\sim$ mark - we'll get to this in Lesson 15
-:::
+$$V_{S} = A \sim$$
+
+* In the formula, $A$ refers to Patach
+* This formula is telling you that the Stem Vowel of the Perfect Conjugation _prefers_ Patach
+* The _Imperfect_ Stem Vowel will be to the right of the $\sim$ mark - we'll address this in Lesson 15
+
             
 
 ## $V_S$ is accented in Finite verbs
 
 * As we introduced in Lesson 12, verbs that have "person" designation are called Finite verbs
     * Perfect, Imperfect, Imperative, Cohortative, Jussive are FINITE
-    * Infinitive Construct, Infinitive Absolute, Participle are NON-FINITE, because they do not have "person"
+    * Infinitive Construct, Infinitive Absolute, Participle are NON-FINITE because they do not have "person"
 * The $V_S$ is accented in Finite verbs, when possible
-    * As we said in the previous lesson, $V_S$ usually = $V_2$ - in <span class="he">קָטַל</span> $V_S$ = patach
-        * If $R_2$ is a vowel letter, then $V_S$ = $V_1$ - in <span class="he">קוּם</span> $V_S$ =  shuruq
-        * If $R_2$ disappears, then $V_S$ = $V_1$ - in <span class="he">קָם</span> $V_S$ = Qamets
-* Exceptions where we accent after $V_S$:
-    * $V_S$ is a Sheva or Hateph vowel - Sheva/reduced vowels _never_ take an accent
-        * In the Perfect, we will see this in Qal Perfect 3fs and Qal Perfect 3cp
-    * The verb has a "heavy sufformative"
-        * A heavy sufformative pulls the accent
-        * There are two heavy sufformatives in the Perfect
-            * 2mp - תֶּ֫ם and 2fp - תֶּ֫ן
-    * The verb has a pronominal suffix
-    * $V_S$ is not one of the final two syllables
+    * As we said in the previous lesson, $V_S$ usually = $V_2$ - in <span class="he">קָטַל</span> $V_S$ = Patach
+    * If $R_2$ is a vowel letter, then $V_S$ = $V_1$ - in <span class="he">קוּם</span> $V_S$ =  Shuruq
+    * If $R_2$ disappears, then $V_S$ = $V_1$ - in <span class="he">קָם</span> $V_S$ = Qamets
+    
+::: {.box .caution}
+EXCEPTIONS
 
+* $V_S$ is a Sheva or Hateph vowel
+    * Sheva/reduced vowels _never_ take an accent
+    * In the Perfect, we will see this in QP3fs and QP3cp
+* The verb has a "heavy sufformative"
+    * A heavy sufformative takes the accent
+    * There are two heavy sufformatives in Hebrew:  2mp - תֶּ֫ם and 2fp - תֶּ֫ן
+* The verb has a pronominal suffix
+* $V_S$ is not one of the final two syllables
+
+:::
 
 ## A Sheva precedes a Finite Sufformative
 
+* This is a general rule that results in a Sheva under $R_3$ or $R_2$
+* Of course, when it is under $R_2$, this means the Sheva displaces $V_S$
+* Because of this rule, when the sufformative has a בגדכפת letter (usually ת), that letter will take a Daghesh Lene
+    
+::: {.box .caution}
 The Sheva is rejected in the following circumstances:
 
 * A Sheva does not replace an unchangeable long vowel
 * A Sheva does not replace $V_1$ of the Qal Perfect (and only the Qal Perfect)
 * When $R_3$ is <span class="he">א</span>, the א quiesces (generally resulting in Compensatory Lengthening of $V_2$)
 
+:::
 
-If the sufformative has a בגדכפת letter (usually ת), that letter will take a Daghesh Lene
 
 
 
 ## Building the Qal Perfect Strong Paradigm
 
-Our general philosophy is to prepare you to read Hebrew.  While it is unlikely you will ever need to "inflect קתל into the Qal Perfect 2fs", understanding how we build the paradigm will not only prepare you to identify verbs in the Bible, it will prepare you do spot when deviations occur.
-
-Study the graphic and the steps below carefully.  It may seem confusing at first but, with practice, you'll get it.  You'll note that the steps work backwards from left to right
+* Understanding how we build the paradigm will prepare you to identify verbs in the Bible
+* It will also prepare you to spot when deviations occur in weak verbs
+* Study the graphic and the steps below carefully
+* It may be confusing at first, but over time, it will begin to make sense
 
 ```{r, out.width = "600pt", fig.align='center'}
 
 knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
 ``` 
 
-1. Add the perfect sufformatives (13.4)
-2. Put a Sheva before the sufformative (13.7)
+1. Add the perfect sufformatives 
+2. Put a Sheva before the sufformative 
     * 3fs/3cp - the Sheva can't go under $R_3$ because $R_3$ already has a vowel
         * A consonant can't have more than one vowel
         * For these forms, the Sheva goes under $R_2$
@@ -229,25 +250,19 @@ knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
     * The metheg can denote that the vowel is Qamets followed by a vocal Sheva and not Qamets Hatuf followed by a Silent Sheva
     * The Hebrew Bible does not do this
     
-## Hearing the Qal Perfect Strong Paradigm
+## Qal Perfect Strong with Audio
 
-Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קתל and take note of pronunciation and accents.  
-
-<figure>
-    <figcaption>Qal Perfect Strong (Singular) read by Izzy</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/13.QPIzzy.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קטל and take note of pronunciation and accents.  
 
 
-```{r, out.width = "700pt", fig.align='center'}
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">קָטַל</span>  | 3cp | <span class="he">קָטְלוּ</span> 
+| 3fs | <span class="he">קַטְלָה</span> | 
+| 2ms | <span class="he">קָטַ֫לְתָּ</span> | 2mp | <span class="he">קְטַלְתֶּם</span>
+| 2fs | <span class="he">קָטַ֫לְתְּ</span> | 2fp | <span class="he">קְטַלְתֶּן</span>
+| 1cs | <span class="he">קָטַ֫לְתִּי</span> | 1cp | <span class="he">קָטַ֫לנוּ</span>
 
-knitr::include_graphics("images/13.qptable.png")
-``` 
 
 <figure>
     <figcaption>Qal Perfect Strong Paradigm from _Hebrew Quest_ Chapter 14</figcaption>
@@ -261,43 +276,53 @@ knitr::include_graphics("images/13.qptable.png")
 
 ## Worksheet: Qal Perfect Strong Paradigm {-}
 
-We are going to go a little out of order.  Normally, we save all of the activities for the end of the lesson, but here, we want you to pause and complete the [Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}.
+* We are going to go a little out of order
+* Typically, we save all of the activities for the end of the lesson, but here, we want you to pause and complete the [Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}.
 
 > Complete the paradigm from memory at least once, then return here and continue in the guidebook.
 
-We know you're tempted to keep on clicking to read the pages that follow.  Resist!
-
-Doing the worksheet now will maximize your learning time - in other words, the material that follows in this lesson will make more sense to you if you have the paradigm in your short-term memory.
+* We know you're tempted to keep on clicking to read the pages that follow.  Resist!
+* Doing the worksheet now will maximize your learning time
+* In other words, the material that follows in this lesson will make more sense to you if you have the paradigm in your short-term memory
 
 ## Qal Perfect Strong Examples
 
 * <span class="he">יָדַ֥ע</span>
-    * No Preformative + No sufformative =  __P3ms__ 
-    * $V_2$ = ַ  and $V_1$ is ָ   = __QP__
-        * $V_2$ can be ◌ָ  also
+    * No Preformative + No sufformative =  $P3ms$ conjugation
+    * $Pre =$ <span class="he">קָ</span> and  $V_2 = A$ are diagnostic of $Q$ stem
+        * In the Qal, $V_2$ can be ◌ָ  also
     * This combination of Preformatives, sufformatives, and vowels can only be Qal Perfect 3MS (QP3ms) - he knows
     * As we said in the introduction to Unit 3, you will start to see the cantillation marks in words and passages.  If you don't recognize a mark as a vowel, it is a cantillation mark.
 * <span class="he">שָׁמְר֤וּ</span>
-    * No preformative + וּ sufformative =  __P3cp__
-    * $V_2$ = ְ  and $V_1$ is ָ   = __QP__.  
-        * $V_2$ is Sheva, but we know that the Perfect sufformative is preceded by a Sheva whenever possible.  In the P3cp and P3fs, the sheva of the sufformative displaces $V_2$.  If we know our vocab, we also know that the Lexical form is <span class="he">שָׁמַר</span>.
+    * No preformative + וּ sufformative = $P3cp$ conjugation
+    * $Pre =$ <span class="he">קָ</span> is diagnostic of $Q$ stem
+        * $V_2$ is Sheva
+        * The Perfect sufformative is preceded by a Sheva whenever possible
+        * In the P3cp and P3fs, the Sheva of the sufformative displaces $V_2$
+        * If we know our vocab, we also understand that the Lexical form is <span class="he">שָׁמַר</span>.
     * שָׁמְר֤וּ is Qal Perfect 3cp (QP3cp) - they guarded/observed
 
-* As we will learn in Unit 4, when there are no other signs of a different stem we can default to Qal, since Qal is the most common
-* As with <span class="he">זָכָ֑רְתְּ<span>, there are times where $V_2$ is Qamets instead of Patach - these are just spelling variants that occur over the many hundreds of years the Tanach was written.  There is nothing otherwise to suggest that these are not Qal verbs
+::: {.box .map}
+NAVIGATION TIP
+
+* As we will learn in Unit 4 when there are no other signs of a different stem we can default to Qal; this is because Qal is the most common stem
+* As with <span class="he">זָכָ֑רְתְּ<span>, there are times where $V_2$ is Qamets instead of Patach.
+    * These are often spelling variants that occur over the many hundreds of years the Tanach was written<small>^[<small>This is not unlike seeing "olde" or even "auld" on an English document from a few hundred years ago.  We know they both mean "old"</small>]</small>
+    * There is nothing otherwise to suggest that these are not Qal verbs
+
+:::
 
 ## Deviations from the Paradigm
 
-* As we talked about in Lesson 12, what makes a verb "weak" versus "strong" is when one or more letters cause a deviation from the strong verb paradigm.  
-* While the bulk of the discussion on weak verbs will be in Lesson 14, there are three weak forms we will introduce here.  
-    * Words where $R_3$ = <span class="he">נ</span>, which we abbreviate as 3נ or sometimes III-נ
-    * Words where $R_3$ = <span class="he">ת</span>, called 3ת or III-ת
-    * Stative verbs where $V_2$ is not always Pathach
-* Studying these now will demonstrate how you can use your knowledge of the Perfect Strong paradigm to determine the stem and conjugation of weak verbs. 
+* As we talked about in Lesson 12, what makes a verb "weak" versus "strong" is when one or more letters cause a deviation from the strong verb paradigm
+* While the bulk of the discussion on weak verbs will be in Lesson 14, there are three weak forms we will introduce in this lesson: 
+    * Words where $R_3$ = <span class="he">נ</span>, which we abbreviate as  or sometimes III-נ (pronounced as, "third nun")
+    * Words where $R_3$ = <span class="he">ת</span>, called  or III-ת
+    * Stative verbs where $V_2$ is not always Patach
 
 > In most cases, you already know the behaviors of "weak" letters!  
 
-While "stative" verbs may be a new concept, we have already discussed the tendency of ת and נ to assimilate under certain circumstances.  This is exactly what is happening when we encounter 3ת and 3נ verbs.
+While "stative" verbs may be a new concept, we have already discussed the tendency of ת and נ to assimilate under certain circumstances.  This is what happens when we encounter 3ת and 3נ verbs.
 
 ## 3נ and 3ת Verbs
 
@@ -319,40 +344,39 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
 
 * Stative verbs describe a state of being, such as "wise", "old", or even "dead"
 * The $V_S$ may change in some forms
-    * There is what is called a "Patach Stative", that prefers $V_S$ of (wait for it...) Patach
+    * There is what is called a "Patach Stative" that prefers $V_S$ of (wait for it...) Patach
         * Since Qal Perfect _already_ prefers a $V_S$ of Patach, there is no visible change
-        * Patach Stative has a different $V_S$ in the Imperfect conjugiation
+        * Patach Stative has a different $V_S$ in the Imperfect conjugation
         * <span class="he">גָּדַ֫ל</span>, "he is great" is an example - this word maintains the Perfect Strong paradigm all the way through
     * Tsere Stative has $V_S$ of Tsere in the P3ms ONLY
         * <span class="he">כָּבֵ֫ד</span> = "he is honored"
         * All other PGN follow the Perfect Strong
     * Holem Stative has $V_S$ of Holem in P3ms, P2ms, and P1cp
         * Holem Statives are relatively rare and do not even appear in the Bible as P2fs or any of the plural forms other than P1cp
-        * <span class="he">יַכֹ֫ל</span> = "he is able to"
+        * <span class="he">יַכֹ֫ל</span> = "he is able to" or "he can"
         * <span class="he">קָטֹ֫נְתִּי</span> = "I am small"
             * Note the נְ DOES NOT assimilate - Hebrew likes to keep you guessing!
-            * While we could ask, "Why didn't this assimilate?", this is not going to be very productive or satisfying in the long run. 
             * When you see only $R_1$ and $R_2$, and then a Daghesh Forte in the next consonant, it's better to ask "did $R_3$ assimilate?"
 
 
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/PuYs3ZTVXVg){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/PuYs3ZTVXVg" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/PuYs3ZTVXVg){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/kgMX1hbnbSE){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/kgMX1hbnbSE" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/kgMX1hbnbSE){target="_blank"}
 
 ## Anki {-}
 
@@ -361,7 +385,7 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
 * `Lesson 13 C. Workbook` 
     * The verb parsing exercises are taking directly from the Study Verses
     * As we will learn next week, "weak" verbs are a lot more common than "strong" verbs
-    * Even though we will formally study weak verbs in Lesson 14, you should be able to use your knowledge of $V_1$ and the Perfect preformatives, to determine the parsing solution
+    * Even though we will formally study weak verbs in Lesson 14, you should be able to use your knowledge of $V_1$ and the Perfect preformatives to determine the parsing solution
         * Of course, we've only studied the Qal Perfect!
         * When you encounter a "weak" verb, such as <span class="he">מָלְאָ֥ה</span>, which is 3א, or <span class="he">יָדָ֔עוּ</span>, which is 3עח (A ח or ע as $R_3$), try to see what changes occur (based on what you already know about Gutturals)
 * `Lesson 13 D. Study Verses`
@@ -414,6 +438,6 @@ YOUR HEBREW QUEST:
     1. [Proverbs #6](https://holylanguage.com/proverbs-6.php){target="_blank"}
     1. [Proverbs #7](https://holylanguage.com/proverbs-7.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::

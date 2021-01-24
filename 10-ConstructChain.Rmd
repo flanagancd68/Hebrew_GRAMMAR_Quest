@@ -193,23 +193,21 @@ There are four extremely common constructs in the Bible, so we must be able to r
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/1bvZ74a1SYU){target="_blank"}
-
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/1bvZ74a1SYU" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/YF2XieUoR3Y" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/YF2XieUoR3Y){target="_blank"}
 
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/1JWesFEa2_c){target="_blank"}
-
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/1JWesFEa2_c" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/hxpScJEBMcY" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/hxpScJEBMcY){target="_blank"}
+
 
 
 ## Anki {-}

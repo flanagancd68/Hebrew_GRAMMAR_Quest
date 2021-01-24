@@ -66,6 +66,15 @@ yY3O8ByYNwI?start=1232&end=1647
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1232){target="_blank"}
 
+## _Hebrew Quest_ Pronominal Suffixes
+
+Although this 10-minute video is from the "Complex Verbs" section of _Hebrew Quest_, the concepts Izzy discusses will be applicable to Lesson 9 of Hebrew GRAMMAR Quest.  At this time, don't worry about any references to verb stems. We will study _verbal_ pronominal suffixes in Lesson 19.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=2731&end=3341&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=2731){target="_blank"}
 
 ## Possessive Pronominal Suffix Meaning
 
@@ -259,30 +268,31 @@ Although <span class="he">אֵל</span> may not appear with a suffix apart from 
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/IGxobVIxYkY){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/IGxobVIxYkY" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/J81JGz2CZak" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/J81JGz2CZak){target="_blank"}
 
 ## Word Warm-up: pronominal suffixes {-}
 
 We have created a special `Word Warm-up` for the pronominal suffixes.
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/zk-v6XSY6Pg){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/zk-v6XSY6Pg" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/V12n6fg2ASE" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/V12n6fg2ASE){target="_blank"}
 
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/8Y7XdOBkWWo){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/8Y7XdOBkWWo" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/il-4zlhzD_Y" frameborder="0"></iframe>
 </div>
+
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/il-4zlhzD_Y){target="_blank"}
 
 ## Anki {-}
 

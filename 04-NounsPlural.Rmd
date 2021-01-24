@@ -269,19 +269,20 @@ The Lexical Form is the dictionary version of the word.
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/n9HYIqqvA0I){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/SSHPbptJG4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/SSHPbptJG4s){target="_blank"}
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/89pLvO3wg6s){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/WFSv-Gv3z7o" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/WFSv-Gv3z7o){target="_blank"}
 
 ## Anki {-}
 

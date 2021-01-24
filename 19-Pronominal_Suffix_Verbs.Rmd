@@ -75,6 +75,15 @@ knitr::include_graphics("images/19_Mount of Beatitudes path through olive grove,
 knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
 ``` 
 
+## _Hebrew Quest_ Pronominal Suffixes
+
+Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the concepts Izzy discusses will be applicable to both Lesson 9 and 19. Since it may have been several weeks since you viewed this previously, we encourage you to review the video before starting this lesson.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=2731&end=3341&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=2731){target="_blank"}
 
 
 ## Hebrew Direct Object Pronouns

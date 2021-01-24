@@ -281,23 +281,22 @@ We recommend using the time between now and starting Lesson 7 to get caught up a
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/P-oZ1J6ZyBc){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/P-oZ1J6ZyBc" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/LL7YtEVZ8F0" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/LL7YtEVZ8F0){target="_blank"}
 
 
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtube.com/embed/z4QY0pMdPsA){target="_blank"}
-
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/z4QY0pMdPsA" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/isjp1Q3WPRE" frameborder="0"></iframe>
 </div>
 
+[Click to open `Verses Warm-up` video in a new tab](https://youtube.com/embed/isjp1Q3WPRE){target="_blank"}
 
 ## Ruth Pursuit {-}        
 

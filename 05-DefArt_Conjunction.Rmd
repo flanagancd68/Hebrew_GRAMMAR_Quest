@@ -247,19 +247,20 @@ Keep with it; you're doing great!
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/fYwaA5f-XGc){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/fYwaA5f-XGc" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/WQqcvmjdq1k" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/WQqcvmjdq1k){target="_blank"}
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Fa0KEAh_I84){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/Fa0KEAh_I84" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/Wf-nQAErcj8" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Wf-nQAErcj8){target="_blank"}
 
 ## Anki {-}
 
@@ -288,7 +289,7 @@ YOUR QUEST
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #05](./images/05_Ruth_Pursuit_KEY.pdf){target="_blank"}
 * Update your `Ruth Pursuit Translation` worksheet.
 

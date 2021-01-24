@@ -186,21 +186,21 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/3OuD2Snu-Uk){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/3OuD2Snu-Uk" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/Pb8TIHYRFhI" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/Pb8TIHYRFhI){target="_blank"}
 
 
 ## Verses Warm-up` {-}
 
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/JeU84P1AdEM){target="_blank"}
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/JeU84P1AdEM" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/JeU84P1AdEM){target="_blank"}
 
 ## Ruth Pursuit {-}        
 

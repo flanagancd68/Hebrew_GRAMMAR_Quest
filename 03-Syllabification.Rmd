@@ -340,23 +340,21 @@ Then after watching these, go ahead and jump into `Anki`.
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/h0Ni1_Zya2U){target="_blank"}
 
 <div class="container">
 <iframe class ="responsive-iframe" src="https://www.youtube.com/embed/h0Ni1_Zya2U" frameborder="0"></iframe>
 </div>
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/h0Ni1_Zya2U){target="_blank"}
 
 ## Verses Warm-up {-}
 
 * Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The most extraordinary journey begins with a single step.  You are now about to take that step!
-     
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA){target="_blank"}
 
 <div class="container">
 <iframe class ="responsive-iframe"  src="https://www.youtube.com/embed/9IkIvWPArlA" frameborder="0"></iframe>
 </div>
 
-
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA){target="_blank"}
   
 ## Ruth Pursuit {-}        
 

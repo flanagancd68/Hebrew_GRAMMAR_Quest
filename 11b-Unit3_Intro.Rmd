@@ -1,4 +1,4 @@
-# (PART) Qal Binyanim {-}
+# (PART) Qal Stem {-}
 
 # Introduction to Unit 3 {-}
 
@@ -109,7 +109,7 @@ Trying to read with these marks can be visually distracting and overwhelming at 
         * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on part of speech and PGN information when you hover over a word
     5. Ask what the Spirit of Holiness, the Ruach HaKodesh, is teaching you
 
-## Lessons 13-16 are critical {-}
+## Lessons 13-16 are critical! {-}
 
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013."}
@@ -132,8 +132,7 @@ knitr::include_graphics("images/11b.bethabara.JPG")
 Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy's discussion on Hebrew verbs, we wanted to share it with you here.  Izzy offers tremendous encouragement for you which you can apply throughout your verbal journey. 
     
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-hWmwyosdP-s?start=3343&end=3512&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=3343&end=3512&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=3343){target="_blank"}

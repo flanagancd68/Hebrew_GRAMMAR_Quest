@@ -201,19 +201,19 @@ PREDICATIVE MNEMONIC
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/8GIYqACoOcQ" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/5Hxru5RFuCA" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/5Hxru5RFuCA){target="_blank"}
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/s0JvZ9z0jAg){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/s0JvZ9z0jAg" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/kDiDSdSHV3o" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/kDiDSdSHV3o){target="_blank"}
 
 ## Anki {-}
 

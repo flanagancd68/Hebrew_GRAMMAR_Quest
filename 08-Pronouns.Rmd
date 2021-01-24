@@ -68,9 +68,7 @@ knitr::include_graphics("images/08-Sea of Galilee and Plain of Gennesaret panora
 View this 4-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. The first table Izzy reviews is reproduced in the next section. Prominimal suffixes will be discussed in the next lesson.
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-yY3O8ByYNwI?start=637&end=921
-&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/yY3O8ByYNwI?start=637&end=921&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=637){target="_blank"}
@@ -242,15 +240,13 @@ Demonstrative Adjective Always After the noun, Always has Article, Always Agrees
 
 If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit to make it to the top.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs in Unit 3.  Keep at it!  You're doing awesome!
 
-```{r, out.width = "600pt", fig.align='center', fig.cap="[Manna Ko](https://mannaforlife.com/) Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission."}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission."}
 
 knitr::include_graphics("images/08-manna-ko-hiking-en-gedi.jpg")
 ``` 
 :::
 
 ## Word Warm-up {-}
-
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/_5MpcMzKxWk" frameborder="0"></iframe>

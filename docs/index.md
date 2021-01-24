@@ -1370,23 +1370,21 @@ Then after watching these, go ahead and jump into `Anki`.
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/h0Ni1_Zya2U){target="_blank"}
 
 <div class="container">
 <iframe class ="responsive-iframe" src="https://www.youtube.com/embed/h0Ni1_Zya2U" frameborder="0"></iframe>
 </div>
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/h0Ni1_Zya2U){target="_blank"}
 
 ## Verses Warm-up {-}
 
 * Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The most extraordinary journey begins with a single step.  You are now about to take that step!
-     
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA){target="_blank"}
 
 <div class="container">
 <iframe class ="responsive-iframe"  src="https://www.youtube.com/embed/9IkIvWPArlA" frameborder="0"></iframe>
 </div>
 
-
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA){target="_blank"}
   
 ## Ruth Pursuit {-}        
 
@@ -1705,19 +1703,20 @@ The Lexical Form is the dictionary version of the word.
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/n9HYIqqvA0I){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/n9HYIqqvA0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/SSHPbptJG4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/SSHPbptJG4s){target="_blank"}
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/89pLvO3wg6s){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/89pLvO3wg6s" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/WFSv-Gv3z7o" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/WFSv-Gv3z7o){target="_blank"}
 
 ## Anki {-}
 
@@ -2017,19 +2016,20 @@ Keep with it; you're doing great!
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/fYwaA5f-XGc){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/fYwaA5f-XGc" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/WQqcvmjdq1k" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/WQqcvmjdq1k){target="_blank"}
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Fa0KEAh_I84){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/Fa0KEAh_I84" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/Wf-nQAErcj8" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Wf-nQAErcj8){target="_blank"}
 
 ## Anki {-}
 
@@ -2058,7 +2058,7 @@ YOUR QUEST
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #05](./images/05_Ruth_Pursuit_KEY.pdf){target="_blank"}
 * Update your `Ruth Pursuit Translation` worksheet.
 
@@ -2358,23 +2358,22 @@ We recommend using the time between now and starting Lesson 7 to get caught up a
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/P-oZ1J6ZyBc){target="_blank"}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/P-oZ1J6ZyBc" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/LL7YtEVZ8F0" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/LL7YtEVZ8F0){target="_blank"}
 
 
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtube.com/embed/z4QY0pMdPsA){target="_blank"}
-
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/z4QY0pMdPsA" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/isjp1Q3WPRE" frameborder="0"></iframe>
 </div>
 
+[Click to open `Verses Warm-up` video in a new tab](https://youtube.com/embed/isjp1Q3WPRE){target="_blank"}
 
 ## Ruth Pursuit {-}        
 
@@ -2610,19 +2609,19 @@ PREDICATIVE MNEMONIC
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/8GIYqACoOcQ){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/8GIYqACoOcQ" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/5Hxru5RFuCA" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/5Hxru5RFuCA){target="_blank"}
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/s0JvZ9z0jAg){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/s0JvZ9z0jAg" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/kDiDSdSHV3o" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/kDiDSdSHV3o){target="_blank"}
 
 ## Anki {-}
 
@@ -2754,9 +2753,7 @@ The first word in the passage above is an example of a "demonstrative pronoun". 
 View this 4-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. The first table Izzy reviews is reproduced in the next section. Prominimal suffixes will be discussed in the next lesson.
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-yY3O8ByYNwI?start=637&end=921
-&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/yY3O8ByYNwI?start=637&end=921&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=637){target="_blank"}
@@ -2929,14 +2926,12 @@ Demonstrative Adjective Always After the noun, Always has Article, Always Agrees
 If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit to make it to the top.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs in Unit 3.  Keep at it!  You're doing awesome!
 
 <div class="figure" style="text-align: center">
-<img src="images/08-manna-ko-hiking-en-gedi.jpg" alt="[Manna Ko](https://mannaforlife.com/) Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission." width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-51)[Manna Ko](https://mannaforlife.com/) Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
+<img src="images/08-manna-ko-hiking-en-gedi.jpg" alt="Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission." width="600pt" />
+<p class="caption">(\#fig:unnamed-chunk-51)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
 </div>
 :::
 
 ## Word Warm-up {-}
-
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/_5MpcMzKxWk" frameborder="0"></iframe>
@@ -3077,6 +3072,15 @@ yY3O8ByYNwI?start=1232&end=1647
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1232){target="_blank"}
 
+## _Hebrew Quest_ Pronominal Suffixes
+
+Although this 10-minute video is from the "Complex Verbs" section of _Hebrew Quest_, the concepts Izzy discusses will be applicable to Lesson 9 of Hebrew GRAMMAR Quest.  At this time, don't worry about any references to verb stems. We will study _verbal_ pronominal suffixes in Lesson 19.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=2731&end=3341&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=2731){target="_blank"}
 
 ## Possessive Pronominal Suffix Meaning
 
@@ -3255,30 +3259,31 @@ Although <span class="he">אֵל</span> may not appear with a suffix apart from 
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/IGxobVIxYkY){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/IGxobVIxYkY" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/J81JGz2CZak" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/J81JGz2CZak){target="_blank"}
 
 ## Word Warm-up: pronominal suffixes {-}
 
 We have created a special `Word Warm-up` for the pronominal suffixes.
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/zk-v6XSY6Pg){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/zk-v6XSY6Pg" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/V12n6fg2ASE" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/V12n6fg2ASE){target="_blank"}
 
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/8Y7XdOBkWWo){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/8Y7XdOBkWWo" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/il-4zlhzD_Y" frameborder="0"></iframe>
 </div>
+
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/il-4zlhzD_Y){target="_blank"}
 
 ## Anki {-}
 
@@ -3529,23 +3534,21 @@ There are four extremely common constructs in the Bible, so we must be able to r
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/1bvZ74a1SYU){target="_blank"}
-
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/1bvZ74a1SYU" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/YF2XieUoR3Y" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/YF2XieUoR3Y){target="_blank"}
 
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/1JWesFEa2_c){target="_blank"}
-
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/1JWesFEa2_c" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/hxpScJEBMcY" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/hxpScJEBMcY){target="_blank"}
+
 
 
 ## Anki {-}
@@ -3797,21 +3800,21 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/3OuD2Snu-Uk){target="_blank"}
-
 <div class="container">
-<iframe class="responsive-iframe" src="https://youtube.com/embed/3OuD2Snu-Uk" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://youtube.com/embed/Pb8TIHYRFhI" frameborder="0"></iframe>
 </div>
+
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/Pb8TIHYRFhI){target="_blank"}
 
 
 ## Verses Warm-up` {-}
 
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/JeU84P1AdEM){target="_blank"}
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/JeU84P1AdEM" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/JeU84P1AdEM){target="_blank"}
 
 ## Ruth Pursuit {-}        
 
@@ -3850,7 +3853,7 @@ If you have completed **all activities** in Lessons 1-11, you may claim the seco
 
 <!--chapter:end:11-Numerals.Rmd-->
 
-# (PART) Qal Binyanim {-}
+# (PART) Qal Stem {-}
 
 # Introduction to Unit 3 {-}
 
@@ -3958,7 +3961,7 @@ Trying to read with these marks can be visually distracting and overwhelming at 
         * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on part of speech and PGN information when you hover over a word
     5. Ask what the Spirit of Holiness, the Ruach HaKodesh, is teaching you
 
-## Lessons 13-16 are critical {-}
+## Lessons 13-16 are critical! {-}
 
 
 <div class="figure" style="text-align: center">
@@ -3981,8 +3984,7 @@ Trying to read with these marks can be visually distracting and overwhelming at 
 Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy's discussion on Hebrew verbs, we wanted to share it with you here.  Izzy offers tremendous encouragement for you which you can apply throughout your verbal journey. 
     
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-hWmwyosdP-s?start=3343&end=3512&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=3343&end=3512&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=3343){target="_blank"}
@@ -4000,8 +4002,11 @@ Now, let's get to Hebrew Verbs!
 
 # Introduction to Hebrew Verbs
 
+Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives, and prepositions, we will now turn our focus to verbs.
 
-Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives and prepositions, the remainder of the course will focus on verbs. Around 70% of Hebrew verbs are in what is called the Qal stem so we will spend Lessons 13-22 learning that stem inside and out.  Our quest is to translate accurately.  To do this we must be able to identify the root, stem, conjugation, person, gender, and number of verbs. This Lesson will provide a brief introduction on the verb system as a whole and learn some overall conventions.
+Around 70% of Hebrew verbs are in what we call the Qal stem, so we will spend Lessons 13-22 learning that stem inside and out.  Qal verbs represents simple action. 
+
+Our quest is to translate accurately.  To do this, we must identify the root, stem, conjugation, person, gender, and number of verbs. This Lesson will provide a brief introduction to the verb system as a whole and some general conventions.
 
 ::: {.box .map}
 LESSON ITINERARY
@@ -4030,9 +4035,9 @@ Before continuing, have you completed all requirements for your certificate for 
 
 *But he himself went a day's journey into the wilderness . . . (1 Kings 19:4)*
 
-As we begin a long stretch in Hebrew Verbs, with what ultimately is the remainder of this course, at times you may feel as exhausted, dry, and isolated as if you were were Elijah (the subject of 1 Kings 19:4) driven into the wilderness.  
+As we begin a long stretch in Hebrew Verbs, at times, you may feel as exhausted, dry, and isolated as if you were Elijah (the subject of 1 Kings 19:4) driven into the wilderness.  
 
-It is these times where we must depend on God, and it is times like these where God can pour into us and prepare us for our next adventure.  Moses, Elijah, John the Immerser, and several others all had their time in the Wilderness that God used to mold them as servant-leaders.  Of course we can point to Yeshua himself and his time in the wilderness at the beginning of his ministry.  Embrace the wilderness!
+In these times, we must depend on God to sustain us.  It is times like these where God can pour into us and prepare us for our next adventure.  Moses, Elijah, John the Immerser, and several others all had their time in the Wilderness that God used to mold them as servant-leaders.  Of course, we can point to Yeshua himself and his time in the wilderness at the beginning of his ministry.  Embrace the wilderness!
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -4054,44 +4059,58 @@ It is these times where we must depend on God, and it is times like these where 
 
 ## _Hebrew Quest_ Verb Introduction Lecture
 
-View this 5-minute overview video from _Hebrew Quest_ on Hebrew Verbs. You may disregard references to the "Student Manual" and "Essentials of Biblical Hebrew" as we will break down the concepts Izzy discusses as we progress through this lesson.  
+View this 5-minute overview video from _Hebrew Quest_ on Hebrew Verbs. You may disregard references to the "Student Manual" and "Essentials of Biblical Hebrew." We will break down the concepts Izzy discusses as we progress through this lesson.  
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-hfu4gjNo2K4?start=2342&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
-[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2342){target="_blank"}
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2344){target="_blank"}
 
+::: {.box .map}
+
+"I advise beginners not to perplex themselves about any rule that at first view seems difficult, which will be of great advantage to carry on their design in the knowledge of this Primitive Tongue with success."  
+
+-Judah Monis, on the back of the title page of his Hebrew Grammar, published in 1735. 
+
+:::
 ## A note on the paradigm strong verb <span class="he">קטל</span>
 
-* As Izzy mentioned in the video we just viewed, Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
-* It is meant to represent _ANY_ strong verb (we'll discuss strong and weak verbs later in this Lesson)
+* As Izzy mentions in the video we just viewed, Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
+* <span class="he">קטל</span> is meant to represent _ANY_ strong verb (we'll discuss strong and weak verbs later in this Lesson)
 * What makes <span class="he">קטל</span> awkward is the word means "to kill"
 * As we go through this course, remember that the actual translation of <span class="he">קטל</span> is not material to our purposes
 * In this respect, it is similar to a math formula
     * In $a^2 + b^2 = c^2$, the letters "a", "b", and "c" have no direct, literal meaning
-    * They are meant to represent the lengths of any three sides of a right triangle
+    * In the Pythagorean formula above, "a", "b", and "c" are meant to represent the lengths of the three sides of a right triangle
 * We encourage you to think of <span class="he">קטל</span> the same way - they are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
-
+    * Also, like Izzy says, we can always think of <span class="he">קטל</span> as "killing" sin, bad habits, or things that can interfere in our relationship with the Holy One.
+    
 ## The Verbal Root
 
 * A _Root_ is the set of consonants on which a verb (and often nouns) are based
 * The majority of verbs have three _root consonants_ from which the other words are derived.
+* Consider the root <span class="he">מלך</span>; the graphic below lists just a few of the nouns and verbs that derive from this single root
 
 <img src="images/12-verb-root.gif" width="400pt" style="display: block; margin: auto;" />
+## Inflecting and Parsing Review
+
+* Back in Lesson 4, we discussed the difference between "inflecting" and "parsing"
+* Inflecting is when we take a root such as <span class="he">מלך</span> and transform it by adding vowels, prefixes or suffixes to generate a specific form with a unique meaning
+    * For example, if you were told to inflect <span class="he">מלך</span> into Qal Perfect first person, common singular (QP1cs), you would provide "<span class="he">מָלַכְתִּי</span>"
+* As we said back in Lesson 4, no part of reading the Hebrew Bible requires you to inflect
+* Parsing can be thought of as going in the reverse direction
+    * Say you encounter a verb such as "<span class="he">מָלַכְתִּי</span>"
+    * In time, you will be able to determine that <span class="he">מָלַכְתִּי</span> is the QP1cs form of <span class="he">מלך</span>, and means "I ruled" or "I was king"
+* To accurately translate the Hebrew you read in Scripture, you will be doing a lot of parsing
 
 ## Person, Gender, Number
 
-* Hebrew verbs do what is called "inflecting" for person, gender and number
-    * Inflecting can be any combination of the following are added to the verbal root
-        * Spelling/vowel patterns
-        * Preformatives (verbal prefixes)
-        * Sufformatives
-* The person, gender and number refers to the _subject_ of the verb.
-    * Pronominal suffixes are used to denote the object of the verb.  We will study these in Lesson 19.
-* Person, Gender, and Number are as we learned with nouns
-    * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e. there is not a masculine form of "I" and a separate feminine form of "I")
+* The inflected person, gender, and number refer to the _subject_ of the verb
+    * Pronominal suffixes are used to denote the object of the verb.  We will study these in Lesson 19
+* Person, Gender, and Number for verbs are the same as for nouns
+    * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e., there is not a masculine form of "I" and a separate feminine form of "I")
     * Person
         * 1st person is the speaker - "I/we sat"
         * 2nd person is the person being spoken to - "you sat"
@@ -4099,42 +4118,75 @@ hfu4gjNo2K4?start=2342&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
     * Number is singular or plural - there are no dual verb forms
     
 ::: {.box .info}
-When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular".  
+When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular."
 :::
 
 ## Verb nomenclature
 
-*  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל, which is the root for the verb "to do". </small>]</small>.
+*  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל. </small>]</small>.
 * For the verb <span class="he">מָלַכְתִּי</span> (I was king):
     * The _root_ is <span class="he">מלך</span> (no vowels)
         * $R_1$ = מ
         * $R_2$ = ל
-        * $R_3$ = ך<small>^[<small>Hebrew grammars such as _Basics of Biblical Hebrew_ use קטל as the "paradigm verb", where the ק = any consonant in $R_1$, ט = $R_2$, and ל = $R_3$.  This is somewhat awkward as the verb קטל means "to kill."  See the discussion on this later in this lesson.</small>]</small>
+        * $R_3$ = ך
+
+## Lexical form for Verbs
+
 * Also important to know is the _Lexical Form_ 
-    * The _lexical form_ is how you would look the word in a dictionary.
-    * The lexical form for verbs is almost always the Qal Perfect 3rd Person Masculine Singular: <span class="he">מָלַךְ</span>
-    
+* The _lexical form_ is how you would locate the word in a dictionary
+* As Izzy discussed in the introductory video, the lexical/dictionary form for verbs is almost always the Qal Perfect 3rd Person Masculine Singular.
+* For the verb <span class="he">מָלַכְתִּי</span> (I was king):
+    * The _root_ is <span class="he">מלך</span> (no vowels)
+    * The _lexical form_ is <span class="he">מָלַךְ</span> (take the _root_ and inflect it as QP3ms form)
+        
 ## Preformatives, Sufformatives, Prefixes, and Suffixes
 
 * While many dictionaries would consider "preformative" synonymous with "prefix" and "sufformative" synonymous with "suffix", Hebrew grammars often use the terms "preformative" and "sufformative" exclusively for verbs
 * A verbal _preformative_ (if any) goes before $R_1$ and a _sufformative_ (if any) goes after $R_3$
-* Any _prefix_ such as the interogative particle, or (commonly) the conjunction vav, goes _before_ the preformative
+    * A sufformative can also be referred to as an _afformative_ 
+* Any _prefix_ such as the interrogative particle, or (commonly) the conjunction vav, goes _before_ the preformative
 * Any _suffix_, such as a pronominal suffix, goes _after_ the sufformative
-* For the verb <span class="he">קָטַ֫לְתִּי</span>, the sufformative is <span class="he">תִּי</span> and there is no preformative (and no prefix or suffix)
-* For the verb <span class="he">יִקְטְלוּ</span>, the preformative is <span class="he">יִ </span>, and the sufformative is <span class="he"> וּ</span>
-* For the verb <span class="he">יִקְטְל֫וּהָ</span>, the preformative is <span class="he">יִ</span>, the sufformative is <span class="he">וּ</span>, and the pronominal suffix is <span class="he">הָ</span>
+* For the verb <span class="he">קָטַ֫לְתִּי</span>
+    * The sufformative is <span class="he">תִּי</span> 
+    * There is no preformative 
+    * There is no prefix or suffix
+* For the verb <span class="he">יִקְטְלוּ</span>
+    * The preformative is <span class="he">יִ </span>
+    * The sufformative is <span class="he"> וּ</span>
+    * There is no prefix or suffix
+* For the verb <span class="he">יִקְטְל֫וּהָ</span>
+    * The preformative is <span class="he">יִ</span>
+    * The sufformative is <span class="he">וּ</span>
+    * The pronominal suffix is <span class="he">הָ</span>
 
+::: {.box .map}
+
+On your quest to translate verbs, identifying preformatives and sufformatives on verbs is the key to accurate parsing.
+
+:::
 
 ## Verbal Vowels
 
-* Being able to identify a verbal vowel's position will turn out to be important in identifying the Verbal Root and the Stem
+* Identifying a verbal vowel's position is necessary to determine the Verbal Root and the Stem
 * Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
-    * The $V_S$ is usually $V_2$ but this is not a constant.  Sometimes it can be $V_1$. We'll discuss this more in the next lesson
+    * The $V_S$ is usually $V_2$ 
     * The vowel associated with $R_3$ turns out to be less important so we do not need to identify this
-* For the verb <span class="he">יִקְטְל֫וּהָ</span>, the $V_P$ is hireq; $V_1$ is Silent Sheva; and, $V_2$/$V_S$ are Vocal Sheva
-    * While we have said Silent Sheva is technically not a vowel, it is occupying the vowel position of $R_1$ - so for this purpose it is ok to say $V_1 = \ :$
+* For the verb <span class="he">יִקְטְל֫וּהָ</span>
+    * $V_P = I$ (remember I is shorthand for Hireq)
+    * $V_1$ is Silent Sheva
+    * $V_2$/$V_S$ are Vocal Sheva
+    * Note: while we have said Silent Sheva is technically not a vowel, it is occupying the vowel position of $R_1$ for this purpose, it is acceptable to say $V_1 = \ :$
 
 
+## _Hebrew Quest_ Verb Stems Lecture
+
+View this 8-minute overview video from _Hebrew Quest_ where Izzy provides a summary of the seven Hebrew verb stems. Note that the table Izzy uses has a slightly different layout from the table used later in this lesson, but both convey the same information.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=827&end=1268&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=827){target="_blank"}
 
 ## The Seven Hebrew Verb Stems
 
@@ -4166,11 +4218,10 @@ We'll explain the "Parsing codes" in a few sections
 
 ## The Seven Stems: Summary Table
 
-
 * There is scholarly debate about the table below
-    * Hebrew verbs can have any one of several nuanced meanings depending on the context
-    * The table provides a good starting place but it is not the "final word" on verb stems
-    * We will discuss these nuances as we introduce  each stems
+* Hebrew verbs can have any one of several nuanced meanings depending on the context
+* The table provides a good starting place, but it is not the "final word" on verb stems
+* We will discuss these nuances as we introduce each stem
     
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -4178,18 +4229,24 @@ Simple Action	| Qal | Niphal | (Niphal)
 Cause a State	| Piel | Pual | Hitpael
 Cause an Action	|Hiphil | Hophal
 
+
+## Conjugation
+
+* While the stem provides the overall meaning, the _conjugation_ provides additional descriptive information needed for translation
+* Strictly speaking, Hebrew does not have past, present, future, tense, as with English
+    * Instead, the easiest way of thinking about it is that Hebrew has complete vs. incomplete action
+* Like English, Hebrew also has command (called Imperative), infinitive, and participle conjugations
+
+
 ## The Eight Basic Conjugations
 
-* While the Stem provides the overall meaning, the _conjugation_ provides additional descriptive information needed for translation
-* Strictly speaking, Hebrew does not have past, present, future, tense, like English does
-* Instead, the easiest way of thinking about it is that Hebrew has complete vs incomplete action
 1. The _Perfect_ conjugation describes completed action, whether in the past, present, or future
-    * Most often we translate this as English past tense - "She went"
-    * Verbs that describe a state of being as will an action that is completed in the future will be in the Perfect
-    Parsing code: P
+    * Most often, we translate this as English past tense - "She went"
+    * Verbs that describe a state of being as well an action that is completed in the future will be in the Perfect conjugation
+    * Parsing code: P
 2. The _Imperfect_ conjugation describes an incomplete action, whether in the past, present, or future
     * Most often, we translate this as English future tense - "She will go"
-    * Verbs that describe a process (that is not completed) or incomplete action even if in the past will tend to be in the Imperfect
+    * Verbs that describe an incomplete process or incomplete action, even if that action is in the past, will tend to be in the Imperfect conjugation
     * Parsing code: I
 3. The _Imperative_ 2nd person Volitional - a command: "Go!"
     * Parsing code: M
@@ -4201,7 +4258,7 @@ Cause an Action	|Hiphil | Hophal
     * Parsing code: ∞
 7. The _Infinitive Absolute_ Verbal Noun - special uses, less common and has no direct equivalent in English
     * Parsing code: A
-8. The _Participle_ - Verbal adjective - "runner" "one who runs"
+8. The _Participle_ - Verbal adjective - "runner," "one who runs"
     * Parsing code: Pt
     
     
@@ -4217,7 +4274,7 @@ Vav prefix
 
 :::
 
-## Finite vs Non-Finite Conjugations
+## Finite vs. Non-Finite Conjugations
 
 * _FINITE_ verbs have "person"
     * Perfect, Imperfect, Imperative, Cohortative, Jussive
@@ -4228,7 +4285,7 @@ Vav prefix
 
 ## Parsing
 
-* Parsing is the process of breaking down a verb into its component parts
+* As we stated above, parsing is the process of breaking down a verb into its component parts
 * The following should be included when parsing a verb (as applicable):
     * Stem
     * Conjugation
@@ -4236,54 +4293,56 @@ Vav prefix
     * Gender (except for Infinitive forms)
     * Number (except for Infinitive forms)
     * Either the _Root_ form or the _Lexical_ form
-        * We've already mentioned the _root_ - these are the three root letters without vowels
-        * _Lexical_ form for verbs is similar to non-verbs in that it is the most common inflected form
-        * For verbs, the lexical form is usually the Qal Perfect 3ms (or QP3ms)
-            * Only if $R_2$ is a vowel, the Lexical form is the Q∞ form
-        * For parsing in this course, the Anki exercises will prompt for the _Root_
+
     
 ## Parsing Codes
 
-As it would get cumbersome to consistently write the full descriptions, such as "Hitpael Cohortative Third Person, Masculine Plural", many Hebrew grammarians use what is called "parsing code."  
-
-Unfortunately the nomenclature for morphology is not standardized.  We will be using Dr. John Beckman's code as he has applied it to "Basics of Biblical Hebrew".  His shorthand for the above, would be "tDC3mp".  For comparison, Logos software's code would be "VgI3MS-C".
-
-We do not have very many writing assignments in Hebrew GRAMMAR Quest; but, when we do have worksheets, feel free to use Parsing Code (or not!). 
-
-To get the Infinity ∞ symbol on a desktop/laptop keyboard, use the combination `alt+236`.
+* Constantly writing the full parsing descriptions, such as "Hitpael Cohortative, Third Person, Masculine Plural" would become tedious
+* Therefore, many Hebrew grammarians use what is called "parsing code"  
+* Unfortunately, the terminology for morphology is not standardized
+* We will be using Dr. John Beckman's code as he has applied it to "Basics of Biblical Hebrew"
+* Dr. Beckman's shorthand for the above would be "tDC3mp"
+* For comparison, Logos software's code would be "VgI3MS-C"
 
 
 ## Strong and Weak Verbs
 
-As we get into each stem, there will be separate chapters devoted to strong and week verbs; therefore, it might be good for you to know what we mean by these terms.
-
-* Each conjugation will have a basic paradigm that directs vowels, accents, preformatives and sufformatives for each PGN
-* Strong verbs will follow the paradigm, while weak verbs will have one or more weak letters that result in some deviation from the paradigm
-    * To put another way, strong verbs are "regular" and weak verbs are "irregular"
+* As we get into each stem, there will be separate chapters devoted to strong and week verbs
+* Therefore, it will be useful for you to know what we mean by these terms
+* Each conjugation will have a basic paradigm that prescribes vowels, accents, preformatives, and sufformatives for each PGN
+* Strong verbs will follow this paradigm, so we will call this the "strong verb paradigm"
+* Weak verbs will have one or more weak letters that result in some deviation from the paradigm
+    * For example the first video by Izzy, he mentioned how the נ in <span class="he">נתן</span> can disappear in certain forms
+    * This is because נ is a weak letter
+* Strong verbs are "regular" and weak verbs are "irregular"
 * The next page lists some of the major weak categories
 
-## Weak Verb Classes
+## Weak Verbs
 
-> A weak verb has a root consonant that causes it to deviate from the strong-verb paradigm
-
+* A weak verb has a root consonant that causes it to deviate from the strong-verb paradigm
 * A verb may have one such letter that causes deviation in one stem or conjugations but not in others
     * ר is only weak in forms that try to put a Dagesh Forte in it
     * 1נ wants to assimilate whenever it has a Silent Sheva
         * Because this never happens to $R_1$ in the Qal Perfect, 1נ is strong in the Qal Perfect
         * We will learn this will happen in the imperfect, so 1נ is weak in that conjugation
+        
+## Weak Verb Classes
+
 * We classify weak verbs by their problem letter
-    * 3נ means that $R_3$ is נ, as in <span class="he">זקן</span>
-    * 3ת means that $R_3$ is ת, as in <span class="he">ברת</span>
-    * 1G means that $R_1$ is a guttural, as in <span class="he">אמר</span>
-    * 2G means that $R_2$ is a guttural, as in <span class="he">בחר</span>
-    * We can't simply say "3G" for any $R_3$ guttural because it turns out that א and ה each behave differently:
-        * 3עח means that $R_3$ is ע or ח, as in <span class="he">מנע</span> <span class="he">לקח</span>
-        * 3א  means that $R_3$ is א, as in <span class="he">מצא</span>
-        * 3ה means that $R_3$ is the vowel Qamets+Hei, as in <span class="he">בנה</span>
+    * 3נ, "third Nun," means that $R_3$ is נ, as in <span class="he">זקן</span>
+    * 3ת, "third Tav," means that $R_3$ is ת, as in <span class="he">ברת</span>
+    * 1G, "first guttural," means that $R_1$ is a guttural, as in <span class="he">אמר</span>
+    * 2G, "second guttural," means that $R_2$ is a guttural, as in <span class="he">בחר</span>
+* We can't simply say "3G" for any $R_3$ guttural because it turns out that א and ה each behave differently
+    * 3עח, "third Chet/Ayin," means that $R_3$ is ע or ח, as in <span class="he">מנע</span> <span class="he">לקח</span>
+    * 3א, "third Aleph," means that $R_3$ is א, as in <span class="he">מצא</span>
+    * 3ה, "third Hei," means that $R_3$ is the vowel Qamets+Hei, as in <span class="he">בנה</span>
     * Geminate - $R_2$ = $R_3$ <span class="he">סבב</span>
     * Biconsonantal (also called Hollow) - $R_2$ is a vowel letter <span class="he">בוֹא</span> <span class="he">שִׁים</span>* <span class="he">קוּם</span>*
     * Doubly Weak is any combination of two (or three) weak letters, as in <span class="he">עַלָה</span>
     
+## Weak Verbs Are Predictable
+
 * The good news is when Hebrew verbs are weak, the behavior is usually predictable
 * In fact, you have already learned almost every behavior change we will encounter with weak verbs
     * For example, you already know that Gutturals reject Vocal Sheva and the Daghesh Forte
@@ -4291,11 +4350,10 @@ As we get into each stem, there will be separate chapters devoted to strong and 
 * Weak verbs may take a little more thought, but overall they are nothing to be concerned about
 * The better you know your _vocabulary_ and the _strong_ verb paradigms, the easier the _weak_ verbs will be
 
-## Hebrew GRAMMAR Quest is a Quest for RECOGNITION NOT RECALL
+## Hebrew GRAMMAR Quest is a Quest for RECOGNITION, NOT RECALL
 
-* Our overall goal for this course is __RECOGNITION, NOT RECALL__.
-    * Older Hebrew Grammars focused on memorizing dozens of verb paradigm charts
-    * Students had to memorize many different stems, conjugations, as well as strong and weak verb paradigms in those conjugations.
+* Older Hebrew Grammars focused on memorizing dozens of verb paradigm charts
+* Students had to memorize many different stems, conjugations, as well as strong and weak verb paradigms in those conjugations
 * In this course, you will memorize only a handful of paradigms in the Qal Stem
 * From here we will be on a quest for pattern recognition
 * Think of it like this: instead of taking a traditional approach to learning a language by brute-force, rote memorization, we are going to take more of a mathematical approach
@@ -4307,10 +4365,10 @@ As we get into each stem, there will be separate chapters devoted to strong and 
 * You will begin to see things in a special $formula font$ - we will use $this font$ when there are consistent patterns
     * For example, whenever you see $Pre =$, this tells you that the verb has a specific combination of prefixes/preformative letters, vowels, and possibly Dagesh Forte marks that are characteristic of that verb class
     
-::: {.box .map}
-WHERE WE ARE HEADING
+## Stem Comparison Table
 
-When we get to the end of the course, we're going to have built a Stem Comparison Table that looks like this:
+* As we move through the course, we will build a table to compare stems
+* At the end of the course, your table will look like this:
 
 <img src="images/34_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 
@@ -4319,28 +4377,32 @@ When we get to the end of the course, we're going to have built a Stem Compariso
 * You do not need to do anything with this table right now - we only want to show you how this relatively simple series of patterns will help you unlock the meaning of the Bible
 
 
+::: {.box . map}
 
 That's enough for this introduction to Hebrew verbs.  Let's get to the exercises!
 
+:::
 
 
 ## Word Warm-up {-}
-
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/MGk-CGqJwUY){target="_blank"}
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/MGk-CGqJwUY" frameborder="0"></iframe>
 </div>
 
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/MGk-CGqJwUY){target="_blank"}
+
+
 ## Verses Warm-up {-}
 
-Note: See Unit 3 Introduction for a discussion of the cantillation accent marks you see on the video. [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/AS03bG1xjBE){target="_blank"}
+Note: See Unit 3 Introduction for a discussion of the cantillation accent marks you see on the video. 
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/AS03bG1xjBE" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/AS03bG1xjBE){target="_blank"}
 
 ## Anki {-}
 
@@ -4349,8 +4411,6 @@ Note: See Unit 3 Introduction for a discussion of the cantillation accent marks 
 * `Lesson 12 C. Workbook`
 * `Lesson 12 D. Study Verses`
 
-
-
 ## Ruth Pursuit {-}        
 
 ::: {.box .map} 
@@ -4358,28 +4418,20 @@ YOUR QUEST
 
 Find the following miscellaneous words:
 
-    * <span class="he">בְּמֵעַי</span> - "in my belly/womb" (yellow)
-    * <span class="he">תִקְוָה</span> - "hope." (green)
-        * The Israeli national anthem is called <span class="he">הַתִּקְוָה</span>. 
-        * [Watch the _Hebrew Quest_ Lesson on "HaTiqvah"](https://holylanguage.com/hebrew-history-8.php){target="_blank"}
-    * <span class="he">בִּתְחִלַּת</span> - "in the beginning" (pink)
-    * <span class="he">קְצִיר</span> - "harvest of" (blue)
-    * Vocabulary word for "no, not" (immediate and specific prohibition) - gray
+* <span class="he">בְּמֵעַי</span> - "in my belly/womb" (yellow)
+* <span class="he">תִקְוָה</span> - "hope." (green)
+    * The Israeli national anthem is called <span class="he">הַתִּקְוָה</span>. 
+    * [Watch the _Hebrew Quest_ Lesson on "HaTiqvah"](https://holylanguage.com/hebrew-history-8.php){target="_blank"}
+* <span class="he">בִּתְחִלַּת</span> - "in the beginning" (pink)
+* <span class="he">קְצִיר</span> - "harvest of" (blue)
+* Vocabulary word for "no, not" (immediate and specific prohibition) - (gray)
 
 :::
 
-
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
-
 * [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-
-
 ## OPTIONAL _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
-
-
-
-[Blank copy of Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/copy){target="_blank"}
 
 ::: {.box .map}
 YOUR HEBREW QUEST!
@@ -4394,7 +4446,7 @@ YOUR HEBREW QUEST!
     1. [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
     1. [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
 
@@ -4407,7 +4459,7 @@ YOUR HEBREW QUEST!
 
 > To comprehend Biblical Hebrew, we must be able to translate Qal verbs, which are over 2/3 of all verbs in the Bible
 
-While our focus is not on writing Biblical Hebrew, you do need to be able to write the details on the Qal strong verb paradigm. This will make it easier to recognize Qal weak and non-Qal verbs.
+While our focus is not on writing Biblical Hebrew, you need to be able to write the details on the Qal strong verb paradigm. This will make it easier to recognize Qal weak and non-Qal verbs.
 
 ::: {.box .map}
 LESSON ITINERARY
@@ -4436,9 +4488,9 @@ Before continuing, make sure you understand the $R_n$ and the $V_n$ nomenclature
 
 *Our fathers did not keep the word of Adonai (2 Chronicles 34:21)*
 
-<span class="he">שָׁמַר</span> means guard or keep, in the sense of obey.  It is a verb that occurs frequently in the Hebrew Bible. In <span class="he">לֹא־שָׁמְרוּ</span>, the word לֹא serves to negate the verb it preceedes.  Literally this might be "not they kept", but in English we would say "they did not keep".
+<span class="he">שָׁמַר</span> means to guard or keep, in the sense of obeying.  It is a verb that frequently occurs in the Hebrew Bible. In <span class="he">לֹא־שָׁמְרוּ</span>, the word לֹא serves to negate the verb it precedes.  Literally, this might be "not they kept", but we would say "they did not keep" in English.
 
-Everyday, and frequently throughout each day, we have two choices.  We can keep His word or we can ignore His word.  Let us strive to have it be said of all of us, <span class="he">שָׁמְרוּ אֶת־דְּבַר יְהוָה </span>, "they KEPT the word of Adonai."
+Every day, and frequently throughout each day, we have two choices.  We can keep His word, or we can ignore His word.  Let us strive to have it be said of all of us, <span class="he">שָׁמְרוּ אֶת־דְּבַר יְהוָה </span>, "they KEPT the word of Adonai."
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -4498,25 +4550,27 @@ Cause an Action	|Hiphil | Hophal
     
 > The Hebrew perfect describes an action or a state of being as a whole, not as a process
 
-* I.e. "she was studying" is an incomplete process, but "she had studied" is completed action
+* I.e., "she was studying" is an incomplete process, but "she had studied" is completed action
 
 ## Components of the Qal Perfect Strong Paradigm
 
 <img src="images/13.qptable.png" width="700pt" style="display: block; margin: auto;" />
 
-The next few sections go into detail of building the paradigm.  
+The next few sections go into detail about building the paradigm.  
 
 ## The Perfect Sufformatives
 
 The table below shows the perfect sufformatives in the middle column.  The 1st and 2nd Person forms are similar to the respective pronominal suffix.
+
+
 
 <img src="images/13_perfect sufformatives.png" width="700pt" style="display: block; margin: auto;" />
 
 Notes:
 
 * 3MS has no Perfect sufformative
-    * so the steps such as adding a sheva before a perfect sufformative" do not apply to 3ms
-* Since 3mp and 3fp are the same, we simply say "3cp" - Third person, common, plural
+    * The steps such as adding a Sheva before a perfect sufformative" do not apply to 3ms
+* Since 3mp and 3fp are the same, we simply say "3cp" - Third-person, common, plural
 * Good news: these sufformatives REMAIN THE SAME throughout all seven Perfect conjugations
 
 
@@ -4524,91 +4578,110 @@ Notes:
 ## Qal Perfect Vowels: $V_1$ is almost always Qamets
 
 * $V_1$ is almost always Qamets
-* As we learned way back in this course, an unaccented long vowel in an open propretonic syllable, will undergo propretonic reduction
+* As we learned way back in this course, an unaccented long vowel in an open propretonic syllable will undergo propretonic reduction
     * When this happens, you will see a Vocal Sheva, but you will be able to deduce that $V_1$ used to be a long vowel - and if it's a Qal verb, you'll know it used to be a Qamets
 
-::: {.box .info}
-HGQ SHORTHAND: $B$ = Strong Form Distinctive "B"eginning
+## Qal Perfect Strong $Pre =$ <span class="he">קָ</span>
 
+* HGQ SHORTHAND: $Pre$ = Strong Form Diagnostic Word-initial Sequence
 * Each of the stems/conjugations has a distinctive combination of consonants, vowels, and occasionally Daghesh Forte marks the first one or two syllables of a given verb
-    * This serves to make the strong form of the verb easy to differentiate from the other stems
-    * We will call this a "Distinctive Beginning" which we will combine with parsing code
-* ק represents any strong letter in $R_1$ 
-*  $B_{QP} =$ <span class="he">קָ</span>, means the Distinctve "<u>B</u>"eginning of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
-:::
-    
-## Qal Perfect Vowels: $V_2$ prefers patach
+* This serves to make the strong form of the verb easy to differentiate from the other stems
+* We will call this diagnostic sequence "$Pre$"
+    * Saying "diagnostic word-initial sequence of consonants and vowels" would get tiresome!
+* For Qal Perfect (QP), $Pre =$ <span class="he">קָ</span>
+    * ק represents any strong letter in $R_1$ 
+    * This means the distinctive word-initial sequence of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
 
-* $V_2$ prefers patach 
+    
+## Qal Perfect Strong $V_S = A$
+
+* For QP, $V_2$ prefers Patach 
 * For strong verbs, $V_S = V_2$
     * So we could either say "$V_S$ for Qal Perfect Strong equals Patach"
-    * Or we could use formula shorthand and say $V_S{Q} = A$, since "A" without 
+    * Or we could use formula shorthand and say $V_S{Q} = A$, since "A" is our shorthand for a short A vowel, i.e., Patach
 * In 3cp and 3fs, the Sheva of the perfect sufformative goes in $V_2$
-    * Some stative verbs can also take a Tsere or Holem in $V_2$
 
+::: {.box .caution}
+EXCEPTIONS
+
+* The $V_S$ can change based on other grammar rules, for example, when the vowel must reduce to a Sheva/Reduced Vowel
+* Some stative verbs can also take a Tsere or Holem in $V_2$ (see "Stative Verbs..." section in this Lesson)
+
+:::
     
-::: {.box .info}
-HGQ SHORTHAND: $V_S =$ Formulas for Stem Vowels
+
+## Each Stem will have a $V_S$ FORMULA
 
 * As we progress through the verbs, each major stem will end up with a formula that looks something like this: 
 
-$$V_{S_{H}} =  Î[A] \sim  Î(Ē)$$
+$$V_{S} =  Î[A] \sim  Î(Ē)$$
 
-* This may be utter gibberish to you right now, but as we get into Unit 4, this formula (in combination with the $B$ pattern for the conjugation's Distinctive Beginning) will save you hours of paradigm memorization of the derived stems
-* You will only need to memorize the Qal paradigms, then apply this formula for the other stems
+* This is probably complete gibberish to you right now
+* As we get into Unit 4, this formula (in combination with the $Pre$ pattern) will save you hours of paradigm memorization of the derived stems
+* You will only need to memorize the Qal paradigms, then apply this formula to the other stems
 * So let's start to build this formula for the Qal:
 
-$$V_{S_{Q}} = A \sim$$
-* In the formula, $A$ refers to Patach - you may need to review the Vowel shorthand in the Unit 3 Introduction
-* This formula is telling you that the Stem Vowel of the Perfect Conjugation is Patach
-    * The $V_S$ can change based on other grammar rules, but if you are looking at a Qal Perfect verb, the $V_S$ is _or was_ a Patach
-    * The _Imperfect_ Stem Vowel will be to the right of the $\sim$ mark - we'll get to this in Lesson 15
-:::
+$$V_{S} = A \sim$$
+
+* In the formula, $A$ refers to Patach
+* This formula is telling you that the Stem Vowel of the Perfect Conjugation _prefers_ Patach
+* The _Imperfect_ Stem Vowel will be to the right of the $\sim$ mark - we'll address this in Lesson 15
+
             
 
 ## $V_S$ is accented in Finite verbs
 
 * As we introduced in Lesson 12, verbs that have "person" designation are called Finite verbs
     * Perfect, Imperfect, Imperative, Cohortative, Jussive are FINITE
-    * Infinitive Construct, Infinitive Absolute, Participle are NON-FINITE, because they do not have "person"
+    * Infinitive Construct, Infinitive Absolute, Participle are NON-FINITE because they do not have "person"
 * The $V_S$ is accented in Finite verbs, when possible
-    * As we said in the previous lesson, $V_S$ usually = $V_2$ - in <span class="he">קָטַל</span> $V_S$ = patach
-        * If $R_2$ is a vowel letter, then $V_S$ = $V_1$ - in <span class="he">קוּם</span> $V_S$ =  shuruq
-        * If $R_2$ disappears, then $V_S$ = $V_1$ - in <span class="he">קָם</span> $V_S$ = Qamets
-* Exceptions where we accent after $V_S$:
-    * $V_S$ is a Sheva or Hateph vowel - Sheva/reduced vowels _never_ take an accent
-        * In the Perfect, we will see this in Qal Perfect 3fs and Qal Perfect 3cp
-    * The verb has a "heavy sufformative"
-        * A heavy sufformative pulls the accent
-        * There are two heavy sufformatives in the Perfect
-            * 2mp - תֶּ֫ם and 2fp - תֶּ֫ן
-    * The verb has a pronominal suffix
-    * $V_S$ is not one of the final two syllables
+    * As we said in the previous lesson, $V_S$ usually = $V_2$ - in <span class="he">קָטַל</span> $V_S$ = Patach
+    * If $R_2$ is a vowel letter, then $V_S$ = $V_1$ - in <span class="he">קוּם</span> $V_S$ =  Shuruq
+    * If $R_2$ disappears, then $V_S$ = $V_1$ - in <span class="he">קָם</span> $V_S$ = Qamets
+    
+::: {.box .caution}
+EXCEPTIONS
 
+* $V_S$ is a Sheva or Hateph vowel
+    * Sheva/reduced vowels _never_ take an accent
+    * In the Perfect, we will see this in QP3fs and QP3cp
+* The verb has a "heavy sufformative"
+    * A heavy sufformative takes the accent
+    * There are two heavy sufformatives in Hebrew:  2mp - תֶּ֫ם and 2fp - תֶּ֫ן
+* The verb has a pronominal suffix
+* $V_S$ is not one of the final two syllables
+
+:::
 
 ## A Sheva precedes a Finite Sufformative
 
+* This is a general rule that results in a Sheva under $R_3$ or $R_2$
+* Of course, when it is under $R_2$, this means the Sheva displaces $V_S$
+* Because of this rule, when the sufformative has a בגדכפת letter (usually ת), that letter will take a Daghesh Lene
+    
+::: {.box .caution}
 The Sheva is rejected in the following circumstances:
 
 * A Sheva does not replace an unchangeable long vowel
 * A Sheva does not replace $V_1$ of the Qal Perfect (and only the Qal Perfect)
 * When $R_3$ is <span class="he">א</span>, the א quiesces (generally resulting in Compensatory Lengthening of $V_2$)
 
+:::
 
-If the sufformative has a בגדכפת letter (usually ת), that letter will take a Daghesh Lene
 
 
 
 ## Building the Qal Perfect Strong Paradigm
 
-Our general philosophy is to prepare you to read Hebrew.  While it is unlikely you will ever need to "inflect קתל into the Qal Perfect 2fs", understanding how we build the paradigm will not only prepare you to identify verbs in the Bible, it will prepare you do spot when deviations occur.
-
-Study the graphic and the steps below carefully.  It may seem confusing at first but, with practice, you'll get it.  You'll note that the steps work backwards from left to right
+* Understanding how we build the paradigm will prepare you to identify verbs in the Bible
+* It will also prepare you to spot when deviations occur in weak verbs
+* Study the graphic and the steps below carefully
+* It may be confusing at first, but over time, it will begin to make sense
 
 <img src="images/13.Qal_Perfect_Strong.gif" width="600pt" style="display: block; margin: auto;" />
 
-1. Add the perfect sufformatives (13.4)
-2. Put a Sheva before the sufformative (13.7)
+1. Add the perfect sufformatives 
+2. Put a Sheva before the sufformative 
     * 3fs/3cp - the Sheva can't go under $R_3$ because $R_3$ already has a vowel
         * A consonant can't have more than one vowel
         * For these forms, the Sheva goes under $R_2$
@@ -4623,22 +4696,19 @@ Study the graphic and the steps below carefully.  It may seem confusing at first
     * The metheg can denote that the vowel is Qamets followed by a vocal Sheva and not Qamets Hatuf followed by a Silent Sheva
     * The Hebrew Bible does not do this
     
-## Hearing the Qal Perfect Strong Paradigm
+## Qal Perfect Strong with Audio
 
-Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קתל and take note of pronunciation and accents.  
-
-<figure>
-    <figcaption>Qal Perfect Strong (Singular) read by Izzy</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/13.QPIzzy.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קטל and take note of pronunciation and accents.  
 
 
-<img src="images/13.qptable.png" width="700pt" style="display: block; margin: auto;" />
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">קָטַל</span>  | 3cp | <span class="he">קָטְלוּ</span> 
+| 3fs | <span class="he">קַטְלָה</span> | 
+| 2ms | <span class="he">קָטַ֫לְתָּ</span> | 2mp | <span class="he">קְטַלְתֶּם</span>
+| 2fs | <span class="he">קָטַ֫לְתְּ</span> | 2fp | <span class="he">קְטַלְתֶּן</span>
+| 1cs | <span class="he">קָטַ֫לְתִּי</span> | 1cp | <span class="he">קָטַ֫לנוּ</span>
+
 
 <figure>
     <figcaption>Qal Perfect Strong Paradigm from _Hebrew Quest_ Chapter 14</figcaption>
@@ -4652,43 +4722,53 @@ Below is the complete paradigm.  Be sure to listen to Izzy read the forms with t
 
 ## Worksheet: Qal Perfect Strong Paradigm {-}
 
-We are going to go a little out of order.  Normally, we save all of the activities for the end of the lesson, but here, we want you to pause and complete the [Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}.
+* We are going to go a little out of order
+* Typically, we save all of the activities for the end of the lesson, but here, we want you to pause and complete the [Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}.
 
 > Complete the paradigm from memory at least once, then return here and continue in the guidebook.
 
-We know you're tempted to keep on clicking to read the pages that follow.  Resist!
-
-Doing the worksheet now will maximize your learning time - in other words, the material that follows in this lesson will make more sense to you if you have the paradigm in your short-term memory.
+* We know you're tempted to keep on clicking to read the pages that follow.  Resist!
+* Doing the worksheet now will maximize your learning time
+* In other words, the material that follows in this lesson will make more sense to you if you have the paradigm in your short-term memory
 
 ## Qal Perfect Strong Examples
 
 * <span class="he">יָדַ֥ע</span>
-    * No Preformative + No sufformative =  __P3ms__ 
-    * $V_2$ = ַ  and $V_1$ is ָ   = __QP__
-        * $V_2$ can be ◌ָ  also
+    * No Preformative + No sufformative =  $P3ms$ conjugation
+    * $Pre =$ <span class="he">קָ</span> and  $V_2 = A$ are diagnostic of $Q$ stem
+        * In the Qal, $V_2$ can be ◌ָ  also
     * This combination of Preformatives, sufformatives, and vowels can only be Qal Perfect 3MS (QP3ms) - he knows
     * As we said in the introduction to Unit 3, you will start to see the cantillation marks in words and passages.  If you don't recognize a mark as a vowel, it is a cantillation mark.
 * <span class="he">שָׁמְר֤וּ</span>
-    * No preformative + וּ sufformative =  __P3cp__
-    * $V_2$ = ְ  and $V_1$ is ָ   = __QP__.  
-        * $V_2$ is Sheva, but we know that the Perfect sufformative is preceded by a Sheva whenever possible.  In the P3cp and P3fs, the sheva of the sufformative displaces $V_2$.  If we know our vocab, we also know that the Lexical form is <span class="he">שָׁמַר</span>.
+    * No preformative + וּ sufformative = $P3cp$ conjugation
+    * $Pre =$ <span class="he">קָ</span> is diagnostic of $Q$ stem
+        * $V_2$ is Sheva
+        * The Perfect sufformative is preceded by a Sheva whenever possible
+        * In the P3cp and P3fs, the Sheva of the sufformative displaces $V_2$
+        * If we know our vocab, we also understand that the Lexical form is <span class="he">שָׁמַר</span>.
     * שָׁמְר֤וּ is Qal Perfect 3cp (QP3cp) - they guarded/observed
 
-* As we will learn in Unit 4, when there are no other signs of a different stem we can default to Qal, since Qal is the most common
-* As with <span class="he">זָכָ֑רְתְּ<span>, there are times where $V_2$ is Qamets instead of Patach - these are just spelling variants that occur over the many hundreds of years the Tanach was written.  There is nothing otherwise to suggest that these are not Qal verbs
+::: {.box .map}
+NAVIGATION TIP
+
+* As we will learn in Unit 4 when there are no other signs of a different stem we can default to Qal; this is because Qal is the most common stem
+* As with <span class="he">זָכָ֑רְתְּ<span>, there are times where $V_2$ is Qamets instead of Patach.
+    * These are often spelling variants that occur over the many hundreds of years the Tanach was written<small>^[<small>This is not unlike seeing "olde" or even "auld" on an English document from a few hundred years ago.  We know they both mean "old"</small>]</small>
+    * There is nothing otherwise to suggest that these are not Qal verbs
+
+:::
 
 ## Deviations from the Paradigm
 
-* As we talked about in Lesson 12, what makes a verb "weak" versus "strong" is when one or more letters cause a deviation from the strong verb paradigm.  
-* While the bulk of the discussion on weak verbs will be in Lesson 14, there are three weak forms we will introduce here.  
-    * Words where $R_3$ = <span class="he">נ</span>, which we abbreviate as 3נ or sometimes III-נ
-    * Words where $R_3$ = <span class="he">ת</span>, called 3ת or III-ת
-    * Stative verbs where $V_2$ is not always Pathach
-* Studying these now will demonstrate how you can use your knowledge of the Perfect Strong paradigm to determine the stem and conjugation of weak verbs. 
+* As we talked about in Lesson 12, what makes a verb "weak" versus "strong" is when one or more letters cause a deviation from the strong verb paradigm
+* While the bulk of the discussion on weak verbs will be in Lesson 14, there are three weak forms we will introduce in this lesson: 
+    * Words where $R_3$ = <span class="he">נ</span>, which we abbreviate as  or sometimes III-נ (pronounced as, "third nun")
+    * Words where $R_3$ = <span class="he">ת</span>, called  or III-ת
+    * Stative verbs where $V_2$ is not always Patach
 
 > In most cases, you already know the behaviors of "weak" letters!  
 
-While "stative" verbs may be a new concept, we have already discussed the tendency of ת and נ to assimilate under certain circumstances.  This is exactly what is happening when we encounter 3ת and 3נ verbs.
+While "stative" verbs may be a new concept, we have already discussed the tendency of ת and נ to assimilate under certain circumstances.  This is what happens when we encounter 3ת and 3נ verbs.
 
 ## 3נ and 3ת Verbs
 
@@ -4710,40 +4790,39 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
 
 * Stative verbs describe a state of being, such as "wise", "old", or even "dead"
 * The $V_S$ may change in some forms
-    * There is what is called a "Patach Stative", that prefers $V_S$ of (wait for it...) Patach
+    * There is what is called a "Patach Stative" that prefers $V_S$ of (wait for it...) Patach
         * Since Qal Perfect _already_ prefers a $V_S$ of Patach, there is no visible change
-        * Patach Stative has a different $V_S$ in the Imperfect conjugiation
+        * Patach Stative has a different $V_S$ in the Imperfect conjugation
         * <span class="he">גָּדַ֫ל</span>, "he is great" is an example - this word maintains the Perfect Strong paradigm all the way through
     * Tsere Stative has $V_S$ of Tsere in the P3ms ONLY
         * <span class="he">כָּבֵ֫ד</span> = "he is honored"
         * All other PGN follow the Perfect Strong
     * Holem Stative has $V_S$ of Holem in P3ms, P2ms, and P1cp
         * Holem Statives are relatively rare and do not even appear in the Bible as P2fs or any of the plural forms other than P1cp
-        * <span class="he">יַכֹ֫ל</span> = "he is able to"
+        * <span class="he">יַכֹ֫ל</span> = "he is able to" or "he can"
         * <span class="he">קָטֹ֫נְתִּי</span> = "I am small"
             * Note the נְ DOES NOT assimilate - Hebrew likes to keep you guessing!
-            * While we could ask, "Why didn't this assimilate?", this is not going to be very productive or satisfying in the long run. 
             * When you see only $R_1$ and $R_2$, and then a Daghesh Forte in the next consonant, it's better to ask "did $R_3$ assimilate?"
 
 
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/PuYs3ZTVXVg){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/PuYs3ZTVXVg" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/PuYs3ZTVXVg){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/kgMX1hbnbSE){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/kgMX1hbnbSE" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/kgMX1hbnbSE){target="_blank"}
 
 ## Anki {-}
 
@@ -4752,7 +4831,7 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
 * `Lesson 13 C. Workbook` 
     * The verb parsing exercises are taking directly from the Study Verses
     * As we will learn next week, "weak" verbs are a lot more common than "strong" verbs
-    * Even though we will formally study weak verbs in Lesson 14, you should be able to use your knowledge of $V_1$ and the Perfect preformatives, to determine the parsing solution
+    * Even though we will formally study weak verbs in Lesson 14, you should be able to use your knowledge of $V_1$ and the Perfect preformatives to determine the parsing solution
         * Of course, we've only studied the Qal Perfect!
         * When you encounter a "weak" verb, such as <span class="he">מָלְאָ֥ה</span>, which is 3א, or <span class="he">יָדָ֔עוּ</span>, which is 3עח (A ח or ע as $R_3$), try to see what changes occur (based on what you already know about Gutturals)
 * `Lesson 13 D. Study Verses`
@@ -4805,7 +4884,7 @@ YOUR HEBREW QUEST:
     1. [Proverbs #6](https://holylanguage.com/proverbs-6.php){target="_blank"}
     1. [Proverbs #7](https://holylanguage.com/proverbs-7.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
 
@@ -4862,7 +4941,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-72)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-71)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5015,7 +5094,7 @@ Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "re
 
 <div class="figure" style="text-align: center">
 <img src="images/14_gem_table.png" alt="Qal Perfect: Geminate/Strong Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-74)Qal Perfect: Geminate/Strong Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-73)Qal Perfect: Geminate/Strong Paradigms</p>
 </div>
 
 ::: {.box .map}
@@ -5043,7 +5122,7 @@ Review the table below, noting $V_1$ and accent changes:
 
 <div class="figure" style="text-align: center">
 <img src="images/14_bicons_table.png" alt="Qal Perfect: Biconsonantal/Strong Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-75)Qal Perfect: Biconsonantal/Strong Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-74)Qal Perfect: Biconsonantal/Strong Paradigms</p>
 </div>
 
 ## <span class="he">םוּת</span> is Biconsonantal and Stative
@@ -5055,7 +5134,7 @@ Review the table below, noting $V_1$ and accent changes:
 * Compare <span class="he">םוּת</span> and <span class="he">קוּם</span> in the table below:
 <div class="figure" style="text-align: center">
 <img src="images/14_moot_table.png" alt="Qal Perfect: &lt;U+05DE&gt;&lt;U+05D5&gt;&lt;U+05BC&gt;&lt;U+05EA&gt;/&lt;U+05E7&gt;&lt;U+05D5&gt;&lt;U+05BC&gt;&lt;U+05DD&gt; Paradigms" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-76)Qal Perfect: <U+05DE><U+05D5><U+05BC><U+05EA>/<U+05E7><U+05D5><U+05BC><U+05DD> Paradigms</p>
+<p class="caption">(\#fig:unnamed-chunk-75)Qal Perfect: <U+05DE><U+05D5><U+05BC><U+05EA>/<U+05E7><U+05D5><U+05BC><U+05DD> Paradigms</p>
 </div>
 
 ## Qal Perfect Quest Clues
@@ -5216,7 +5295,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-77)Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-76)Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5484,7 +5563,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-81)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5908,7 +5987,7 @@ Like the dawning of a new day, after you complete this lesson, a majority the ve
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-83)Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-82)Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture
@@ -6158,7 +6237,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-84)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-83)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6452,7 +6531,7 @@ Meditate on that as you work through this lesson and, especially, as you study t
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-85)Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-84)Mount of Beatitudes path through olive grove - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6462,6 +6541,15 @@ Meditate on that as you work through this lesson and, especially, as you study t
 
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="400pt" style="display: block; margin: auto;" />
 
+## _Hebrew Quest_ Pronominal Suffixes
+
+Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the concepts Izzy discusses will be applicable to both Lesson 9 and 19. Since it may have been several weeks since you viewed this previously, we encourage you to review the video before starting this lesson.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=2731&end=3341&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=2731){target="_blank"}
 
 
 ## Hebrew Direct Object Pronouns
@@ -6630,7 +6718,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-86)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -6883,7 +6971,7 @@ This is a great picture of what the LORD means when He says He will "keep" us!
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-87)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -7082,7 +7170,7 @@ It's become a cliche for teachers to ask, "which of the four soils are you?"  In
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-88)Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -7319,7 +7407,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Statue of Elijah on Mount Carmel. This statue commemorates the events in 1 Kings 18 and the showdown between Elijah and our God, and the priests of Baal (one of whom is depicted at the bottom of the sculpture), and their God.  Our God proved He was greater. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7686,7 +7774,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8075,7 +8163,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8300,7 +8388,7 @@ __LESSON ITINERARY__
 
 <div class="figure" style="text-align: center">
 <img src="images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8659,7 +8747,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -8905,7 +8993,7 @@ Before continuing, can you describe the following concepts?
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-101)Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9178,7 +9266,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, a good 
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-104)Man with hands on sons for priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9286,7 +9374,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9613,7 +9701,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-107)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9774,7 +9862,7 @@ The Hebrew Quest Study Passage for this lesson is the story of David and Goliath
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10049,7 +10137,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10182,7 +10270,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10452,7 +10540,7 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-114)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10696,7 +10784,7 @@ The men and women who followed Yeshua became a safe and loving community. Same w
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-117)Chris Flanagan</p>
 </div>
 
 
