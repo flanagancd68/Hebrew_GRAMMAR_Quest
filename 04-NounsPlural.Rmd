@@ -301,7 +301,7 @@ The Lexical Form is the dictionary version of the word.
         * As you read your Hebrew Bible, you will invariably come across words you don't know.  
         * You will need to be able to break down a word into its Lexical form so you can look it up
         * In the [appendix](#lexicon), we have links to some lexicons (dictionaries) you may use with this course.  You can download an abridged version [here](./images/BBH_Lexicon.pdf){target="_blank"} 
-    * Future lessons will incorporate additional aspects into our parsing activities such as verb conjugation
+    * Future lessons will incorporate additional aspects into our parsing activities, such as verb conjugation
 * `Lesson 04 D. Study Verses`
     * We will continue with study verses that provide examples of the Lesson's vocabulary
     * Hints will be provided for less familiar verbs

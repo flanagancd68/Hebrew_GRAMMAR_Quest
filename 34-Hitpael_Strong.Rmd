@@ -21,9 +21,9 @@ There are just under 1000 instances of the Hitpael stem:
 
 *Then Hezekiah turned his face to the wall and prayed to Adonai (Isaiah 38:2)*
 
-Today in Jerusalem, the Western Wall is considered the holiest spot in Judaism.  It is said to be the closest spot one can get to the Holy of Holies.  While this wall was built in the time of King Herod (well after Hezekiah's time), modern Jews and God-fearing gentiles consider it an honor to be able to follow in the tradition of Hezekiah and pray at the wall. 
+Today in Jerusalem, the Western Wall is considered the holiest spot in Judaism.  It is said to be the closest spot one can get to the Holy of Holies.  While this wall was built in King Herod's time (well after Hezekiah), modern Jews and God-fearing gentiles consider it an honor to be able to follow in the tradition of Hezekiah and pray at the wall. 
 
-While we may be physicially removed from Jerusalem and the Western Wall, like Daniel, we can turn towards Jerusalem and bring our petitions to HaShem just as Hezekiah did centuries ago.  
+Many of us may be physically removed from Jerusalem and the Western Wall.  Like Daniel who was also hundreds of miles away, we can still turn towards Jerusalem and bring our petitions to HaShem just as Hezekiah did centuries ago.  
 
 Why don't you stop what you're doing and pray towards Jerusalem right now?
 
@@ -48,7 +48,7 @@ knitr::include_graphics("images/34.Men praying at Western Wall, tb090705000.jpg"
 
 
 
-## Meaning
+## Meaning of Hitpael
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -62,13 +62,13 @@ Meanings:
     * Q - to be holy
     * D - to be sanctified
     * tD - to sanctify oneself
-        * Because this is the most common use, the parsing code is tD - t because a Hitpael preformative always contains ת, and D because, like the Piel, $R_2$ takes a Doubling Daghesh Forte (if possible)
+        * Because this is the most common use, the parsing code is tD - t because a Hitpael preformative always contains ת, and D because like the Piel, $R_2$ takes a Doubling Daghesh Forte (if possible)
 * Reciprocal - <span class="he">ראה</span>
     * Q - to see
     * tD - to look at one another
 * Iterative - <span class="he">הלך</span>
     * Q - to walk
-    * tD - to walk back and forth, or, to walk (as a way of life)
+    * tD - to walk back and forth, or to walk (as a way of life)
 * Simple active - <span class="he">פלל</span>
     * tD - to pray
 
@@ -82,7 +82,7 @@ The Hitpael is probably the easiest stem to identify:
         * tDI1cs preformative is <span class="he">אֶתְ</span>
     * <span class="he">מִתְקַטֶּל</span> - tDPtms
     * The preformative always has <span class="he"> תְ ִ </span> (except for I1cs)
-        * So, if a verb begins with "hIT", "yIT", "mIT", etc, (and $R_1$ is not ת or ט) it's probably Hitpael
+        * So, if a verb begins with "hIT", "yIT", "mIT", etc., (and $R_1$ is not ת or ט) it's probably Hitpael
         
 Also:
 
@@ -90,12 +90,15 @@ Also:
 * $V_1$ is Patach
 
 
-## Parsing Clues - $V_S = /bar E[A] /sim /bar E$
+## Parsing Clues - $V_S = \bar E[A] \sim \bar E$
 
-* tDP2ms and tDP1cs have $V_S$ = ַ , otherwise it's very consistent
 
-> The Preformative alone is sufficient to identify the Hitpael stem
 
+* tDP2ms and tDP1cs have $V_S = A$, otherwise it's very consistent
+
+::: {.box .light}
+The preformative alone is sufficient to identify the Hitpael stem  
+:::
 
 ## Perfect Strong
 
@@ -106,7 +109,7 @@ Also:
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">הִתְקַטֵּל</span>  | 3cp | <span class="he"> הִתְקַטְּלוּ</span
-| 3fs | <span class="he">הִתְקַטְּלָה</span> | 
+| 3fs | <span class="he">הִתְקַטְּלָה</span> | |
 | 2ms | <span class="he">הִתְקַטַּ֫לְתָּ</span> | 2ms | <span class="he">הִתְקַטַּלְתֶּם</span>
 | 2fs | <span class="he">הִתְקַטַּלְתְּ</span> | 2fs | <span class="he">הִתְקַטַּלְתֶּן</span>
 | 1cs | <span class="he">הִתְקַטַּ֫לְתִּי</span> | 1cs | <span class="he">הִתְקַטַּ֫לְנוּ</span>
@@ -197,23 +200,24 @@ HITPAEL | <span class="he">תִמְ</span>
 library(knitr)
 include_graphics("images/34_stemcomp.png")
 ```
+
 ## Word Warm-up {-}
-
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/U7bGSrESfco){target="_blank"}
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/U7bGSrESfco" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/U7bGSrESfco){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/unjNAqluDpk){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/unjNAqluDpk" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/unjNAqluDpk){target="_blank"}
 
 ## Hitpael Parsing Worksheet {-}
 
@@ -221,7 +225,7 @@ If you desire additional paradigm practice, you may use this [Hitpael parsing wo
 
 ## Ruth Pursuit Analysis
 
-It's time for the Final segment of translating Ruth .  We'll move on to "Scene 3" which concludes "Act 1": Ruth 1:19b-22
+It's time for the Final segment of translating Ruth.  We'll move on to "Scene 3" which concludes "Act 1": Ruth 1:19b-22
 
 ::: {.box .map}
 YOUR QUEST
@@ -238,7 +242,7 @@ YOUR QUEST
 
 <!-- Lesson 34 Tribe Badge 12 = ZEBULUN -->
 
-Check to be sure you have have completed <span class="he">all activities<span class="he"> through this lesson, then fill out the form below.
+Once you have completed <span class="he">all activities<span class="he"> through this lesson, fill out the form below, and receive your next badge!
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ejQEQDRGZJT1v8jE6" frameborder="0"></iframe>
@@ -262,7 +266,7 @@ YOUR HEBREW QUEST
 4. After the video, assess your translation.  How close was it?
     * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 6. Complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/38/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 :::

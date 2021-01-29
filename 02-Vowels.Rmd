@@ -152,15 +152,16 @@ If the Yod or Vav has a vowel of its own, then the Yod/Vav is a _consonant_, not
 * Where it can be useful is as shorthand
   * It would get wordy to write "Holem Vav" repeatedly
   * It's much less clutter to write the shorthand version based on transliteration: $\hat O$
+  * Often, the vowel marks in isolation can be difficult to detect; compare ֹ  with $\hat O$
 * As we move forward in the course, particularly in unit three, we will be making use of the vowel shorthand listed below
 
-::: {.map. info}
+::: {.map .info}
 
-* Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, and so forth for the remaining short vowels
-* Long Vowels (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
+* Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, $I$, Hireq, $O$ for Qamets Hatuf, and $U$, Qibbuts
+* Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
 * Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
-* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod, $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav; $\hat U$ = Shureq
-* Additionally, the ending Qamets+He = $\hat A$ and Sheva = $ə$
+* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod<small>^[<small>Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.</small>]</small>, $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
+* Additionally, we have the ending Qamets+He = $\hat A$, Vocal Sheva = $ə$, and $:$ for Silent Sheva<small>^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.</small>]</small>)
 
 :::
 
@@ -277,7 +278,7 @@ Congratulations on completing the vowels lesson.  Make sure you memorize the vow
 
 We're about halfway through the first stage of the course on Hebrew Grammar Foundations.  Keep going! You're doing great!  After you finish all of the activities for this lesson, you can claim the first of our `Twelve Tribes Badges`. 
 
-Take a moment to review the section headings on the screen's left side, before heading on to tackle the activities.
+Take a moment to review the section headings on the screen's left side before heading on to tackle the activities.
 
 
 ### Anki {-}

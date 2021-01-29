@@ -8,7 +8,7 @@ There is a unique aspect that makes identifying and parsing the ∞<small>^[<sma
 ::: {.box .map}
 __LESSON ITINERARY__
 
-1. Spelling of the Infinitive Construct
+1. Spelling  the Infinitive Construct
 1. Translating the Infinitive Construct
 1. Negating the Infinitive Construct
 :::
@@ -20,7 +20,9 @@ __LESSON ITINERARY__
 
 *Therefore, you shall keep the commandments of Adonai your God, to walk in His ways and to fear Him. (Deuteronomy 8:6)*
 
-It is easy to follow Adoni's commandments when they align with our desires.  When they do not align is when we face a more difficult decision: to follow in HIS ways or to continue in OUR ways.  In our Study Passage for this lesson, we will read the story of when Adonai commanded Abraham to sacrifice Isaac.  This passage is as beautiful as it is troubling.  How could Adonai ask such a thing?  How could Abraham willing obey so easily?  What is Adonai trying to teach us?  What would I do if God asked a difficult task of me?
+It is easy to follow Adoni's commandments when they align with our desires.  When they do not align, we face a more difficult decision.  Do we follow in HIS ways, or do we continue in OUR ways?
+
+In our _Hebrew Quest_ Study Passage for this lesson, we will read the story of when Adonai commanded Abraham to sacrifice Isaac.  This passage is as beautiful as it is troubling.  How could Adonai ask such a thing?  How could Abraham willingly obey so easily?  What is Adonai trying to teach us?  What would I do if God asked a difficult task of me?
 
 Ponder these things as you work through this Lesson and the study passage.
 
@@ -65,12 +67,11 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
     * The A NEVER takes a prefix or suffix
 
 
-
 ## Q∞ Spelling
 
-* For most verbs: **קְתֹל***
-    * 1G reduces as expected: **אֱמֹר***
-    * 3ח/ע can take a furtive patach, which is ignored when parsing: **שְׁלֹחַ***
+* For most verbs: <span class="he">קְתֹל</span>
+    * 1G reduces as expected: <span class="he">אֱמֹר</span>
+    * 3ח/ע can take a furtive patach, which is ignored when parsing: <span class="he">שְׁלֹחַ</span>
 
 ::: {.box .info}
 "uh-oh" is the sound a Q∞ (or QM2ms) strong verb makes
@@ -79,31 +80,36 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 ## 3ה Endings
 
 * As expected, when a 3ה verb has no sufformative, a vowel is added
-* For the ∞, this ending is **וֹת***
-    * The **וֹת*** remains when a pronominal suffix is added
-    * Note: in this use, **וֹת*** is not the FP ending - it would be incorrect to say "Q∞fp." ∞ verbs are never inflected for person, gender, or number.
+* For the ∞, this ending is <span class="he">וֹת</span>
+    * The <span class="he">וֹת</span> remains when a pronominal suffix is added
+    * Note: in this use, <span class="he">וֹת</span> is not the FP ending - it would be incorrect to say "Q∞fp." ∞ verbs are never inflected for person, gender, or number
+* Remember, ∞ verbs never inflect, so there will never be a sufformative; in other words, all 3ה ∞ verbs will have the <span class="he">וֹת</span> ending
+* We can continue building our 3ה ending table:
 
-| | Hebrew
-| :- | :-
-| P | <span class="he">בָּנָה</span>
-| I | <span class="he">יִבְנֶה</span>
-| M | <span class="he">בְּנֵה</span>
-| ∞ | <span class="he">בְּנוֹת</span>
+| Conj | Hebrew | Vowel
+| :- | :- | :-
+| P | <span class="he">בָּנָה</span> | Qamets+Hei
+| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
+| M | <span class="he">בְּנֵה</span> | Tsere+Hei
+| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
 
 ::: {.box .light}
 Memorize the 3ה endings as they will make parsing easier
 :::
 
 ::: {.box .caution}
-* **ּבָנוֹת*** is spelled with a Qamets and means "daughters"
+LOOK-ALIKE WORDS
+
+* <span class="he">ּבָנוֹת</span> is spelled with a Qamets and means "daughters"
 * <span class="he">בְּנוֹת</span> is reduced and means "to build, building"
+:::
 
 ## 1י and 1נ Spelling
 
 * Usually, but not always, drop the 1-yod/nun
-* When dropped, add a final **ת***, and change the vowels so that it looks like a Segholate noun
+* When dropped, add a final <span class="he">ת</span>, and change the vowels so that it looks like a Segholate noun
 
-* **הלך*** as always thinks it's a 1-yod
+* <span class="he">הלך</span> as always thinks it's a 1-yod
 
 | Root | Keep | Drop
 | :- | :- | :-
@@ -113,21 +119,21 @@ Memorize the 3ה endings as they will make parsing easier
 | <span class="he">הלך</span> | $\nexists$ | <span class="he">לֶ֫כֶת</span>
 
 ::: {.box .light}
-**נתנ*** is tricky _and common_
+<span class="he">נתנ</span> is tricky _and common_
 
-Memorize **תֵּת*** as Q∞ of נתן
+Memorize <span class="he">תֵּת</span> as Q∞ of נתן
 :::
 
 ## Biconsonantal
 
 * An easy one, as long as you've memorized your vocab!
 * The Q∞ of biconsonantal verbs is simply the lexical form
-    * **שׁוּב***
-    * **מוּת***
-    * **בּוֹא***
-    * **בּוֹשׁ***
-    * **דִּין***
-    * **בִּין***
+    * <span class="he">שׁוּב</span>
+    * <span class="he">מוּת</span>
+    * <span class="he">בּוֹא</span>
+    * <span class="he">בּוֹשׁ</span>
+    * <span class="he">דִּין</span>
+    * <span class="he">בִּין</span>
 
 ## Q∞ often is identical to QM2ms
 
@@ -138,7 +144,7 @@ Memorize **תֵּת*** as Q∞ of נתן
 ## ∞ take Type 1 Pronominal Suffixes
 
 * Q∞ and QM2ms with pronominal suffix are usually the same
-* Both shift vowels with $V_1 \ =$ Qamets Hatuf if pronominal suffix
+* Both shift vowels with $V_1 \ =$ Qamets Hatuf when there is a pronominal suffix
 * Nun-type suffixes ONLY occur with imperfects and imperatives
 
 
@@ -162,7 +168,7 @@ When affixed to an ∞ verb, the suffix can be the SUBJECT as well as the object
 
 * There are 6595 ∞ in the Bible
     * Only 896 do not have a prefixed preposition
-    * 68% have **ל***
+    * 68% have <span class="he">ל</span>
 
 ::: {.box .info}
 Since only ∞ and Participle can have a prefixed preposition, identifying and parsing the ∞ is usually easy!
@@ -173,27 +179,25 @@ Since only ∞ and Participle can have a prefixed preposition, identifying and p
 
 * Often used as a verbal noun - "to hear" or "hearing"
     * In English, "to hear", "to speak", or "to be" are examples of "infinitive" verbs.
-* ∞ plus prefix **ל*** 
-    * Try "to x" or "by xing"
-    * Sometimes indicates purpose or result: IN ORDER TO SEE the nakedness of the land = **לִרְאוֹת*** 
-    * Something imminent: The sun was ABOUT TO SET = **לָבוֹא***
-    * Verbal noun: It is good TO PRAISE Adonai = **לְהֹדוֹת***
-    * Verbal Noun: Obey BY WALKING in His ways = **לָלֶכֶת***
-* ∞ plus prefix **ב*** or **כ*** is often temporal
-    * Often included with **וַיְהִי*** or **וְהָיָה***
-    * Past time: WHEN Israel DWELT = **וַיְהִי בִּשְׁכֹּן יִשְֹרָאֵל***
-    * Future time: WHEN YOU CROSS = **וְהָיָה בְּעָבְרְכֶם***
+* ∞ plus prefix <span class="he">ל</span> 
+    * Try "to x" or "by x-ing"
+    * Sometimes indicates purpose or result: IN ORDER TO SEE the nakedness of the land = <span class="he">לִרְאוֹת</span> 
+    * Something imminent: The sun was ABOUT TO SET = <span class="he">לָבוֹא</span>
+    * Verbal noun: It is good TO PRAISE Adonai = <span class="he">לְהֹדוֹת</span>
+    * Verbal Noun: Obey BY WALKING in His ways = <span class="he">לָלֶכֶת</span>
+* ∞ plus prefix <span class="he">ב</span> or <span class="he">כ</span> is often temporal
+    * Often included with <span class="he">וַיְהִי</span> or <span class="he">וְהָיָה</span>
+    * Past time: WHEN Israel DWELT = <span class="he">וַיְהִי בִּשְׁכֹּן יִשְֹרָאֵל</span>
+    * Future time: WHEN YOU CROSS = <span class="he">וְהָיָה בְּעָבְרְכֶם</span>
 
 ## Negating the Infinitive
 
-* The negative particles **אַל *** and **לֹא *** are not used to negate the ∞
-* **בִּלְתִּי *** and **לְבִלְתִּי*** are used
-* There is no difference in meaning between the two words, but **לְבִלְתִּי***  is more frequent
-* Not to do all my commandments (Lev 26:15) = **לְבִלְתִּי עֲשׂוֹת אֶת־כָּל־מִצְוֺתַי***
+* The negative particles <span class="he">אַל </span> and <span class="he">לֹא </span> are not used to negate the ∞
+* <span class="he">בִּלְתִּי </span> and <span class="he">לְבִלְתִּי</span> are used
+* There is no difference in meaning between the two words, but <span class="he">לְבִלְתִּי</span>  is more frequent
+* Not to do all my commandments (Lev 26:15) = <span class="he">לְבִלְתִּי עֲשׂוֹת אֶת־כָּל־מִצְוֺתַי</span>
 
 ## Word Warm-up {-}
-
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/wrlzC0OAxoc){target="_blank"}
 
 
 <div class="container">
@@ -201,13 +205,15 @@ Since only ∞ and Participle can have a prefixed preposition, identifying and p
 </div>
 
 
-## Verses Warm-up {-}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/wrlzC0OAxoc){target="_blank"}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9eYgruFN7bM){target="_blank"}
+## Verses Warm-up {-}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/9eYgruFN7bM" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9eYgruFN7bM){target="_blank"}
 
 
 ## Ruth Pursuit {-}   
@@ -216,12 +222,12 @@ Since only ∞ and Participle can have a prefixed preposition, identifying and p
 YOUR QUEST
 
 1. Identify, parse, and translate the eleven Q∞
-    * Identify pronominal suffixes in the parsing, when present
+    * Identify pronominal suffixes in the parsing when present
     * All but two of these have prepositional prefixes
 2. Identify the Lesson 20 vocabulary word that negates an Infinitive (blue)
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #20](./images/20_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -232,10 +238,10 @@ YOUR QUEST
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of Genesis 22:1-19](https://docs.google.com/document/d/1zpIOg9zyDv_qPK9f69QexbIlBhH6wKO74YkPz3xpurI/edit?usp=sharing){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+1. Read through the passage - [Blank copy of Genesis 22:1-19](https://docs.google.com/document/d/1zpIOg9zyDv_qPK9f69QexbIlBhH6wKO74YkPz3xpurI/copy){target="_blank"}
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}), and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-22.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::

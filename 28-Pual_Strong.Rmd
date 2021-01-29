@@ -1,27 +1,25 @@
 # The Pual Stem - Strong Verbs {.Dp-s}
 
-The Pual stem has a diagnostic Qibbuts as $V_1$, making this stem super easy to recognize. 
+The Pual stem has a diagnostic Qibbuts as $V_1$, making this stem easy to recognize. 
 
 The Pual occurs 423 times in the Hebrew Bible: 
 
 * Perfect 146
 * Imperfect 85 
 * Participle: 190
-* The Pual never occurs in DpM, and occurs only once each in Dp∞ and DpA
+* The Pual never occurs in Imperative and occurs only once each in ∞ and Absolute.
 
 ::: {.box .map}
-<span class="he">LESSON ITINERARY<span class="he">
+__LESSON ITINERARY__
 
 1. Translate the Pual
 1. Recognize the Pual
 :::
 
 ::: {.box .stop}
-<span class="he">EQUIPMENT CHECK<span class="he">
+__EQUIPMENT CHECK__
 
-Before continuing, can you describe the following concepts?
-
-* The diagnostics of the Piel Strong Paradigm
+Before continuing, be sure you can describe the diagnostics of the Piel Strong Paradigm
 
 :::
 
@@ -29,8 +27,11 @@ Before continuing, can you describe the following concepts?
 
 ### <span class="he">בְּחֶ֣סֶד וֶ֭אֱמֶת יְכֻפַּ֣ר עָוֺ֑ן וּבְיִרְאַ֥ת יְ֝הוָ֗ה ס֣וּר מֵרָֽע׃</span> {-}
 
-*By lovingkindness and truth iniquity is atoned for, And by the fear of Adonai one keeps away from evil. (Proverbs 16:6)*
+*By lovingkindness and truth iniquity is atoned for, And by the fear of Adonai, one keeps away from evil. (Proverbs 16:6)*
 
+This verse is interesting.  Our traditional beliefs would probably be closer to "the fear of" Yeshua is what gives us atonement."  Similarly we might say that it is our actions, lovingkindness and truth, that keep us away from evil.  While these beliefs are not incorrect, this verse flips things around. 
+
+How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and truth can cover (כפר) our sins? 
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -45,20 +46,12 @@ Before continuing, can you describe the following concepts?
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Megiddo pass aerial from northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg")
 ``` 
 
 
-
-
-<!-- picture -->
-
-```{r, out.width = "400pt", fig.align='center'}
-
-knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
-``` 
 
 ## Pual Verb Stem Table and Meaning
 
@@ -85,12 +78,12 @@ The Pual is the Passive of the Piel, or sometimes, the passive of the Qal
 
 ## Parsing Clues - _Pre_: $V_1 = U$ - ALWAYS for strong verbs
 
-* The Pual is very consistent making it easily recognizable
+* The Pual is very consistent, making it easily recognizable
     * $V_1 = U$ - ALWAYS for strong verbs
 * Perfect: <span class="he">קֻטּ</span>
 * Imperfect: <span class="he">יְקֻטּּ</span>
-    * $V_P = \ :$ (I1cs/I1cp never occurs)
-* Parcitiple: <span class="he">ּמְקֻט</span>
+    * $V_P = ə$ (I1cs/I1cp never occurs)
+* Participle: <span class="he">מְקֻטּ</span>
 
 ::: {.box .light}
 The Qibbuts under the first root consonant distinguishes the Pual Form
@@ -131,7 +124,7 @@ Qibbuts in $V_1$ always
 | 1cs | <span class="he">קֻטַּ֫לְתִּי</span> | 1cp | <span class="he">קֻטַּ֫לְנוּ</span>
 
 <figure>
-    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <figcaption>Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
     <audio
         controls controlsList="nodownload"
         src="./images/28_pual_perfect.mp3">
@@ -209,30 +202,30 @@ library(knitr)
 include_graphics("images/28_stemcomp.png")
 ```
 
-## Worksheets: Pual Paradigm {-}
+## Worksheet: Pual Paradigm {-}
 
-After you have memorized the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
+After memorizing the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
 
 [Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
 
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/ujh7gojxD9Q){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/ujh7gojxD9Q" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/ujh7gojxD9Q){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/x6Sg3_NbX3w){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/x6Sg3_NbX3w" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/x6Sg3_NbX3w){target="_blank"}
 
 
 
@@ -253,14 +246,13 @@ YOUR QUEST
 
 :::
 
-This exercise is for you.  You do not have to turn this in and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their edification. 
 
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
 <!-- Lesson 28 Tribe Badge 10 = Reuben -->
 
-Check to be sure you have have completed all activities through this lesson, then fill out the form below.
+Once you have completed all activities through this lesson, fill out the form below to receive your next Badge.
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/QC5VgJExb9R89Yde8" frameborder="0"></iframe>
@@ -276,7 +268,7 @@ YOUR HEBREW QUEST
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
 4. After the video, compare your translation with versions such as ESV, NASB, NIV and/or NLT. How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
 

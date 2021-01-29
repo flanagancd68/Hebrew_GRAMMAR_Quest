@@ -1,4 +1,4 @@
-# Hebrew Adjectives
+# Hebrew Adjectives {#adjectives}
 
 > To comprehend Biblical Hebrew, we must be able to identify and translate an adjective based on its usage, gender, and number
 
@@ -136,11 +136,11 @@ ATTRIBUTIVE MNEMONIC
 
 * The Predicative use (often called the predicate use) asserts something about the noun
 * In English translation, we must insert the applicable form of the verb "to be"
-* The noun is the subject and the adjective is the predicate of the sentence: "The book is good."
+* The noun is the subject, and the adjective is the predicate of the sentence: "The book is good."
 * In some ways, the rules for Hebrew Predicative use are the opposite of Attributive rules
     * The Predicative adjective will NEVER have the article
     * The Predicative adjective can come before or after the noun
-    * The only ambiguity is when the both the adjective and noun are indefinite and the adjective comes after the noun
+    * The only ambiguity is when both the adjective and noun are indefinite and the adjective comes after the noun
 * Examples:
     * טוֹבָה הָאִשָּׁה - "the woman is good"
     * הָאִשָּׁה טוֹבָה - "the woman is good"
@@ -227,7 +227,7 @@ PREDICATIVE MNEMONIC
 
 ## Ruth Pursuit {-}        
 
-Curiously, there are a lack of adjectives in Ruth 1.  There are _participles_, which are verbal adjectives we will study in Lesson 22.  
+Curiously, there are a lack of adjectives in Ruth 1.  There are _participles_, which are verbal adjectives, we will study in Lesson 22.  
 
 ::: {.box .map}
 YOUR QUEST
@@ -265,7 +265,7 @@ Be sure to update your `Ruth Pursuit Translation Worksheet` with the findings fr
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
-When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` through Lesson 7, complete the certification below and your Dan badge and devotional will be on its way!
+When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` through Lesson 7, complete the certification below, and your Dan badge and devotional will be on their way!
 
 <!-- Tribe Badge 3 = Dan -->
 

@@ -14,7 +14,7 @@ We wanted to let you know of some changes:
 2. $Pre$ = a diagnostic word-initial combination
 3. Changes to Hebrew GRAMMAR Quest for Units 3 and 4
     1. No more quizzes!
-    2. Cantilation marks added to study verses
+    2. Cantillation marks added to study verses
     3. OPTIONAL _Hebrew Quest_ Study Passage Translation
 
 
@@ -22,33 +22,33 @@ We wanted to let you know of some changes:
 
 We will begin to use the vowel transliteration introduced in Lesson 2
 
-::: {.map. info}
+::: {.map .info}
 
-* Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, and so forth for the remaining short vowels
-* Long Vowels (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
+* Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, $I$, Hireq, $O$ for Qamets Hatuf, and $U$, Qibbuts
+* Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
 * Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
-* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod, $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav; $\hat U$ = Shureq
-* Additionally, the ending Qamets+He = $\hat A$ and Sheva = $ə$
+* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod<small>^[<small>Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.</small>]</small>, $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
+* Additionally, we have the ending Qamets+He = $\hat A$, Vocal Sheva = $ə$, and $:$ for Silent Sheva<small>^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.</small>]</small>)
 
 :::
 
-## Word Initial Combinations {-}
+## $Pre$ = Diagnostic Word-initial Combinations {-}
 
 * A Hebrew strong verb conjugation, regardless of the stem, can usually be identified based on its initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
 * For example, in Lesson 15, we will learn the "Imperfect Preformatives" (we'll describe what a preformative is a little later)
     * The 3ms and 3mp strong forms will always have:
         * Preformative consonant = Yod
-        * $V_P$ = Hireq, and
-        * $V_1$ = Silent Sheva
-    * We can shorten this by saying $Pre =$ <span class="he">יִקְ</span>, where ק represents $R_1$ of any strong verb
+        * $V_P = I$ (Hireq), and
+        * $V_1 = \ :$ (Silent Sheva)
+    * We can further shorten this by saying $Pre =$ <span class="he">יִקְ</span>, where ק represents $R_1$ of any strong verb
     * $Pre$ is not simply the verb's prefix or preformative, but the entire word-initial combination of preformatives, vowels, and possibly a Dagesh that can help us identify and translate a specific verb form
 
 ## Changes for Unit 3: No more quizzes! {-}
 
 * The quizzes in Units 1 and 2 provided a checkpoint before proceeding to the next lesson
     * We wanted to make sure you had the essential components of the lesson
-* At this stage of the course,we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
-* The overload workload is steadily increasing, and of course the Anki reviews are growing (so be sure to keep up with daily reviews!)
+* At this stage of the course, we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
+* The overload workload is steadily increasing, and of course, the Anki reviews are growing (so be sure to keep up with daily reviews!)
 
 ## Changes for Unit 3: Cantillation Marks added to Study Verses {-}
 
@@ -84,7 +84,7 @@ If you see a mark that is not a vowel you recognize (such as an upside-down wish
 :::
 
 ::: {.box .info}
-Trying to read with these marks can be visually distracting and overwhelming at first. With practice you will get used to them.  Cantillation marks are part of the rich tradition of Biblical Hebrew passed down to us from many centuries ago.
+Trying to read with these marks can be visually distracting and overwhelming at first. With practice, you will get used to them.  Cantillation marks are part of the rich tradition of Biblical Hebrew passed down to us from many centuries ago.
 
 :::
 
@@ -101,12 +101,12 @@ Trying to read with these marks can be visually distracting and overwhelming at 
     1. Download or print the applicable study passage document
     2. Read the passage straight through to gain an overview
     3. Read again, but this time, compose a translation
-        1. First see how much you can do without a reference
-        2. Then look up any words you don't know in a lexicon
-    4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights.  Izzy intentionally speaks very slowly so you may wish to increase the speed of the YouTube video
+        1. First, see how much you can do without a reference
+        2. Then, look up any words you don't know in a lexicon
+    4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights<small>^[<small>Note: Izzy intentionally speaks very slowly, so as you advance in Hebrew, you may wish to increase the speed of the YouTube video</small>]</small>.
         * As you are watching, compare your translation with Izzy's explanation
         * How did you do?  Can you see how much you are learning?
-        * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on part of speech and PGN information when you hover over a word
+        * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on parts of speech and PGN information when you hover over a word
     5. Ask what the Spirit of Holiness, the Ruach HaKodesh, is teaching you
 
 ## Lessons 13-16 are critical! {-}
@@ -127,9 +127,9 @@ knitr::include_graphics("images/11b.bethabara.JPG")
 * The rest of the course from Lessons 17-35 build upon Chapters 13-16
 
 
-## _Hebrew Quest_ Verb Summary Lecture
+## _Hebrew Quest_ Verb Summary Lecture {-}
 
-Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy's discussion on Hebrew verbs, we wanted to share it with you here.  Izzy offers tremendous encouragement for you which you can apply throughout your verbal journey. 
+Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy's discussion on Hebrew verbs, we wanted to share it with you here.  Izzy offers tremendous encouragement for you, which you can apply throughout your verbal journey. 
     
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=3343&end=3512&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>

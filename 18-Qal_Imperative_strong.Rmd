@@ -1,10 +1,10 @@
 # Qal Imperative {.QM}
 
-Lesson 18 marks the start of the second semester of a traditional first year Hebrew Course.  In other words, congratulations! You are halfway through the course!
+Lesson 18 marks the start of the second semester of a traditional first-year Hebrew Course.  In other words, congratulations! You are halfway through the course!
 
-Many students believe the second half of the course is easier than the first half.  Likely this is because, the foundational work is behind us and reading the Bible, while not yet fluid, is definitely becoming more enjoyable.
+Many students believe the second half of the course is easier than the first half.  This is because the foundational work is behind us; reading the Bible, while not yet fluid, is definitely becoming more enjoyable.
 
-We have covered the two major uses of the Qal stem: the Perfect and Imperfect (including the Waw-Consecutive).  For the remainder of Unit 3 we will round out our study of Qal Verbs with the Volitional forms (Lesson 18), the Infinitive forms (Lessons 20 and 21), and the Participle forms (Lesson 22).
+We have covered the two primary uses of the Qal stem: the Perfect and Imperfect (including the Waw-Consecutive).  For the remainder of Unit 3, we will round out our study of Qal Verbs with the Volitional forms (Lesson 18), the Infinitive forms (Lessons 20 and 21), and the Participle forms (Lesson 22).
 
 Keep going!
 
@@ -33,7 +33,7 @@ Before continuing, can you describe the following concepts?
 
 *Now, O Israel, listen to the statutes and the judgments which I am teaching you to perform (Deuteronomy 4:1)*
 
-The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 6. Yeshua quoted it as the "greatest commandment."  The Shema reminds us that we study Hebrew so that we may draw closer to Him and love Him with all that we are.
+The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 6. Yeshua quoted it as the "greatest commandment."  The Shema reminds us that we study Hebrew to draw closer to Him and love Him with all that we are.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -46,13 +46,10 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 </figure>
 
 
-
-
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/18_Mezuzah near Western Wall, tb091306071.jpg")
 ``` 
-
 
 
 ## _Hebrew Quest_ Qal Imperative Lecture
@@ -73,13 +70,13 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
     * Command or permission
     * Wish or desire
     * Purpose
-    * Occasionally, used to indicate a result (even if the result was not intended)
+    * Occasionally, used to indicate a result (even if that result was not intended)
 * The most common volitional form is the Imperative (Parsing code: M)
     * "Study!"
     * 2nd person
 * The Jussive (J) is the 3rd person volitional form
     * "May he study" or "she should study"
-    * 2nd person jussives exists
+    * 2nd person jussives exist
 * The Cohortative (C) is the 1st person volitional form
     * "Let us study"
     * "I shall run!"
@@ -88,16 +85,16 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 * Negative commands never use the imperative
 * לֹא + imperfect
-    * Absolute, permanent, blanket prohibition
+    * An absolute, permanent, blanket prohibition
     * You shall not murder (Ex 20:13)
 * אַל + jussive or cohortative
-    * Immediate, circumstance-specific prohibition
+    * An immediate, circumstance-specific prohibition
     * "Do not listen to your prophets!" (Jer 27:9)
     * In this context, Jeremiah is prohibiting the people from listening to FALSE, misguided prophets, not a blanket prohibition of ANY and ALL prophets
     * 2nd person jussives are used for negative commands
 
 
-## The Imperative is the Imperfect withoug the Imperfect Preformative
+## The Imperative is the Imperfect without the Imperfect Preformative
 
 * Apply Rule of Sheva to 2fs and 2mp
 
@@ -121,7 +118,7 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 ## <span class="he">נָה</span> can follow volitional verbs
 
 * <span class="he">נָה</span> may be independent or joined by maqqef
-* Scholars debate what this means, or whether it means anything
+* Scholars debate what this means or whether it means anything
 * "Please" or "now" have been suggested
 * May leave it untranslated depending on the context
 
@@ -134,34 +131,62 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 |  | QI3ms | QM2ms | QP3ms
 | :-  | :- | :-  | :-
 | Spell | <span class="he">תִּקְטֹל</span>  | <span class="he">קְטֹל</span>  | <span class="he">קָטַל</span>
-| $V_1$ | <span class="he">ְ</span>  | <span class="he">ְ</span>  | <span class="he">ָ</span>
-| $V_2$ | <span class="he">ֹ </span>  | <span class="he">ֹ </span>  | <span class="he">ַ </span>
+| $V_1$ |  $:$  |$ə$  | $\bar A$
+| $V_2$ | $\bar O$  |$\bar O$  | $A$
 
 ## Paragogic ה 
 
-* Paragogic ה on M2ms 311x<small>^[<small>Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."</small>]</small>.
-    * <span class="he">קְטֹל</span> or <span class="he">קָטְלָה</span> (Qamets Hatuf) - QM2ms with paragogic ה OR pronominal suffix (Lesson 19) prefers Qamets Hatuf
-    * NEVER directional ה on verbs
+* Paragogic ה is an extra ה appended to  M2ms<small>^[<small>Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."</small>]</small>
+* It occurs 311 times on M2ps forms
+    * <span class="he">קְטֹל</span> - regular QM2ms
+    * <span class="he">קָטְלָה</span> (Qamets Hatuf) - QM2ms with paragogic ה OR pronominal suffix (Lesson 19) 
+        * Note how $V_S = O$ (Qamets Hatuf)
+* We will NEVER see the directional ה on verbs, so we can rule that out
+* We will need to determine from the context whether the Qamets+Hei is paragogic or a pronominal suffix
 
 ## 3ה Verbs
 
 3rd ה verbs undergo the usual changes we have been studying. Now, we are adding a new (vowel) + ה ending for the Imperative:
 
 * No sufformative = Add ה vowel letter
-    * Perfect - <span class="he">ה ָ </span>
-    * Imperfect - <span class="he">ה ֶ </span>
-    * Imperative - <span class="he">ה ֵ </span>
-* If sufformative starts with vowel, use that for $V_2$
-* If sufformative starts with consonant, add Yod vowel letter
-    * Perfect - <span class="he">י ִ </span>
-    * Imperfect/Imperative - <span class="he">י ֶ </span>
-    
+    * Perfect - <span class="he">ה ָ </span> (Qamets+Hei)
+    * Imperfect - <span class="he">ה ֶ </span> (Seghol+Hei)
+    * Imperative - <span class="he">ה ֵ </span> (Tsere+Hei)
+* If sufformative starts with a vowel, use that vowel for $V_2$
+* If sufformative starts with a consonant, add (vowel)+Yod
+    * Perfect - <span class="he">י ִ </span> (Hireq+Yod)
+    * Imperfect/Imperative - <span class="he">י ֶ </span> (Seghol+Yod)
+
+## 3ה Comparison Table
+
+We can now add the Imperative to our table of 3ה verbs with no sufformative.
+
+| Conj | Hebrew | Vowel
+| :- | :- | :-
+| P | <span class="he">בָּנָה</span> | Qamets+Hei
+| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
+| M | <span class="he">בְּנֵה</span> | Tsere+Hei
+
+
+::: {.box .light}
+3ה ENDINGS
+
+* 3ה Verbs are frequent, so we will want to memorize these rules and endings
+* They are consistent throughout all stems; e.g., M2ms 3ה verbs end in (Tsere+Hei) in all seven stems
+
+:::
+
+
 ## 1נ and 1י
 
 * 1י drops in the QM
 * 1נ _sometimes_ drops in the QM
     * For example, נסע, נתן do; נפל does not
 * These have the Imperfect $V_S$, unless it has reduced
+
+::: {.box .light}
+Carefully study the verbs in the table below
+:::
 
 |  | QI2ms | QM2ms  | QM2mp | 
 | :-  | :- | :-  | :-  
@@ -174,7 +199,9 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## Biconsonantal and Geminate
 
-* Like 1נ and 1י above, if missing $R_1$ or $R_2$, keep Imperfect $V_S$ instead of reducing $V_1$
+* These verbs pose little problems
+* The imperfect preformative is dropped
+* The Imperfect $V_S$ is retained; since this is in the $V_1$ position, the vowel does not reduce
 
 | Verb | QI2ms | QM2ms
 | :- | :- | :-
@@ -184,10 +211,11 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 | <span class="he">סבב</span> | <span class="he">תָּסֹב</span> | <span class="he">סֹב </span>
 | <span class="he">תמם</span> | <span class="he">תֵּתַם</span> | <span class="he">תַּם</span>
 
-## QP3ms and QP2ms
+## Masculine Third Person QP and 2nd Person QM are potential look-alikes
 
-* These are going to be more challenging
-* QP doesn't drop $R_1$ when weak, whereas QI/QM do
+* QP3ms doesn't drop $R_1$ 
+* QP3ms has $V_1 = \bar A$ consistently
+* Memorizing the 3ה rules for each conjugation will help us distinguish
 
 | Type | QP3ms | QM2ms
 | :- | :- | :-
@@ -197,7 +225,6 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 | 3ה | <span class="he">בָּנָה</span> | <span class="he">בְּנֵה</span>
 | Bicons. | <span class="he">קָם </span> | <span class="he">קוּם</span>
 
-## QP3mp and QP2mp
 
 | Type | QP3mp | QM2mp
 | :- | :- | :-
@@ -207,13 +234,28 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 | 3ה | <span class="he">בָּנוּ </span> | <span class="he">בְּנוּ</span>
 | Bicons. | <span class="he">קָ֫מ </span> | <span class="he">ק֫וּמוּ </span>
 
-## Cohortative and Jussive
+## Cohortative and Jussive Introduction
 
 * These are more nuanced conjugations
-* They are usually spelled exactly like the imperfect
-* If context suggests volitional and it's the first word in its clause then parse as Cohortative (C) if 1st person, or Jussive (J) if 3rd (or sometimes 2nd) person
-* The Cohortative usually (but not always) ends in **ה ָ***
+* Cohortative (parsing code C)
+    * 1st person volitional
+    * Often translated as "let us...", or "may I..."
+* Jussive (parsing code J)
+    * 3rd Person volitional
+    * "let him...", "let them...", "may he..."
+* Often, the spelling of a Jussive is identical to the Imperfect
+    * Word placement in a clause is key to translation; see info box below
+* The Cohortative usually (but not always) ends in $\hat A$ (Qamets+Hei)
     * **אֶקְטְלָה*** = QC1cs
+* Less frequently, there are 2nd person Jussives
+    * Less forceful than a command
+    * For example, "would that you..."
+    
+::: {.box .info}
+IDENTIFYING THE COHORTATIVE/JUSSIVE
+
+If an Imperfect verb (without a Vav prefix) is the FIRST WORD in a clause, then see if a volitional translation fits better than an unnuanced Imperfect translation
+:::
 
 ## Some weak verbs often shorten the Jussive singular
 
@@ -226,26 +268,26 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/Ycsb8GLkFRA){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/Ycsb8GLkFRA" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/Ycsb8GLkFRA){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/3mMX0zLi0cU){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/3mMX0zLi0cU" frameborder="0"></iframe>
 </div>
 
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/3mMX0zLi0cU){target="_blank"}
 
-## Worksheets: Qal Volitional Forms {-}
 
-Complete the Qal Volitional paradigm from memory at least once.
+## Worksheet: Qal Volitional Forms {-}
+
+Write the Qal Volitional paradigm until you can complete it from memory at least once.  Focus on using the rules we have studied rather than forced memorization of the paradigm.
 
 
 [Qal Volitional Forms](18_qal_volitive_paradigm.pdf){target="_blank"}
@@ -269,11 +311,10 @@ YOUR QUEST
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/edit?usp=sharing){target="_blank"}
+1. Read  the passage - [Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
-Also, as desired, continue with Memrise for this and all future study passage sections
 :::

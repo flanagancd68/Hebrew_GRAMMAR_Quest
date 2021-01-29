@@ -1,20 +1,18 @@
 # Qal Participle {.QPt}
 
 
-> To comprehend Biblical Hebrew, we must be able to . . . 
+Participles are verbal adjectives.  For Hebrew, this means:
 
-Say something general bridging the desired outcome above with the learning objectives below
+* Participles inflect like adjectives: MS, FS, MP, and FP
+* Participles are used like adjectives: attributively, predicatively, and substantively
+
 
 ::: {.box .map}
 __LESSON ITINERARY__
 
-1. learning_objective_1
-1. learning_objective_2
-1. learning_objective_3
-1. learning_objective_4
-1. learning_objective_5
-1. learning_objective_6
-1. learning_objective_7
+1. Meaning of the Qal Participle
+1. Spelling of the Qal Participle
+
 :::
 
 ::: {.box .stop}
@@ -22,8 +20,11 @@ __EQUIPMENT CHECK__
 
 Before continuing, can you describe the following concepts?
 
-* 
-*
+* The three ways an adjective can be used
+* The four ways adjectives can inflect for person and number
+
+As needed, review [Lesson 7 on Adjectives](#adjectives) prior to beginning Lesson 22
+
 :::
 
 ##  First Thought {-}
@@ -32,9 +33,9 @@ Before continuing, can you describe the following concepts?
 
 *And those who know Your name will put their trust in You, For You, O LORD, have not forsaken those who seek You. (Psalms 9:11)*
 
-Our _Hebrew Quest_ study passage for this lesson is Matthew 13 and the parable of the sower. Yeshua clarifies that the "good soil" is someone who hears the word, understands it, and then does something with it.  In contrast the soil among the thorns is someone who hears the word but doesn't fully trust in Adonai or his promises, like the promise not to forsake us in Psalms 9:11.
+Our _Hebrew Quest_ study passage for this lesson is Matthew 13 and the parable of the sower. Yeshua clarifies that the "good soil" is someone who hears the word, understands it, and then does something with it.  In contrast, the soil among the thorns is someone who hears the word but doesn't fully trust in Adonai or his promises.  We see one of these promises in Psalms 9:11.
 
-It's become a cliche for teachers to ask, "which of the four soils are you?"  In truth for most of us, our lives at some point have reflected each of four soils.  So the better question to ask might be:
+It's become a cliche for Bible teachers to ask, "which of the four soils are you?"  In truth, for most of us, our lives at some point have reflected each of four soils.  So the better question to ask might be:
 
 > "Today, in the next 1440 minutes, how can I make sure that I am the 'good soil', trusting in Adonai, and producing a yield for the Kingdom?"
 
@@ -51,7 +52,7 @@ It's become a cliche for teachers to ask, "which of the four soils are you?"  In
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Cove of the Sower from east - suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). The acoustic properties of this region have been analyzed, with results indicating a person could be in a boat a few feet from the shore and, using a normal speaking voice, easily be heard by 'large crowds' scattered several hundred feet up the embankment. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/22_Cove of the Sower from east, tb112000201.jpg")
 ``` 
@@ -72,36 +73,49 @@ hfu4gjNo2K4?start=3664&end=3737&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 * Participles are non-finite because they do not have 1st, 2nd, or 3rd person
 * Since Participles are adjectives, the DO inflect for gender and number
     * They use the same adjectival endings we learned many lessons ago: MS, FS, MP, FP
-    * They are used like adjectives
-        * attributive: I saw running water
-            * Match the noun in gender, number, and definitness
+    * They are used as adjectives
+        * Attributive: I saw running water
+            * Match the noun in gender, number, and definiteness
             * Attributive Always After (the noun), Article Always Agrees (with definiteness of noun)
-        * predicative: The water is running
+        * Predicative: The water is running
             * Matches the subject in gender and number, but not definiteness
             * Predicate dePrived of the Article, Perhaps Precedes (the noun)
-        * substantival: running is good exercise
+        * Substantival: running is good exercise
             * Has the gender and number of the noun it is replacing
+
+::: {.box .info}
+Review [Lesson 7](#adjectives) if you need a review on adjectives
+:::
+
+## Qal Active and Passive Participles
+
 * The Qal (and only the Qal) stem has both active and passive particles
-    * Active: 
-        * Parsing code QPtms - Qal Participle masculine singular (no need to say "active")
-        * "He who blesses"
-        * Every Qpt can be identified by $V_1 = \hat O$  (defective Holem is more common than plene Holem+Vav
-            * Exception: biconsonantals have $V_1 = \bar A$ (Qamets)
-    * Passive: 
-        * Parsing code QPpMS - Qal Passive Participle Masculine Singular (important to denote "passive")
-        * "Blessed are you"
-        
-## Qal Participle
+* Active: 
+    * Parsing code QPtms - Qal Participle masculine singular (no need to say "active")
+    * "He who blesses"
+* Passive: 
+    * Parsing code QPpMS - Qal Passive Participle Masculine Singular (important to denote "passive")
+    * "Blessed are you"
+
+## Qal Participle Spelling
+
 
 * Participles use adjective endings and can appear in Absolute or Construct forms
 * Active
     * $V_1 = \bar O$ defective: Holem (more common than plene Holem+Vav)
-    * $V_2$ reduces before adjective endings
-    * The QPtFS "T" form is more common
+      * Every form except biconsonantal (which has $V_1 = \bar A$ (Qamets))
+    * $V_2$ 
+      * Usually $\bar E$ for Masculine singular: <span class="he">קֹטֵל</span>
+      * Reduces before adjective endings
+        * MP - <span class="he">קֹטְלִים</span>
+        * FP - <span class="he">קֹטְלוֹת</span>
+    * Two Feminine Singular variations
+      * Seghol+Tav - <span class="he">קֹטֶ֫לֶת</span> - MORE COMMON
+      * Qamets+Hei - <span class="he">קֹטְלָה</span> - Less common
 * Passive: 
     * Every QPp as $V_2 = \hat U$ plene: Shureq (more common than defective Qibbuts)
-    * Since $V_2 = \hat x$ it can't reduce; therefore $V_1$ will reduce before adjective endings
-    * No FS "T form
+    * Since $V_2 = \hat U$ it can't reduce; therefore $V_1$ will reduce before adjective endings
+    * No FS "T" form
 
  |Abs | Con
 :- | :- | :-
@@ -117,7 +131,7 @@ QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּ
 
 ## Prefixes and Suffixes
 
-* Like any adjective, the conjunction, the definite article, the interrogative article, and prepositions can be added to Participles
+* Like any adjective, the conjunction, the definite article, the interrogative particle, and prepositions can be added to Participles
     * Infinitive constructs and participles are the only verb conjugations that can take a prefixed preposition
 * Type 1 pronominal suffixes may be added to singular participles
 * Type 2 pronominal suffixes may be added to plural participles
@@ -134,35 +148,45 @@ QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּ
     * **בּוֹא*** - QM2ms, Q∞, QA
     * **קָמָה*** is QPtFS, but **קָ֫מָה*** (note accent) is QP3fs
     
-## 3ה were originally 3י
+## 3ה 
 
+* The "consonantal" ה drops in all forms of the Qpt
+  * In the MS, it is replaced by Seghol+Hei - <span class="he">בֹּנֶה</span>
+    * Although the final vowel is shared with the Imperfect, the Pt will never have an imperfect preformative
+    * Thus, there is little risk of confusing a 3ה Imperfect with a 3ה Participle
+  * In the FS, it is replaced by $\hat A$ (Qamets+Hei) - <span class="he">בֹּנָה</span> (the Tsere+Tav form $\nexists$))
+  * There is no vowel letter ה ִin the plural forms
 * The Yod reappears as $R_3$ in all forms of the QPp (and the non "T" form of QPtFS)
+  * <span class="he">בָּנוּי</span>
 
 ### We can now complete our 3ה $V_2$ table {-}
 
-* If no sufformative, use:
 
-| Conj. | Hebrew
-| :- | :-
-| P | <span class="he">בָּנָה</span>
-| I and Pp | <span class="he">יִבְנֶה</span>
-| M | <span class="he">בְּנֵה</span>
-| ∞ | <span class="he">בְּנוֹת</span>
-| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span>
-| QPp | <span class="he">בָנוּי</span>
+| Conj | Hebrew | Vowel
+| :- | :- | :-
+| P | <span class="he">בָּנָה</span> | Qamets+Hei
+| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
+| M | <span class="he">בְּנֵה</span> | Tsere+Hei
+| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
+| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
+| Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
 
-* If sufformatives begins with a vowel, use the sufformative vowel as $V_2$
-* If sufformative begins with a consonant
-    * Perfect $V_2$ - Hireq+Yod
-    * Imperfect $V_2$ - Seghol+Yod
-  
+::: {.box .map}
+MEMORIZE THE 3ה ENDINGS
+
+* As we get ready to journey into Unit 4, this table will be your friend!
+* These endings are the same throughout all the derived stems  
+:::
+
 ## Stem Comparison Table
 
-* Now that we have concluded our discussion on the Qal stem, take a moment to review this table showing the Perfect 3ms, the Imperfect 3ms, and the Participle ms strong verb forms
+* Now that we have concluded our discussion on the Qal stem, take a moment to review this table.
+* It currently shows the Perfect 3ms, the Imperfect 3ms, and the Participle ms strong verb forms for the Qal stem
+  * We will add the additional stems as we work through Unit 4
 * Take note of the $Pre$ patterns in red and the $V_S$ in blue
-    * When you are able to work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+    * When you can work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
 * The last column indicates the $V_S$ pattern for perfects on the left, and Imperfects/Imperatives/Infinitives on the right.
-* We will update this table as we conclude each additional stem in Unit 4
+
 
 ```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
@@ -182,26 +206,26 @@ hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/6inZWylM5U8){target="_blank"}
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/6inZWylM5U8" frameborder="0"></iframe>
 </div>
 
 
-## Verses Warm-up {-}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/6inZWylM5U8){target="_blank"}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/uCkJD0fhT74){target="_blank"}
+## Verses Warm-up {-}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/uCkJD0fhT74" frameborder="0"></iframe>
 </div>
 
 
-## Worksheets: All Qal Paradigms {-}
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/uCkJD0fhT74){target="_blank"}
 
-The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
+## Worksheet: All Qal Paradigms {-}
+
+The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
 
 [All Qal paradigms worksheet](22_qal_paradigms_strong_verbs.pdf){target="_blank"}
 
@@ -214,7 +238,7 @@ Identify the one Participle in Ruth 1.  You might recall that we discussed this 
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #22](./images/22_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -222,7 +246,7 @@ Identify the one Participle in Ruth 1.  You might recall that we discussed this 
 
 <!-- Lesson 22 Tribe Badge 8 = LEVI -->
 
-Check to be sure you have have completed all activities through this lesson, then fill out the form below.
+Once you have completed all activities through this lesson, complete the form below to receive your next badge!
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ncXmf7QRuoYCL3hz8" frameborder="0"></iframe>
@@ -240,6 +264,6 @@ YOUR HEBREW QUEST:
     * [Part 1](https://holylanguage.com/matthew-13.1.php){target="_blank"}
     * [Part 2](https://holylanguage.com/matthew-13.2.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::

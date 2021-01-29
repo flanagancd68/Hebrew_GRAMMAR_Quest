@@ -1,10 +1,10 @@
 # Introduction to Hebrew Verbs
 
-Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives, and prepositions, we will now turn our focus to verbs.
+Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives, and prepositions, we will now focus on verbs.
 
-Around 70% of Hebrew verbs are in what we call the Qal stem, so we will spend Lessons 13-22 learning that stem inside and out.  Qal verbs represents simple action. 
+Around 70% of Hebrew verbs are in what we call the Qal stem, so we will spend Lessons 13-22 learning that stem inside and out.  Qal verbs represent simple action. 
 
-Our quest is to translate accurately.  To do this, we must identify the root, stem, conjugation, person, gender, and number of verbs. This Lesson will provide a brief introduction to the verb system as a whole and some general conventions.
+Our quest is to translate accurately.  To do this, we must identify the root, stem, conjugation, person, gender, and number of verbs. This Lesson will provide a detailed introduction to the verb system as a whole and some general conventions.
 
 ::: {.box .map}
 LESSON ITINERARY
@@ -83,7 +83,7 @@ hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
     * In $a^2 + b^2 = c^2$, the letters "a", "b", and "c" have no direct, literal meaning
     * In the Pythagorean formula above, "a", "b", and "c" are meant to represent the lengths of the three sides of a right triangle
 * We encourage you to think of <span class="he">קטל</span> the same way - they are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
-    * Also, like Izzy says, we can always think of <span class="he">קטל</span> as "killing" sin, bad habits, or things that can interfere in our relationship with the Holy One.
+    * Also, like Izzy says, we can always think of <span class="he">קטל</span> as "killing" sin, bad habits, or things that can interfere in our relationship with the Holy One
     
 ## The Verbal Root
 
@@ -91,15 +91,16 @@ hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 * The majority of verbs have three _root consonants_ from which the other words are derived.
 * Consider the root <span class="he">מלך</span>; the graphic below lists just a few of the nouns and verbs that derive from this single root
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 
 knitr::include_graphics("images/12-verb-root.gif")
 ``` 
+
 ## Inflecting and Parsing Review
 
 * Back in Lesson 4, we discussed the difference between "inflecting" and "parsing"
-* Inflecting is when we take a root such as <span class="he">מלך</span> and transform it by adding vowels, prefixes or suffixes to generate a specific form with a unique meaning
-    * For example, if you were told to inflect <span class="he">מלך</span> into Qal Perfect first person, common singular (QP1cs), you would provide "<span class="he">מָלַכְתִּי</span>"
+* Inflecting is when we take a verb root such as <span class="he">מלך</span> and transform it by adding vowels, prefixes or suffixes to generate a specific form with a unique meaning
+    * For example, if you were told to inflect <span class="he">מלך</span> into Qal Perfect first-person, common singular (QP1cs), you would provide "<span class="he">מָלַכְתִּי</span>"
 * As we said back in Lesson 4, no part of reading the Hebrew Bible requires you to inflect
 * Parsing can be thought of as going in the reverse direction
     * Say you encounter a verb such as "<span class="he">מָלַכְתִּי</span>"
@@ -171,17 +172,17 @@ On your quest to translate verbs, identifying preformatives and sufformatives on
 * Identifying a verbal vowel's position is necessary to determine the Verbal Root and the Stem
 * Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
     * The $V_S$ is usually $V_2$ 
-    * The vowel associated with $R_3$ turns out to be less important so we do not need to identify this
+    * The vowel associated with $R_3$ turns out to be less important, so we do not need to identify this
 * For the verb <span class="he">יִקְטְל֫וּהָ</span>
     * $V_P = I$ (remember I is shorthand for Hireq)
-    * $V_1$ is Silent Sheva
-    * $V_2$/$V_S$ are Vocal Sheva
-    * Note: while we have said Silent Sheva is technically not a vowel, it is occupying the vowel position of $R_1$ for this purpose, it is acceptable to say $V_1 = \ :$
+    * $V_1 = \ :$ (Silent Sheva)
+    * $V_2$/$V_S = ə$ (Vocal Sheva)
+    * Note: while we have said Silent Sheva is technically not a vowel, it is occupying the vowel position of $R_1$.  For this purpose, it is acceptable to say $V_1 = \ :$.
 
 
 ## _Hebrew Quest_ Verb Stems Lecture
 
-View this 8-minute overview video from _Hebrew Quest_ where Izzy provides a summary of the seven Hebrew verb stems. Note that the table Izzy uses has a slightly different layout from the table used later in this lesson, but both convey the same information.
+View this 8-minute overview video from _Hebrew Quest_ where Izzy summarizes the seven Hebrew verb stems. Note that the table Izzy uses has a slightly different layout from the table used later in this lesson, but both convey the same information.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=827&end=1268&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
@@ -315,8 +316,8 @@ Vav prefix
 * Weak verbs will have one or more weak letters that result in some deviation from the paradigm
     * For example the first video by Izzy, he mentioned how the נ in <span class="he">נתן</span> can disappear in certain forms
     * This is because נ is a weak letter
-* Strong verbs are "regular" and weak verbs are "irregular"
-* The next page lists some of the major weak categories
+* Strong verbs are "regular," and weak verbs are "irregular"
+* The next two pages list some of the major weak categories
 
 ## Weak Verbs
 
@@ -327,7 +328,7 @@ Vav prefix
         * Because this never happens to $R_1$ in the Qal Perfect, 1נ is strong in the Qal Perfect
         * We will learn this will happen in the imperfect, so 1נ is weak in that conjugation
         
-## Weak Verb Classes
+## Weak Verb Classes {#weak-class}
 
 * We classify weak verbs by their problem letter
     * 3נ, "third Nun," means that $R_3$ is נ, as in <span class="he">זקן</span>
@@ -342,7 +343,7 @@ Vav prefix
     * Biconsonantal (also called Hollow) - $R_2$ is a vowel letter <span class="he">בוֹא</span> <span class="he">שִׁים</span>* <span class="he">קוּם</span>*
     * Doubly Weak is any combination of two (or three) weak letters, as in <span class="he">עַלָה</span>
     
-## Weak Verbs Are Predictable
+## Weak Verbs Are Usually Predictable
 
 * The good news is when Hebrew verbs are weak, the behavior is usually predictable
 * In fact, you have already learned almost every behavior change we will encounter with weak verbs
@@ -356,13 +357,15 @@ Vav prefix
 * Older Hebrew Grammars focused on memorizing dozens of verb paradigm charts
 * Students had to memorize many different stems, conjugations, as well as strong and weak verb paradigms in those conjugations
 * In this course, you will memorize only a handful of paradigms in the Qal Stem
-* From here we will be on a quest for pattern recognition
+* From here, we will be on a quest for pattern recognition
 * Think of it like this: instead of taking a traditional approach to learning a language by brute-force, rote memorization, we are going to take more of a mathematical approach
     * A mathematician doesn't brute-force memorize the solution to every possible problem
     * She or he uses a series of formulas and plugs the specifics into the most appropriate formula for the situation
-    * For example, consider the formula for the area of a square :$Area = S^2$ - the length of one of its sides multiplied by itself
+    * For example, consider the formula for the area of a square: $Area = S^2$ - the length of one of its sides multiplied by itself
     * Studying Hebrew the old way would require you to memorize the areas of hundreds of different squares
-    * It is much simpler to memorize the formula, then when you encounter a square that has a side $s$ = 5, you can use the formula: $5^2$ to get the answer of $Area = 25$
+    * It is much simpler to memorize the formula
+        * Then when you encounter a square that has a side $S = 5$, you can use the formula: $5^2$ to get the answer of $Area = 25$
+        * If the next square you encounter has $S = 3$, you can use the same formula to get the answer $9$.
 * You will begin to see things in a special $formula font$ - we will use $this font$ when there are consistent patterns
     * For example, whenever you see $Pre =$, this tells you that the verb has a specific combination of prefixes/preformative letters, vowels, and possibly Dagesh Forte marks that are characteristic of that verb class
     
@@ -381,7 +384,7 @@ include_graphics("images/34_stemcomp.png")
 * You do not need to do anything with this table right now - we only want to show you how this relatively simple series of patterns will help you unlock the meaning of the Bible
 
 
-::: {.box . map}
+::: {.box .map}
 
 That's enough for this introduction to Hebrew verbs.  Let's get to the exercises!
 

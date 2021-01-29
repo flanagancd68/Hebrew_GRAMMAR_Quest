@@ -1,23 +1,21 @@
 # Qal Infinitive Absolute {.QA}
 
 
-Say something general bridging the desired outcome above with the learning objectives below
+The Qal Infinitive Absolute (abbreviated QA) is relatively infrequent, occurring 872 times.  It has a unique function, with no direct equivalent in English.  It generally adds emphasis to, or sometimes replaces another Hebrew verb entirely.  We will study a few of these different uses in this lesson.  We will also look at the functions of two articles,  יֵשׁ and אֵין.
 
 ::: {.box .map}
 __LESSON ITINERARY__
 
 1. Strong and weak verb spelling
 1. Meaning
-1. Compare Infinitve Construct with Infinitive absolute
+1. Compare Infinitive Construct with Infinitive absolute
 1. The articles יֵשׁ and אֵין
 :::
 
 ::: {.box .stop}
 __EQUIPMENT CHECK__
 
-Before continuing, can you describe the following concepts?
-
-* The spelling and meaning of Qal Infinitive Construct
+Before continuing, be sure you understand the spelling and meaning of Qal Infinitive Construct.
 
 :::
 
@@ -27,9 +25,12 @@ Before continuing, can you describe the following concepts?
 
 *"I will go down with you to Egypt, and I will also surely bring you up again (Genesis 46:4)*
 
-Our _Hebrew Quest_ Study Passage for this Lesson is the Pristly Blessing from Numbers 6, which begins, "the LORD bless you and keep you...". The LORD kept his promises to keep Israel when the nation was in Egypt.  This Lesson's grammar subject is the Infinitive Absolute.  This has no direct equivalent in English. In Hebrew, it is often used to emphasize another verb. When this happens, the verb being emphasized will be repeated, but in the Infinitive Absolute form. In, **אַעַלְךָ גַם־עָלֹה***, the literal translation might be "I will bring you up again bringing up", but what it means is "I will SURELY bring you up again," as if to say, "Don't worry! I am definitely bringing up out of Egypt. In fact, there is zero chance I will not bring you up!"  
+Our _Hebrew Quest_ Study Passage for this Lesson is the Priestly Blessing from Numbers 6, which begins, "the LORD bless you and keep you...". The LORD kept his promises to keep Israel when the nation was in Egypt.  This Lesson's grammar subject is the Infinitive Absolute.  In Hebrew, the Infinitive Absolute is often used to emphasize another verb. When this happens, the verb being emphasized will be repeated, but in the Infinitive Absolute form. 
 
-This is a great picture of what the LORD means when He says He will "keep" us!
+In, <span class="he">אַעַלְךָ גַם־עָלֹה</span>, the literal translation might be, "I will bring you up again bringing up."
+The _meaning_ of the phrase is, "I will SURELY bring you up again," as if to say, "Don't worry! I am definitely bringing up out of Egypt. In fact, there is zero chance I will not bring you up!"  
+
+This is an excellent picture of what the LORD means when He says He will "keep" us!
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -49,7 +50,7 @@ This is a great picture of what the LORD means when He says He will "keep" us!
 knitr::include_graphics("images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg")
 ``` 
 
-## _Hebrew Quest_ Qal Infinitves Lecture
+## _Hebrew Quest_ Qal Infinitives Lecture
 
 As needed, review this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs.
 
@@ -62,98 +63,104 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3505){target="_blank"}
 
 
-## QA
+## QA Spelling
 
-* Spelling
-    * Has a distinctive $V_2 = \hat O$ (Holem+Vav)
-    * **קָטוֹל*** or **קָטֹל*** (defective spelling)
-    * If the Q∞ was "uh-oh", then the QA is "ah-oh"
+* The QA has a distinctive $V_2 = \hat O$ (Holem+Vav)
+    * <span class="he">קָטוֹל</span> or <span class="he">קָטֹל</span> (defective spelling)
+* If the Q∞ was "uh-oh", then the QA is "ah-oh"
     * Most weak verbs follow the "ah-oh" pattern
-        * 3ע/ח verbs will take a Furtive Patach under $R_3$, but this affects pronunciation only (not parsing or translation)
-        * 3ה verbs can appear in two forms
-            * Holem+Hei = **עָשׂה ***
-            * Holem+Vav with no Hei = **עָשׂוֹ***
-        * Biconsonantal verbs, including I- and U-class typically take the Holem+Vav/Holem $V_S$
-            * **קוֹם *** or **שׂוֹם***
-            * O-class look the same in QA/Q∞/QM2ms = **בּוֹא ***
-                * Sometimes QA is defective = **בֹּא***
-        * Geminate verbs retain all three letters with $V_2 = \hat O$ - **סָבוֹב***
+    * 3ע/ח verbs will take a Furtive Patach under $R_3$ but this affects pronunciation only (not parsing or translation)
+    * 3ה verbs can appear in two forms
+        * Holem+Hei = <span class="he">עָשׂה </span>
+        * Holem+Vav with no Hei = <span class="he">עָשׂוֹ</span>
+    * Biconsonantal verbs, including I- and U-class usually take the Holem+Vav/Holem $V_S$
+        * <span class="he">קוֹם </span> or <span class="he">שׂוֹם</span>
+        * O-class look the same in QA/Q∞/QM2ms = <span class="he">בּוֹא </span>
+            * Sometimes QA is defective = <span class="he">בֹּא</span>
+    * Geminate verbs retain all three letters with $V_2 = \hat O$ - <span class="he">סָבוֹב</span>
 * Parsing (parsing code: A)
     * Never inflects for person, number, or gender
     * Never has a pronominal suffix
     * Never has a prefixed preposition
 
-## 3ה endings
+## 3ה Comparison Table
 
-| | Hebrew
-| :- | :-
-| P | <span class="he">בָּנָה</span>
-| I | <span class="he">יִבְנֶה</span>
-| M | <span class="he">בְּנֵה</span>
-| ∞ | <span class="he">בְּנוֹת</span>
-| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span>
+| Conj | Hebrew | Vowel
+| :- | :- | :-
+| P | <span class="he">בָּנָה</span> | Qamets+Hei
+| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
+| M | <span class="he">בְּנֵה</span> | Tsere+Hei
+| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
+| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
 
 ## Meaning of Infinitive Absolute
 
-* Emphasize a finite verb from the same root - the Infinitive Absolute form may appear before or after the finite verb
-    * In terms of certainty
-        * 2 Kings 1:16: **מוֹת תָּמוּת*** = you will surely die (lit: dying you will die)
-        * A mnemonic might be: "there is ABSOLUTE certainty you will die!"
-    * In terms of extent
-        * Judges 1:28: **וְהוֹרֵישׁ לֹא הוֹרִישׁוֹ*** = he did not completely drive him out (note these verbs are Hiphil, not Qal, hence no "ah-oh")
-* Substitute for another verb conjugation
-    * Often imperative - Deuteronomy 5:12: **שָׁמוֹר אֶת־יוֹם הַשַּׁבָּת*** = Observe Shabbat!
-* Ongoing action, often contemporaneous with another action
-    * 2 Sam 15:30: **וְעָלוּ עָלֹה וּבָכֹה*** = they went up, weeping as they went (lit: they went up, going up and weeping)
+* Frequently, the absolute serves to emphasize a finite verb from the same root
+* The Infinitive Absolute form may appear before or after the finite verb
+* The Absolute can emphasize the _CERTAINTY_
+    * 2 Kings 1:16: <span class="he">מוֹת תָּמוּת</span> =
+    * You will surely die (lit: dying you will die)
+    * There is zero chance you will NOT die
+    * A mnemonic might be: "there is ABSOLUTE certainty" that the verb's action will occur
+* The Absolute can emphasize the _EXTENT_
+    * Judges 1:28: <span class="he">וְהוֹרֵישׁ לֹא הוֹרִישׁוֹ</span>
+    * He did not completely drive him out (note these verbs are Hiphil stem)
+* The Absolute may _substitute_ for another verb conjugation
+    * Often, the absolute substitutes for an Imperative verb
+        * Deuteronomy 5:12: <span class="he">שָׁמוֹר אֶת־יוֹם הַשַּׁבָּת</span> 
+        * Observe Shabbat!
+* The Absolute can denote _ongoing action_ that is often contemporaneous with another action
+    * 2 Sam 15:30: <span class="he">וְעָלוּ עָלֹה וּבָכֹה</span> 
+    * They went up, weeping as they went (lit: they went up, going up and weeping)
 
-
-## Infinitive Construct vs Infinitive Absolute
+## Comparison of Infinitive Construct and Infinitive Absolute
 
 | | ∞ | A
 | :- | :- | :-
 PGN | No PGN | No PGN
-Paradigm | **קְטֹל*** | **קָטוֹל***
+Paradigm | <span class="he">קְטֹל</span> | <span class="he">קָטוֹל</span>
 Sound | uh-oh | ah-oh
 1י and 1נ | Drop | Never Drop
-3ה | use **וֹת*** | 3ה use **ה ֹ *** or **וֹ***
-Bicons | use Lexical $V_S$ | use **וֹ***
+3ה | use <span class="he">וֹת</span> | 3ה use <span class="he">ה ֹ </span> or <span class="he">וֹ</span>
+Bicons | use Lexical $V_S$ | use $\hat O$ (<span class="he">וֹ</span>)
 Pron. suffix | Yes | Never
 Preposition prefix | Usually | Never
 Meaning | purpose/result | emphasize certainty
 English equivalent | Verbal noun "to do" or "doing" | No direct equivalent
 
-## **יֵשׁ *** and **אֵין *** 
+## יֵשׁ and אֵין 
 
-* These are particles that expresses the existence or non-existence of something or someone
-    * Mnemonics: 
-        * יֵשׁ sounds like "yes" as in "yes there are"
-        * אֵין sounds like "ain't" as in "ain't nothing or nobody"
-* Do not inflect for gender or number 
+* These are particles that assert the existence or non-existence of something or someone
+* Mnemonics: 
+    * יֵשׁ sounds like "yes" as in "yes there are"
+    * אֵין sounds like the English slang word "ain't," as in "ain't nothing or nobody"
+* These do not inflect for gender or number 
     * אֵין could mean "there is not" or "there are not"
-* When prefixed with **לְ***, indicates possession or non-possession
+* When prefixed with <span class="he">לְ</span>, indicates possession or non-possession
     * We saw this way back in the Lesson 3 `Study Verses`
-    * Genesis 44:20 - **יֶשׁ־לָנוּ אָב זָקֵן*** = we have an elderly father (lit: there is to us a father old)
+    * Genesis 44:20 - <span class="he">יֶשׁ־לָנוּ אָב זָקֵן</span> = we have an elderly father (lit: there is to us a father old)
 * Pronominal suffixes occur on יֵשׁ only 9 times, compared with 104 times on אֵין 
-    * 2 Kings 17:34: **אֵינָם יְרֵאִים*** = they do not fear
+    * 2 Kings 17:34: <span class="he">אֵינָם יְרֵאִים</span> = they do not fear
 
 
 ## Word Warm-up {-}
-
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/UWb_3JSv-mk){target="_blank"}
 
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/UWb_3JSv-mk" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/UWb_3JSv-mk){target="_blank"}
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/4-EL_lcP2xU){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/4-EL_lcP2xU" frameborder="0"></iframe>
 </div>
+
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/4-EL_lcP2xU){target="_blank"}
 
 
 
@@ -184,6 +191,6 @@ YOUR HEBREW QUEST:
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::

@@ -1,13 +1,13 @@
-# The Hithpael Stem - Weak Verbs {.Ht-w}
+# The Hitpael Stem - Weak Verbs {.Ht-w}
 
 > CONGRATULATIONS ON REACHING THE FINAL CHAPTER OF HEBREW GRAMMAR QUEST!
 
-In this Lesson we will briefly look at the spelling changes of the Hitpael weak verbs, a minor stem called the Hitpolel, and a second minor stem called Hishtapel that only has one word (but it's a very important word).
+In this lesson, we will briefly look at the spelling changes of the Hitpael weak verbs, a minor stem called the Hitpolel, and a second minor stem called Hishtapel that only has one word (but it's a very important word).
 
 ::: {.box .map}
 **LESSON ITINERARY**
 
-1. Understand key spelling changes in the Hitpael stem
+1. Understand fundamental spelling changes in the Hitpael stem
 1. Describe the Hitpolel minor stem
 1. Identify the Hishtapel minor stem in the Bible
 :::
@@ -15,9 +15,7 @@ In this Lesson we will briefly look at the spelling changes of the Hitpael weak 
 ::: {.box .stop}
 **EQUIPMENT CHECK**
 
-Before continuing, can you describe the following concepts?
-
-* You are able to identify the Hitpael preformatives in all conjugations.
+Before continuing, be sure you can identify the Hitpael preformatives in all conjugations.
 
 :::
 
@@ -25,9 +23,11 @@ Before continuing, can you describe the following concepts?
 
 ###  <span class="he">וְנָמַ֤סּוּ הֶֽהָרִים֙ תַּחְתָּ֔יו וְהָעֲמָקִ֖ים יִתְבַּקָּ֑עוּ כַּדּוֹנַג֙ מִפְּנֵ֣י הָאֵ֔שׁ כְּמַ֖יִם מֻגָּרִ֥ים בְּמוֹרָֽד׃ </span> {-}
 
-*The mountains will melt under Him And the valleys will be split, Like wax before the fire (Micah 1:4)*
+*The mountains will melt under Him, and the valleys will be split, like wax before the fire (Micah 1:4)*
 
-Our prayer at Holy Language Institute is that you have drawn closer to HaShem through Hebrew, His Holy Language.  While we are proud of you and excited for you that you have completed the course, we have an all-too-human tendency to boast in our success.  Let us give glory to Him who alone has the power to call down fire from heaven. The Hebrew Quest Study Passage for this Lesson is the story of Elijah on Mount Carmel in 1 Kings 18 where HaShem did exactly that.  May we always be reminded that we do all things through Yeshua who gives us strength.
+Our prayer at Holy Language Institute is that you have drawn closer to HaShem through Hebrew, His Holy Language.  We are extremely proud of you and excited that you have completed the course.  With that said, we know that, unless checked by the Spirit, we have an all-too-human tendency to boast in our success.  Let us give glory to Him who alone has the power to call down fire from heaven!
+
+The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel in 1 Kings 18. HaShem did precisely that. May we always be reminded that we do all things through Yeshua, who gives us strength.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -47,15 +47,6 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg")
 ``` 
 
-
-
-
-<!-- picture -->
-
-```{r, out.width = "400pt", fig.align='center'}
-
-knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
-``` 
 
 
 
@@ -86,7 +77,7 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 
 ## Preformative תְ assimilates when $R_1$ is ז ד ט ת,
 
-* If $R_1$ is ז ד ט ת (i.e. the "dental" letters) the ת of the Hithpael preformative will assimilate into $R_1$ and remain as a Daghesh Forte
+* If $R_1$ is ז ד ט ת (i.e., the "dental" letters) the ת of the Hithpael preformative will assimilate into $R_1$ and remain as a Daghesh Forte
 * This can present a potential ambiguity with Niphal; however, note $V_1$ is _QAMETS_ in Niphal compared to _PATACH_ in Hitpael, and $R_2$ will have a Daghesh Forte in Hitpael:
     * <span class="he">הִדַּבֵּר</span> - tDP3ms
     * <span class="he">הִדָּבֵר</span> -NM2ms 
@@ -106,20 +97,20 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 ## <span class="he">חָוָה </span> - Hishtapel Stem
 
 *  <span class="he">חָוָה </span> gets its own stem: Hishtapel
-*  <span class="he">חָוָה </span> occurrs 173 times in the Bible,  only in Hishtapel
-*  <span class="he">חוה</span> means: to prostrate oneself in worship (as to God, or another diety) or submission (as to a king)
+*  <span class="he">חָוָה </span> occurs 173 times in the Bible, only in Hishtapel
+*  <span class="he">חוה</span> means: to prostrate oneself in worship (as to God, or another deity) or submission (as to a king)
 
 * Since <span class="he">חָוָה </span> is a 3ה verb, it will consistently exhibit the distinctive 3ה endings
     * <span class="he">הִשְׁתַּחֲוָה</span> - HstP3ms - he worshipped
     * <span class="he">תִּשְׁתַּחֲוֶה</span> - HstI2ms - you will worship
     * <span class="he">הִשְׁתַּחֲווּ</span> - HstM2mp/HstP3mp - (you all) worship!/they worshipped
-    * <span class="he">הִשְׁתַּחֲוֹת</span> - Hst∞ - to worship, to bown down
+    * <span class="he">הִשְׁתַּחֲוֹת</span> - Hst∞ - to worship, to bow down
     * <span class="he">מִשְׁתַּחֲוֶה</span> - HstPtms - worshiping, bowing down
     
 * Bible Examples:
     * <span class="he">וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה</span>  - (and) they will worship Adonai (Isa 27:13)
     * <span class="he">וַיִּשְׁתַּחוּ אַבְרָהָם לִפְנֵי עַם הָאָרֶץ</span> - (and) Abraham bowed down before the people of the land (Gen 23:12)
-    * <span class="he">וְנִשְׁתַּחֲוֶה וְנָשׁוּבָה אֲלֵיכֶם</span> - (and) we will worship and we will return to you (Gen 22:5)
+    * <span class="he">וְנִשְׁתַּחֲוֶה וְנָשׁוּבָה אֲלֵיכֶם</span> - (and) we will worship, and we will return to you (Gen 22:5)
 
 
 ## Top 10 Hitpael Verbs
@@ -139,21 +130,21 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/lCKxr4BLfmM){target="_blank"}
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/lCKxr4BLfmM" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/lCKxr4BLfmM){target="_blank"}
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/G7286j0gy80){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/G7286j0gy80" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/G7286j0gy80){target="_blank"}
 
 
 
@@ -191,7 +182,7 @@ YOUR HEBREW QUEST
 4. After the video, assess your translation.  How close was it?
     * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 6. Complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/40/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 :::

@@ -4,7 +4,7 @@
 library(knitr)
 include_graphics("images/lexicon.jpg")
 ```
-The authors of <u>Basics of Biblical Hebrew</u> have created an abridged Lexicon to accompany this course.  This document is nice as vocabulary words are indexed to the Lesson #, and irregular plural forms and selected construct forms are also included.
+The authors of <u>Basics of Biblical Hebrew</u> have created an abridged Lexicon to accompany this course.  This document is beneficial       as vocabulary words are indexed to the Lesson #, and irregular plural forms and selected construct forms are also included.
 
 [Open/download BBH Lexicon](./images/BBH_Lexicon.pdf){target="_blank"}
 

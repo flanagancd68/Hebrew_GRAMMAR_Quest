@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 #biblio-style: APA-like
 link-citations: yes
 nocite: |
-    @rmarkdown2020, @bookdown2016, @stiles2013wsa, @pratico2007, @avraham2012, @beckman, @beckman2012, @delauro2009, @beckmana
+    @rmarkdown2020, @bookdown2016, @stiles2013wsa, @pratico2007, @avraham2012, @beckman, @beckman2012, @delauro2009, @beckmana, @chisholm2006, @chisholm1998
 description: "A Hebrew Grammar guidebook for students of Holy Language Institute."
 header-includes:
   - \usepackage{pdfpages}
@@ -58,7 +58,7 @@ Unless otherwise noted, English Scripture quotations taken from the NASB. Copyri
 
 Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version, copyright © 2001 by Good News Publishers. Used by permission. All rights reserved.
 
-Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the **Hebrew GRAMMAR Quest** format.  We encourage any of our students who wish to go further with Hebrew grammar to [purchase the book, or any related materials](#optional_resources){target="_blank"}.
+Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the **Hebrew GRAMMAR Quest** format.  We encourage any of our students who wish to go further with Hebrew grammar to [purchase the book or any related materials](#optional_resources){target="_blank"}.
 
 Additionally, our thanks to Dr. John Beckman for making his extensive library of materials to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
 
@@ -71,9 +71,9 @@ The photographs of Israel to begin each lesson are courtesy of the [Pictorial Li
 
 Biblical Hebrew text is courtesy of tanach.us (version 26.0). 
 
-Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/){target="_blank"} tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have been able to achieve those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free while maintaining a professional look.
+Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/){target="_blank"} tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have achieved those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free while maintaining a professional look.
 
-We believe we have made reasonable attempts to acknowledge our sources where indicated. Notwithstanding these attempts, this work, including related materials and videos, may contain certain copyrighted works which we nonetheless believe in good faith are protected by United States federal law and the fair use doctrine.  Section 107 of the U.S. Copyright Act allows for reproduction for purposes such as teaching, scholarship, or research.   Concerns related to a citation/copyright matter may be directed to "contact at holylanguage dot com" for review and, as needed, acknowledgment.
+We believe we have made reasonable attempts to acknowledge our sources where indicated. Notwithstanding these attempts, this work, including related materials and videos, may contain certain copyrighted works that we nonetheless believe in good faith are protected by United States federal law and the fair use doctrine.  Section 107 of the U.S. Copyright Act allows for reproduction for purposes such as teaching, scholarship, or research.   Concerns related to a citation/copyright matter may be directed to "contact at holylanguage dot com" for review and, as needed, acknowledgment.
 
 </small>
 

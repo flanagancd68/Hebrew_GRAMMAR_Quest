@@ -1,12 +1,12 @@
 # Qal Imperfect - Strong Verbs {.QI-s}
 
-> To comprehend Biblical Hebrew, we must be able to parse and translate Qal imperfect verbs
+To comprehend Biblical Hebrew, we must be able to parse and translate Qal imperfect verbs
 
-In a few lessons, we will learn about the Vav Conjunction.  The Vav Conjunction + the Qal imperfect is the most frequent verb form in the Hebrew Bible, so understanding the imperfect is essential.  Like the Qal Perfect Strong paradigm, we must have robotic-like recall of the Qal Imperfect Strong Paradigm.
+In a few lessons, we will learn about the Vav Conjunction.  The Vav Conjunction + the Qal imperfect is the most frequent verb form in the Hebrew Bible, so understanding the imperfect is essential.  Like the Qal Perfect Strong paradigm, we must have a robotic-like recall of the Qal Imperfect Strong Paradigm.
 
 <span class="he">וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר׃</span>
 
-You might recognize this from Genesis 1:3 - "And God said, let there be light; and there was light."  There are three verbs in this short sentence and all three are Qal Imperfect.
+You might recognize this from Genesis 1:3 - "And God said, 'Let there be light'; and there was light."  There are three verbs in this short sentence, and all three are Qal Imperfect.
 
 ::: {.box .map}
 LESSON ITINERARY
@@ -14,28 +14,26 @@ LESSON ITINERARY
 1. Imperfect is future, modal, or imperfective
 1. Components of the Qal Imperfect Strong Paradigm
     1. The Imperfect Preformatives and Sufformatives
-    1. The Qal Imerfect Vowels
-1. Building the Qal Imerfect Paradigm
+    1. The Qal Imperfect Vowels
+1. Building the Qal Imperfect Paradigm
 1. Deviations from the Strong Paradigm
 1. Negative Commands
 :::
 
 ::: {.box .stop}
-<span class="he">EQUIPMENT CHECK<span class="he">
+EQUIPMENT CHECK
 
-Before continuing, can you describe the following concepts?
-
-The Qal Perfect Strong Paradigm, from memory
+Before continuing, can you describe the Qal Perfect Strong Paradigm from memory?
 
 :::
 
 ## First Thought {-}
 
-### <span class="he">יִ֝שְׁמֹ֗ר כָּל־אָרְחֹתָֽי׃ </span> {-}
+### <span class="he">יִ֝שְׁמֹ֗ר כָּל־אָרְחֹתָֽי </span> {-}
 
 *He watches all my paths (Job 33:11)*
 
-There's a story of a small child who was beginning to understand the implications of God's power.  "Do you mean God is watching everything I do?", the child asked with mounting fear.  Her father quickly replied, "God loves you so much, He can't take His eyes of you."
+There's a story of a small child who was beginning to understand the implications of God's power.  "Do you mean God is watching everything I do?" the child asked with mounting fear.  Her father quickly replied, "God loves you so much, He can't take His eyes off you."
 
 Let that sink in as you study Biblical Hebrew.
 
@@ -53,7 +51,7 @@ Let that sink in as you study Biblical Hebrew.
 
 
 
-```{r, out.width = "600pt", fig.align='center', fig.cap="Ascent of Adummim Roman road remains - this was the main route from Jericho to Jerusalem in antiquity. It was notoriously trecharous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/15.Ascent of Adummim Roman road remains, tb113006725.jpg")
 ``` 
@@ -78,7 +76,7 @@ hfu4gjNo2K4?start=3044&end=3308&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 * When the Imperfect does not begin a clause . . .
     * future, "I will run"
     * imperfective, "I am running" or "I was running"
-* When the Imperfect begins a clause (and does not have a Vav Consecutive prefix<small>^[<small>An imperfect verb _with_ the Vav Consuctive changes the verb's aspect to Perfect.  We'll study this in Lesson 17.</small>]</small> . . .
+* When the Imperfect begins a clause (and does not have a Vav Consecutive prefix)<small>^[<small>An imperfect verb _with_ the Vav Consuctive changes the verb's aspect to Perfect.  We'll study this in Lesson 17.</small>]</small> . . .
     * modal, cohortative: "I should run" or "I might run" or "let us run"
     * modal, jussive: "may he run"
     * We will study the modal forms in greater detail in Lesson 18
@@ -104,8 +102,11 @@ Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ combination
     *  <span class="he">ְ יִ</span> for 3ms, 3mp
     *  <span class="he">ְ נִ</span> for 1cp
     *  <span class="he">ְ תִּ</span> for all others except 1cs
-* 1cs begins with Aleph+Seghol+Silent Sheva **ְ אֶ***
+* 1cs begins with Aleph+Seghol+Silent Sheva <span class="he">ְ אֶ</span>
 * The vowels behave as if they were from the Rule of Sheva (they aren't)
+* We can summarize this by saying, "for the QI, $Pre =$ <span class="he">יִקְ</span>
+    * <span class="he">יִ</span> represents any of the Imperfect preformatives with a Hireq or <span class="he">אֶ</span>
+    * <span class="he">קְ</span> represents any strong letter in $R_1$ with a Silent Sheva
 
 ```{r, out.width = "400pt", fig.align='center'}
 
@@ -116,25 +117,25 @@ knitr::include_graphics("images/15-rule-of-sheva.png")
 ## Imperfect Sufformatives
 
 * Of the singular forms, only 2fs has a sufformative
-    * It is **י ִ***
-    * The **ְ תִּ*** preformative with the **י ִ*** sufformative is diagnostic of the QI2fs
+    * It is <span class="he">י ִ</span>
+    * The <span class="he">ְ תִּ</span> preformative with the <span class="he">י ִ</span> sufformative is diagnostic of the QI2fs
 * Of the plural forms, only 1cp does NOT have a sufformative
-    * 2mp/3mp sufformative - **וּ***
-        * Occasionally, there may be what is called a Paragogic Nun, as in **וּן***
+    * 2mp/3mp sufformative - <span class="he">וּ</span>
+        * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>
         * The ן sometimes causes the shuruk to shorten to a Qubbutz
-        * In other words, you may see **יִקְטְלוּ*** or **יִקְטְלוּן*** or **יִקְטְלֻן***.  All three words are QI3mp
-    * 2fp/3fp sufformative - **נָה***
-    * You'll note that QI2fp and QI3fp are identical.  Context will determine whether the verb is being used in the 3rd person or the 2nd person.  These forms are relatively infrequent.
+        * In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp
+    * 2fp/3fp sufformative - <span class="he">נָה</span>
+    * You'll note that QI2fp and QI3fp are identical.   The context will determine whether the verb is being used in the 3rd person or the 2nd person.  These forms are relatively infrequent.
 * There are no "heavy sufformatives" in the Imperfect
     * In fact, the two we studied previously (2mp and 2fp) are the only ones
-* The Imperfect is a Finite verb so a Sheva prefers to go before a finite verb sufformative
+* The Imperfect is a Finite verb, so a Sheva prefers to go before a finite verb sufformative
 
 
-> Now we're ready to put all this together and learn the Qal Imperfect Strong Paradigm, the samw way we built the Qal Perfect Strong Paradigm!
+> Now we're ready to put all this together and learn the Qal Imperfect Strong Paradigm, the same way we built the Qal Perfect Strong Paradigm!
 
 ## Building the Qal Imperfect Strong Paradigm
 
-Study the graphic and the steps below carefully.  It may seem confusing at first but, with practice, you'll get it.  You'll note that the steps work backwards from left to right.
+Study the graphic and the steps below carefully.  It may seem confusing at first but, with practice, you'll get it.  You'll note that the steps work from left to right.
 
 
 ```{r, out.width = "900pt", fig.align='center'}
@@ -142,17 +143,33 @@ Study the graphic and the steps below carefully.  It may seem confusing at first
 knitr::include_graphics("images/15.Qal_imperfect_Strong.png")
 ``` 
 
-```{r, out.width = "600pt", fig.align='center'}
+1. Add Imperfect Preformatives 
+2. Add Imperfect Sufformatives
+3. A Sheva goes before a finite sufformative
+    * Sheva goes under $R_2$ (displacing $V_S/V_2$) when $R_3$ already has a vowel
+4. $V_S = \bar O$ unless already reduced by the Sheva of the finite sufformative
+    * Qal Formula: $V_S = A \sim \bar O$
+        * Perfect = Patach
+        * Imperfect = Holem
+5. Accent $V_S$ unless it reduced
+6. $V_P = I$ and $V_1 = \ :$, except 1cs ($V_P = E$)
+    * Qal $Pre =$ <span class="he">יִקְ</span>
+7. Add Dagesh Lene to בגד כפת after Sheva (N/A for קטל)
 
-knitr::include_graphics("images/15.QI_steps.png")
-``` 
 
-## Hearing the Qal Imperfect Strong Paradigm
 
-```{r, out.width = "200pt", fig.align='center'}
+## Qal Imperfect Strong Paradigm
 
-knitr::include_graphics("images/15.qisimple.png")
-``` 
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִקְטֹל</span>  | 3mp | <span class="he">יִקְטְלוּ</span> 
+| 3fs | <span class="he">תִּקְטֹל</span> | 3fp | <span class="he">תִּקְטֹ֫לְנָה</span> 
+| 2ms | <span class="he">תִּקְטֹל</span> | 2mp | <span class="he">תִּקְטְלוּ</span>
+| 2fs | <span class="he">תִּקְטְלִי</span> | 2fp | <span class="he">תִּקְטֹ֫לְנָה</span>
+| 1cs | <span class="he">אֶקְטֹל</span> | 1cp | <span class="he">נִקְטֹל</span>
+
+
 <figure>
     <figcaption>Qal Imperfect Strong (Singular) read by Izzy</figcaption>
     <audio
@@ -173,43 +190,43 @@ knitr::include_graphics("images/15.qisimple.png")
     </audio>
 </figure>
 
-## Worksheets: Qal Imperfect Strong Paradigm {-}
+## Worksheet: Qal Imperfect Strong Paradigm {-}
 
-As with Lesson 13 we want you to pause here and do the [Qal Imperfect Strong Paradigm](./images/15_qal_imperfect_strong_paradigm.pdf){target="_blank"}.
+As with Lesson 13, we want you to pause here and do the [Qal Imperfect Strong Paradigm](./images/15_qal_imperfect_strong_paradigm.pdf){target="_blank"}.
 
-> Complete the paradigm from memory at least once, then return here and continue in the guidebook.
+> Complete the paradigm until you can do it from memory at least once, then return here and continue in the guidebook.
 
 
-Doing the worksheet now will maximize your learning time - in other words, the material that follows in this lesson will make more sense to you if you have the paradigm in your short-term memory.
+Doing the worksheet now will maximize your learning time. In other words, the material that follows in this lesson will make more sense to you if you have the paradigm in your short-term memory.
 
 ## Qal Imperfect Strong Examples
 
-* **תִּזְכְּר֔וּ***
+* <span class="he">תִּזְכְּר֔וּ</span>
     * Preformative: Tav+Hireq+Sheva = QI2xx or QI3Fx
     * Sufformative: Shuruq = I2mp or I3mp
     * Together: QI2mp
     * You will remember
-* **יִכְתֹּ֤ב***
+* <span class="he">יִכְתֹּ֤ב</span>
     * Preformative: Yod+Hireq+Sheva = QI3mx
     * Sufformative: none = QIxxS or QI1CP
     * Together: QI3ms
     * He will write
-* **תִשְׁבַּ֤ת ***
+* <span class="he">תִשְׁבַּ֤ת </span>
     * Preformative: Tav+Hireq+Sheva = QI2xx or QI3Fx
     * Sufformative: none = QIxxS or QI1CP
     * Together: QI3fs or QI2fs - context will determine which one
-    * Context: **לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙*** = Lit: why she will stop, the work" or "Why should the work stop" = the verb is modifying "the work" which is a feminine noun.
+    * Context: <span class="he">לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙</span> = Lit: why she will stop, the work" or "Why should the work stop" = the verb is modifying "the work" which is a feminine noun.
     * QI3fs
 
 
 ## Deviations from the Paradigm
 
-* All stative verbs have $V_S$ of Pathach (QI strong paradigm $V_S$ is Holem)
+* All stative verbs have $V_S = A$  (QI strong paradigm $V_S = O$)
     * This is true in all PGN except where $V_S$ has been replaced by a Sheva (in step 3 of the workflow)
-    * **יִגְדַּל*** = he/it will be great or let him/it be great
+    * <span class="he">יִגְדַּל</span> = he/it will be great or let him/it be great
 * 3נ assimilates to a consonant as usual when the sufformative starts with a consonant
     * This happens in the QI(2/3)Pfp
-    * **תִּשְׁכֹּנָּה*** = you (fp)/they (f) will dwell
+    * <span class="he">תִּשְׁכֹּנָּה</span> = you (fp)/they (f) will dwell
     * Since $V_1$ is a Sheva in the imperfect, 1נ verbs will be affected by this (Lesson 16)
     
 
@@ -217,40 +234,34 @@ Doing the worksheet now will maximize your learning time - in other words, the m
 ## Translating Negative Commands
 
 * An imperfect form that is preceded by a negation is a negative imperative
-    * Hebrew has an imperative form (Lesson 18), but this form is not used for negative commends
-    * Hebrew has two primary words for negative commands: <span class="he">לֹא</span> and <span class="he">אַל</span>
-    * <span class="he">לֹא</span> + imperfect is for permanent prohibitions
-        * <span class="he">לֹא תִּרְצָח</span> Thou shalt not murder (Ex 20:13)
-    * </span><span class="he"> + jussive (closely related to imperfect) is usually a temporary or circumstantial prohibition
-        * <span class="he">אַל־ת־ִשְׁמְעוּ אֶל־דִּבְרֵי נְבִיאֵיצֶם</span> Do not listen to the words of your prophets (Jer 27:16)
-        * Jeremiah is not saying don't EVER listen to ANY prophets, but in this circumstance, they were listening to FALSE prophets.  That is what Jeremiah is prohibiting.
+* Hebrew has an imperative form (Lesson 18), but this form is not used for negative commands
+* Hebrew has two primary words for negative commands: <span class="he">לֹא</span> and <span class="he">אַל</span>
+* <span class="he">לֹא</span> + imperfect is for permanent prohibitions
+    * <span class="he">לֹא תִּרְצָח</span> Thou shalt not murder (Ex 20:13)
+* <span class="he">אַל</span> + Jussive (closely related to imperfect) is usually a temporary or circumstantial prohibition
+    * <span class="he">אַל־ת־ִשְׁמְעוּ אֶל־דִּבְרֵי נְבִיאֵיצֶם</span> Do not listen to the words of your prophets (Jer 27:16)
+    * Jeremiah is not saying, "Don't EVER listen to ANY prophets"
+    * In this circumstance, the people were listening to FALSE prophets
+    * The specific circumstance of listening to false prophets is what Jeremiah is prohibiting
 
 
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/IA1LEEbvOKw){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/IA1LEEbvOKw" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/IA1LEEbvOKw){target="_blank"}
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/fellWe2bUt8){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/fellWe2bUt8" frameborder="0"></iframe>
 </div>
 
-## Worksheets: Qal Imperfect Strong Paradigm {-}
-
-Complete the paradigm from memory at least once, then return here and continue in the guidebook.
-
-[Qal Imperfect Strong Paradigm](15_qal_imperfect_strong_paradigm.pdf){target="_blank"}
-
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/fellWe2bUt8){target="_blank"}
 
 ## Ruth Pursuit {-}   
 
@@ -274,7 +285,7 @@ Identify and translate the Qal Verbs below.
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can. [Blank copy of Proverbs #11-14(https://docs.google.com/document/d/1E1Qbbx3tHw8pOfMSGwQHwD406eHIMd1O5lAS_tDWllE/copy){target="_blank"}
+1. Read the passage - [Blank copy of Proverbs #11-14](https://docs.google.com/document/d/1E1Qbbx3tHw8pOfMSGwQHwD406eHIMd1O5lAS_tDWllE/copy){target="_blank"}
 2. Now re-read the passage critically
     1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     2. Parse as many verbs as you can
@@ -285,6 +296,6 @@ YOUR HEBREW QUEST:
     1. [Proverbs #13](https://holylanguage.com/proverbs-13.php){target="_blank"}
     1. [Proverbs #14](https://holylanguage.com/proverbs-14.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::

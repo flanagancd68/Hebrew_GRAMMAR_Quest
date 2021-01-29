@@ -190,12 +190,12 @@ Added 11/12/2020
 
 .he	{
     font-family: Times, serif;
-    font-size: 150%
+    font-size: 200%
     }
     
 @font-face {
 	font-family: Times; 
-  font-size: 175%;
+  font-size: 200%;
 	unicode-range: U+0590-05FF;
 }
 @font-face {

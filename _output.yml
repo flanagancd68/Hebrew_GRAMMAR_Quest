@@ -41,7 +41,7 @@ bookdown::gitbook:
 #   keep_tex: yes
 # bookdown::epub_book:
 #  pandoc_args: [ "--csl", "turabian-author-date.csl" ]
-# bookdown::word_document2:
-#     toc: true
-#     toc_depth: 1
+bookdown::word_document2:
+    toc: true
+    toc_depth: 1
 #     reference_docx: images/hgq_template.docm

@@ -4,7 +4,7 @@
 5. [What is in a typical lesson, and how long will it take?](#typical-lesson)
 4. [How do I get started?](#get_started)
 5. [How do I use Anki?](#anki_help)
-5. [What are required and optional resources?](#optional_resources)
+5. [Which resources are required versus optional?](#optional_resources)
 2. [How to report an issue, error, omission, or improvement opportunity](#report_issue)
 3. [How to ask a question if you get stuck](#get_help)
 
@@ -73,7 +73,7 @@ Use the `Course Checklist` to help keep you organized and do a little bit at a t
 
 Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
 
-Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
+Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
 
 ## Information Boxes {-}
 
@@ -222,7 +222,7 @@ Be patient with yourself.  It may take you _many_ tries in the early going befor
 
 What appears in the sections below is only the information you will need for Hebrew GRAMMAR Quest.
 
-We are here to [help](#report_issue) with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`.  Unfortunately it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple web search.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
+We are here to [help](#report_issue) with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`.  Unfortunately, it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple web search.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
 :::
 
 ## Course Resources {- #optional_resources}

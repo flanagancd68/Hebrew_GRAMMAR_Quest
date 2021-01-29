@@ -223,7 +223,7 @@ This attachment has a list of words, some are in absolute, and some are in const
 
 [Construct Practice](./images/10_construct_practice.pdf){target="_blank"}
 
-This next attachment is not really a worksheet but is a summary of common construct vocabulary that occurs in the Bible for your review.
+This next attachment is not really a worksheet, but is a summary of common construct vocabulary that occurs in the Bible for your review.
 
 [Construct Vocabulary](./images/10_construct_vocab.pdf){target="_blank"}
 

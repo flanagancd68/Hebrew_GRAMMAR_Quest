@@ -1,35 +1,33 @@
 # Vav Consecutive {.wc}
 
-Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: **וּכְתַטְתָּם***. The initial ו means "and", so this one word is translated "AND you will write them".  It also has a grammatical purpose of changing the verb's meaning from a past tense to a future tense.  **כָּתַטְתָּ*** means "you (ms) wrote" (perfect), but putting a ו as prefix changed the meaning to "and you will write" (imperfect).  We'll learn more about these changes in this Lesson.
+Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: <span class="he">וּכְתַטְתָּם</span>.
+
+The initial ו means "and", so this one word is translated "AND you will write them".  It also has a grammatical purpose of changing the verb's meaning from past tense to future tense.  <span class="he">כָּתַטְתָּ</span> means "you (ms) wrote" (perfect), but putting a ו as prefix changed the meaning to "and you will write" (imperfect).  We'll learn more about these changes in this Lesson.
 
 The terminology on this topic is a bit fluid. The term "Waw Consecutive" is significantly more prevalent than "Vav Consecutive", so we will stick with the seminary style phrasing for this chapter.
 
 | Hebrew | Description | Also known as | Shorthand
 | :- | :- | :- | :-
-**וְקָטַל*** | Qal Perfect + ו | Weqatal | QP +
-**וְיִקְטֹל*** | Qal Imperfect + ו | Weyiqtol | QP +
-**וְקָטַל*** | Qal Perfect Waw Consecutive  | Weqatal | QPwc
-**יַיִּקְטֹל*** | Qal Imperfect Waw Consecutive  | Wayyiqtol | QIwc
+<span class="he">וְקָטַל</span> | Qal Perfect + ו | Weqatal | QP + ו
+<span class="he">וְיִקְטֹל</span> | Qal Imperfect + ו | Weyiqtol | QI + ו
+<span class="he">וְקָטַל</span> | Qal Perfect Waw Consecutive  | Weqatal | QPwc
+<span class="he">יַיִּקְטֹל</span> | Qal Imperfect Waw Consecutive  | Wayyiqtol | QIwc
 
 ::: {.box .map}
-**LESSON ITINERARY**
+LESSON ITINERARY
 
-1. learning_objective_1
-1. learning_objective_2
-1. learning_objective_3
-1. learning_objective_4
-1. learning_objective_5
-1. learning_objective_6
-1. learning_objective_7
+1. Qal Perfect + ו 
+1. Qal Imperfect + ו
+1. Qal Perfect Waw Consecutive
+1. Qal Imperfect Waw Consecutive
+
 :::
 
 ::: {.box .stop}
-**EQUIPMENT CHECK**
+EQUIPMENT CHECK
 
-Before continuing, can you describe the following concepts?
+Before continuing, be sure you have the Perfect and Imperfect strong paradigms memorized.
 
-* 
-*
 :::
 
 ## First Thought {-}
@@ -38,9 +36,9 @@ Before continuing, can you describe the following concepts?
 
 *In the morning, however, they rose up early and went up to the ridge of the hill country (Numbers 14:40)*
 
-The conjunction ו is a powerful linguistic tool in Scripture.  Later in this Lesson, we will study Genesis 1:1-5 from _Hebrew Quest_.  Verse 2 begins with the conjunction prefixed to a noun, while verses 3-5 each begin with what is called the "Waw-Conjunction", which is to say the Vav is prefixed to a verb.
+The conjunction ו is a powerful linguistic tool in Scripture.  Later in this lesson, we will study Genesis 1:1-5 from _Hebrew Quest_.  Verse 2 begins with the conjunction prefixed to a noun, while verses 3-5 begin with the "Waw Consecutive", which is to say the letter Vav is prefixed to a verb.
 
-Like the dawning of a new day, after you complete this lesson, a majority the verb forms that appear in the Hebrew Scriptures will be opened to you.  We hope you are as excited about taking this new step into a larger world as we are excited for you!
+Like the dawning of a new day, after you complete this lesson, most of the verb forms that appear in the Hebrew Scriptures will be opened to you.  We hope you are as excited about taking this new step into a larger world as we are excited for you!
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -55,14 +53,13 @@ Like the dawning of a new day, after you complete this lesson, a majority the ve
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Masada sunrise over Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/17_Masada sunrise over Dead Sea, dg030401281.jpg")
 ``` 
 
-## _Hebrew Quest_ Qal Vav Consecutive Lecture
-
-View this 2-minute overview video from _Hebrew Quest_ on Hebrew Qal Vav Consecutive Verbs.  We will break down the concepts Izzy discusses as we progress through this lesson.  
+## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
+View this 2-minute overview video from _Hebrew Quest_ Lesson 14 on Hebrew Qal Vav Consecutive Verbs.  We will break down the concepts Izzy discusses as we progress through this lesson.  
 
 
 <div class="container">
@@ -72,12 +69,26 @@ hfu4gjNo2K4?start=3308&end=3425&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3308){target="_blank"}
 
+## _Hebrew Quest_  Vav Consecutive Lecture (from Lesson 5)
+
+View this 2-minute overview video from _Hebrew Quest_ Lesson 5 on the letter Vav's grammatical function as a consecutive/conversive; that is, changing an imperfect verb to perfect and a perfect verb to imperfect.  
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+oZ1VbPCpMvw?start=1508&end=1811&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/oZ1VbPCpMvw?start=1508){target="_blank"}
+
+
+
 ## Review of the Conjunction Vav
 
-* Usually spelled **וְ***
-    * Spelled **וּ*** before פ, מ, ב, or Sheva
-    I* Rule of Sheva can create **וִי***
-or the "hateph copy-cat",**וַעֲ***
+* Usually spelled <span class="he">וְ</span>
+    * Spelled <span class="he">וּ</span> before פ, מ, ב, or Sheva
+    I* Rule of Sheva can create <span class="he">וִי</span>
+or the "Hateph copy-cat",<span class="he">וַעֲ</span>
 
 ## Perfect + וְ: Spelling
 
@@ -97,14 +108,14 @@ or the "hateph copy-cat",**וַעֲ***
 * Usually translated as IMPERFECT
     * Future: And I will study
     * Modal: And I would/could/should study
-    * Imperfective: Amd I am/was/will be studying
-* After an imperative, usually translate as another imperative:
+    * Imperfective: And I am/was/will be studying
+* After an imperative, we usually will translate as another imperative:
     * Go and study!
-* Can be translated as the normal perfect (past tense)
-    * Parsing code in this case would be the perfect code "+ ו", as in QP3ms + ו
+* Can be translated as the regular perfect (past tense)
+    * Parsing code, in this case, would be the perfect code "+ ו", as in QP3ms + ו
     * The accent MAY be a clue
-        * **וְשָׁמַרְתִּ֫י*** = QPwc1cs - and I will guarded
-        * **וְשָׁמַ֫רְתִּי*** = QP1cs + ו - and I guarded
+        * <span class="he">וְשָׁמַרְתִּ֫י</span> = QPwc1cs - and I will guard
+        * <span class="he">וְשָׁמַ֫רְתִּי</span> = QP1cs + ו - and I guarded
     * Context is a better guide
     
 
@@ -156,44 +167,42 @@ Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫א�
 
 ## Imperfect Waw Consecutive: Translation
 
-### Usually translate Iwc as PAST TENSE {-}
+### Usually, translate Iwc as PAST TENSE {-}
 
 * Often used for the next event in a past-time narrative
 * Uses the opposite form from what we might expect:
     * Iwc in a PAST narrative
     * Pwc in a FUTURE narrative
-* He did X (the first verb will be P), and then he did Y (next verb is Iwc), and then he did Z (Iwc)
-* He will do X (first verb is I), then he will do Y (next verb is Pwc)
+* He did X (the first verb will be P), and then he did Y (the next verb is Iwc), and then he did Z (Iwc)
+* He will do X (the first verb is I), then he will do Y (the next verb is Pwc)
 
 ## Summary
 
-* Iwc is most common **וַיִּקְטֹל***
-* Pwc is next **וְקָטֹל***
+* Iwc is most common <span class="he">וַיִּקְטֹל</span>
+* Pwc is next <span class="he">וְקָטֹל</span>
 * P+ו and I+ו are relatively uncommon
 
 ## Word Warm-up {-}
-
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/_usEc7vYIXI){target="_blank"}
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/_usEc7vYIXI" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/_usEc7vYIXI){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/mfNf7nNcRPA){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/mfNf7nNcRPA" frameborder="0"></iframe>
 </div>
 
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/mfNf7nNcRPA){target="_blank"}
 
+## Worksheet: Qal Vav-Consecutive Paradigms {-}
 
-## Worksheets: Qal Vav-Consecutive Paradigms {-}
-
-Complete the paradigm from memory at least once.
+Write the paradigm until you can complete it from memory at least once.
 
 [Qal Vav-consecutive Paradigms](17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
 
@@ -202,7 +211,7 @@ Complete the paradigm from memory at least once.
 ::: {.box .map} 
 YOUR QUEST
 
-1. Identify and translate the Qal Vav Consecutive Verbs below from verses 1-5. Be sure to look up any unfamiliar words. 
+1. Identify and translate the Qal Vav Consecutive Verbs below from verses 1-5. Be sure to look up any unfamiliar words
     * היה QIwc3ms x2
     * הלך QIwc3ms
     * בוא QIwc3mp
@@ -212,14 +221,14 @@ YOUR QUEST
     * ישׁב QIwc3mp
     * מות QIwc3mp
 
-2. Identify, parse, and translate all remaining Qal Vav Consecutive verbs in verses 6-22.  
-    * There is one QPwc and the rest are QIwc.  
-    * As needed, break down the preformatives and sufformatives to identify the lexical form in order to look up its meaning.  
-    * For completeness, we will note the instances of <span class="he">וַתֹּאמֶר</span> in gray on the answer key.
+2. Identify, parse, and translate all remaining Qal Vav Consecutive verbs in verses 6-22
+    * There is one QPwc, and the rest are QIwc
+    * As needed, break down the preformatives and sufformatives and identify the lexical form to look up its meaning
+    * For completeness, we will note the instances of <span class="he">וַתֹּאמֶר</span> in gray on the answer key
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #17](./images/17_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -231,12 +240,12 @@ With this lesson, we move away from the selected verses in Proverbs to lengthier
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}, or you may use your copy from Lesson 6
+1. Read the passage - [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}, or you may use your copy from Lesson 6
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
     * Though we would encourage viewing the entire segment, since you already reviewed Genesis 1:1 back in Lesson 6, you can start with Genesis 1:2 at the 46:50 mark
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
 
@@ -245,8 +254,8 @@ MEMRISE
 
 * If your goal is to simultaneously complete both _Hebrew Quest_ and Hebrew GRAMMAR Quest, you may wish to complete the associated _Hebrew Quest_ passage memorization in Memrise
 * The Genesis passage begins in [Memrise Level 17](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/17/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}
-    * Note that the Memrise work may contain vocabulary and passages in addition to the study passage (for example Names of God, Titles of Messiah, Terms of Love/Friendship, and Proverbs)
-* Although the majority of time in each _Hebrew Quest_ lesson is spent on the Study Passages, be sure to set aside time to watch the lesson's video in its entirety in order to meet the _Hebrew Quest_ Graduation requirements (also be sure to complete any videos/Memrise modules for Lessons 1-16 that you have not completed)
+    * Note that the Memrise work may contain vocabulary and passages in addition to the study passage (for example, Names of God, Titles of Messiah, Terms of Love/Friendship, and Proverbs)
+* Although the majority of time in each _Hebrew Quest_ lesson is spent on the Study Passages, be sure to set aside time to watch the lesson's video in its entirety to meet the _Hebrew Quest_ Graduation requirements (also be sure to complete any videos/Memrise modules for Lessons 1-16 that you have not completed)
 * See additional resources on the Holylanguage.com page:
     * [Hebrew Quest Overview](https://holylanguage.com/quest.html){target="_blank"}
     * [Hebrew Quest Graduation](https://holylanguage.com/graduate.html){target="_blank"}

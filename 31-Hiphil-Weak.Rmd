@@ -1,20 +1,24 @@
-# The X Hiphil Stem - Weak Verbs {.H-w}
+# The Hiphil Stem - Weak Verbs {.H-w}
 
 
-> To comprehend Biblical Hebrew, we must be able to . . . 
+The Hiphil stem is relatively common in Scripture, occurring 9,496.  In fact, it is the most frequently occurring of the derived stems.
 
-Say something general bridging the desired outcome above with the learning objectives below
+Primarily, the Hiphil stem has a causative action.  For example, the root זכר means "he remembered" in the Qal Perfect 3ms.  That root would mean "he caused to remember," i.e., "he reminded" in the Hiphil Perfect 3ms. 
+
+Hiphil has a distinctive prefix (remember, "Hiphil-Haphil"), and a distinctive $\hat I$ in the 3rd person Perfect as well as most non-Perfect forms.  For the most part, these diagnostic features are retained in weak verbs.  This lesson will review some of the major exceptions to the Hiphil strong verb paradigm.
 
 ::: {.box .map}
 **LESSON ITINERARY**
 
-1. learning_objective_1
-1. learning_objective_2
-1. learning_objective_3
-1. learning_objective_4
-1. learning_objective_5
-1. learning_objective_6
-1. learning_objective_7
+Hiphil weak verb principles as they related to the following:
+
+1. 1-Guttural
+1. 2-Guttural
+1. 3א and 3עח
+1. 3ה
+1. 1נ
+1. 1י
+1. Biconsonantal
 :::
 
 ::: {.box .stop}
@@ -57,8 +61,6 @@ knitr::include_graphics("images/31_Men touching Torah Scroll at Western Wall, tb
 
 ## Weak Verbs Review: 
 
-Since the impacts of Hophal weak verbs are more similar to Niphal (and less similar to Piel/Pual), let's review some key concepts:
-
 * A weak consonant affects the vowels that touch it
     * A weak $R_1$ affects $V_P$ and $V_1$ (but NOT $V_S$)
     * A weak $R_2$ affects $V_S$ and $V_1$ (but NOT $V_P$)
@@ -67,13 +69,17 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 * Gutturals take Hateph, not Sheva
     * In Hiphil Strong, $V_1$ always takes Sheva
     
+::: {.box .light}
+Distrust vowels on or immediately before weak letters
+:::
+
 ## Strong Summary
 
 * In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
-    * The exceptions come when $R_1$ is a weak letter (discussed in Lesson 31)
-* Hiphil Beginning Combination:
+    * The exceptions come when $R_1$ is a weak letter (discussed in this lesson)
+* Hiphil $Pre$ sequences:
     * <span class="he">ְ הִ</span> - HP
-    * <span class="he">ְ יַ</span> - (etc) HI
+    * <span class="he">ְ יַ</span> - (etc.) HI
     * <span class="he">ְ הַ</span> - HM/H∞/HA
     * <span class="he">ְ מַ</span> - HPt
 * $V_S = Î[A] \sim Î(Ē)$
@@ -82,17 +88,107 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 
 ## 1-Guttural
 
-* Hiphil 1G $V_1$ takes Hateph vowel - $V_P$ affected by Rule of Sheva
-* HP -<span class="he">הֶעֱמִיד</span>
+The changes below **ONLY** apply to 1G Imperfect Verbs
+
+* When Hiphil 1G $V_1$ takes Hateph vowel, this means $V_P$ is affected by the Rule of Sheva
+* The same thing occurs in the Qal Imperfect
+* Therefore, the $Pre$ for the Hiphil and the Qal will be identical: <span class="he">יֶעֱ</span> or <span class="he">יַעֲ</span>
+* But (good news!), Hiphil has $V_S = \hat I$ which never reduces, so this is how we can distinguish
 * All others:<span class="he">יַעֲמִיד</span>
-    * Qal Imperfect also begins<span class="he">יַעֲ</span>
-    * Distinguish by Hiphil $V_S = \hat I$, which never reduces  -<span class="he">יַעֲמִיד</span>
-    * Qal $V_S = O$ -<span class="he">יַעֲמֹד</span>
-* 3-Hei lose the stem vowel and are ambiguous<span class="he">יַעֲלֶה</span> - (Q/H)I3ms
+    * <span class="he">יַעֲמִיד</span> is HI3ms because $V_S = \hat I$, which is diagnostic of Hiphil
+    * <span class="he">יַעֲמֹד</span> is QI3ms because $V_S = O$, which is diagnostic of Qal Imperfect
+
+::: {.box .caution}
+AMBIGUITIES
+
+1G verbs that are also 3ה lose the stem vowel and are ambiguous   
+<span class="he">יַעֲלֶה</span> - (Q/H)I3ms
+
+:::
+
+## 2-Guttural
+
+* No changes
+* 2G reject Dagesh Forte, but this is not applicable for Hiphil<small>^[<small>Potentially, we could have a verb that is both 1נ and 2G.  We would think the Nun with $V_1 = \ :$ would assimilate into a Dagesh Forte that is ultimately rejected. In our vocab, we only have one such verb: נחם (to be sorry, regret).  What ends up happening is the ח's rejection of the Dagesh causes Compensatory Lengthening in $V_1$ of the נ.  Since the נ only assimilates when it has a Sheva, the Nun no longer wants assimilate.  The end result is that all three root letters of נחם are visible with the Hiphil $Pre$ and $V_S$ intact.</small>]</small>
+* 2G rejects Vocal Sheva but the $V_S = \hat I$ will never reduce to a Sheva
+
+## 3א and 3עח
+
+* 3-Guttural can tweak the $V_S$, so we can't use $V_S$ for parsing
+* Parse based on the word's $Pre$ sequence
+* With 3עח, $V_S = A$
+    * The Furtive Patach is hit or miss, but we can ignore it<small>^[<small>There is logic.  It appears if the 3עח is word-final and $V_2 \not = A \ or \ \bar A$</small>]</small>
+    * $V_S = A$ for FP Imperfect and Imperative with 3עח
+* With 3א, the א usually quiesces
+    * The sufformative will lose its Dagesh Lene
+    * The $V_S$ often switches, so we do not rely on it for parsing
+
+## 3ה
+
+* The usual changes
+* If no sufformative, add final vowel letter (see table below)
+* If sufformative begins with a vowel, that sufformative replaces $V_2$
+* If sufformative begins with a consonant, add the applicable (vowel)+Yod
+
+| Conj | Hebrew | Vowel when no sufformative
+| :- | :- | :-
+| P | <span class="he">בָּנָה</span> | Qamets+Hei
+| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
+| M | <span class="he">בְּנֵה</span> | Tsere+Hei
+| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
+| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
+| Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
 
 
-## 3-Hei
+## 1נ always assimilates in Hiphil
 
+* Always $V_1 = \ :$ in Hiphil
+* When $R_1 =$ נ, and $V_1 = \ :$, the נ will always assimilate
+* Therefore, 1נ always assimilates in Hiphil
+
+::: {.box .caution}
+POTENTIAL LOOK-ALIKES
+
+Need to watch $R_1$ vs $R_2$ to avoid confusion with Niphil<small>^[<small>Dr. Beckman also notes a potential for ambiguity if a 1נ and a 1ה verb shared the same $R_2$ and $R_3$.  When you saw the ּ הַ , you would not know whether you are looking at the ה of the Hiphil prefix with an assimilated Nun or the first ה of a Piel verb.  In our first year Hebrew course, we do not have any vocabulary verbs where this potential could occur, so we will save this discussion for Intermediate Hebrew.</small>]</small>
+
+    * <span class="he">הִצִּילוּ</span> is Hiphil with 1נ assimilated
+    * <span class="he">הִנָּצְלוּ</span> is Niphal with נ prefix assimilated
+
+:::
+
+## 1י 
+
+* 1י were originally 1ו
+* In the Hiphil, 1י becomes $V_P = \hat O \ or \ O$:
+    * <span class="he">הוֹשִׁיב</span>
+    * <span class="he">יוֹשִׁיט</span>
+    * <span class="he">הוֹשֵׁב</span>
+
+::: {.box .caution}
+POTENTIAL LOOK-ALIKES
+
+* QPtms (Strong): <span class="he">קֹטֵל</span>
+* DP3ms (2G): <span class="he">בֹּרַךְ</span>
+* HP3ms (1י): <span class="he">הֹדִיע</span>
+
+The $\hat O$ may be written defectively or plene in any of the above forms  
+:::
+
+## Biconsonantal Hiphil
+
+* Biconsonantal verbs tweak $V_P$ so we can't rely on it
+* Good news: $V_S = \hat I$, except in FP imperfect and FP imperative, where $V_S = \bar E$
+    * Contrast this aspect with other stems where $V_S =$ the lexical vowel
+
+::: {.box .caution}
+POTENTIAL LOOK-ALIKES
+
+* $V_P = ə$ could be either Piel non-Perfect or Hiphil Biconsonantal
+* $V_P = \bar A$ could be either Hiphil Imperfect Biconsonantal or Qal Imperfect Biconsonantal
+    * In Hiphil, $V_S = \hat I$
+    * Only verbs where the lexical vowel is also $\hat I$ are ambiguous
+    * <span class="he">יָשִֹים</span> could either be QI3ms or HI3ms
+:::
 
 ## Top 10 Hiphil Verbs
 
@@ -110,21 +206,21 @@ Since the impacts of Hophal weak verbs are more similar to Niphal (and less simi
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/1R3dK5gr8pA){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/1R3dK5gr8pA" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/1R3dK5gr8pA){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Y7p9lMZ79FY){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/Y7p9lMZ79FY" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/Y7p9lMZ79FY){target="_blank"}
 
 
 
@@ -135,7 +231,7 @@ YOUR QUEST
 
 Identify, parse, and translate the five Hiphil Verbs in Ruth 1.
 
-Make sure you are able to identify the diagnostic indicators of these Hiphil verbs.
+Make sure you can identify the diagnostic indicators of these Hiphil verbs.
 
 :::
 
@@ -143,11 +239,11 @@ Make sure you are able to identify the diagnostic indicators of these Hiphil ver
 * [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next Twelve Tribes Badge! {-}
 
 <!-- Lesson 31 Tribe Badge 11 = SIMEON -->
 
-Check to be sure you have have completed all activities through this lesson, then fill out the form below.
+Once you have completed all activities through this lesson, fill out the form below to receive your next `12 Tribes Badge`.
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/gD1doxWveXuijHUF6" frameborder="0"></iframe>
@@ -162,6 +258,6 @@ YOUR HEBREW QUEST
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-34.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::

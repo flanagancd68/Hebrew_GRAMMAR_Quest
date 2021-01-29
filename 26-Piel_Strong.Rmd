@@ -2,7 +2,7 @@
 
 The Piel stem occurs 6,473 times in the Hebrew Bible. It appears in the Perfect 2,120 times, Imperfect 2,446 times, Imperative 436 times, Infinitive Construct 708 times, Infinitive Absolute 84 times, and Participle 679 times
 
-Many students find the Piel is one of the easier stems to identify.  It is one of only three Verb stems (along with the Pual and Hitpael) that has a Dagesh Forte in $R_2$. The Piel is easily distinguished from the Pual, which has a steady U-class vowel and the Hitpael, which has a unique prefix.
+Many students find the Piel is one of the easier stems to identify.  It is one of only three Verb stems (along with the Pual and Hitpael) that has a Dagesh Forte in $R_2$. The Piel is easily distinguished from the Pual, which has a steady U-class vowel.  The Piel is also easily distinguished from the Hitpael, which has a unique prefix.
 
 In addition to the Dagesh Forte, the Piel has a $Pre$ combination that (in the strong form) is relatively free from confusion with any other Hebrew Verb Stem.
 
@@ -19,9 +19,11 @@ __LESSON ITINERARY__
 
 ### <span class="he">בִּשְׂפָתַ֥י סִפַּ֑רְתִּי כֹּ֝֗ל מִשְׁפְּטֵי־פִֽיךָ׃</span> {-}
 
-*With my lips I have told of All the ordinances of Your mouth (Psalms 119:13)*
+*With my lips, I have told of All the ordinances of Your mouth (Psalms 119:13)*
 
--brief meditation-
+With our study of Hebrew, we can get closer to the original intent of God's ordinances.  However, if we are not already keeping His words, worshiping and serving Him, and serving others in our native language, then nothing about learning Hebrew by itself will transform our lives.  
+
+We must practice the disciplines of worship, service, and study (and teaching if that is our calling) so that these traits become hard-wired habits.  If that is already in place then we can use Hebrew to reach new depths in our relationships.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -38,7 +40,7 @@ __LESSON ITINERARY__
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
-knitr::include_graphics("images/26_Man with arms upraised at Western Wall, tb092603064.jpg")
+knitr::include_graphics("./images/26_Man with arms upraised at Western Wall, tb092603064.jpg")
 ``` 
 
 
@@ -57,7 +59,7 @@ Cause an Action	| Hiphil | Hophal
 * Reminders:
     * The table gives broad generalization; many verbs do not fit neatly into the table's definitions
     * Use a lexicon/dictionary to check the meanings in different stems
-    * Many Tables like this one will label the 2nd row as "Intensive Action" but this is a controversial topic in the academic community
+    * Many references like this one will label the 2nd row as "Intensive Action," but this is a controversial topic in the academic community
 
 
 ## Piel Meanings
@@ -65,46 +67,46 @@ Cause an Action	| Hiphil | Hophal
 * Cause a state ('factitive')
     * <span class="he">מִלֵּא </span>
         * Q - He filled
-        * D (Piel) - He caused <something> to be full
+        * D (Piel) - He caused (something) to be full
     <span class="he">אָנַשף </span>
         * Q - He was angry
-        * D - He made <someone> angry
+        * D - He made (someone) angry
 * Do something repeatedly ('iterative')
     * <span class="he">הָלַךְ</span>
         * Q - He walked
         * D - He walked around
-* Declarative - he declared <someone> innocent
-* Denominative (verb made from noun) - He acted as a priest (<span class="he">כִּהֵן</span> from <span class="he">כֹּהֵן</span> "priest")
+* Declarative - he declared (someone) innocent
+* Denominative (a verb made from a noun) - He acted as a priest (<span class="he">כִּהֵן</span> from <span class="he">כֹּהֵן</span> "priest")
 * Intensive?
     * <span class="he">שִׁבֵּר </span>
         * Q - He broke
         * D - He smashed
             * This is hotly debated
-            * Perhaps he caused it to be in a state of brokneness?
-            * Perhaps he broke repeatedly?
+            * Perhaps he caused it to be in a state of brokenness?
+            * Perhaps he broke it repeatedly?
 
-## Piel is the D stem because $R_2$ takes a Doubling Dagesh Forte
+## Piel is the "D" stem because $R_2$ takes a Doubling Dagesh Forte
 
 * In fact, when you see a Dagesh in $R_2$, it's more than likely either a Piel form or a 1-נ verb that has assimilated.  If you see three root letters, it's probably a Piel
-    * Two other Stems take a Dagesh in $R_2$ - Pual (Lesson 28) and Hitpael (Lesson 34).  As we will learn in those Lessons, both forms are easily distinguished from Piel.
+    * Two other Stems take a Dagesh in $R_2$ - Pual (Lesson 28) and Hitpael (Lesson 34).  As we will learn in those lessons, both forms are easily distinguished from Piel.
 * Gutturals, Resh, SQiN eM LeVY letters reject the Daghesh Forte
-    * SQiN eM LeVY discussed later in this Lesson
-    * Gutturals/Resh discussed in Lesson 27
+    * SQiN eM LeVY will be discussed later in this lesson
+    * Gutturals/Resh will be discussed in Lesson 27
 
-## Memorize piēl - paēl
+## Memorize Piēl - Paēl
 
 ::: {.box .info}
 The Piel is remarkably consistent.  
-While there are distinctive $Pre$ and $V_S$ combinations, it's easiest to remember the Stem by the mnemonic "PIEL - PAEL"
+While there are distinctive $Pre$ and $V_S$ combinations, it's easiest to remember the stem by the mnemonic "Piēl - Paēl"
 :::
 
-* piēl in PERFECT
+* Piēl in PERFECT
     * $V_1 = I$
     * $V_S = \bar E$ in the 3rd person
         * <span class="he">קִטֵּל</span> - DP3ms
     * $V_S = A in the 2nd/1st person
         * <span class="he">קִטַּ֫לְתָּ</span> - DP2ms
-* paēl in ALL OTHER CONJUGATIONS
+* Paēl in ALL OTHER CONJUGATIONS
     * $V_1 = A$
     * $V_P = :$ (or Hateph Patach in DI1cs), where applicable
     * $V_S = \bar E$
@@ -112,9 +114,14 @@ While there are distinctive $Pre$ and $V_S$ combinations, it's easiest to rememb
     * <span class="he">קַטֵּל</span> - DM2ms/D∞/DA
     * <span class="he">מְקַטֵּל</span> - DPtMS
 
-* The Piel $V_S$ formula is:
+* For completeness, the Piel $V_S$ formula is below
+    * This is the first time seeing $\bar E[A] \sim$
+    * This means that while the 3rd person takes $\bar E$, the 1st and 2nd perfect forms take $V_S = A$
+    * Do not confuse a vowel in brackets to the left of the $\sim$ with a vowel in parenthesis to the RIGHT
+        * A vowel in brackets to the left means the 1st and 2nd person forms in the PERFECT take that vowel
+        * A vowel in parenthesis to the right means the Feminine plural forms in the NON-PERFECT take that vowel
 
-$$V_{S_D} = \bar E(A) \sim \bar E$$
+$$V_{S} = \bar E[A] \sim \bar E$$
 
 
 ## Pay attention when $R_2$ is a SQiN eM LeVY consonant
@@ -130,22 +137,23 @@ $$V_{S_D} = \bar E(A) \sim \bar E$$
 
 * If you see a SQiN eM LeVY consonant with a Sheva, it might have a "hidden" Daghesh Forte
 
-* DIwc
-    * The Iwc has a Dagesh in the Imperfect Preformative
-    * the DI preformative has a Sheva
-    * Therefore, DIwc3ms and DIwc3mp lose Dagesh
-    * DIwc3ms - Not *<span class="he">וַיְּקַטֵּל</span>, but <span class="he">וַיְקַטֵּל</span>
-    * DIwc3mp - Not *<span class="he">וַיְּקַטְּלוּ</span>, but <span class="he">וַיְקַטְּלוּ</span>
+## DIwc
+
+* The Iwc has a Dagesh in the Imperfect Preformative
+* the DI preformative has a Sheva
+* Therefore, DIwc3ms and DIwc3mp lose Dagesh
+* DIwc3ms - Not *<span class="he">וַיְּקַטֵּל</span>, but <span class="he">וַיְקַטֵּל</span>
+* DIwc3mp - Not *<span class="he">וַיְּקַטְּלוּ</span>, but <span class="he">וַיְקַטְּלוּ</span>
 * Forms with reduced $V_2$
     * Example DP3cp - Not *<span class="he">שִׁמְּרוּ</span>, but <span class="he">שִׁמְרוּ</span>
     
 ## Piel: what to memorize
 
 * Parsing code D - Dagesh Forte in $R_2$
-* "piēl - paēl"
+* "Piēl - Paēl"
     * This is easier than remembering the $Pre$ and $V_S$ combinations separately
-    * piēl - Perfect $V_1 = I$
-    * paēl - everywhere else: $V_1 = A$
+    * Piēl - Perfect $V_1 = I$
+    * Paēl - everywhere else: $V_1 = A$
     * $V_S = E$ everywhere except Perfect 1st/2nd person (where $V_S = A$)
 * $V_P = :$ in all Strong Conjugations with preformatives
     * This compares to $V_P = I$ in the Qal
@@ -153,7 +161,7 @@ $$V_{S_D} = \bar E(A) \sim \bar E$$
 * The SQiN eM LeVY exceptions
     * $R_2$ and $DIwc$
 
-## Piel Perfect Strong
+## Piel Perfect Strong Paradigm
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -167,17 +175,16 @@ $$V_{S_D} = \bar E(A) \sim \bar E$$
 * 1st/2nd person $Pre$ is Hireq+Dagesh+Patach
 
 <figure>
-    <figcaption>X Piel Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <figcaption>Piel Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/.mp3">
+        src="./images/26_Piel_Perfect_Izzy.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
 
-
-֫## Piel Imperfect Strong
+## Piel Imperfect Strong Paradigm
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -187,27 +194,42 @@ $$V_{S_D} = \bar E(A) \sim \bar E$$
 | 2fs | <span class="he">תְּקַטְּלִי</span> | 2fp | <span class="he">תְּקַטֵּ֫לְנָה</span>
 | 1cs | <span class="he">אֲקַטֵּל</span> | 1cp | <span class="he">נְקַטֵּל</span>
 
-* Piel Imperfect $Pre$ is very consistent: Sheva+Patach+Dagesh+Tsere
+* Piel Imperfect is consistent: <span class="he">יְקַטֵּל</span> 
+    * Remember $V_1 = A$ in all non-Perfect forms
+    * $V_P = ə$ (Vocal Sheva) - DI1cs will take $V_P = \breve A$ (Hateph Patach)
     * Compare to Qal Imperfect $Pre$ of Hireq+Sheva+Holem
     
 <figure>
-    <figcaption>X Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <figcaption>Piel Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
     <audio
         controls controlsList="nodownload"
-        src="./images/.mp3">
+        src="./images/26_Piel_Imperfect.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
 
-## Piel Imperative Strong
+## Piel Imperative Strong Paradigm
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">קַטֵּל</span> | 2mp | <span class="he">קַטְּלוּ</span>
 | 2fs | <span class="he">קַטְּלִי</span> | 2fp | <span class="he">קַטֵּ֫לְנָה</span>
 
-## Piel Infinitives Strong
+<figure>
+    <figcaption>Piel Imperative Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/26_Piel_Imperative.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+
+
+## Piel Infinitives Strong Paradigm
 
 
 | Type | Paradigm 
@@ -217,7 +239,18 @@ $$V_{S_D} = \bar E(A) \sim \bar E$$
 
 * Same as DM2ms
 
-## Piel Participle Strong
+<figure>
+    <figcaption>Piel Infinitives Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/26_Piel_infinitive.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+## Piel Participle Strong Paradigm
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -243,20 +276,24 @@ Hithpael | תִמְ
 ## Piel Parsing Examples
 
 * Word: <span class="he">גדַּ֫לְנוּ </span>
-    * The dagesh in the gimmel is a Lene (not preceded by a vowel), but the Dagesh in the Dalet is preceded by a vowel that is not a sheva, so this must be a forte.
-        * A Forte in what appears to be $R_2$ Should get your attention and you start asking "Is this Piel?"
-    * $Pre =$ גִּדַּ, distintly Piel
+    * The Dagesh in the Gimmel is a Lene (not preceded by a vowel), but the Dagesh in the Dalet is preceded by a vowel that is not a Sheva, so this must be a forte.
+        * A Forte in what appears to be $R_2$ Should get your attention 
+        * The two questions you should start asking when you see a Forte in $R_2$:
+            * "Is this Piel?"
+            * "Is this an assimilated נ1" - if you clearly see $R_1$ you can rule out this option
+    * $Pre =$ גִּדַּ, distinctly Piel Perfect
     * $Sufformative =$ נוּ, Perfect 1cp
     * $Root =$ <span class="he">גדל</span>
-    * $V_S = A$ - We might expect Tsere in the Piel but then we remember that Piel Perfect takes Patach in 1st/2nd person
+    * $V_S = A$ - We might expect Tsere in the Piel, but then we remember that Piel Perfect takes Patach in 1st/2nd person
     * Result: Piel Perfect 1cp, we made great
 
 * Word: <span class="he">אֲדַבֶּר</span>
-    * Immediately, note the Daghesh in $R_2$ - your mind should already be asking "is this Piel?"
-        * This could be an assimilated 1-nun verb but you already have what appears to be three-root letters visible
-    * Then remember "Piel-Pael" and note this rhymes with Pael.  So without doing much analysis, we're already pretty sure this is a Piel, non Perfect.
+    * Immediately, note the Daghesh in $R_2$
+        * Your mind should immeadetly be asking, "is this Piel?"
+        * Potentially, this could be an assimilated 1-nun verb, but we already have what appear to be three-root letters visible
+    * Then remember "Piel-Pael" and note this rhymes with Pael.  So without doing much analysis, we're already pretty sure this is a Piel, non-Perfect.
     * $Pre =$ אֲדַבּ, 
-        * We might expect $V_P$ of sheva in the Piel but of course the Aleph takes the Hateph vowel
+        * We expect $V_P = ə$ in the Piel; but, as we know, the Aleph takes the Hateph vowel instead of Sheva
         * The Patach+Dagesh+Tsere combination is consistent with Piel non-Perfect
     * $Sufformative =$ None. With the Aleph preformative, this is I1cs
     * $Root =$ <span class="he">דבר</span>
@@ -264,7 +301,14 @@ Hithpael | תִמְ
     * Result: Piel Imperfect 1cs I will speak
 
 * Word: <span class="he">לַמֵּד</span>
-    * The Dagesh Forte in $R_2$ suggests Piel or assimilated 1-Nun<small>^[<small> Of the three examples on this page, this is the only one where a 1-nun might be plausible.  We have the ל which is a common prefix to an infinitive construct.  If there was a verb נמד, we might want to probe this further as a possible ∞, but we don't know a verb נמד.  Even if we did, the vowels don't match up.  We DO know a verb למד though.  Like in other areas of life, when we have a set of multiple possibilities, the most direct path is often the correct one.</small>]</small>.  You also note that the word rhymes with "Pael", suggesting a "working hypothesis" of Piel, non-perfect.
+    * The Dagesh Forte in $R_2$ suggests Piel or assimilated 1-Nun
+        * Of the verb examples on this page, this is the only one where a 1-nun might be plausible
+            * We have the ל, which is a common prefix to an infinitive construct
+            * If there was a verb נמד, we might want to probe this further as a possible ∞, but we don't know a verb נמד
+            * Even if this were a 1נ verb,, the vowels don't match up
+        * We DO know a verb למד though
+            * Like in other areas of life, when we have a set of multiple possibilities, the most direct path is often the correct one
+        * You also note that the word rhymes with "Pael", suggesting a "working hypothesis" of Piel, non-perfect
     * $Pre =$ לַמּ,
     * $Sufformative =$ none.  No preformative, no sufformative could be QP, but the vowels don't match Qal at all. The vowels do match Piel.
         * This can't be DP because $V_1 \not = I$
@@ -272,7 +316,7 @@ Hithpael | תִמְ
         * This can't be DPt because DPt begins with <span class="he">מְ</span>
         * DM2ms, D∞, and DA each work
     * $Root =$ <span class="he">למד</span>
-    * $V_S = \bar E$, consistent with Piel (except DP1/2 person)
+    * $V_S = \bar E$, consistent with Piel (except Piel Perfect 1/2 person)
     * Result: D(M2ms/∞/A) - Teach! or to teach
 
 ## Stem Comparison Table
@@ -287,26 +331,28 @@ include_graphics("images/26_stemcomp.png")
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/6A3f3WemMmE){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/6A3f3WemMmE" frameborder="0"></iframe>
 </div>
 
 
-## Verses Warm-up {-}
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/6A3f3WemMmE){target="_blank"}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/NGT8fiuGGp0){target="_blank"}
+
+
+## Verses Warm-up {-}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/NGT8fiuGGp0" frameborder="0"></iframe>
 </div>
 
 
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/NGT8fiuGGp0){target="_blank"}
+
+
 ## Worksheets: Piel Strong Paradigms {-}
 
-Use your knowledge of the $Pre$, $Suf$, and $V_S$ of the Piel stem, complete the worksheet until you can do it once through correctly.
+Use your knowledge of the diagnostics Piel stem to complete the Piel worksheet.
 
 Strive for pattern recognition over rote memorization.
 
@@ -318,7 +364,7 @@ We are now at the exciting stage where we can begin to stitch together an analys
 
 We're going to do this in small chunks over the next several lessons.  
 
-If Ruth 1 is "Act 1" of the drama, then we'll start with what is essentially "scene 1": Ruth 1:1-6.
+If Ruth 1 is "Act 1" of the drama, we'll start with what is "scene 1": Ruth 1:1-6.
 
 ::: {.box .map}
 YOUR QUEST
@@ -331,7 +377,7 @@ YOUR QUEST
 3. Compare your version with translations of your choice.  These may include JPS, KJV, ESV, NASB, NIV, or NLT.  
     * At what points do you agree and disagree with translation decisions made by these publications? 
 
-This exercise is for you.  You do not have to turn this in and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their edification. 
+This exercise is for you.  You do not have to turn this in, and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their feedback and encouragement.
 
 :::
 
@@ -346,6 +392,5 @@ YOUR HEBREW QUEST
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/exodus-31.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
     * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31){target="_blank"}
-
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 :::

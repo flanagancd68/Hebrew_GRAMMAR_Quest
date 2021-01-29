@@ -68,7 +68,7 @@ yY3O8ByYNwI?start=1232&end=1647
 
 ## _Hebrew Quest_ Pronominal Suffixes
 
-Although this 10-minute video is from the "Complex Verbs" section of _Hebrew Quest_, the concepts Izzy discusses will be applicable to Lesson 9 of Hebrew GRAMMAR Quest.  At this time, don't worry about any references to verb stems. We will study _verbal_ pronominal suffixes in Lesson 19.
+Although this 10-minute video is from the "Complex Verbs" section of _Hebrew Quest_, the concepts Izzy discusses apply to Lesson 9 of Hebrew GRAMMAR Quest.  At this time, don't worry about any references to verb stems. We will study _verbal_ pronominal suffixes in Lesson 19.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/hWmwyosdP-s?start=2731&end=3341&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
@@ -110,7 +110,7 @@ Pronominal suffixes have *gender*, *number*, and *person*.
 
 ## Singular Suffixes
 
-* While Type 1 and Type 2 suffixes have key differences, there are also some commonalities with singular suffixes of both types.
+* While Type 1 and Type 2 suffixes have key differences, there are also some commonalities with both types' singular suffixes.
 * Below are the singular suffixes
 
 ```{r, out.width = "400pt", fig.align='center'}
@@ -120,7 +120,7 @@ knitr::include_graphics("images/09.ps_sing_tbl.png")
 
 * 1CS end with י
 * 2MS/2FS end with ך
-* Not all 3M/3F have ה but every ה is 3M/3F
+* Not all 3M/3F have ה, but every ה is 3M/3F
 
 ## Plural Suffixes
 
@@ -133,7 +133,7 @@ knitr::include_graphics("images/09.ps_plrl_tbl.png")
 
 * 1CP ends with נוּ
 * 2MP/2FP have כ
-* Not all 3M/3F have ה but every ה is 3M/3F
+* Not all 3M/3F have ה, but every ה is 3M/3F
 * 2MP/3MP has מָה or ם ('monks')
 * 2FP/3FP has נָה or ן ('nuns')
 
@@ -146,9 +146,9 @@ Type 2 **always** contains vowel + yod, but **not** hiriq + yod
 Type 1 **never** contains yod, *unless* it's hiriq+yod
 :::
 
-*This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
-* When you encounter a word with a suffix, always start by asking "is there a vowel + yod, that is not hiriq + yod?"
-    * If yes, then we have a Type 2 suffix, which indicates the noun is plural
+* This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
+* When you encounter a word with a suffix, always start by asking, "is there a vowel + yod, that is not hiriq + yod?"
+* If yes, then we have a Type 2 suffix, which indicates the noun is plural
 
 
 ```{r, out.width = "600pt", fig.align='center'}
@@ -167,7 +167,7 @@ Part of learning to read Biblical Hebrew is assembling a set of skills that make
     * If the remaining word ends with a <span class="he">ת</span>, it is likely Feminine. Replace <span class="he">ת ַ</span> or <span class="he">ת ָ</span>  with<span class="he"> ה ָ</span> (usually)
         * See תּוֺרָתָם as an example
         * Note בֵּית does not have a feminine ending; we will recognize this word from our vocabulary memory
-    * If the remaining word does not end with a <span class="he">ת</span>, it is likely masculine.  Most often, masculine words are endingless but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
+    * If the remaining word does not end with a <span class="he">ת</span>, it is likely masculine.  Most often, masculine words are endingless, but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
         * See שָֹדֶה, which is another word that should be memorized
 3. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
     * See word בֵּיתְךָ
@@ -216,7 +216,7 @@ Two of the prepositions we studied in Lesson 6 undergo some irregular changes yo
     
 The rule still applies:
 
-> Type 2 suffixes **always** begins with vowel + yod, but **not** hiriq + yod
+> Type 2 suffixes **always** begin with vowel + yod, but **not** hiriq + yod
 
 This _Hebrew Quest_ segment discusses pronominal suffixes with prepositions:
 
@@ -231,7 +231,7 @@ yY3O8ByYNwI?start=921&end=1160
 ## Look-alike words: <span class="he">אֵת</span> as "with" or as Definite Direct Object (DDO) marker
 
 * As we learned previously, <span class="he">אֵת</span> can mean either the DDO or the preposition "with".  They are spelled the same way, and either form can take a pronominal suffix.
-* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DD, when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
+* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DD when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
     * 3MS: <span class="he">אֹתוֹ</span>
     * 2FP: <span class="he">אֶתְכֶן</span>
 * When then author intends to communicate the preposition with, as in "with him", the א will take a Hireq in all forms
@@ -255,7 +255,7 @@ This one is _slightly_ easier.
 * <span class="he">אֵלִי</span>, my God is the only form of <span class="he">אֶל</span> that appears with a pronominal suffix in the Bible
 * to me (1CS) is: <span class="he">אֶלַי</span> - Patach under the <span class="he">ל</span>
 
-Although <span class="he">אֵל</span> may not appear with a suffix apart from this one time, <span class="he">אֱלֹהִ֑ים</span> can, and in the Torah, frequently does take suffixes.   The ords pairs below are close but not equivalent.
+Although <span class="he">אֵל</span> may not appear with a suffix apart from this one time, <span class="he">אֱלֹהִ֑ים</span> can, and in the Torah, frequently does take suffixes.   The words below are close but not equivalent.
 
 * <span class="he">אֱלֹהֶ֑יךָ</span>  = your God (See Deuteronomy 6:5)
 * <span class="he">אֵלֶ֫יךָ</span> = to you (2MS)

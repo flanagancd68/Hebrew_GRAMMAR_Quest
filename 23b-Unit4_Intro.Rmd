@@ -2,18 +2,20 @@
 
 # Introduction to Unit 4 {-}
 
-Congratulations!  You now have the heaviest work of a first-year Hebrew grammar course behind you.  From here on out, we will be studying the six major derived Hebrew Verb stems: Niphal, Piel, Pual, Hiphil, Hophal and Hitpael.
+Congratulations!  You now have the hardest work of a first-year Hebrew grammar course behind you.  From here on out, we will be studying the six major derived Hebrew Verb stems Niphal, Piel, Pual, Hiphil, Hophal, and Hitpael.
 
-The reason we spent so much time on the Qal stem is not only because it's the most frequently occurring stem, but everything from this point forward is based on what you learned in Unit 3.  This means, for the most part, the Lessons that follow will be shorter and much more methodical.
+The reason we spent so much time on the Qal stem is not only because it's the most frequently occurring stem, but everything from this point forward is based on what you learned in Unit 3.  This means, for the most part, the lessons that follow will be shorter and much more methodical.
+
+If you remember our introduction to Unit 3, we drew the comparison to a math formula.  If we know $a^2 + b^2 = c^2$, we do not need to memorize the dimensions of every triangle (assuming that were possible).  Instead, we can take the metaphorical triangle in front of us and use the formula to get what we need.  In Unit 3, you learned all the formulas.  All Unit 4 is going to do is present you with triangles of different sizes.  
 
 Summaries of each of the derived stems will consist of the overall diagnostic features.  It is THESE features that should be memorized, not the numerous paradigms.
 
-## Lessons 24-35 {-}
+## Structure of Lessons 24-35 {-}
 
-Each stem will have two lessons:
-
-* Lesson 1/2 (even number) - The "Strong" Verb paradigm
-    * The meaning of the Stem
+* You will note that 12 lessons remain in the course
+* Each of the six derived stems will have two lessons: a lesson "A" and a lesson "B"
+* Lesson A (even number) will cover the "Strong" Verb paradigm
+    * The meaning of the stem
     * The spelling of the stem
         * Word-initial Prefix/Preformative combinations
         * $V_S$ formulas to help you "diagnose" the stem when you encounter it in the Bible
@@ -21,10 +23,10 @@ Each stem will have two lessons:
         * The Perfect and Imperfect forms will have the Audio from Chapter 15 of _Hebrew Quest_
         * The Anki deck will have exercises to help you with paradigm identification
         * Each lesson will have a worksheet for you to practice the paradigm
-        * From here on out, identification of patterns is more important than memorization of paradigms
-* Lesson 2/2 (odd number) - Weak verb deviations
-    * Spelling changes within caused by the behaviors of gutturals and other weak letters, Geminate verbs, Biconsonantal verbs, and other irregular verbs
-    * Most of the time, you already know the concepts
+        * As we have said, __identification of patterns is more important than memorization of paradigms__
+* Lesson B (odd number) will address weak verb deviations
+    * The b-side will cover spelling changes within caused by the behaviors of gutturals and other weak letters, Geminate verbs, Biconsonantal verbs, and other irregular verbs
+    * Most of the time, you will already know the concepts
         * For example, in some forms of the Niphal Strong paradigm, $R_1$ takes a Dagesh Forte
         * You already know that if $R_1$ is a guttural or Resh, $R_1$ will reject the Dagesh Forte and often (but not always), there will be Compensatory Lengthening
         
@@ -37,52 +39,60 @@ There are only a handful of non-Qal verbs in Ruth 1, so you will only see the `R
 * Lesson 31 - Hiphil
 * Lesson 35 - Hitpael
 
+In Lesson 26, we will start to do a `Ruth Pursuit Analysis`.  
 
-## Review: Vowel and Consonant Shorthand
-
-* To reduce clutter and redundancy, the following chapters will make extensive use of the "Vowel Shorthand" we discussed in the Unit 3 Introduction - be sure you are comfortable with this nomenclature
-* $V_P$ is the vowel that is affixed to the verb's preformative, if there is one
-* $R_1$ is root consonant #1 and $V_1$ is that consonant's vowel
-* $R_2$ is root consonant #2 and $V_2$ is that consonant's vowel
-* $R_3$ is root consonant #3 (we do not use $V_3$).
-
-## Review: Stem Vowel is the Vowel with the 2nd Root Consonant
-
-* $V_S$ is the "Stem Vowel", this is _usually_ $V_2$ 
-    * If the first consonant is lost, $V_S$ is still the vowel with the second root consonant
-        * In **שֵׁב***, $V_S = V_2 = \bar E$ - (Long E - Tsere)
-    * For biconsonantal verbs, $V_S$ is between the consonants
-        * In **קָם***, $V_S = \bar A$ (Long A - Qamets)
-        * In **יַקוּם***, $V_S = \bar U$ (Long U - Shureq)
+* Here, we will start to use your `Ruth Pursuit Translation Worksheet` and your knowledge of grammar rules to begin to compose a paraphrase
+* We will take a few verses at a time
+* You will compose your own paraphrase translation and then compare it to published Bible versions of your choice
+* This exercise is for your edification
+    * You do not have to turn this in and, it will not be graded as a part of this course (as you know, no grades are ever recorded in this course)
+    * We would encourage you to share your passage with the Holy Language Institute Tribe for their edification
 
 ## Stem Vowel Pattern Nomenclature
 
 * The derived stems tend to be much more consistent with their application of stem vowels
 * We will use a code to memorize the stem vowels for non-Qal Strong verbs
-* For example, the stem vowel code is 
+* For example, the stem vowel code for Niphal is 
 
-$$V_{S_N} = A \sim \bar E (A)$$
+$$V_{S} = A \sim \bar E (A)$$
 
-* V_{S_N}$ means the <u>S</u>tem <u>V</u>owel for the <u>N</u>iphal. The final letter is the stem's parsing code.
-* Everything to the LEFT of the tilde, $\sim$, is the PERFECT
-* Everything to the RIGHT of the tilde is the IMPERFECT and related forms, Jussive, Cohortative, Imperative and Infinitive Construct
+* $V_{S}$ means the <u>S</u>tem <u>V</u>owel
+* Everything to the LEFT of the tilde $\sim$ is the stem vowel in the PERFECT conjugation
+* Everything to the RIGHT of the tilde is the stem vowel in the IMPERFECT and related forms, Jussive, Cohortative, Imperative and Infinitive Construct
 * Any exceptions are inside ()
     * Imperfect form exceptions apply to the Feminine Plural
-        * Therefore $(A)$ in the formula means the Stem Vowel in the Imperfect FP, the Jussive FP and the Imperative FP is Short A - Patach
+        * Therefore $(A)$ in the formula means the Stem Vowel in the Imperfect FP, the Jussive FP, and the Imperative FP is Short A - Patach
+        * There are no Cohortative (1st person) feminine forms
     * Perfect exceptions will tend to apply to the 2nd and 1st person forms
-    * Niphal does not have any Perfect exceptions
+    * Niphal does not have any Perfect exceptions so there is nothing next to the first $A$
+* What about Infinitive Absolute and Participles?
+    * It turns out that for stems besides the Qal the Infinitive Absolute like $\bar E$ (Tsere)
+    * Participles, again other than Qal, tend to like the _PERFECT_ $V_S$, _LENGTHENED_ if possible
+        * So for the Niphal Participle, since the Perfect $V_S = A$, the Participle $V_S = \bar A$ (Qamets)
     
 ```{r, out.width = "300pt", fig.align='center'}
 
 knitr::include_graphics("images/23b.stemvowelformula.png")
 ``` 
 
+## What to memorize for all Derived Stems {-}
+* Meaning of $V_S$ pattern
+
+$$V_S = Perfect[2/1 person] \sim Imperfect (Imperfect FP)$$
+
+* Always a Sheva before finite verb endings (unless $\bar E$ (Tsere))
+* Participle $V_S$ = P3ms $V_S$ lengthened if possible (unless $\bar E$ (Tsere))
+* Infinitive Absolute $V_S = \bar E$
+    * Except: $V_S = \hat O$ for QA and some NA
+* Everything else uses Imperfect $V_S$
+    * Imperative, Jussive, Cohortative, ∞
+    
 ## Review: Sheva before Finite Verb Endings
 
 * Finite Verbs have Person (1st, 2nd, 3rd)
     * Thus the Finite verb conjugations are: Perfect, Imperfect, Imperative, Jussive, Cohortative
-    * The non-Finite conjugations are: Infinitive Construct, Infinitve Absolute, Participle
-* A sheva goes before a Finite Verb ending
+    * The non-Finite conjugations are: Infinitive Construct, Infinitive Absolute, Participle
+* A Sheva goes before a Finite Verb ending
     * This means the $V_S$ will REDUCE if the sufformative begins with a VOWEL
     * An exception to the above is that Unchangeable vowel letters do not reduce, so they do NOT take a Sheva
 * The Adjective Endings do NOT take a Sheva - since Participles use adjective endings, they do not take a Sheva

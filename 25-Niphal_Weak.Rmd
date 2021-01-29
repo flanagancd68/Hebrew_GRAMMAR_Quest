@@ -1,10 +1,12 @@
 # The Niphal Stem - Weak Verbs {.N-w}
 
 
-Now that we have learned the basic groundrules for the Niphal stem in Lesson 24, we now turn our attention to the spelling changes caused by verbs with one or more weak letters.  In all stems, weak verbs tend to be much more prevalent, but it is easier to start with the strong verb patterns, then "manage by exception" when it comes to the corresponding weak verbs.
+Now that we have learned the basic ground rules for the Niphal stem in Lesson 24, we now turn our attention to the spelling changes caused by verbs with one or more weak letters.  
+
+In all stems, weak verbs tend to be much more prevalent.   We start by learning the strong verb patterns, then we can "manage by exception" to diagnose the corresponding weak verbs.
 
 ::: {.box .map}
-LESSON ITINERARY
+__LESSON ITINERARY__
 
 1. 1-Guttural Take Hateph Vowels, which changes $V_P$
 1. 1-Guttural/Resh Compensatory Lengthening
@@ -21,7 +23,6 @@ Before continuing, can you describe the following concepts from Lesson 24?
 
 * The Niphal $Pre$ sequences
 * The Niphal $V_S$ formula
-* What to Memorize for Derived Stems
 :::
 
 ## First Thought {-}
@@ -62,20 +63,20 @@ knitr::include_graphics("images/25.Sunrise over Mount of Olives, tb031605564.jpg
 
 * Guttural takes Hateph Vowel instead of Sheva
     * Remember the Rule of Sheva - "Hateph Copy Cat"
-    * Whichever Hatef vowel is under the guttural, the Niphal prefix will take the corresponding short Vowel
+    * Whichever Hateph vowel is under the guttural, the Niphal prefix will take the corresponding short vowel
         * Strong - <span class="he">נִקְ</span>
         * 1G - <span class="he">נַעֲ</span> or <span class="he">נֶאֱ</span>
-    * If $R_2$ has a sheva, then $R_1$ lengthens from Hateph to it's corresponding short vowel
+    * If $R_2$ has a Sheva, then $R_1$ lengthens from Hateph to its corresponding short vowel
         * 1G -<span class="he">נֶאֶמְ</span>
 * Guttural and Resh reject Dagesh Forte
     * Strong - <span class="he">הִקָּ</span>
     * 1G/1R - <span class="he">יֵעָ</span>
 
-## 1-Yod
+## 1י
 
 ::: {.box .info}
-* Most 1-Yod verbs were originally 1-Vav
-* In some forms, the "original Vav" reappears
+* Historically, in the evolution of the language, most 1-Yod verbs used to begin with a Vav
+* In some forms, that "original Vav" reappears
 :::
 
 * 1-Yod shifts to Holem Vav when $Pre$ = <span class="he">נִקְ</span>
@@ -91,13 +92,13 @@ If you see what looks like a "1-Vav" verb, parse it as 1-Yod
 :::
 
 
-## 1-Nun with Silent Sheva Assimilates
+## 1נ with Silent Sheva Assimilates
 
 * When Niphal $Pre =$ <span class="he">נִקְ</span>:
     * NP3ms - NOT *<span class="he">נִנְצַל</span> but <span class="he">נִצַּל</span>
     * NPtMS - NOT *<span class="he">נִנְטָל</span> but <span class="he">נִצָּל</span>
 
-## 3-Aleph Changes $V_S$
+## 3א Changes $V_S$
 
 ::: {.map .light}
 You can usually parse a 3-Aleph verb based on the preformative alone
@@ -106,16 +107,17 @@ You can usually parse a 3-Aleph verb based on the preformative alone
 * For 3-Aleph, there is a unique Niphal $V_S$ formula
 
 $$V_S = \bar A(\bar E) \sim \bar E(E)$$
-* Don't memorize the changed pattern, since you can still parse based on the preformative
+
+* You do not need to memorize the changed pattern since you can still parse based on the preformative
 * $\bar A(\bar E)$ means:
-    * $\bar A$ (Qamets) in the NP <u>3rd person</u>, (reduced except in 3ms)
+    * $\bar A$ (Qamets) in the NP <u>3rd person</u> reduced (except in 3ms)
     * $(\bar E)$ (Tsere) in the NP <u>1st and 2nd person</u>
 * NPt is still the P3ms $V_S$ lengthened
     * $\bar A$ is already a long vowel
     * So 3-Aleph NP3ms and NPtMS have the same spelling
     * <span class="he">נִמְצָא</span> is NP3ms or NPtMS
     
-## 3-Hei Verbs Follow the same general principles
+## 3ה Verbs Follow the same general principles
 
 ::: {.map .info}
 To review: 
@@ -129,7 +131,7 @@ To review:
     * Ni2fs - NOT *<span class="he">תִּבָּנָהִי</span>, but <span class="he">תִּבָּנִי</span>
 2. If the sufformative begins with a consonant, (vowel)+Yod goes between $R_2$ and the sufformative
     * NP2ms - NOT *<span class="he">נִבְנָהתָ</span>, but <span class="he">נִבְנֵ֫יתַ</span> (Tsere+Yod for Perfect in the PASSIVE stems: Niphal, Pual, Hophal)
-    * Ni3fp - NOT *<span class="he">תִּבָּנָהנָה</span>, but <span class="he">תִּבָּנֶ֫ינָה</span> (Seghol+Yod for Imperfect and IMperative)
+    * NI3fp - NOT *<span class="he">תִּבָּנָהנָה</span>, but <span class="he">תִּבָּנֶ֫ינָה</span> (Seghol+Yod for Imperfect and IMperative)
     * Hireq+Yod for Perfect in the NON-PASSIVE stems: Qal, Piel, Hiphil, Hitpael)
 3. If NO sufformative or pronominal suffix, add 3-Hei ending after $R_2$
     * NP3ms <span class="he">נִבְנָה</span> (Qamets-Hei for Perfect)
@@ -141,11 +143,22 @@ To review:
     * NP3ms - <span class="he">נִבְנָה</span>
     * NP3fs - <span class="he">נִבְנְתָה</span>
 
+Review 3ה endings by Conjugation:
+
+| Conj | Hebrew | Vowel when no sufformative
+| :- | :- | :-
+| P | <span class="he">בָּנָה</span> | Qamets+Hei
+| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
+| M | <span class="he">בְּנֵה</span> | Tsere+Hei
+| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
+| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
+| Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
+
+
 ## What to Memorize for Niphal Weak
 
 ::: {.box .light}
-Think your way through the weak verb $Pre$ to get back to the 
-Niphal Strong $Pre$
+Think your way through the weak verb $Pre$ to get back to the Niphal Strong $Pre$
 :::
 
 * 1G - $Pre$ <span class="he">נַעֲ</span> or <span class="he">נֶאֱ </span> or <span class="he">נֶאֶמְ</span> is the same as strong $Pre$ <span class="he">נִקְ</span>
@@ -158,10 +171,14 @@ Also:
 * Verbs that look "1-Vav" are actually 1-Yod - <span class="he">יִוָּשֵׁב</span>
 * Memorize the list of 3-ה verb endings:
 
-```{r, out.width = "500pt", fig.align='center'}
-
-knitr::include_graphics("images/25-3-hei_endings.png")
-``` 
+| Conj | Hebrew | Vowel
+| :- | :- | :-
+| P | <span class="he">בָּנָה</span> | Qamets+Hei
+| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
+| M | <span class="he">בְּנֵה</span> | Tsere+Hei
+| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
+| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
+| Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
 
 ## Top 10 Niphal Verbs 
 
@@ -178,21 +195,21 @@ knitr::include_graphics("images/25-3-hei_endings.png")
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/Pq3PWd41uQE){target="_blank"}
-
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/Pq3PWd41uQE" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/Pq3PWd41uQE){target="_blank"}
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/hgbj52voNtw){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/hgbj52voNtw" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/hgbj52voNtw){target="_blank"}
 
 
 ## Ruth Pursuit {-}        
@@ -202,19 +219,19 @@ YOUR QUEST
 
 Identify, parse, and translate the five Niphal verbs in Ruth 1.
 
-You are likely unfamiliar with the meanings of at least two of these.  Identify the Niphal forms by their diagnostics, then identify and look-up the meaning of the root. 
+You are likely unfamiliar with the meanings of at least two of these.  Identify the Niphal forms by their diagnostics, then identify and look-up the root's meaning.
 
-By now, if you have been completing your `Ruth Pursuit` table along with each Lesson, you may have noted that there aren't that many words left in the passage that we haven't translated.  This may make it easier for you to identify the remaining verbs by process of elimination, but do make sure you understand WHY the words you select are Niphal.
+By now, if you have been completing your `Ruth Pursuit` table along with each lesson, you may have noted that there aren't that many words left in the passage that we haven't translated.  This may make it easier for you to identify the remaining verbs by process of elimination, but make sure you understand WHY the words you select are Niphal.
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #25](./images/25_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
 <!-- Lesson 25 Tribe Badge 9 = Naftali -->
 
-Check to be sure you have have completed all activities through this lesson, then fill out the form below.
+Once you have completed all activities through this lesson, complete the form below to receive your next badge!
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ScmbVPvSFGLW9P9p8" frameborder="0"></iframe>
@@ -230,5 +247,5 @@ YOUR HEBREW QUEST:
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/john-1.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 :::

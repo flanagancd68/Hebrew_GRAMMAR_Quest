@@ -13,15 +13,13 @@ The Niphal stem occurs 4,138 times in the Bible.
 LESSON ITINERARY
 
 1. The meaning of the Niphal stem
-1. $Pre$ combinations diagnostic of the Niphal Stem
+1. $Pre$ combinations diagnostic of the Niphal stem
 1. Niphal Stem Vowels
 1. What to Memorize
 :::
 
 ::: {.box .stop}
 EQUIPMENT CHECK
-
-Before continuing, can you describe the following concepts?
 
 * You must have all of the Qal strong verb paradigms committed to memory: Perfect, Imperfect, Imperative, Infinitive Construct, Infinitive Absolute, and Particle
 * Review the $V_S =$ nomenclature from the Unit 4 Introduction
@@ -34,7 +32,7 @@ Before continuing, can you describe the following concepts?
 
 *From the Gadites there came over to David in the stronghold in the wilderness (1 Chronicles 12:9)*
 
-En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty part of Israel adjacent to the Dead Sea.  Similarly, our walk with Yeshua (and indeed, our study of Hebrew!) can sometimes leave us feeling dry and dehyrdated.  Just as David had a retreat at En Gedi, it is important for us to remain connected to our source of Living Water as we go through life's journeys.
+En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty part of Israel adjacent to the Dead Sea.  Similarly, our walk with Yeshua (and indeed, our study of Hebrew!) can sometimes leave us feeling dry and dehydrated.  Just as David had a retreat at En Gedi, we need to remain connected to our source of Living Water as we go through life's journeys.
 
 
 <figure>
@@ -52,7 +50,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
-knitr::include_graphics("images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg")
+knitr::include_graphics("./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg")
 ``` 
 
 
@@ -69,7 +67,7 @@ Cause an Action	| Hiphil | Hophal
 * Reminders:
     * The table gives broad generalization; many verbs do not fit neatly into the table's definitions
     * Use a lexicon/dictionary to check the meanings in different stems
-    * Few verbs occur in all stems - there are many Niphal verbs that NEVER occur in Qal
+    * Few verbs occur in all stems - many Niphal verbs NEVER occur in Qal
 * Lesson 25 will have a list of the most frequent Niphal verbs
 
 ## Niphal Meanings
@@ -84,17 +82,18 @@ Cause an Action	| Hiphil | Hophal
 
 ## Parsing Clues - _Pre_:  the נ prefix is added to EVERY conjugation
 
-* For ease of reference, we are going to use the label $Pre$ for any diagnostic combination of word-initial consonants (prefix or root letters), vowels, and Dagesh Fortes (as applicable)
+* Remember, we use the label $Pre$ for any diagnostic combination of word-initial consonants (prefix or root letters), vowels, and Dagesh Fortes (as applicable)
     * ק is used as a placeholder to represent $R_1% of any strong verb
+    * For the Imperfect forms, י represents any of the Imprefect preformatives (note that 1cs א often usually takes a different $V_P$)
 
 :::{.box .light}
-Memorize these three $Pre$ formulas and the conjugations in which they are used:
+Memorize these three $Pre$ formulas and the conjugations in which they are used
 :::
 
-* Perfect, Participle, some Infinitive Absolute: $Pre =$ <span class="he">נִקְ</span>        
-* Imperfect: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
-    * Imperfect 1cs: $Pre =$ <span class="he">אֶקָּ</span> (like the Qal) OR <span class="he">אִקָּ</span>
-* Imperative/∞/some Infinitive Absolute:$Pre=$ <span class="he">הִקָּ</span>
+* NP, NPt, some NA: $Pre =$ <span class="he">נִקְ</span>        
+* NI: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
+    * NI1cs: $Pre =$ <span class="he">אֶקָּ</span> (like the Qal) OR <span class="he">אִקָּ</span>
+* NM, N∞, some NA:$Pre=$ <span class="he">הִקָּ</span>
 
 ::: {.box .info}      
 * The נ prefix is added to <u>every</u> form of <u>every</u> conjugation
@@ -108,11 +107,17 @@ Memorize these three $Pre$ formulas and the conjugations in which they are used:
 
 ::: {.box .light}
 Memorize the $V_S$ formulas for each stem
-
-    *  NP = $A$
-    *  NP/NI/N∞ = $\bar E$ ($A$ for Feminine Plural forms)
-    *  NA (and A for all derived stems) = $\bar E$ (usually)
-    *  NPt (and Pt for all derived stems) = the P3ms $V_S$, _lengthened if possible_
+:::
+* $V_S = A \sim \bar E(A)$
+* Left of $\sim$:
+    * NP = $A$
+        * Other stems will have a vowel in brackets, indicating a different $V_S$ for 1st and 2nd person
+    * NPt (and Pt for all derived stems) = the P3ms $V_S$, _lengthened if possible_
+        * Npt $V_S = \bar A$
+* Right of $\sim$:
+    *  NP/NI/N∞ = $\bar E$ 
+        * ($A$ for Feminine Plural forms)
+*  Absolute is not listed in the formula because for all derived stems, Absolute $V_S = \bar E$ (except $\hat O$ for QA and some NA)
 :::
 
 * Perfect $V_S=A$, so NP3ms = <span class="he">נִקְתַל</span>
@@ -134,26 +139,13 @@ Memorize the $V_S$ formulas for each stem
         * Qal Active, Piel and Hitpael
     
 
-## What to memorize for all Derived Stems {-}
-* Meaning of $V_S$ pattern
-
-$$V_S = Perfect[2/1 person] \sim Imperfect (Imperfect FP)$$
-
-* Always a Sheva before finite verb endings (unless $\bar E$ (Tsere))
-* Participle $V_S$ = P3ms $V_S$ lengthened if possible (unless $\bar E$ (Tsere))
-* Infinitive Absolute $V_S = \bar E$
-    * Except: $V_S = \hat O$ for QA and some NA
-* Everything else uses Imperfect $V_S$
-    * Imperative, Jussive, Cohortative, ∞
 
 ## What to memorize for Niphal 
 
 * The Three $Pre$ Sequences
-    * $Pre_{NP, NPt} =$ <span class="he">ְנִק</span>        
-        * Also one form of NA
-    * $Pre_{NI3m} =$ <span class="he">יַקְ</span> - and so forth for the other Imperfect forms
-    * $Pre_{NM/N∞}= $<span class="he">מַקְ</span>
-        * Also one form of NA
+    * NP/NPt/One form of NA: $Pre =$ <span class="he">נִקְ</span>        
+    * NI: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
+    * NM/N∞/One form of NA: $Pre =$ <span class="he">הִקָּ</span>
 * The Niphal $V_S$ formula and what it means
     * $V_{S} = A \sim \bar E(A)$
 
@@ -165,10 +157,12 @@ $$V_S = Perfect[2/1 person] \sim Imperfect (Imperfect FP)$$
 YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
 
 * The paradigms are presented so that you may see and hear each form
-* With your knowledge of the Qal paradigms, you should be able to write the non-Qal paradigms from principles listed on the previous sections
+* With your knowledge of the Qal paradigms, you should be able to write the non-Qal paradigms from principles listed in the previous sections
 :::
 
-* In the Perfect the נ of the Niphal is WRITTEN
+* In the Perfect, the נ of the Niphal is WRITTEN
+* $Pre$ - $V_P = I$ and $V_1 = \ :$
+* $V_S = A$ (unless reduced)
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -179,7 +173,7 @@ YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
 | 1cs | <span class="he">נִקְטַ֫לְתִּי</span> | 1cp | <span class="he">נִקְטַ֫לְנוּ</span>
 
 <figure>
-    <figcaption>X Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+    <figcaption>Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
     <audio
         controls controlsList="nodownload"
         src="./images/24.Niphal_Perfect.mp3">
@@ -192,6 +186,9 @@ YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
 ## Paradigm: Niphal Imperfect Strong
 
 * In the Imperfect, the נ of the Niphal is ASSIMILATED
+* $Pre$ - $V_P = I$, Dagesh Forte in $R_1$, and $V_1 = \bar A$ = <span class="he">יִקָּ</span>
+* $V_S = \bar E$ (unless reduced)
+    * For FP forms, $V_S = A$
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -215,6 +212,9 @@ YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
 
 * In the Imperative, the נ of the Niphal is ASSIMILATED
 * You can tell an Imperative from an Imperfect by the <span class="he">הִ</span>, which is not an Imperfect preformative
+* $Pre$ - $V_P = I$, Dagesh Forte in $R_1$, and $V_1 = \bar A$ = <span class="he">הִקָּ</span>
+* $V_S = \bar E$ (unless reduced)
+    * For 2FP form, $V_S = A$
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -225,13 +225,16 @@ YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
 * Frequently, the 2ms Imperative appears with an ה ָ ending
 
 ::: {.box .caution}
-Advance Notice:
+ADVANCE NOTICE
 
-Hiphil Perfect verbs also have $Pre =$ <span class="he">הִקְ</span>, but Hiphil non-Perfect verbs have $Pre =$ <span class="he">הַקְ</span>. As long as you are able to distinguish a perfect from a non-perfect form, the <span class="he">הִ</span> prefix will pose little difficulty.
+Hiphil Perfect verbs also have $Pre =$ <span class="he">הִקְ</span>, but Hiphil non-Perfect verbs have $Pre =$ <span class="he">הַקְ</span>. As long as you can distinguish a perfect from a non-perfect form, the <span class="he">הִ</span> prefix will pose little difficulty.
+:::
+
 ## Paradigm: Niphal Infinitives Strong
 
 * In one form of the Infinitive Absolute, the נ of the Niphal is WRITTEN
 * In the other form of the Infinitive Absolute, the נ of the Niphal is ASSIMILATED
+* The Niphal Infinitive Construct is identical to the NM2ms
 
 | Type | Paradigm 
 | :-  | :- 
@@ -245,7 +248,7 @@ Hiphil Perfect verbs also have $Pre =$ <span class="he">הִקְ</span>, but Hip
 
 * In the QA, $V_S = \hat O$ - ALWAYS
 * Some forms of Niphal also have $V_S = \hat O$
-    * $\hat O$ <span class="he">וֹ</span> can be written defectively as <span class="he">ֹ</span>
+    * $\hat O$ <span class="he">וֹ</span> can be written defectively.
 
 ## Paradigm: Niphal Participle Strong
 
@@ -268,7 +271,7 @@ Three Exceptions:
 
 * QPt = $\bar E$
 * QPp = $\bar U$
-* The Alternate FS "T-form" = <span class="he">ת ֶ  ֶ </span>
+* The Alternate FS "T-form" = <span class="he">נִקְטֶ֫לֶת</span>
 
 ## Participle Prefixes in the Derived Stems
 
@@ -295,7 +298,7 @@ Hithpael | תִמְ
 
 * <span class="he">נִקְטַל</span> - NP3ms
 * <span class="he">נִקְטֹל</span> - QI1cp (only biconsonantal forms would ever take a holem stem vowel (defective of Holem Vav) in the Niphal )
-* <span class="he">נִקְטָל</span> - Nptms
+* <span class="he">נִקְטָל</span> - NPtms
 
 ## Niphal Parsing Examples
 
@@ -314,10 +317,10 @@ Hithpael | תִמְ
     * $Pre =$ <span class="he">אִכָּ</span>- Niphal Imperfect 1cs + ו
     * $Suf =$ <span class="he">דָה</span>
         * Our first thought might P3fs or 3fs pronominal suffix, but neither of these fit the context
-        * Remember from Lesson 18 that often, the Cohortative appears with an ה ָ ending, but in this passage, "I will be honored in/through Pharaoh" seems to fit better than "Let me be honored through Pharaoh."  This is likely just a spelling variant<small>^[<small>See CHALOT p. 150</small>]</small
+        * Remember from Lesson 18 that often, the Cohortative appears with an ה ָ ending.  In this passage, "I will be honored in/through Pharaoh" seems to fit better than "Let me be honored through Pharaoh."  This is likely just a spelling variant<small>^[<small>See CHALOT p. 150</small>]</small
         * External references tend to parse this as NI1cs
     * $Root =$ <span class="he">כבד</span>  to be heavy/weighty/glorified
-    * $V_S =$  silent sheva (reduced)
+    * $V_S = \ :$  (Silent Sheva)
     * Result: N(I/C)1cs; Imperative: I will be honored or Cohortative: let me be honored
 
 * Word: <span class="he">נִגְרַזְתִּי֮ </span>
@@ -327,13 +330,13 @@ Hithpael | תִמְ
     * $Root =$ <span class="he">גרז</span>
     * $V_S =$ <span class="he">רַ</span>
     * Result: NP1cs - I am cut off (from before your eyes)
-    * More than anything else, this word highlights the importance of being able to differentiate the root from the $Pre$ and $Suf$.  For example, if one thought the root was נגר, the translation would be very much incorrect.  גרז only appears once, here in Psalms 31:23
+    * More than anything else, this word highlights the importance of differentiating the root from the Prefix and Suffix.  For example, if one thought the root was נגר, the translation would be very much incorrect.  גרז only appears once, here in Psalms 31:23
     
 ## Stem Comparison Table
 
 * We can now update our Stem Comparison table to include Niphal
 * Take note of the $Pre$ patterns in red and the $V_S$ in blue
-    * When you are able to work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+    * When you can work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
 
 
 ```{r, out.width = "600pt", fig.align='center'}
@@ -343,27 +346,27 @@ include_graphics("images/24_stemcomp.png")
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/WYDdz_zrwSw){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/WYDdz_zrwSw" frameborder="0"></iframe>
 </div>
+ 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/WYDdz_zrwSw){target="_blank"}
+
 
 
 
 ## Verses Warm-up {-}
 
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/jEQ6P2xIDEo){target="_blank"}
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/jEQ6P2xIDEo" frameborder="0"></iframe>
 </div>
 
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/jEQ6P2xIDEo){target="_blank"}
+
 
 ## Worksheets: Niphal Strong Paradigm {-}
 
-Use your knowledge of the $Pre$, $Suf$, and $V_S$ of the Niphal, complete the worksheet until you can do it once through correctly.
+Use your knowledge of the $Pre$ and $V_S$ of the Niphal, complete the worksheet until you can do it once through correctly.
 
 Again, you do NOT need to have the Niphal paradigms memorized (although that may eventually happen naturally!).
 
@@ -375,13 +378,13 @@ Again, you do NOT need to have the Niphal paradigms memorized (although that may
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
-1. Read the passage - [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/view?usp=sharing){target="_blank"}
+1. Read the passage - [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
     * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
 

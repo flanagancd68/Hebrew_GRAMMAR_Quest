@@ -1,28 +1,19 @@
 # The Piel Stem - Weak Verbs {.D-w}
 
-> To comprehend Biblical Hebrew, we must be able to . . . 
-
-Say something general bridging the desired outcome above with the learning objectives below
+This lesson will continue our overview of the Piel stem by looking at the week verbs.
 
 ::: {.box .map}
-<span class="he">LESSON ITINERARY<span class="he">
+__LESSON ITINERARY__
 
-1. learning_objective_1
-1. learning_objective_2
-1. learning_objective_3
-1. learning_objective_4
-1. learning_objective_5
-1. learning_objective_6
-1. learning_objective_7
+1. Understand how the Piel diagnostics change in weak verb forms
+1. Learn the 10 most frequent verbs in the Piel stem
 :::
 
-::: {.box .stop}
-<span class="he">EQUIPMENT CHECK<span class="he">
+::: {.box .stop)  
+EQUIPMENT CHECK
 
-Before continuing, can you describe the following concepts?
+Before continuing, be sure you are familiar with the diagnostics of the Piel strong forms across the six primary conjugations
 
-* 
-*
 :::
 
 ## First Thought {-}
@@ -30,6 +21,14 @@ Before continuing, can you describe the following concepts?
 ### <span class="he">בֹּ֤אוּ שְׁעָרָ֨יו ׀ בְּתוֹדָ֗ה חֲצֵרֹתָ֥יו בִּתְהִלָּ֑ה הֽוֹדוּ־ל֝֗וֹ בָּרֲכ֥וּ שְׁמֽוֹ׃</span> {-}
 
 *Enter His gates with thanksgiving And His courts with praise. Give thanks to Him, bless His name. (Psalms 100:4)*
+
+We pray that you are still enthusiastically looking forward to each new Lesson of Hebrew GRAMMAR Quest.  We realize it's a long road that you have traveled, yet at this stage, it might seem like you still have a long ways to go before reaching your destination.  Be of good cheer and do not lose heart!  
+
+God is working within you through these lessons!  Throughout your life, you have likely had many journeys and many destinations.  Each lesson you finish and each day you complete your `Anki` reviews is a small destination: an arrival of sorts that should be celebrated.
+
+Many people who travel to Israel rightly look back on Jerusalem as the pinnacle of their trip. And in a sense, many "first-timer" tours are structured so that Jerusalem is the "grand finale".  However, if those tourists were focused ONLY on getting to Jerusalem, they could miss the blessings of the many other places they visited and the lessons learned along the way.
+
+You are nearing the end of your journey! Keep focusing on Him!  Make sure each day you are entering into His presence with thanksgiving and praise!
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -44,69 +43,75 @@ Before continuing, can you describe the following concepts?
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Golden menorah for third temple. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
-knitr::include_graphics("images/27_Golden menorah for third temple, tb123199206.jpg")
+knitr::include_graphics("./images/27_Golden menorah for third temple, tb123199206.jpg")
 ``` 
 
 
 
 
-<!-- picture -->
-
-```{r, out.width = "400pt", fig.align='center'}
-
-knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
-``` 
-
-
-
-## 3-Guttural
+## Third Guttural (all variants)
 
 ::: {.box .light}
-* 3-G verbs will change the Stem Vowel
-* In the Piel, we can determine the Stem by the $Pre$ and $Suf$, so we can effectively ignore what happens to the $V_S$
+* All third guttural verbs will change the Stem Vowel
+* In the Piel, we can determine the Stem by the $Pre$ and sufformatives, so we can effectively ignore what happens to the $V_S$
+* You do not need to memorize the $V_S$ formulas below; just understand that the vowels change with these weak letters
 :::
 
-* Strong - $V_S = \bar E(A) \sim \bar E$
+* Strong - $V_S = \bar E[A] \sim \bar E$
 * 3-ע/ח - $V_S = A \sim A$
 * 3-א - $V_S = \bar E \sim \bar E(A)$
-* 3-ה - The same as 3-ה in other stems
-    * Memorize the 3-ה endings:
+* 3-ה - The same as 3-ה in other stems:
 
-```{r, out.width = "500pt", fig.align='center'}
+| Conj | Hebrew | Vowel when no sufformative
+| :- | :- | :-
+| P | <span class="he">בָּנָה</span> | Qamets+Hei
+| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
+| M | <span class="he">בְּנֵה</span> | Tsere+Hei
+| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
+| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
+| Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
 
-knitr::include_graphics("images/25-3-hei_endings.png")
-``` 
 
 
-## 2-Aleph/Resh often cause DP $V_1 = \bar E$ and $V_1 = \bar A$ in all other forms
+## 2-Guttural Reject Sheva 
 
+
+* Going way back to the very first lessons of Hebrew GRAMMAR Course, we studied the different behavior of Gutturals and Resh
 * 2-G verbs will take Hateph vowel instead of Vocal Sheva
-    * By know, you already know this.  Whenever you see a hateph vowel just substitute a Sheva to get back to the Strong paradigm
-    * DP3cp - <span class="he">קִטְּלוּ</span> (strong) is <span class="he">נִחֲלוּ</span> (2-G)
-* 2-G and 2-ר will reject the Dagesh that is diagnostic of the Piel stem
-    * 2-ר/א will almost always have Compensatory Lengthening
-        * DP2ms, Not *<span class="he">בִרַּ֫כְתָּ</span>, but <span class="he">יְבֶרַ֫כְתָּ</span> (Hireq lengthens to Tsere)
-        * DI3ms, Not *<span class="he">תְּבַרֵךְ</span>, but <span class="he">תְּבָרֵךְ</span>(Patach lengthens to Qamets) 
-    * 2-ה/ח/ע usually do NOT have compensatory lengthening in Piel
-        * DP3cp - Not *<span class="he">נִחֲּמוּ</span>, but <span class="he">נִחֲמוּ</span>
+* Whenever you see a Hateph vowel, substitute a Sheva to get back to the Strong paradigm
+    * DP3cp - <span class="he">קִטְּלוּ</span> (strong) is <span class="he">נִחֲלוּ</span> 
+    * Review Lesson 26 Paradigms for the forms where $V_2 = ə$
 
-::: {.box .info}
-Most verbs either exhibit compensatory lengthening or they do not; however, some verbs may exhibit either pattern.
+## 2-Guttural and 2ר Reject Dagesh Forte
+
+* As we learned in Lesson 26, the Dagesh Forte in $R_2$ is a key distinctive of the Piel (as well as the Pual and Hitpael) stems
+* 2-G and 2-ר will reject that Dagesh Forte
+    * 2-ר/א will almost always have Compensatory Lengthening
+        * DP2ms, Not <span class="he">בִרַּ֫כְתָּ</span>*, but <span class="he">יְבֶרַ֫כְתָּ</span> (Hireq lengthens to Tsere)
+        * DI3ms, Not <span class="he">תְּבַרֵךְ</span>*, but <span class="he">תְּבָרֵךְ</span>(Patach lengthens to Qamets) 
+    * 2-ה/ח/ע usually do NOT have compensatory lengthening in Piel
+        * DP3cp - Not <span class="he">נִחֲּמוּ</span>*, but <span class="he">נִחֲמוּ</span>
+        * Often $V_2$ changes, but do not be concerned about this; the Diagnostic Piel $Pre$ (minus the Dagesh Forte) is still intact
+
+::: {.box .caution}  
+Most Piel verbs exhibit either Compensatory Lengthening, or Virtual Doubling (i.e., either all one or all the other).
+
+However, some verbs may exhibit either pattern.
 :::
 
-## 1-Nun
+## 1נ
 
-* As we know, what makes a 1-nun verb weak is the tendency to assimilate when the nun has a sheva
-* $V_1$ is NEVER a sheva<small>^[<small>To "connect the dots", if $V_2$ MUST be a Dagesh Forte, than $V_1$ MUST be a vowel that is not a sheva.</small>]</small> so 1-Nuns are actually strong in the Piel (meaning there are no spelling changes compared to the Piel Strong Verb Paradigms)
+* As we know, what makes a 1-nun verb weak is the tendency to assimilate when the nun has a Sheva
+* $V_1$ is NEVER a Sheva in the Piel<small>^[<small>To "connect the dots", if $V_2$ MUST be a Dagesh Forte, than $V_1$ MUST be a vowel that is not a Sheva.</small>]</small> so 1-Nuns are actually strong in the Piel (meaning there are no spelling changes compared to the Piel Strong Verb Paradigms)
 * The challenge is that the $Pre$ of a 1-nun Piel Perfect verb is identical to the $Pre$ of a Niphal Perfect verb
 * To demonstrate, consider <span class="he">נִגַּ֫שְׁתָּ</span>, which is either DP2ms or NP2ms:
-    * We do not know whether the <span class="he">נִ</span> is the nun of the Niphal prefix or the 1-nun of the Root in the Piel
-    * We also do not know whether the dagesh in <span class="he">גּ</span> represents the assimilated 1-Nun in the Niphal or the Doubled $R_2$ in Piel
+    * We do not know whether the <span class="he">נִ</span> is the nun of the Niphal prefix, or whether it is the 1-nun of the root in the Piel
+    * We also do not know whether the Dagesh in <span class="he">גּ</span> represents the assimilated 1-Nun in the Niphal, or the Doubled $R_2$ in Piel
     * The $V_S = A$ in both the perfect 1st and 2nd person
         * and $V_S$ is reduced in the P3fs and P3cp in both stems
-    * Context may help if the voice is clearly active or passive, but remember many Niphal meanings are active
+    * The context may help if the voice is clearly active or passive, but remember many Niphal meanings are active
     * You may need to consult a reference for these
     
 ::: {.box .info}
@@ -116,19 +121,21 @@ The good news is that the P3ms $V_S$ are not the same in Piel ($\bar E$, as in <
 ## Biconsonantal: the Polel minor stem
 
 * Biconsonantal verbs lack $R_2$ so there will be no Dagesh
-* What happens is that $R_3$ is doubled (as if it were a geminate) and there is a Holem Vav (sometimes written as a defective Holem) at $V_1$
+* What happens is that $R_3$ is doubled (as if it were a Geminate) and there is a Holem Vav (sometimes written as a defective Holem) at $V_1$
 * Example <span class="he">רוּם</span>
     * DP3ms <span class="he">רוֹמֵם</span> - this is also the same as DM2ms and D∞
     * DP2ms <span class="he">רוֹמַ֫מְתָּ</span>
 
 ::: {.box .info}
-* Biconsonantal Piel is sometimes referred to by the mnemonic, pôlēl
-* Take note that pôlēl is also the form for the QPt 
+* Because of the vowel sequence, Biconsonantal Piel is sometimes referred to by the mnemonic, pôlēl
+    * While there are seven major Hebrew verb stems, many grammars classify many additional minor stems
+    * Polel would be considered a minor stem
+* Take note that pôlēl is also the vowel sequence for the QPt 
 :::
 
 ## Geminate
 
-* Gemininate verbs are sometimes strong
+* Geminate verbs are sometimes strong
     * <span class="he">הִלֵּל</span> or <span class="he">יְהַלֵּל</span>
 * Sometimes they are like pôlēl
     * <span class="he">פּוֹרֵר</span> or <span class="he">יְפוֹלֵל</span>
@@ -140,7 +147,7 @@ Generally, these are not a problem because we are not trying to reduce $R_1$ or 
 ## What to Memorize for Piel Weak
 
 * 3-ה verb endings in all stems
-* 2-G/2-ר verbs lack the Dagesh in $R_2$ - may have compensatory lengthening
+* 2-G/2-ר verbs lack the Dagesh in $R_2$ - may have Compensatory Lengthening
 * 1-נ verbs in DP = NP (except for 3ms)
 * The mnemonic, pôlēl, to remind you of Biconsonantal or Gemininate
 
@@ -156,14 +163,15 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 
 * Word: <span class="he">כַּלּוּ </span>
     * $Pre =$ כַּלּ 
-        * The Dagesh has us thinking Piel and the Patach fits with a non-Perfect Piel beginning.  
+        * The Dagesh in $R_2$ should have us thinking Piel
+        * The Patach fits with a non-Perfect Piel beginning
         * There is no imperfect preformative, which indicates D(M/∞/A)
     * $Suf =$ וּ -
-        * Could be P3cp, but we already ruled Perfect out above. 
+        * This could be P3cp, but we already ruled Perfect out above. 
         * This is also 3mp Imperfect or 2mp Imperative
         * Based only on $Pre$ and $Suf$, we have a strong suspicion this is likely DM2mp
     * $Root =$ <span class="he">כלה</span> - 
-        * We might think כלו, but there is no such word, and we're already pretty sure the shurek is the $Suf$
+        * We might think כלו, but there is no such word, and we're already pretty sure the Shurek is the $Suf$
         * When a $Suf$ begins with a vowel, the ה of a 3-ה verb drops.  
         * From our vocabulary, we know כלה means "to finish"
     * $V_S$ has been erased as is common with 3-ה verbs
@@ -175,12 +183,12 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 
 * Word: <span class="he">שֵׁרְתוּ </span>
     * $Pre$: $V_1 = \bar E$ might give you pause, but when you look at the next letter, you see a Resh, which rejects the Dagesh forte.
-        * The first question to ask is, "I wonder whether this was Hireq+Dagesh originally? Given that there is no other prefix or preformative, this could be Piel Perfect."
+    * The first question to ask is, "I wonder whether this was Hireq+Dagesh originally? Given that there is no other prefix or preformative, this could be Piel Perfect."
     * $Suf=$ Shurek P3cp/I3mp/M2mp
         * The lack of preformative rules out this being an I3mp
         * There are no imperatives that have $V_1 = I / \bar E$
     * $Root =$ <span class="he">שׁרת</span>
-    * $V_S = :$, The original $V_S$ (whatever it was) has been reduced by the Sheva of the finite sufformative.  As it is, we have enough to conclude that this is Piel Perfect.
+    * $V_S = \ :$, The original $V_S$ (whatever it was) has been reduced by the Sheva of the finite sufformative.  As it is, we have enough to conclude that this is Piel Perfect.
     * Result: DP3cp - they served
 
 ## Top 10 Piel Verbs
@@ -198,21 +206,21 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/b_Iu9NXRQS8){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/b_Iu9NXRQS8" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/b_Iu9NXRQS8){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/nIcuyVOHIhw){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/nIcuyVOHIhw" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/nIcuyVOHIhw){target="_blank"}
 
 
 
@@ -225,8 +233,8 @@ Identify, parse, and translate the two Piel verbs in Ruth 1
 Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Daghesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
-* [Ruth Pursuit Answer Key #xx](./images/27_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #27](./images/27_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
@@ -237,12 +245,12 @@ Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 =
 YOUR HEBREW QUEST
 
 1. Read the passages
-    * [Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/edit?usp=sharing){target="_blank"}
-    * [Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/edit?usp=sharing){target="_blank"}
+    * [Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/copy){target="_blank"}
+    * [Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
 3. Watch Izzy's _Hebrew Quest_ videos
     * [Psalm 1](https://holylanguage.com/psalm-1.php){target="_blank"}
     * [Psalm 27](https://holylanguage.com/psalm-27.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 :::

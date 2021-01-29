@@ -1,6 +1,6 @@
 # The Hophal Stem - Weak Verbs {.Hp-w}
 
-Hophal weak verb forms are about five-times as frequent as strong verbs.  As with all the forms, we start with the strong verb diagnostics, which make it easier to understand the spelling changes that occur with weak verbs.  By now, you should be well-acquainted with the concepts discussed in this lesson.
+Most of the Hopal verbs in the Bible are weak.  As with all the forms, we start with the strong verb diagnostics.  This makes it easier to understand the spelling changes that occur with weak verbs.  By now, you should be well-acquainted with the concepts discussed in this lesson.
 
 ::: {.box .map}
 **LESSON ITINERARY**
@@ -13,9 +13,7 @@ Hophal weak verb forms are about five-times as frequent as strong verbs.  As wit
 ::: {.box .stop}
 **EQUIPMENT CHECK**
 
-Before continuing, can you describe the following concepts?
-
-* Identify Hophal Perfect, Imperfect, and Imperative Strong verbs
+Before continuing, be sure you can identify Hophal Perfect, Imperfect, and Participle Strong verbs
 
 :::
 
@@ -23,9 +21,9 @@ Before continuing, can you describe the following concepts?
 
 ### <span class="he">נִשְׁאַ֥ר בָּעִ֖יר שַׁמָּ֑ה וּשְׁאִיָּ֖ה יֻכַּת־שָֽׁעַר׃ </span> {-}
 
-*Desolation is left in the city And the gate is battered to ruins. (Isaiah 24:12)*
+*Desolation is left in the city; and the gate is battered to ruins. (Isaiah 24:12)*
 
-As people of God, we are sometimes faced with situations where we are tempted to ask, "How could He let this happen?" The people of Isaiah's time who witness the destruction of Jerusalem surely had similar questions. Most of the time, we can not provide a satisfactory answer. The only true choice is to relinquish any notion that we can control the situation and, like Job, trust in Him no matter what the outcome.
+As people of God, we are sometimes faced with situations where we are tempted to ask, "How could He let this happen?" The people of Isaiah's time who witnessed the destruction of Jerusalem indeed had similar questions. Most of the time, we can not provide a satisfactory answer. The only right choice is to relinquish any notion that we can control the situation and, like Job, trust in Him no matter what the outcome.
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -40,7 +38,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Zion Gate from south.  The pockmarks in the walls are remants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "400pt", fig.align='center', fig.cap="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 ``` 
@@ -52,10 +50,9 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 
 ## 1G and 3ה Verbs prefer Qamets Hatuf as $V_P$
 
-* $V_1$ will generally be Hateph Qamets Hatuf
-* $V_S$ follows the strong paradigm
-
-
+* $V_P = O$ 
+* $V_1 = \breve O$ (Hateph Qamets Hatuf)
+* $V_S = A$, which follows the strong paradigm
 
 
 
@@ -91,21 +88,21 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 
 ## Word Warm-up {-}
 
-[Click to open `Word Warm-up` video in a new tab](https://youtu.be/DDh5Oy485WU){target="_blank"}
-
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/DDh5Oy485WU" frameborder="0"></iframe>
 </div>
 
+[Click to open `Word Warm-up` video in a new tab](https://youtu.be/DDh5Oy485WU){target="_blank"}
+
+
 
 ## Verses Warm-up {-}
-
-[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/sTvLGMtaSpw){target="_blank"}
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/sTvLGMtaSpw" frameborder="0"></iframe>
 </div>
+
+[Click to open `Verses Warm-up` video in a new tab](https://youtu.be/sTvLGMtaSpw){target="_blank"}
 
 
 
@@ -124,7 +121,7 @@ YOUR HEBREW QUEST
 4. After the video, assess your translation.  How close was it?
     * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/45){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaQodesh speak to you through the passage?
+5. How did the Ruach HaKodesh speak to you through the passage?
 6. Complete Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/37/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 :::
