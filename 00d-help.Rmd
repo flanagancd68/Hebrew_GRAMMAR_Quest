@@ -40,7 +40,7 @@ There are several ways to navigate from page to page within this guidebook:
 knitr::include_graphics("images/checklist.png")
 ```
 
-In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain:^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
 
 
 **Title**|**Description**|**Estimated Minutes**

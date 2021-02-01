@@ -57,7 +57,7 @@ defective_spelling
 dagesh_forte
 dagesh_forte_in_bgdkpt
 gutturals_reject_dagesh_forte
-Syllabification
+syllabification-and-pronunciation
 syllables
 accents
 tonic-pretonic-and-propretonic-syllables

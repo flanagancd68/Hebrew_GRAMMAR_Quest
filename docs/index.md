@@ -205,7 +205,7 @@ There are several ways to navigate from page to page within this guidebook:
 
 <img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
 
-In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain:^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
 
 
 **Title**|**Description**|**Estimated Minutes**
@@ -618,7 +618,8 @@ See **Hebrew Quest** discussion on Right to Left:
 ## Practice Letter Writing  {- #worksheets-1}
 
 ::: {.box .info}
-Depending on your existing familiarity with the Aleph-bet, you may wish to review the `Lesson 01 A. Vocab` module in Anki before attempting the worksheet.
+Depending on your existing familiarity with the Aleph-bet, you may wish to review the `Lesson 01 A. Vocab` module in Anki before attempting the worksheet.  
+:::
 
 * For most of Hebrew GRAMMAR Quest, worksheets will be towards the end of the lesson with the other activities
 * Because memorizing the Alephbet is going to be essential, we would ask you to stop right here and complete the writing activity
@@ -797,7 +798,7 @@ Here is our first `Quest Quiz`.  Remember to treat this as a self-assessment.  I
 
 <!--chapter:end:01b-Alephbet.Rmd-->
 
-# Hebrew Vowels {.vowels}
+# Hebrew Vowels 
 
 > To comprehend Biblical Hebrew, we must understand how words are formed and pronounced
 
@@ -1125,7 +1126,7 @@ If you have completed **all activities** in Lessons 1 and 2, you may claim the f
 
 <!--chapter:end:02-Vowels.Rmd-->
 
-# Syllabification and Pronunciation {#Syllabification}
+# Syllabification and Pronunciation
 
 > To comprehend Biblical Hebrew, we must know how syllables function
 
@@ -1263,9 +1264,11 @@ Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
 <img src="images/03.sheva-shortvowel.png" width="200pt" style="display: block; margin: auto;" />
 
 ### A Sheva is SILENT when the first of two consecutive Shevas _within a word_: {-}
+
 <img src="images/03.sheva-firstoftwo.png" width="200pt" style="display: block; margin: auto;" />
 
 ### A Sheva is SILENT when at the end of a word: {-}
+
 <img src="images/03.sheva-endofword.png" width="200pt" style="display: block; margin: auto;" />
 ::: {.map .light}
 THREE SILENT SHEVA CLUES  

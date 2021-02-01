@@ -1,4 +1,4 @@
-# Hebrew Vowels {.vowels}
+# Hebrew Vowels 
 
 > To comprehend Biblical Hebrew, we must understand how words are formed and pronounced
 

@@ -1,4 +1,4 @@
-# Syllabification and Pronunciation {#Syllabification}
+# Syllabification and Pronunciation
 
 > To comprehend Biblical Hebrew, we must know how syllables function
 
@@ -144,11 +144,13 @@ knitr::include_graphics("images/03.sheva-shortvowel.png")
 ```
 
 ### A Sheva is SILENT when the first of two consecutive Shevas _within a word_: {-}
+
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-firstoftwo.png")
 ```
 
 ### A Sheva is SILENT when at the end of a word: {-}
+
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-endofword.png")
 ```

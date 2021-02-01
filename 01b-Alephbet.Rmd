@@ -147,7 +147,8 @@ knitr::include_graphics("images/kimnepatz.gif")
 ## Practice Letter Writing  {- #worksheets-1}
 
 ::: {.box .info}
-Depending on your existing familiarity with the Aleph-bet, you may wish to review the `Lesson 01 A. Vocab` module in Anki before attempting the worksheet.
+Depending on your existing familiarity with the Aleph-bet, you may wish to review the `Lesson 01 A. Vocab` module in Anki before attempting the worksheet.  
+:::
 
 * For most of Hebrew GRAMMAR Quest, worksheets will be towards the end of the lesson with the other activities
 * Because memorizing the Alephbet is going to be essential, we would ask you to stop right here and complete the writing activity
