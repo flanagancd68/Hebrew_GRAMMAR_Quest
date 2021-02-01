@@ -59,53 +59,59 @@ h1.title {
 
 
 /**
- * Initialiazing a `footnotes` counter on the wrapper
- */ 
-article {
-  counter-reset: footnotes;
+Added 2/1/2021 https://opentextbc.ca/wp-content/uploads/sites/168/pressbooks/scss-debug/epub.scss
+*/
+/* FOOTNOTES & ENDNOTES
+======================== */
+.footnotes {
+    display: block;
+    font-size: 0.875em;
+    margin: 20px 10px 40px 40px;
 }
 
-/**
- * Inline footnotes references
- * 1. Increment the counter at each new reference
- * 2. Reset link styles to make it appear like regular text
- */
-a[aria-describedby="footnote-label"] {
-  counter-increment: footnotes; /* 1 */
-  text-decoration: none; /* 2 */
-  color: inherit; /* 2 */
-  cursor: default; /* 2 */
-  outline: none; /* 2 */
+.footnotes-wrap {
+    list-style: none;
+    display: inline;
 }
 
-.footnote .footnote-label {
-   font-size: 8pt;
-}
-/**
- * Actual numbered references
- * 1. Display the current state of the counter (e.g. `[1]`)
- * 2. Align text as superscript
- * 3. Make the number smaller (since it's superscript)
- * 4. Slightly offset the number from the text
- * 5. Reset link styles on the number to show it's usable
- */
-a[aria-describedby="footnote-label"]::after {
-  content: '[' counter(footnotes) ']'; /* 1 */
-  vertical-align: super; /* 2 */
-  font-size: 0.5em; /* 3 */
-  margin-left: 2px; /* 4 */
-  color: blue; /* 5 */
-  text-decoration: underline; /* 5 */
-  cursor: pointer; /* 5 */
+.footnotes p + p {
+    text-indent: 0;
 }
 
-/**
- * Resetting the default focused styles on the number
- */
-a[aria-describedby="footnote-label"]:focus::after {
-  outline: thin dotted;
-  outline-offset: 2px;
-} 
+.footnotes .footnotes-wrap p {
+    text-indent: -1em;
+}
+
+.footnotes p a {
+    display: inline;
+    text-decoration: none;
+}
+
+footnote  {
+    line-height: 1em;
+    vertical-align: top;
+}
+
+.endnotes hr {
+    border: none;
+    margin-top: 1em;
+}
+
+
+
+.endnotes ol {
+    font-size: 0.7em;
+    margin-top: 5px;
+    margin-left: 0;
+}
+
+.endnotes li {
+    text-indent: 2em;
+}
+
+.endnotes p + p {
+    text-indent: 0;
+}
 
 /**
 Added 10/28/2020 
@@ -190,17 +196,7 @@ Added 11/12/2020
 
 .he	{
     font-family: Times, serif;
-    font-size: 200%
+    font-size: 170%
     }
     
-@font-face {
-	font-family: Times; 
-  font-size: 200%;
-	unicode-range: U+0590-05FF;
-}
-@font-face {
-	font-family: GentiumPlusW;
-	font-style: italic;
-	src: url(GentiumPlus-I.woff);
-	unicode-range: U+0370-03FF, U+1F00-1FFF;
-}
+

@@ -40,6 +40,7 @@ fig:unnamed-chunk-106
 fig:unnamed-chunk-109
 alephbet
 consonants
+aleph-bet-memory-song
 right_to_left
 sofit_letters
 daghesh_lene
@@ -49,7 +50,7 @@ look-alike-letters
 pronunciation
 hebrew-vowels
 vowels
-Sheva
+vocal-and-silent-sheva
 vowel_letters
 transliteration-shorthand
 defective_spelling
@@ -386,7 +387,7 @@ the-pual-stem---weak-verbs
 the-pual-diagnostic-v_1-u-is-maintained-in-almost-all-weak-verbs
 gutturals-reject-dagesh-forte
 biconsonantal-the-polal-minor-stem
-ruth-pursuit-24
+ruth-pursuit-23
 the-hiphil-stem---strong-verbs
 meaning-of-the-hiphil
 hiphil-strong-word-initial-combinations---think-hiphil-haphil

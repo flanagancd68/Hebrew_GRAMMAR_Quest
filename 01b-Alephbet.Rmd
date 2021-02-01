@@ -22,6 +22,7 @@ In this initial lesson, we will meet the Hebrew Aleph-Bet.  The letters are like
 1. Identify the group of five letters that have final/Sofit forms
 1. Identify the group of six letters that can take a Daghesh Lene
 1. Identify the group of four "guttural" letters that cause significant changes in spelling and punctuation (and the one additional letter that sometimes acts as a guttural)
+1. Identify the group of ten letters that _sometimes_ behave differently in limited circumstances
 1. Differentiate among "look-alike" letters
 1. Note differences between "Seminary" and "Sephardic" pronunciation
 
@@ -42,14 +43,16 @@ BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIMINARY` TASKS O
 
 ## First Thought {-}
 
-### שֵׁם יְהוָה אֶקְרָא {-}
+### <span class="he">שֵׁם יְהוָה אֶקְרָא</span> {-}
 
 *For I proclaim the name of Adonai  (Deuteronomy 32:3)*  
 
 As you undertake this study, pray for this Grammar adventure to be fruitful.  May God use your growing knowledge of Hebrew as an instrument to advance His Kingdom, and may you never cease to proclaim His Name! 
 
+-----
+
 <figure>
-    <figcaption>Listen to this verse in Hebrew, then say it out loud:</figcaption>
+    <figcaption>Listen to this verse in Hebrew, then say it out loud.  Repeat the process of listening then saying it back several times until you are pronouncing the verse just like Izzy!</figcaption>
     <audio
         controls controlsList="nodownload"
         src="./images/01.Deu3203.mp3">
@@ -60,7 +63,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
 ``` 
@@ -92,6 +95,18 @@ We encourage you to stop here and move over to _Hebrew Quest_ to complete the Al
 Besides learning the letters, you will learn things each letter has to teach us from a spiritual perspective.
 :::
 
+## Aleph-Bet Memory Song
+
+As needed, sing along with this video by Dr. John Walton of Wheaton College to help you memorize the Aleph-bet:
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hIEB8bpJZhY" frameborder="0"></iframe>
+</div>
+
+[Open video in new tab](https://www.youtube.com/watch?v=hIEB8bpJZhY&feature=youtu.be){target="_blank"}
+
+
+
 ## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
 
 Note the front of a Hebrew book is the back of an English one:
@@ -120,14 +135,33 @@ See **Hebrew Quest** discussion on Right to Left:
 knitr::include_graphics("images/kimnepatz.gif")
 ```
 
-* Hebrew does not have capital letters the way English does, but a somewhat similar concept is five letters take what are called “Final” or “Sofit”<small>^[<small>_Sofit_ is just the Hebrew word for final</small>]</small> forms when they appear at the END of a word
+* Hebrew does not have capital letters the way English does, but a somewhat similar concept is five letters take what are called “Final” or “Sofit”^[_Sofit_ is just the Hebrew word for final] forms when they appear at the END of a word
     * Those letters are in red text above
 * The letter Kaf כּ is the first letter in the Aleph-bet with a sofit form
     * The final form is named Kaf Sofit ך
-    * Same for Mem מ and Mem sofit ם and so on<small>^[<small>"Final Kaf," "Final Mem," etc., are also terms you may hear.</small>]</small>
+    * Same for Mem מ and Mem sofit ם and so on^["Final Kaf," "Final Mem," etc., are also terms you may hear.]
 * The five letters that have these forms are Kaf, Mem, Nun, Pei, and Tsaddi: ך ם ן ף ץ
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 * The KiMNePaTZ sofit forms can look like other letters - your `Anki` work for this Lesson will give you practice with identifying look-alike letters
+
+## Practice Letter Writing  {- #worksheets-1}
+
+::: {.box .info}
+Depending on your existing familiarity with the Aleph-bet, you may wish to review the `Lesson 01 A. Vocab` module in Anki before attempting the worksheet.
+
+* For most of Hebrew GRAMMAR Quest, worksheets will be towards the end of the lesson with the other activities
+* Because memorizing the Alephbet is going to be essential, we would ask you to stop right here and complete the writing activity
+* Please make sure you can do the second part, which is writing the Aleph-Bet once straight through from memory
+    * We try to keep "brute-force memorization" to a minimum in Hebrew GRAMMAR Quest
+    * This way, if we are asking you to memorize something, you will know it's important!
+
+-----
+
+1. Practice writing the letters individually using the [Letter Writing worksheet](./images/01_Letter_Writing_Worksheet.pdf){target="_blank"}
+    * If you would like some tips on how to write the letters, you can use [this guide](01_Letter_Writing_Guide.pdf){target="_blank"} from Dr. Beckman.
+    * As we've said before, we strongly encourage everyone to watch (or re-watch) the [_Hebrew Quest_ lessons on the Aleph-Bet](https://holylanguage.com/letters.html){target="_blank"}
+    
+2. On the reverse side of the worksheet (or on a separate piece of paper), practice writing the entire AlephBet, including the final/sofit forms, until you can do it at least ONCE entirely from memory. Be sure to cover up your previous attempts and any other reference materials.  
 
 ## Six" BeGaD KePHaT" letters take a Daghesh Lene {#daghesh_lene}
 
@@ -135,16 +169,16 @@ knitr::include_graphics("images/kimnepatz.gif")
 knitr::include_graphics("images/bdgkpt.gif")
 ```
 
-* Next, we need to learn the "BeGaD KePhaT" letters<small>^[<small>See also Lesson 3 of _Hebrew Quest_</small>]</small>
+* Next, we need to learn the "BeGaD KePhaT" letters^[See also Lesson 3 of _Hebrew Quest_]
 * The red and blue dots in the above letters are called **DAGHESH LENE**
 * The Daghesh Lene is inserted into the middle of the consonant
     * The pronunciation of the letter is "hard" if the Daghesh Lene present or linguistically "soft" if not present
-        * so ב has a "soft b" sound, in other words, a "v" sound
-        * בּ has a "hard b" sound, in other words, a "b" sound
-        * כ sounds like the "ch" in "bach", while כּ is "k" as in "kite"
-        * פ is the "ph" in "phone", while פּ is the "p" in "pull"
+        * so <span class="he">ב</span> has a "soft b" sound, in other words, a "v" sound
+        * <span class="he">בּ</span> has a "hard b" sound, in other words, a "b" sound
+        * <span class="he">כ</span> sounds like the "ch" in "bach", while <span class="he">כּ</span> is "k" as in "kite"
+        * <span class="he">פ</span> is the "ph" in "phone", while <span class="he">פּ</span> is the "p" in "pull"
 
-* At one time, all six of these letters had different pronunciations, but today, only three do.  These are the letters in blue above **בּ כּ פּ**
+* At one time, all six of these letters had different pronunciations, but today, only three do.  These are the letters in blue above **<span class="he">בּ כּ פּ</span>**
     * Since the letters without the Daghesh Lene want to be "lazy" - for example, a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"
 
 ::: {.box .caution}
@@ -164,7 +198,7 @@ knitr::include_graphics("images/gutturals.gif")
     * The good news is the behavior of the Gutturals and Resh is entirely predictable
     * We will learn this over the next few lessons (and indeed, the rest of the course) 
 * There are four proper gutturals: Aleph, Hei, Chet, and Ayin (in red above)
-* The letter Resh ר (in orange above) is not formally a Guttural; but since it can’t decide whether to behave or not, sometimes we include Resh with the other Gutturals
+* The letter Resh <span class="he">ר</span> (in orange above) is not formally a Guttural; but since it can’t decide whether to behave or not, sometimes we include Resh with the other Gutturals
 * For now, memorize the group of four guttural consonants in red and Resh, the sometimes-guttural-like letter in orange.
 
 ::: {.infobox .info}
@@ -181,13 +215,13 @@ knitr::include_graphics("images/01_sqinemlevy_gif.gif")
 
 * This is another group of letters that can behave differently
 * They are called the _SQiN eM LeVY_ letters because of the made-up word that is formed by the letters:
-    * S - שׂשׁסצ the Sibilants (letters that make an S sound)<small>^[<small>The ז is also a sibilant, but as it turns out, it is not generally affected by the SQiN eM LeVY exception.</small>]</small>
-    * Q - ק
-    * N - נ
-    * M - מ
-    * L - ל
-    * V - ו
-    * Y - י
+    * S - <span class="he">שׂשׁסצ</span> the Sibilants (letters that make an S sound)^[The ז is also a sibilant, but as it turns out, it is not generally affected by the SQiN eM LeVY exception.]
+    * Q - <span class="he">ק</span>
+    * N - <span class="he">נ</span>
+    * M - <span class="he">מ</span>
+    * L - <span class="he">ל</span>
+    * V - <span class="he">ו</span>
+    * Y - <span class="he">י</span>
     
     
 ## Look out for look-alike Letters {#look-alike-letters}
@@ -208,7 +242,7 @@ include_graphics("images/01.izzy_aleph.jpg")
 knitr::include_graphics("images/vav.png")
 ```
 
-* There are some notable differences between what we might call academic or "seminary<small>^[<small>"Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.</small>]</small>" Hebrew and "real-world" Hebrew.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
+* There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and "real-world" Hebrew.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
     * Real-world Hebrew is based on Sephardic pronunciation
 * We've already talked about how only three of the Daghesh Lene letters need to "BucK-uP"
 * With "Seminary Hebrew," the <span class="he">ג</span> without the Daghesh Lene receives something like the GH in "aGHast." The <span class="he">ד</span> and <span class="he">ת</span> without the Daghesh Lene are closer to the English DH/TH like "this" 
@@ -217,15 +251,13 @@ knitr::include_graphics("images/vav.png")
     * In most non-academic circles, it receives the "v" sound and is pronounced "vav"
 * There are also significant differences in pronouncing vowels, which we will talk about in Lesson 2.
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
-* Lastly, will use "Adonai" or "the LORD" when we encounter the Covenant Name<small>^[<small>Please read Izzy's statement on the Covenant Name: "When I filmed Hebrew Quest I read God's Hebrew name as "Yahweh". This is a relatively common practice in academic circles and was also an expression of my personal love for God's holy name. Since then though I've encountered conclusive evidence that Yeshua and his disciples followed the Jewish tradition of saying "Adonai" instead of using the Sacred Name. It's my deep conviction that we should follow the example of Messiah and his apostles, so I've returned to saying "Adonai" (Hebrew for "the LORD") or "Hashem" (Hebrew for "the Name") instead of using the Sacred Name, and I encourage our students to do likewise." </small>]</small>
+* Lastly, will use "Adonai" or "the LORD" when we encounter the Covenant Name^[Please read Izzy's statement on the Covenant Name: "When I filmed Hebrew Quest I read God's Hebrew name as "Yahweh". This is a relatively common practice in academic circles and was also an expression of my personal love for God's holy name. Since then though I've encountered conclusive evidence that Yeshua and his disciples followed the Jewish tradition of saying "Adonai" instead of using the Sacred Name. It's my deep conviction that we should follow the example of Messiah and his apostles, so I've returned to saying "Adonai" (Hebrew for "the LORD") or "Hashem" (Hebrew for "the Name") instead of using the Sacred Name, and I encourage our students to do likewise." ]
 
-## Lesson Conclusion and Activities {-}
+## Lesson Activities: Anki {-}
 
 Congratulations on completing your first lesson!
 
-Now we'll move into the Activities.  This is where you take what you learned above and put it into practice using `Anki`.  For this lesson, we also have a `worksheet` and an additional writing activity.
-
-### Anki {- #anki-1}
+Now we'll move into the Activities.  This is where you take what you learned above and put it into practice using `Anki`.  
 
 * `Lesson 01 A. Vocab` - Learn (or relearn) the Aleph-Bet with Izzy
 * `Lesson 01 B. Grammar` - Identify look-alike Hebrew letters
@@ -233,37 +265,32 @@ Now we'll move into the Activities.  This is where you take what you learned abo
 
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
 
-### Worksheets: Letter Writing {- #worksheets-1}
 
-1. Practice writing the letters individually using the [Letter Writing worksheet](https://drive.google.com/file/d/1JcX8kc6e-fKjtzkeE96AwoZFshEpx3ug/view){target="_blank"}
-    * If you would like some tips on how to write the letters, you can use [this guide](https://drive.google.com/file/d/1cmrCXcafjwvbMNj7GgX7UPMGA0FcwvWN/view?usp=sharing){target="_blank"} from Dr. Beckman.
-    * As we've said before, we strongly encourage everyone to watch (or re-watch) the [_Hebrew Quest_ lessons on the Aleph-Bet](https://holylanguage.com/letters.html){target="_blank"}
-    
-2. Practice writing the entire AlephBet until you can do it FIVE times from memory.  This will also be an instruction on the Quest Quiz.
-
-
-
-## Ruth Pursuit {-}
+## Lesson Activities: Ruth Pursuit {-}
 
 * This is a QUEST activity, similar to "bag the letters" from _Hebrew Quest_.  
 * You can do this activity online using Google Docs or download/print and use physical highlighters.
-* Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}.  You may need to sign in with a Google account.  
-
+* Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
+    * You may need to sign in with a Google account
+    * You may wish to rename the document with the applicable lesson #
+* We strongly encourage you to go line by line through the passage and do not use the "Find" function in your word processor
+    * Line by line will take longer, but you will learn more (even though you may think it's a waste of time because at this point you know know much if any Hebrew)
 
 ::: {.box .map} 
 YOUR QUEST
 
-1. Identify the four guttural letters in Ruth chapter 1(pink)<small>^[<small>The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.</small>]</small>
-2. Identify the one half-guttural (red)
-3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
-4. Identify the five final/sofit forms (blue)
-5. Identify the 12 remaining consonants not included in the above categories (including both forms of ש)(yellow)
-6. Find all examples of the names listed below (grey)
+1. Find ONE example of the following
+    1. Identify the four guttural letters in Ruth chapter 1(pink)^[The color is to let you know what color the answer key will use, but feel free to highlight in any color, underline, change the font color, or otherwise identify anyway you like.]
+    2. Identify the one half-guttural (red)
+    3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
+    4. Identify the five final/sofit forms (blue)
+    5. Identify the 12 remaining consonants not included in the above categories (including both forms of ש)(yellow)
+2. Find ALL examples of the names listed below (grey)
     * Ruth - spelled <span class="he">רוּת</span>; also "and Ruth" - <span class="he">וְרוּת</span>
     * Naomi - spelled <span class="he">נָעֳמִי</span> 
     * Bethlehem - spelled <span class="he">בֵּית לֶחֶם  </span>, also "from Bethlehem" - <span class="he">מִבֵּית לֶחֶם</span>
         * Our one word "Bethlehem" is two words in Hebrew: <span class="he">בֵּית</span> means "house of" and  <span class="he">לֶחֶם</span> means "bread"
-    * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span><small>^[<small>As a taste of what is to come, this word מֹאֲבִיּוֹת has 1) defective spelling - notice how the Vav in מוֹאָב is not in מֹאֲבִיּוֹת? (Lesson 2), 2) propretonic reducticn - Compare the markings under the aleph in מֹאֲבִיּוֹת as compared to מוֹאָב. (Lesson 3), and a 3) Feminine plural suffix - Notice the Vav + Tav in מֹאֲבִיּוֹת are not present in מוֹאָב. (Lesson 4)</small>]</small>, and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
+    * Moab - spelled <span class="he">מוֹאָב</span>, also "Moabites" <span class="he">מֹאֲבִיּוֹת</span>^[As a taste of what is to come, this word מֹאֲבִיּוֹת has 1) defective spelling - notice how the Vav in מוֹאָב is not in מֹאֲבִיּוֹת? (Lesson 2), 2) propretonic reducticn - Compare the markings under the aleph in מֹאֲבִיּוֹת as compared to מוֹאָב. (Lesson 3), and a 3) Feminine plural suffix - Notice the Vav + Tav in מֹאֲבִיּוֹת are not present in מוֹאָב. (Lesson 4)], and "the Moabitess" <span class="he">הַמּוֹאֲבִיָּה</span>
 :::
 
 
@@ -288,17 +315,21 @@ RUTH PURSUIT TRANSLATION WORKSHEET INSTRUCTIONS
     * You might want to make a note of the Lesson # (in this case "1") if you need to refer back to the lesson
     * There is also a column for any notes you wish to make
     * See examples for verse 1 in the worksheet
+* You may use either your worksheet or the answer key to populate the Ruth Translation Worksheet
 * Remember to update your translation worksheet after each lesson
 :::
 
-## Quest Quiz {-}
+## Lesson Activities: Quest Quiz {-}
 
 Here is our first `Quest Quiz`.  Remember to treat this as a self-assessment.  If you do well, you should be ready to progress to Lesson 2.  If not, you may need to go back and review some concepts from Lesson 1.  This is not for a grade, as there are no grades given in this course.
 
-[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
+::: {.box .info}
+* Most of the time, videos, quizzes, and other feedback forms will be embedded directly into the Hebrew GRAMMAR Quest Guidebook
+* If you ever have issues with the video or form not loading, click the "View in new window" link that will appear below (or instead of) the embedded frame  
+:::
 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-
+[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}

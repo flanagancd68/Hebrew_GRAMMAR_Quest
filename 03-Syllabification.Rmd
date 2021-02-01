@@ -98,11 +98,11 @@ We see the two basic concepts at play in this simple word (pronounced "da-var" a
 
 ::: {.infobox .info}
 * Most frequently, Hebrew words are accented on the last syllable  
-* If not, then the accent will be on the next-to-last syllable<small>^[<small>Later in the course, we will learn about a mark called a Maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the Maqqef technically does not have an accent.</small>]</small>
+* If not, then the accent will be on the next-to-last syllable^[Later in the course, we will learn about a mark called a Maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the Maqqef technically does not have an accent.]
 * Reduced vowels and Sheva never take an accent. If there is a word-final Sheva, the accent will be on the next-to-last syllable 
 :::
 
-Unlike English, Biblical Hebrew words are never stressed anywhere else<small>^[<small>Modern Hebrew has words (mostly borrowed from other languages) that don't always follow this rule</small>]</small>.
+Unlike English, Biblical Hebrew words are never stressed anywhere else^[Modern Hebrew has words (mostly borrowed from other languages) that don't always follow this rule].
 
 ```{r, out.width = "500pt", fig.align='center'}
 
@@ -111,7 +111,7 @@ knitr::include_graphics("images/03.accent_stress.png")
 
 * The word on the left is stressed on the last syllable
 * The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
-    * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)<small>^[<small>Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.</small>]</small>
+    * Some texts will place a mark over the syllable to be stressed (except when it is on the last syllable)^[Hebrew has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.]
 
 ## Tonic, Pretonic, and Propretonic Syllables
 
@@ -122,7 +122,7 @@ knitr::include_graphics("images/03.accent_stress.png")
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
         * Qamets and Tsere will become Sheva (or Hateph Patach/Hateph Seghol)
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = <span class="he">בָ</span>
-    * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span><small>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not encounter this term for the remainder of this course.  </small>]</small>
+    * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not encounter this term for the remainder of this course.  ]
     
 ## Ultima, Penultima, and Antepenultima syllables
 
@@ -172,7 +172,7 @@ Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
 knitr::include_graphics("images/03.sheva-initialvocal.png")
 ```
 
-### A Sheva is VOCAL when the second of two consecutive Shevas _within a word_<small>^[<small>A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive Shevas.</small>]</small>:  {-}
+### A Sheva is VOCAL when the second of two consecutive Shevas _within a word_^[A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive Shevas.]:  {-}
 
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-secondoftwovocal.png")
@@ -191,7 +191,7 @@ knitr::include_graphics("images/03.sheva-fortevocal.png")
 knitr::include_graphics("images/03.sheva-unaccentedlongvocal.png")
 ```
 
-This one may seem random, but it is relatively common with _long_ vowels in a propretonic position<small>^[<small>These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.</small>]</small>  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
+This one may seem random, but it is relatively common with _long_ vowels in a propretonic position^[These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.]  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
 
 ::: {.map .light}
@@ -213,7 +213,7 @@ knitr::include_graphics("images/03.diphthong.png")
 ```
 
 * The diphthong is a single vowel unit, which means it is only one syllable
-* We do not pronounce the word on the right above as "BUY-it," but monosyllabic, more like "BITE"<small>^[<small>With this said, "buy" it makes a handy mnemonic for remembering this word means 'house', as there are a few look-alike words.</small>]</small>
+* We do not pronounce the word on the right above as "BUY-it," but monosyllabic, more like "BITE"^[With this said, "buy" it makes a handy mnemonic for remembering this word means 'house', as there are a few look-alike words.]
 * The word on the left is not "sh-MAY-im," but it sounds more like "sh-MIME"
 
 ::: {.box .light}
@@ -268,7 +268,7 @@ knitr::include_graphics("images/03.qametshatuf.png")
 
 * Metheg mark
   * There are many instances where the vowel could be a short Qamets-Hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable
-  * When this ambiguity occurs, some printings will print a small vertical line called a Meteg בָּֽ.<small>^[<small>Unfortunately, many Tanachs DO not differentiate.</small>]</small>  The Meteg tells you the vowel is the **long, a-class**
+  * When this ambiguity occurs, some printings will print a small vertical line called a Meteg בָּֽ.^[Unfortunately, many Tanachs DO not differentiate.]  The Meteg tells you the vowel is the **long, a-class**
   
 ```{r, out.width = "100pt", fig.align='center'}
 knitr::include_graphics("images/03.meteg.png")

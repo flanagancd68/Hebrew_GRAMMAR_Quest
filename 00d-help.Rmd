@@ -40,7 +40,7 @@ There are several ways to navigate from page to page within this guidebook:
 knitr::include_graphics("images/checklist.png")
 ```
 
-In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain:<small>^[<small>We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.</small>]</small>:
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain:^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
 
 
 **Title**|**Description**|**Estimated Minutes**
@@ -52,7 +52,7 @@ First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a b
 Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
  ACTIVITIES|
  `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
- `Anki`<small>^[<small>See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.</small>]</small>| This is where the majority of your learning will take place.  There will be four stages to each Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
+ `Anki`^[See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.]| This is where the majority of your learning will take place.  There will be four stages to each Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
 `A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
  `B. Grammar`|Here, you will work through the main grammar concepts discussed in the lesson.
  `C. Workbook/Parsing`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
@@ -111,23 +111,23 @@ CAUTION
 A potential pitfall, such as a concept that could be easily confused with another
 :::
 
-We also have footnotes<small>^[<small>Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.</small>]</small>
+We also have footnotes^[Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.]
 
 
 ## Quick Start Instructions {.unnumbered #get_started}
 
-These ten easy steps will get you up and running with the course.  
+These easy steps will get you up and running with the course.  Please do these from a desktop computer for best results.
 
 <!-- update the final anki deck version - current link is PREVIEW -->
 
 | Step | Comments
 | :-- | :-- 
-|1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course
+|1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course. Creating a Google account is free.
 |2. Download the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
-3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards
+3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards. After downloading, extract the zip file to a location of your choice.  Then double-click on `SILEOT.ttf`, which should give you the option to install the font.
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | You MUST install Anki from a desktop/laptop first
-6. [Download the Hebrew GRAMMAR Quest Anki Deck](./images/Hebrew Grammar Quest PREVIEW.apkg){target="_blank"} | This deck is the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone
+6. [Download the Hebrew GRAMMAR Quest Anki Deck](./images/Hebrew Grammar Quest 1_0.apkg){target="_blank"} | This deck is the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone
 7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Syncing creates a version of your deck in the cloud, which case be used to sync with a mobile device or merely as a backup
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified
@@ -145,7 +145,7 @@ knitr::include_graphics("images/treadmill.png")
 ```
 
 
-If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free<small>^[<small>All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.</small>]</small> flashcard application that helps you build both Hebrew strength and Hebrew endurance!
+If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free^[All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.] flashcard application that helps you build both Hebrew strength and Hebrew endurance!
 
 ::: {.box .info}
 As you work through this course, set aside time to review Anki on a DAILY basis
@@ -162,13 +162,13 @@ The sections below will help you get started with Anki. There is also an `0. Int
 1. Change global settings
     1. Click `Tools,` then `Preferences.` On the `Scheduling` tab, check the box that says `Anki 2.1 Scheduler`.
 1. On the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select `Options` ([click to see example](./images/a.anki_settings.png){target="_blank"})
-    1. `New Cards`<small>^[<small> See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information and the definitions of these terms, `New`, `Review`, and `Lapsed`</small>]</small>
+    1. `New Cards`^[ See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information and the definitions of these terms, `New`, `Review`, and `Lapsed`]
         * `Steps` = 10 1440 4320
         * `New cards/day` = 200
         * `Graduating interval` = 15
         * `Easy interval` = 60
         * `Starting ease` = 250%
-        * `Bury related new cards...` = we recommend CHECKED, but this is not mandatory<small>^[<small>Checking this will _slightly_ increase the length of time required to move cards from `Young` to `Mature`, but is the stronger option for learning.</small>]</small>
+        * `Bury related new cards...` = we recommend CHECKED, but this is not mandatory^[Checking this will _slightly_ increase the length of time required to move cards from `Young` to `Mature`, but is the stronger option for learning.]
     2. `Reviews`
         * `Maximum reviews/day` = 9999
         * `Easy bonus` = 130%
@@ -190,11 +190,19 @@ knitr::include_graphics("images/anki_custom_new.png")
     
 ### How do I navigate within Anki? {-}
 
-* Click the +/- buttons to expand/collapse the folders within the Anki deck [(click to see example)](./images/a.anki_hint.gif){target="_blank"}
-  * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button
-* Many cards have "hints" - click on the `hint` button to reveal [(click to see example)](./images/anki.png){target="_blank"}
-    * If you needed a hint, be sure to select `Again` on the answer side
-* When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
+::: {.box .map}  
+* We have created a brief tutorial within our Hebrew GRAMMAR Quest `Anki` deck.  
+* This is contained in the `0.Introduction` folder.  
+* Click on this deck for an introduction and helpful hints
+* When you are finished you may `Suspend` the cards (these are the only cards in the deck you should `suspend`!)
+
+:::
+
+<!-- * Click the +/- buttons to expand/collapse the folders within the Anki deck [(click to see example)](./images/a.anki_hint.gif){target="_blank"} -->
+<!--   * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button -->
+<!-- * Many cards have "hints" - click on the `hint` button to reveal [(click to see example)](./images/anki.png){target="_blank"} -->
+<!--     * If you needed a hint, be sure to select `Again` on the answer side -->
+<!-- * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button -->
 
 ### How do I know when to hit the Good button on an Anki card? {-}
 
@@ -225,6 +233,27 @@ What appears in the sections below is only the information you will need for Heb
 We are here to [help](#report_issue) with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`.  Unfortunately, it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  We encourage you to check out the numerous articles and tutorial videos posted by the Anki community, which you can find from a simple web search.  The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
 :::
 
+<!-- deleted anki cards: -->
+<!-- Introduction: -->
+<!-- front: I want to test English to Hebrew. How can I set the deck to do this? -->
+<!-- back: Our primary goal with Hebrew Grammar Quest is to translate from Hebrew to English.   -->
+
+<!-- Most of our students studying Biblical Hebrew are not going to need to translate from English to Hebrew, although that is certainly a worthy pursuit.   -->
+
+
+<!-- If you would like to add a reverse direction to your vocabularly words (Prompt with English - Answer with Hebrew) this is can be done in Anki. We have added "Note Types" to accomodate this. -->
+
+<!-- Click "Browse" -->
+<!-- From the Left Navigation, scroll down to "Vocab Basic Hebrew" -->
+<!-- Select the card(s) you wish to change and add the additional options (To change ALL cards click CTRL+A to select all cards) -->
+<!-- Click CTRL+SHIFT+M to change the note type to one of the following: -->
+<!-- If you want to be tested on both Hebrew-to-English and reverse, English-to-Hebrew, select note type "Vocab Basic Hebrew/English" -->
+<!-- If you have added images and want to be tested on Hebrew-to-English, English-to-Hebrew, and Image-to-Hebrew, select note type "Vocab Basic Hebrew/English/Image" -->
+<!-- If you have added images and only want to be tested on Hebrew-to-English and Image-to-Hebrew, select note type "Vocab Basic Hebrew/Image" -->
+<!-- Just be aware that changing to one of these optional note types, will literally double (or triple if you chose Hebrew/English/Image) the number of vocabularly cards.  If you decide you want to go back to just Hebrew-to-English, repeat steps 1-4 and select Note Type "Vocab Basic Hebrew." -->
+
+<!-- Type ! (exclamation point) to dismiss this card. -->
+  
 ## Course Resources {- #optional_resources}
 
 REQUIRED: 
@@ -237,17 +266,18 @@ OPTIONAL:
 Below are additional resources, some of which are free and some paid:
 
 * Free of charge
-  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to Dr. Beckman's videos and handouts.  Everything on his site is free.
+  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to his videos and handouts.  Everything on [his site](https://hebrewsyntax.org/bbh2new/){target="_blank"} is free.
   * Dr. Bill Mounce has study guides available for each Chapter of _Basics of Biblical Hebrew_
-    * In most cases, these will not vary much from the lessons in Hebrew GRAMMAR Quest, but some students might find them valuable
-    * For Chapter 1, click [http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target="_blank"); for other chapters, change the `01` in the URL to the chapter number you are seeking<small>^[</small>Except Chapter 4, which for some reason, is not available.</small>]</small>
+    * In most cases, these will not add much to the lessons in Hebrew GRAMMAR Quest, but some students might find them valuable
+    * For Chapter 1, click [http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target="_blank"}; for other chapters, change the `01` in the URL to the chapter number you are seeking^[Except Chapter 4, which for some reason, is not available.]
 * Paid
-  * As mentioned elsewhere, Anki's iOS app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensive investment in your Hebrew journey.  
-  * To supplement your studies, you may wish to purchase the _Basics of Biblical Hebrew_ textbook or any of the accompanying resources:
+  * Anki's iOS app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensive investment in your Hebrew journey, but the decision to purchase is entirely up to you.  You would be able to complete the course without purchase of the app.
+  * To further supplement your studies, you may wish to purchase the _Basics of Biblical Hebrew_ textbook or any of the accompanying resources
     * [Basics of Biblical Hebrew Textbook](https://www.amazon.com/gp/product/031053349X/&tag=holylanginst-20)
     * [Basics of Biblical Hebrew Workbook](https://www.amazon.com/gp/product/0310533554/&tag=holylanginst-20)
     * [Basics of Biblical Hebrew Laminated Reference Card](https://www.amazon.com/gp/product/031026295X/&tag=holylanginst-20)
     * We would appreciate it if you would use one of the affiliate links, which allows Holy Language Institute to receive a small commission
+  * You might want wait and see how you are doing with Hebrew GRAMMAR Quest through about Lesson 7 or 8 before deciding to purchase the iOS app or any of the books
 
 ## Report an Issue {- #report_issue}
 
@@ -257,11 +287,11 @@ Please do not hesitate to report any errors, omissions, or improvement opportuni
 If you have a specific question about the content or are stuck on a concept, please use the [Get Help](#get_help) question form instead of the `Report an Issue` form.
 :::
 
-[Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}
-
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf3obLnGzJQ6d7Rtyy2YXDln3g-kJWCY-4IlRLE_mnFuWv2AQ/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+[Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}
 
 ## Ask a question {- #get_help}
 
@@ -275,9 +305,9 @@ Use the form below to ask a question. Please note, we are staffed by volunteers,
 If you have general feedback or wish to report an issue, please use the [`Report an Issue`](#report_issue) form instead of the `Get Help` form. 
 :::
 
-[Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
-
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdWJc7ri0andmyu70D1USeDRtbsrHLaYLNrs0rvI2qBJx-yEg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
+
+[Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
