@@ -186,7 +186,7 @@ knitr::include_graphics("images/bdgkpt.gif")
 * There other "dots" in Hebrew with various meanings
 * The Daghesh Lene ONLY applies to Bet - Gimmel - Dalet - Kaf - Pei - and Tav 
     * If a dot appears in any other letter, it is NOT a Daghesh Lene
-* We’ll dig deeper into the Daghesh Lene and its much more notable twin, the Daghesh Forte, over the next few lessons.
+* We’ll dig deeper into the Daghesh Lene and its much more notable big brother, the Daghesh Forte, over the next few lessons.
 :::
 
 ## We classify four consonants as **Gutturals** (and one is a sometimes-guttural) {#gutturals}

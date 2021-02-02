@@ -445,3 +445,7 @@ hitpolel-is-td-of-some-biconsonantal-and-geminate-verbs
 חָוָה---hishtapel-stem
 top-10-hitpael-verbs
 hebrew-lexicon
+fig:unnamed-chunk-2
+fig:unnamed-chunk-10
+documentclass-turabian-researchpaper
+vowels-table-1
