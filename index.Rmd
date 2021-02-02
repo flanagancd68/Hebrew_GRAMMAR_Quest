@@ -3,7 +3,7 @@ title: "Hebrew GRAMMAR Quest"
 #date: "`r Sys.Date()`"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
-# documentclass: turabian-researchpaper
+#documentclass: turabian-researchpaper
 bibliography: [book.bib, packages.bib]
 #biblio-style: APA-like
 link-citations: yes
@@ -59,7 +59,7 @@ Scripture quotations marked ESV are taken from The Holy Bible, English Standard 
 
 Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the **Hebrew GRAMMAR Quest** format.  We encourage any of our students who wish to go further with Hebrew grammar to [purchase the book or any related materials](#optional_resources){target="_blank"}.
 
-Additionally, MAASSIVE thanks to Dr. John Beckman for making his [extensive library of materials](https://hebrewsyntax.org/bbh2new){target="_blank"} to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
+Additionally, MASSIVE thanks to Dr. John Beckman for making his [extensive library of materials](https://hebrewsyntax.org/bbh2new){target="_blank"} to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
 
 As applicable:
 

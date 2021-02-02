@@ -1,9 +1,9 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-02-01"
+#date: "2021-02-02"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
-# documentclass: turabian-researchpaper
+#documentclass: turabian-researchpaper
 bibliography: [book.bib, packages.bib]
 #biblio-style: APA-like
 link-citations: yes
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-02-01</small>
+<small>*Updated*: 2021-02-02</small>
 
 <small>
 
@@ -52,7 +52,7 @@ Scripture quotations marked ESV are taken from The Holy Bible, English Standard 
 
 Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the **Hebrew GRAMMAR Quest** format.  We encourage any of our students who wish to go further with Hebrew grammar to [purchase the book or any related materials](#optional_resources){target="_blank"}.
 
-Additionally, MAASSIVE thanks to Dr. John Beckman for making his [extensive library of materials](https://hebrewsyntax.org/bbh2new){target="_blank"} to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
+Additionally, MASSIVE thanks to Dr. John Beckman for making his [extensive library of materials](https://hebrewsyntax.org/bbh2new){target="_blank"} to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
 
 As applicable:
 
@@ -655,7 +655,7 @@ Depending on your existing familiarity with the Aleph-bet, you may wish to revie
 * There other "dots" in Hebrew with various meanings
 * The Daghesh Lene ONLY applies to Bet - Gimmel - Dalet - Kaf - Pei - and Tav 
     * If a dot appears in any other letter, it is NOT a Daghesh Lene
-* We’ll dig deeper into the Daghesh Lene and its much more notable twin, the Daghesh Forte, over the next few lessons.
+* We’ll dig deeper into the Daghesh Lene and its much more notable big brother, the Daghesh Forte, over the next few lessons.
 :::
 
 ## We classify four consonants as **Gutturals** (and one is a sometimes-guttural) {#gutturals}
@@ -856,8 +856,8 @@ Reflect on the works of HaShem that you have seen!
 *****
 
 <div class="figure" style="text-align: center">
-<img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6)! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-18)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6)! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
+<p class="caption">(\#fig:unnamed-chunk-18)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -867,22 +867,21 @@ Reflect on the works of HaShem that you have seen!
 
 ### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
 
-* Like we memorized the Aleph-bet, we will commit the vowels in the table below to memory
-* Study the table below before doing the drills in `Anki` 
+* Like we memorized the Aleph-bet in Lesson 1, we will commit the vowels in the table in the next section to memory
+* Study this table before doing the drills in `Anki` 
   * Knowing the vowel types (Long, Short, Reduced) and classes will make your grammatical life much more comfortable in the future
   * The letter בּ is provided as a placeholder for the long/short vowels; ע represents any Guttural for the reduced vowels since only Gutturals take the Reduced vowels
 * Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.]. So, the first vowel example is "qaw" not "awq."
-*  Future lessons will explain the difference between Qamets and Qamets Hatuf
 
-Another table to memorize:
+## Vowels: Table 1
 
-<img src="images/02.vowels_not_letters.png" width="300pt" style="display: block; margin: auto;" />
+<img src="images/02.vowels_not_letters.png" width="600pt" style="display: block; margin: auto;" />
 
-::: {.infobox .info}
-Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
 
-Hateph vowels are used because Gutturals reject vocal Sheva 
-:::
+*   Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
+  *   Hateph vowels are used because Gutturals reject vocal Sheva 
+*   Future lessons will explain the difference between Qamets and Qamets Hatuf
+
 
 
 ## Vocal and Silent Sheva
@@ -901,8 +900,8 @@ Hateph vowels are used because Gutturals reject vocal Sheva
 
 Type | Class | Hebrew | Name | Pronunciation
 | :-: | :-: | :-: | :-: | :-: 
-Reduced | No Class | <span class="he">ְבּ</span> | Vocal Sheva | amuse
-Not a Vowel | | <span class="he">ְבּ</span> | Silent Sheva | No pronunciation
+Reduced | No Class | <span class="he">בְּ</span> | Vocal Sheva | amuse
+Not a Vowel | | <span class="he">בְּ</span> | Silent Sheva | No pronunciation
 
 ::: {.box .info}
 The Sof Pasuq
@@ -913,13 +912,12 @@ The Sof Pasuq
 * Other than this, the mark has no meaning for us whatsoever.  You may ignore it when you encounter it.
 :::
 
-## Vowel letters {#vowel_letters}
+## Vowels that are letters {#vowel_letters}
 
-  ### Vowel letters use a consonant plus a nikkud to form a vowel {-}
 
-Another table to memorize:
+### Vowel letters use a consonant plus a nikkud to form a vowel {-}
 
-<img src="images/02.vowels_letters.png" width="300pt" style="display: block; margin: auto;" />
+
 
 * Shureq is pronounced like Qibbuts (r<u>u</u>ler)
 * Hireq Yod is pronounced like the i in mach<u>i</u>ne
@@ -937,6 +935,10 @@ If the Yod or Vav has a vowel of its own, then the Yod/Vav is a _consonant_, not
     * Seghol Hei is a short vowel - the other Hei vowels are long
     * Hei vowels **ONLY** occur at the end of a word (often called "word-final hei")
     * Hei vowels are extremely common in Hebrew
+
+## Vowels: Table 2
+
+<img src="images/02.vowels_letters.png" width="600pt" style="display: block; margin: auto;" />
 
 ## Transliteration Shorthand
 
@@ -956,9 +958,10 @@ If the Yod or Vav has a vowel of its own, then the Yod/Vav is a _consonant_, not
 * Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.], $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
 * Additionally, we have the ending Qamets+He = $\hat A$, Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.])
 
+
 :::
 
-You do NOT need to memorize this.  We will review the values as we get into Unit 3.
+We will review the values as we get into Unit 3.
 
 ## "Defective" and "plene" spelling {#defective_spelling}
 
@@ -966,14 +969,13 @@ In "defective" spelling, letter vowels can sometimes drop their letter and take 
 
 This is the word for "laws" showing both "plene" spelling (left) and "defective" spelling (right):
 
-<img src="images/defective.gif" width="300pt" style="display: block; margin: auto;" />
+<img src="images/defective.gif" width="400pt" style="display: block; margin: auto;" />
 
-* Three vowel letters commonly take "defective" forms^["Defective", in this sense, does not have a negative connotation.]
-    * Holem-vav can drop the Vav and contract to Holem, as in the example above
-    * Hireq-Yod can drop the Yod and contract to Hireq
-    * Shuruq can drop the Vav with its associated nikkud and contract to Qibbuts
-    
-The Qamets-Hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the Qamets under the now-final letter.
+* Vowel letters commonly take "defective" forms^["Defective", in this sense, does not have a negative connotation.]
+* Holem-vav can drop the Vav and contract to Holem, as in the example above
+* Hireq-Yod can drop the Yod and contract to Hireq
+* Shuruq can drop the Vav with its associated nikkud and contract to Qibbuts
+* The Qamets-Hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the Qamets under the now-final letter.
 
 ::: {.infobox .info}    
 As you progress, you’ll start to develop a mental checklist when you encounter something that does not seem to follow the regular rules. Asking yourself, “Could this be a defective spelling?” will be one of those checklist items.
@@ -991,22 +993,25 @@ For now, do not be concerned about the difference.  As we progress in the course
 
 ## The Dagesh Forte Doubles the Consonant {#dagesh_forte}
 
-Notice the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
-
 <img src="images/02.daghesh_forte.gif" width="500pt" style="display: block; margin: auto;" />
  
-* Since שׁ is not a בגד כפת letter, we know this *cannot* be a Dagesh Lene, but it is a Dagesh **Forte**
+
+* Notice the dot in the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
+  * The dot is called a Dagesh FORTE - it is the Dagesh Lene's big brother
+  * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Dagesh Lene
 * The letter with the Dagesh Forte both ends one syllable and begins the next syllable
-* If we were to syllabify <span class="he"> הַשָּׁמַיִם</span>, it would look something like the bottom line in the picture above (pronounce: `hash-sha-mayim`)^[ `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!]
+* n <span class="he">הַשָּׁמַיִם:</span> is pronounced: `hash-sha-mayim`)^[ `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!]
 * A similar word in English might be better = bet | ter
     * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*^[The * means this is not a real Hebrew word, but we show it in this form for illustration.]
 * Notice the syllable breaks in these words that have a Dagesh Forte:
+
 <img src="images/02.forte.png" width="200pt" style="display: block; margin: auto;" />
+
+
+## בגד כפת letters can take either a Dagesh Lene OR a Dagesh Forte
+
 * Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter, which can take either a Dagesh Lene or a Dagesh Forte
-    * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word אַתָּה in the image above
-    * "Any consonant" includes the Vav ו.  When a Vav has a Dagesh Forte, it looks like this וּ. Does that remind you of anything?  Maybe something we just discussed on the previous page?
-        * That's right. A Vav with a Dagesh Forte וּ is identical to a Shurek וּ.
-        * It's surprisingly easy to tell the difference: if there is an additional vowel either under or over the same letter, or if the preceding consonant has a vowel, the letter is a Vav with Dagesh.  A Shurek will _never_ have a separate vowel following or preceding.
+    * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word אַתָּה in the previous section
 
 _Advanced tip:_ When you see a Dagesh Forte, it often means that another letter has disappeared^[Not entirely unlike the English apostrophe in words like _can't_.].  We will talk more about this later in the course.
 
@@ -1033,6 +1038,24 @@ Quiz yourself with these examples (answers below):
 * <span class="he">מַבְדִּיל</span> = Is the Dagesh preceded by a vowel that is not a Sheva?^[No, it is preceded by a Sheva. Dagesh Lene.]
 * <span class="he">מִתַּחַת</span>  = Is the Dagesh preceded by a vowel that is not a Sheva?^[Yes, a Hiriq. Dagesh Forte]
 
+## וּ is usually Shureq, but could be Vav with a Dagesh Forte
+
+*   When a Vav has a Dagesh Forte, it looks like this וּ and, therefore, is identical to a Shureq וּ
+*   It's surprisingly easy to tell the difference
+*   A Shureq will _never_ have a separate vowel following or preceding
+*   If the preceding consonant has a vowel, the וּ is a Vav with a Dagesh - that's the rule we just learned
+*   Also, if there is an additional vowel either under or over the same letter, it can't be a Shureq as there are never two vowels in a row (and there is no diphthong involving a Shureq)
+* Examples:
+  * <span class="he">בוּ</span> = Shureq
+  * <span class="he">בְוָּ</span> = Vav with Dagesh Forte - a Shureq would never take an additional vowel
+  * <span class="he">בָוּ</span> = Vav with Dagesh Forte ־ the Rule of Sheva:  preceding letter has a vowel 
+  * The last two are examples only; usually a Vav with the Dagesh Forte would have both a preceding vowel /Sheva AND an additional vowel/Sheva
+  
+::: {.box .info}
+
+When you see <span class="he">וּ</span>, it is usually a Shureq
+
+:::
 
 ## Gutturals and Resh reject Dagesh Forte {#gutturals_reject_dagesh_forte}
 
@@ -1041,7 +1064,7 @@ Quiz yourself with these examples (answers below):
 * It's like they have a force-field shielding them from other Hebrew grammar rules!
 
 <div class="figure" style="text-align: center">
-<img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="600pt" />
+<img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="500pt" />
 <p class="caption">(\#fig:unnamed-chunk-24)That's no moon.  That's a Guttural!</p>
 </div>
 
@@ -1065,7 +1088,7 @@ We're about halfway through the first stage of the course on Hebrew Grammar Foun
 Take a moment to review the section headings on the screen's left side before heading on to tackle the activities.
 
 
-### Anki {-}
+## Anki {-}
 
 * `Lesson 02 A. Vocab` 
   * You will be presented with the vowel symbol and you are to identify the name type and class of each vowel
@@ -1080,9 +1103,17 @@ Take a moment to review the section headings on the screen's left side before he
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/)
 
 
-### Vowel worksheet {-}
+## Vowel worksheet {-}
 
-* Practice writing the vowels using the [Vowel Writing worksheet/drill](https://drive.google.com/file/d/1ETPKE3u-XGfpNdKmlIr3P_DRbkOOlcI_/copy){target="_blank"}. See note^[An answer key is on page two.  Repeat this worksheet until you can complete it correctly entirely from memory. The translation column is optional.]
+* Practice writing the vowels using the [Vowel Writing worksheet/drill](./images/02_Vowel_drill.pdf){target="_blank"}
+* An answer key is on page two
+* Repeat this worksheet until you can complete it correctly entirely from memory at least once
+* Transliteration
+  * Note that our course uses Capital letters, while the answer key uses lower case letters
+  * It is more important to make sure the long, short, reduced, and vowel letter marks are accurate
+  * You may ignore transliteration for:
+    * Tsere Hei / Seghol Hei / Holem Hay
+    * Seghol Yod
 
 
 ## Ruth Pursuit {-}
@@ -1109,12 +1140,13 @@ YOUR QUEST
 
 ## Quest Quiz {-}
 
-[Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
 
 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+[Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
 
 ## Claim your `Twelve Tribes Badge`! {- #twelve-tribes-badge-1}
 
@@ -1431,12 +1463,22 @@ For this lesson, we introduce two new activities that correspond with the offici
 
 Then after watching these, go ahead and jump into `Anki`.
 
-* `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
-* `Lesson 03 B. Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
+* `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list
+* `Lesson 03 B. Grammar` - This module will reinforce and expand on the major points of this lesson
 * `Lesson 03 C. Study Verses`
-  * This is also the first lesson using the <u>Basics of Biblical Hebrew</u> study verses.
-  * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
+  * This is also our first lesson using the <u>Basics of Biblical Hebrew</u> study verses
+  * With `Study Verses`, our goal is to incorporate the immersive learning aspects of _Hebrew Quest_
+    * We want to expose you to Hebrew, even though you may not fully understand all the rules at this stage
+  * The translation may be quite difficult at first
+    * We encourage you to use a Dictionary (such as [this one](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}) to help you when you come across unfamiliar words
+    * You can also edit the card and add your own hints to remember certain words
+    * Other dictionaries [are available here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+  * It may take you SEVERAL attempts before you can select `Good`
   * Be patient and stick with it - you'll get it!
+  * By the end of the course, you will learn close to 500 verses in Hebrew
+  
+::: {.box .info}
+Your vocabulary and understanding will grow if you
 
 ## Word Warm-up {-}
 

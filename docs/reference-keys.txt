@@ -50,12 +50,16 @@ look-alike-letters
 pronunciation
 hebrew-vowels
 vowels
+vowels-table-1
 vocal-and-silent-sheva
 vowel_letters
+vowels-table-2
 transliteration-shorthand
 defective_spelling
 dagesh_forte
+בגד-כפת-letters-can-take-either-a-dagesh-lene-or-a-dagesh-forte
 dagesh_forte_in_bgdkpt
+וּ-is-usually-shureq-but-could-be-vav-with-a-dagesh-forte
 gutturals_reject_dagesh_forte
 syllabification-and-pronunciation
 syllables
@@ -445,7 +449,3 @@ hitpolel-is-td-of-some-biconsonantal-and-geminate-verbs
 חָוָה---hishtapel-stem
 top-10-hitpael-verbs
 hebrew-lexicon
-fig:unnamed-chunk-2
-fig:unnamed-chunk-10
-documentclass-turabian-researchpaper
-vowels-table-1

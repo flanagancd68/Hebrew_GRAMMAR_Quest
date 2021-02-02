@@ -333,12 +333,22 @@ For this lesson, we introduce two new activities that correspond with the offici
 
 Then after watching these, go ahead and jump into `Anki`.
 
-* `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list.
-* `Lesson 03 B. Grammar` - This module will reinforce and expand on the Seven Practical Points for this lesson.
+* `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list
+* `Lesson 03 B. Grammar` - This module will reinforce and expand on the major points of this lesson
 * `Lesson 03 C. Study Verses`
-  * This is also the first lesson using the <u>Basics of Biblical Hebrew</u> study verses.
-  * The translation may be difficult at first. It may take you several attempts before you can select `Good` without using the `Hints`.
+  * This is also our first lesson using the <u>Basics of Biblical Hebrew</u> study verses
+  * With `Study Verses`, our goal is to incorporate the immersive learning aspects of _Hebrew Quest_
+    * We want to expose you to Hebrew, even though you may not fully understand all the rules at this stage
+  * The translation may be quite difficult at first
+    * We encourage you to use a Dictionary (such as [this one](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}) to help you when you come across unfamiliar words
+    * You can also edit the card and add your own hints to remember certain words
+    * Other dictionaries [are available here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+  * It may take you SEVERAL attempts before you can select `Good`
   * Be patient and stick with it - you'll get it!
+  * By the end of the course, you will learn close to 500 verses in Hebrew
+  
+::: {.box .info}
+Your vocabulary and understanding will grow if you
 
 ## Word Warm-up {-}
 
