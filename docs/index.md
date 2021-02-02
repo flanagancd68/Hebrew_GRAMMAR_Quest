@@ -1478,7 +1478,8 @@ Then after watching these, go ahead and jump into `Anki`.
   * By the end of the course, you will learn close to 500 verses in Hebrew
   
 ::: {.box .info}
-Your vocabulary and understanding will grow if you
+Your vocabulary and understanding will grow if you look up `study verses` words in a dictionary before revealing the answer
+:::
 
 ## Word Warm-up {-}
 
