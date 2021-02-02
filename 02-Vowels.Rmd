@@ -64,19 +64,11 @@ knitr::include_graphics("images/02-Plain of Bethsaida with green grass, tb110206
 ``` 
 
 
+## Vowels that are not vowel letters: table
 
-
-## Vowels that are not vowel letters {#vowels}
-
-### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
-
-* Like we memorized the Aleph-bet in Lesson 1, we will commit the vowels in the table in the next section to memory
-* Study this table before doing the drills in `Anki` 
-  * Knowing the vowel types (Long, Short, Reduced) and classes will make your grammatical life much more comfortable in the future
-  * The letter בּ is provided as a placeholder for the long/short vowels; ע represents any Guttural for the reduced vowels since only Gutturals take the Reduced vowels
-* Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.]. So, the first vowel example is "qaw" not "awq."
-
-## Vowels: Table 1
+The Anki exercises will help us to commit this table to memory 
+  * the letter בּ is provided as a placeholder
+  * say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.]. So, the first vowel example is "qaw" not "awq."
 
 ```{r, out.width = "600pt", fig.align='center'}
 
@@ -84,10 +76,24 @@ knitr::include_graphics("images/02.vowels_not_letters.png")
 ```
 
 
-*   Only **gutturals** take the "Hateph" vowels - to make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
-  *   Hateph vowels are used because Gutturals reject vocal Sheva 
-*   Future lessons will explain the difference between Qamets and Qamets Hatuf
 
+
+## Vowels that are not vowel letters: discussion
+
+### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
+
+* We memorized the Aleph-bet in Lesson 1, but this knowledge is incomplete without vowels
+  * Make sure you can say the name and know how to write the specific vowels
+  * We also must know the vowel types (Long, Short, Reduced) and classes (A, E, I, O, or U) 
+  * This will make your grammatical life much more comfortable in the future
+*   Only **gutturals** take the "Hateph" vowels - 
+  * To make it easier, we can pronounce all three Hateph vowels like the A in <u>A</u>muse
+  * Hateph vowels are used because Gutturals reject Vocal Sheva
+  * We label the reduced O class, "Hateph Qamets Hatuf"
+    * Note that other grammars may label this vowel, "Hateph Qamets"
+    * Our labe, "Hateph Qamets Hatuf," reminds us that this is the reduced O class, not to be confused with the A class Qamets.
+*   A future section will explain the difference between Qamets and Qamets Hatuf
+  * For now, remember Qamets is Long A and Qamets Hatuf is Short O
 
 
 ## Vocal and Silent Sheva
@@ -118,7 +124,16 @@ The Sof Pasuq
 * Other than this, the mark has no meaning for us whatsoever.  You may ignore it when you encounter it.
 :::
 
-## Vowels that are letters {#vowel_letters}
+
+## Vowels: that are letters: table
+
+```{r, out.width = "600pt", fig.align='center'}
+
+include_graphics("images/02.vowels_letters.png")
+```
+
+
+## Vowels that are letters: discussion
 
 
 ### Vowel letters use a consonant plus a nikkud to form a vowel {-}
@@ -126,51 +141,24 @@ The Sof Pasuq
 
 
 * Shureq is pronounced like Qibbuts (r<u>u</u>ler)
-* Hireq Yod is pronounced like the i in mach<u>i</u>ne
-* All others are pronounced like their non-vowel-letter counterparts
+* Hireq Yod is pronounced like the i in mach<u>i</u>ne (compared to Hireq (Short I), which is pronounced like "b<u>i</u>tter)
+* The other vowel letters are pronounced like the corresponding vowel - Qamets Hei is pronounced like Qamets, and so forth
+* All vowels, except Seghol Hei, are LONG
 * Yod and Vav vowels - י,ו 
-    * These are Long Vowels that do not reduce
-    * Therefore they are called "Unchangeable long vowels"^[We'll explain what this means in the next lesson]
-    * These occur in the middle or at the end of a word
-
-::: {.box .info}
-If the Yod or Vav has a vowel of its own, then the Yod/Vav is a _consonant_, not an irreducible long vowel.
-:::
-
+    * Not only are these Long vowels, they have a unique feature is that they are "immune" from propretonic reduction
+    * Therefore they are called "Unchangeable long vowels" or sometimes "Irreducible long vowels"^[We'll explain what this means in the next lesson]
 * Hei Vowels - ה
-    * Seghol Hei is a short vowel - the other Hei vowels are long
-    * Hei vowels **ONLY** occur at the end of a word (often called "word-final hei")
+    * Hei vowels can **ONLY** occur at the END of a word
     * Hei vowels are extremely common in Hebrew
+    * The Hei vowels are Long (except for Seghol Hei) but they are not labeled as irreducible/unchangeable^[Strictly speaking, this point is irrelevant as a vowel at the end of a word would never reduce anyway. But, if asked "are the Hei vowels irreducible/unchangeable?", the answer is "no."]
 
-## Vowels: Table 2
-
-```{r, out.width = "600pt", fig.align='center'}
-
-include_graphics("images/02.vowels_letters.png")
-```
-
-## Transliteration Shorthand
-
-* Most Hebrew grammar books include transliteration values
-* While learning the transliteration scheme can help in some instances, our general position is that it can be an unnecessary distraction
-* Where it can be useful is as shorthand
-  * It would get wordy to write "Holem Vav" repeatedly
-  * It's much less clutter to write the shorthand version based on transliteration: $\hat O$
-  * Often, the vowel marks in isolation can be difficult to detect; compare ֹ  with $\hat O$
-* As we move forward in the course, particularly in unit three, we will be making use of the vowel shorthand listed below
-
-::: {.box .info}
-
-* Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, $I$, Hireq, $O$ for Qamets Hatuf, and $U$, Qibbuts
-* Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
-* Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
-* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.], $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
-* Additionally, we have the ending Qamets+He = $\hat A$, Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.])
-
-
+::: {.box .caution}
+* Do not confuse "reducing" with "defective spelling"
+* Although unchangable long vowels CANNOT reduce, they CAN be written defectively
+  * For example, what was originally <span class="he">בּוֹ</span> becomes <span class="he">בֹּ</span>
+* We will discuss defective spelling next
 :::
 
-We will review the values as we get into Unit 3.
 
 ## "Defective" and "plene" spelling {#defective_spelling}
 
@@ -203,6 +191,29 @@ An unchangeable long vowel written defectively is still an unchangeable long vow
 For now, do not be concerned about the difference.  As we progress in the course, you will see this in action.
 :::
 
+## Transliteration Shorthand
+
+* Most Hebrew grammar books include transliteration values
+* While learning the transliteration scheme can help in some instances, our general position is that it can be an unnecessary distraction
+* Where it can be useful is as shorthand
+  * It would get wordy to write "Holem Vav" repeatedly
+  * It's much less clutter to write the shorthand version based on transliteration: $\hat O$
+  * Often, the vowel marks in isolation can be difficult to detect; compare ֹ  with $\hat O$
+* As we move forward in the course, particularly in unit three, we will be making use of the vowel shorthand listed below
+
+::: {.box .info}
+
+* Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, $I$, Hireq, $O$ for Qamets Hatuf, and $U$, Qibbuts
+* Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
+* Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
+* Vowel letters (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Tsere+Hei, Seghol+Hei, and Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.], $\hat I$ = Hireq+Yod; $\hat O$ = Holem+Vav^[Formal shorthand for Holem+Hei is also $\hat O$ but for this course, we will only use $\hat O$ for Holem+Vav.], $\hat U$ = Shureq, and Qamets+Hei = $\hat A$^[Formal shorthand for Qamets+Yod is also $\hat A$ but for this course, we will only use $\hat A$ for Qamets+Hei.]
+* Additionally, we have  Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.]
+
+:::
+
+* We will use this shorthand frequently when we discuss verbs
+* We will review the values again as we get into Unit 3
+
 ## The Dagesh Forte Doubles the Consonant {#dagesh_forte}
 
 ```{r, out.width = "500pt", fig.align='center'}
@@ -215,7 +226,7 @@ knitr::include_graphics("images/02.daghesh_forte.gif")
   * The dot is called a Dagesh FORTE - it is the Dagesh Lene's big brother
   * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Dagesh Lene
 * The letter with the Dagesh Forte both ends one syllable and begins the next syllable
-* n <span class="he">הַשָּׁמַיִם:</span> is pronounced: `hash-sha-mayim`)^[ `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!]
+* In <span class="he">הַשָּׁמַיִם:</span> is pronounced: `hash-sha-ayim`)^[ `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!]
 * A similar word in English might be better = bet | ter
     * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*^[The * means this is not a real Hebrew word, but we show it in this form for illustration.]
 * Notice the syllable breaks in these words that have a Dagesh Forte:
@@ -250,6 +261,7 @@ That's it.  That's the rule^[Strictly speaking, there are exceptions.  We only h
 
 Quiz yourself with these examples (answers below):
 
+
 * <span class="he">אַתָּה</span> = Is the Dagesh preceded by a vowel that is not a Sheva?^[Yes, a patach. Dagesh Forte]
 * <span class="he">בְּרֵאשִׁית</span> = Is the Dagesh preceded by a vowel that is not a Sheva?^[No. Dagesh Lene]
 * <span class="he">עַל־פְּנֵי</span> = Is the Dagesh preceded by a vowel that is not a Sheva?^[No. Dagesh Lene.  The "hyphen" looking mark is called a Maqquef.  It has the same function as the Hyphen does in English.]
@@ -267,7 +279,7 @@ Quiz yourself with these examples (answers below):
   * <span class="he">בוּ</span> = Shureq
   * <span class="he">בְוָּ</span> = Vav with Dagesh Forte - a Shureq would never take an additional vowel
   * <span class="he">בָוּ</span> = Vav with Dagesh Forte ־ the Rule of Sheva:  preceding letter has a vowel 
-  * The last two are examples only; usually a Vav with the Dagesh Forte would have both a preceding vowel /Sheva AND an additional vowel/Sheva
+  * The last examples is hypothetical only; generally, a Vav with the Dagesh Forte would have both a preceding vowel/Sheva AND an additional vowel/Sheva
   
 ::: {.box .info}
 
@@ -318,7 +330,7 @@ Take a moment to review the section headings on the screen's left side before he
   * Sound out the words using your knowledge of Hebrew consonants and vowels.
   * As a general hint, with a couple of exceptions, the English names are pretty close to how they sound in Hebrew.
   
-Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/)
+Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
 
 
 ## Vowel worksheet {-}
@@ -339,7 +351,7 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 ::: {.box .map}
 YOUR QUEST
 
-1. Identify the four UNCHANGEABLE LONG vowels that use YOD in Verse 1 (blue)^[In most word processors, you won't be able to isolate the vowel to highlight. Get as close as you can.]|
+1. Identify the four UNCHANGEABLE LONG vowels that use YOD in Verse 1 (blue)^[In most word processors, you won't be able to isolate the vowel to highlight. Get as close as you can.]
 2. Identify the two UNCHANGEABLE LONG vowels that use VAV in Verse 1 (Green)
 3. Identify QAMETS HEI in Verse 1.  There is a TSERE Hei between Verses 5-10.  Can you find it?^[The other vowels that use hei are less common, but we will see them when we discuss verbs.] (Purple)
 4. Identify the three LONG vowels in Verse 1 (that are not part of a vowel letter) (pink)|

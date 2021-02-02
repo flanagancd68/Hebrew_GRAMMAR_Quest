@@ -122,7 +122,7 @@ knitr::include_graphics("images/03.accent_stress.png")
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
         * Qamets and Tsere will become Sheva (or Hateph Patach/Hateph Seghol)
     * The **Pretonic** Syllable is the syllable immediately before the accented syllable = <span class="he">בָ</span>
-    * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span>^[<small) If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not encounter this term for the remainder of this course.  ]
+    * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span>^[If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not encounter this term for the remainder of this course.]
     
 ## Ultima, Penultima, and Antepenultima syllables
 
@@ -137,24 +137,25 @@ Since the accent is not always in a fixed location, we sometimes will use other 
 
 Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
 
-### A Sheva is SILENT when the previous vowel is short: {-}
+<large>A Sheva is SILENT when the previous vowel is short</large>
 
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-shortvowel.png")
 ```
 
-### A Sheva is SILENT when the first of two consecutive Shevas _within a word_: {-}
+<large>A Sheva is SILENT when the first of two consecutive Shevas _within a word_</large>
 
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-firstoftwo.png")
 ```
 
-### A Sheva is SILENT when at the end of a word: {-}
+<large>A Sheva is SILENT when at the end of a word</large>
 
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-endofword.png")
 ```
-::: {.map .light}
+
+::: {.box .map}  
 THREE SILENT SHEVA CLUES  
 
 1. The previous vowel is short
@@ -168,26 +169,26 @@ THREE SILENT SHEVA CLUES
 
 Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
 
-### A Sheva is VOCAL when the initial Sheva in a word: {-}
+<large>A Sheva is VOCAL when the initial Sheva in a word</large>
 
 ```{r, out.width = "300pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-initialvocal.png")
 ```
 
-### A Sheva is VOCAL when the second of two consecutive Shevas _within a word_^[A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive Shevas.]:  {-}
+<large>A Sheva is VOCAL when the second of two consecutive Shevas _within a word_^[A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive Shevas.]</large>
 
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-secondoftwovocal.png")
 ```
 
 
-### A Sheva is VOCAL when under a Dagesh Forte: {-}
+<large>A Sheva is VOCAL when under a Dagesh Forte</large>
 
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-fortevocal.png")
 ```
 
-### A Sheva is VOCAL after an unaccented long vowel: {-}
+<large>A Sheva is VOCAL after an unaccented long vowel</large>
 
 ```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.sheva-unaccentedlongvocal.png")
@@ -196,13 +197,13 @@ knitr::include_graphics("images/03.sheva-unaccentedlongvocal.png")
 This one may seem random, but it is relatively common with _long_ vowels in a propretonic position^[These vowels often but do not always reduce (see section 3.6). Unchangeable long vowels will never reduce.]  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
 
-::: {.map .light}
+::: {.box .map}  
 FOUR VOCAL SHEVA CLUES  
 
 1. Word-initial
 2. SECOND of two within a word
 3. Under a Dagesh Forte
-4. After an unaccented long vowel
+4. After an unaccented long vowel  
 :::
 
 
@@ -215,7 +216,7 @@ knitr::include_graphics("images/03.diphthong.png")
 ```
 
 * The diphthong is a single vowel unit, which means it is only one syllable
-* We do not pronounce the word on the right above as "BUY-it," but monosyllabic, more like "BITE"^[With this said, "buy" it makes a handy mnemonic for remembering this word means 'house', as there are a few look-alike words.]
+* We do not pronounce the word on the right above as "BUY-it," but monosyllabic, more like "BITE"^[With this said, "buy-it" makes a handy mnemonic for remembering this word means 'house' - when you see a nice house you want to "buy it." There are several look-alike words.]
 * The word on the left is not "sh-MAY-im," but it sounds more like "sh-MIME"
 
 ::: {.box .light}
@@ -249,10 +250,21 @@ Closed | LONG | SHORT | SHORT
 * Propretonic syllables
   * Closed REQUIRES Short
   * Open REQUIRES reduction from a long vowel to Vocal Sheva (or Hateph if guttural), _except_ when there is an unchangeable long vowel
-* Go back and look at <span class="he">דָּבָר</span> and <span class="he">דְּבָרִים</span>
+* Remember <span class="he">דָּבָר</span> and <span class="he">דְּבָרִים</span>
     * The vowel preference table explains why the vowel under the Dalet changes from Qamets in the Open/Pretonic to Vocal Sheva (reduced vowel) in the open propretonic when the plural suffix is added
     * This is called "_propretonic reduction_" - you will encounter this topic frequently
   * As we saw with <span class="he">כֹּתְבִים,</span> unchangeable long vowels that are written "defectively" will not reduce - at their essence, they are still unchangeable
+  
+::: {.box .info}  
+PAUSAL FORMS
+
+* A notable exception to these preferences is called the "pausal form" 
+  * This is where a short vowel can become long (for example קָטַל becomes קָטָל) if the word is located at a certain point in a sentence
+  * A rough approximation in English would be words concluding with a comma
+* Pausal Forms are generally an intermediate Hebrew topic
+* Other vowel exceptions can occur with changes in the way a language is spoken over time
+
+:::
 
 ## Qamets Hatuf, Furtive Patach, Quiescent Aleph {#misc_vowels}
 
@@ -390,14 +402,14 @@ YOUR QUEST
 
 ## Quest Quiz {-}
 
-[Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
-
-
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-## Claim your `Unit 1 Completion Certificate`! {-}
+[Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
+
+
+## Request your `Unit 1 Completion Certificate`! {-}
 
 If you have completed **all activities** in Lessons 1, 2, and 3, you may claim the first of our `Unit Completion Certificates`.
 
@@ -409,6 +421,4 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
 
-<div class="containerLet">
-<iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
-</div>
+[Please open and submit the Unit Completion Certificate Request form form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_block"}

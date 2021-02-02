@@ -1,10 +1,7 @@
-# (PART) Nouns, Prepositions, Pronouns {-}
-
 # Hebrew Nouns {.Nouns}
 
 
-
-> To comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.
+To comprehend Biblical Hebrew, we must understand how nouns are formed, how they are pluralized, and how to look words up in a dictionary.
 
 
 Nouns consist of a person, place, thing, or idea and can be singular or plural.  Hebrew also introduces the concept of "gender."  This lesson will review aspects of the Hebrew noun with specific attention focused on pluralization rules.
