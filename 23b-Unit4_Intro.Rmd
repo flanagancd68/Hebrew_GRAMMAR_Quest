@@ -48,7 +48,7 @@ In Lesson 26, we will start to do a `Ruth Pursuit Analysis`.
     * You do not have to turn this in and, it will not be graded as a part of this course (as you know, no grades are ever recorded in this course)
     * We would encourage you to share your passage with the Holy Language Institute Tribe for their edification
 
-## Stem Vowel Pattern Nomenclature
+## Stem Vowel Pattern Nomenclature {-}
 
 * The derived stems tend to be much more consistent with their application of stem vowels
 * We will use a code to memorize the stem vowels for non-Qal Strong verbs
@@ -87,7 +87,7 @@ $$V_S = Perfect[2/1 person] \sim Imperfect (Imperfect FP)$$
 * Everything else uses Imperfect $V_S$
     * Imperative, Jussive, Cohortative, ∞
     
-## Review: Sheva before Finite Verb Endings
+## Review: Sheva before Finite Verb Endings {-}
 
 * Finite Verbs have Person (1st, 2nd, 3rd)
     * Thus the Finite verb conjugations are: Perfect, Imperfect, Imperative, Jussive, Cohortative

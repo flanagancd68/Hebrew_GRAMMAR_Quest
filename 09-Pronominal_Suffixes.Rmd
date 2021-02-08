@@ -56,15 +56,18 @@ knitr::include_graphics("images/09-Banias waterfall, tb032704275.jpg")
 
 ## _Hebrew Quest_ Possessive Pronominal Suffixes Lecture
 
-View this overview video from _Hebrew Quest_ on possessive suffixes.  Don't fret if you don't fully understand this material.  We will break down these concepts as we progress through the lesson.   We will discuss Construct forms in Lesson 10.
+View this overview video from _Hebrew Quest_ on possessive suffixes.  Don't fret if you don't fully understand this material on the first pass through the video.  We will break down these concepts as we progress through the lesson.   We will discuss Construct forms in Lesson 10.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-yY3O8ByYNwI?start=1232&end=1647
+yY3O8ByYNwI?start=912&end=1647
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
-[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1232){target="_blank"}
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=912){target="_blank"}
+
+Start: 15:12
+End: 27:27
 
 ## _Hebrew Quest_ Pronominal Suffixes
 
@@ -75,6 +78,9 @@ Although this 10-minute video is from the "Complex Verbs" section of _Hebrew Que
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=2731){target="_blank"}
+
+Start: 45:31
+End: 55:41
 
 ## Possessive Pronominal Suffix Meaning
 

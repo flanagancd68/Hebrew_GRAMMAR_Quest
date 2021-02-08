@@ -45,7 +45,7 @@ We're praying for you in advance as we compile this section!  Now, climb the mou
 
 ## First Thought {-}
 
-###  אַשְׁרֵי אָדָם לֹא יַחְשֹׁב יְהוָה לוֹ  {-}
+###  <span class="he">אַשְׁרֵי אָדָם לֹא יַחְשֹׁב יְהוָה לוֹ</span>  {-}
 
 *How blessed is the man to whom the LORD does not impute iniquity  (Psalms 32:2)*
 
@@ -355,6 +355,7 @@ Then after watching these, go ahead and jump into `Anki`.
     * We encourage you to use a Dictionary (such as [this one](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}) to help you when you come across unfamiliar words
     * You can also edit the card and add your own hints to remember certain words
     * Other dictionaries [are available here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    * To help with this, for Lessons 3-10, longer verses will be divided into multiple sections
   * It may take you SEVERAL attempts before you can select `Good`
   * Be patient and stick with it - you'll get it!
   * By the end of the course, you will learn close to 500 verses in Hebrew

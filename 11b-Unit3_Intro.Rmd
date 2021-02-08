@@ -14,7 +14,9 @@ We wanted to let you know of some changes:
 2. $Pre$ = a diagnostic word-initial combination
 3. Changes to Hebrew GRAMMAR Quest for Units 3 and 4
     1. No more quizzes!
-    2. Cantillation marks added to study verses
+    2. Study Verses
+        * Cantillation marks added to study verses
+        * Verses will be taken as a whole, versus split into smaller components
     3. OPTIONAL _Hebrew Quest_ Study Passage Translation
 
 
@@ -50,8 +52,10 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 * At this stage of the course, we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
 * The overload workload is steadily increasing, and of course, the Anki reviews are growing (so be sure to keep up with daily reviews!)
 
-## Changes for Unit 3: Cantillation Marks added to Study Verses {-}
+## Changes for Unit 3: Changes to `Anki Study Verses` {-}
 
+* In Unit 2, we split longer verses into two sections; starting with Unit 3, we're going to take it up a notch and have you review the entire study verse in one answer
+* For Unit 3, we are also adding Cantillation Marks added to Study Verses
 * Back in Lesson 2, we also referenced additional marking called cantillation marks
 * These are the marks in addition to vowels and consonants we sometimes see in Hebrew
     * Here is the example we looked at from Genesis:

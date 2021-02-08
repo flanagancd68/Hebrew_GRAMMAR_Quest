@@ -58,15 +58,19 @@ knitr::include_graphics("images/06-Nazareth Mount of Precipitation from west pan
 
 ## _Hebrew Quest_ Prepositions Lecture
 
-View this overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson.
+View this 8-minute video from _Hebrew Quest_ introducing prepositions. You can ignore the references to Essentials of Biblical Hebrew. We will dig into the concepts in greater detail as we progress through the lesson. 
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-yY3O8ByYNwI?start=1836&end=2460
+yY3O8ByYNwI?start=1839&end=2303
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
-[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1836){target="_blank"}
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1839){target="_blank"}
+
+Start: 30:40
+End: 38:23
+
 
 ## Nun with Silent Sheva Becomes Dagesh Forte
 
@@ -92,13 +96,6 @@ A Dagesh Forte frequently indicates an assimilated נ
 
 * When the Dagesh Forte is rejected, we have lost our big clue that a letter like נ has gone missing
     * Occasionally, but not always, we will have Compensatory Lengthening to help us out
-* Recall the three scenarios where the Dagesh Forte may be rejected:
-
-| Scenario | Reject Dagesh | Compensatory Lengthening
-| :-: | :-: | :-: 
-| Gutturals/Resh | ALWAYS | Sometimes
-| Word-final Dagesh without a Vowel (Lesson 4) | ALWAYS | Sometimes
-| SQiN eM Levy WITH SHEVA | SOMETIMES | NEVER
 
 
 ## Independent and Maqqef prepositions 
@@ -129,26 +126,38 @@ The same preposition may be written both with and without the Maqqef
 * Like <span class="he">וְ</span> for the word "and," an inseparable preposition is a one-letter prefix affixed to its object
 * Three Hebrew prepositions are **ALWAYS** inseparable
     * <span class="he">בְּ</span> - in, at, with, by, against
-        * <span class="he">בְּמֶ֫לֶךְ</span>
-        * With a king
+        * <span class="he">בְּמֶ֫לֶךְ</span> -  With a king
     * <span class="he">כְּ</span> - as, like, according to
-        * <span class="he">כְּמֶ֫לֶךְ</span>
-        * Like a king
+        * <span class="he">כְּמֶ֫לֶךְ</span> - Like a king
     * <span class="he">לּ</span> - to, toward, for
-        * <span class="he">לְמֶ֫לֶךְ</span>
-        * To/towards a king
+        * <span class="he">לְמֶ֫לֶךְ</span> - To/towards a king
 
 ::: {.box .info}
-A mnemonic to remember these three inseparable prepositions is "BucKLe"
-
-The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning"
-:::
-
+* A mnemonic to remember these three inseparable prepositions is "BucKLe"
+* The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning"
 * In the lexical form of these prepositions, there is a Vocal Sheva vowel under the "buckle" consonant
 * If there is a Sheva or Hateph vowel in the next letter, the Rule of Sheva come into play (see Lesson 4)
     * Before another Vocal Sheva, the preposition usually takes a Hireq
     * Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
     * Note the names of God again receive special treatment: <span class="he">לֵאלֹהִים</span> and <span class="he">לַיהוָה</span>
+
+:::
+
+## _Hebrew Quest_ Preposition with Definite Article Lecture
+
+View this 2-minute video from _Hebrew Quest_. You can ignore the references to Essentials of Biblical Hebrew. We will dig into the concepts in greater detail as we progress through the lesson. 
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?start=2303&end=2460
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=2303){target="_blank"}
+
+Start: 38:23
+End: 41:00
+
 
 ## The Article and Inseparable Prepositions
 
@@ -176,7 +185,7 @@ ARTICLE WITH PREPOSITION
     * <span class="he">לַהֵיכָל</span> = for THE temple
 :::
 
-## The flexible <span class="he">מִן</span>: construction
+## The flexible מִן: construction
 
 * <span class="he">מִן</span> is a unique preposition
     * It can be a Maqqef preposition, as in <span class="he">מִן־זָהָב</span>
@@ -198,14 +207,14 @@ knitr::include_graphics("images/06.preposition_min.jpg")
     * When we see מִקְ, מִיְ or Mem+Hireq followed by a SQiN eM LeVY letter and there is no Dagesh Forte, this may be a clue
     * We should say to ourselves, "I don't see a Dagesh Forte, but that's a `SQiN eM LeVY` letter. This may still be מִן."
 
-## The Article and <span class="he">מִן</span>
+## The Article and מִן
 
 Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is always RETAINED with <span class="he">מִן</span>
 
 * <span class="he">מֶהָאָ֫רֶץ</span> = from the land.
 
 
-## The flexible <span class="he">מִן</span>: meanings 
+## The flexible מִן: meanings 
 
 * <span class="he">מִן</span> occurs 7,592 times in the Bible, and can have multiple meanings
 * The most direct purpose is "from" - <span class="he">מֵהָאָ֫רֶץ</span> from the land
@@ -247,10 +256,9 @@ We see the DDO twice in the first verse of the Bible:
 
 ## _Hebrew Quest_ discussion of Genesis 1:1 
 
-* As a conclusion to this lesson, please watch the video below where Izzy discusses Genesis 1:1
+* As a conclusion to this lesson, please watch the video below where Izzy discusses how to read a passage using Genesis 1:1
 * Genesis 1:1 contains examples of the Article, the conjunction, an inseparable preposition and the DDO marker (Izzy also discusses how the DDO speaks of Messiah!)
-* The Genesis 1:1 segments runs from 12:45 - 46:50
-* We encourage you to take notes using [a blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}<small>^[<small>In Unit 3, you will have the option of completing our "_Hebrew Quest_ Study Passage Track".  In Lesson 17, we will study Genesis 1:1-5, which is why this document has verses 1-5.]
+* We encourage you to take notes using [a blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}^[In Unit 3, you will have the option of completing our "_Hebrew Quest_ Study Passage Track".  In Lesson 17, we will study Genesis 1:1-5, which is why this document has verses 1-5.]
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://youtube.com/embed/sQKorif_GBk?start=732&end=2815" frameborder="0"></iframe>
@@ -258,8 +266,8 @@ We see the DDO twice in the first verse of the Bible:
 
 [Click to open video in a new tab](https://youtu.be/sQKorif_GBk?t=732){target="_blank"}
 
-
-
+Start: 12:12
+End: 46:55
 
 ## Conclusion {-}
 

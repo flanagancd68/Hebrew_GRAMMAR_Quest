@@ -2,7 +2,7 @@
 
 > To comprehend Biblical Hebrew, we must be able to identify pronouns with gender, number, and person 
 
-Pronouns are essentially a language's shorthand, so we don't have to keep repeating nouns (because saying all of those nouns over and over can really wear you down<small>^[If you grew up in the late 70s and early 80s, you might be familiar with the [Schoolhouse Rock Pronoun video](https://www.youtube.com/watch?v=cZaMXYAu9h0){target="_blank"}</small>]</small>).
+Pronouns are a form of shorthand so we don't have to keep repeating nouns (because saying all of those nouns over and over can really wear you down<small>^[If you grew up in the late 70s and early 80s, you might be familiar with the [Schoolhouse Rock Pronoun video](https://www.youtube.com/watch?v=cZaMXYAu9h0){target="_blank"}</small>]</small>).
 
 The main challenge with a pronoun is determining the noun _it_ replaces.  See what happened there?  We used the pronoun "it".  You probably deduced "it" was referring to the word "pronoun," not "noun."  That is because you are very familiar with English context and syntax.  
 
@@ -65,24 +65,26 @@ knitr::include_graphics("images/08-Sea of Galilee and Plain of Gennesaret panora
 
 ## _Hebrew Quest_ Independent Pronouns Lecture
 
-View this 4-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. The first table Izzy reviews is reproduced in the next section. Prominimal suffixes will be discussed in the next lesson.
+View this 5-minute overview video from _Hebrew Quest_.  You can disregard the references to the _Hebrew Quest Student Manual_ or _Essentials of Biblical Hebrew_.  We will dig into the concepts in greater detail as we progress through the lesson. The first table Izzy reviews is reproduced in the next section. Pronominimal suffixes will be discussed in the next lesson.
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/yY3O8ByYNwI?start=637&end=921&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/yY3O8ByYNwI?start=638&end=912&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
-[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=637){target="_blank"}
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=638){target="_blank"}
 
+Start: 10:38
+End: 15:12
 
 ## Independent Personal Pronoun Table
 
-P/G |S | P
+P/G | S | P
 :-: | :-: | :-:
-1C | <span class="he>אֲנִי ,אָנֹכִי</span> | <span class="he>אֲנַ֫חְנוּ</span> | 
-2M  | <span class="he>אַתָּה</span> | <span class="he>אַתֶּם</span> | 
-2F | <span class="he>אַתְּ</span> | <span class="he>אַתֵּ֫נָה</span> | 
-3M  | <span class="he>הוּא</span> | <span class="he>הֵם ,הֵ֫מָּה</span> | 
-3F  | <span class="he>הִיא ,הִוא</span> | <span class="he>הֵן ,הֵ֫נָּה</span> | 
+1C | <span class="he">אֲנִי ,אָנֹכִי</span> | <span class="he">אֲנַ֫חְנוּ</span> 
+2M  | <span class="he">אַתָּה</span> | <span class="he">אַתֶּם</span> 
+2F | <span class="he">אַתְּ</span> | <span class="he">אַתֵּ֫נָה</span>  
+3M  | <span class="he">הוּא</span> | <span class="he">הֵם ,הֵ֫מָּה</span> 
+3F  | <span class="he">הִיא ,הִוא</span> | <span class="he">הֵן ,הֵ֫נָּה</span>  
 
 * You will work on memorizing these in `Anki`
 * The 3FS form הִוא is found only in the Torah
@@ -90,14 +92,14 @@ P/G |S | P
 ::: {.box .info}
 PRONOUN TIPS
 
-* All 1st person pronouns begin with <span class="he">אנ</span>
+* All 1st person pronouns begin with <span class="he">אנ</span> 
 * All 2 begin with accented <span class="he">אַתּ֫</span> - note the Daghesh Forte
 * All 3 begin with accented <span class="he">ה֫</span>
 * All MP end with either <span class="he">מָה</span> or <span class="he">ם.</span> Think "monks" since men are monks
 * All FP end with either <span class="he">נָה</span> or <span class="he">ן.</span> Think "nuns" since women are nuns
-* Who (הוּא) is he
-* He (הִיא ) is she
-
+* Hu (<span class="he">הוּא</span>) is he
+* Hi (<span class="he">הִיא</span> ) is she
+* Mi <span class="he">מִי</span> is who?
 :::
 
 ## Independent Personal Pronouns Discussion
@@ -111,7 +113,7 @@ PRONOUN TIPS
     * <span class="he">אָנֹכִי</span> is considered more formal or emphatic.  It is often translated, "I, myself"
 * Do not confuse <span class="he">אַתָּה</span> (you 2MS) with <span class="he">עַתָּה</span> (now)
     
-## Relative Pronoun <span class="he">אֲשֶׁר</span>
+## Relative Pronoun אֲשֶׁר
 
 * Hebrew has one general-purpose relative pronoun
 * <span class="he">אֲשֶׁר</span> is a vocabulary word for this lesson
@@ -120,13 +122,15 @@ PRONOUN TIPS
 * <span class="he">אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה</span>
     * _These are the words *that* Moses spoke (Deuteronomy 1:1)_
 
-## Interrogative Pronoun
+
+
+## Interrogative Pronouns
 
 * <span class="he">מִי</span> = who ("Who, me?")
 * <span class="he">מָה</span> = what (think of your mom questioning you, "What, ma?")
     * Can also be written as Maqqef - note the vowel shortens <span class="he">מַה־</span>
 *   <span class="he">לָמָה</span> = why
-* <span class="he">אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי</span>
+    * <span class="he">אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי</span>
     *  _My God, my God, WHY have you forsaken me? (Psalms 22:1)_
 
 ::: {.box .info}
@@ -135,7 +139,22 @@ Usually, interrogative pronouns will appear at the beginning of a clause
 
 :::
 
-## Interrogative Particle <span class="he">הֲ</span>
+## _Hebrew Quest_ Interrogative Particle Lecture
+
+View this 2-minute  video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. 
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+yY3O8ByYNwI?start=1758&end=1835
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI&t=1758){target="_blank"}
+
+Start: 29:18
+End: 30:35
+
+## Interrogative Particle הֲ
 
 * English has a question mark at the end of a sentence
 * Hebrew has what is called an interrogative particle at the BEGINNING of a sentence
@@ -145,11 +164,11 @@ Usually, interrogative pronouns will appear at the beginning of a clause
 
 ## Interrogative Particle vs. Definite Article 
 
-* Despite the similarity, most of the time, we will not have trouble differentiating the Article from the Interrogative Particle
+* Despite the similarity, we will not usuaally have trouble differentiating the Article from the Interrogative Particle
 * Below are potential sources of ambiguity:
     * 1st word of a clause before <span class="he">חָ֫,חָ, הָ, עָ</span>   = both are <span class="he">הֶ</span>
     * 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = both are <span class="he">הַ</span>
-    * In these situations, you guessed it, you will need to let context determine whether a question is being asked
+    * In these situations, you guessed it, we will need to let context determine whether a question is being asked
 * With lots of reading practice, this will get easier
 * Additionally, the Definite Article is about **300X more common**
 

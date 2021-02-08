@@ -49,6 +49,7 @@ we-classify-ten-consonants-as-sqin-em-levy
 look-alike-letters
 pronunciation
 hebrew-vowels
+hebrew-quest-vowels-lecture
 vowels-that-are-not-vowel-letters-table
 vowels-that-are-not-vowel-letters-discussion
 vocal-and-silent-sheva
@@ -75,7 +76,7 @@ qamets-hatuf
 furtive-patach
 quiescent-aleph
 hebrew-nouns
-hebrew-quest-grammatical-gender-lecture
+hebrew-quest-grammatical-gender-and-plural-endings-lecture
 gender_number
 parsing-vs.-inflecting
 sing_noun_endings
@@ -84,9 +85,12 @@ dual-noun-endings
 dual_forms
 irregular_pluralization
 rules_sheva
+rule-of-sheva-ii
+rule-of-sheva-iii
 lexical_form
 definite-article-and-conjunction-vav
-hebrew-quest-conjunction-lecture
+hebrew-quest-vav-lecture-from-hq-lesson-5
+hebrew-quest-conjunction-lecture-from-hq-lesson-13
 vav_translate
 vav_identify
 loss_Dagesh_forte
@@ -101,6 +105,7 @@ hebrew-quest-prepositions-lecture
 nun-with-silent-sheva-becomes-dagesh-forte
 independent-and-maqqef-prepositions
 inseparable-prepositions
+hebrew-quest-preposition-with-definite-article-lecture
 the-article-and-inseparable-prepositions
 the-flexible-מִן-construction
 the-article-and-מִן
@@ -121,7 +126,8 @@ hebrew-quest-independent-pronouns-lecture
 independent-personal-pronoun-table
 independent-personal-pronouns-discussion
 relative-pronoun-אֲשֶׁר
-interrogative-pronoun
+interrogative-pronouns
+hebrew-quest-interrogative-particle-lecture
 interrogative-particle-הֲ
 interrogative-particle-vs.-definite-article
 hebrew-quest-demonstratives-lecture
@@ -323,8 +329,6 @@ volitional-syntax
 conditional-phrases
 disjunctive-vav
 adverbs
-stem-vowel-pattern-nomenclature
-review-sheva-before-finite-verb-endings
 the-niphal-stem---strong-verbs
 niphal-verb-stem-table
 niphal-meanings

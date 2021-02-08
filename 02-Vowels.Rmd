@@ -63,6 +63,19 @@ Reflect on the works of HaShem that you have seen!
 knitr::include_graphics("images/02-Plain of Bethsaida with green grass, tb110206630.jpg")
 ``` 
 
+## _Hebrew Quest_ Vowels Lecture
+
+View this 28:00 overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson^[As a reminder, you can speed up these videos by pressing the `gear` symbol, then adjusting the `Playback Speed`.].  You can disregard references to the "Hebrew Quest Student Manual" or "Essentials of Biblical Hebrew." Pertinent concepts have been incorporated into this Hebrew GRAMMAR Quest Guidebook. We would strongly recommend that you familiarize yourself with the materials on the holylanguage.com resources pages.  
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+MlfwNNuWgto?start=0&end=1675&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/MlfwNNuWgto){target="_blank"}
+
+* Start: 00:00
+* End: 27:55
 
 ## Vowels that are not vowel letters: table
 
@@ -279,7 +292,11 @@ Quiz yourself with these examples (answers below):
   * <span class="he">בוּ</span> = Shureq
   * <span class="he">בְוָּ</span> = Vav with Dagesh Forte - a Shureq would never take an additional vowel
   * <span class="he">בָוּ</span> = Vav with Dagesh Forte ־ the Rule of Sheva:  preceding letter has a vowel 
-  * The last examples is hypothetical only; generally, a Vav with the Dagesh Forte would have both a preceding vowel/Sheva AND an additional vowel/Sheva
+  * The last example is hypothetical only; generally, a Vav with the Dagesh Forte would have both a preceding vowel/Sheva AND an additional vowel/Sheva
+* A similar situation happens with <span class="he">וֹ</span>
+  * Consider the word, <span class="he>מִצְוֹת</span>
+    * This is a consonantal Vav with a Holem, pronounced "vo"
+    * The previous consonant has a Sheva ending the syllable; the next syllable cannot start with a vowel
   
 ::: {.box .info}
 
@@ -306,7 +323,7 @@ MAPPIQ
 * You may see הּ. This dot is not a Dagesh because we just learned that gutturals never take a Dagesh but a Mappiq. 
 * A word-final ה is typically a vowel
 * A Mappiq signifies that a word-final ה is a consonant, not a vowel
-* We'll talk more about the Mappiq in Lesson 6
+* We'll talk more about the Mappiq in Lesson 7
 :::
 
 ## Lesson Conclusion and Activities {-}

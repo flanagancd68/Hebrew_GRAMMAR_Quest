@@ -9,9 +9,18 @@
 * Now in Unit 2, we will use those building blocks from Unit 1 to form nouns, prepositions, and adjectives
 * Units 3 and 4 we will transition to verbs
 
-## Changes for Unit 2 {-}
+<large>Changes for Unit 2</large>:
 
-* If you recall from the Introduction, we described Hebrew GRAMMAR Quest, Lessons 4-35 as the expanded edition of the _Hebrew Quest_ grammar overview lessons (13-15)
-* For Unit 2, each lesson will have one (sometimes more than one) clip from Lesson 13 of _Hebrew Quest_
+* _Hebrew Quest_ Videos
+    * If you recall from the Introduction, we described Hebrew GRAMMAR Quest, Lessons 4-35 as the expanded edition of the _Hebrew Quest_ grammar overview lessons (13-15) - you are not about to embark on that expanded edition!
+    * For Unit 2, each lesson will have one (sometimes more than one) clip from Lesson 13 of _Hebrew Quest_
+    * You can ignore any references Izzy makes to the "Hebrew Quest Student Manual" or the "Essentials of Biblical Hebrew" book
+    * As we talked about in the `Word Warm-up` video, you can speed up or slow down the video speed by clicking the gear icon, then changing the `Playback Speed`
+* `Anki` Workbook modules
+    * Many grammar textbooks have accompanying workbooks that give students additional practice
+    * While it is reasonable to think of `Anki` as one giant workbook, beginning with Unit 2 we are adding in short exercise where dissect words or short passages
+    * Our goal is to parse and translate
+        * Parsing is identifying the gender, number, person (if applicable), and the lexical form
+        * Translating is identifying the word's meaning
 
 

@@ -47,14 +47,15 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg")
 ``` 
 
 ## _Hebrew Quest_ Adjectives Lecture
 
-View this 5-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson.
+View this 5-minute overview video from _Hebrew Quest_ Lesson 13.  You can disregard the references to the other resources mentioned in the video.  We will dig into the concepts in greater detail as we progress through the lesson. If you looked at the Lesson Itinerary, you may not have been previously familiar with the terms "attributive" and "predicative" in terms of adjectives. In the video, when Izzy says, "the good trees", this is called the ATTRIBUTIVE use. When he says, "the trees are good", this is the PREDICATIVE use.
+
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
@@ -62,8 +63,12 @@ yY3O8ByYNwI?start=2671&end=2978
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
+
+
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=2671){target="_blank"}
 
+Start: 44:30
+End: 49:38
 
 ## Inflecting Adjectives
 
@@ -86,7 +91,7 @@ include_graphics("images/07_adjective_gif.gif")
 4. An adjective will use expected gender and number endings as shown in the graphic above
 5. The Lexical Form of an adjective is the MS
     * The MS form is usually endingless
-    * the MS can be Seghol+Hei as in <span class="he">יָפֶה</span>, which is MS for pleasing, beautiful.
+    * The MS can be Seghol+Hei as in <span class="he">יָפֶה</span>, which is MS for pleasing, beautiful.
 
 ::: {.box .info}
 Note that unlike <span class="he">טוֹב</span>, most adjectives undergo vowel changes when the inflectional endings are added. 
@@ -251,7 +256,7 @@ Be sure to update your `Ruth Pursuit Translation Worksheet` with the findings fr
 
 
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
-* [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
+* [Ruth Pursuit Answer Key #7](./images/07_Ruth_Pursuit_KEY.pdf){target="_blank"}
 * Don't forget to update your `Ruth Pursuit Translation` worksheet with new words identified through lesson 7.
 
 ## Quest Quiz {-}

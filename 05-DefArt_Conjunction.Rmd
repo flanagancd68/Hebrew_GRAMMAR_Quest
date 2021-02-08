@@ -52,14 +52,31 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg")
 ``` 
 
-## _Hebrew Quest_ Conjunction Lecture
+## _Hebrew Quest_ Vav Lecture (from HQ Lesson 5)
 
-View this 4-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. 
+View this 3-minute video from _Hebrew Quest_ discussing how the letter Vav can mean the conjunction "and". 
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+oZ1VbPCpMvw?start=729&end=900
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/oZ1VbPCpMvw?t=729){target="_blank"}
+
+Start: 12:09
+End: 15:00
+
+
+
+## _Hebrew Quest_ Conjunction Lecture (from HQ Lesson 13)
+
+View this 3:30 overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson.  You may disregard references to the Hebrew Quest Student Handbook/Essentials of Biblical Hebrew.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
@@ -69,7 +86,8 @@ yY3O8ByYNwI?start=2460&end=2671
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI&t=2460){target="_blank"}
 
-
+Start: 41:00
+End: 44:31
 
 ## Translate the Vav Conjunction {#vav_translate}
 
@@ -77,16 +95,11 @@ yY3O8ByYNwI?start=2460&end=2671
     * Some of these can be translated into English
     * Other times there is no direct English translation; these uses are more like "stage directions" in a play
 * When translating the Vav, we must make sure our translation fits the context
-    * Most often, it merely means "and"
-    * Other options include: then, and then, but, also, even, together with, that is  
+    * Most often, it merely means "and", but other options can include then, and then, but, also, even, together with, that is  
     * Occasionally, the best option is to leave it untranslated
-        * English does not like to start sentences with "and" or have multiple "and" clauses in a sentence; we call these "run-on sentences"
-        * Hebrew LOVES to start sentences with "and" and is just fine with run-on sentences
-        * For example, suppose you read and translate the story of David and Goliath in 1 Samuel 17
-        * You would discover that nearly every sentence would begin with "and"
-            * In English, we would consider these "run-on" sentences.  
-            * In Hebrew, the reader can feel the sense of tension and action building in the narrative by the use of the Vav
-            * Review [this segment from _Hebrew Quest_](https://youtu.be/oZ1VbPCpMvw?t=729){target="_blank} for additional discussion
+* When you were learning English, we had it drilled into us that we should never begin sentences with "and" or have multiple "and" clauses in a sentence
+    * We call these "run-on sentences"
+* Hebrew LOVES to start sentences with "and" and is just fine with run-on sentences
 * As you advance in Hebrew, you will enjoy seeing how the Bible authors employ the Vav at the beginning of a sentence or clause to evoke different meanings
     * For example, when added to a verb, it usually serves to continue or advance the narrative
         * It can also have a particular use of changing the verb's aspect.  We'll address that in Chapter 17.
@@ -94,6 +107,8 @@ yY3O8ByYNwI?start=2460&end=2671
 
 
 ::: {.box .info}
+TRANSLATION TIPS
+
 * As you are starting out in Hebrew, start your translation of the Vav Conjunction with "And", but be flexible.
 * Another word, such as "but" or "then" might make more sense.
 * Many times for smooth English, we will leave the Vav untranslated.
@@ -115,7 +130,6 @@ knitr::include_graphics("images/05.vav_conjunction.png")
     * The conjunction will also be <span class="he">וּ</span> before a consonant that has a Sheva
 * You may see <span class="he">וָ</span> before some accented syllables (remember the Vowel-Syllable preferences)
 * Since Vav takes a Vocal Sheva, the Rule of Sheva applies when <span class="he">וְ</span> is prefixed to a word beginning with a reduced vowel (Vocal Sheva or Hateph vowel)
-    * As we learned in Lesson 4, the Vav will take the corresponding short vowel
 
 ::: {.box .info}
 How to tell the difference between the conjunction and words that start with <span class="he">ו</span>?
@@ -131,7 +145,7 @@ How to tell the difference between the conjunction and words that start with <sp
 * We've been referencing the Dagesh Forte in almost every Lesson of this course, and now we're about to meet it face to face as we discuss the Hebrew Article
 * We like to think of the Dagesh Forte as your friend
 * When you see it, it is Hebrew's way of saying "pay attention; something is different"
-* As we've discussed, sometimes the Dagesh Forte gets rejected from time to time (everybody say, "awwww.") 
+* Sometimes the Dagesh Forte gets rejected from time to time
 * We've discussed two of those already, and in this lesson, we'll add a third
 * A SQiN eM LeVY consonant with a Sheva SOMETIMES rejects the Dagesh Forte
     * When this happens, there is NEVER compensatory lengthening
@@ -139,9 +153,9 @@ How to tell the difference between the conjunction and words that start with <sp
 
 | Scenario | Reject Dagesh | Compensatory Lengthening
 | :-: | :-: | :-: 
-| Gutturals/Resh | ALWAYS | Sometimes
-| Word-final Dagesh without a Vowel (Lesson 4) | ALWAYS | Sometimes
-| **SQiN eM Levy WITH SHEVA** | SOMETIMES | NEVER
+| Gutturals/Resh | Always | Sometimes
+| Word-final Dagesh without a Vowel (Lesson 4) | Always | Sometimes
+| **SQiN eM LeVY WITH SHEVA** | SOMETIMES | NEVER
 
 -----
 
@@ -171,25 +185,33 @@ SQiN eM LeVY Rule
 
 ## _Hebrew Quest_ Article Lecture
 
-View this 3-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. We will discuss the Interrogative Article in Lesson 8.
+View this 2-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. We will discuss the Interrogative Article in Lesson 8.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-yY3O8ByYNwI?start=1649&end=1836
+yY3O8ByYNwI?start=1650&end=1835
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
-[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI){target="_blank"}
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI&t=1650){target="_blank"}
 
+Start: 27:30
+End: 29:18
 
 ## Translate the Article {#article_translate}
 
 * In English, we have two "Indefinite articles" = "a" or "an", and one "Definite article" = "the"
-* Hebrew just has one article for definiteness (so we just call it the "Article")
 * The Hebrew article has many translations: "the", "this", "o" (as in "O king"), "his", "her", "my".
 * <span class="he">הַיּוֹם</span> is literally "the day"; however, a better translation is "today", or sometimes "this day"
 * The Hebrew article can make an adjective superlative: <span class="he">הַתּוֹב</span> is literally "the good", but can mean "the best".
 
+::: {.box .map}
+ARTICLE
+
+* Hebrew just has one article for definiteness
+* It is often simply called the "Article"
+* The Hebrew "Article" is equivalent to the English "Definite Article"  
+:::
 
 ## Identify the Article {#article_identify}
 
@@ -217,11 +239,9 @@ include_graphics("images/05.def_art.png")
 
 ## Hebrew Indefiniteness {#indefiniteness}
 
-Hebrew (and Greek) lacks an indefinite article.  
-
-A word without the Article is indefinite.
-
-Occasionally you will see "one" - <span class="he">אַחַת אֶהַר</span> to indicate indefiniteness
+* Hebrew (and Greek) lacks an indefinite article.  
+* A word without the Article is indefinite.
+* Occasionally you will see "one" (<span class="he">אַחַת אֶהַר</span>) to indicate indefiniteness
 
 ## Other Hebrew Definiteness {#definiteness}
 
@@ -230,17 +250,17 @@ Occasionally you will see "one" - <span class="he">אַחַת אֶהַר</span> 
     * <span class="he">דָּוִד</span> is definite (we will never see: <span class="he">*הַדָּוִד</span>)
     * On the other hand, names of people groups and some geographic features often take the article. <span class="he">הַיַּרְדֵּן</span>= the Jordan River.
 * A word with a pronominal suffix is definite since the suffix indicates possession, and possession is definite<small>^[Pronominal suffixes are the subject of Lesson 9</small>]</small>.
-* A word in its construct state is definite when the last word in the construct chain is definite<small>^[Lesson 10</small>]</small>.
+* A word in its construct state is definite when the last word in the construct chain is definite<small>^[We will discuss construct chains in Lesson 10</small>]</small>.
 
 ## Lesson Conclusion and Activities {-}
 
-You made it through another lesson!  Way to go!  Even though we only studied two concepts - the word for "and" and the word for "the" - these concepts may not be as straightforward as we might have thought. 
+You made it through another lesson!  Way to go!  Even though we only studied two concepts - the word for "and" and the word for "the" - these concepts in Hebrew are quite different from English.
 
 You may be noticing how each new lesson builds upon the previous ones. If something isn't entirely making sense, or if you find yourself asking, "why in the world do I need to know this?" just be patient, and it should start to come together in a lesson or two.  Now might also be an excellent time to look back and see how far you have come in just five lessons.
 
 As far as activities, we have the warm-up videos, Anki, the Ruth Pursuit, and the Quest Quiz. When you finish all of that, we have our second `Twelve Tribes Badge` you can claim.
 
-Take your time and let the simple, but not so simple, concepts in this chapter sink in.  You're about half-way through the "non-verbs" portion of the course.  Lessons 6-10 will be continuing to build out sentences with prepositions, adjectives, and pronouns.  Then we'll take a little bit of a break with numbers in Lesson 11 before moving on to Unit 3 and Hebrew verbs.
+Take your time and let these oncepts in this chapter sink in.  You're about half-way through the "non-verbs" portion of the course.  Lessons 6-10 will be continuing to build out sentences with prepositions, adjectives, and pronouns.  Then we'll take a little bit of a break with numbers in Lesson 11 before moving on to Unit 3 and Hebrew verbs.
 
 Keep with it; you're doing great!
 

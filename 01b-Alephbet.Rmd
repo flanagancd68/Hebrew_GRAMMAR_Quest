@@ -88,22 +88,18 @@ Almost every other grammar book would start with a lengthy description of each l
 * We'll talk about vowels in Lesson 2
 
 ::: {.box .stop}
-_Hebrew Quest_ Lessons 1-11
+Have you completed _Hebrew Quest_ Lessons 1-11?
 
-We encourage you to stop here and move over to _Hebrew Quest_ to complete the Alephbet lessons if you haven't already done so.
+If not, we encourage you to stop here and move over to _Hebrew Quest_ to complete the Alephbet lessons.
 
-Besides learning the letters, you will learn things each letter has to teach us from a spiritual perspective.
+Besides learning the letters, you will learn deeper meanings each letter teaches us from a spiritual perspective.
 :::
 
 ## Aleph-Bet Memory Song
 
-As needed, sing along with this video by Dr. John Walton of Wheaton College to help you memorize the Aleph-bet:
+As needed, sing along with this video by Dr. John Walton of Wheaton College to help you memorize the Aleph-bet^[Unfortunately, YouTube won't let us embed this video on this page]:
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/hIEB8bpJZhY" frameborder="0"></iframe>
-</div>
-
-[Open video in new tab](https://www.youtube.com/watch?v=hIEB8bpJZhY&feature=youtu.be){target="_blank"}
+[Open Aleph-Bet video in new tab](https://www.youtube.com/watch?v=hIEB8bpJZhY&feature=youtu.be){target="_blank"}
 
 
 
@@ -131,6 +127,7 @@ See **Hebrew Quest** discussion on Right to Left:
 
 ## Five "KiMNePaTZ" letters have different final forms {#sofit_letters}
 
+
 ```{r, out.width = "800pt", fig.align='center'}
 knitr::include_graphics("images/kimnepatz.gif")
 ```
@@ -150,10 +147,10 @@ knitr::include_graphics("images/kimnepatz.gif")
 Depending on your existing familiarity with the Aleph-bet, you may wish to review the `Lesson 01 A. Vocab` module in Anki before attempting the worksheet.  
 :::
 
-* For most of Hebrew GRAMMAR Quest, worksheets will be towards the end of the lesson with the other activities
-* Because memorizing the Alephbet is going to be essential, we would ask you to stop right here and complete the writing activity
-* Please make sure you can do the second part, which is writing the Aleph-Bet once straight through from memory
-    * We try to keep "brute-force memorization" to a minimum in Hebrew GRAMMAR Quest
+* Memorizing the Alephbet is essential
+* We would ask you to stop right here and complete the writing activity
+* Once you can complete part #2, which is writing the Aleph-Bet once straight through from memory, return here and continue the lesson
+    * In Hebrew GRAMMAR Quest, we try to keep "brute-force memorization" to a minimum
     * This way, if we are asking you to memorize something, you will know it's important!
 
 -----
@@ -173,13 +170,12 @@ knitr::include_graphics("images/bdgkpt.gif")
 * Next, we need to learn the "BeGaD KePhaT" letters^[See also Lesson 3 of _Hebrew Quest_]
 * The red and blue dots in the above letters are called **DAGHESH LENE**
 * The Daghesh Lene is inserted into the middle of the consonant
-    * The pronunciation of the letter is "hard" if the Daghesh Lene present or linguistically "soft" if not present
-        * so <span class="he">ב</span> has a "soft b" sound, in other words, a "v" sound
-        * <span class="he">בּ</span> has a "hard b" sound, in other words, a "b" sound
-        * <span class="he">כ</span> sounds like the "ch" in "bach", while <span class="he">כּ</span> is "k" as in "kite"
-        * <span class="he">פ</span> is the "ph" in "phone", while <span class="he">פּ</span> is the "p" in "pull"
-
-* At one time, all six of these letters had different pronunciations, but today, only three do.  These are the letters in blue above **<span class="he">בּ כּ פּ</span>**
+* The pronunciation of the letter is "hard" if the Daghesh Lene present or linguistically "soft" if not present
+* At one time, all six of these letters had different pronunciations, but today, only three do
+* These are the letters in blue above **<span class="he">בּ כּ פּ</span>**:
+    * <span class="he">ב</span> has a "soft b" sound, in other words, a "v" sound, while <span class="he">בּ</span> has a "hard b" sound, in other words, a "b" sound
+    * <span class="he">כ</span> sounds like the "ch" in "bach", while <span class="he">כּ</span> is "k" as in "kite"
+    * <span class="he">פ</span> is the "ph" in "phone", while <span class="he">פּ</span> is the "p" in "pull"
     * Since the letters without the Daghesh Lene want to be "lazy" - for example, a weak 'v' instead of a strong 'b'- our mnemonic for these is "BuCK uP! You Lazy Letters!"
 
 ::: {.box .caution}

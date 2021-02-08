@@ -33,7 +33,7 @@ Additionally, starting with this lesson, we will invoke the shorthand we've been
 
 ## First Thought {-}
 
-### רְאֵה לִמַּדְתִּי אֶתְכֶם חֻקִּים וּמִשְׁפָּטִים {-}
+### <span class="he">רְאֵה לִמַּדְתִּי אֶתְכֶם חֻקִּים וּמִשְׁפָּטִים</span> {-}
 
 *See, I have taught you statutes and judgments (Deuteronomy 4:5)*
 
@@ -52,31 +52,32 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg")
 ``` 
 
 
-## _Hebrew Quest_ Grammatical Gender Lecture
+## _Hebrew Quest_ Grammatical Gender and Plural Endings Lecture
 
-View this 11-minute overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson.
+View this 10:37 overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson^[As we mentioned in the Unit 2 introduction, you can disregard references to the "Hebrew Quest Student Manual" or "Essentials of Biblical Hebrew."  Pertinent concepts have been incorporated into this Hebrew GRAMMAR Quest Guidebook.]. We will be studying the "Construct Form" in Lesson 10.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-yY3O8ByYNwI?end=637
-&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="0"></iframe>
+yY3O8ByYNwI?start=0&end=637&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI){target="_blank"}
 
+* Start: 00:00
+* End: 10:37
 
 
 ## Gender and Number {#gender_number}
 
 * All Hebrew nouns have Gender and Number
-* Gender
-    * The "gender" sometimes does, but usually does not, have anything to do with biological gender.  
+* Grammatical Gender
+    * The "gender" sometimes does, but usually does not, have anything to do with biological gender
     * <span class="he">סֵ֫פֶר</span> is masculine (M), while <span class="he">תּוֹרָה</span>  is feminine (F). There is nothing inherently masculine about books, nor is there anything feminine about laws or instructions
     * The gender of a noun never changes
 * Number
@@ -88,7 +89,7 @@ yY3O8ByYNwI?end=637
     * A word's ending indicates the number
 * Person
     * In Unit 3 (Verbs), we will introduce the concept of "person"  
-        * Collectively, when you see "PGN" in grammar, this refers to "person, gender, and number"; e.g., "3MS" means "3rd person, masculine, singular".
+    * Collectively, when you see "PGN" in grammar, this refers to "person, gender, and number"; e.g., "3MS" means "3rd person, masculine, singular".
 
 
 ## Parsing vs. Inflecting
@@ -111,10 +112,11 @@ yY3O8ByYNwI?end=637
         * <span class="he">תִּפְאֶ֫רֶת</span>  (glory)
         * <span class="he">בְּרִית</span> (covenant)
         * <span class="he">מַלְכּוּת</span> (kingdom)
-        * <span class="he">אֶ֫רֶץ</span> (land - endingless, but feminine - less common)<small>^[<small>Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: <span class="he">אֶ֫רֶץ</span> (land), <span class="he">עִיר</span> (city), and <span class="he">אֶ֫בֶן</span> (stone). When this occurs, most vocabulary lists will mark the word as "(F)".</small>]</small>
+        * <span class="he">אֶ֫רֶץ</span> (land - endingless, but feminine - less common)^[Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: <span class="he">אֶ֫רֶץ</span> (land), <span class="he">עִיר</span> (city), and <span class="he">אֶ֫בֶן</span> (stone). When this occurs, most vocabulary lists will mark the word as "(F)".]
         
 ::: {.box .info}
-Some students fall into a habit of thinking every word-final ה is feminine.  Remember <span class="he">ה ֶ֫</span>  is masculine
+* Some students fall into a habit of thinking every word-final ה is feminine.  Remember <span class="he">ה ֶ֫</span>  is masculine
+* UNACCENTED Qamets+Hei is NOT the FS ending
 :::
 
 ## Plural Noun Endings {#noun_pluralization}
@@ -154,8 +156,7 @@ Occasionally, we will see the defective spelling of the plural and dual endings:
 ## Irregular Pluralization  {#irregular_pluralization}
 
 * Like any language, Hebrew has a handful of irregular nouns 
-* For example, you won't find <span class="he">נִשִׁים</span> in a dictionary
-* You need to know the singular form, <span class="he">אִשָּׁה</span>
+* For example, you won't find <span class="he">נִשִׁים</span> in a dictionary; you need to know the singular form, <span class="he">אִשָּׁה</span>
 
 ::: {.box .light} 
 Memorize these eight most common pairs:
@@ -175,14 +176,11 @@ Memorize these eight most common pairs:
 * The plural forms retain the gender of their singular noun
 * <span class="he">אָבוֹת</span> is still masculine,  and <span class="he">נָשִׁים</span> is still feminine, despite the plural endings.
 
-::: {.box .info}
 
-When you see an _internal_ (not word-final) tsere+yod, as in<span class="he"> בָּתִּים</span>, the vowel pattern in the 'original' word was likely the accented-patach-yod-hiriq diphthong, as in <span class="he">בַּ֫יִת</span>.
-:::
 
 The next two categories of irregular words are more straightforward:
 
-### Segholate Nouns follow a standard vowel pattern when pluralizing {-}
+## Segholate Nouns follow a standard vowel pattern when pluralizing {-}
 
 * Did you notice that the words <span class="he">דֶּ֫רֶךְ</span> and <span class="he">סֵ֫פֶר</span> have the accent is on the first syllable?
 * Many two-syllable words accented on the penult are classified as _Segholate_ nouns.  
@@ -199,7 +197,7 @@ A plural word that has Vocal Sheva/Hateph under the first consonant and Qamets u
 
 :::
 
-### Geminate Words take a Daghesh Forte {-}
+## Geminate Words take a Daghesh Forte {-}
 
 _Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal").  At one point in history, the second consonant appeared twice.  Example <span class="he">עַם</span> (people) was once *<span class="he">עמם</span>.  The lexical form drops the extra consonant.
 
@@ -209,7 +207,7 @@ When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghes
 
 The reason we don't have a Daghesh Forte in עַם is that **the last consonant of a word rejects the Daghesh Forte when it has no vowel.**
 
-## Rule of Sheva {#rules_sheva}
+## Rule of Sheva I {#rules_sheva}
 
 * Hebrew does not allow two reduced vowels in a row to remain (or "stand")
     * If you see two Sheva in a row in the text, the first one must be Silent
@@ -219,33 +217,51 @@ The reason we don't have a Daghesh Forte in עַם is that **the last consonant 
 * Learn to recognize when a word has vowels modified because of the Rule of Sheva
     * If we see the combination Hireq+Sheva, the word was _likely_ two consecutive Vocal Sheva before the Rule of Sheva was applied
     * If we see a short vowel under a guttural followed by Sheva (or vice-versa) the short vowel was originally the Hateph vowel in the same class as the short vowel
+    
+
+    
+
+## Rule of Sheva II
+
+* Two Vocal Sheva at the beginning of a word become Hireq + Silent Sheva 
+* A Vocal Sheva followed by Hateph vowel or a Hateph Vowel followed by Vocal Sheva: the first vowel becomes the corresponding short vowel of the Hateph vowel
 
 ::: {.box .light}
 RULE OF SHEVA
 
-| Type | After Rule of Sheva | Before*<small>^[<small>When you see an asterisk in the context of a word form, it means this form is impossible.  The form is being shown for illustrative purposes only.</small>]</small>
+| Type | After Rule of Sheva | Before*^[When you see an asterisk in the context of a word form, it means this form is impossible.]
 | :-: | :-: | :-:
-| Strong | <span class="he">קִטְ</span><small>^[<small>Hebrew Grammars have what are called "paradigm words" to represent any combination of consonants meeting the patter. קטל is a paradigm for any three strong (non-guttural) letters, עמד represents any guttural in the first position, and בחר represents any guttural in the second position.  The examples use these paradigm words.</small>]</small> | <span class="he">קְטְ</span>*
+| Strong | <span class="he">קִטְ</span>^[Hebrew Grammars have what are called "paradigm words" to represent any combination of consonants meeting the patter. קטל is a paradigm for any three strong (non-guttural) letters, עמד represents any guttural in the first position, and בחר represents any guttural in the second position. | <span class="he">קְטְ</span>*
 | Yod | <span class="he">קִי</span> | <span class="he">קְיְ</span>*
 | Patach/Sheva | <span class="he">עַמְ</span> | <span class="he">עֲמְ</span>*
 | Seghol/Sheva | <span class="he">עֶמְ</span> | <span class="he">עֱמְ</span>*
 | Sheva/Patach | <span class="he">בַּחֲ</span> | <span class="he">בְּחֲ</span>*
 | Sheva/Seghol | <span class="he">בֶּחֱ</span> | <span class="he">בְּחֱ</span>*
 
+
 :::
 
+NOTES
+
+* Note how the "After" form has the short vowel that corresponds to the reduced vowel of the "Before" form
 * Note the unique situation above when the second consonant is a Yod; this occurs frequently
 * When a prefix is added to <span class="he">אלֹהִים</span> and the Tetragrammaton, the vowel changes are irregular:
-    * With <span class="he">אלֹהִים</span> the aleph becomes quiescent after a prefix:
-        * <span class="he">אלֹהִים + לְ = לֵאלֹהִים</span>
+    * With <span class="he">אֱלֹהִים </span> the aleph becomes quiescent after a prefix:
+        * <span class="he">אֱלֹהִים + לְ = לֵאלֹהִים</span>
     * With the Tetragrammaton, the prefixed letter with take a Patach, with nothing under the Yod:
         *  <span class="he">בַיהוָה</span>
+        
+## Rule of Sheva III
 
-::: {.box .info}
-You may be wondering why you need to know this
+::: {.box .map}
+RULE OF SHEVA
 
-Understanding that a syllable may have "originally" had a reduced vowel is an important clue in translating and parsing.  If you're 'foggy' now, hang in there.  It will make sense in a bit!
+* Understanding that a syllable may have “originally” had a reduced vowel is an important clue in translating and parsing
+* Taking time to learn when an original form has been altered by the Rule of Sheva will be extremely important as we move into Unit 3
+* Remember a Silent Sheva is not a reduced vowel; it is not a vowel at all - it is not affected by the Rule of Sheva
+
 :::
+
 
 ## Lexical Form {#lexical_form}
 

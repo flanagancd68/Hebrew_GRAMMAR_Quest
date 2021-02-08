@@ -114,7 +114,7 @@ A potential pitfall, such as a concept that could be easily confused with anothe
 We also have footnotes^[Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.]
 
 
-## Quick Start Instructions {.unnumbered #get_started}
+## QUICK START INSTRUCTIONS {.unnumbered #get_started}
 
 These easy steps will get you up and running with the course.  Please do these from a desktop computer for best results.
 
@@ -168,7 +168,7 @@ The sections below will help you get started with Anki. There is also an `0. Int
         * `Graduating interval` = 15
         * `Easy interval` = 60
         * `Starting ease` = 250%
-        * `Bury related new cards...` = we recommend CHECKED, but this is not mandatory^[Checking this will _slightly_ increase the length of time required to move cards from `Young` to `Mature`, but is the stronger option for learning.]
+        * `Bury related new cards...` = we recommend CHECKED, but this is not mandatory^[Checking this means that cards with two or more questions won't be presented on the same day.  The risk of leaving it unchecked is that you may get Question #2 correct not because you know the answer, but because you just saw the answer when you reviewed Question #1.  Checking the box means you will not see Question #2 on the same day as Question #1.  Thus, checking the box will increase the length of time required to move cards from `Young` to `Mature`, but is the stronger option for learning.]
     2. `Reviews`
         * `Maximum reviews/day` = 9999
         * `Easy bonus` = 130%
@@ -213,7 +213,11 @@ We suggest using the following guidelines:
   * Your answer was correct, but you required a hint
 * `Good`
   * All parts of the answer are correct; no hints
-  * For Bible Verses, you can read and understand the passage in Hebrew. Your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse. You do NOT need to have the passage and its meaning memorized to mark `Good`
+  * For Bible Verses, mark `Good` when:
+    * you can read and understand the verse in Hebrew
+    * Your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse
+    * Your verb tense is correct (even though we won't study verbs until Unit 3)
+    * You do NOT need to have the passage and its meaning memorized to mark `Good`
   * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
 * `Easy`
   * We do not recommend selecting `Easy.` 
