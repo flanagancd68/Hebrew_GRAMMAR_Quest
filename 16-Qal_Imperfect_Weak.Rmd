@@ -56,7 +56,6 @@ Recall the two primary diagnostic indicators of the Qal Imperfect Strong:
 
 ## 2G 
 
-* Reject Daghesh Forte - not applicable in QI as no forms require Dagesh Forte
 * When $V_2$ reduces, it will be a Hateph Vowel instead of Vocal Sheva
 * Gutturals prefer Patach
     * When NOT reduced, $V_S = A$ instead of $\bar O$ 
@@ -74,7 +73,6 @@ Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect since the $P
 
 ## 3חע
 
-* Silent Sheva at $V_3$ remains
 * Prefer $V_S = A$
 
 ::: {.box .light}
@@ -90,8 +88,9 @@ Although $V_S = A$, 3חע verbs are easily recognized as Qal Imperfect since the
 ## 3א  
 
 * While 3חע prefer $V_S = A$, 3א prefer $V_S = \bar A$ primarily
-* Will see $V_S = E$, or sometimes $V_S = \bar E$ in 3/2fp 
-* 3א quiesces with Silent Sheva (and sometimes with vocal)
+* 3/2fp
+    * Will see $V_S = E$, or sometimes $V_S = \bar E$
+    * 3א quiesces with Silent Sheva (and sometimes with vocal)
 
 ::: {.box .light}
 Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect since the $Pre \ =$ <span class="he">יִקְ</span> diagnostic is retained  
@@ -100,7 +99,7 @@ Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect since 
 |  | 3א | Strong 
 | :-  | :- | :-  
 | 3ms | <span class="he">יִמְצָא</span> | <span class="he">יִקְטֹל</span>  
-| 3mp | <span class="he">יִמְצְאוּ</span> | <span class="he">יִקְטְלוּ<span class="he">
+| 3fp/2fp | <span class="he">תִּמְצֶ֫אנָה </span> | <span class="he">תִּקְטֹ֫לְנָה<span class="he">
 
 ## 3ה 
 
@@ -199,8 +198,10 @@ You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֶר is an "
 
 ## Geminate
 
+* $Pre \ =$ <span class="he">יָ</span>
 * Geminate Lose $R_2$ - Dagesh Forte in remaining twin letter (unless word-final or guttural letter)
     * In alternate forms, the Dagesh appears in $R_1$ and $V_P = I$ (see table below)
+* There is also a Geminate form (let's call it "Type 2") that takes $Pre \ =$ <span class="he">יֵ</span>
 * Imperfect Preformatives/Sufformatives remain
 * $V_S$ and Accent shift to $V_1$
 * There will be a connecting vowel before a sufformative that starts with a consonant
@@ -211,14 +212,15 @@ You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֶר is an "
 Recognizing the Imperfect preformatives/sufformatives and Geminate vocabulary knowledge will help you recognize QI for Geminate verbs
 :::
 
-|  | Gem | Gem (alt) | Strong 
-| :-  | :- | :-  | :-
-| 3ms | <span class="he">יַסֹב</span> | <span class="he">יִסֹּב</span> | <span class="he">יִקְטֹל</span>  
-| 3mp | <span class="he">יַסֹ֫בּוּ</span> | <span class="he">יִסֹּּבּוּ</span> | <span class="he">יִקְטְלוּ</span>
+|  | Gem | Gem (alt) | Gem T2 | Strong 
+| :-  | :- | :-  | :- | :-
+| 3ms | <span class="he">יָסֹב</span> | <span class="he">יִסֹּב</span> |  <span class="he">יֵתַם</span> | <span class="he">יִקְטֹל</span>  
+| 3mp | <span class="he">יָסֹ֫בּוּ</span> | <span class="he">יִסֹּּבּוּ</span>  |  <span class="he">יֵתַ֫מּוּ</span> | <span class="he">יִקְטְלוּ</span>
+
 
 ## Biconsonantal
 
-* $Pre \ =$ <span class="he">יַ</span>
+* $Pre \ =$ <span class="he">יָ</span>
 * $V_S$ and accent move to $R_1$
 * The Lexical Vowel REMAINS, though sometimes it is defective
     * <span class="he">יָקוּם</span>
@@ -236,11 +238,11 @@ The retention of the Lexical Vowel, $V_P = \bar A$ and the Imperfect preformativ
 ## 1-Yod 
 
 * ALWAYS drops 1-yod $R_1$
-    * $V_P = \bar E$ or $V_P = \hat I$ (Hireq+Yod)
+    * $V_P =\bar E$ or $V_P = \hat I$ (Hireq+Yod) - not the consonant Yod but the vowel letter
     * $V_S = \bar E$ or $V_S = A$
     * See examples
 
-| | To return ישׁב | ToiInherit ירשׁ | Strong
+| | To return ישׁב | To iInherit ירשׁ | Strong
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יִירַשׁ</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יִירְשׁוּ</span> | <span class="he">יִקְטְלוּ</span>

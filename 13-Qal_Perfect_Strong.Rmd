@@ -53,7 +53,7 @@ Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg")
 ``` 
@@ -71,6 +71,9 @@ hfu4gjNo2K4?start=2846&end=3062&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2846){target="_blank"}
+
+Start: 47:26
+End: 51:02
 
 ##  Qal is Simple action, Active voice
 

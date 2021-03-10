@@ -24,13 +24,13 @@ We wanted to let you know of some changes:
 
 We will begin to use the vowel transliteration introduced in Lesson 2
 
-::: {.map .info}
+::: {.box .info}
 
 * Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, $I$, Hireq, $O$ for Qamets Hatuf, and $U$, Qibbuts
 * Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
 * Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
-* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod<small>^[<small>Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.</small>]</small>, $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
-* Additionally, we have the ending Qamets+He = $\hat A$, Vocal Sheva = $ə$, and $:$ for Silent Sheva<small>^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.</small>]</small>)
+* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.], $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
+* Additionally, we have the ending Qamets+He = $\hat A$, Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.])
 
 :::
 
@@ -107,7 +107,7 @@ Trying to read with these marks can be visually distracting and overwhelming at 
     3. Read again, but this time, compose a translation
         1. First, see how much you can do without a reference
         2. Then, look up any words you don't know in a lexicon
-    4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights<small>^[<small>Note: Izzy intentionally speaks very slowly, so as you advance in Hebrew, you may wish to increase the speed of the YouTube video</small>]</small>.
+    4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights^[Note: Izzy intentionally speaks very slowly, so as you advance in Hebrew, you may wish to increase the speed of the YouTube video].
         * As you are watching, compare your translation with Izzy's explanation
         * How did you do?  Can you see how much you are learning?
         * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on parts of speech and PGN information when you hover over a word
@@ -140,6 +140,9 @@ Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy'
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=3343){target="_blank"}
+
+Start: 55:43  
+End:  58:32
 
 ::: {.box .map}
 * Hang in there and keep going!  

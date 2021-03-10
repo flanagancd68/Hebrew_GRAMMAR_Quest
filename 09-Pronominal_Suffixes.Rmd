@@ -205,7 +205,7 @@ Here is Dr. Beckman's example of the five steps.  Note that words do not always 
 
 ```{r, out.width = "400pt", fig.align='center'}
 library(knitr)
-knitr::include_graphics("images/09.lex_type1_tbl.png")
+knitr::include_graphics("images/09.lex_type2_tbl.png")
 ```
 
 ## Unexpected changes
@@ -222,19 +222,13 @@ Two of the prepositions we studied in Lesson 6 undergo some irregular changes yo
     
 The rule still applies:
 
-> Type 2 suffixes **always** begin with vowel + yod, but **not** hiriq + yod
+::: {.box .light}  
+Type 2 suffixes **always** begin with vowel + yod, but **not** hiriq + yod
 
-This _Hebrew Quest_ segment discusses pronominal suffixes with prepositions:
+:::
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-yY3O8ByYNwI?start=921&end=1160
-&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
-</div>
 
-[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1160){target="_blank"}
-
-## Look-alike words: <span class="he">אֵת</span> as "with" or as Definite Direct Object (DDO) marker
+## Look-alike words: אֵת as "with" or as Definite Direct Object (DDO) marker
 
 * As we learned previously, <span class="he">אֵת</span> can mean either the DDO or the preposition "with".  They are spelled the same way, and either form can take a pronominal suffix.
 * <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DD when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
@@ -244,7 +238,7 @@ yY3O8ByYNwI?start=921&end=1160
     * With me (1CS): <span class="he">אִתִּי</span>
     * With them (3FP): <span class="he">אִתָּן</span>
 
-## Look-alike words:   <span class="he">עִם</span>, "with", or <span class="he">עַם</span>, "people" 
+## Look-alike words: עִם, "with", or עַם "people" 
 
 These two words frequently take pronouns.  It could be easy to get them confused.  The trick is to pay close attention to the vowel under the ע.
 
@@ -254,7 +248,7 @@ These two words frequently take pronouns.  It could be easy to get them confused
     * With them (3MP):  <span class="he">עִמָּם</span>
     * Their people (3MP):  <span class="he">עַמָּם</span>
 
-## Look-alike words: <span class="he">אֵל</span>, "God", or <span class="he">אֶל</span>, "to"
+## Look-alike words: אֵל "God", or אֶל, "to"
 
 This one is _slightly_ easier.  
 
@@ -304,7 +298,7 @@ We have created a special `Word Warm-up` for the pronominal suffixes.
 
 * `Lesson 09 A. Vocab`
 * `Lesson 09 B. Grammar` 
-* `Lesson 09 C. Workbook`
+* `Lesson 09 C. Workbook` - Pay close attention to gender and number
 * `Lesson 09 D. Verses`
 
 ## Worksheets: Pronominal Suffixes {-}
@@ -346,11 +340,10 @@ YOUR QUEST
 * [Ruth Pursuit Answer Key #09](./images/09_Ruth_Pursuit_KEY.pdf){target="_blank"}<small>^[<small>Note: Many English Bibles contain a footnote at Ruth 1:20 that Naomi means "pleasant"; however, the precise etymology of Naomi's name is unclear.  While her name appears to have a Type 1 1CS suffix, since it is a proper name, we are not including it in our answer key.</small>]</small>
 
 
-## `Quest Quiz` {-}
+## Quest Quiz {-}
 
-[Open Quest Quiz #9 in a new window](){target="_blank"}
-
-<div class="container">
-<iframe class="responsive-iframe" src="" frameborder="0"></iframe>
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://forms.gle/7Jgs8W2vi6XKTukG6" frameborder="0"></iframe>
 </div>
 
+[Open Quest Quiz #9 in a new window](https://forms.gle/7Jgs8W2vi6XKTukG6){target="_blank"}

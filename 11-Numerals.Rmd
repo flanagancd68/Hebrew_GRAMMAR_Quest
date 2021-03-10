@@ -31,10 +31,12 @@ Before continuing, can you describe the following concepts?
 
 ## First Thought {-}
 
+### קְחוּ לָכֶם מִן־הָעָם שְׁנֵים עָשָׂר אֲנָשִׁים {-}
+
+_Take for yourselves twelve men from the people (Joshua 4:2)_
+
 Give Him praise that you are among those counted as His talmidim (disciples)!
 
-> (Joshua 4:2 NASB) Take for yourselves twelve men from the people  
-> קְחוּ לָכֶם מִן־הָעָם שְׁנֵים עָשָׂר אֲנָשִׁים
 
 <figure>
     <figcaption>Listen to the verse in Hebrew:</figcaption>
@@ -48,7 +50,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 ---
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/11-Tabgha from boat, tb011500051.jpg")
 ``` 
@@ -56,33 +58,38 @@ knitr::include_graphics("images/11-Tabgha from boat, tb011500051.jpg")
 
 ## _Hebrew Quest_ Numerals Lecture
 
-View this 17-minute overview video from _Hebrew Quest_ on Hebrew Numerals.  Don't fret if you don't understand this material completely.  We will break down these concepts as we progress through this lesson.  
+View this 17-minute overview video from _Hebrew Quest_ on Hebrew Numerals.  Don't fret if you don't understand this material completely.  You can disregard references to _Essentials of Biblical Hebrew_ or the _Hebrew Quest Student Manual_.  We will break down these concepts as we progress through this lesson.  
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-MlfwNNuWgto?start=1675&end=2710
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/MlfwNNuWgto?start=1675&end=2710
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
 [Click to open video in a new tab](https://youtu.be/MlfwNNuWgto?t=1675){target="_blank"}
 
-
+Start: 27:55  
+End:  45:10
 
 ## The Biblical text always spells out numbers
 
-There is not a lot of elaboration needed except to note that this is the case.  You will not see "1", "200", or "969", either in modern symbols or in Rabbinic characters (using the Aleph-bet) in the Hebrew text.  
-
-<span class="he">כָּל־יְמֵי מְתוּשֶׁלַח **תֵּשַׁע וְשִׁשִּׁים שָׁנָה וּתְשַׁע**</span>
-
-"all the days of Methuselah (were) **nine and sixty years (i.e., 960) and nine (i.e., 969)**."
+*You will not see "1", "200", or "969", either in modern symbols or in Rabbinic characters (using the Aleph-bet) in the Hebrew text
+* Example: 
+  * <span class="he">כָּל־יְמֵי מְתוּשֶׁלַח **תֵּשַׁע וְשִׁשִּׁים שָׁנָה וּתְשַׁע**</span>
+  * "all the days of Methuselah (were) **nine and sixty years (i.e., 960) and nine (i.e., 969)**."
 
 ## Notes and footnotes use symbols for numbers
 
+::: {.box .info}
+This section is presented for information only  
+
+:::
+
 * You may come across a system of counting that uses numerical values for each of the Hebrew letters
-* א ב ג ד ה ו ז ח ת represent 1-9
-* י כ ל מ נ ס ע פ צ represent 10-90 by tens
-    * So to say 33, would be 30 and 3 = לג or often ל״ג, with the ״ indicating that this is not a real word
-* ק ר ש ת are 100, 200, 300, and 400, then we go to the sofit forms ך ם ן ף ץ for 500-900
+  * א ב ג ד ה ו ז ח ת represent 1-9
+  * י כ ל מ נ ס ע פ צ represent 10-90 by tens
+  * So to say 33, would be 30 and 3 = לג or often ל״ג, with the ״ indicating that this is not a real word
+* ק ר ש ת are 100, 200, 300, and 400, 
+* Finally, we use the sofit forms ך ם ן ף ץ for 500-900
 * In some reckonings, a series of dots or diamonds above the letters, or ’ is used for numbers above 999.  For example, 1000 is ’א
 * Below is how a Hebrew reference might say "Genesis 1:1"
   * בראשית פרק א
@@ -105,16 +112,14 @@ knitr::include_graphics("images/11.gen0101.png")
 * To denote the 11th position or higher, we would use cardinal numbers
     * We are dependent on the context of the passage to indicate whether the number is cardinal or ordinal
     * <span class="he">בִּשְׁנַת הָאַרְבָּעִים</span>  = in the year of the forty = in the 40th year
-
-We encourage you to review the "days of the week" song with Izzy in the video below.
-
-### _Hebrew Quest_ Ordinal Numbers Video {-}
-
-[Open video in new window](https://www.youtube.com/embed/MlfwNNuWgto?t=2545){target="_blank"}
+* We encourage you to once again review the "days of the week" song with Izzy in the video below
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/MlfwNNuWgto?t=2545" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/MlfwNNuWgto?startt=2596&end=2661" frameborder="0"></iframe>
 </div>
+
+[Open video in new window](https://www.youtube.com/embed/MlfwNNuWgto?t=2596){target="_blank"}
+
 
 ## Cardinal Numbers 1-10
 
@@ -157,8 +162,8 @@ The technical term for this is "chiastic concord" (you don't need to know this)
 * 20 is a bit unusual
     * The word for two is <span class="he">שְׁנַיִם</span> (male) and <span class="he">שְׁתַּיִם</span> (female)
     * Since these words already have a non-singular ending, Hebrew uses the masculine plural of ten
-    * <span class="he">עֶשֶׂר<span> is 10
-    * <span class="he">עֶשְׂרִים<span> is 20
+    * <span class="he">עֶשֶׂר</span> is 10
+    * <span class="he">עֶשְׂרִים</span> is 20
 * 100 is <span class="he">מֵאָה</span>
 * 200 is <span class="he">מָאתַיִם</span>, the plural of 100
 * 300 is <span class="he">שְׁלֹשׁ מֵאוֹת</span> ("three one hundred" and so forth up to 1000)
@@ -193,7 +198,7 @@ You are at an exciting point in the course.  Next week we get into Hebrew Verbs,
 [Click to open `Word Warm-up` video in a new tab](https://youtu.be/Pb8TIHYRFhI){target="_blank"}
 
 
-## Verses Warm-up` {-}
+## Verses Warm-up {-}
 
 
 <div class="container">
@@ -232,7 +237,4 @@ If you have completed **all activities** in Lessons 1-11, you may claim the seco
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
 
-<div class="containerLet">
-<iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
-</div>
-
+[Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_block"}

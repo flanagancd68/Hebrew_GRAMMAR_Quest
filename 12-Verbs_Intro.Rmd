@@ -57,7 +57,7 @@ knitr::include_graphics("images/13-Acacia tree in Red Canyon, tb030101203.jpg")
 
 ## _Hebrew Quest_ Verb Introduction Lecture
 
-View this 5-minute overview video from _Hebrew Quest_ on Hebrew Verbs. You may disregard references to the "Student Manual" and "Essentials of Biblical Hebrew." We will break down the concepts Izzy discusses as we progress through this lesson.  
+View this 8-minute overview video from _Hebrew Quest_ on Hebrew Verbs. You may disregard references to the "Student Manual" and "Essentials of Biblical Hebrew." We will break down the concepts Izzy discusses as we progress through this lesson.  Also make sure you have watched the _Hebrew Quest_ video segment in the Unit 3 Introduction.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
@@ -66,6 +66,9 @@ hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2344){target="_blank"}
 
+Start: 39:04
+End: 47:26
+
 ::: {.box .map}
 
 "I advise beginners not to perplex themselves about any rule that at first view seems difficult, which will be of great advantage to carry on their design in the knowledge of this Primitive Tongue with success."  
@@ -73,16 +76,17 @@ hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 -Judah Monis, on the back of the title page of his Hebrew Grammar, published in 1735. 
 
 :::
-## A note on the paradigm strong verb <span class="he">קטל</span>
+## A note on the paradigm strong verb קטל
 
-* As Izzy mentions in the video we just viewed, Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
-* <span class="he">קטל</span> is meant to represent _ANY_ strong verb (we'll discuss strong and weak verbs later in this Lesson)
+* As Izzy mentions in the video we just watched, Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
+* <span class="he">קטל</span> is meant to represent _ANY_ "strong" verb (we'll discuss strong and weak verbs later in this Lesson)
 * What makes <span class="he">קטל</span> awkward is the word means "to kill"
 * As we go through this course, remember that the actual translation of <span class="he">קטל</span> is not material to our purposes
 * In this respect, it is similar to a math formula
     * In $a^2 + b^2 = c^2$, the letters "a", "b", and "c" have no direct, literal meaning
     * In the Pythagorean formula above, "a", "b", and "c" are meant to represent the lengths of the three sides of a right triangle
-* We encourage you to think of <span class="he">קטל</span> the same way - they are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
+* We encourage you to think of <span class="he">קטל</span> the same way
+    * The letters <span class="he">.ק.ט.ל</span> are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
     * Also, like Izzy says, we can always think of <span class="he">קטל</span> as "killing" sin, bad habits, or things that can interfere in our relationship with the Holy One
     
 ## The Verbal Root
@@ -91,7 +95,7 @@ hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 * The majority of verbs have three _root consonants_ from which the other words are derived.
 * Consider the root <span class="he">מלך</span>; the graphic below lists just a few of the nouns and verbs that derive from this single root
 
-```{r, out.width = "500pt", fig.align='center'}
+```{r, out.width = "700pt", fig.align='center'}
 
 knitr::include_graphics("images/12-verb-root.gif")
 ``` 
@@ -125,7 +129,7 @@ When parsing, it is standard to use parsing code "3ms" to mean "third person, ma
 
 ## Verb nomenclature
 
-*  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$<small>^[<small>Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל. </small>]</small>.
+*  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$^[Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל. ].
 * For the verb <span class="he">מָלַכְתִּי</span> (I was king):
     * The _root_ is <span class="he">מלך</span> (no vowels)
         * $R_1$ = מ
@@ -170,7 +174,7 @@ On your quest to translate verbs, identifying preformatives and sufformatives on
 ## Verbal Vowels
 
 * Identifying a verbal vowel's position is necessary to determine the Verbal Root and the Stem
-* Similar to our shorthand for the root consonants, we use $V_P$ - the vowel with the preformative, $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the __stem__ vowel
+* Similar to our shorthand for the root consonants, we use $V_P$ (the vowel with the prefix or preformative immediately before $R_1$), $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the _stem_ vowel
     * The $V_S$ is usually $V_2$ 
     * The vowel associated with $R_3$ turns out to be less important, so we do not need to identify this
 * For the verb <span class="he">יִקְטְל֫וּהָ</span>
@@ -190,6 +194,9 @@ View this 8-minute overview video from _Hebrew Quest_ where Izzy summarizes the 
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=827){target="_blank"}
 
+Start: 13:47  
+End: 21:08
+
 ## The Seven Hebrew Verb Stems
 
 
@@ -203,7 +210,7 @@ View this 8-minute overview video from _Hebrew Quest_ where Izzy summarizes the 
     * Interestingly in English, many translations of Niphal verbs are still active voice
     * For example, a fair translation of "he was seen" might be "he appeared"
     * Parsing code: N
-3. _Piel_ - Active/intensive - “he smashed the vase”
+3. _Piel_ - Active/intensive - “he shattered the vase”
     * Parsing code: D (the Piel paradigm has a Daghesh Forte in $R_2$ - the D stands for "doubling Daghesh")
 4. _Pual_ - Passive/intensive - “the vase was shattered”
     * Parsing code: Dp (passive of the Piel (D))
@@ -252,7 +259,7 @@ Cause an Action	|Hiphil | Hophal
     * Parsing code: I
 3. The _Imperative_ 2nd person Volitional - a command: "Go!"
     * Parsing code: M
-4. The _Cohortative_ 1st Person Volitional - wish, purpose: "I should go"<small>^[<small>Some grammars classify "Corhortative" and "Jussive" as "Verb Moods" and the remaining as "Verb Tenses."</small>]</small>.
+4. The _Cohortative_ 1st Person Volitional - wish, purpose: "I should go"^[Some grammars classify "Corhortative" and "Jussive" as "Verb Moods" and the remaining as "Verb Tenses."].
     * Parsing code: C
 5. The _Jussive_ 3rd Person Volitional - conjugation is similar to the Imperative - "He should go."
     * Parsing code: J

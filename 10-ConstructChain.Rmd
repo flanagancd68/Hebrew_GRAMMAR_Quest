@@ -50,7 +50,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/10-Capernaum synagogue interior, tb102702014.jpg")
 ``` 
@@ -130,7 +130,7 @@ Even though a noun in construct may not have the definite article, it is deemed 
     * <span class="he">בֶּן מֶלֶךְ</span> = a son of a king
     * You will never see "a son of the king" or "the son of a king" in a construct chain
     * It's only one or the other
-* There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains<small>^[<small><span class="he">מִ֭שְׁלֵי שְׁלֹמֹ֣ה</span> is a construct chain that means "THE proverbs of Solomon."<span class="he">מִזְמ֗וֹר לְדָ֫וִ֥ד</span> means "a psalm of (to) David", but this is not a construct chain.</small>]</small>.
+* There are examples in the Bible of mixing definiteness and indefiniteness but these are not done using construct chains^[<span class="he">מִ֭שְׁלֵי שְׁלֹמֹ֣ה</span> is a construct chain that means "THE proverbs of Solomon."<span class="he">מִזְמ֗וֹר לְדָ֫וִ֥ד</span> means "a psalm of (to) David", but this is not a construct chain.].
 
 
 ## How to Recognize a Construct Chain
@@ -142,7 +142,7 @@ The following are characteristics of nouns in the construct state:
 * Never an unaccented long vowel unless it is a vowel letter 
     * We will see Tsere-yod and Holem-Vav
     * We will not see Holem, Qamets, or Tsere
-    * We will see _accented_ long vowels in the penult<small>^[<small>That is the next to last syllable position.</small>]</small> - <span class="he">סֵ֫פֶר</span>
+    * We will see _accented_ long vowels in the penult^[That is the next to last syllable position.] - <span class="he">סֵ֫פֶר</span>
 * No diphthong (will see Tsere+Yod or Holem-Vav)
 * May have a reduced vowel in the penult
 * Noun endings may change (next page)
@@ -219,7 +219,7 @@ There are four extremely common constructs in the Bible, so we must be able to r
 
 ## Worksheets: Construct Identification {-}
 
-This attachment has a list of words, some are in absolute, and some are in construct. See if you can determine the differences<small>^[<small>Odd 1-35, 39, 41, 42, 44, 45, 47 are Absolute; 37 and 38 are ambiguous; even 2-36, 40, 43, 46, and 48 are Construct. Most often it is "Long vowel, not a vowel letter" that identifies absolute.</small>]</small>.
+This attachment has a list of words, some are in absolute, and some are in construct. See if you can determine the differences^[Odd 1-35, 39, 41, 42, 44, 45, 47 are Absolute; 37 and 38 are ambiguous; even 2-36, 40, 43, 46, and 48 are Construct. Most often it is "Long vowel, not a vowel letter" that identifies absolute.].
 
 [Construct Practice](./images/10_construct_practice.pdf){target="_blank"}
 
@@ -254,12 +254,12 @@ As always, words may have prefixes or suffixes.  Try to identify whether the con
 
 ## Quest Quiz #10 {-}
 
-[Open Quest Quiz #10 in a new window](https://forms.gle/ST6XfCvKRXHRfxfVA){target="_blank"}
-
 <div class="container">
 <iframe class="responsive-iframe" src="https://forms.gle/ST6XfCvKRXHRfxfVA" frameborder="0"></iframe>
 </div>
 
+
+[Open Quest Quiz #10 in a new window](https://forms.gle/ST6XfCvKRXHRfxfVA){target="_blank"}
 
 ## Claim your next `Twelve Tribes Badge`! {-}
 
