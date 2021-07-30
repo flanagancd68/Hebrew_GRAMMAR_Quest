@@ -1,6 +1,6 @@
 # Hebrew Adjectives {#adjectives}
 
-> To comprehend Biblical Hebrew, we must be able to identify and translate an adjective based on its usage, gender, and number
+> To comprehend Biblical Hebrew, we must be able to identify and translate an adjective based on its usage, as well as its gender and number
 
 
 ::: {.infobox .map}
@@ -54,7 +54,7 @@ knitr::include_graphics("images/07-Tabgha sacred stone where Jesus stood, tb1026
 
 ## _Hebrew Quest_ Adjectives Lecture
 
-View this 5-minute overview video from _Hebrew Quest_ Lesson 13.  You can disregard the references to the other resources mentioned in the video.  We will dig into the concepts in greater detail as we progress through the lesson. If you looked at the Lesson Itinerary, you may not have been previously familiar with the terms "attributive" and "predicative" in terms of adjectives. In the video, when Izzy says, "the good trees", this is called the ATTRIBUTIVE use. When he says, "the trees are good", this is the PREDICATIVE use.
+View this 5-minute overview video from _Hebrew Quest_ Lesson 13.  If you looked at the Lesson Itinerary, you may not have been previously familiar with the terms "attributive" and "predicative" in terms of adjectives. In the video, when Izzy says, "the good trees", this is called the ATTRIBUTIVE use. When he says, "the trees are good", this is the PREDICATIVE use.
 
 
 <div class="container">
@@ -81,6 +81,14 @@ library(knitr)
 include_graphics("images/07_adjective_gif.gif")
 ```
 
+::: {.box .light}
+WHY WOULD WE NEED TO INFLECT?
+
+* Technically we don't; we will never be asked in reading the Hebrew Bible to take a MS adjective and inflect it into the FP
+* We DO need to be able to identify the gender and number of an adjective based on its ending
+* We MAY also need to identify the lexical form of an unfamiliar adjective when it has an ending and the vowels have changed
+* For these reasons, learning adjectival inflection is beneficial
+:::
 
 1. An adjective is either masculine or feminine
 2. An adjective is either singular or plural (dual nouns take plural adjectives)
@@ -93,8 +101,9 @@ include_graphics("images/07_adjective_gif.gif")
     * The MS form is usually endingless
     * The MS can be Seghol+Hei as in <span class="he">יָפֶה</span>, which is MS for pleasing, beautiful.
 
-::: {.box .info}
+::: {.box .caution}
 Note that unlike <span class="he">טוֹב</span>, most adjectives undergo vowel changes when the inflectional endings are added. 
+
 The good news is you already know what to do. Adjectives follow the same rules as nouns.
 
 :::
@@ -105,12 +114,13 @@ The good news is you already know what to do. Adjectives follow the same rules a
     * We could say the "Substantive Substitutes" for a noun
     * Perhaps an obvious example of this from pop culture is the film "The Good, The Bad, and The Ugly"  
         * The three words, "good", "bad", and "ugly" are adjectives being used as nouns
-        * In a sense, the noun is implied
-        * It could be the "good ones", the "bad man", or the "ugly idol"
-            * Remember that Hebrew gender does not always refer to an animate object
-            * <span class="he">הַטּוֹבָה</span> - "the good" 
-                * The word above is "the good (feminine singular something)"
-                * Depending on the context, it could be "the good woman", or a feminine object like "the good Torah"
+        * They are substantival adjectives
+* In the substantival use, the noun is implied but not stated
+    * It could be the "good one", the "bad man", or the "ugly idol"
+* Remember that Hebrew gender does not always refer to an animate object
+    * <span class="he">הַטּוֹבָה</span> - "the good" 
+    * The word above is "the good (feminine singular something)"
+    * Depending on the context, it could be "the good woman", or a feminine object like "the good Torah"
 
 ::: {.box .light}
 SUBSTANTIVAL USE IS RELATIVELY EASY TO IDENTIFY 
@@ -147,10 +157,10 @@ ATTRIBUTIVE MNEMONIC
     * The Predicative adjective can come before or after the noun
     * The only ambiguity is when both the adjective and noun are indefinite and the adjective comes after the noun
 * Examples:
-    * טוֹבָה הָאִשָּׁה - "the woman is good"
-    * הָאִשָּׁה טוֹבָה - "the woman is good"
-    * טוֹבָה אִשָּׁה - "a woman is good"
-    * אִשָּׁה טוֹבָה - this can either be Attributive "a good woman" or "a woman is good"
+    * <span class="he">טוֹבָה הָאִשָּׁה</span> - "the woman is good"
+    * <span class="he">הָאִשָּׁה טוֹבָה</span> - "the woman is good"
+    * <span class="he">טוֹבָה אִשָּׁה </span>- "a woman is good"
+    * <span class="he">אִשָּׁה טוֹבָה</span> - this can either be Attributive "a good woman" or "a woman is good"
 
 ::: {.box .light}
 PREDICATIVE MNEMONIC
@@ -159,32 +169,22 @@ PREDICATIVE MNEMONIC
 
 :::
 
-## Attributive, Predicative, and Substantival Comparison
+## Adjective Use Comparison
 
-* <span class="he">הָאִשָּׁה הָטּוֹבָה</span> 
-    * **ATTRIBUTIVE - "Attributive Always After, Article Agrees"**
-        * While a Predicative adjective can occur after the noun, this example can't be Predicative because the adjective has the article - "Predicate dePrived of Article..."
-* <span class="he">טוֹבָה הָאִשָּׁה</span> 
-    * **PREDICATIVE - "Predicative dePrived of article, Perhaps Prior"**
-    * This example can't be attributive because the adjective comes before the noun and the article does not agree - "Attributive Always After, Article Agrees"
-* <span class="he">הָאִשָּׁה טוֹבָה</span> 
-    * **PREDICATIVE - "Predicative dePrived of article..."**
-    * This example can't be Attributive because the article does not agree  "Attributive Always After, Article Agrees"
-* <span class="he">טוֹבָה אִשָּׁה</span> - 
-    * PREDICATIVE - "Predicative dePrived of Article, Perhaps Prior"
-    * While the adjective and noun agree in definiteness (both are indefinite), this example can't be Attributive because the adjective comes before the noun: "Attributive Always After..."
-* <span class="he">אִשָּׁה טוֹבָה</span> - 
-    * ATTRIBUTIVE or PREDICATIVE
-    * The only time there can be any ambiguity between Attributive and Predicative is when the adjective comes after the noun and both are indefinite
-    * In these situations, we need to let the context determine the use
-* <span class="he">הַטּוֹבָה</span> - 
-    * SUBSTANTIVAL
-    * This example can't be Attributive or Predicative because there is no noun that the adjective is modifying
+As a brief review, determine whether the adjective is acting as Attributive, Predicative, or Substantival.  The answers and explanations are in the footnotes.
+
+* <span class="he">הָאִשָּׁה הָטּוֹבָה</span> -^[**ATTRIBUTIVE - "Attributive Always After, Article Agrees"**  While a Predicative adjective can occur after the noun, this example can't be Predicative because the adjective has the article - "Predicate dePrived of Article..."]
+* <span class="he">טוֹבָה הָאִשָּׁה</span> -^[**PREDICATIVE - "Predicative dePrived of article, Perhaps Prior"**  This example can't be attributive because the adjective comes before the noun and the article does not agree - "Attributive Always After, Article Agrees"]
+* <span class="he">הָאִשָּׁה טוֹבָה</span> -^[**PREDICATIVE - "Predicative dePrived of article..."** This example can't be Attributive because the article does not agree  "Attributive Always After, Article Agrees"]
+* <span class="he">טוֹבָה אִשָּׁה</span> -^[**PREDICATIVE - "Predicative dePrived of Article, Perhaps Prior"**While the adjective and noun agree in definiteness (both are indefinite), this example can't be Attributive because the adjective comes before the noun: "Attributive Always After..."]
+* <span class="he">אִשָּׁה טוֹבָה</span> -^[**ATTRIBUTIVE or PREDICATIVE** The only time there can be any ambiguity between Attributive and Predicative is when the adjective comes after the noun and both are indefinite.  In these situations, we need to let the context determine the use]
+* <span class="he">הַטּוֹבָה</span> -^[**SUBSTANTIVAL** This example can't be Attributive or Predicative because there is no noun that the adjective is modifying]
 
 ## The Mappiq 
 
-* The Mappiq is a mark that looks exactly like a Daghesh, but it ONLY is found in the letter <span class="he">ה</span> and ONLY when it is the last letter of a word
-    * Gutturals never take a Daghesh
+* The Mappiq is a mark that you will see when reading the text
+* The Mappiq looks exactly like a Daghesh (Lene or Forte), but it ONLY is found in the letter <span class="he">ה</span> and ONLY when it is the last letter of a word
+    * Gutturals never take either Daghesh
     * Dagesh are never in the final letter of a word
 * A word-final <span class="he">ה</span> is always part of a vowel unless it has a Mappiq (<span class="he">הּ</span>).
 * The Mappiq is a sign that the breathy sound of the consonantal hei should be accentuated slightly

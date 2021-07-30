@@ -65,7 +65,7 @@ knitr::include_graphics("images/08-Sea of Galilee and Plain of Gennesaret panora
 
 ## _Hebrew Quest_ Independent Pronouns Lecture
 
-View this 5-minute overview video from _Hebrew Quest_.  You can disregard the references to the _Hebrew Quest Student Manual_ or _Essentials of Biblical Hebrew_.  We will dig into the concepts in greater detail as we progress through the lesson. The first table Izzy reviews is reproduced in the next section. Pronominimal suffixes will be discussed in the next lesson.
+View this 5-minute overview video from _Hebrew Quest_.  The first table Izzy reviews is reproduced in the next section. Pronominimal suffixes will be discussed in the next lesson.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/yY3O8ByYNwI?start=638&end=912&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
@@ -126,8 +126,8 @@ PRONOUN TIPS
 
 ## Interrogative Pronouns
 
-* <span class="he">מִי</span> = who ("Who, me?")
-* <span class="he">מָה</span> = what (think of your mom questioning you, "What, ma?")
+* <span class="he">מִי</span> = who
+* <span class="he">מָה</span> = wha
     * Can also be written as Maqqef - note the vowel shortens <span class="he">מַה־</span>
 *   <span class="he">לָמָה</span> = why
     * <span class="he">אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי</span>
@@ -164,11 +164,11 @@ End: 30:35
 
 ## Interrogative Particle vs. Definite Article 
 
-* Despite the similarity, we will not usuaally have trouble differentiating the Article from the Interrogative Particle
+* Despite the similarity, we will not usually have trouble differentiating the Article from the Interrogative Particle
 * Below are potential sources of ambiguity:
     * 1st word of a clause before <span class="he">חָ֫,חָ, הָ, עָ</span>   = both are <span class="he">הֶ</span>
     * 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = both are <span class="he">הַ</span>
-    * In these situations, you guessed it, we will need to let context determine whether a question is being asked
+    * In these situations we will need to let context determine whether a question is being asked
 * With lots of reading practice, this will get easier
 * Additionally, the Definite Article is about **300X more common**
 
@@ -211,7 +211,7 @@ POTENTIAL AMBIGUITY
 ## Demonstrative Pronoun
 
 * Demonstratives act as adjectives or as pronouns
-* As we saw in the example <span class="he">הוּא הָאִישׁ</span>, a demonstrative pronoun takes the place of a noun as the subject of a clause<small>^[<small> When <span class="he">הוּא הָאִישׁ</span> means "he is the man", the personal pronoun "he" is the subject</small>]</small>
+* As we saw in the example <span class="he">הוּא הָאִישׁ</span>, a demonstrative pronoun takes the place of a noun as the subject of a clause<small>^[<small>When <span class="he">הוּא הָאִישׁ</span> means "he is the man", the personal pronoun "he" is the subject</small>]</small>
 * The behavior of the demonstrative pronoun is a lot like the Predicative Adjective use: 
     * Always comes before the noun (Pronoun Perpetually Precedes)
     * Does NOT have the article (Pronoun dePrived of article)
@@ -257,7 +257,7 @@ Demonstrative Adjective Always After the noun, Always has Article, Always Agrees
 
 ::: {.box .map}
 
-If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some hills where you may need to push a little bit to make it to the top.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs in Unit 3.  Keep at it!  You're doing awesome!
+If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 may represent some steeper hills where you may need to push a little bit to make it to the top.  Then we'll get a bit of a breather with Lessons 11 and 12 before ramping up again with Qal Verbs in Unit 3.  Keep pushing forward!  You're doing awesome!
 
 ```{r, out.width = "600pt", fig.align='center', fig.cap="Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission."}
 

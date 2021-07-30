@@ -1,5 +1,7 @@
 bookdown::gitbook:
 #bookdown::tufte_html_book:
+  includes: 
+    in_body:  scripts.js
   keep_md: yes
   css: style.css
   pandoc_args: [ "--csl", "turabian-author-date.csl" ]

@@ -1,0 +1,573 @@
+{
+    "sources": [
+        {
+            "URL": "https://holylanguage.com/quest.html",
+            "author": [
+                {
+                    "family": "Avraham",
+                    "given": "Yisrael"
+                }
+            ],
+            "id": "avraham2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "title": "Hebrew Quest",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://scholarsgateway.com/",
+            "author": [
+                {
+                    "family": "DeLauro",
+                    "given": "David"
+                }
+            ],
+            "id": "delauro2009",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "title": "Scholars Gateway",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://hebrewsyntax.org/bbh2new/",
+            "author": [
+                {
+                    "family": "Beckman",
+                    "given": "John"
+                }
+            ],
+            "id": "beckman2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "title": "Materials for Basics of Biblical Hebrew, second edition",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://hebrewsyntax.org/bbh2new/00_BBH2_Study_Guide.apkg",
+            "author": [
+                {
+                    "family": "Beckman",
+                    "given": "John"
+                }
+            ],
+            "id": "beckman2012a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "title": "BBH2 Study Guide (Anki Package)",
+            "type": "book"
+        },
+        {
+            "URL": "https://hebrewsyntax.org/bbh2new/00_BBH2_Vocab.apkg",
+            "author": [
+                {
+                    "family": "Beckman",
+                    "given": "John"
+                }
+            ],
+            "id": "beckman2012b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "title": "BBH2 Vocab (Anki Package)",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Chisholm",
+                    "given": "Jr.",
+                    "suffix": "Robert B."
+                }
+            ],
+            "id": "chisholm1998",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Kregel",
+            "publisher-place": "Grand Rapids, MI",
+            "title": "From Exegesis to Exposition: A practical guide to using biblical hebrew",
+            "title-short": "Exegesis to Exposition",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Chisholm",
+                    "given": "Jr.",
+                    "suffix": "Robert B."
+                }
+            ],
+            "id": "chisholm2006",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Baker",
+            "publisher-place": "Grand Rapids, MI",
+            "title": "A workbook for Intermediate Hebrew: Grammar, exegesis, and commentary on jonah and ruth",
+            "title-short": "Workkbook Intermediate Hebrew",
+            "type": "book"
+        },
+        {
+            "annote": "OCLC: 1056584911",
+            "author": [
+                {
+                    "family": "Pratico",
+                    "given": "Gary D"
+                },
+                {
+                    "family": "Van Pelt",
+                    "given": "Miles V"
+                }
+            ],
+            "id": "pratico2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Zondervan",
+            "publisher-place": "Grand Rapids, MI",
+            "title": "Basics of Biblical Hebrew: grammar",
+            "title-short": "Basics of Biblical Hebrew",
+            "type": "book"
+        },
+        {
+            "URL": "https://waynestiles.com/7-ways-your-holy-land-tour-will-stay-with-you-for-years/",
+            "abstract": "You’ve invested a lot in your Holy Land tour to Israel. You don’t want to lose it! I have discovered these 7 ways to keep the benefits of a Holy Land tour.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Stiles",
+                    "given": "Wayne"
+                }
+            ],
+            "container-title": "Wayne Stiles",
+            "id": "stiles2013ws",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        11,
+                        6
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "7 Ways Your Holy Land Tour Will Stay with You for Years",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://waynestiles.com/how-to-prepare-for-a-holy-land-tour/",
+            "abstract": "You will get much more out of your Holy Land tour to Israel if you’ll invest some time preparing for it. Here are some ways that will help maximize your trip.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        13
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Stiles",
+                    "given": "Wayne"
+                }
+            ],
+            "container-title": "Wayne Stiles",
+            "id": "stiles2013wsa",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        2,
+                        20
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "How to Prepare for a Holy Land Tour",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://waynestiles.com/10-reasons-to-tour-israel-sooner-rather-than-later/",
+            "abstract": "Why should you tour Israel? After my first tour, I began to unpack the incredible benefits of touring Israel. I’m convinced there are at least 10 good reasons.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Stiles",
+                    "given": "Wayne"
+                }
+            ],
+            "container-title": "Wayne Stiles",
+            "id": "stiles2015ws",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        5,
+                        20
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "note": "If you choose to experience the Holy Land, you will enjoy:Sharper comprehension of the BibleClearer understanding of biblical applicationMore effective communication of truth to othersA framework for better memory of biblical eventsGreater confidence in the Word of God—having seen the places the Bible speaks ofMore vibrant spiritual life and deeper love for God (99% of those who go affirm this)Learning the Word of God will all your sensesSeeing the Bible when you read it for the rest of your lifeExperiencing a dimension of authenticity and history to your faith you could gain no other wayA window of opportunity that may not last (the political situation is ideal for tourism now)Walking the land of Israel has provided me with a deeper appreciation of God as Lord of world history and of seemingly minor details—both of which bring comfort to my life.I am confident it can do the same for you.",
+            "title": "10 Reasons To Tour Israel Sooner Rather than Later",
+            "type": "webpage"
+        },
+        {
+            "annote": "OCLC: 1056584911",
+            "author": [
+                {
+                    "family": "Warfield",
+                    "given": "Benjamin Breckenridge"
+                }
+            ],
+            "container-title": "Basics of Biblical Hebrew: grammar",
+            "editor": [
+                {
+                    "family": "Pratico",
+                    "given": "Gary D"
+                },
+                {
+                    "family": "Van Pelt",
+                    "given": "Miles V"
+                }
+            ],
+            "id": "warfield2007bobhg",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "Zondervan",
+            "publisher-place": "Grand Rapids, MI",
+            "title": "The Languages of Pastoral Ministry",
+            "type": "chapter"
+        },
+        {
+            "URL": "https://www.R-project.org/",
+            "author": [
+                {
+                    "literal": "R Core Team"
+                }
+            ],
+            "id": "R-base",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "R Foundation for Statistical Computing",
+            "publisher-place": "Vienna, Austria",
+            "title": "R: A language and environment for statistical computing",
+            "title-short": "R",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/rstudio/bookdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "R-bookdown",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "note": "R package version 0.20",
+            "title": "Bookdown: Authoring books and technical documents with r markdown",
+            "title-short": "Bookdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "R-knitr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "note": "R package version 1.30",
+            "title": "Knitr: A general-purpose package for dynamic report generation in r",
+            "title-short": "Knitr",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/rstudio/rmarkdown",
+            "author": [
+                {
+                    "family": "Allaire",
+                    "given": "JJ"
+                },
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "McPherson",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Luraschi",
+                    "given": "Javier"
+                },
+                {
+                    "family": "Ushey",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Atkins",
+                    "given": "Aron"
+                },
+                {
+                    "family": "Wickham",
+                    "given": "Hadley"
+                },
+                {
+                    "family": "Cheng",
+                    "given": "Joe"
+                },
+                {
+                    "family": "Chang",
+                    "given": "Winston"
+                },
+                {
+                    "family": "Iannone",
+                    "given": "Richard"
+                }
+            ],
+            "id": "R-rmarkdown",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "note": "R package version 2.4",
+            "title": "Rmarkdown: Dynamic documents for r",
+            "title-short": "Rmarkdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://github.com/rstudio/bookdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "id": "bookdown2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1138700109",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Bookdown: Authoring books and technical documents with R markdown",
+            "title-short": "Bookdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://yihui.org/knitr/",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "edition": "2nd",
+            "id": "knitr2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1498716963",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "Dynamic documents with R and knitr",
+            "type": "book"
+        },
+        {
+            "URL": "http://www.crcpress.com/product/isbn/9781466561595",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                }
+            ],
+            "container-title": "Implementing reproducible computational research",
+            "editor": [
+                {
+                    "family": "Stodden",
+                    "given": "Victoria"
+                },
+                {
+                    "family": "Leisch",
+                    "given": "Friedrich"
+                },
+                {
+                    "family": "Peng",
+                    "given": "Roger D."
+                }
+            ],
+            "id": "knitr2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "note": "ISBN 978-1466561595",
+            "publisher": "Chapman; Hall/CRC",
+            "title": "Knitr: A comprehensive tool for reproducible research in R",
+            "title-short": "Knitr",
+            "type": "chapter"
+        },
+        {
+            "URL": "https://bookdown.org/yihui/rmarkdown",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "Allaire",
+                    "given": "J. J."
+                },
+                {
+                    "family": "Grolemund",
+                    "given": "Garrett"
+                }
+            ],
+            "id": "rmarkdown2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "note": "ISBN 9781138359338",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "R markdown: The definitive guide",
+            "title-short": "R markdown",
+            "type": "book"
+        },
+        {
+            "URL": "https://bookdown.org/yihui/rmarkdown-cookbook",
+            "author": [
+                {
+                    "family": "Xie",
+                    "given": "Yihui"
+                },
+                {
+                    "family": "Dervieux",
+                    "given": "Christophe"
+                },
+                {
+                    "family": "Riederer",
+                    "given": "Emily"
+                }
+            ],
+            "id": "rmarkdown2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "note": "ISBN 9780367563837",
+            "publisher": "Chapman; Hall/CRC",
+            "publisher-place": "Boca Raton, Florida",
+            "title": "R markdown cookbook",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "book.bib",
+        "packages.bib"
+    ]
+}

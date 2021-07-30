@@ -1,5 +1,50 @@
 # Hebrew Pronominal Suffixes
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/09.intro.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 > To comprehend Biblical Hebrew, we must be able to translate a noun or preposition with a pronominal suffix
 
 In this lesson, we continue the discussion on pronouns.  In Lesson 9, we focus on an aspect of pronouns we don't have in English - pronominal suffixes.  
@@ -84,6 +129,51 @@ End: 55:41
 
 ## Possessive Pronominal Suffix Meaning
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/09.3.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 6, we learned about one-letter preposition prefixes to words.  Pronominal suffixes work similarly. The difference is these go on the back of words instead of the front.
 
 * On a noun, a pronominal suffix indicates the one who owns or is related to the noun:  His books / her houses / their house / our father
@@ -104,6 +194,39 @@ Pronominal suffixes have *gender*, *number*, and *person*.
 
 ## Type 1 and Type 2 Suffixes
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.4.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
+
 * Hebrew has two distinct groups of Pronominal suffixes
 * **Type 1** suffixes go on **SINGULAR** nouns<small>^[<small>As with most grammar rules, there are exceptions. For now, stick with these definitions of Type 1 and Type 2.</small>]</small>
     * Keep in mind there are both plural and singular Type 1 suffixes for use on singular nouns
@@ -116,6 +239,38 @@ Pronominal suffixes have *gender*, *number*, and *person*.
 
 ## Singular Suffixes
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.5.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
 * While Type 1 and Type 2 suffixes have key differences, there are also some commonalities with both types' singular suffixes.
 * Below are the singular suffixes
 
@@ -130,6 +285,38 @@ knitr::include_graphics("images/09.ps_sing_tbl.png")
 
 ## Plural Suffixes
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.6.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
 Below are the plural suffixes:
 
 ```{r, out.width = "400pt", fig.align='center'}
@@ -145,6 +332,38 @@ knitr::include_graphics("images/09.ps_plrl_tbl.png")
 
 ## Distinguish Type 1 from Type 2
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.7.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
 Look at the chart below with the two types side-by-side.
 
 ::: {.box .light}
@@ -165,21 +384,53 @@ knitr::include_graphics("images/09.ps_both_tbl.png")
 
 ## Identifying the Lexical Form with Type 1
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.8.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
 Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamiliar to you than a preposition, so we'll focus on nouns.  Below is a procedure you may follow that should help with this.  The steps for a Type 1 suffix are on this page, and the steps for Type 2 are in the next section.
 
 1. Remove the pronominal suffix
     * With שִׁיר, we are done at step 1
 2. Remembering that type one suffixes can *only* go with SINGULAR nouns, the next step is to fix the singular ending as needed 
-    * If the remaining word ends with a <span class="he">ת</span>, it is likely Feminine. Replace <span class="he">ת ַ</span> or <span class="he">ת ָ</span>  with<span class="he"> ה ָ</span> (usually)
+    * If the remaining word has a word-final <span class="he">ת</span>, it is likely feminine. Replace <span class="he">ת ַ</span> or <span class="he">ת ָ</span>  with<span class="he"> ה ָ</span> (usually)
         * See תּוֺרָתָם as an example
         * Note בֵּית does not have a feminine ending; we will recognize this word from our vocabulary memory
     * If the remaining word does not end with a <span class="he">ת</span>, it is likely masculine.  Most often, masculine words are endingless, but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
         * See שָֹדֶה, which is another word that should be memorized
-3. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
+3. If there is a word-internal tsere + yod (i.e. in the middle of the word), replace with the diphthong <span class="he">יִ ַ֫</span>
     * See word בֵּיתְךָ
 4. Change other vowels as needed according to the vowel preference table we studied several lessons ago
     * See word דָּבָר
-
+ 
 Here is Dr. Beckman's example of the four steps using five example words with Type 1 suffixes.  Note that words do not always need all four steps.
 
 ```{r, out.width = "400pt", fig.align='center'}
@@ -189,16 +440,51 @@ knitr::include_graphics("images/09.lex_type1_tbl.png")
 
 ## Identifying the Lexical Form with Type 2
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.9.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
+::: {.box .light}
+* Type 2 suffixes can *only* go with PLURAL nouns
+* The Lexical Form is going to be the SINGULAR
+* The only additional step from a Type 1 is we need to address the plural ending (step 2)
+:::
+
 1. Remove the pronominal suffix
-2. Type 2 suffixes can *only* go with PLURAL nouns
-    * The Lexical Form is going to be the SINGULAR
-    * The next step is to fix the singular ending as needed
-        * Remove the <span class="he">וֹת</span> ending if there is one
+2. Remove the <span class="he">וֹת</span> ending if there is one
         * Keep in mind that the word could exhibit defective spelling as with <span class="he">שְֹדֹת</span> below
 3. Add the appropriate singular ending, if needed
     * If the word ended with a <span class="he">וֹת</span>, it is Feminine. Replace with <span class="he">ה</span> ָ (usually)
     * If the remaining word does not end with <span class="he">וֹת</span>, it is likely masculine.  Most often, masculine words are endingless, but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
-4. If there is a tsere + yod in the middle of the word, replace with the diphthong <span class="he">יִ ַ֫</span>
+4. If there is a word-internal tsere + yod (i.e. in the middle of the word), replace with the diphthong <span class="he">יִ ַ֫</span>
 5. Change other vowels as needed according to the vowel preference table we studied several lessons ago.
 
 Here is Dr. Beckman's example of the five steps.  Note that words do not always need all five iterations.
@@ -210,6 +496,38 @@ knitr::include_graphics("images/09.lex_type2_tbl.png")
 
 ## Unexpected changes
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.10.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
 Two of the prepositions we studied in Lesson 6 undergo some irregular changes you will encounter as you read the Bible.
 
 * <span class="he">כְּ</span> (like, as) and <span class="he">מִן</span> (from, etc.) often insert an extra <span class="he">מוֹ</span> or <span class="he">מּ</span> in some forms
@@ -223,15 +541,47 @@ Two of the prepositions we studied in Lesson 6 undergo some irregular changes yo
 The rule still applies:
 
 ::: {.box .light}  
-Type 2 suffixes **always** begin with vowel + yod, but **not** hiriq + yod
-
+* Type 2 suffixes **always** contain with vowel + yod, but **not** hireq + yod
+* Type 2 suffixes **never** contain vowel + yod **unless** it's hireq + yod
 :::
 
 
 ## Look-alike words: אֵת as "with" or as Definite Direct Object (DDO) marker
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.11.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
 * As we learned previously, <span class="he">אֵת</span> can mean either the DDO or the preposition "with".  They are spelled the same way, and either form can take a pronominal suffix.
-* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DD when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
+* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DDO when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
     * 3MS: <span class="he">אֹתוֹ</span>
     * 2FP: <span class="he">אֶתְכֶן</span>
 * When then author intends to communicate the preposition with, as in "with him", the א will take a Hireq in all forms
@@ -240,6 +590,38 @@ Type 2 suffixes **always** begin with vowel + yod, but **not** hiriq + yod
 
 ## Look-alike words: עִם, "with", or עַם "people" 
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.12.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
 These two words frequently take pronouns.  It could be easy to get them confused.  The trick is to pay close attention to the vowel under the ע.
 
 * <span class="he">עִם</span> , with, will always have Ayin+Hireq, whereas <span class="he">עַם</span>, people, will always have Ayin+Patach
@@ -250,9 +632,42 @@ These two words frequently take pronouns.  It could be easy to get them confused
 
 ## Look-alike words: אֵל "God", or אֶל, "to"
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.13.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
+
 This one is _slightly_ easier.  
 
-* <span class="he">אֵלִי</span>, my God is the only form of <span class="he">אֶל</span> that appears with a pronominal suffix in the Bible
+* <span class="he">אֵלִי</span>, my God is the only form of <span class="he">אֵל</span> that appears with a pronominal suffix in the Bible
 * to me (1CS) is: <span class="he">אֶלַי</span> - Patach under the <span class="he">ל</span>
 
 Although <span class="he">אֵל</span> may not appear with a suffix apart from this one time, <span class="he">אֱלֹהִ֑ים</span> can, and in the Torah, frequently does take suffixes.   The words below are close but not equivalent.
@@ -303,11 +718,45 @@ We have created a special `Word Warm-up` for the pronominal suffixes.
 
 ## Worksheets: Pronominal Suffixes {-}
 
+
 After you have done your Anki work, we have an additional worksheet to help you drill your pronominal suffixes.  As with previous worksheets, study, then cover-up the first column on the right and see if you can complete the remainder of the worksheet by memory.
 
 [Pronominal Suffix](./images/09_pronominal_suffix_paradigm.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}        
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/09.ruth.m4a"> Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script> 
+</figure>
+:::
 
 ::: {.box .map} 
 YOUR QUEST

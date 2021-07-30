@@ -27,6 +27,8 @@ Before continuing, can you describe the following concepts?
 * How Hebrew handles indefinite words
 :::
 
+Prepositions are a lot of fun because of what they communicate to us.  So let's dig in!
+
 ## First Thought {-}
 
 ### <span class="he">  בְּיוֹם צָרָתִי אֲדֹנָי דָּרָשְׁתִּי </span> {-}
@@ -58,7 +60,7 @@ knitr::include_graphics("images/06-Nazareth Mount of Precipitation from west pan
 
 ## _Hebrew Quest_ Prepositions Lecture
 
-View this 8-minute video from _Hebrew Quest_ introducing prepositions. You can ignore the references to Essentials of Biblical Hebrew. We will dig into the concepts in greater detail as we progress through the lesson. 
+View this 8-minute video from _Hebrew Quest_ introducing prepositions.  We will dig into the concepts in greater detail as we progress through the lesson. 
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
@@ -95,6 +97,8 @@ A Dagesh Forte frequently indicates an assimilated נ
 :::
 
 * When the Dagesh Forte is rejected, we have lost our big clue that a letter like נ has gone missing
+    * We've said before that the Daghesh Forte is our friend; it alerts us that something unusual is going on
+    * When the Daghesh Forte is rejected, we run the risk of missing out on something the language is trying to tell us
     * Occasionally, but not always, we will have Compensatory Lengthening to help us out
 
 
@@ -129,19 +133,27 @@ The same preposition may be written both with and without the Maqqef
         * <span class="he">בְּמֶ֫לֶךְ</span> -  With a king
     * <span class="he">כְּ</span> - as, like, according to
         * <span class="he">כְּמֶ֫לֶךְ</span> - Like a king
-    * <span class="he">לּ</span> - to, toward, for
+    * <span class="he">לְ</span> - to, toward, for
         * <span class="he">לְמֶ֫לֶךְ</span> - To/towards a king
 
 ::: {.box .info}
 * A mnemonic to remember these three inseparable prepositions is "BucKLe"
 * The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning"
+:::
+
 * In the lexical form of these prepositions, there is a Vocal Sheva vowel under the "buckle" consonant
 * If there is a Sheva or Hateph vowel in the next letter, the Rule of Sheva come into play (see Lesson 4)
     * Before another Vocal Sheva, the preposition usually takes a Hireq
     * Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
     * Note the names of God again receive special treatment: <span class="he">לֵאלֹהִים</span> and <span class="he">לַיהוָה</span>
-
 :::
+
+
+* Finally, the ב and כ when they are the first letter of a word (as they usually will be), will take a Dagehsh Lene giving them the "hard" pronunciation
+    * We actually saw this last lesson, but in a different context
+    * It's <span class="he">בֵּן</span>, (between), but it's <span class="he">וּבֵן</span> (and between)
+        * The conjunction ו becomes a וּּ before a BuMP letter
+        * In this same example, you can see that <span class="he">בֵּן</span> (between) HAS the Dagesh Lene, but<span class="he">וּבֵן</span> (and between) does not and is pronounced with a "v" sound 
 
 ## _Hebrew Quest_ Preposition with Definite Article Lecture
 
@@ -170,6 +182,7 @@ library(knitr)
 knitr::include_graphics("images/06.preposition_article.png")
 ```
 
+### FIX GRAPHIC ^^^
 
 * On reason we spend so much time talking about the Dagesh Forte is that it is an extremely useful clue as to what is going on within a word
 * When a letter rejects the Dagesh Forte, this clue is gone
@@ -200,7 +213,7 @@ knitr::include_graphics("images/06.preposition_min.jpg")
 
 * When we see `Mem+Hireq+Dagesh`, we know it is <span class="he">מִן</span> written as an inseparable preposition
 * As we know by now, the Gutturals and Resh reject the Dagesh Forte:
-    * <span class="he">א צ ה ר</span> have compensatory lengthening, so the Hireq becomes Tsere
+    * <span class="he">א ע ה ר</span> have compensatory lengthening, so the Hireq becomes Tsere
     * <span class="he">ח</span> has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the <span class="he">מ</span> remains a Hireq
 * SQiN eM LeVY with a Sheva may reject the Dagesh
     * As we know, there will never be any Compensatory Lengthening with a SQiN eM LeVY scenario
@@ -209,11 +222,11 @@ knitr::include_graphics("images/06.preposition_min.jpg")
 
 ## The Article and מִן
 
-Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is always RETAINED with <span class="he">מִן</span>
+Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is ALWAYS RETAINED with <span class="he">מִן</span>
 
-* <span class="he">מֶהָאָ֫רֶץ</span> = from the land.
+* <span class="he">מֵהָאָ֫רֶץ</sp = from the land.
 
-
+<!-- 6.9 -->
 ## The flexible מִן: meanings 
 
 * <span class="he">מִן</span> occurs 7,592 times in the Bible, and can have multiple meanings
@@ -221,7 +234,7 @@ Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</s
 * <span class="he">מִן</span> can also have comparative (think "bigger") and superlative (think "biggest") meanings depending on the context
     * <span class="he">טוֹבָה חָכְמָה מִזָּהָב</span> = wisdom is better *than* gold 
     * <span class="he">קָשָׁה הָעֲבֹדָה מֵהָאֲנָשִׁים</span> = the work is *too* difficult *for* the men
-    * <span class="he">עָרוּם מִכֹּל חַיַּת הַשָֹּדֶה ּ</span>  = the *most* clever living thing *of all* the field
+    * <span class="he">עָרוּם מִכֹל חַיַּת הַשָֹּדֶה</span>  = the *most* clever living thing *of all* the field
 * There is also a use called "partitive" that denotes a portion or part of something else:
     * <span class="he">מֵהָאֲנָשִׁים</span> may mean "*some* *of* the men" (lit. from the men)
 * Other uses: 'because', 'by', 'without', 'even', 'namely'.
@@ -231,7 +244,8 @@ Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</s
 MEANING OF <span class="he">מִן</span>
 
 * This is a word that takes practice to appreciate the various nuanced meanings
-* As you are starting out in Hebrew, when you see <span class="he">מִן</span>, start your translation with "from..." * However, don't be surprised if "from" does not make sense
+* As you are starting out in Hebrew, when you see <span class="he">מִן</span>, start your translation with "from..."
+* However, don't be surprised if "from" does not make sense
 * For example, if our translation is something like, "good the wisdom from the gold," we know that doesn't make sense
     * We need to remember the comparative or superlative uses
     * "_Better_ is wisdom _than_ gold"
@@ -271,11 +285,11 @@ End: 46:55
 
 ## Conclusion {-}
 
-How are you feeling so far?  Is any component of "the fog" refusing to dissipate? Keep sticking with `Anki,` and try to do your reviews at least once daily.
+How are you feeling so far?  Is any component of "the fog" refusing to dissipate? Keep sticking with `Anki`, and try to do your reviews at least once daily.
 
 To help with this, we've gone a little bit lighter on the Grammar cards and the Ruth Pursuit for Lesson 6.  While there are some differences, prepositions are used much the same way in Hebrew as they are in English.  There is no sense in creating a lot of busy work.
 
-We recommend using the time between now and starting Lesson 7 to get caught up and make sure the new concepts begin to take hold.  You might notice the intensity pick up with the next few lessons as we get into some ways Hebrew handles adjectives and pronouns.  Until then, enjoy learning some more of God's work with Izzy in the `Word warm-up`, `Verse warm-up`, and `Anki`.
+We recommend using the time between now and starting Lesson 7 to get caught up and make sure the new concepts begin to take hold.  You might notice the intensity pick up with the next few lessons as we get into some ways Hebrew handles adjectives and pronouns.  Until then, enjoy learning some more of God's word with Izzy in the `Word warm-up` and `Verse warm-up`.
 
 ### Anki {-}
 
@@ -311,7 +325,7 @@ We recommend using the time between now and starting Lesson 7 to get caught up a
 ::: {.box .map}
 YOUR QUEST
 
-1. Highlight the following words that begin with the inseparable pronouns and provide a definition (Yellow)
+1. Highlight the following words that begin with the inseparable prepositions and provide a definition (Yellow)
     * <span class="he">בָּאָרֶץ</span>
     * <span class="he">בַדֶּרֶךְ</span>     
     * <span class="he">לְבֵית</span>
