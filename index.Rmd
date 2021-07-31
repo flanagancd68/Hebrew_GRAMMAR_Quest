@@ -26,9 +26,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-<div style="display:none">
+
 # Cover {.unnumbered}
-</div>
+<div style="display:none"></div>
 
 ```{r, out.width = "800pt", fig.align='center'}
 knitr::include_graphics("images/HGQ_book_cover_draft.png")
