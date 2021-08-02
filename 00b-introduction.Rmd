@@ -8,6 +8,32 @@
 
 ## Why is Holy Language offering a Hebrew grammar course? {- #motivation}
 
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.whyhebrewgrammar.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
 
 ***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful.  We noticed that many other students started to drop off between lessons 12 and 16, after the Aleph-Bet lectures. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.  
@@ -26,6 +52,30 @@ Additionally, with either option, our Holy Language students would incur additio
 See the next section to learn how Hebrew GRAMMAR Quest is distinct.
 
 ## How is Hebrew GRAMMER Quest distinct? {- #our_course}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Our Holy Language goals for a Hebrew grammar course are the following:
 
@@ -56,6 +106,30 @@ We have talked a bit about our Holy Language Learning Philosophy.  Our belief is
 
 ## What is the Relationship to _Hebrew Quest_? {- #hgq_and_hq}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.relationtohq.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 We've said that Hebrew GRAMMAR Quest does not replace _Hebrew Quest_.  Instead, we believe Hebrew GRAMMAR Quest supports and extends _Hebrew Quest_.  In fact, one way to think of Hebrew GRAMMAR Quest could be as "Hebrew Quest: Extended Edition"!  
 
 Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs, and other grammar topics.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
@@ -74,6 +148,32 @@ knitr::include_graphics("images/i.hq_hgq.png")
     * Students who complete all of the _Hebrew Quest_ Study Passage Tracks will receive extra special recognition upon completion of the course.  It our way of saying you have graduated "with honors"!
 
 ## Is completion of _Hebrew Quest_ is a prerequisite? {- #finish_hq}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.hqprerequisite.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Emphatically NO!
 

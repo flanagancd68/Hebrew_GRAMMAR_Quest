@@ -833,7 +833,7 @@ QAMETS OR QAMETS HATUF
 :::
 
 
-## Furtive Patach 
+## Furtive Patach
 
 ::: {.infobox .sound}
 <audio
@@ -875,6 +875,7 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
 
 ::: {.infobox .info} 
@@ -932,8 +933,8 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
-
 
 ::: {.infobox .info} 
 Quiescent Aleph is silent. It is neither a consonant nor a vowel
@@ -989,6 +990,7 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
 
 Congratulations on getting this far! We realize that there are a lot of heavy concepts you face in this Lesson.
@@ -1043,7 +1045,7 @@ Your vocabulary and understanding will grow if you look up `study verses` words 
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA){target="_blank"}
   
-## Ruth Pursuit {-}        
+## Ruth Pursuit {-}
 
 ::: {.infobox .sound}
 <audio
@@ -1085,6 +1087,7 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
 
 ::: {.box .map}
@@ -1155,6 +1158,7 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
 
 If you have completed **all activities** in Lessons 1, 2, and 3, you may claim the first of our `Unit Completion Certificates`.
@@ -1167,4 +1171,5 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
 
-[Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_block"}
+[Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
+

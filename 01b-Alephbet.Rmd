@@ -1,5 +1,50 @@
 # The Hebrew Aleph-bet {#alephbet}
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/01.intro.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 > To comprehend Biblical Hebrew, we must have the Aleph-Bet memorized
 
 <br>
@@ -42,6 +87,37 @@ For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIM
 :::
 
 ## First Thought {-}
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.Deu3203.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+::: {.box .light}
+* Listen to the verse in Hebrew
+* Practice speaking until you can pronounce just like Izzy 
+  * You can slow the audio down if needed
+:::
 
 ### <span class="he">שֵׁם יְהוָה אֶקְרָא</span> {-}
 
@@ -49,42 +125,6 @@ For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIM
 
 As you undertake this study, pray for this Grammar adventure to be fruitful.  May God use your growing knowledge of Hebrew as an instrument to advance His Kingdom, and may you never cease to proclaim His Name! 
 
------
-
-<figure>
-    <figcaption>Listen to this verse in Hebrew, then say it out loud.  Repeat the process of listening then saying it back several times until you are pronouncing the verse just like Izzy!</figcaption>
-    <audio
-            id="myAudio"
-        controls controlsList="nodownload"
-        src="./images/01.Deu3203.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio><br>
-    
-<button onclick="setPlaySpeed2()" type="button">2.0x</button>
-<button onclick="setPlaySpeed15()" type="button">1.5x</button>
-<button onclick="setPlaySpeed1()" type="button">1.0x</button>
-<button onclick="setPlaySpeed075()" type="button">0.75x</button>
-
-<script>
-var x = document.getElementById("myAudio");
-
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-} 
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-} 
-</script> 
-</figure>
-
-*****
 
 ```{r, out.width = "600pt", fig.align='center', fig.cap="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
@@ -96,13 +136,40 @@ knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
 
 ## The Hebrew Aleph-Bet {#consonants}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.1.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 ```{r, out.width = "800pt", fig.align='center'}
 include_graphics("images/alephbet.png")
 ```
 
 Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Lessons 2-11](https://holylanguage.com/letters.html){target="_blank"}.  
 
-* Hopefully, you have already watched these foundational _Hebrew Quest_ lessons; if not, click the link above!s  
+* Hopefully, you have already watched these foundational _Hebrew Quest_ lessons; if not, click the link above!  
 * If you need a refresher on identifying each of the letters, there will be cards on the Aleph-Bet in your `Anki` deck for Lesson 1.
 
 The points below and on the following pages will provide some foundations. This way, your grammar journey gets started in the right direction.
@@ -125,6 +192,32 @@ Besides learning the letters, you will learn deeper meanings each letter teaches
 
 ## Aleph-Bet Memory Song
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.2.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 As needed, sing along with this video by Dr. John Walton of Wheaton College to help you memorize the Aleph-bet^[Unfortunately, YouTube won't let us embed this video on this page]:
 
 [Open Aleph-Bet video in new tab](https://www.youtube.com/watch?v=hIEB8bpJZhY&feature=youtu.be){target="_blank"}
@@ -134,6 +227,32 @@ knitr::include_graphics("images/01.2-alephbet.png")
 ```
 
 ## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.3.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Note the front of a Hebrew book is the back of an English one:
 
@@ -155,8 +274,35 @@ See **Hebrew Quest** discussion on Right to Left:
 </center>
 
 
+
+<!-- 1.4 -->
 ## Five "KiMNePaTZ" letters have different final forms {#sofit_letters}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.4.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 ```{r, out.width = "800pt", fig.align='center'}
 knitr::include_graphics("images/kimnepatz.gif")
@@ -171,8 +317,35 @@ knitr::include_graphics("images/kimnepatz.gif")
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 * The KiMNePaTZ sofit forms can look like other letters - your `Anki` work for this Lesson will give you practice with identifying look-alike letters
 
+
+
 ## Activity: Practice Letter Writing  {- #worksheets-1}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.activity_letters.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 ::: {.box .info}
 Depending on your existing familiarity with the Aleph-bet, you may wish to review the `Lesson 01 A. Vocab` module in Anki before attempting the worksheet.   In fact, these flashcards are borrowed from _Hebrew Quest_! 
 :::
@@ -187,7 +360,8 @@ Depending on your existing familiarity with the Aleph-bet, you may wish to revie
 * This way, if we are asking you to memorize something, you will know it's important!
 :::
 
-INSTRUCTIONS
+::: {.box .map }
+YOUR QUEST (aka, instructions for the activity):
 
 1. Practice writing the letters individually (letter by letter) using the [Letter Writing worksheet](./images/01_Letter_Writing_Worksheet.pdf){target="_blank"}
     * If you would like some tips on how to write the letters, you can use [this guide](01_Letter_Writing_Guide.pdf){target="_blank"} from Dr. Beckman.
@@ -195,8 +369,37 @@ INSTRUCTIONS
     
 2. On the reverse side of the worksheet (or on a separate piece of paper), practice writing the entire AlephBet, including the final/sofit forms, until you can do it at least ONCE entirely from memory. Be sure to cover up your previous attempts and any other reference materials.  
 
+::: 
+
+<!-- 1.5 -->
 ## Six "BeGaD KePHaT" letters take a mark called a Daghesh Lene {#daghesh_lene}
  
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.5.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 ```{r, out.width = "800pt", fig.align='center'}
 knitr::include_graphics("images/bdgkpt.gif")
 ```
@@ -223,7 +426,35 @@ knitr::include_graphics("images/bdgkpt.gif")
 :::
 
 <!-- 1.6 -->
+
+<!-- 1.6 -->
 ## We classify four consonants as **Gutturals** (and one additional consonant is a sometimes-guttural)^[In modern linguistics, these are called `glottals`] {#gutturals}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.6.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 ```{r, out.width = "800pt", fig.align='center'}
 knitr::include_graphics("images/gutturals.gif")
@@ -243,7 +474,35 @@ It is core objective of this course.
 :::
 
 <!-- 1.7 -->
+
+
 ## We classify ten Hebrew letters as "SQiN eM LeVY" consonants
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.7.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 ```{r, out.width = "800pt", fig.align='center'}
 knitr::include_graphics("images/01_sqinemlevy_gif.gif")
@@ -265,17 +524,70 @@ knitr::include_graphics("images/01_sqinemlevy_gif.gif")
 <!-- 1.8 -->
 ## Look out for look-alike Letters {#look-alike-letters}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.8.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * Hebrew has many letters that can look similar, especially to someone just learning the Aleph-bet
 * For example <span class="he">נ</span>, <span class="he">ג</span> and <span class="he">כ</span>; <span class="he">ס</span> and <span class="he">ם</span>; or <span class="he">ר</span>, <span class="he">ד</span>, and <span class="he">ך</span>
 * The `Anki` deck will give you practice on distinguishing these.
 * Also, in Hebrew Quest, when Izzy reviewed the Aleph-Bet in lessons 2-11, he talked about each letter’s "twin" and how to spot the difference 
 * So again, if you haven't watched those lessons or if it has been a while, we encourage you to revisit those [letter lessons](https://holylanguage.com/letters.html). 
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "600pt", fig.align='center'}
 include_graphics("images/01.izzy_aleph.jpg")
 ```
 <!-- 1.9 -->
-## Sephardic and "Seminary" Pronunciation {#pronunciation}
+
+## Sephardic versus Seminary Pronunciation {#pronunciation}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.9.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 ```{r, out.width = "800pt", fig.align='center'}
 knitr::include_graphics("images/vav.png")
@@ -290,12 +602,38 @@ knitr::include_graphics("images/vav.png")
     * In academia, the consonant receives the "w" sound and is called "waw" (pronounced like the English "wow!")
     * In most non-academic circles, it receives the "v" sound and is pronounced "vav"
     * This is important because a lot of the resources that we will reference come from academia and thus will have the "w" pronunciation.  For example instead of "vav-imperfect", we will frequently see "waw-imperfect"
-* There are also significant differences in pronouncing vowels, which we will talk about in Lesson 2.
+* There are also significant differences in pronouncing vowels, most notably the short a ("a" like "apple"; versus "ah" like "father")
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
 * Lastly, since we are talking about pronunciation differences, will use "Adonai" or "the LORD" when we encounter the Covenant Name^[Please read Izzy's statement on the Covenant Name: "When I filmed Hebrew Quest I read God's Hebrew name as "Yahweh". This is a relatively common practice in academic circles and was also an expression of my personal love for God's holy name. Since then though I've encountered conclusive evidence that Yeshua and his disciples followed the Jewish tradition of saying "Adonai" instead of using the Sacred Name. It's my deep conviction that we should follow the example of Messiah and his apostles, so I've returned to saying "Adonai" (Hebrew for "the LORD") or "HaShem" (Hebrew for "the Name") instead of using the Sacred Name, and I encourage our students to do likewise." ]
     * Again, in some of the materials that we have leveraged from academic circles, you may see "Yahweh" as this is common in those settings
 
 ## Activity: Anki {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.anki.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Congratulations on completing your first lesson!
 
@@ -309,6 +647,32 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 
 
 ## Activity: Ruth Pursuit {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.ruth.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * This is a QUEST activity, similar to "bag the letters" from _Hebrew Quest_.  
 * You can do this activity online using Google Docs or download/print and use physical highlighters.
@@ -340,6 +704,32 @@ YOUR QUEST
 
 ## Activity: Ruth Pursuit Translation Worksheet {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.ruthtranslate.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * With almost every lesson of Hebrew GRAMMAR Quest, we will be gradually building a translation of Ruth chapter one
 * Instead of going sequentially, we will be working to identify concepts; so we may be skipping around the chapter a bit
     * We started with the simple words in the previous section
@@ -363,6 +753,32 @@ RUTH PURSUIT TRANSLATION WORKSHEET INSTRUCTIONS
 :::
 
 ## Activity: Quest Quiz {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.quiz.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Again, congratulations on finishing lesson 1.  Here is our first `Quest Quiz`.  Remember to treat this as a self-assessment.  If you do well, you should be ready to progress to Lesson 2.  If not, you may need to go back and review some concepts from Lesson 1.  This is not for a grade, as there are no grades given in this course.
 

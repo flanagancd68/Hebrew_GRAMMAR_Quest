@@ -1,0 +1,74 @@
+# Introduction to Unit II {-}
+
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/03b.unit2intro.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+Congratulations again on completing unit 1!
+
+* In Unit 1, we covered the foundational elements of Hebrew 
+    * Consonants
+    * Vowels, Sheva, and Dagesh Forte
+    * Syllabification
+    * Make sure you are relatively comfortable with these concepts before moving on to Unit 2 (and if you've been keeping up with your Anki work, this should be no problem for you!)
+* Now in Unit 2, we will use those building blocks from Unit 1 to form nouns, prepositions, and adjectives
+* In units 3 and 4, we will transition to verbs
+
+<large>Changes for Unit 2</large>:
+
+* _Hebrew Quest_ Videos
+    * If you recall from the Introduction, we described Hebrew GRAMMAR Quest, Lessons 4-35 as the expanded edition of the original _Hebrew Quest_ grammar overview lessons (13-15) - you are now about to embark on that expanded edition!
+    * For Unit 2, each lesson will have one (sometimes more than one) clip from the grammar lessons of _Hebrew Quest_
+    * You can ignore any references Izzy makes to the "Hebrew Quest Student Manual" or the "Essentials of Biblical Hebrew" book
+    * As we talked about in the Lesson 3`Word Warm-up` video, you can speed up or slow down the video speed by clicking the gear icon, then changing the `Playback Speed`
+* `Anki` Workbook modules
+    * Many grammar textbooks have accompanying workbooks that give students additional practice
+    * While it is reasonable to think of `Anki` as one giant workbook, beginning with Unit 2 we are adding in a `workbook` chapter where we will begin to dissect words or short passages
+    * Our goal is to `parse` and `translate`
+        * `Parsing` is identifying the gender, number, person (if applicable), and the lexical form
+        * `Translating` is identifying the word's meaning
+
+Now, if you're ready, let's begin our Unit 2 Quest!
+

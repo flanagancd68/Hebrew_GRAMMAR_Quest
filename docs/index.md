@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-07-31"
+#date: "2021-08-01"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,9 +27,34 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-07-31</small>
+<small>*Updated*: 2021-08-01</small>
 
 <small>
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.cover.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 **LICENSE**
 
@@ -85,6 +110,32 @@ All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה
 
 ## Why is Holy Language offering a Hebrew grammar course? {- #motivation}
 
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.whyhebrewgrammar.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
 
 ***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful.  We noticed that many other students started to drop off between lessons 12 and 16, after the Aleph-Bet lectures. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.  
@@ -103,6 +154,30 @@ Additionally, with either option, our Holy Language students would incur additio
 See the next section to learn how Hebrew GRAMMAR Quest is distinct.
 
 ## How is Hebrew GRAMMER Quest distinct? {- #our_course}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Our Holy Language goals for a Hebrew grammar course are the following:
 
@@ -133,6 +208,30 @@ We have talked a bit about our Holy Language Learning Philosophy.  Our belief is
 
 ## What is the Relationship to _Hebrew Quest_? {- #hgq_and_hq}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.relationtohq.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 We've said that Hebrew GRAMMAR Quest does not replace _Hebrew Quest_.  Instead, we believe Hebrew GRAMMAR Quest supports and extends _Hebrew Quest_.  In fact, one way to think of Hebrew GRAMMAR Quest could be as "Hebrew Quest: Extended Edition"!  
 
 Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs, and other grammar topics.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
@@ -148,6 +247,32 @@ Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of 
     * Students who complete all of the _Hebrew Quest_ Study Passage Tracks will receive extra special recognition upon completion of the course.  It our way of saying you have graduated "with honors"!
 
 ## Is completion of _Hebrew Quest_ is a prerequisite? {- #finish_hq}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.hqprerequisite.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Emphatically NO!
 
@@ -185,6 +310,32 @@ Let's get started!
 
 ## Navigating this book {- #navigating}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.navigate.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 In the upper-left corner of this page, you will see a series of icons.  
 
 <img src="images/toolbar.png" width="300pt" style="display: block; margin: auto;" />
@@ -209,6 +360,32 @@ There are several ways to navigate from page to page within this guidebook:
 ## A Typical Lesson {- #typical-lesson}
 
 <img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.typicallesson.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
 
@@ -249,6 +426,34 @@ Lastly, you might be encouraged by this article on [conquering the Fog](./images
 
 As you work though the Hebrew GRAMMAR Quest guidebook, you will notice several different information boxes uses to call out various topics.
 
+::: {.infobox .sound}
+AUDIO BOX
+
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.infoboxes.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 ::: {.infobox .map}
 QUEST BOX
 
@@ -274,6 +479,7 @@ LIGHT  BOX
 ::: {.infobox .info}
 INFO  BOX
 
+
 Additional information that is good to know
 :::
 
@@ -289,12 +495,38 @@ AUDIO BOX
 Either the section narration, read by Chris Flanagan, or the "First Thought" Hebrew verse, read by Izzy Avraham.
 
 * Press the play button to start the audio and make sure your device's volume is at a comfortable level
-* You can jpress one of the speed buttons to play the audio at that speed (2.5x - 0.5x) 
+* You can press one of the speed buttons to play the audio at that speed (2.5x - 0.5x) 
 :::
 
 We also have footnotes^[Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.]
 
 ## QUICK START INSTRUCTIONS {.unnumbered #get_started}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.getstarted.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 These easy steps will get you up and running with the course.  Please do these from a desktop computer for best results.
 
@@ -317,6 +549,32 @@ These easy steps will get you up and running with the course.  Please do these f
 > **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
 
 ## Help with Anki {- #anki_help}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.anki.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 <img src="images/weight.png" width="150pt" style="display: block; margin: auto;" /><img src="images/treadmill.png" width="150pt" style="display: block; margin: auto;" />
 
@@ -440,6 +698,32 @@ Be patient with yourself.  It may take you _many_ tries in the early going befor
   
 ## Course Resources {- #optional_resources}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.resources.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 REQUIRED: 
 
 * Other than being a subscriber to Holy Language Institute, you will not need to purchase or obtain anything for this course (unless you want to)
@@ -461,9 +745,40 @@ Below are additional resources, some of which are free and some paid:
     * [Basics of Biblical Hebrew Workbook](https://www.amazon.com/gp/product/0310533554/&tag=holylanginst-20)
     * [Basics of Biblical Hebrew Laminated Reference Card](https://www.amazon.com/gp/product/031026295X/&tag=holylanginst-20)
     * We would appreciate it if you would use one of the affiliate links, which allows Holy Language Institute to receive a small commission
-  * You might want wait and see how you are doing with Hebrew GRAMMAR Quest through about Lesson 7 or 8 before deciding to purchase the iOS app or any of the books
+    
+    
+::: {.box .caution}
+You might want wait and see how you are doing with Hebrew GRAMMAR Quest through about Lesson 7 or 8 before deciding to purchase the iOS app or any of the books
+:::
 
 ## Report an Issue {- #report_issue}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.reportissue.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 Please do not hesitate to report any errors, omissions, or improvement opportunities.  In fact, we'd rather hear about mistakes sooner rather than later! Feedback is anonymous.  
 
@@ -478,6 +793,33 @@ If you have a specific question about the content or are stuck on a concept, ple
 [Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}
 
 ## Ask a question {- #get_help}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.gethelp.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 While this is a self-paced course with no formal instructor or teaching assistant, we want to provide a way for you to get help and ask a question should you get stuck.
 
@@ -503,6 +845,51 @@ If you have general feedback or wish to report an issue, please use the [`Report
 <!--chapter:end:01a-Part_I_header.Rmd-->
 
 # The Hebrew Aleph-bet {#alephbet}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/01.intro.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 > To comprehend Biblical Hebrew, we must have the Aleph-Bet memorized
 
@@ -543,6 +930,37 @@ For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIM
 :::
 
 ## First Thought {-}
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.Deu3203.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+::: {.box .light}
+* Listen to the verse in Hebrew
+* Practice speaking until you can pronounce just like Izzy 
+  * You can slow the audio down if needed
+:::
 
 ### <span class="he">שֵׁם יְהוָה אֶקְרָא</span> {-}
 
@@ -550,42 +968,6 @@ For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIM
 
 As you undertake this study, pray for this Grammar adventure to be fruitful.  May God use your growing knowledge of Hebrew as an instrument to advance His Kingdom, and may you never cease to proclaim His Name! 
 
------
-
-<figure>
-    <figcaption>Listen to this verse in Hebrew, then say it out loud.  Repeat the process of listening then saying it back several times until you are pronouncing the verse just like Izzy!</figcaption>
-    <audio
-            id="myAudio"
-        controls controlsList="nodownload"
-        src="./images/01.Deu3203.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio><br>
-    
-<button onclick="setPlaySpeed2()" type="button">2.0x</button>
-<button onclick="setPlaySpeed15()" type="button">1.5x</button>
-<button onclick="setPlaySpeed1()" type="button">1.0x</button>
-<button onclick="setPlaySpeed075()" type="button">0.75x</button>
-
-<script>
-var x = document.getElementById("myAudio");
-
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-} 
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-} 
-</script> 
-</figure>
-
-*****
 
 <div class="figure" style="text-align: center">
 <img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
@@ -597,11 +979,38 @@ function setPlaySpeed2() {
 
 ## The Hebrew Aleph-Bet {#consonants}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.1.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 <img src="images/alephbet.png" width="800pt" style="display: block; margin: auto;" />
 
 Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Lessons 2-11](https://holylanguage.com/letters.html){target="_blank"}.  
 
-* Hopefully, you have already watched these foundational _Hebrew Quest_ lessons; if not, click the link above!s  
+* Hopefully, you have already watched these foundational _Hebrew Quest_ lessons; if not, click the link above!  
 * If you need a refresher on identifying each of the letters, there will be cards on the Aleph-Bet in your `Anki` deck for Lesson 1.
 
 The points below and on the following pages will provide some foundations. This way, your grammar journey gets started in the right direction.
@@ -624,6 +1033,32 @@ Besides learning the letters, you will learn deeper meanings each letter teaches
 
 ## Aleph-Bet Memory Song
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.2.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 As needed, sing along with this video by Dr. John Walton of Wheaton College to help you memorize the Aleph-bet^[Unfortunately, YouTube won't let us embed this video on this page]:
 
 [Open Aleph-Bet video in new tab](https://www.youtube.com/watch?v=hIEB8bpJZhY&feature=youtu.be){target="_blank"}
@@ -631,6 +1066,32 @@ As needed, sing along with this video by Dr. John Walton of Wheaton College to h
 <img src="images/01.2-alephbet.png" width="500pt" style="display: block; margin: auto;" />
 
 ## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.3.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Note the front of a Hebrew book is the back of an English one:
 
@@ -649,8 +1110,35 @@ See **Hebrew Quest** discussion on Right to Left:
 </center>
 
 
+
+<!-- 1.4 -->
 ## Five "KiMNePaTZ" letters have different final forms {#sofit_letters}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.4.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 <img src="images/kimnepatz.gif" width="800pt" style="display: block; margin: auto;" />
 
@@ -663,8 +1151,35 @@ See **Hebrew Quest** discussion on Right to Left:
 * You can remember the acronym, KiMNePaTZ, which is the made-up word you get when you string the five letters in a row
 * The KiMNePaTZ sofit forms can look like other letters - your `Anki` work for this Lesson will give you practice with identifying look-alike letters
 
+
+
 ## Activity: Practice Letter Writing  {- #worksheets-1}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.activity_letters.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 ::: {.box .info}
 Depending on your existing familiarity with the Aleph-bet, you may wish to review the `Lesson 01 A. Vocab` module in Anki before attempting the worksheet.   In fact, these flashcards are borrowed from _Hebrew Quest_! 
 :::
@@ -679,7 +1194,8 @@ Depending on your existing familiarity with the Aleph-bet, you may wish to revie
 * This way, if we are asking you to memorize something, you will know it's important!
 :::
 
-INSTRUCTIONS
+::: {.box .map }
+YOUR QUEST (aka, instructions for the activity):
 
 1. Practice writing the letters individually (letter by letter) using the [Letter Writing worksheet](./images/01_Letter_Writing_Worksheet.pdf){target="_blank"}
     * If you would like some tips on how to write the letters, you can use [this guide](01_Letter_Writing_Guide.pdf){target="_blank"} from Dr. Beckman.
@@ -687,8 +1203,37 @@ INSTRUCTIONS
     
 2. On the reverse side of the worksheet (or on a separate piece of paper), practice writing the entire AlephBet, including the final/sofit forms, until you can do it at least ONCE entirely from memory. Be sure to cover up your previous attempts and any other reference materials.  
 
+::: 
+
+<!-- 1.5 -->
 ## Six "BeGaD KePHaT" letters take a mark called a Daghesh Lene {#daghesh_lene}
  
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.5.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 <img src="images/bdgkpt.gif" width="800pt" style="display: block; margin: auto;" />
 
 * Next, we need to learn the "BeGaD KePhaT" letters^[See also Lesson 3 of _Hebrew Quest_]
@@ -713,7 +1258,35 @@ INSTRUCTIONS
 :::
 
 <!-- 1.6 -->
+
+<!-- 1.6 -->
 ## We classify four consonants as **Gutturals** (and one additional consonant is a sometimes-guttural)^[In modern linguistics, these are called `glottals`] {#gutturals}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.6.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 <img src="images/gutturals.gif" width="800pt" style="display: block; margin: auto;" />
 
@@ -731,7 +1304,35 @@ It is core objective of this course.
 :::
 
 <!-- 1.7 -->
+
+
 ## We classify ten Hebrew letters as "SQiN eM LeVY" consonants
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.7.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 <img src="images/01_sqinemlevy_gif.gif" width="800pt" style="display: block; margin: auto;" />
 
@@ -751,15 +1352,68 @@ It is core objective of this course.
 <!-- 1.8 -->
 ## Look out for look-alike Letters {#look-alike-letters}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.8.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * Hebrew has many letters that can look similar, especially to someone just learning the Aleph-bet
 * For example <span class="he">נ</span>, <span class="he">ג</span> and <span class="he">כ</span>; <span class="he">ס</span> and <span class="he">ם</span>; or <span class="he">ר</span>, <span class="he">ד</span>, and <span class="he">ך</span>
 * The `Anki` deck will give you practice on distinguishing these.
 * Also, in Hebrew Quest, when Izzy reviewed the Aleph-Bet in lessons 2-11, he talked about each letter’s "twin" and how to spot the difference 
 * So again, if you haven't watched those lessons or if it has been a while, we encourage you to revisit those [letter lessons](https://holylanguage.com/letters.html). 
 
-<img src="images/01.izzy_aleph.jpg" width="400pt" style="display: block; margin: auto;" />
+<img src="images/01.izzy_aleph.jpg" width="600pt" style="display: block; margin: auto;" />
 <!-- 1.9 -->
-## Sephardic and "Seminary" Pronunciation {#pronunciation}
+
+## Sephardic versus Seminary Pronunciation {#pronunciation}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.9.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 <img src="images/vav.png" width="800pt" style="display: block; margin: auto;" />
 
@@ -772,12 +1426,38 @@ It is core objective of this course.
     * In academia, the consonant receives the "w" sound and is called "waw" (pronounced like the English "wow!")
     * In most non-academic circles, it receives the "v" sound and is pronounced "vav"
     * This is important because a lot of the resources that we will reference come from academia and thus will have the "w" pronunciation.  For example instead of "vav-imperfect", we will frequently see "waw-imperfect"
-* There are also significant differences in pronouncing vowels, which we will talk about in Lesson 2.
+* There are also significant differences in pronouncing vowels, most notably the short a ("a" like "apple"; versus "ah" like "father")
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
 * Lastly, since we are talking about pronunciation differences, will use "Adonai" or "the LORD" when we encounter the Covenant Name^[Please read Izzy's statement on the Covenant Name: "When I filmed Hebrew Quest I read God's Hebrew name as "Yahweh". This is a relatively common practice in academic circles and was also an expression of my personal love for God's holy name. Since then though I've encountered conclusive evidence that Yeshua and his disciples followed the Jewish tradition of saying "Adonai" instead of using the Sacred Name. It's my deep conviction that we should follow the example of Messiah and his apostles, so I've returned to saying "Adonai" (Hebrew for "the LORD") or "HaShem" (Hebrew for "the Name") instead of using the Sacred Name, and I encourage our students to do likewise." ]
     * Again, in some of the materials that we have leveraged from academic circles, you may see "Yahweh" as this is common in those settings
 
 ## Activity: Anki {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.anki.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Congratulations on completing your first lesson!
 
@@ -791,6 +1471,32 @@ Access Anki using your mobile app, desktop version, or [the web-based version (l
 
 
 ## Activity: Ruth Pursuit {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.ruth.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * This is a QUEST activity, similar to "bag the letters" from _Hebrew Quest_.  
 * You can do this activity online using Google Docs or download/print and use physical highlighters.
@@ -822,6 +1528,32 @@ YOUR QUEST
 
 ## Activity: Ruth Pursuit Translation Worksheet {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.ruthtranslate.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * With almost every lesson of Hebrew GRAMMAR Quest, we will be gradually building a translation of Ruth chapter one
 * Instead of going sequentially, we will be working to identify concepts; so we may be skipping around the chapter a bit
     * We started with the simple words in the previous section
@@ -846,6 +1578,32 @@ RUTH PURSUIT TRANSLATION WORKSHEET INSTRUCTIONS
 
 ## Activity: Quest Quiz {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.quiz.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 Again, congratulations on finishing lesson 1.  Here is our first `Quest Quiz`.  Remember to treat this as a self-assessment.  If you do well, you should be ready to progress to Lesson 2.  If not, you may need to go back and review some concepts from Lesson 1.  This is not for a grade, as there are no grades given in this course.
 
 ::: {.box .light}
@@ -868,6 +1626,31 @@ In other words after you have completed `Anki` so that all the lesson's cards ar
 
 # Hebrew Vowels 
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.intro.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 > To comprehend Biblical Hebrew, we must understand how words are formed and pronounced
 
@@ -905,6 +1688,33 @@ Before continuing, be sure you can recite the following groups of letters from m
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.ps107024.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 ###  <span class="he">הֵמָּה רָאוּ מַעֲשֵׂי יְהוָה</span> {-}
 
 *They have seen the works of Adonai (Psalms 107:24)*
@@ -912,40 +1722,7 @@ Before continuing, be sure you can recite the following groups of letters from m
 Reflect on the works of HaShem that you have seen!
 
 
------
 
-<figure>
-    <figcaption>Listen to this verse in Hebrew, then say it out loud.  Repeat the process of listening then saying it back several times until you are pronouncing the verse just like Izzy!</figcaption>
-    <audio
-        id="myAudio"
-        controls controlsList="nodownload"
-        src="./images/02.ps107024.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio><br>
-<button onclick="setPlaySpeed2()" type="button">2.0x</button>
-<button onclick="setPlaySpeed15()" type="button">1.5x</button>
-<button onclick="setPlaySpeed1()" type="button">1.0x</button>
-<button onclick="setPlaySpeed075()" type="button">0.75x</button>
-<script>
-var x = document.getElementById("myAudio");
-
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-} 
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-} 
-</script> 
-</figure>
-
-*****
 
 <div class="figure" style="text-align: center">
 <img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
@@ -955,6 +1732,33 @@ function setPlaySpeed2() {
 <!-- 2.1 -->
 
 ## _Hebrew Quest_ Vowels Lecture
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.1.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 View this 28:00 overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson^[As a reminder, you can speed up these videos by pressing the `gear` symbol, then adjusting the `Playback Speed`.].  You can disregard references to the "Hebrew Quest Student Manual" or "Essentials of Biblical Hebrew." Pertinent concepts have been incorporated into this Hebrew GRAMMAR Quest Guidebook. 
 
@@ -969,6 +1773,32 @@ MlfwNNuWgto?start=0&end=1675&rel=0&showinfo=0autohide=1&autoplay=1" frameborder=
 * End: 27:55
 
 ## Vowels that are not vowel letters: table
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.2.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 The table below lists the vowels that are not vowel letters.  This table MUST be memorized, including type and class as well as the name and symbol.
 
@@ -988,6 +1818,33 @@ The table below lists the vowels that are not vowel letters.  This table MUST be
 
 ## Vowels that are not vowel letters: discussion
 
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.3.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 ### Vowels come in three types: Long, Short, Reduced | Vowels come in five classes: A, E, I, O, U {-}
 
 * We memorized the Aleph-bet in Lesson 1, but this knowledge is incomplete without vowels
@@ -1005,6 +1862,33 @@ The table below lists the vowels that are not vowel letters.  This table MUST be
 
 
 ## Vocal and Silent Sheva
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.4.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 * The Sheva can be tricky to grasp at first since vocal and silent Sheva are written the same. They have two very different uses^[Many academic textbooks will use the term "Shewa" instead of "Sheva". Both words mean the same thing.].
 * Both are written as קְ
@@ -1035,10 +1919,63 @@ The Sof Pasuq
 
 ## Vowels: that are letters: table
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.5.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 <img src="images/02.vowels_letters.png" width="600pt" style="display: block; margin: auto;" />
 
 
-## Vowels that are letters: discussion
+## Vowels that are letters: 
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.6.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 
 ### Vowel letters use a consonant plus a nikkud to form a vowel {-}
@@ -1067,6 +2004,33 @@ The Sof Pasuq
 
 
 ## "Defective" and "plene" spelling {#defective_spelling}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.7.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 In "defective" spelling, letter vowels can sometimes drop their letter and take on the corresponding non-letter vowel. The meaning of the word does not change.
 
@@ -1098,6 +2062,33 @@ If any of this is confusing now, as we've said before, hang in there!  As you pr
 
 ## Transliteration Shorthand
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.8.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 * Most Hebrew grammar books include transliteration values
 * While learning the transliteration scheme can help in some instances, our general position is that it can be an unnecessary distraction
 * Where it can be useful is as shorthand
@@ -1121,6 +2112,33 @@ If any of this is confusing now, as we've said before, hang in there!  As you pr
 
 ## The Dagesh Forte Doubles the Consonant {#dagesh_forte}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.9.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 <img src="images/02.daghesh_forte.gif" width="500pt" style="display: block; margin: auto;" />
  
 
@@ -1138,6 +2156,32 @@ If any of this is confusing now, as we've said before, hang in there!  As you pr
 
 ## בגד כפת letters can take either a Dagesh Lene OR a Dagesh Forte
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.10.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter
     * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word אַתָּה in the previous section
 
@@ -1151,6 +2195,32 @@ Conversely, we can think of the Dagesh Lene as the "Meaningless Dagesh" since it
 
 
 ## The Easy Dagesh Forte Rule {#dagesh_forte_in_bgdkpt}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.11.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 So how do you tell whether a Daghesh in a בגד כפת letter is Lene or Forte?
 
@@ -1170,6 +2240,32 @@ Quiz yourself with these examples (answers below):
 * <span class="he">מִתַּחַת</span>  = Is the Dagesh preceded by a vowel that is not a Sheva?^[Yes, a Hiriq. Dagesh Forte]
 
 ## וּ is usually Shureq, but could be Vav with a Dagesh Forte
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.12.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 *   When a Vav has a Dagesh Forte, it looks like this וּ and, therefore, is identical to a Shureq וּ
 *   It's surprisingly easy to tell the difference
@@ -1196,6 +2292,32 @@ When you see <span class="he">וּ</span>, it is usually a Shureq
     
 ## Gutturals and Resh reject Dagesh Forte {#gutturals_reject_dagesh_forte}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.13.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * We said in Lesson One that the Gutturals don’t play nice with the other Hebrew Rules, and this rejection of the Dagesh Forte is one of those ways
 * A Hebrew collision like this means something has to give. . . and the gutturals tend to get their way.
 * It's like they have a force-field shielding them from other Hebrew grammar rules!
@@ -1218,6 +2340,32 @@ MAPPIQ
 
 ## Lesson Conclusion and Activities {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.conclusion.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 Congratulations on completing the vowels lesson.  Make sure you memorize the vowel classes, the Dagesh Forte rule, and the guttural behavior.  
 
 We're about halfway through the first stage of the course on Hebrew Grammar Foundations.  Keep going! You're doing great!  After you finish all of the activities for this lesson, you can claim the first of our `Twelve Tribes Badges`. 
@@ -1226,6 +2374,33 @@ Take a moment to review the section headings on the screen's left side before he
 
 
 ## Anki {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.anki.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 * `Lesson 02 A. Vocab` 
   * You will be presented with the vowel symbol and you are to identify the name, type, and class of each vowel
@@ -1243,6 +2418,32 @@ We can't stress enough how important the Anki activities are.  Anki is where you
 
 ## Vowel Writing Worksheet {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.vowel_worksheet.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * Practice writing the vowels using the [Vowel Writing worksheet/drill](./images/02_Vowel_drill.pdf){target="_blank"}
 * An answer key is on page two
 * Repeat this worksheet until you can complete it correctly entirely from memory at least once
@@ -1255,6 +2456,32 @@ We can't stress enough how important the Anki activities are.  Anki is where you
 
 
 ## Ruth Pursuit {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.ruth.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 ::: {.box .map}
 YOUR QUEST
@@ -1278,6 +2505,31 @@ YOUR QUEST
 
 ## Quest Quiz {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.quiz.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 
 <div class="containerLet">
@@ -1287,6 +2539,32 @@ YOUR QUEST
 [Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
 
 ## Claim your `Twelve Tribes Badge`! {- #twelve-tribes-badge-1}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/02.twelvetribes.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 If you have completed **all activities** in Lessons 1 and 2, congratulations!  You may claim the first of our "Twelve Tribes" badges.  These are a fun way to commemorate your progress.  After you complete the form and confirm you have done the required activites, you will receive an email with a virtual "badge" along with some thoughts about what each of the Twelve Tribes represents from a spiritual perspective.  Be sure you are keeping your Quest Activities Checklist up to date as you complete each lesson and activity.
 
@@ -2107,7 +3385,7 @@ QAMETS OR QAMETS HATUF
 :::
 
 
-## Furtive Patach 
+## Furtive Patach
 
 ::: {.infobox .sound}
 <audio
@@ -2149,6 +3427,7 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
 
 ::: {.infobox .info} 
@@ -2204,8 +3483,8 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
-
 
 ::: {.infobox .info} 
 Quiescent Aleph is silent. It is neither a consonant nor a vowel
@@ -2259,6 +3538,7 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
 
 Congratulations on getting this far! We realize that there are a lot of heavy concepts you face in this Lesson.
@@ -2313,7 +3593,7 @@ Your vocabulary and understanding will grow if you look up `study verses` words 
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/9IkIvWPArlA){target="_blank"}
   
-## Ruth Pursuit {-}        
+## Ruth Pursuit {-}
 
 ::: {.infobox .sound}
 <audio
@@ -2355,6 +3635,7 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
 
 ::: {.box .map}
@@ -2425,6 +3706,7 @@ function setPlaySpeed25() {
     x.playbackRate = 2.5;
      x.play(); 
 } 
+</script> 
 :::
 
 If you have completed **all activities** in Lessons 1, 2, and 3, you may claim the first of our `Unit Completion Certificates`.
@@ -2437,13 +3719,17 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
 
-[Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_block"}
+[Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
+
 
 <!--chapter:end:03-Syllabification.Rmd-->
 
-# (PART) Nouns, Prepositions, Pronouns {-}
+# (PART) Nouns, Adjectives, Pronouns {-}
 
-# Introduction to Unit 2 {-}
+<!--chapter:end:04a-Part_II_header.Rmd-->
+
+# Introduction to Unit II {-}
+
 
 ::: {.infobox .sound}
 <figure>
@@ -2517,7 +3803,7 @@ Congratulations again on completing unit 1!
 Now, if you're ready, let's begin our Unit 2 Quest!
 
 
-<!--chapter:end:03b-Unit3_intro.Rmd-->
+<!--chapter:end:04c-unit2intro.Rmd-->
 
 # Hebrew Nouns {.Nouns}
 
@@ -3789,7 +5075,7 @@ YOUR QUEST
 
 
 
-<!--chapter:end:04-NounsPlural.Rmd-->
+<!--chapter:end:04f-NounsPlural.Rmd-->
 
 # Definite Article and Conjunction Vav {.Article}
 
@@ -4802,6 +6088,32 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 
 # Hebrew Prepositions
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.intro.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 > To comprehend Biblical Hebrew, we must be able to identify prepositions as we read the Text.
 
 Prepositions give us space and context.  Prepositions are on almost every page as the authors seek to communicate this context to us.  Furthermore, there is one Hebrew word, <span class="he">מִן</span>, that is classified as a preposition, but, depending on the context, can convey a wide array of meanings. 
@@ -4833,21 +6145,37 @@ Prepositions are a lot of fun because of what they communicate to us.  So let's 
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.ps7702.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 ### <span class="he">  בְּיוֹם צָרָתִי אֲדֹנָי דָּרָשְׁתִּי </span> {-}
 
 _In the day of my trouble, I sought the Lord  (Psalms 77:3)_
 
 Meditate and celebrate that the Lord is in the midst of our problems.
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/06.ps7702.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 The בּ in <span class="he">בְּיוֹם</span> is an example of an "inseparable preposition" that means "in."  We will study various types of prepositions in this lesson.
 
@@ -4878,7 +6206,31 @@ End: 38:23
 
 ## Nun with Silent Sheva Becomes Dagesh Forte
 
-
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.2.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 <img src="images/06.nun-assimilation.gif" width="600pt" style="display: block; margin: auto;" />
 
 * Nun is considered a "weak letter" 
@@ -4903,6 +6255,32 @@ A Dagesh Forte frequently indicates an assimilated נ
 
 ## Independent and Maqqef prepositions 
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.3.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * There are three different types of Hebrew prepositions: independent, Maqqef, and inseparable
 * An _independent preposition_ is a separate word with a space before it and after it
     * The preposition comes first, followed by its object (just like English). E.g.,  <span class="he">תַּחַת אֹתוֹ</span> (under it)
@@ -4925,6 +6303,32 @@ The same preposition may be written both with and without the Maqqef
 :::
 
 ## Inseparable prepositions
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * Like <span class="he">וְ</span> for the word "and," an inseparable preposition is a one-letter prefix affixed to its object
 * Three Hebrew prepositions are **ALWAYS** inseparable
@@ -4972,6 +6376,31 @@ End: 41:00
 
 ## The Article and Inseparable Prepositions
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.6.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * When a word has both the Article and an inseparable preposition, a form of contraction occurs:
     * The one-letter preposition replaces the <span class="he">ה</span> of the Article
     * The vowel under the preposition and the Dagesh Forte (if it is there) are your clues that the word is definite.
@@ -4996,6 +6425,32 @@ ARTICLE WITH PREPOSITION
 
 ## The flexible מִן: construction
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.7.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * <span class="he">מִן</span> is a unique preposition
     * It can be a Maqqef preposition, as in <span class="he">מִן־זָהָב</span>
     * It can also be an inseparable preposition: <span class="he">מִזָּהָב</span>
@@ -5015,12 +6470,64 @@ ARTICLE WITH PREPOSITION
 
 ## The Article and מִן
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.8.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is ALWAYS RETAINED with <span class="he">מִן</span>
 
 * <span class="he">מֵהָאָ֫רֶץ</sp = from the land.
 
 <!-- 6.9 -->
 ## The flexible מִן: meanings 
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.9.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * <span class="he">מִן</span> occurs 7,592 times in the Bible, and can have multiple meanings
 * The most direct purpose is "from" - <span class="he">מֵהָאָ֫רֶץ</span> from the land
@@ -5045,6 +6552,32 @@ MEANING OF <span class="he">מִן</span>
 :::
 
 ## The Definite Direct Object marker 
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.10.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * Hebrew has a word that is often used to mark a definite direct object (DDO)
 * It has no translational value
@@ -5078,6 +6611,31 @@ End: 46:55
 
 ## Conclusion {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.conclusion.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 How are you feeling so far?  Is any component of "the fog" refusing to dissipate? Keep sticking with `Anki`, and try to do your reviews at least once daily.
 
 To help with this, we've gone a little bit lighter on the Grammar cards and the Ruth Pursuit for Lesson 6.  While there are some differences, prepositions are used much the same way in Hebrew as they are in English.  There is no sense in creating a lot of busy work.
@@ -5115,6 +6673,32 @@ We recommend using the time between now and starting Lesson 7 to get caught up a
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.ruth.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 ::: {.box .map}
 YOUR QUEST
 
@@ -5149,6 +6733,32 @@ YOUR QUEST
 
 # Hebrew Adjectives {#adjectives}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.intro.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 > To comprehend Biblical Hebrew, we must be able to identify and translate an adjective based on its usage, as well as its gender and number
 
 
@@ -5176,6 +6786,32 @@ Before continuing, can you describe the following concepts?
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.ecc0311.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 ### <span class="he">אֶת־הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ</span> {-}
 
 _He has made everything appropriate (beautiful) in its time.  (Ecclesiastes 3:11)_
@@ -5184,17 +6820,6 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <span class="he">יָפֶה</span> is an example of predicate adjective use, which we will study in this lesson.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/07.ecc0311.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-*****
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
@@ -5220,6 +6845,33 @@ Start: 44:30
 End: 49:38
 
 ## Inflecting Adjectives
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.2.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 Adjective inflection is relatively straight-forward.
 
@@ -5256,6 +6908,31 @@ The good news is you already know what to do. Adjectives follow the same rules a
 
 ## Substantival Use
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.3.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * In the Substantival use, the adjective acts as a noun
     * We could say the "Substantive Substitutes" for a noun
     * Perhaps an obvious example of this from pop culture is the film "The Good, The Bad, and The Ugly"  
@@ -5277,6 +6954,31 @@ SUBSTANTIVAL USE IS RELATIVELY EASY TO IDENTIFY
 
 ## Attributive Use
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * In the Attributive use, the adjective modifies and describes a noun
     * "Good" in "The good book" is Attributive 
 * Hebrew makes it much easier to identify the Attributive use - see the mnemonic below
@@ -5295,6 +6997,31 @@ ATTRIBUTIVE MNEMONIC
 
 ## Predicative Use
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * The Predicative use (often called the predicate use) asserts something about the noun
 * In English translation, we must insert the applicable form of the verb "to be"
 * The noun is the subject, and the adjective is the predicate of the sentence: "The book is good."
@@ -5317,6 +7044,32 @@ PREDICATIVE MNEMONIC
 
 ## Adjective Use Comparison
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.6.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 As a brief review, determine whether the adjective is acting as Attributive, Predicative, or Substantival.  The answers and explanations are in the footnotes.
 
 * <span class="he">הָאִשָּׁה הָטּוֹבָה</span> -^[**ATTRIBUTIVE - "Attributive Always After, Article Agrees"**  While a Predicative adjective can occur after the noun, this example can't be Predicative because the adjective has the article - "Predicate dePrived of Article..."]
@@ -5328,6 +7081,31 @@ As a brief review, determine whether the adjective is acting as Attributive, Pre
 
 ## The Mappiq 
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.7.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * The Mappiq is a mark that you will see when reading the text
 * The Mappiq looks exactly like a Daghesh (Lene or Forte), but it ONLY is found in the letter <span class="he">ה</span> and ONLY when it is the last letter of a word
     * Gutturals never take either Daghesh
@@ -5338,6 +7116,32 @@ As a brief review, determine whether the adjective is acting as Attributive, Pre
 
 
 ## The Directional Ending 
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.8.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * We've studied the fact that the <span class="he">ה ָ</span>  is the Feminine Singular ending
 * We now need to refine this definition slightly: it is USUALLY the Feminine Singular ending
@@ -5377,6 +7181,32 @@ As a brief review, determine whether the adjective is acting as Attributive, Pre
 
 
 ## Ruth Pursuit {-}        
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.rutn.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Curiously, there are a lack of adjectives in Ruth 1.  There are _participles_, which are verbal adjectives, we will study in Lesson 22.  
 
@@ -5428,6 +7258,32 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 
 # Hebrew Pronouns
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.intro.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 > To comprehend Biblical Hebrew, we must be able to identify pronouns with gender, number, and person 
 
 Pronouns are a form of shorthand so we don't have to keep repeating nouns (because saying all of those nouns over and over can really wear you down<small>^[If you grew up in the late 70s and early 80s, you might be familiar with the [Schoolhouse Rock Pronoun video](https://www.youtube.com/watch?v=cZaMXYAu9h0){target="_blank"}</small>]</small>).
@@ -5465,6 +7321,32 @@ Before continuing, can you describe the following concepts?
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.is3021.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 ### <span class="he">זֶה הַדֶּרֶךְ לְכוּ בוֹ</span> {-}
 
 _This is the way, walk in it  (Isaiah 30:21)_
@@ -5472,15 +7354,6 @@ _This is the way, walk in it  (Isaiah 30:21)_
 Pray that you continually walk in His way, not your own way
 
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/08.is3021.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 The first word in the passage above is an example of a "demonstrative pronoun". The first two words are translated, "this is the way".  Contrast "this is the way" with the phrase "this way."  "This way" would be written <span class="he">הַדֶּרֶךְ הַזֶּה</span>.  "This way" is an example of a "demonstrative adjective."  
 
@@ -5505,6 +7378,32 @@ Start: 10:38
 End: 15:12
 
 ## Independent Personal Pronoun Table
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.2.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 P/G | S | P
 :-: | :-: | :-:
@@ -5532,6 +7431,32 @@ PRONOUN TIPS
 
 ## Independent Personal Pronouns Discussion
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.3.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * Independent personal pronouns are _always_ subjects, meaning they are equivalent to I, you, she, he, it, and they in English (NOT me, my, her, him, his)
 * This is the first time we are officially using all three elements of Person, Gender, and Number
     * 3MS is shorthand for Person = 3rd Person, Gender = Masculine, Number=Singular
@@ -5542,6 +7467,32 @@ PRONOUN TIPS
 * Do not confuse <span class="he">אַתָּה</span> (you 2MS) with <span class="he">עַתָּה</span> (now)
     
 ## Relative Pronoun אֲשֶׁר
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * Hebrew has one general-purpose relative pronoun
 * <span class="he">אֲשֶׁר</span> is a vocabulary word for this lesson
@@ -5554,6 +7505,31 @@ PRONOUN TIPS
 
 ## Interrogative Pronouns
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.5.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * <span class="he">מִי</span> = who
 * <span class="he">מָה</span> = wha
     * Can also be written as Maqqef - note the vowel shortens <span class="he">מַה־</span>
@@ -5584,6 +7560,32 @@ End: 30:35
 
 ## Interrogative Particle הֲ
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.7.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 * English has a question mark at the end of a sentence
 * Hebrew has what is called an interrogative particle at the BEGINNING of a sentence
 * The interrogative particle ONLY asks a yes/no question
@@ -5592,6 +7594,31 @@ End: 30:35
 
 ## Interrogative Particle vs. Definite Article 
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.8.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * Despite the similarity, we will not usually have trouble differentiating the Article from the Interrogative Particle
 * Below are potential sources of ambiguity:
     * 1st word of a clause before <span class="he">חָ֫,חָ, הָ, עָ</span>   = both are <span class="he">הֶ</span>
@@ -5618,6 +7645,31 @@ yY3O8ByYNwI?start=1160&end=1232
 
 ## Near and Far Demonstratives
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.10.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * Demonstratives indicate distance
 * Hebrew has three words to indicate nearness; grammarians call these "near demonstratives"
     * MS - <span class="he">זֶה</span> - "this"
@@ -5638,6 +7690,31 @@ POTENTIAL AMBIGUITY
 
 ## Demonstrative Pronoun
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.11.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * Demonstratives act as adjectives or as pronouns
 * As we saw in the example <span class="he">הוּא הָאִישׁ</span>, a demonstrative pronoun takes the place of a noun as the subject of a clause<small>^[<small>When <span class="he">הוּא הָאִישׁ</span> means "he is the man", the personal pronoun "he" is the subject</small>]</small>
 * The behavior of the demonstrative pronoun is a lot like the Predicative Adjective use: 
@@ -5657,6 +7734,31 @@ Demonstrative Pronoun Perpetually Precedes, Perpetually dePrived of article
 
 ## Demonstrative Adjective 
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.12.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * A demonstrative adjective modifies a noun just as an attributive adjective does
 * The behavior is a lot like the Attributive Adjective use: 
     * Always comes after the noun (Dem Adjective Always After)
@@ -5676,6 +7778,31 @@ Demonstrative Adjective Always After the noun, Always has Article, Always Agrees
 
 ## Lesson 8 Conclusion {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.conclusion.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * Your mission is to focus on building your pronoun vocabulary!
     * You may notice more `Anki` words than usual to learn, but most of these are short
     * After you finish the stack in `Anki,` we have two pronoun worksheets for you to test your memory
@@ -5718,6 +7845,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 ## Worksheets: Pronouns {-}
 
+
 We have two worksheets for this lesson. Make sure you do the Anki work first before tackling these worksheets.
 
 While our focus is on reading Hebrew, pronouns are so prevalent that it's highly beneficial to commit them to memory.  Review the column on the right, then cover it up and try to complete the remaining columns by memory (right to left).
@@ -5728,6 +7856,31 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.ruth.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 ::: {.box .map} 
 YOUR QUEST
 
@@ -7275,7 +9428,7 @@ function setPlaySpeed25() {
 
 You have worked very hard on the first ten lessons!  Way to go!  The authors of <u>Basics of Biblical Hebrew</u>, wisely in our opinion, strategically placed a necessary but lighter discussion on numerals right here in Lesson 11.  We are emerging from what may be a lot of foggy concepts with all of the noun, pronoun, and adjective concepts in lessons 4-10 (particularly Lessons 8-10).  The bulk of the work in Lesson 11 will be in `Anki` learning numbers from _Hebrew Quest_.
 
-For the next 25 lessons, we will focus on the Hebrew verbal system and -- the entire point of this course -- reading and understanding Scripture.
+For the next 25 lessons, we will focus on the Hebrew verbal system and -- the entire point of this course -- reading and understanding Scripture, especially with the _Hebrew Quest_ study passages.
 
 Enjoy this brief lesson on numbers!
 
@@ -7302,9 +9455,42 @@ Before continuing, can you describe the following concepts?
 ## First Thought {-}
 
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/11.jos0402.mp3">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
-
-### קְחוּ לָכֶם מִן־הָעָם שְׁנֵים עָשָׂר אֲנָשִׁים {-}
+### <span class="he"> קְחוּ לָכֶם מִן־הָעָם שְׁנֵים עָשָׂר אֲנָשִׁים</span> {-}
 
 _Take for yourselves twelve men from the people (Joshua 4:2)_
 
@@ -7742,13 +9928,58 @@ If you have completed **all activities** in Lessons 1-11, you may claim the seco
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
 
-[Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_block"}
+[Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
 
 <!--chapter:end:11-Numerals.Rmd-->
 
 # (PART) Qal Stem {-}
 
 # Introduction to Unit 3 {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/03b.unit2intro.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * Unit 3 represents a pivot point in this course
 * From now through the end of the course, we will focus on verbs

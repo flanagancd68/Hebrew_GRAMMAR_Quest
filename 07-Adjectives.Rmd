@@ -1,5 +1,31 @@
 # Hebrew Adjectives {#adjectives}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.intro.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 > To comprehend Biblical Hebrew, we must be able to identify and translate an adjective based on its usage, as well as its gender and number
 
 
@@ -27,6 +53,32 @@ Before continuing, can you describe the following concepts?
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.ecc0311.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 ### <span class="he">אֶת־הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ</span> {-}
 
 _He has made everything appropriate (beautiful) in its time.  (Ecclesiastes 3:11)_
@@ -35,17 +87,6 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <span class="he">יָפֶה</span> is an example of predicate adjective use, which we will study in this lesson.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/07.ecc0311.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-*****
 
 ```{r, out.width = "600pt", fig.align='center', fig.cap="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
@@ -71,6 +112,33 @@ Start: 44:30
 End: 49:38
 
 ## Inflecting Adjectives
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.2.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 Adjective inflection is relatively straight-forward.
 
@@ -110,6 +178,31 @@ The good news is you already know what to do. Adjectives follow the same rules a
 
 ## Substantival Use
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.3.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * In the Substantival use, the adjective acts as a noun
     * We could say the "Substantive Substitutes" for a noun
     * Perhaps an obvious example of this from pop culture is the film "The Good, The Bad, and The Ugly"  
@@ -131,6 +224,31 @@ SUBSTANTIVAL USE IS RELATIVELY EASY TO IDENTIFY
 
 ## Attributive Use
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * In the Attributive use, the adjective modifies and describes a noun
     * "Good" in "The good book" is Attributive 
 * Hebrew makes it much easier to identify the Attributive use - see the mnemonic below
@@ -149,6 +267,31 @@ ATTRIBUTIVE MNEMONIC
 
 ## Predicative Use
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * The Predicative use (often called the predicate use) asserts something about the noun
 * In English translation, we must insert the applicable form of the verb "to be"
 * The noun is the subject, and the adjective is the predicate of the sentence: "The book is good."
@@ -171,6 +314,32 @@ PREDICATIVE MNEMONIC
 
 ## Adjective Use Comparison
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.6.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 As a brief review, determine whether the adjective is acting as Attributive, Predicative, or Substantival.  The answers and explanations are in the footnotes.
 
 * <span class="he">הָאִשָּׁה הָטּוֹבָה</span> -^[**ATTRIBUTIVE - "Attributive Always After, Article Agrees"**  While a Predicative adjective can occur after the noun, this example can't be Predicative because the adjective has the article - "Predicate dePrived of Article..."]
@@ -182,6 +351,31 @@ As a brief review, determine whether the adjective is acting as Attributive, Pre
 
 ## The Mappiq 
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.7.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 * The Mappiq is a mark that you will see when reading the text
 * The Mappiq looks exactly like a Daghesh (Lene or Forte), but it ONLY is found in the letter <span class="he">ה</span> and ONLY when it is the last letter of a word
     * Gutturals never take either Daghesh
@@ -192,6 +386,32 @@ As a brief review, determine whether the adjective is acting as Attributive, Pre
 
 
 ## The Directional Ending 
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.8.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * We've studied the fact that the <span class="he">ה ָ</span>  is the Feminine Singular ending
 * We now need to refine this definition slightly: it is USUALLY the Feminine Singular ending
@@ -231,6 +451,32 @@ As a brief review, determine whether the adjective is acting as Attributive, Pre
 
 
 ## Ruth Pursuit {-}        
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.rutn.mp3">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 Curiously, there are a lack of adjectives in Ruth 1.  There are _participles_, which are verbal adjectives, we will study in Lesson 22.  
 
