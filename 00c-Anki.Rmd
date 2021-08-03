@@ -104,7 +104,7 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
 7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY)
-8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync
+8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
 10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction | [YouTube: Step 10](https://youtu.be/rfKKzKX-CNg){target="_blank"}
 11. Read the `Introduction` sections: `About This Course`, `Anki and Course Setup`, and `Get Help`. |
@@ -114,7 +114,7 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 ## Customize Anki Settings {- #anki_settings}
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
+<figure> Note: this is the audio from the step 7 video on the previous page: <audio id="myAudio" controls controlsList="nodownload" 
 src="./images/00.ankisettings.mp3"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
@@ -310,21 +310,20 @@ function x25() {
 </script></figure>
 :::
 
-::: {.box .info}
 
 * We do have [help](#feedback_forms) forms to assist you with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`. 
-  * Use the ["Report an Issue" form](#report_issue) to report an error with the Hebrew GRAMMAR Quest Anki decks
+  * Use the ["Report an Issue" form](#report_issue) to report an error (e.g. a typo) with the Hebrew GRAMMAR Quest Anki decks
   * Use the ["Get Help" form](#get_help) to ask a question related to the Hebrew GRAMMAR Quest Anki decks
 * Unfortunately, it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  
 * The good news is that there is a LARGE Anki user community across the globe
     * We encourage you to check out the numerous articles and tutorial videos posted by the Anki community
     * Generally, if you type your question or issue in a web search, you will find exactly the answer you are seeking
 * The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
-:::
+
 
 Let's now turn our attention to other non-Anki aspects of the course.
 
-## Navigating this book {- #navigating}
+## Navigating the Hebrew GRAMMAR Quest guidebook {- #navigating}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -377,33 +376,6 @@ There are several ways to navigate from page to page within this guidebook:
 ### Information Boxes {-}
 
 As you work though the Hebrew GRAMMAR Quest guidebook, you will notice several different information boxes uses to call out various topics.
-
-::: {.infobox .sound}
-
-<figure> <audio id="myAudio2" controls controlsList="nodownload" 
-src="./images/00.infoboxes.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio2");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
 
 ::: {.infobox .map}
 QUEST BOX
@@ -488,10 +460,21 @@ function x25() {
 
 In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
 
+::: {.box .caution}
+A general comment about the guidebook
+
+* At times, you may feel like information is being shot at you from a firehose and nothing is sinking in
+* Often, this is just how it is when learning a new language
+* You may be absorbing more than you think you are
+* This is why we emphasize reinforcement of these concepts through activities
+    * Notice the root word "active" in activities
+* You will get introduced to the material via the Lesson Points, but don't expect to learn everything on the first pass (or from simply reading alone) 
+* You will LEARN the material through the activities
+::: 
 
 **Title**|**Description**|**Estimated Minutes**
 :-----|:----- | :---
-  READING| A general comment about the guidebook: at times, you may feel like information is being shot at you from a firehose.  Often, this is just how it is when learning a new language. The fact is that you may be absorbing more than you think you are.  This is why we emphasize reinforcement of these concepts through activities.  Notice the root word "active" in activities.  You will get introduced to the material via the Lesson Points, but you will LEARN the material through the activities.  
+  READING | 
 Lesson Itinerary | Introduction and the lesson's learning objectives | <1
 Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
 First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
