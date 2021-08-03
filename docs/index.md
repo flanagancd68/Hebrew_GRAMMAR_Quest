@@ -153,7 +153,7 @@ Additionally, with either option, our Holy Language students would incur additio
 
 See the next section to learn how Hebrew GRAMMAR Quest is distinct.
 
-## How is Hebrew GRAMMER Quest distinct? {- #our_course}
+## How is Hebrew GRAMMAR Quest distinct? {- #our_course}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
@@ -295,6 +295,7 @@ To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one an
 Let's get started!
 :::
 
+The next section on Anki and course setup will get your Hebrew GRAMMAR Quest outfitted properly.
 
 <!--chapter:end:00b-introduction.Rmd-->
 
@@ -387,7 +388,7 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 :::
 
 
-| Step | Comments | Link to Video
+| Step | Comments | Link to How-to Video
 | :-- | :-- | :--
 |1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course. Creating a Google account is free. | [YouTube: Step 1](https://youtu.be/MvDQTpuFKgI){target="_blank"}
 |2. Copy the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} to your personal Google Drive Folder | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`! | [YouTube: Step 2](https://youtu.be/Aby8Th13hHU){target="_blank"}
@@ -395,7 +396,7 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](https://youtu.be/lBKbLFw3Ouo){target="_blank"}
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | On the website, click the `Download` button, then select the tab with your operating system^[The version numbers will change with the passage of time.  Unless instructed otherwise, download the curent version of the Anki desktop program on their website].  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}
 6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone.  . After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
-| | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit1_V00.apkg){target="_blank"} | Note: You can download and install all decks now or, you may wish to start with just `Unit 1`.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction.
+|Note: You can download and install all decks now or, you may wish to start with just `Unit 1`.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit1_V00.apkg){target="_blank"} | 
 | | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
@@ -677,10 +678,10 @@ As you work though the Hebrew GRAMMAR Quest guidebook, you will notice several d
 
 ::: {.infobox .sound}
 
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
+<figure> <audio id="myAudio2" controls controlsList="nodownload" 
 src="./images/00.infoboxes.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
+var x = document.getElementById("myAudio2");
 function x05() { 
     x.playbackRate = 0.5;
     x.play();}

@@ -51,7 +51,7 @@ Additionally, with either option, our Holy Language students would incur additio
 
 See the next section to learn how Hebrew GRAMMAR Quest is distinct.
 
-## How is Hebrew GRAMMER Quest distinct? {- #our_course}
+## How is Hebrew GRAMMAR Quest distinct? {- #our_course}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
@@ -196,3 +196,4 @@ To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one an
 Let's get started!
 :::
 
+The next section on Anki and course setup will get your Hebrew GRAMMAR Quest outfitted properly.
