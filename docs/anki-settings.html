@@ -80,20 +80,26 @@
 <li><a href="hgq-and-hq.html#hgq_and_hq">What is the Relationship to <em>Hebrew Quest</em>?</a></li>
 <li><a href="finish-hq.html#finish_hq">Is completion of <em>Hebrew Quest</em> is a prerequisite?</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="anki-introduction.html"><a href="anki-introduction.html"><i class="fa fa-check"></i>Anki Introduction</a><ul>
+<li class="chapter" data-level="" data-path="anki-and-course-setup.html"><a href="anki-and-course-setup.html"><i class="fa fa-check"></i>Anki and Course Setup</a><ul>
 <li class="chapter" data-level="" data-path="how-do-i-get-started-with-ankihebrew-grammar-quest.html"><a href="how-do-i-get-started-with-ankihebrew-grammar-quest.html"><i class="fa fa-check"></i>How do I get started with Anki/Hebrew Grammar Quest?</a></li>
-<li class="chapter" data-level="" data-path="anki-settings.html"><a href="anki-settings.html"><i class="fa fa-check"></i>Customize Anki Settings</a></li>
+<li class="chapter" data-level="" data-path="anki-settings.html"><a href="anki-settings.html"><i class="fa fa-check"></i>Customize Anki Settings</a><ul>
+<li class="chapter" data-level="" data-path="anki-settings.html"><a href="anki-settings.html#daily-limits-and-new-cards"><i class="fa fa-check"></i>Daily limits and New Cards</a></li>
+<li class="chapter" data-level="" data-path="anki-settings.html"><a href="anki-settings.html#lapses-and-timer"><i class="fa fa-check"></i>Lapses and Timer</a></li>
+<li class="chapter" data-level="" data-path="anki-settings.html"><a href="anki-settings.html#burying-and-audio"><i class="fa fa-check"></i>Burying and Audio</a></li>
+<li class="chapter" data-level="" data-path="anki-settings.html"><a href="anki-settings.html#advanced"><i class="fa fa-check"></i>Advanced</a></li>
+</ul></li>
 <li class="chapter" data-level="" data-path="how-do-i-navigate-within-anki.html"><a href="how-do-i-navigate-within-anki.html"><i class="fa fa-check"></i>How do I navigate within Anki?</a></li>
 <li><a href="how-do-i-know-when-to-hit-the-good-button-on-an-anki-card.html#how-do-i-know-when-to-hit-the-good-button-on-an-anki-card">How do I know when to hit the <code>Good</code> button on an Anki card?</a></li>
 <li class="chapter" data-level="" data-path="how-do-i-get-help-with-anki.html"><a href="how-do-i-get-help-with-anki.html"><i class="fa fa-check"></i>How do I get help with Anki?</a></li>
+<li class="chapter" data-level="" data-path="navigating.html"><a href="navigating.html"><i class="fa fa-check"></i>Navigating this book</a><ul>
+<li class="chapter" data-level="" data-path="navigating.html"><a href="navigating.html#information-boxes"><i class="fa fa-check"></i>Information Boxes</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="getting-started-getting-help.html"><a href="getting-started-getting-help.html"><i class="fa fa-check"></i>Getting Started / Getting Help</a><ul>
-<li class="chapter" data-level="" data-path="navigating.html"><a href="navigating.html"><i class="fa fa-check"></i>Navigating this book</a></li>
 <li class="chapter" data-level="" data-path="typical-lesson.html"><a href="typical-lesson.html"><i class="fa fa-check"></i>A Typical Lesson</a></li>
-<li class="chapter" data-level="" data-path="information-boxes.html"><a href="information-boxes.html"><i class="fa fa-check"></i>Information Boxes</a></li>
 <li class="chapter" data-level="" data-path="optional-resources.html"><a href="optional-resources.html"><i class="fa fa-check"></i>Course Resources</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="feedback-forms.html"><a href="feedback-forms.html"><i class="fa fa-check"></i>Get Help</a><ul>
+<li class="chapter" data-level="" data-path="get-help.html"><a href="get-help.html"><i class="fa fa-check"></i>Get Help/Ask a question</a></li>
 <li class="chapter" data-level="" data-path="report-issue.html"><a href="report-issue.html"><i class="fa fa-check"></i>Report an Issue</a></li>
-<li class="chapter" data-level="" data-path="get-help.html"><a href="get-help.html"><i class="fa fa-check"></i>Ask a question</a></li>
 </ul></li>
 <li class="part"><span><b>I Hebrew Grammar Foundations</b></span></li>
 <li class="chapter" data-level="1" data-path="1-alephbet.html"><a href="1-alephbet.html"><i class="fa fa-check"></i><b>1</b> The Hebrew Aleph-bet</a><ul>
@@ -924,121 +930,114 @@
             <section class="normal" id="section-">
 <div id="anki_settings" class="section level2 unnumbered">
 <h2>Customize Anki Settings</h2>
-<div class="box info">
-<p>These settings will optimize your Anki experience</p>
+<div class="infobox sound">
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/00.ankisettings.mp3">
+Your browser does not support the <code>audio</code> element.
+</audio>
+<button onclick="x25()" type="button">
+2.5x
+</button>
+<button onclick="x2()" type="button">
+2x
+</button>
+<button onclick="x15()" type="button">
+1.5x
+</button>
+<button onclick="x1()" type="button">
+1x
+</button>
+<button onclick="x075()" type="button">
+.75x
+</button>
+<button onclick="x05()" type="button">
+.5x
+</button>
+<script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script>
+</figure>
 </div>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Step</th>
-<th align="left">Comments</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">1. Change <code>USER1</code> Name</td>
-<td align="left">1. In Anki, click <code>File</code>, then <code>Switch Profile</code></td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">2. Select <code>User 1</code>, then <code>Rename</code> and type your name</td>
-</tr>
-<tr class="odd">
-<td align="left">2. Change global settings</td>
-<td align="left">1. Click <code>Tools,</code> then <code>Preferences.</code></td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">2. On the <code>Scheduling</code> tab, check the box that says <code>Anki 2.1 Scheduler</code>.</td>
-</tr>
-<tr class="odd">
-<td align="left">Change card learning options</td>
-<td align="left">1. On the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select <code>Options</code> (<a href="./images/a.anki_settings.png" target="_blank">click to see example</a>)</td>
-</tr>
-<tr class="even">
-<td align="left"><code>New Cards</code><a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a></td>
-<td align="left"><code>Steps</code> = 10 1440 4320</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left"><code>New cards/day</code> = 200</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left"><code>Graduating interval</code> = 15</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left"><code>Easy interval</code> = 60</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left"><code>Starting ease</code> = 250%</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left"><code>Bury related new cards...</code> = we recommend CHECKED, but this is not mandatory<a href="#fn8" class="footnote-ref" id="fnref8"><sup>8</sup></a></td>
-</tr>
-<tr class="even">
-<td align="left"><code>Reviews</code></td>
-<td align="left"><code>Maximum reviews/day</code> = 9999</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left"><code>Easy bonus</code> = 130%</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left"><code>Interval modifier</code> = 100</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left"><code>Maximum interval</code> = 210</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left"><code>Bury related reviews...</code> = we recommend CHECKED, but this is not mandatory</td>
-</tr>
-<tr class="odd">
-<td align="left"><code>Lapses</code></td>
-<td align="left"><code>Steps</code> = 10</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left"><code>New interval</code> = 60</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left"><code>Maximum interval</code> = 1</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left"><code>Leech threshold</code> = 8</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left"><code>Leech action</code> = TAG ONLY</td>
-</tr>
-</tbody>
-</table>
-After changing, your settings should look like this:
+<div class="box info">
+<p>These settings will optimize your Anki experience.</p>
+<p>The Windows platform is shown, but Mac/Linux/mobile settings are very similar.</p>
+</div>
+<ol style="list-style-type: decimal">
+<li>Change <code>USER1</code> Name to your name
+<ol style="list-style-type: decimal">
+<li>In Anki, click <code>File</code>, then <code>Switch Profile</code><br />
+</li>
+<li>Select <code>User 1</code>, then <code>Rename</code> and type your name</li>
+</ol></li>
+<li>To change learning settings, click <code>Tools,</code> then <code>Preferences.</code> Make sure your settings match the images below:</li>
+</ol>
+<div id="daily-limits-and-new-cards" class="section level3 unnumbered">
+<h3>Daily limits and New Cards</h3>
 <div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-4"></span>
-<img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
+<img src="images/00.ankisettings01.png" alt="Settings" width="700pt" />
 <p class="caption">
 Figure 0.1: Settings
 </p>
 </div>
 </div>
-<div class="footnotes">
-<hr />
-<ol start="7">
-<li id="fn7"><p> See <a href="https://docs.ankiweb.net/#/deck-options?id=new-cards" class="uri">https://docs.ankiweb.net/#/deck-options?id=new-cards</a> for additional information and the definitions of these terms, <code>New</code>, <code>Review</code>, and <code>Lapsed</code><a href="anki-settings.html#fnref7" class="footnote-back">↩︎</a></p></li>
-<li id="fn8"><p>Checking this means that cards with two or more questions won’t be presented on the same day. The risk of leaving it unchecked is that you may get Question #2 correct not because you know the answer, but because you just saw the answer when you reviewed Question #1. Checking the box means you will not see Question #2 on the same day as Question #1. Thus, checking the box will increase the length of time required to move cards from <code>Young</code> to <code>Mature</code>, but is the stronger option for learning.<a href="anki-settings.html#fnref8" class="footnote-back">↩︎</a></p></li>
-</ol>
+<div id="lapses-and-timer" class="section level3 unnumbered">
+<h3>Lapses and Timer</h3>
+<code>Show answer timer</code> is optional.
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-5"></span>
+<img src="images/00.ankisettings02.png" alt="Settings" width="700pt" />
+<p class="caption">
+Figure 0.2: Settings
+</p>
+</div>
+</div>
+<div id="burying-and-audio" class="section level3 unnumbered">
+<h3>Burying and Audio</h3>
+These are optional. Cards that have multiple answers are called <code>siblings</code>. Turning the sibling settings on is more challenging; leaving these off is less challenging.<br />
+
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-6"></span>
+<img src="images/00.ankisettings03.png" alt="Settings" width="700pt" />
+<p class="caption">
+Figure 0.3: Settings
+</p>
+</div>
+</div>
+<div id="advanced" class="section level3 unnumbered">
+<h3>Advanced</h3>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-7"></span>
+<img src="images/00.ankisettings04.png" alt="Settings" width="700pt" />
+<p class="caption">
+Figure 0.4: Settings
+</p>
+</div>
+<div class="box info">
+<ul>
+<li>Anki has a number of <code>Add-ons</code> for the desktop platforms you might find interesting.</li>
+<li>You might check out <a href="https://ankiweb.net/shared/info/1136455830">Advanced Review Bottom Bar</a>
+<ul>
+<li>Or <code>Tools</code> / <code>Addons</code> / <code>Get Add-ons</code> / then enter <code>1136455830</code></li>
+<li>You can tweak the add-on settings in the <code>ARBb</code> menu - try <code>Button style</code> = <code>Wide + Background Color</code></li>
+</ul></li>
+</ul>
+</div>
+</div>
 </div>
             </section>
 
