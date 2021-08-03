@@ -91,6 +91,11 @@ function x25() {
 </script></figure>
 :::
 
+::: {.box .light}
+* Listen to the verse in Hebrew
+* Practice speaking until you can pronounce just like Izzy
+:::
+
 
 ###  <span class="he">הֵמָּה רָאוּ מַעֲשֵׂי יְהוָה</span> {-}
 
@@ -325,6 +330,12 @@ function x25() {
 </script></figure>
 :::
 
+* As Izzy mentioned in the _Hebrew Quest_ vowels segment, Hebrew has five consonants that can stand in for vowels
+  * <span class="he">א, ע, ה, ו, י</span>
+* א and ע simply take whichever applicable nikkud mark and are pronounced according to the vowel's sound
+* ה, ו, י are slightly different, in that the consonant plus the vowel combines to form a single vowel unit
+  * Note these vowels in the table below:
+  
 ```{r, out.width = "600pt", fig.align='center'}
 
 knitr::include_graphics("images/02.vowels_letters.png")

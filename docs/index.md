@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-08-01"
+#date: "2021-08-02"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-08-01</small>
+<small>*Updated*: 2021-08-02</small>
 
 <small>
 
@@ -194,7 +194,7 @@ Our Holy Language goals for a Hebrew grammar course are the following:
 * FREE of charge for our students
 * Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
 
-We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  The result in Hebrew GRAMMAR Quest!
+We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
 
 ### Holy Language Learning Philosophy {-}
 
@@ -297,6 +297,223 @@ Let's get started!
 
 
 <!--chapter:end:00b-introduction.Rmd-->
+
+# Anki Introduction{-}
+
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.anki_intro.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
+::: {.box .light}
+* The Hebrew GRAMMAR Quest Guidebook is where you will get introduced to the material
+* Anki is where you will LEARN the material
+* This section will get you up and running with Anki
+:::
+
+<img src="images/weight.png" width="150pt" style="display: block; margin: auto;" /><img src="images/treadmill.png" width="150pt" style="display: block; margin: auto;" />
+
+
+If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free^[All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.] flashcard application that helps you build both Hebrew strength and Hebrew endurance!
+
+::: {.box .info}
+As you work through this course, set aside time to review Anki on a DAILY basis
+:::
+
+The sections that will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Unit 1 Anki deck with additional how-to information.
+
+
+## How do I get started with Anki/Hebrew Grammar Quest? {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.getstarted.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+::: {.box .caution}
+Failure to follow the steps below could lead to Anki frustration!^[The first two steps aren't directly related to Anki, but since you'll need them for the course, we'll include them here.]
+:::
+
+
+| Step | Comments | Link to Video
+| :-- | :-- | :--
+|1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course. Creating a Google account is free. | [YouTube: Step 1](./images/00.googlesignup.png){target="_blank"}
+|2. Download the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} to your personal Google Drive Folder | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`! | [YouTube: Step 2](./images/00.HGQChecklist.png){target="_blank"}
+3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards. After downloading, extract the zip file to a location of your choice. Then double-click on `SILEOT.ttf`, which should give you the option to install the font. | [YouTube: Step 3](./images/00.ezrasilfolder.png){target="_blank"}
+4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](./images/00.ankisignup.png){target="_blank"}
+5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | Click the `Download` button, then select the tab with your operating system^[The version numbers will change with the passage of time.  Unless instructed otherwise, download the curent version of the Anki desktop program on their website].  Despite the fact that you will see an `iPhone/Android` tab, you MUST install Anki from a desktop/laptop first | [YouTube: Step 5](./images/00.ankiinstall.png){target="_blank"}
+6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone.  Note: You can download all decks now or, you may wish to start with just `Unit 1`.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. After downloading, double-click to load into Anki - _you must do this from a desktop/laptop, not a mobile device_ | [YouTube: Step 6](https://youtu.be/)
+| [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit1_V00.apkg){target="_blank"} | 
+| [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} |
+| [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
+| [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
+7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/)
+8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Syncing creates a version of your deck in the cloud, which case be used to sync with a mobile device or merely as a backup | [YouTube: Step 8](https://youtu.be/)
+9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified
+10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
+ 
+::: {.box .stop}
+**Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
+:::
+
+## Customize Anki Settings {- #anki_settings}
+
+::: {.box .info}
+These settings will optimize your Anki experience
+:::
+
+| Step | Comments
+| :-- | :-- 
+1. Change `USER1` Name | 1. In Anki, click `File`, then `Switch Profile`  
+| |    2. Select `User 1`, then `Rename` and type your name
+2. Change global settings  |  1. Click `Tools,` then `Preferences.` 
+| | 2. On the `Scheduling` tab, check the box that says `Anki 2.1 Scheduler`.
+Change card learning options | 1. On the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select `Options` ([click to see example](./images/a.anki_settings.png){target="_blank"})
+|`New Cards`^[ See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information and the definitions of these terms, `New`, `Review`, and `Lapsed`] | `Steps` = 10 1440 4320
+| |`New cards/day` = 200
+| |`Graduating interval` = 15
+| | `Easy interval` = 60
+| |`Starting ease` = 250%
+| |`Bury related new cards...` = we recommend CHECKED, but this is not mandatory^[Checking this means that cards with two or more questions won't be presented on the same day.  The risk of leaving it unchecked is that you may get Question #2 correct not because you know the answer, but because you just saw the answer when you reviewed Question #1.  Checking the box means you will not see Question #2 on the same day as Question #1.  Thus, checking the box will increase the length of time required to move cards from `Young` to `Mature`, but is the stronger option for learning.]
+| `Reviews` | `Maximum reviews/day` = 9999
+| | `Easy bonus` = 130%
+| |`Interval modifier` = 100
+| | `Maximum interval` = 210
+| | `Bury related reviews...` = we recommend CHECKED, but this is not mandatory   
+| `Lapses` | `Steps` = 10
+| | `New interval` = 60
+| | `Maximum interval` = 1
+| | `Leech threshold` = 8
+| | `Leech action` = TAG ONLY
+
+After changing, your settings should look like this:
+<div class="figure" style="text-align: center">
+<img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
+<p class="caption">(\#fig:unnamed-chunk-4)Settings</p>
+</div>
+    
+## How do I navigate within Anki? {-}
+
+::: {.box .map}  
+* We have also created a brief tutorial within our Hebrew GRAMMAR Quest `Anki` deck for Unit 1.  
+* This is contained in the `0.Introduction` folder.  
+* Click on this deck for an introduction and helpful hints
+* When you are finished you may `Suspend` the cards (these are the only cards in the deck you should `suspend`!)
+
+:::
+
+* Click the +/- buttons to expand/collapse the folders within the Anki deck [(click to see example)](./images/00.ankifolders.png){target="_blank"}
+    * To start with Lesson 01 Vocabulary, click on the plus buttons within Unit 1, until you see `Lesson 01 Vocabulary` and click the `STUDY NOW` button
+    * In your initial learning, start with the `module` level, i.e. `Lesson 01 Vocabulary`
+    * Once you have learned all cards in all modules, REVIEW at the Lesson level, e.g. `Lesson 01`
+    * Once you have learned all cards in all Lessons in a unit, then REVIEW at the Unit level, e.g. `1. Lessons 1-3`
+* Many cards have "hints" - click on the `hint` button to reveal [(click to see example)](./images/a.anki_hint.gif){target="_blank"}
+    * If you needed a hint, be sure to select `Again` on the answer side
+* When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
+
+## How do I know when to hit the `Good` button on an Anki card? {-}
+
+We suggest using the following guidelines:
+
+* `Again`
+  * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
+  * Your answer was correct, but you required a hint
+* `Hard` - You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
+* `Good`
+  * All parts of the answer are correct; no hints
+  * For Bible Verses, mark `Good` when:
+    * you can read and understand the verse in Hebrew
+    * Your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse
+    * Your verb tense is correct (even though we won't study verbs until Unit 3)
+    * You do NOT need to have the passage and its meaning memorized to mark `Good`
+  * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
+* `Easy`
+  * We do not recommend selecting `Easy.` 
+  * An exception might be when you are confident that you already have the word, rule, or passage memorized
+
+
+::: {.box .info}
+Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
+:::
+
+## How do I get help with Anki? {-}
+
+::: {.box .info}
+
+* We do have a [help](#report_issue) for to assist you with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`. 
+* Unfortunately, it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  
+* The good news is that there is a LARGE Anki user community across the globe
+    * We encourage you to check out the numerous articles and tutorial videos posted by the Anki community
+    * Generally, if you type your question or issue in a web search, you will find exactly the answer you are seeking
+* The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
+:::
+
+<!-- deleted anki cards: -->
+<!-- Introduction: -->
+<!-- front: I want to test English to Hebrew. How can I set the deck to do this? -->
+<!-- back: Our primary goal with Hebrew Grammar Quest is to translate from Hebrew to English.   -->
+
+<!-- Most of our students studying Biblical Hebrew are not going to need to translate from English to Hebrew, although that is certainly a worthy pursuit.   -->
+
+
+<!-- If you would like to add a reverse direction to your vocabularly words (Prompt with English - Answer with Hebrew) this is can be done in Anki. We have added "Note Types" to accomodate this. -->
+
+<!-- Click "Browse" -->
+<!-- From the Left Navigation, scroll down to "Vocab Basic Hebrew" -->
+<!-- Select the card(s) you wish to change and add the additional options (To change ALL cards click CTRL+A to select all cards) -->
+<!-- Click CTRL+SHIFT+M to change the note type to one of the following: -->
+<!-- If you want to be tested on both Hebrew-to-English and reverse, English-to-Hebrew, select note type "Vocab Basic Hebrew/English" -->
+<!-- If you have added images and want to be tested on Hebrew-to-English, English-to-Hebrew, and Image-to-Hebrew, select note type "Vocab Basic Hebrew/English/Image" -->
+<!-- If you have added images and only want to be tested on Hebrew-to-English and Image-to-Hebrew, select note type "Vocab Basic Hebrew/Image" -->
+<!-- Just be aware that changing to one of these optional note types, will literally double (or triple if you chose Hebrew/English/Image) the number of vocabularly cards.  If you decide you want to go back to just Hebrew-to-English, repeat steps 1-4 and select Note Type "Vocab Basic Hebrew." -->
+
+<!-- Type ! (exclamation point) to dismiss this card. -->
+
+<!--chapter:end:00c-Anki.Rmd-->
 
 # Getting Started / Getting Help {-}
 
@@ -427,7 +644,6 @@ Lastly, you might be encouraged by this article on [conquering the Fog](./images
 As you work though the Hebrew GRAMMAR Quest guidebook, you will notice several different information boxes uses to call out various topics.
 
 ::: {.infobox .sound}
-AUDIO BOX
 
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
 src="./images/00.infoboxes.m4a"> 
@@ -500,201 +716,7 @@ Either the section narration, read by Chris Flanagan, or the "First Thought" Heb
 
 We also have footnotes^[Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.]
 
-## QUICK START INSTRUCTIONS {.unnumbered #get_started}
 
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.getstarted.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-These easy steps will get you up and running with the course.  Please do these from a desktop computer for best results.
-
-<!-- update the final anki deck version - current link is PREVIEW -->
-
-| Step | Comments
-| :-- | :-- 
-|1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course. Creating a Google account is free.
-|2. Download the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`!
-3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards. After downloading, extract the zip file to a location of your choice.  Then double-click on `SILEOT.ttf`, which should give you the option to install the font.
-4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices
-5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | You MUST install Anki from a desktop/laptop first
-6. [Download the Hebrew GRAMMAR Quest Anki Deck](./images/Hebrew Grammar Quest 1_0.apkg){target="_blank"} | This deck is the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone
-7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness
-8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Syncing creates a version of your deck in the cloud, which case be used to sync with a mobile device or merely as a backup
-9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified
-10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction
-11. Finally, read the `Getting Started/Getting Help` and `About This Course` introductions | You have already started this! These sections contain essential background information to help assure you are oriented to Hebrew GRAMMAR Quest.  If you are not familiar with `Anki`, the `Help with Anki` section (on the next page) is critically important to read.
-    
-> **Anki NOTE**: Eventually, you can do all work from a mobile device.  _For the initial Anki install, you do need to do these steps from a desktop or laptop_.  The Hebrew GRAMMAR Quest Anki deck can only be imported into the desktop Anki application. 
-
-## Help with Anki {- #anki_help}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-<img src="images/weight.png" width="150pt" style="display: block; margin: auto;" /><img src="images/treadmill.png" width="150pt" style="display: block; margin: auto;" />
-
-
-If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free^[All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.] flashcard application that helps you build both Hebrew strength and Hebrew endurance!
-
-::: {.box .info}
-As you work through this course, set aside time to review Anki on a DAILY basis
-:::
-
-The sections below will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Anki deck with additional how-to information.
-
-
-### Customize Anki Settings {- #anki_settings}
-
-1. Change `USER1` Name 
-    1. In Anki, click `File`, then `Switch Profile`  
-    2. Select `User 1`, then `Rename` and type your name
-1. Change global settings
-    1. Click `Tools,` then `Preferences.` On the `Scheduling` tab, check the box that says `Anki 2.1 Scheduler`.
-1. On the main page, click the gear wheel to the right of “Hebrew Grammar Quest” and select `Options` ([click to see example](./images/a.anki_settings.png){target="_blank"})
-    1. `New Cards`^[ See https://docs.ankiweb.net/#/deck-options?id=new-cards for additional information and the definitions of these terms, `New`, `Review`, and `Lapsed`]
-        * `Steps` = 10 1440 4320
-        * `New cards/day` = 200
-        * `Graduating interval` = 15
-        * `Easy interval` = 60
-        * `Starting ease` = 250%
-        * `Bury related new cards...` = we recommend CHECKED, but this is not mandatory^[Checking this means that cards with two or more questions won't be presented on the same day.  The risk of leaving it unchecked is that you may get Question #2 correct not because you know the answer, but because you just saw the answer when you reviewed Question #1.  Checking the box means you will not see Question #2 on the same day as Question #1.  Thus, checking the box will increase the length of time required to move cards from `Young` to `Mature`, but is the stronger option for learning.]
-    2. `Reviews`
-        * `Maximum reviews/day` = 9999
-        * `Easy bonus` = 130%
-        * `Interval modifier` = 100
-        * `Maximum interval` = 210
-        * `Bury related reviews...` = we recommend CHECKED, but this is not mandatory   
-    3. `Lapses`
-        * `Steps` = 10
-        * `New interval` = 60
-        * `Maximum interval` = 1
-        * `Leech threshold` = 8
-        * `Leech action` = TAG ONLY
-
-Your settings should look like this:
-<div class="figure" style="text-align: center">
-<img src="images/anki_custom_new.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
-</div>
-    
-### How do I navigate within Anki? {-}
-
-::: {.box .map}  
-* We have created a brief tutorial within our Hebrew GRAMMAR Quest `Anki` deck.  
-* This is contained in the `0.Introduction` folder.  
-* Click on this deck for an introduction and helpful hints
-* When you are finished you may `Suspend` the cards (these are the only cards in the deck you should `suspend`!)
-
-:::
-
-<!-- * Click the +/- buttons to expand/collapse the folders within the Anki deck [(click to see example)](./images/a.anki_hint.gif){target="_blank"} -->
-<!--   * To start with Lesson 01 Vocabulary, expand to reveal this deck, click on `Lesson 01 Vocabulary` and click the `STUDY NOW` button -->
-<!-- * Many cards have "hints" - click on the `hint` button to reveal [(click to see example)](./images/anki.png){target="_blank"} -->
-<!--     * If you needed a hint, be sure to select `Again` on the answer side -->
-<!-- * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button -->
-
-### How do I know when to hit the Good button on an Anki card? {-}
-
-We suggest using the following guidelines:
-
-* `Again`
-  * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
-  * Your answer was correct, but you required a hint
-* `Hard` - You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
-* `Good`
-  * All parts of the answer are correct; no hints
-  * For Bible Verses, mark `Good` when:
-    * you can read and understand the verse in Hebrew
-    * Your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse
-    * Your verb tense is correct (even though we won't study verbs until Unit 3)
-    * You do NOT need to have the passage and its meaning memorized to mark `Good`
-  * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
-* `Easy`
-  * We do not recommend selecting `Easy.` 
-  * An exception might be when you are confident that you already have the word, rule, or passage memorized
-
-
-::: {.box .info}
-Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
-:::
-
-### How do I get help with Anki? {-}
-
-::: {.box .info}
-
-* We do have a [help](#report_issue) for to assist you with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`. 
-* Unfortunately, it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  
-* The good news is that there is a LARGE Anki user community across the globe
-    * We encourage you to check out the numerous articles and tutorial videos posted by the Anki community
-    * Generally, if you type your question or issue in a web search, you will find exactly the answer you are seeking
-* The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
-:::
-
-<!-- deleted anki cards: -->
-<!-- Introduction: -->
-<!-- front: I want to test English to Hebrew. How can I set the deck to do this? -->
-<!-- back: Our primary goal with Hebrew Grammar Quest is to translate from Hebrew to English.   -->
-
-<!-- Most of our students studying Biblical Hebrew are not going to need to translate from English to Hebrew, although that is certainly a worthy pursuit.   -->
-
-
-<!-- If you would like to add a reverse direction to your vocabularly words (Prompt with English - Answer with Hebrew) this is can be done in Anki. We have added "Note Types" to accomodate this. -->
-
-<!-- Click "Browse" -->
-<!-- From the Left Navigation, scroll down to "Vocab Basic Hebrew" -->
-<!-- Select the card(s) you wish to change and add the additional options (To change ALL cards click CTRL+A to select all cards) -->
-<!-- Click CTRL+SHIFT+M to change the note type to one of the following: -->
-<!-- If you want to be tested on both Hebrew-to-English and reverse, English-to-Hebrew, select note type "Vocab Basic Hebrew/English" -->
-<!-- If you have added images and want to be tested on Hebrew-to-English, English-to-Hebrew, and Image-to-Hebrew, select note type "Vocab Basic Hebrew/English/Image" -->
-<!-- If you have added images and only want to be tested on Hebrew-to-English and Image-to-Hebrew, select note type "Vocab Basic Hebrew/Image" -->
-<!-- Just be aware that changing to one of these optional note types, will literally double (or triple if you chose Hebrew/English/Image) the number of vocabularly cards.  If you decide you want to go back to just Hebrew-to-English, repeat steps 1-4 and select Note Type "Vocab Basic Hebrew." -->
-
-<!-- Type ! (exclamation point) to dismiss this card. -->
   
 ## Course Resources {- #optional_resources}
 
@@ -1429,7 +1451,8 @@ function x25() {
 * There are also significant differences in pronouncing vowels, most notably the short a ("a" like "apple"; versus "ah" like "father")
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
 * Lastly, since we are talking about pronunciation differences, will use "Adonai" or "the LORD" when we encounter the Covenant Name^[Please read Izzy's statement on the Covenant Name: "When I filmed Hebrew Quest I read God's Hebrew name as "Yahweh". This is a relatively common practice in academic circles and was also an expression of my personal love for God's holy name. Since then though I've encountered conclusive evidence that Yeshua and his disciples followed the Jewish tradition of saying "Adonai" instead of using the Sacred Name. It's my deep conviction that we should follow the example of Messiah and his apostles, so I've returned to saying "Adonai" (Hebrew for "the LORD") or "HaShem" (Hebrew for "the Name") instead of using the Sacred Name, and I encourage our students to do likewise." ]
-    * Again, in some of the materials that we have leveraged from academic circles, you may see "Yahweh" as this is common in those settings
+    * Again, in some of the materials that we have leveraged from academic circles, you may see (or hear) the Covenant Name ("Ya---h") written out as this is common in those settings
+    * We are taking a devotional approach
 
 ## Activity: Anki {-}
 
@@ -1714,6 +1737,11 @@ function x25() {
 </script></figure>
 :::
 
+::: {.box .light}
+* Listen to the verse in Hebrew
+* Practice speaking until you can pronounce just like Izzy
+:::
+
 
 ###  <span class="he">הֵמָּה רָאוּ מַעֲשֵׂי יְהוָה</span> {-}
 
@@ -1945,6 +1973,12 @@ function x25() {
 </script></figure>
 :::
 
+* As Izzy mentioned in the _Hebrew Quest_ vowels segment, Hebrew has five consonants that can stand in for vowels
+  * <span class="he">א, ע, ה, ו, י</span>
+* א and ע simply take whichever applicable nikkud mark and are pronounced according to the vowel's sound
+* ה, ו, י are slightly different, in that the consonant plus the vowel combines to form a single vowel unit
+  * Note these vowels in the table below:
+  
 <img src="images/02.vowels_letters.png" width="600pt" style="display: block; margin: auto;" />
 
 
@@ -2668,13 +2702,6 @@ We're praying for you in advance as we tackle this section!  Now, go climb the m
 
 ## First Thought {-}
 
-###  <span class="he">אַשְׁרֵי אָדָם לֹא יַחְשֹׁב יְהוָה לוֹ</span>  {-}
-
-*How blessed is the man to whom the LORD does not impute iniquity  (Psalms 32:2)*
-
-Thank God for his blessings and meditate upon them.
-
-
 ::: {.infobox .sound}
 <audio
         id="myAudio"
@@ -2704,7 +2731,6 @@ function setPlaySpeed1() {
      x.play();
 }
 
-
 function setPlaySpeed15() { 
     x.playbackRate = 1.5;
      x.play();
@@ -2723,9 +2749,17 @@ function setPlaySpeed25() {
 
 
 
+::: {.box .light}
+* Listen to the verse in Hebrew
+* Practice speaking until you can pronounce just like Izzy 
+:::
 
 
-*****
+###  <span class="he">אַשְׁרֵי אָדָם לֹא יַחְשֹׁב יְהוָה לוֹ</span>  {-}
+
+*How blessed is the man to whom the LORD does not impute iniquity  (Psalms 32:2)*
+
+Thank God for his blessings and meditate upon them.
 
 <div class="figure" style="text-align: center">
 <img src="images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg" alt="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />

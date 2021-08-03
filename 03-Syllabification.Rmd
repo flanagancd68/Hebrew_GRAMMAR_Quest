@@ -90,13 +90,6 @@ We're praying for you in advance as we tackle this section!  Now, go climb the m
 
 ## First Thought {-}
 
-###  <span class="he">אַשְׁרֵי אָדָם לֹא יַחְשֹׁב יְהוָה לוֹ</span>  {-}
-
-*How blessed is the man to whom the LORD does not impute iniquity  (Psalms 32:2)*
-
-Thank God for his blessings and meditate upon them.
-
-
 ::: {.infobox .sound}
 <audio
         id="myAudio"
@@ -126,7 +119,6 @@ function setPlaySpeed1() {
      x.play();
 }
 
-
 function setPlaySpeed15() { 
     x.playbackRate = 1.5;
      x.play();
@@ -145,9 +137,17 @@ function setPlaySpeed25() {
 
 
 
+::: {.box .light}
+* Listen to the verse in Hebrew
+* Practice speaking until you can pronounce just like Izzy 
+:::
 
 
-*****
+###  <span class="he">אַשְׁרֵי אָדָם לֹא יַחְשֹׁב יְהוָה לוֹ</span>  {-}
+
+*How blessed is the man to whom the LORD does not impute iniquity  (Psalms 32:2)*
+
+Thank God for his blessings and meditate upon them.
 
 ```{r, out.width = "600pt", fig.align='center', fig.cap="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 

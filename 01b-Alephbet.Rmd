@@ -605,7 +605,8 @@ knitr::include_graphics("images/vav.png")
 * There are also significant differences in pronouncing vowels, most notably the short a ("a" like "apple"; versus "ah" like "father")
 * For the most part, Hebrew GRAMMAR Quest will follow the Sephardic pronunciation
 * Lastly, since we are talking about pronunciation differences, will use "Adonai" or "the LORD" when we encounter the Covenant Name^[Please read Izzy's statement on the Covenant Name: "When I filmed Hebrew Quest I read God's Hebrew name as "Yahweh". This is a relatively common practice in academic circles and was also an expression of my personal love for God's holy name. Since then though I've encountered conclusive evidence that Yeshua and his disciples followed the Jewish tradition of saying "Adonai" instead of using the Sacred Name. It's my deep conviction that we should follow the example of Messiah and his apostles, so I've returned to saying "Adonai" (Hebrew for "the LORD") or "HaShem" (Hebrew for "the Name") instead of using the Sacred Name, and I encourage our students to do likewise." ]
-    * Again, in some of the materials that we have leveraged from academic circles, you may see "Yahweh" as this is common in those settings
+    * Again, in some of the materials that we have leveraged from academic circles, you may see (or hear) the Covenant Name ("Ya---h") written out as this is common in those settings
+    * We are taking a devotional approach
 
 ## Activity: Anki {-}
 
