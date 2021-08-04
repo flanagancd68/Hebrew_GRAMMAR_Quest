@@ -971,7 +971,7 @@ function setPlaySpeed25() {
 * _FINITE_ verbs have "person"
     * Perfect, Imperfect, Imperative, Cohortative, Jussive
 * _NON-FINITE_ verbs do NOT have "person"
-    * Infinitive Construct, Infinitive Absolute, Participle
+    * Infinitive Construct, Infinitive Absolute, and Participle
     * Only Participles have Gender and Number
 
 
@@ -1347,7 +1347,7 @@ Find the following miscellaneous words:
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## OPTIONAL _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
+## Honors Track: _Hebrew Quest_ Study Passage - Proverbs Studies #1-4 {-}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" 
@@ -1379,7 +1379,7 @@ function setPlaySpeed25() {
 This activity is where your Hebrew GRAMMAR Quest will come to life!
 :::
 
-Please review the description of the _Hebrew Quest_ Study Passage Track in the Introduction to Unit III if you haven't already done so.
+Please review the description of the _Hebrew Quest_ Study Passage activity in the Introduction to Unit III if you haven't already done so.
 
 ::: {.box .map}
 YOUR HEBREW QUEST!

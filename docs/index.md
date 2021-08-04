@@ -804,7 +804,7 @@ DON'T BE OVERWHELMED!  YOU GOT THIS!
 Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this are on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
 :::
 
-Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 12.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL "Honors Track", _Hebrew Quest_ Study Passages."  These will begin with Lesson 12.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
 
 Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
 
@@ -10416,7 +10416,7 @@ Trying to read with these marks can be visually distracting and overwhelming at 
 
 :::
 
-## Changes for Unit 3: OPTIONAL _Hebrew Quest_ Study Passage Track {-}
+## Changes for Unit 3: Optional Honors Track: _Hebrew Quest_ Study Passages {-}
 
 ::: {.infobox .sound}
 <figure>
@@ -10463,12 +10463,13 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* `Hebrew Quest Study Passages` are designed for those who seek more opportunities for additional Hebrew Bible reading and translating activity
+* `Honors Track: Hebrew Quest Study Passages` are OPTIONAL activities designed for those who seek more opportunities for additional Hebrew Bible reading and translating activity
 * They also offer a method to simultaneously complete _Hebrew Quest_ and Hebrew GRAMMAR Quest
 * Why is this "optional?" 
     * Completion of this activity may require a __significant__ time investment to complete
-    * For this reason, completing the `Hebrew Quest Study Passage Track` is not required to earn any Hebrew GRAMMAR Quest `Badges`, `Certificates`, or the `Graduation Diploma`
-    * When you DO complete the Study Passage Track, you will "graduate with honors" and receive special recognition
+    * For this reason, completing the `Hebrew Quest Study Passages` are not required to earn any Hebrew GRAMMAR Quest `Badges`, `Certificates`, or the `Graduation Diploma`
+    * We call it our `Honors track`, because when you DO complete all of the the Study Passage activities, you will "graduate with honors" and receive special recognition!
+        * But your greatest reward will be the knowledge and insights you gain from the Bible!
 * Whether you have already completed _Hebrew Quest_ or not, this activity is sure to significantly expand your Hebrew reading skills
 * We will start off slowly with the verses from the Proverbs study
 * Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40)
@@ -11590,7 +11591,7 @@ function setPlaySpeed25() {
 * _FINITE_ verbs have "person"
     * Perfect, Imperfect, Imperative, Cohortative, Jussive
 * _NON-FINITE_ verbs do NOT have "person"
-    * Infinitive Construct, Infinitive Absolute, Participle
+    * Infinitive Construct, Infinitive Absolute, and Participle
     * Only Participles have Gender and Number
 
 
@@ -11963,7 +11964,7 @@ Find the following miscellaneous words:
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## OPTIONAL _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
+## Honors Track: _Hebrew Quest_ Study Passage - Proverbs Studies #1-4 {-}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" 
@@ -11995,7 +11996,7 @@ function setPlaySpeed25() {
 This activity is where your Hebrew GRAMMAR Quest will come to life!
 :::
 
-Please review the description of the _Hebrew Quest_ Study Passage Track in the Introduction to Unit III if you haven't already done so.
+Please review the description of the _Hebrew Quest_ Study Passage activity in the Introduction to Unit III if you haven't already done so.
 
 ::: {.box .map}
 YOUR HEBREW QUEST!
