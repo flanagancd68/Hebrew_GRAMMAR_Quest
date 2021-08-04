@@ -1,13 +1,13 @@
 # (PART) Qal Stem {-}
 
-# Introduction to Unit 3 {-}
+# Introduction to Unit III {-}
 
 ::: {.infobox .sound}
 <figure>
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/03b.unit2intro.m4a">
+        src="./images/12.unit3intro.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -47,10 +47,17 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+CONGRATULATIONS ON FINISHING THE FIRST TWO UNITS OF HEBREW GRAMMMAR QUEST!
+
 * Unit 3 represents a pivot point in this course
 * From now through the end of the course, we will focus on verbs
 * In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth
 * Then in Unit 4 we will learn the six so-called "derived" stems
+
+
+::: {.box .light}
+Remember to download [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} if you haven't already done so
+:::
 
 We wanted to let you know of some changes:
 
@@ -61,11 +68,59 @@ We wanted to let you know of some changes:
     1. No more quizzes!
     2. Study Verses
         * Cantillation marks added to study verses
-        * Verses will be taken as a whole, versus split into smaller components
+        * Verses in `Anki` will be taken as a whole, not split into smaller components
     3. OPTIONAL _Hebrew Quest_ Study Passage Translation
+    
+
+The next few pages will describe these changes in greater detail.
 
 
 ## Vowel Transliteration/Shorthand {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3transliteration.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 We will begin to use the vowel transliteration introduced in Lesson 2
 
@@ -74,12 +129,57 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 * Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, $I$, Hireq, $O$ for Qamets Hatuf, and $U$, Qibbuts
 * Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
 * Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
-* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.], $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
-* Additionally, we have the ending Qamets+He = $\hat A$, Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.])
+* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod since it is more common.], $\hat I$ = Hireq+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
+* Additionally, we have the ending Qamets+Hei = $\hat A$^[Qamets+Hei is not technically an "unchangeable long vowel", but, since as a vowel it can only occur at the end of a word, it will never reduce.], Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva (as well as the Hateph vowels) has a "hurried" pronunciation, like the _a_ in _amuse_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.]
 
 :::
 
 ## $Pre$ = Diagnostic Word-initial Combinations {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3pre.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * A Hebrew strong verb conjugation, regardless of the stem, can usually be identified based on its initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
 * For example, in Lesson 15, we will learn the "Imperfect Preformatives" (we'll describe what a preformative is a little later)
@@ -92,12 +192,102 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 
 ## Changes for Unit 3: No more quizzes! {-}
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3quiz.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 * The quizzes in Units 1 and 2 provided a checkpoint before proceeding to the next lesson
     * We wanted to make sure you had the essential components of the lesson
 * At this stage of the course, we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
 * The overload workload is steadily increasing, and of course, the Anki reviews are growing (so be sure to keep up with daily reviews!)
 
 ## Changes for Unit 3: Changes to `Anki Study Verses` {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3verses.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * In Unit 2, we split longer verses into two sections; starting with Unit 3, we're going to take it up a notch and have you review the entire study verse in one answer
 * For Unit 3, we are also adding Cantillation Marks added to Study Verses
@@ -119,7 +309,6 @@ include_graphics("images/02.Gen0109.png")
 * Things to keep in mind:
     * There are over 20 different cantillation marks
     * We won't go into what each one means, but there are plenty of resources on the Internet if you are interested in digging deeper
-    * Remember that a syllable can have only one vowel
     * Most often, there is only one cantillation mark per word - <u>where you see the mark is where the accent goes</u>
     * Occasionally, you will see a mark near the front or middle of the word, as well as a mark near the end of a word         
         * The first mark is a secondary accent
@@ -127,9 +316,11 @@ include_graphics("images/02.Gen0109.png")
 * The vertical line | that can appear between two words can be ignored
 * When in doubt, listen to Izzy's audio carefully as he reads each verse to determine where the accent goes
 
-::: {.box .light}
-If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark.
+::: {.box .caution}
+Many cantillation marks look like a vowel in the wrong place
 
+* If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark.
+* You already know your vowels, so don't let these marks trick you!
 :::
 
 ::: {.box .info}
@@ -137,12 +328,59 @@ Trying to read with these marks can be visually distracting and overwhelming at 
 
 :::
 
-## Changes for Unit 3: OPTIONAL _Hebrew_ Quest Study Passage Translation {-}
+## Changes for Unit 3: OPTIONAL _Hebrew Quest_ Study Passage Track {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3studypassages.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * `Hebrew Quest Study Passages` are designed for those who seek more opportunities for additional Hebrew Bible reading and translating activity
 * They also offer a method to simultaneously complete _Hebrew Quest_ and Hebrew GRAMMAR Quest
-* Completion of this activity may require a significant time investment to complete
+* Why is this "optional?" 
+    * Completion of this activity may require a __significant__ time investment to complete
     * For this reason, completing the `Hebrew Quest Study Passage Track` is not required to earn any Hebrew GRAMMAR Quest `Badges`, `Certificates`, or the `Graduation Diploma`
+    * When you DO complete the Study Passage Track, you will "graduate with honors" and receive special recognition
 * Whether you have already completed _Hebrew Quest_ or not, this activity is sure to significantly expand your Hebrew reading skills
 * We will start off slowly with the verses from the Proverbs study
 * Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40)
@@ -155,11 +393,59 @@ Trying to read with these marks can be visually distracting and overwhelming at 
     4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights^[Note: Izzy intentionally speaks very slowly, so as you advance in Hebrew, you may wish to increase the speed of the YouTube video].
         * As you are watching, compare your translation with Izzy's explanation
         * How did you do?  Can you see how much you are learning?
-        * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on parts of speech and PGN information when you hover over a word
+        * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on parts of speech and PGN information when you hover over a word^[As Hebrew is not the official original language of the Apostolic Writings ([or is it?](), there is no equivalent for the Gospel or Revelation passages.)]
     5. Ask what the Spirit of Holiness, the Ruach HaKodesh, is teaching you
 
 ## Lessons 13-16 are critical! {-}
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3critical.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+::: {.box .caution}
+Lessons 13-16 are critical!
+:::
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013."}
 
@@ -167,16 +453,62 @@ knitr::include_graphics("images/11b.bethabara.JPG")
 ``` 
 
 
-* The image above is of the Jordan River baptismal area in Israel near Jericho - it was taken less than a month after flooding of the area
+* The image above is of the Jordan River baptismal area in Israel near Jericho - it was taken less than a month after extensive flooding of the area
 * Lessons 13-16 could be considered the "high-water mark" of the course
-    * There will be a lot of details to digest as we talk about the two most critical verb forms in the Bible, the Qal Perfect and the Qal Imperfect
+    * There will be a lot of details to digest as we talk about the two most common verb forms in the Bible, the Qal Perfect and the Qal Imperfect
     * YOU MUST MASTER the material in these four chapters
     * Doing so will make the rest of the course much smoother, and more importantly, this will help you better understand your Hebrew Bible
 * The "high water" will start to recede a little starting with Lesson 17
 * The rest of the course from Lessons 17-35 build upon Chapters 13-16
-
+* Take your time - as Izzy says, "slow and steady wins your Hebrew verbal race!", but keep pushing forward
+* We can do this! This is all part of learning God's Holy Language!
 
 ## _Hebrew Quest_ Verb Summary Lecture {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3summary.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy's discussion on Hebrew verbs, we wanted to share it with you here.  Izzy offers tremendous encouragement for you, which you can apply throughout your verbal journey. 
     
@@ -191,7 +523,7 @@ End:  58:32
 
 ::: {.box .map}
 * Hang in there and keep going!  
-* We are studying grammar to draw closer to the Holy One!
+* We are studying Hebrew grammar to draw closer to the Holy One!
 * Slow and steady wins your Hebrew verbal race!
 
 Now, let's get to Hebrew Verbs!

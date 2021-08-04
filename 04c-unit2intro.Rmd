@@ -56,6 +56,10 @@ Congratulations again on completing unit 1!
 * Now in Unit 2, we will use those building blocks from Unit 1 to form nouns, prepositions, and adjectives
 * In units 3 and 4, we will transition to verbs
 
+::: {.box .light}
+Remember to download [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} if you haven't already done so
+:::
+
 <large>Changes for Unit 2</large>:
 
 * _Hebrew Quest_ Videos

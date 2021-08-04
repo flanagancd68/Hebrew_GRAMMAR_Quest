@@ -181,7 +181,7 @@ verbal-vowels
 hebrew-quest-verb-stems-lecture
 the-seven-hebrew-verb-stems
 the-seven-stems-summary-table
-conjugation
+conjugation-introduction
 the-eight-basic-conjugations
 finite-vs.-non-finite-conjugations
 parsing
@@ -191,7 +191,7 @@ weak-verbs
 weak-class
 weak-verbs-are-usually-predictable
 hebrew-grammar-quest-is-a-quest-for-recognition-not-recall
-stem-comparison-table
+introduction-to-stem-comparison-table
 qal-perfect---strong-verbs
 hebrew-quest-qal-perfect-lecture
 qal-is-simple-action-active-voice
@@ -322,7 +322,7 @@ qal-participle-spelling
 prefixes-and-suffixes
 biconsonantal-3
 ה-2
-stem-comparison-table-1
+stem-comparison-table
 hebrew-quest-qal-summary-lecture
 hebrew-syntax
 clause-versus-sentence
@@ -348,7 +348,7 @@ participle-prefixes-in-the-derived-stems
 forms-with-identical-spelling
 easily-confused-forms
 niphal-parsing-examples
-stem-comparison-table-2
+stem-comparison-table-1
 the-niphal-stem---weak-verbs
 a-weak-consonant-affects-the-vowels-that-touch-it
 guttural
@@ -372,7 +372,7 @@ piel-imperative-strong-paradigm
 piel-infinitives-strong-paradigm
 piel-participle-strong-paradigm
 piel-parsing-examples
-stem-comparison-table-3
+stem-comparison-table-2
 ruth-pursuit-analysis
 the-piel-stem---weak-verbs
 third-guttural-all-variants
@@ -394,7 +394,7 @@ perfect
 imperfect
 participle
 pual-parsing-examples
-stem-comparison-table-4
+stem-comparison-table-3
 the-pual-stem---weak-verbs
 the-pual-diagnostic-v_1-u-is-maintained-in-almost-all-weak-verbs
 gutturals-reject-dagesh-forte
@@ -412,7 +412,7 @@ hiphil-imperative-strong-paradigm
 hiphil-infinitives-strong
 participle-strong
 strong-summary
-stem-comparison-table-5
+stem-comparison-table-4
 the-hiphil-stem---weak-verbs
 weak-verbs-review
 strong-summary-1
@@ -432,7 +432,7 @@ hophal-perfect-strong
 hophal-imperfect-strong
 hophal-participle-strong
 hophal-strong-summary
-stem-comparison-table-6
+stem-comparison-table-5
 the-hophal-stem---weak-verbs
 g-and-3ה-verbs-prefer-qamets-hatuf-as-v_p
 נ-assimilates-as-expected
@@ -447,7 +447,7 @@ imperfect-strong
 imperative-strong
 infinitives-strong
 participle-strong-1
-stem-comparison-table-7
+stem-comparison-table-6
 ruth-pursuit-analysis-4
 the-hitpael-stem---weak-verbs
 r_2-can-lose-daghesh-forte

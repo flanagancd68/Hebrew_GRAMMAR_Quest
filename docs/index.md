@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-08-03"
+#date: "2021-08-04"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-08-03</small>
+<small>*Updated*: 2021-08-04</small>
 
 <small>
 
@@ -804,7 +804,7 @@ DON'T BE OVERWHELMED!  YOU GOT THIS!
 Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this are on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
 :::
 
-Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 13.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL _Hebrew Quest_ Study Passage Track beginning with Lesson 12.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
 
 Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
 
@@ -3939,6 +3939,10 @@ Congratulations again on completing unit 1!
 * Now in Unit 2, we will use those building blocks from Unit 1 to form nouns, prepositions, and adjectives
 * In units 3 and 4, we will transition to verbs
 
+::: {.box .light}
+Remember to download [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} if you haven't already done so
+:::
+
 <large>Changes for Unit 2</large>:
 
 * _Hebrew Quest_ Videos
@@ -4298,7 +4302,7 @@ The Lexical Form is the dictionary version of the word.
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.4new.m4a">
+        src="./images/04.4.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -4342,9 +4346,9 @@ function setPlaySpeed25() {
     * For example, say you had the English word `mouse`.  The word `mice` would be inflecting `mouse` into its plural form
     * In this course, you will NOT need to know how to inflect a word.  Reading the Hebrew Bible never requires this skill.
 * _Parsing_ is somewhat of the opposite concept where we take an inflected word and break it down into its base form to determine its meaning
-    * For example, let's say you had the english word `mice`, you didn't know what it meant and needed to look it up.  
+    * For example, let's say you had the English word `mice`, you didn't know what it meant and needed to look it up.  
     * Let's further assume there was no dictionary entry for `mice` (Hebrew dictionaries often do not have separate entries for a word's plural forms).  
-    * You would need to PARSE it = `Mice is the plural form of mouse.` In other words, `mice` is two or more of whatever a `mouse` is.
+    * You would need to PARSE it = `Mice` is the plural form of `mouse.` In other words, `mice` is two or more of whatever a `mouse` is.
     * You could then look up `mouse` and be on your way
     * Reading the Hebrew Bible **does** require us to _parse_
 * When we parse a word, we identify the lexical form and the inflected person, gender, and number to understand what the word is communicating to us
@@ -10087,14 +10091,14 @@ If you have completed **all activities** in Lessons 1-11, you may claim the seco
 
 # (PART) Qal Stem {-}
 
-# Introduction to Unit 3 {-}
+# Introduction to Unit III {-}
 
 ::: {.infobox .sound}
 <figure>
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/03b.unit2intro.m4a">
+        src="./images/12.unit3intro.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -10134,10 +10138,17 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+CONGRATULATIONS ON FINISHING THE FIRST TWO UNITS OF HEBREW GRAMMMAR QUEST!
+
 * Unit 3 represents a pivot point in this course
 * From now through the end of the course, we will focus on verbs
 * In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth
 * Then in Unit 4 we will learn the six so-called "derived" stems
+
+
+::: {.box .light}
+Remember to download [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} if you haven't already done so
+:::
 
 We wanted to let you know of some changes:
 
@@ -10148,11 +10159,59 @@ We wanted to let you know of some changes:
     1. No more quizzes!
     2. Study Verses
         * Cantillation marks added to study verses
-        * Verses will be taken as a whole, versus split into smaller components
+        * Verses in `Anki` will be taken as a whole, not split into smaller components
     3. OPTIONAL _Hebrew Quest_ Study Passage Translation
+    
+
+The next few pages will describe these changes in greater detail.
 
 
 ## Vowel Transliteration/Shorthand {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3transliteration.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 We will begin to use the vowel transliteration introduced in Lesson 2
 
@@ -10161,12 +10220,57 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 * Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, $I$, Hireq, $O$ for Qamets Hatuf, and $U$, Qibbuts
 * Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
 * Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
-* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod.], $\hat I$ = Hireq_+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
-* Additionally, we have the ending Qamets+He = $\hat A$, Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva has a "hurried" pronunciation, like the _a_ in _amuse_ or _Tina_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.])
+* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod since it is more common.], $\hat I$ = Hireq+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
+* Additionally, we have the ending Qamets+Hei = $\hat A$^[Qamets+Hei is not technically an "unchangeable long vowel", but, since as a vowel it can only occur at the end of a word, it will never reduce.], Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva (as well as the Hateph vowels) has a "hurried" pronunciation, like the _a_ in _amuse_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.]
 
 :::
 
 ## $Pre$ = Diagnostic Word-initial Combinations {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3pre.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * A Hebrew strong verb conjugation, regardless of the stem, can usually be identified based on its initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
 * For example, in Lesson 15, we will learn the "Imperfect Preformatives" (we'll describe what a preformative is a little later)
@@ -10179,12 +10283,102 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 
 ## Changes for Unit 3: No more quizzes! {-}
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3quiz.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 * The quizzes in Units 1 and 2 provided a checkpoint before proceeding to the next lesson
     * We wanted to make sure you had the essential components of the lesson
 * At this stage of the course, we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
 * The overload workload is steadily increasing, and of course, the Anki reviews are growing (so be sure to keep up with daily reviews!)
 
 ## Changes for Unit 3: Changes to `Anki Study Verses` {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3verses.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * In Unit 2, we split longer verses into two sections; starting with Unit 3, we're going to take it up a notch and have you review the entire study verse in one answer
 * For Unit 3, we are also adding Cantillation Marks added to Study Verses
@@ -10203,7 +10397,6 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 * Things to keep in mind:
     * There are over 20 different cantillation marks
     * We won't go into what each one means, but there are plenty of resources on the Internet if you are interested in digging deeper
-    * Remember that a syllable can have only one vowel
     * Most often, there is only one cantillation mark per word - <u>where you see the mark is where the accent goes</u>
     * Occasionally, you will see a mark near the front or middle of the word, as well as a mark near the end of a word         
         * The first mark is a secondary accent
@@ -10211,9 +10404,11 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 * The vertical line | that can appear between two words can be ignored
 * When in doubt, listen to Izzy's audio carefully as he reads each verse to determine where the accent goes
 
-::: {.box .light}
-If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark.
+::: {.box .caution}
+Many cantillation marks look like a vowel in the wrong place
 
+* If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark.
+* You already know your vowels, so don't let these marks trick you!
 :::
 
 ::: {.box .info}
@@ -10221,12 +10416,59 @@ Trying to read with these marks can be visually distracting and overwhelming at 
 
 :::
 
-## Changes for Unit 3: OPTIONAL _Hebrew_ Quest Study Passage Translation {-}
+## Changes for Unit 3: OPTIONAL _Hebrew Quest_ Study Passage Track {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3studypassages.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * `Hebrew Quest Study Passages` are designed for those who seek more opportunities for additional Hebrew Bible reading and translating activity
 * They also offer a method to simultaneously complete _Hebrew Quest_ and Hebrew GRAMMAR Quest
-* Completion of this activity may require a significant time investment to complete
+* Why is this "optional?" 
+    * Completion of this activity may require a __significant__ time investment to complete
     * For this reason, completing the `Hebrew Quest Study Passage Track` is not required to earn any Hebrew GRAMMAR Quest `Badges`, `Certificates`, or the `Graduation Diploma`
+    * When you DO complete the Study Passage Track, you will "graduate with honors" and receive special recognition
 * Whether you have already completed _Hebrew Quest_ or not, this activity is sure to significantly expand your Hebrew reading skills
 * We will start off slowly with the verses from the Proverbs study
 * Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40)
@@ -10239,11 +10481,59 @@ Trying to read with these marks can be visually distracting and overwhelming at 
     4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights^[Note: Izzy intentionally speaks very slowly, so as you advance in Hebrew, you may wish to increase the speed of the YouTube video].
         * As you are watching, compare your translation with Izzy's explanation
         * How did you do?  Can you see how much you are learning?
-        * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on parts of speech and PGN information when you hover over a word
+        * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on parts of speech and PGN information when you hover over a word^[As Hebrew is not the official original language of the Apostolic Writings ([or is it?](), there is no equivalent for the Gospel or Revelation passages.)]
     5. Ask what the Spirit of Holiness, the Ruach HaKodesh, is teaching you
 
 ## Lessons 13-16 are critical! {-}
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3critical.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+::: {.box .caution}
+Lessons 13-16 are critical!
+:::
 
 <div class="figure" style="text-align: center">
 <img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
@@ -10251,16 +10541,62 @@ Trying to read with these marks can be visually distracting and overwhelming at 
 </div>
 
 
-* The image above is of the Jordan River baptismal area in Israel near Jericho - it was taken less than a month after flooding of the area
+* The image above is of the Jordan River baptismal area in Israel near Jericho - it was taken less than a month after extensive flooding of the area
 * Lessons 13-16 could be considered the "high-water mark" of the course
-    * There will be a lot of details to digest as we talk about the two most critical verb forms in the Bible, the Qal Perfect and the Qal Imperfect
+    * There will be a lot of details to digest as we talk about the two most common verb forms in the Bible, the Qal Perfect and the Qal Imperfect
     * YOU MUST MASTER the material in these four chapters
     * Doing so will make the rest of the course much smoother, and more importantly, this will help you better understand your Hebrew Bible
 * The "high water" will start to recede a little starting with Lesson 17
 * The rest of the course from Lessons 17-35 build upon Chapters 13-16
-
+* Take your time - as Izzy says, "slow and steady wins your Hebrew verbal race!", but keep pushing forward
+* We can do this! This is all part of learning God's Holy Language!
 
 ## _Hebrew Quest_ Verb Summary Lecture {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.unit3summary.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy's discussion on Hebrew verbs, we wanted to share it with you here.  Izzy offers tremendous encouragement for you, which you can apply throughout your verbal journey. 
     
@@ -10275,7 +10611,7 @@ End:  58:32
 
 ::: {.box .map}
 * Hang in there and keep going!  
-* We are studying grammar to draw closer to the Holy One!
+* We are studying Hebrew grammar to draw closer to the Holy One!
 * Slow and steady wins your Hebrew verbal race!
 
 Now, let's get to Hebrew Verbs!
@@ -10286,11 +10622,58 @@ Now, let's get to Hebrew Verbs!
 
 # Introduction to Hebrew Verbs
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.intro.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives, and prepositions, we will now focus on verbs.
 
-Around 70% of Hebrew verbs are in what we call the Qal stem, so we will spend Lessons 13-22 learning that stem inside and out.  Qal verbs represent simple action. 
+Around 70% of Hebrew verbs are in what we call the Qal stem, so we will spend Lessons 13-22 (in other words, Unit III) learning that stem inside and out.  Qal verbs represent "simple action", or active voice with a simple unnuanced type of action.^[The derived stems are different combinations of "voice" (active, passive, or reflexive) and "action" (simple or causative)]
 
 Our quest is to translate accurately.  To do this, we must identify the root, stem, conjugation, person, gender, and number of verbs. This Lesson will provide a detailed introduction to the verb system as a whole and some general conventions.
+
+You might notice there are a lot of sections in this lesson.  Most of these tend to be short introductions.  "Hebrew verbs, meet student.  Student, this are Hebrew verbs."  Frequently, we will take a concept you already learned in Units I and II, then modify it slightly to apply it to verbs.
 
 ::: {.box .map}
 LESSON ITINERARY
@@ -10310,10 +10693,59 @@ LESSON ITINERARY
 ::: {.box .stop}
 EQUIPMENT CHECK
 
-Before continuing, have you completed all requirements for your certificate for Lessons 1-11?
+Before continuing, have you completed all requirements for your `Unit II Certificate`?
+
+Have you read the `Introduction to Unit III`?
 :::
 
 ## First Thought {-}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+ src="./images/12.04.1ki1904.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+
 
 ### <span class="he">וְהֽוּא־הָלַ֤ךְ בַּמִּדְבָּר֙ דֶּ֣רֶךְ י֔וֹם </span> {-}
 
@@ -10323,15 +10755,6 @@ As we begin a long stretch in Hebrew Verbs, at times, you may feel as exhausted,
 
 In these times, we must depend on God to sustain us.  It is times like these where God can pour into us and prepare us for our next adventure.  Moses, Elijah, John the Immerser, and several others all had their time in the Wilderness that God used to mold them as servant-leaders.  Of course, we can point to Yeshua himself and his time in the wilderness at the beginning of his ministry.  Embrace the wilderness!
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/12.04.1ki1904.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 <div class="figure" style="text-align: center">
 <img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
@@ -10343,7 +10766,35 @@ In these times, we must depend on God to sustain us.  It is times like these whe
 
 ## _Hebrew Quest_ Verb Introduction Lecture
 
-View this 8-minute overview video from _Hebrew Quest_ on Hebrew Verbs. You may disregard references to the "Student Manual" and "Essentials of Biblical Hebrew." We will break down the concepts Izzy discusses as we progress through this lesson.  Also make sure you have watched the _Hebrew Quest_ video segment in the Unit 3 Introduction.
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.1.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script> 
+</figure>
+:::
+
+View this 8-minute overview video from _Hebrew Quest_ on Hebrew Verbs^[As with previous videos, you can ignore references to the "Hebrew Quest Student Manual" or "Essentials of Biblical Hebrew".]  We will break down the concepts Izzy discusses as we progress through this lesson.  Also make sure you have watched the _Hebrew Quest_ video segment in the `Introduction to Unit III`.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
@@ -10364,6 +10815,51 @@ End: 47:26
 :::
 ## A note on the paradigm strong verb קטל
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.2.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 * As Izzy mentions in the video we just watched, Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
 * <span class="he">קטל</span> is meant to represent _ANY_ "strong" verb (we'll discuss strong and weak verbs later in this Lesson)
 * What makes <span class="he">קטל</span> awkward is the word means "to kill"
@@ -10377,6 +10873,51 @@ End: 47:26
     
 ## The Verbal Root
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.3.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 * A _Root_ is the set of consonants on which a verb (and often nouns) are based
 * The majority of verbs have three _root consonants_ from which the other words are derived.
 * Consider the root <span class="he">מלך</span>; the graphic below lists just a few of the nouns and verbs that derive from this single root
@@ -10384,6 +10925,51 @@ End: 47:26
 <img src="images/12-verb-root.gif" width="700pt" style="display: block; margin: auto;" />
 
 ## Inflecting and Parsing Review
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.4.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * Back in Lesson 4, we discussed the difference between "inflecting" and "parsing"
 * Inflecting is when we take a verb root such as <span class="he">מלך</span> and transform it by adding vowels, prefixes or suffixes to generate a specific form with a unique meaning
@@ -10396,21 +10982,113 @@ End: 47:26
 
 ## Person, Gender, Number
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.5.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 * The inflected person, gender, and number refer to the _subject_ of the verb
     * Pronominal suffixes are used to denote the object of the verb.  We will study these in Lesson 19
 * Person, Gender, and Number for verbs are the same as for nouns
-    * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e., there is not a masculine form of "I" and a separate feminine form of "I")
+    * Gender
+        * Male, female, or common
+        * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e., there is not a masculine form of "I" and a separate feminine form of "I")
     * Person
         * 1st person is the speaker - "I/we sat"
         * 2nd person is the person being spoken to - "you sat"
-        * 3rd person is anyone else - "he/she/it/they sat"
-    * Number is singular or plural - there are no dual verb forms
+        * 3rd person is anyone (or any_thing_) else - "he/she/it/they sat"
+    * Number is either singular or plural - there are no dual verb forms
     
 ::: {.box .info}
 When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular."
 :::
 
-## Verb nomenclature
+## Verb Nomenclature
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.6.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 *  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$^[Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb פעל. ].
 * For the verb <span class="he">מָלַכְתִּי</span> (I was king):
@@ -10419,7 +11097,52 @@ When parsing, it is standard to use parsing code "3ms" to mean "third person, ma
         * $R_2$ = ל
         * $R_3$ = ך
 
-## Lexical form for Verbs
+## Lexical Form for Verbs
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.7.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * Also important to know is the _Lexical Form_ 
 * The _lexical form_ is how you would locate the word in a dictionary
@@ -10429,6 +11152,51 @@ When parsing, it is standard to use parsing code "3ms" to mean "third person, ma
     * The _lexical form_ is <span class="he">מָלַךְ</span> (take the _root_ and inflect it as QP3ms form)
         
 ## Preformatives, Sufformatives, Prefixes, and Suffixes
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.8.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * While many dictionaries would consider "preformative" synonymous with "prefix" and "sufformative" synonymous with "suffix", Hebrew grammars often use the terms "preformative" and "sufformative" exclusively for verbs
 * A verbal _preformative_ (if any) goes before $R_1$ and a _sufformative_ (if any) goes after $R_3$
@@ -10456,18 +11224,112 @@ On your quest to translate verbs, identifying preformatives and sufformatives on
 
 ## Verbal Vowels
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.9.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 * Identifying a verbal vowel's position is necessary to determine the Verbal Root and the Stem
 * Similar to our shorthand for the root consonants, we use $V_P$ (the vowel with the prefix or preformative immediately before $R_1$), $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the _stem_ vowel
-    * The $V_S$ is usually $V_2$ 
+    * The $V_S$ vowel is usually the same as the $V_2$ vowel
     * The vowel associated with $R_3$ turns out to be less important, so we do not need to identify this
 * For the verb <span class="he">יִקְטְל֫וּהָ</span>
     * $V_P = I$ (remember I is shorthand for Hireq)
     * $V_1 = \ :$ (Silent Sheva)
     * $V_2$/$V_S = ə$ (Vocal Sheva)
-    * Note: while we have said Silent Sheva is technically not a vowel, it is occupying the vowel position of $R_1$.  For this purpose, it is acceptable to say $V_1 = \ :$.
+    * Note: while we have said Silent Sheva is technically not a vowel, it is occupying the $R_1$ vowel position.  For this purpose, it is acceptable to say $V_1 = \ :$.
 
+::: {.box .caution}
+* While $V_P$ is the prefix or preformative vowel, $V_S$ is NOT the suffix or sufformative vowel
+* $V_S$ is the STEM vowel, which is usually but not always $V_2$
+:::
 
 ## _Hebrew Quest_ Verb Stems Lecture
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.10.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 View this 8-minute overview video from _Hebrew Quest_ where Izzy summarizes the seven Hebrew verb stems. Note that the table Izzy uses has a slightly different layout from the table used later in this lesson, but both convey the same information.
 
@@ -10482,6 +11344,50 @@ End: 21:08
 
 ## The Seven Hebrew Verb Stems
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/12.11.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * The verb __stem__ affects the meaning of the verb itself
 * At a basic level, the stem provides the _type of action_ (simple, causative, intensive) and the _voice_ (active or passive)
@@ -10510,6 +11416,32 @@ We'll explain the "Parsing codes" in a few sections
 
 ## The Seven Stems: Summary Table
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.12.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
+
 * There is scholarly debate about the table below
 * Hebrew verbs can have any one of several nuanced meanings depending on the context
 * The table provides a good starting place, but it is not the "final word" on verb stems
@@ -10522,15 +11454,76 @@ Cause a State	| Piel | Pual | Hitpael
 Cause an Action	|Hiphil | Hophal
 
 
-## Conjugation
+## Conjugation Introduction
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.13.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
 * While the stem provides the overall meaning, the _conjugation_ provides additional descriptive information needed for translation
 * Strictly speaking, Hebrew does not have past, present, future, tense, as with English
     * Instead, the easiest way of thinking about it is that Hebrew has complete vs. incomplete action
-* Like English, Hebrew also has command (called Imperative), infinitive, and participle conjugations
+    * Perfect is completed action
+    * Imperfect is incomplete action
+* Like English, Hebrew also has command (called Imperative), Volitional (called Cohortative and Jussive), Infinitive, and Participle conjugations
 
 
 ## The Eight Basic Conjugations
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.14.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
+
+::: {.box .map}
+* At this stage of your quest, you are getting hit with a lot of new concept and terms
+* Remember the lesson points are where you get introduced to the material; the activities are where you will learn the material
+* Be patient and soak it in
+:::
+
+
 
 1. The _Perfect_ conjugation describes completed action, whether in the past, present, or future
     * Most often, we translate this as English past tense - "She went"
@@ -10568,6 +11561,32 @@ Vav prefix
 
 ## Finite vs. Non-Finite Conjugations
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.15.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
+
 * _FINITE_ verbs have "person"
     * Perfect, Imperfect, Imperative, Cohortative, Jussive
 * _NON-FINITE_ verbs do NOT have "person"
@@ -10576,6 +11595,32 @@ Vav prefix
 
 
 ## Parsing
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.16.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
 
 * As we stated above, parsing is the process of breaking down a verb into its component parts
 * The following should be included when parsing a verb (as applicable):
@@ -10589,6 +11634,31 @@ Vav prefix
     
 ## Parsing Codes
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.17.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
 * Constantly writing the full parsing descriptions, such as "Hitpael Cohortative, Third Person, Masculine Plural" would become tedious
 * Therefore, many Hebrew grammarians use what is called "parsing code"  
 * Unfortunately, the terminology for morphology is not standardized
@@ -10598,6 +11668,32 @@ Vav prefix
 
 
 ## Strong and Weak Verbs
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.18.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
 
 * As we get into each stem, there will be separate chapters devoted to strong and week verbs
 * Therefore, it will be useful for you to know what we mean by these terms
@@ -10611,14 +11707,66 @@ Vav prefix
 
 ## Weak Verbs
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.19.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
+
 * A weak verb has a root consonant that causes it to deviate from the strong-verb paradigm
 * A verb may have one such letter that causes deviation in one stem or conjugations but not in others
     * ר is only weak in forms that try to put a Dagesh Forte in it
-    * 1נ wants to assimilate whenever it has a Silent Sheva
-        * Because this never happens to $R_1$ in the Qal Perfect, 1נ is strong in the Qal Perfect
-        * We will learn this will happen in the imperfect, so 1נ is weak in that conjugation
+    * 1נ (a verb with $R_1 = נ$ ) wants to assimilate whenever it has a Silent Sheva
+        * Because this never happens to $R_1$ in the Qal Perfect, 1נ is said to be "strong" in the Qal Perfect
+        * In the Qal IMPERFECT,  $R_1$ takes a Silent Sheva in the strong paradigm; this means 1נ verbs are said to be "weak" in that conjugation
         
 ## Weak Verb Classes {#weak-class}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.20.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
 
 * We classify weak verbs by their problem letter
     * 3נ, "third Nun," means that $R_3$ is נ, as in <span class="he">זקן</span>
@@ -10630,10 +11778,41 @@ Vav prefix
     * 3א, "third Aleph," means that $R_3$ is א, as in <span class="he">מצא</span>
     * 3ה, "third Hei," means that $R_3$ is the vowel Qamets+Hei, as in <span class="he">בנה</span>
     * Geminate - $R_2$ = $R_3$ <span class="he">סבב</span>
-    * Biconsonantal (also called Hollow) - $R_2$ is a vowel letter <span class="he">בוֹא</span> <span class="he">שִׁים</span>* <span class="he">קוּם</span>*
+    * Biconsonantal (also called Hollow) - $R_2$ is a vowel letter <span class="he">בוֹא</span> <span class="he">שִֹים</span> <span class="he">קוּם</span>
+        * Biconsonantal verbs are the exception to Lexical form = QP3ms - we'll discuss in Section 14.13
     * Doubly Weak is any combination of two (or three) weak letters, as in <span class="he">עַלָה</span>
     
+::: {.box .info}
+If a verb has three weak letters, we still refer to it as "doubly weak" (not "triply weak")
+::: 
+
 ## Weak Verbs Are Usually Predictable
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.21.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
 
 * The good news is when Hebrew verbs are weak, the behavior is usually predictable
 * In fact, you have already learned almost every behavior change we will encounter with weak verbs
@@ -10644,8 +11823,34 @@ Vav prefix
 
 ## Hebrew GRAMMAR Quest is a Quest for RECOGNITION, NOT RECALL
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.22.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
+
 * Older Hebrew Grammars focused on memorizing dozens of verb paradigm charts
-* Students had to memorize many different stems, conjugations, as well as strong and weak verb paradigms in those conjugations
+    * Students had to memorize many different stems, conjugations, as well as strong and weak verb paradigms in those conjugations
 * In this course, you will memorize only a handful of paradigms in the Qal Stem
 * From here, we will be on a quest for pattern recognition
 * Think of it like this: instead of taking a traditional approach to learning a language by brute-force, rote memorization, we are going to take more of a mathematical approach
@@ -10658,16 +11863,49 @@ Vav prefix
         * If the next square you encounter has $S = 3$, you can use the same formula to get the answer $9$.
 * You will begin to see things in a special $formula font$ - we will use $this font$ when there are consistent patterns
     * For example, whenever you see $Pre =$, this tells you that the verb has a specific combination of prefixes/preformative letters, vowels, and possibly Dagesh Forte marks that are characteristic of that verb class
-    
-## Stem Comparison Table
 
-* As we move through the course, we will build a table to compare stems
+
+::: {.box .light}
+Don't be afraid of math!  Math will be your partner in learning Hebrew verbs!
+:::
+
+## Introduction to Stem Comparison Table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.23.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
+
+* As we move through the course, we will build a table to compare verb stems
 * At the end of the course, your table will look like this:
 
 <img src="images/34_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
 
 * The marks in RED are the distinctive $Pre$ patterns for the strong verbs in that stem/conjugation
 * The vowels in BLUE and the "formula" in the last column are the $V_S$ patterns for that stem/conjugation
+    * You can note that for the Qal stem, the perfect has a stem vowel of Patach, this is represented by the $A$ on the left side of the $V_S$ formula
+    * The imperfect has a stem vowel of Holem.  The is the $\bar O$ on the right side
 * You do not need to do anything with this table right now - we only want to show you how this relatively simple series of patterns will help you unlock the meaning of the Bible
 
 
@@ -10726,6 +11964,38 @@ Find the following miscellaneous words:
 * [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## OPTIONAL _Hebrew Quest_ Study Passage Track: Proverbs Study #1-4 {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/12.hqsp.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play();} 
+</script></figure>
+:::
+
+::: {.box .light}
+This activity is where your Hebrew GRAMMAR Quest will come to life!
+:::
+
+Please review the description of the _Hebrew Quest_ Study Passage Track in the Introduction to Unit III if you haven't already done so.
 
 ::: {.box .map}
 YOUR HEBREW QUEST!

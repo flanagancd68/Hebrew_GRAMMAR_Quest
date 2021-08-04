@@ -338,7 +338,7 @@ The Lexical Form is the dictionary version of the word.
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.4new.m4a">
+        src="./images/04.4.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -382,9 +382,9 @@ function setPlaySpeed25() {
     * For example, say you had the English word `mouse`.  The word `mice` would be inflecting `mouse` into its plural form
     * In this course, you will NOT need to know how to inflect a word.  Reading the Hebrew Bible never requires this skill.
 * _Parsing_ is somewhat of the opposite concept where we take an inflected word and break it down into its base form to determine its meaning
-    * For example, let's say you had the english word `mice`, you didn't know what it meant and needed to look it up.  
+    * For example, let's say you had the English word `mice`, you didn't know what it meant and needed to look it up.  
     * Let's further assume there was no dictionary entry for `mice` (Hebrew dictionaries often do not have separate entries for a word's plural forms).  
-    * You would need to PARSE it = `Mice is the plural form of mouse.` In other words, `mice` is two or more of whatever a `mouse` is.
+    * You would need to PARSE it = `Mice` is the plural form of `mouse.` In other words, `mice` is two or more of whatever a `mouse` is.
     * You could then look up `mouse` and be on your way
     * Reading the Hebrew Bible **does** require us to _parse_
 * When we parse a word, we identify the lexical form and the inflected person, gender, and number to understand what the word is communicating to us
