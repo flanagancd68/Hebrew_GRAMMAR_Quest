@@ -1,8 +1,4 @@
-# Get Help {- #feedback_forms}
-
-We have different forms for [asking a question about the course](#get_help) or [submitting a correction or providing general feedback](#report_issue).
-
-## Get Help/Ask a question {- #get_help}
+# Get Help/Give Feedback {- #get_help}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -31,14 +27,14 @@ function x25() {
 :::
 
 
-While this is a self-paced course with no formal instructor or teaching assistant, we want to provide a way for you to get help and ask a question should you get stuck.
+While this is a self-paced course with no formal instructor or teaching assistant, we want to provide a way for you to get help and ask a question should you get stuck. We request that before you submit a question, you read through the lesson a couple of times, then attempt to do the Anki cards for that lesson.  Sometimes by doing this, things will "click" on their own.  If you are still unclear, we are here!
 
-We request that before you submit a question, you read through the lesson a couple of times, then attempt to do the Anki cards for that lesson.  Sometimes by doing this, things will "click" on their own.  If you are still unclear, we are here!
+Additionally, please do not hesitate to report any errors, omissions, or improvement opportunities^[General feedback on how much you love the course would be appreciated too!].  In fact, we'd rather hear about mistakes sooner rather than later! 
 
-Use the form below to ask a question. Please note, we are staffed by volunteers, so please allow a few days for us to research and get back to you.  
+::: {.box .info}
+* In the form, please be sure to give us your email or text information if you desire a response, otherwise your feedback will be anonymous
+* Note, we are staffed by volunteers, so please allow a few days for us to research and get back to you
 
-::: {.box .stop}
-If you have general feedback or wish to report an issue, please use the [`Report an Issue`](#report_issue) form instead of the `Get Help` form. 
 :::
 
 <div class="containerLet">
@@ -48,43 +44,3 @@ If you have general feedback or wish to report an issue, please use the [`Report
 
 [Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
 
-## Report an Issue {- #report_issue}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.reportissue.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-
-Please do not hesitate to report any errors, omissions, or improvement opportunities.  In fact, we'd rather hear about mistakes sooner rather than later! Feedback is anonymous.  
-
-::: {.box .stop}
-If you have a specific question about the content or are stuck on a concept, please use the [Get Help](#get_help) question form instead of the `Report an Issue` form.
-:::
-
-<div class="containerLet">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf3obLnGzJQ6d7Rtyy2YXDln3g-kJWCY-4IlRLE_mnFuWv2AQ/viewform?embedded=true" frameborder="0"></iframe>
-</div>
-
-[Open form in new window](https://forms.gle/qhBToGubVgmjdFbx6){target="_blank"}

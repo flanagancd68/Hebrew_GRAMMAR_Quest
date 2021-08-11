@@ -111,7 +111,7 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 | | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
-7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY)
+7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
 10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction | [YouTube: Step 10](https://youtu.be/rfKKzKX-CNg){target="_blank"}
@@ -164,6 +164,13 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 knitr::include_graphics("images/00.ankisettings01.png")
 ```
 
+::: {.box .info}
+INSERTION ORDER
+
+If you find `Sequential` is too easy, you might try to switch to `Random`.
+
+:::
+
 ### Lapses and Timer {-}
 
 `Show answer timer` is optional.
@@ -194,6 +201,9 @@ knitr::include_graphics("images/00.ankisettings04.png")
 
 ## How do I navigate within Anki? {-}
 
+```{r, out.width = "400pt", fig.align='center', fig.cap="Settings"}
+knitr::include_graphics("images/00.ankinavigate.png")
+```
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -240,6 +250,10 @@ function x25() {
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
 
 ## How do I know when to hit the `Good` button on an Anki card? {-}
+
+```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
+knitr::include_graphics("images/00.anki_good.png")
+```
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -288,6 +302,7 @@ We suggest using the following guidelines:
 
 ::: {.box .info}
 Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
+
 :::
 
 ## How do I get help with Anki? {-}
@@ -491,7 +506,7 @@ Lesson Points | The main grammar concepts. Our goal is to give you just enough i
  `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
  `Anki`^[See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.]| This is where the majority of your learning will take place.  There will be four modules to each Anki Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
 `A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
- `B. Grammar`|Here, you will work through the main grammar concepts discussed in the lesson.
+ `B. Grammar`|Here, you will work through the main grammar concepts discussed in the lesson. Also, from time to time, Anki cards will contain material not covered in the Hebrew GRAMMAR Quest lessons.
  `C. Workbook/Parsing`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
  `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
 `Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
@@ -515,6 +530,11 @@ Lastly, you might be encouraged by this article on [conquering the Fog](./images
 
   
 ## Course Resources {- #optional_resources}
+
+```{r, out.width = "600pt", fig.align='center'}
+library(knitr)
+include_graphics("images/lexicon.jpg")
+```
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -556,6 +576,10 @@ Below are additional resources, some of which are free and some paid:
   * Dr. Bill Mounce has study guides available for each Chapter of _Basics of Biblical Hebrew_
     * In most cases, these will not add much to the lessons in Hebrew GRAMMAR Quest, but some students might find them valuable
     * For Chapter 1, click [http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target="_blank"}; for other chapters, change the `01` in the URL to the chapter number you are seeking^[Except Chapter 4, which for some reason, is not available.]
+  * [The Basics of Biblical Hebrew Lexicon](./images/BBH_Lexicon.pdf){target="_blank"}
+    * A `lexicon` and a `dictionary` are virtually synonymous terms - academians tend to use the term `lexicon`
+    * The authors of <u>Basics of Biblical Hebrew</u> have created an abridged lexicon to accompany this course
+    * This document is beneficial as vocabulary words are indexed to the Lesson #, and irregular plural forms and selected construct forms are also included^[Students are also encouraged to review the Lexicon resources in the [Holy Language Heritage Library](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.  These dictionaries are much more exhaustive.]
 * Paid
   * Anki's iOS app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensive investment in your Hebrew journey, but the decision to purchase is entirely up to you.  You would be able to complete the course without purchase of the app.
   * To further supplement your studies, you may wish to purchase the _Basics of Biblical Hebrew_ textbook or any of the accompanying resources

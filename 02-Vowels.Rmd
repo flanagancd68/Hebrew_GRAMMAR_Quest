@@ -588,7 +588,7 @@ function x25() {
 * Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter
     * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word אַתָּה in the previous section
 
-_Advanced tip:_ When you see a Dagesh Forte, it often means that another letter has disappeared^[Not entirely unlike the English apostrophe in words like _can't_.].  We will talk more about this later in the course.
+_Advanced tip:_ When you see a Dagesh Forte, it often means that another letter (most frequently נ) has disappeared^[Not entirely unlike the English apostrophe in words like _can't_. The grammatical term for this is "assimilation."].  We will talk more about this later in the course.
 
 ::: {.infobox .info}
 It's good to think of the Dagesh Forte as the "Doubling Dagesh" since it doubles the consonant and often changes a word's meaning.  
@@ -688,7 +688,7 @@ When you see <span class="he">וּ</span>, it is usually a Shureq
 :::
 
 * A similar situation happens with <span class="he">וֹ</span>
-  * Consider the word, <span class="he>מִצְוֹת</span>
+  * Consider the word, <span class="he">מִצְוֹת</span>
     * This is a consonantal Vav with a Holem, pronounced "vo"
     * The previous consonant has a Sheva ending the syllable; the next syllable cannot start with a vowel
     
@@ -811,7 +811,7 @@ function x25() {
 * `Lesson 02 B. Grammar`  - the grammar section will look at vowels as groups, as well as test you on some other topics presented in this lesson
 * `Lesson 02 C. Study Verses`
   * Bible verses will arrive next Lesson
-  * In this module, we will be learning common Hebrew names
+  * In this module, we will be learning common Hebrew people and geographic names
   * Sound out the words using your knowledge of Hebrew consonants and vowels
   * As a general hint, with a couple of exceptions, the English names are pretty close to how they sound in Hebrew
   
