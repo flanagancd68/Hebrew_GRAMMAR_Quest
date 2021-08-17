@@ -75,21 +75,57 @@ Before continuing, can you describe the following concepts?
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/09.gen4327.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 ### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ </span> {-}
 
 *This man heavily questioned us and our kindred. (Genesis 43:7)*
 
 In addition to offering up our petitions, let us be sure to hear God's questions.  What is He asking you (or asking of you) today?  Take a moment.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/09.gen4327.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 *****
@@ -177,6 +213,11 @@ function setPlaySpeed25() {
 Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 6, we learned about one-letter preposition prefixes to words.  Pronominal suffixes work similarly. The difference is these go on the back of words instead of the front.
 
 * On a noun, a pronominal suffix indicates the one who owns or is related to the noun:  His books / her houses / their house / our father
+    * As this indicates a specific noun (in other words, not just any books, but HIS books), a noun with a pronominal suffix is **DEFINITE**
+    * This is our third of four factors that make a Hebrew noun definite^[We will meet #4 in Lesson 10]:
+        1. Has the (definite) article
+        2. Is a proper name
+        3. **Has a pronominal suffix**
 * On a preposition, the suffix indicates the object: to her / with them / behind him / in front of it
 * Verbs also take pronominal suffixes, which will indicate the verb's object.  We will study these in Lesson 19.
 
@@ -327,8 +368,8 @@ knitr::include_graphics("images/09.ps_plrl_tbl.png")
 * 1CP ends with נוּ
 * 2MP/2FP have כ
 * Not all 3M/3F have ה, but every ה is 3M/3F
-* 2MP/3MP has מָה or ם ('monks')
-* 2FP/3FP has נָה or ן ('nuns')
+* 2MP/3MP has ם ('monks')
+* 2FP/3FP has ן ('nuns')
 
 ## Distinguish Type 1 from Type 2
 
@@ -374,6 +415,7 @@ Type 1 **never** contains yod, *unless* it's hiriq+yod
 * This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
 * When you encounter a word with a suffix, always start by asking, "is there a vowel + yod, that is not hiriq + yod?"
 * If yes, then we have a Type 2 suffix, which indicates the noun is plural
+    * And if Tsere + Yod then both the noun and the person are plural
 
 
 ```{r, out.width = "600pt", fig.align='center'}
@@ -433,7 +475,7 @@ Part of learning to read Biblical Hebrew is assembling a set of skills that make
  
 Here is Dr. Beckman's example of the four steps using five example words with Type 1 suffixes.  Note that words do not always need all four steps.
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/09.lex_type1_tbl.png")
 ```
@@ -489,7 +531,7 @@ function setPlaySpeed25() {
 
 Here is Dr. Beckman's example of the five steps.  Note that words do not always need all five iterations.
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/09.lex_type2_tbl.png")
 ```
@@ -542,7 +584,7 @@ The rule still applies:
 
 ::: {.box .light}  
 * Type 2 suffixes **always** contain with vowel + yod, but **not** hireq + yod
-* Type 2 suffixes **never** contain vowel + yod **unless** it's hireq + yod
+* Type 1 suffixes **never** contain vowel + yod **unless** it's hireq + yod
 :::
 
 

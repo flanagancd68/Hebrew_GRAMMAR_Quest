@@ -107,10 +107,11 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](https://youtu.be/lBKbLFw3Ouo){target="_blank"}
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | On the website, click the `Download` button, then select the tab with your operating system^[The version numbers will change with the passage of time.  Unless instructed otherwise, download the curent version of the Anki desktop program on their website].  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}
 6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone.  . After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
-|Note: You can download and install all decks now or, you may wish to start with just `Unit 1`.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
-| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} |
+|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
+| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
+| | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  See `HGQ Custom Words` section for more information.
 7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
@@ -181,7 +182,7 @@ knitr::include_graphics("images/00.ankisettings02.png")
 
 ### Burying and Audio {-}
 
-These are optional.  Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  
+Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.
 ```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
 knitr::include_graphics("images/00.ankisettings03.png")
 ```
@@ -193,11 +194,27 @@ knitr::include_graphics("images/00.ankisettings04.png")
 ```
 
 ::: {.box .info}
+Anki Add-ons
+
 * Anki has a number of `Add-ons` for the desktop platforms you might find interesting.
 * You might check out [Advanced Review Bottom Bar](https://ankiweb.net/shared/info/1136455830)
   * Or `Tools` / `Addons` / `Get Add-ons` / then enter `1136455830`
   * You can tweak the add-on settings in the `ARBb` menu - try `Button style` = `Wide + Background Color`
+* Another useful add-on is [More Overview Stats 2.1](https://ankiweb.net/shared/info/738807903)
+  * This displays your `Young` vs `Mature` cards on the deck's dashboard - see picture ^[1st column is number of cards.  2nd column is percentage of cards.  3rd column is percentage of cards excluding `Suspended` cards (for the `Unit Certificate` your screenshot must reflect 0 suspended cards).]
+  * Add-on number: `738807903`
 :::
+
+```{r, out.width = "500pt", fig.align='center', fig.cap="Settings"}
+knitr::include_graphics("images/00.anki_more_stats.png")
+```
+
+## `HGQ Custom Words` Deck {-}
+
+* On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
+* This is an optional deck for you to add additional cards for words or concepts that you would like extra focus
+* Please refer to the video explanation below:
+
 
 ## How do I navigate within Anki? {-}
 
@@ -249,6 +266,12 @@ function x25() {
     * If you needed a hint, be sure to select `Again` on the answer side
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
 
+::: {.box .info}
+Hints/Mnemonics
+
+Several of the cards have silly mnemonics.  As we borrowed and reformatted the `Vocab` and `Grammar` cards from Dr. Beckman, most of the mnemonics were created by his students.  In most cases, we retained these but feel free to delete these from your deck (or simply ignore them)
+:::
+
 ## How do I know when to hit the `Good` button on an Anki card? {-}
 
 ```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
@@ -286,7 +309,10 @@ We suggest using the following guidelines:
 * `Again`
   * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
   * Your answer was correct, but you required a hint
-* `Hard` - You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
+* `Hard` 
+  * You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
+  * If you believe your correct answer had more to do with short-term recall instead of a firm grasp of the concept (e.g. you just saw the right answer a few minutes earlier and remembered what it was), you should select `Hard`.  This will present the card to you sooner (usually about 12 hours later) to make sure you really understand
+  * Similarly for `Study Verses`, if you got the correct answer for any other reason than you were able to read the verse in Hebrew (for example, you happen to have that verse memoried in English), select `Hard`
 * `Good`
   * All parts of the answer are correct; no hints
   * For Bible Verses, mark `Good` when:

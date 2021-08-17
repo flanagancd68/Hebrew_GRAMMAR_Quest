@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-08-11"
+#date: "2021-08-17"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-08-11</small>
+<small>*Updated*: 2021-08-17</small>
 
 <small>
 
@@ -404,10 +404,11 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](https://youtu.be/lBKbLFw3Ouo){target="_blank"}
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | On the website, click the `Download` button, then select the tab with your operating system^[The version numbers will change with the passage of time.  Unless instructed otherwise, download the curent version of the Anki desktop program on their website].  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}
 6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone.  . After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
-|Note: You can download and install all decks now or, you may wish to start with just `Unit 1`.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
-| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} |
+|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
+| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
+| | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  See `HGQ Custom Words` section for more information.
 7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
@@ -480,7 +481,7 @@ If you find `Sequential` is too easy, you might try to switch to `Random`.
 
 ### Burying and Audio {-}
 
-These are optional.  Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  
+Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings03.png" alt="Settings" width="700pt" />
 <p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
@@ -494,17 +495,34 @@ These are optional.  Cards that have multiple answers are called `siblings`.  Tu
 </div>
 
 ::: {.box .info}
+Anki Add-ons
+
 * Anki has a number of `Add-ons` for the desktop platforms you might find interesting.
 * You might check out [Advanced Review Bottom Bar](https://ankiweb.net/shared/info/1136455830)
   * Or `Tools` / `Addons` / `Get Add-ons` / then enter `1136455830`
   * You can tweak the add-on settings in the `ARBb` menu - try `Button style` = `Wide + Background Color`
+* Another useful add-on is [More Overview Stats 2.1](https://ankiweb.net/shared/info/738807903)
+  * This displays your `Young` vs `Mature` cards on the deck's dashboard - see picture ^[1st column is number of cards.  2nd column is percentage of cards.  3rd column is percentage of cards excluding `Suspended` cards (for the `Unit Certificate` your screenshot must reflect 0 suspended cards).]
+  * Add-on number: `738807903`
 :::
+
+<div class="figure" style="text-align: center">
+<img src="images/00.anki_more_stats.png" alt="Settings" width="500pt" />
+<p class="caption">(\#fig:unnamed-chunk-8)Settings</p>
+</div>
+
+## `HGQ Custom Words` Deck {-}
+
+* On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
+* This is an optional deck for you to add additional cards for words or concepts that you would like extra focus
+* Please refer to the video explanation below:
+
 
 ## How do I navigate within Anki? {-}
 
 <div class="figure" style="text-align: center">
 <img src="images/00.ankinavigate.png" alt="Settings" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-8)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-9)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -551,11 +569,17 @@ function x25() {
     * If you needed a hint, be sure to select `Again` on the answer side
 * When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
 
+::: {.box .info}
+Hints/Mnemonics
+
+Several of the cards have silly mnemonics.  As we borrowed and reformatted the `Vocab` and `Grammar` cards from Dr. Beckman, most of the mnemonics were created by his students.  In most cases, we retained these but feel free to delete these from your deck (or simply ignore them)
+:::
+
 ## How do I know when to hit the `Good` button on an Anki card? {-}
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_good.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-9)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-10)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -589,7 +613,10 @@ We suggest using the following guidelines:
 * `Again`
   * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
   * Your answer was correct, but you required a hint
-* `Hard` - You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
+* `Hard` 
+  * You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
+  * If you believe your correct answer had more to do with short-term recall instead of a firm grasp of the concept (e.g. you just saw the right answer a few minutes earlier and remembered what it was), you should select `Hard`.  This will present the card to you sooner (usually about 12 hours later) to make sure you really understand
+  * Similarly for `Study Verses`, if you got the correct answer for any other reason than you were able to read the verse in Hebrew (for example, you happen to have that verse memoried in English), select `Hard`
 * `Good`
   * All parts of the answer are correct; no hints
   * For Bible Verses, mark `Good` when:
@@ -1091,7 +1118,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 
 <div class="figure" style="text-align: center">
 <img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-14)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-15)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 <small>Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
@@ -1852,7 +1879,7 @@ Reflect on the works of HaShem that you have seen!
 
 <div class="figure" style="text-align: center">
 <img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-25)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-26)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 <!-- 2.1 -->
@@ -2456,7 +2483,7 @@ function x25() {
 
 <div class="figure" style="text-align: center">
 <img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="500pt" />
-<p class="caption">(\#fig:unnamed-chunk-31)That's no moon.  That's a Guttural!</p>
+<p class="caption">(\#fig:unnamed-chunk-32)That's no moon.  That's a Guttural!</p>
 </div>
 
 * A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements
@@ -2861,7 +2888,7 @@ Thank God for his blessings and meditate upon them.
 
 <div class="figure" style="text-align: center">
 <img src="images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg" alt="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-32)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-33)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Hebrew Syllables {#syllables}
@@ -3919,7 +3946,7 @@ Congratulations again on completing unit 1!
 * In units 3 and 4, we will transition to verbs
 
 ::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} if you haven't already done so
+Remember to download [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} if you haven't already done so
 :::
 
 <large>Changes for Unit 2</large>:
@@ -4082,7 +4109,7 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-47)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-48)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5350,7 +5377,7 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 <div class="figure" style="text-align: center">
 <img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-48)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-49)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Vav Lecture (from HQ Lesson 5)
@@ -6319,7 +6346,7 @@ The בּ in <span class="he">בְּיוֹם</span> is an example of an "insepara
 
 <div class="figure" style="text-align: center">
 <img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-51)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-52)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6344,7 +6371,7 @@ End: 38:23
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.2.mp3">
+src="./images/06.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6393,7 +6420,7 @@ A Dagesh Forte frequently indicates an assimilated נ
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.3.mp3">
+src="./images/06.3.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6442,7 +6469,7 @@ The same preposition may be written both with and without the Maqqef
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.4.mp3">
+src="./images/06.4.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6514,7 +6541,7 @@ End: 41:00
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.6.mp3">
+src="./images/06.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6543,7 +6570,6 @@ function x25() {
 
 <img src="images/06.preposition_article.png" width="800pt" style="display: block; margin: auto;" />
 
-### FIX GRAPHIC ^^^
 
 * On reason we spend so much time talking about the Dagesh Forte is that it is an extremely useful clue as to what is going on within a word
 * When a letter rejects the Dagesh Forte, this clue is gone
@@ -6563,7 +6589,7 @@ ARTICLE WITH PREPOSITION
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.7.mp3">
+src="./images/06.7.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6608,7 +6634,7 @@ function x25() {
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.8.mp3">
+src="./images/06.8.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6641,7 +6667,7 @@ Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</s
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.9.mp3">
+src="./images/06.9.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6691,7 +6717,7 @@ MEANING OF <span class="he">מִן</span>
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.10.mp3">
+src="./images/06.10.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6749,7 +6775,7 @@ End: 46:55
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.conclusion.mp3">
+src="./images/06.conclusion.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6787,6 +6813,16 @@ We recommend using the time between now and starting Lesson 7 to get caught up a
     * Make sure you look up any words you do not know.  You can download an abridged lexicon [here](./images/BBH_Lexicon.pdf){target="_blank"}.
 * `Lesson 06 D. Verses`
 
+::: {.box .light}
+Aim for Anki Accuracy!
+
+* Like Izzy said back at the beginning of _Hebrew Quest_, make your Hebrew study and act of worship
+    * He encouraged us to not simply scribble out a row of Hebrew letters but make them as neat and as perfect as we can
+* If you haven't already been doing so, now is the time to start raising our Anki standards!
+* If the correct answer is "a horse" but you said "_the_ horse" you should click `again`
+* Similarly when we get to pronominal suffixes, if the correct answer is "their (3MP) horses" but you answered "_his_ (3MS) horses", click `again`
+:::
+
 
 ## Word Warm-up {-}
 
@@ -6811,7 +6847,7 @@ We recommend using the time between now and starting Lesson 7 to get caught up a
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.ruth.mp3">
+src="./images/06.ruth.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6871,7 +6907,7 @@ YOUR QUEST
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.intro.mp3">
+src="./images/07.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -6959,7 +6995,7 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-55)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-56)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Adjectives Lecture
@@ -6984,7 +7020,7 @@ End: 49:38
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.2.mp3">
+src="./images/07.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7046,7 +7082,7 @@ The good news is you already know what to do. Adjectives follow the same rules a
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.3.mp3">
+src="./images/07.3.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7092,7 +7128,7 @@ SUBSTANTIVAL USE IS RELATIVELY EASY TO IDENTIFY
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.4.mp3">
+src="./images/07.4.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7135,7 +7171,7 @@ ATTRIBUTIVE MNEMONIC
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.4.mp3">
+src="./images/07.4.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7182,7 +7218,7 @@ PREDICATIVE MNEMONIC
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.6.mp3">
+src="./images/07.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7219,7 +7255,7 @@ As a brief review, determine whether the adjective is acting as Attributive, Pre
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.7.mp3">
+src="./images/07.7.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7255,7 +7291,7 @@ function x25() {
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.8.mp3">
+src="./images/07.8.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7320,7 +7356,7 @@ function x25() {
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.rutn.mp3">
+src="./images/07.rutn.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7396,7 +7432,7 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.intro.mp3">
+src="./images/08.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7497,7 +7533,7 @@ The first word in the passage above is an example of a "demonstrative pronoun". 
 
 <div class="figure" style="text-align: center">
 <img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-57)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-58)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Independent Pronouns Lecture
@@ -7517,7 +7553,7 @@ End: 15:12
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.2.mp3">
+src="./images/08.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7569,7 +7605,7 @@ PRONOUN TIPS
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.3.mp3">
+src="./images/08.3.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7599,6 +7635,7 @@ function x25() {
 * 1st person
     * Like English, Hebrew does not distinguish between gender in the first person
     * A woman says "I" and a man says "I"
+    * We call this "common" gender and abbreviate "C" - 1CS = first person, common gender, singular in number
     * <span class="he">אָנֹכִי</span> is considered more formal or emphatic.  It is often translated, "I, myself"
 * Do not confuse <span class="he">אַתָּה</span> (you 2MS) with <span class="he">עַתָּה</span> (now)
     
@@ -7606,7 +7643,7 @@ function x25() {
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.4.mp3">
+src="./images/08.4.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7643,7 +7680,7 @@ function x25() {
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.5.mp3">
+src="./images/08.5.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7698,7 +7735,7 @@ End: 30:35
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.7.mp3">
+src="./images/08.7.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7732,7 +7769,7 @@ function x25() {
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.8.mp3">
+src="./images/08.8.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7783,7 +7820,7 @@ yY3O8ByYNwI?start=1160&end=1232
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.10.mp3">
+src="./images/08.10.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7828,7 +7865,7 @@ POTENTIAL AMBIGUITY
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.11.mp3">
+src="./images/08.11.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7872,7 +7909,7 @@ Demonstrative Pronoun Perpetually Precedes, Perpetually dePrived of article
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.12.mp3">
+src="./images/08.12.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7916,7 +7953,7 @@ Demonstrative Adjective Always After the noun, Always has Article, Always Agrees
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.conclusion.mp3">
+src="./images/08.conclusion.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7952,7 +7989,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 <div class="figure" style="text-align: center">
 <img src="images/08-manna-ko-hiking-en-gedi.jpg" alt="Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission." width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-58)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
+<p class="caption">(\#fig:unnamed-chunk-59)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
 </div>
 :::
 
@@ -7994,7 +8031,7 @@ While our focus is on reading Hebrew, pronouns are so prevalent that it's highly
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/08.ruth.mp3">
+src="./images/08.ruth.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -8132,28 +8169,64 @@ Before continuing, can you describe the following concepts?
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/09.gen4327.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 ### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ </span> {-}
 
 *This man heavily questioned us and our kindred. (Genesis 43:7)*
 
 In addition to offering up our petitions, let us be sure to hear God's questions.  What is He asking you (or asking of you) today?  Take a moment.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/09.gen4327.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 *****
 
 <div class="figure" style="text-align: center">
 <img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-59)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-60)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Possessive Pronominal Suffixes Lecture
@@ -8234,6 +8307,11 @@ function setPlaySpeed25() {
 Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 6, we learned about one-letter preposition prefixes to words.  Pronominal suffixes work similarly. The difference is these go on the back of words instead of the front.
 
 * On a noun, a pronominal suffix indicates the one who owns or is related to the noun:  His books / her houses / their house / our father
+    * As this indicates a specific noun (in other words, not just any books, but HIS books), a noun with a pronominal suffix is **DEFINITE**
+    * This is our third of four factors that make a Hebrew noun definite^[We will meet #4 in Lesson 10]:
+        1. Has the (definite) article
+        2. Is a proper name
+        3. **Has a pronominal suffix**
 * On a preposition, the suffix indicates the object: to her / with them / behind him / in front of it
 * Verbs also take pronominal suffixes, which will indicate the verb's object.  We will study these in Lesson 19.
 
@@ -8378,8 +8456,8 @@ Below are the plural suffixes:
 * 1CP ends with נוּ
 * 2MP/2FP have כ
 * Not all 3M/3F have ה, but every ה is 3M/3F
-* 2MP/3MP has מָה or ם ('monks')
-* 2FP/3FP has נָה or ן ('nuns')
+* 2MP/3MP has ם ('monks')
+* 2FP/3FP has ן ('nuns')
 
 ## Distinguish Type 1 from Type 2
 
@@ -8425,6 +8503,7 @@ Type 1 **never** contains yod, *unless* it's hiriq+yod
 * This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
 * When you encounter a word with a suffix, always start by asking, "is there a vowel + yod, that is not hiriq + yod?"
 * If yes, then we have a Type 2 suffix, which indicates the noun is plural
+    * And if Tsere + Yod then both the noun and the person are plural
 
 
 <img src="images/09.ps_both_tbl.png" width="600pt" style="display: block; margin: auto;" />
@@ -8481,7 +8560,7 @@ Part of learning to read Biblical Hebrew is assembling a set of skills that make
  
 Here is Dr. Beckman's example of the four steps using five example words with Type 1 suffixes.  Note that words do not always need all four steps.
 
-<img src="images/09.lex_type1_tbl.png" width="400pt" style="display: block; margin: auto;" />
+<img src="images/09.lex_type1_tbl.png" width="600pt" style="display: block; margin: auto;" />
 
 ## Identifying the Lexical Form with Type 2
 
@@ -8534,7 +8613,7 @@ function setPlaySpeed25() {
 
 Here is Dr. Beckman's example of the five steps.  Note that words do not always need all five iterations.
 
-<img src="images/09.lex_type2_tbl.png" width="400pt" style="display: block; margin: auto;" />
+<img src="images/09.lex_type2_tbl.png" width="600pt" style="display: block; margin: auto;" />
 
 ## Unexpected changes
 
@@ -8584,7 +8663,7 @@ The rule still applies:
 
 ::: {.box .light}  
 * Type 2 suffixes **always** contain with vowel + yod, but **not** hireq + yod
-* Type 2 suffixes **never** contain vowel + yod **unless** it's hireq + yod
+* Type 1 suffixes **never** contain vowel + yod **unless** it's hireq + yod
 :::
 
 
@@ -8977,7 +9056,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-65)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-66)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9635,7 +9714,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-67)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-68)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10517,7 +10596,7 @@ Lessons 13-16 are critical!
 
 <div class="figure" style="text-align: center">
 <img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-70)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
+<p class="caption">(\#fig:unnamed-chunk-71)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
 </div>
 
 
@@ -10647,7 +10726,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives, and prepositions, we will now focus on verbs.
+> Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives, and prepositions, we will now focus on verbs.
 
 Around 70% of Hebrew verbs are in what we call the Qal stem, so we will spend Lessons 13-22 (in other words, Unit III) learning that stem inside and out.  Qal verbs represent "simple action", or active voice with a simple unnuanced type of action.^[The derived stems are different combinations of "voice" (active, passive, or reflexive) and "action" (simple or causative)]
 
@@ -10738,7 +10817,7 @@ In these times, we must depend on God to sustain us.  It is times like these whe
 
 <div class="figure" style="text-align: center">
 <img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-71)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-72)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -12001,7 +12080,7 @@ YOUR HEBREW QUEST!
 
 
 
-Over 2/3 of all verbs in the Hebrew Bible are in the Qal stem.  To understand Biblical Hebrew, we must be able to translate Qal verbs.
+> Over 2/3 of all verbs in the Hebrew Bible are in the Qal stem.  To understand Biblical Hebrew, we must be able to translate Qal verbs.
 
 While our focus is not on writing Biblical Hebrew, we need to be able to write the details on the Qal strong verb paradigms. This will make it easier to recognize Qal weak and non-Qal verbs.  This lesson will begin with the Perfect conjugation.
 
@@ -12054,7 +12133,7 @@ Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ
 
 <div class="figure" style="text-align: center">
 <img src="images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg" alt="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-74)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-75)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -12547,7 +12626,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-83)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -12942,7 +13021,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-83)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-84)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13227,7 +13306,7 @@ The Qal Imperfect Strong Paradigm must be memorized.
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-86)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-87)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13679,7 +13758,7 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-88)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
@@ -13938,7 +14017,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-89)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14270,7 +14349,7 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14459,7 +14538,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-90)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-91)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -14717,7 +14796,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
@@ -14923,7 +15002,7 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-93)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -15182,7 +15261,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-95)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15561,7 +15640,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15956,7 +16035,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16202,7 +16281,7 @@ We must practice the disciplines of worship, service, and study (and teaching if
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-100)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16603,7 +16682,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-102)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16865,7 +16944,7 @@ How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and 
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17132,7 +17211,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17240,7 +17319,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17573,7 +17652,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17826,7 +17905,7 @@ HaShem had these details recorded for a reason. Through our study of Hebrew, we 
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18102,7 +18181,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18234,7 +18313,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18508,7 +18587,7 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-114)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18733,7 +18812,7 @@ The men and women who followed Yeshua became a safe and loving community.  Same 
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-116)Chris Flanagan</p>
 </div>
 ## References {-}
 

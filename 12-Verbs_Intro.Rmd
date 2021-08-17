@@ -45,7 +45,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives, and prepositions, we will now focus on verbs.
+> Hebrew is a verbal, action-oriented language.  Now that we have concluded our discussion on nouns, pronouns, adjectives, and prepositions, we will now focus on verbs.
 
 Around 70% of Hebrew verbs are in what we call the Qal stem, so we will spend Lessons 13-22 (in other words, Unit III) learning that stem inside and out.  Qal verbs represent "simple action", or active voice with a simple unnuanced type of action.^[The derived stems are different combinations of "voice" (active, passive, or reflexive) and "action" (simple or causative)]
 

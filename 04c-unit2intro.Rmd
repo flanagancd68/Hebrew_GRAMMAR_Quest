@@ -57,7 +57,7 @@ Congratulations again on completing unit 1!
 * In units 3 and 4, we will transition to verbs
 
 ::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit2_V00.apkg){target="_blank"} if you haven't already done so
+Remember to download [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} if you haven't already done so
 :::
 
 <large>Changes for Unit 2</large>:

@@ -120,7 +120,7 @@ End: 38:23
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.2.mp3">
+src="./images/06.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -172,7 +172,7 @@ A Dagesh Forte frequently indicates an assimilated נ
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.3.mp3">
+src="./images/06.3.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -221,7 +221,7 @@ The same preposition may be written both with and without the Maqqef
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.4.mp3">
+src="./images/06.4.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -293,7 +293,7 @@ End: 41:00
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.6.mp3">
+src="./images/06.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -325,7 +325,6 @@ library(knitr)
 knitr::include_graphics("images/06.preposition_article.png")
 ```
 
-### FIX GRAPHIC ^^^
 
 * On reason we spend so much time talking about the Dagesh Forte is that it is an extremely useful clue as to what is going on within a word
 * When a letter rejects the Dagesh Forte, this clue is gone
@@ -345,7 +344,7 @@ ARTICLE WITH PREPOSITION
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.7.mp3">
+src="./images/06.7.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -393,7 +392,7 @@ knitr::include_graphics("images/06.preposition_min.jpg")
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.8.mp3">
+src="./images/06.8.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -426,7 +425,7 @@ Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</s
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.9.mp3">
+src="./images/06.9.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -476,7 +475,7 @@ MEANING OF <span class="he">מִן</span>
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.10.mp3">
+src="./images/06.10.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -534,7 +533,7 @@ End: 46:55
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.conclusion.mp3">
+src="./images/06.conclusion.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -572,6 +571,16 @@ We recommend using the time between now and starting Lesson 7 to get caught up a
     * Make sure you look up any words you do not know.  You can download an abridged lexicon [here](./images/BBH_Lexicon.pdf){target="_blank"}.
 * `Lesson 06 D. Verses`
 
+::: {.box .light}
+Aim for Anki Accuracy!
+
+* Like Izzy said back at the beginning of _Hebrew Quest_, make your Hebrew study and act of worship
+    * He encouraged us to not simply scribble out a row of Hebrew letters but make them as neat and as perfect as we can
+* If you haven't already been doing so, now is the time to start raising our Anki standards!
+* If the correct answer is "a horse" but you said "_the_ horse" you should click `again`
+* Similarly when we get to pronominal suffixes, if the correct answer is "their (3MP) horses" but you answered "_his_ (3MS) horses", click `again`
+:::
+
 
 ## Word Warm-up {-}
 
@@ -596,7 +605,7 @@ We recommend using the time between now and starting Lesson 7 to get caught up a
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.ruth.mp3">
+src="./images/06.ruth.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
