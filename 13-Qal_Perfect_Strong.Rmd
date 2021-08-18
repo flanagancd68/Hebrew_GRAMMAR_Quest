@@ -322,6 +322,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+* As Izzy said in the opening video segment, the perfect sufformatives are related to the pronominal suffixes, which in turn are related to the personal pronouns in many cases
 * The table below shows the perfect sufformatives in the middle column  
 * Note how the 1st person, 2nd person, and 3fs forms are similar to the respective pronominal suffix
 * 2MP and 2FP are called "Heavy Sufformatives" because, as we will learn, they draw the accent
