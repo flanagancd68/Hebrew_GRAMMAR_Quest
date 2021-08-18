@@ -211,10 +211,36 @@ knitr::include_graphics("images/00.anki_more_stats.png")
 
 ## `HGQ Custom Words` Deck {-}
 
-* On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
-* This is an optional deck for you to add additional cards for words or concepts that you would like extra focus
-* Please refer to the video explanation below:
+```{r, out.width = "300pt", fig.align='center', fig.cap="Settings"}
+knitr::include_graphics("images/00.anki_custom.png")
+```
 
+* On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
+* This is an optional deck for you to add additional cards for words or concepts that you would like extra focus or to expand your Hebrew vocabulary
+* Steps in Anki:
+  1. Copy the Hebrew word from one of the main Hebrew GRAMMAR Quest decks
+  2. Click `Decks`
+  3. Select `HGQ Custom Words` deck
+  4. Click `Add`
+  5. Make sure `type = Grammar Cloze`; if not, change type to `Grammar Cloze` by clicking on the type field
+  6. Paste your Hebrew word, and type the English meaning next to the Hebrew word
+  7. Select/highlight the English text then click the `Cloze` button: `[...]`
+  8. Add any notes you want in the remaining fields, including any hints or mnemonics that will help you remember the word
+  9. Click `Add`
+* The video below walks through these steps:
+
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+7jp8rhufAMU?start=0&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/7jp8rhufAMU){target="_blank"}
+
+::: {.box .info}
+* We will learn the "parsing code" shown in the image in Unit 3
+* [This site](https://scholarsgateway.com/search/WLC-ESV/Exodus/16:25) is extremely helpful with identifying parts of speech in the Tanach.
+:::
 
 ## How do I navigate within Anki? {-}
 

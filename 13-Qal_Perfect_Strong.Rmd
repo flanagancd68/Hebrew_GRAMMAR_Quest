@@ -1,6 +1,39 @@
 # Qal Perfect - Strong Verbs {.QP-s}
 
-
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.intro.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 > Over 2/3 of all verbs in the Hebrew Bible are in the Qal stem.  To understand Biblical Hebrew, we must be able to translate Qal verbs.
 
@@ -29,6 +62,41 @@ Before continuing, make sure you understand the $R_n$ and the $V_n$ nomenclature
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.08.2chr3421.mp3">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 ### <span class="he">לֹא־שָׁמְר֤וּ אֲבוֹתֵ֙ינוּ֙ אֶת־דְּבַ֣ר יְהוָ֔ה </span> {-}
 
 *Our fathers did not keep the word of Adonai (2 Chronicles 34:21)*
@@ -40,17 +108,6 @@ In <span class="he">לֹא־שָׁמְרוּ</span>, the word לֹא serves to n
 Every day, and frequently throughout each day, we have two choices.  We can keep His word, or we can ignore His word.  
 
 Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ אֶת־דְּבַר יְהוָה </span>, "they KEPT the word of Adonai."
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/13.08.2chr3421.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 
 ```{r, out.width = "600pt", fig.align='center', fig.cap="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
@@ -75,7 +132,42 @@ hfu4gjNo2K4?start=2846&end=3062&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 Start: 47:26
 End: 51:02
 
-##  Qal is Simple action, Active voice
+##  Qal Stem is Simple action, Active voice
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.2.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -87,7 +179,42 @@ Cause an Action	|Hiphil | Hophal
 *  Qal is the primary Hebrew stem
 *  The other six major stems are said to be "derived" from the Qal stem, hence the name "derived stems"
 
-## Perfect is completed action or a state as a whole
+## The Perfect Conjugation is completed action or a state as a whole
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.3.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * In translating, we will most often use the simple English past tense
     * For example, "she studied"
@@ -103,26 +230,97 @@ Cause an Action	|Hiphil | Hophal
     * In a few sections, we will learn that in Hebrew, stative verbs are sometimes spelled differently
     
 ::: {.box .info}
-The Hebrew perfect aspect describes an action or a state of being as a whole, not as a process
+The Hebrew perfect conjugation describes an action or a state of being as a whole, _not as a process_
 
 I.e., "she was studying" is an incomplete process, but "she had studied" is completed action  
 :::
 
 ## Preformatives and Sufformatives
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.4.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+
 * In Lesson 12, we introduced the concept of preformatives and sufformatives
 * These are unique verbal beginnings and endings that indicate person, gender, and number
 * The Perfect has a set of "perfect sufformatives"
     * Only the 3ms does not have a perfect sufformative
-    * We will learn the sufformatives for the remaining forms in the next section
-    * The perfect does not have preformatives
-    * A verb without a preformative, and a perfect sufformative will be diagnostic of a Perfect conjugation
-    * The perfect sufformatives are the same across all verb stems, so what you learn for the Qal can be applied to the derived stems
-* The Imperfect primarily has "imperfect preformatives"
-    * All forms have an imperfect preformative
-    * Many forms also have an imperfect sufformative
+    * We will learn the sufformatives for the remaining PGN forms in the next section
+* The perfect sufformatives are the same across all verb stems, so what you learn for the Qal can be applied to the derived stems (good news!)
+* The perfect does not have preformatives (more good news!)
+
+::: {.box .light}
+A verb with no preformative, and a perfect sufformative will be diagnostic of a Perfect conjugation
+:::
 
 ## The Perfect Sufformatives I
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.5.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * The table below shows the perfect sufformatives in the middle column  
 * Note how the 1st person, 2nd person, and 3fs forms are similar to the respective pronominal suffix
@@ -138,6 +336,41 @@ knitr::include_graphics("images/13_perfect sufformatives.png")
 
 
 ## The Perfect Sufformatives II
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.6.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * The table below lists the perfect sufformatives
     * Stand-alone
@@ -156,19 +389,63 @@ GOOD NEWS
 As you continue with your Hebrew GRAMMAR Quest into Unit 4, you will learn these sufformatives REMAIN THE SAME throughout all seven Perfect conjugations.
 :::
 
+<figure>
+    <figcaption>Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/13.Qal_perfect.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 ## A Sheva precedes a Finite Sufformative
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.7.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+
 * This is a general rule that results in a Sheva under $R_3$ or $R_2$
-* This only applies to finite verbs (Perfect, Imperfect, Imperative, ; )
-* Of course, when the Sheva is under $R_2$, this means the Sheva displaces the conjugation's normal $V_S$
+* This only applies to finite verbs (Perfect, Imperfect, Volitional)
 * Because of this rule, when the sufformative has a בגדכפת letter (usually ת), that letter will take a Daghesh Lene
-* Take a look at this table again and note how there is a sheva next to the sufformative
-    * 3MS has no sufformative so it has no sheva
-    * 3CP looks a little different because the sufformative starts with a vowel
-        * The ל already has an associated vowel, Shureq
-        * A consonant cannot have more than one vowel
-        * Therefore the Sheva displaces the Patach in $V_2$
-        * The same thing happens in 3FS; the Sheva can't go under the ל because it already has a vowel
+* Take a look at the Qal Perfect Paradigm table again and note how there is a sheva next to the sufformative
+* 3MS has no sufformative so it has no sheva
+* 3CP and 3FS looks a little different because those sufformatives both start with a vowel
+    * The ל already has an associated vowel, Shureq (3CP)and Qamets+Hei (3FS)
+    * A consonant cannot have more than one vowel
+    * For these two PGN forms, since the Sheva can't go under $R_3$, it shifts to $R_2$ (and displaces the Patach in $V_2$)
     
 ```{r, out.width = "700pt", fig.align='center'}
 
@@ -182,17 +459,53 @@ The Sheva is rejected in the following circumstances:
 * A Sheva does not replace $V_1$ of the Qal Perfect (and only the Qal Perfect)
 * When $R_3$ is <span class="he">א</span>, the א quiesces (generally resulting in Compensatory Lengthening of $V_2$)
 
+The Sheva may either be silent or vocal, depending on the rules we learned in Lesson 3
 :::
 
 
 
 ## Qal Perfect Vowels: $V_1$ is almost always Qamets
 
-* On previous chart, you likely noticed other markings under <span class="he">קטל</span> besides the sufformatives
-* These are the other characteristics of the Qal perfect paradigm
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.8.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+* There are other characteristics of the Qal perfect paradigm that will help us when we read the Bible
 * $V_1 = \bar A$ (Qamets) almost always
-    * As we learned way back in this course, an unaccented long vowel in an open propretonic syllable will undergo propretonic reduction
-    * When this happens, you will see a Vocal Sheva, but you will be able to deduce that $V_1$ used to be a long vowel - and if it's a Qal verb, you'll know it used to be a Qamets
+* Exception: as we learned way back in this course, an unaccented long vowel in an open propretonic syllable will undergo propretonic reduction
+    * When this happens, you will see a Vocal Sheva instead of Qamets
+    * Because we can identify propretonic reduction, we will be able to deduce that $V_1$ used to be a long vowel - and if it's a Qal verb, you'll know it used to be a Qamets
 * Study the chart below showing $V_1$
     * The vertical line in 3FS and 3CP is called a "metheg" and is used to distinguish $\bar A$ (Qamets) from $O$ (Qamets Hatuf) when followed by a Sheva
     * Note 2MP and 2FP have undergone propretonic reduction and have $ə$ (Vocal Sheva) instead of $\bar A$
@@ -203,6 +516,41 @@ knitr::include_graphics("images/13.qptablev1.png")
 ``` 
 
 ## Qal Perfect Strong $Pre =$ <span class="he">קָ</span>
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.9.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 
 * HGQ SHORTHAND: $Pre$ = Strong Form Diagnostic Word-initial Sequence
 * Each of the stems/conjugations has a distinctive combination of consonants, vowels, and occasionally Daghesh Forte marks the first one or two syllables of a given verb
@@ -215,6 +563,41 @@ knitr::include_graphics("images/13.qptablev1.png")
 
     
 ## Qal Perfect Strong $V_S = A$
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.10.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 
 * For QP, $V_2$ prefers Patach 
 * For strong verbs, $V_S = V_2$
@@ -238,11 +621,47 @@ EXCEPTIONS
 
 ## Each Stem will have a $V_S$ Formula
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.11.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+
 * As we progress through the verbs, each major stem will end up with a formula that looks something like this: 
 
 $$V_{S} =  Î[A] \sim  Î(Ē)$$
 
-* This is probably complete gibberish to you right now
+* This is probably complete gibberish to you right now!
 * As we get into Unit 4, this formula (in combination with the $Pre$ pattern) will save you hours of paradigm memorization of the derived stems
 * You will only need to memorize the Qal paradigms, then apply this formula to the other stems
 * So let's start to build this formula for the Qal:
@@ -257,6 +676,40 @@ $$V_{S} = A \sim$$
 
 ## $V_S$ is accented in Finite verbs
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.12.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
 * As we introduced in Lesson 12, verbs that have "person" designation are called Finite verbs
     * Perfect, Imperfect, Imperative, Cohortative, Jussive are FINITE
     * Infinitive Construct, Infinitive Absolute, Participle are NON-FINITE because they do not have "person"
@@ -269,7 +722,7 @@ $$V_{S} = A \sim$$
         * In <span class="he">קָם</span> $V_S = \bar A$ (Qamets)
 * Take a look at this table again and note where the accent lands:
 
-```{r, out.width = "700pt", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 
 knitr::include_graphics("images/13.qptablevs.png")
 ``` 
@@ -294,6 +747,41 @@ EXCEPTIONS
 
 ## Building the Qal Perfect Strong Paradigm
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.13.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 * Understanding how we build the paradigm will prepare you to identify verbs in the Bible
 * It will also prepare you to spot when deviations occur in weak verbs
 * Study the graphic and the steps below carefully
@@ -309,18 +797,59 @@ knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
     * 3fs/3cp - the Sheva can't go under $R_3$ because $R_3$ already has a vowel
         * A consonant can't have more than one vowel
         * For these forms, the Sheva goes under $R_2$
-3. Add Dagesh Lene to תּ that comes after any Sheva
+3. Add Dagesh Lene to תּ that comes after any Sheva (as we would need to do for any בגד כפת letter)
     * all 2nd person forms and 1cs
-4. $V_S = A$ (Patach) in the Qal Perfect Strong paradigm (13.5)
+4. $V_S = A$ (Patach) in the Qal Perfect Strong paradigm
     * UNLESS $V_2$ is already a Sheva from step two
-5. Accent $V_S$ (unless there is one of the exceptions listed in 13.6)
-6. $V_1 = \bar A$ (Qamets) (13.5)
+5. Accent $V_S$ 
+    * Exception 1 - $V_S$ is reduced/Sheva
+    * Exception 2 - there is a "heavy sufformative" that draws the accent
+6. $V_1 = \bar A$ (Qamets)
     * 2mp/2fp - the Qamets is then reduced to a Vocal Sheva because of propretonic reduction
-7. OPTIONAL - Add a metheg mark to $V_1$ 3fs/3cp 
+7. OPTIONAL - Add a Metheg mark to $V_1$ 3fs/3cp 
     * The Metheg can denote that the vowel is Qamets followed by a vocal Sheva and not Qamets Hatuf followed by a Silent Sheva
-    * Most Hebrew Bibles do not employ a Metheg for this purpose.
+    
+::: {.box .caution}
+Most Hebrew Bibles do not employ a Metheg
+:::
     
 ## Qal Perfect Strong Paradigm
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.14.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 
 Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קטל and take note of pronunciation and accents.  
 
@@ -333,18 +862,81 @@ Below is the complete paradigm.  Be sure to listen to Izzy read the forms with t
 | 2fs | <span class="he">קָטַ֫לְתְּ</span> | 2fp | <span class="he">קְטַלְתֶּן</span>
 | 1cs | <span class="he">קָטַ֫לְתִּי</span> | 1cp | <span class="he">קָטַ֫לנוּ</span>
 
-
+::: {.infobox .sound}
 <figure>
-    <figcaption>Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/13.Qal_perfect.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
+<figcaption>Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_</figcaption>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.Qal_perfect.mp3">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+
 </figure>
+:::
+
 
 ## Worksheet: Qal Perfect Strong Paradigm {-}
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.activity.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 
 * We are going to go a little out of order
 * Typically, we save all of the activities for the end of the lesson, but here, we want you to pause and complete the [Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}.
@@ -356,6 +948,41 @@ Below is the complete paradigm.  Be sure to listen to Izzy read the forms with t
 * In other words, the material that follows in this lesson will make more sense to you if you have the paradigm in your short-term memory
 
 ## Qal Perfect Strong Examples
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.15.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 
 * <span class="he">יָדַ֥ע</span>
     * No Preformative + No sufformative =  $P3ms$ conjugation
@@ -384,6 +1011,42 @@ NAVIGATION TIP
 
 ## Deviations from the Paradigm
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.16.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+
 * As we talked about in Lesson 12, what makes a verb "weak" versus "strong" is when one or more letters cause a deviation from the strong verb paradigm
 * While the bulk of the discussion on weak verbs will be in Lesson 14, there are three weak forms we will introduce in this lesson: 
     * Words where $R_3$ = <span class="he">נ</span>, which we abbreviate as  or sometimes III-נ (pronounced as, "third nun")
@@ -395,6 +1058,41 @@ NAVIGATION TIP
 While "stative" verbs may be a new concept, we have already discussed the tendency of ת and נ to assimilate under certain circumstances.  This is what happens when we encounter 3ת and 3נ verbs.
 
 ## 3נ and 3ת Verbs
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.17.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 
 * We mentioned above how a Sheva will be placed before a Finite sufformative (if possible)
 * When ת and נ have a Silent Sheva, each may assimilate depending on the letter that follows
@@ -412,6 +1110,41 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
     
 ## Stative Verbs MAY have a different $V_S$
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.18.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 * Stative verbs describe a state of being, such as "wise", "old", or even "dead"
 * The $V_S$ may change in some forms
     * There is what is called a "Patach Stative" that prefers $V_S$ of (wait for it...) Patach
@@ -426,8 +1159,6 @@ While "stative" verbs may be a new concept, we have already discussed the tenden
         * <span class="he">יַכֹ֫ל</span> = "he is able to" or "he can"
         * <span class="he">קָטֹ֫נְתִּי</span> = "I am small"
             * Note the נְ DOES NOT assimilate - Hebrew likes to keep you guessing!
-            * When you see only $R_1$ and $R_2$ and then a Daghesh Forte in the next consonant, it's better to ask, "did $R_3$ assimilate?"
-
 
 
 ## Word Warm-up {-}
