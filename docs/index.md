@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-08-18"
+#date: "2021-08-19"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-08-18</small>
+<small>*Updated*: 2021-08-19</small>
 
 <small>
 
@@ -12390,7 +12390,7 @@ function setPlaySpeed25() {
 A verb with no preformative, and a perfect sufformative will be diagnostic of a Perfect conjugation
 :::
 
-## The Perfect Sufformatives I
+## The Perfect Sufformatives Intro
 
 ::: {.infobox .sound}
 <figure>
@@ -12436,9 +12436,53 @@ function setPlaySpeed25() {
 <img src="images/13_perfect sufformatives.png" width="700pt" style="display: block; margin: auto;" />
 
 
+## Steps to Build a Qal Perfect Verb {-}
 
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.steps.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+1. Add perfect sufformative
+2. Put a Sheva before the sufformative
+3. Add a Daghesh Lene to ת , since it is a בגד כפת letter, when it follows a Sheva
+4. \(V_S = A\) (Patach) in the Qal Perfect Strong paradigm
+5. Accent $V_S$, if possible
+6. $V _1 = \bar A$ in the Qal Perfect Strong Paradigm
+7. Optionally, add a Metheg mark to denote $\bar A$ (Qamets) from $O$ (Qamets Hatuf)
 
-## The Perfect Sufformatives II
+<img src="images/13.Qal_Perfect_Strong.gif" width="600pt" style="display: block; margin: auto;" />
+
+## Step 1: Add the Perfect Sufformatives
 
 ::: {.infobox .sound}
 <figure>
@@ -12499,7 +12543,7 @@ As you continue with your Hebrew GRAMMAR Quest into Unit 4, you will learn these
     </audio>
 </figure>
 
-## A Sheva precedes a Finite Sufformative
+## Step 2: Put a Sheva before the Finite Sufformative
 
 ::: {.infobox .sound}
 <figure>
@@ -12539,7 +12583,6 @@ function setPlaySpeed25() {
 
 * This is a general rule that results in a Sheva under $R_3$ or $R_2$
 * This only applies to finite verbs (Perfect, Imperfect, Volitional)
-* Because of this rule, when the sufformative has a בגדכפת letter (usually ת), that letter will take a Daghesh Lene
 * Take a look at the Qal Perfect Paradigm table again and note how there is a sheva next to the sufformative
 * 3MS has no sufformative so it has no sheva
 * 3CP and 3FS looks a little different because those sufformatives both start with a vowel
@@ -12559,9 +12602,7 @@ The Sheva is rejected in the following circumstances:
 The Sheva may either be silent or vocal, depending on the rules we learned in Lesson 3
 :::
 
-
-
-## Qal Perfect Vowels: $V_1$ is almost always Qamets
+## Step 3: Add Daghesh Lene to תּ
 
 ::: {.infobox .sound}
 <figure>
@@ -12598,18 +12639,13 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* There are other characteristics of the Qal perfect paradigm that will help us when we read the Bible
-* $V_1 = \bar A$ (Qamets) almost always
-* Exception: as we learned way back in this course, an unaccented long vowel in an open propretonic syllable will undergo propretonic reduction
-    * When this happens, you will see a Vocal Sheva instead of Qamets
-    * Because we can identify propretonic reduction, we will be able to deduce that $V_1$ used to be a long vowel - and if it's a Qal verb, you'll know it used to be a Qamets
-* Study the chart below showing $V_1$
-    * The vertical line in 3FS and 3CP is called a "metheg" and is used to distinguish $\bar A$ (Qamets) from $O$ (Qamets Hatuf) when followed by a Sheva
-    * Note 2MP and 2FP have undergone propretonic reduction and have $ə$ (Vocal Sheva) instead of $\bar A$
-    
-<img src="images/13.qptablev1.png" width="700pt" style="display: block; margin: auto;" />
+* Whenever there is a  בגדכפת letter following a Sheva, that letter will usually take a Daghesh Lene
+* Because of Step 2, when we added the sheva, we must add a Daghesh Lene to the sufformatives that have a ת
+* Look again at our table of sufformatives and note the 2nd person forms as well as 1CS
+<img src="images/13.qptable.png" width="700pt" style="display: block; margin: auto;" />
 
-## Qal Perfect Strong $Pre =$ <span class="he">קָ</span>
+## Step 4: $V_S = A$ (Patach) in the QP Strong
+
 ::: {.infobox .sound}
 <figure>
 <audio id="myAudio" controls controlsList="nodownload" src="./images/13.9.m4a">
@@ -12645,55 +12681,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-
-* HGQ SHORTHAND: $Pre$ = Strong Form Diagnostic Word-initial Sequence
-* Each of the stems/conjugations has a distinctive combination of consonants, vowels, and occasionally Daghesh Forte marks the first one or two syllables of a given verb
-* This serves to make the strong form of the verb easy to differentiate from the other stems
-* We will call this diagnostic sequence "$Pre$"
-    * Saying "diagnostic word-initial sequence of consonants and vowels" would get tiresome!
-* For Qal Perfect (QP), $Pre =$ <span class="he">קָ</span>
-    * ק represents any strong letter in $R_1$ 
-    * This means the distinctive word-initial sequence of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
-
-    
-## Qal Perfect Strong $V_S = A$
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.10.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
-:::
-
-* For QP, $V_2$ prefers Patach 
+* For QP, $V_2$ _prefers_ Patach 
 * For strong verbs, $V_S = V_2$
     * So we could either say "$V_S$ for Qal Perfect Strong equals Patach"
     * Or we could use formula shorthand and say, "Qal $V_S = A$", since "A" is our shorthand for a short A vowel, i.e., Patach
@@ -12709,16 +12697,15 @@ EXCEPTIONS
 
 :::
     
-
-## Each Stem will have a $V_S$ Formula
+## Looking ahead: each stem will have a specific $V_S$ Formula {-}
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.11.m4a">
+<audio id="myAudio2" controls controlsList="nodownload" src="./images/13.9.1.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
-var x = document.getElementById("myAudio");
+var x = document.getElementById("myAudio2");
 function setPlaySpeed05() { 
     x.playbackRate = 0.5;
     x.play();
@@ -12764,12 +12751,11 @@ $$V_{S} = A \sim$$
 * The _Imperfect_ Stem Vowel will be to the right of the $\sim$ mark - we'll address this in Lesson 15
 
             
-
-## $V_S$ is accented in Finite verbs
+## Step 5: $V_S$ is accented in Finite verbs
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.12.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.10.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -12832,6 +12818,154 @@ EXCEPTIONS
 
 
 
+## Step 6: $V_1 = \bar A$ (Qamets) in the Qal Perfect Strong Paradigm
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.8.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+* There are other characteristics of the Qal perfect paradigm that will help us when we read the Bible
+* $V_1 = \bar A$ (Qamets) almost always
+* Exception: as we learned way back in this course, an unaccented long vowel in an open propretonic syllable will undergo propretonic reduction
+    * When this happens, you will see a Vocal Sheva instead of Qamets
+    * Because we can identify propretonic reduction, we will be able to deduce that $V_1$ used to be a long vowel - and if it's a Qal verb, you'll know it used to be a Qamets
+* Study the chart below showing $V_1$
+    * The vertical line in 3FS and 3CP is called a "metheg" and is used to distinguish $\bar A$ (Qamets) from $O$ (Qamets Hatuf) when followed by a Sheva
+    * Note 2MP and 2FP have undergone propretonic reduction and have $ə$ (Vocal Sheva) instead of $\bar A$
+    
+<img src="images/13.qptablev1.png" width="700pt" style="display: block; margin: auto;" />
+
+## Looking ahead: Each Stem and Conjugation will have a diagnostic $Pre =$ Formula {-}
+
+
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio2" controls controlsList="nodownload" src="./images/13.11.1.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio2");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+
+* HGQ SHORTHAND: $Pre$ = Strong Form Diagnostic Word-initial Sequence
+* Each of the stems/conjugations has a distinctive combination of consonants, vowels, and occasionally Daghesh Forte marks the first one or two syllables of a given verb
+* This serves to make the strong form of the verb easy to differentiate from the other stems
+* We will call this diagnostic sequence "$Pre$"
+    * Saying "diagnostic word-initial sequence of consonants and vowels" would get tiresome!
+* For Qal Perfect (QP), $Pre =$ <span class="he">קָ</span>
+    * ק represents any strong letter in $R_1$ 
+    * This means the distinctive word-initial sequence of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
+    
+::: {.box .map}
+Qal Perfect Strong $Pre =$ <span class="he">קָ</span>
+:::
+
+## Step 7: OPTIONAL - Add a Metheg mark to $V_1$ 3FS and 3CP 
+
+::: {.infobox .sound}
+<figure>
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.12.m4a">
+            Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+* _Basics of Biblical Hebrew_ teaches students to use the Metheg mark so we'll present it here
+* The Metheg can denote that the vowel is Qamets followed by a vocal Sheva and not Qamets Hatuf followed by a Silent Sheva
+* Look again at our table and note the vertical line next to the Qamets at 3FS and 3CP
+<img src="images/13.qptablev1.png" width="700pt" style="display: block; margin: auto;" />
+
+::: {.box .caution}
+* Most Hebrew Bibles do not employ a Metheg
+* The vertical line you will see is an accent/cantillation mark
+:::
+
 
 ## Building the Qal Perfect Strong Paradigm
 
@@ -12887,18 +13021,14 @@ function setPlaySpeed25() {
 4. $V_S = A$ (Patach) in the Qal Perfect Strong paradigm
     * UNLESS $V_2$ is already a Sheva from step two
 5. Accent $V_S$ 
-    * Exception 1 - $V_S$ is reduced/Sheva
+    * Exception 1 - $V_2$ is reduced/Sheva
     * Exception 2 - there is a "heavy sufformative" that draws the accent
 6. $V_1 = \bar A$ (Qamets)
     * 2mp/2fp - the Qamets is then reduced to a Vocal Sheva because of propretonic reduction
 7. OPTIONAL - Add a Metheg mark to $V_1$ 3fs/3cp 
-    * The Metheg can denote that the vowel is Qamets followed by a vocal Sheva and not Qamets Hatuf followed by a Silent Sheva
+
     
-::: {.box .caution}
-Most Hebrew Bibles do not employ a Metheg
-:::
-    
-## Qal Perfect Strong Paradigm
+## Memorize the Qal Perfect Strong Paradigm
 
 ::: {.infobox .sound}
 <figure>
@@ -12936,53 +13066,30 @@ function setPlaySpeed25() {
 :::
 
 
-Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קטל and take note of pronunciation and accents.  
+* Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קטל and take note of pronunciation and accents.  
+    * 3FS and 3CP forms are, strictly speaking, Vocal Sheva not Silent Sheva
+    * In modern pronunciation, sometimes there is little audible difference between vocal and silent
+* Repeat this several times until you have the forms memorized
 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">קָטַל</span>  | 3cp | <span class="he">קָטְלוּ</span> 
-| 3fs | <span class="he">קַטְלָה</span> | 
+| 3fs | <span class="he">קָטְלָה</span> | 
 | 2ms | <span class="he">קָטַ֫לְתָּ</span> | 2mp | <span class="he">קְטַלְתֶּם</span>
 | 2fs | <span class="he">קָטַ֫לְתְּ</span> | 2fp | <span class="he">קְטַלְתֶּן</span>
 | 1cs | <span class="he">קָטַ֫לְתִּי</span> | 1cp | <span class="he">קָטַ֫לנוּ</span>
 
-::: {.infobox .sound}
 <figure>
-<figcaption>Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_</figcaption>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.Qal_perfect.mp3">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-
+    <figcaption>Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/13.Qal_perfect.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
 </figure>
-:::
+
 
 
 ## Worksheet: Qal Perfect Strong Paradigm {-}
@@ -13385,7 +13492,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-84)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-87)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13780,7 +13887,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-85)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-88)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14065,7 +14172,7 @@ The Qal Imperfect Strong Paradigm must be memorized.
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-91)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14517,7 +14624,7 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
@@ -14776,7 +14883,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-90)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-93)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15108,7 +15215,7 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15297,7 +15404,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-95)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -15555,7 +15662,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
@@ -15761,7 +15868,7 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -16020,7 +16127,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16399,7 +16506,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-101)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16794,7 +16901,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-100)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17040,7 +17147,7 @@ We must practice the disciplines of worship, service, and study (and teaching if
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-104)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17441,7 +17548,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-103)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17703,7 +17810,7 @@ How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and 
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-107)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17970,7 +18077,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18078,7 +18185,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18411,7 +18518,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18664,7 +18771,7 @@ HaShem had these details recorded for a reason. Through our study of Hebrew, we 
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18940,7 +19047,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19072,7 +19179,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-116)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19346,7 +19453,7 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-118)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19571,7 +19678,7 @@ The men and women who followed Yeshua became a safe and loving community.  Same 
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-117)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-120)Chris Flanagan</p>
 </div>
 ## References {-}
 
