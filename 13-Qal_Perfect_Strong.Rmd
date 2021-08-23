@@ -738,7 +738,7 @@ EXCEPTIONS
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.8.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.11.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -993,6 +993,7 @@ function setPlaySpeed25() {
 
 * Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קטל and take note of pronunciation and accents.  
     * 3FS and 3CP forms are, strictly speaking, Vocal Sheva not Silent Sheva
+    * In academic settings, these would be pronounced: qa-tuh-LAH and qa-tuh-LOO
     * In modern pronunciation, sometimes there is little audible difference between vocal and silent
 * Repeat this several times until you have the forms memorized
 
@@ -1102,19 +1103,31 @@ function setPlaySpeed25() {
 
 
 * <span class="he">יָדַ֥ע</span>
-    * No Preformative + No sufformative =  $P3ms$ conjugation
-    * $Pre =$ <span class="he">קָ</span> and  $V_2 = A$ are diagnostic of $Q$ stem
-        * In the Qal, can also have $V_2 = \bar A$
-    * This combination of Preformatives, sufformatives, and vowels can only be Qal Perfect 3MS (QP3ms) - he knows
-    * As we said in the introduction to Unit 3, you will start to see the cantillation marks in words and passages.  If you don't recognize a mark as a vowel, it is a cantillation mark.
+    * <span class="he">י</span> is an extremely common preformative consonant (but we haven't learned any preformatives yet)
+    * This is why we also spend time on vocabulary - in this case, we will learn to recognize <span class="he">ידע</span> as a three-letter root
+    * We remember that for the Qal Perfect, the $Pre$ combination <span class="he">קָ</span> (where ק is $R_1$ of any strong verb)
+    * In <span class="he">יָדַ֥ע</span> , the $Pre$ combination is <span class="he">שָׁ</span>, so that fits Qal Perfect!
+    * This word has no sufformative, which indicated 3MS
+    * Based on this alone, we are almost assured this is QP3MS 
+        * The lack of a preformative and a sufformative could be other Qal conjugations
+            * The other conjugations will have different vowels
+            * $V_1 = \bar A$ is diagnostic of Qal Perfect
+        * Let's look for an additional confirmation
+    * Qal Perfect, the $V_S = A$  
+    * In <span class="he">יָדַ֥ע</span>, $V_S = A$ (<span class="he">דַ</span>) so we have another match
+        * This is another indicator of Qal stem, Perfect conjugation (QP)
+    * This combination of (lack of) preformatives, (lack of) sufformatives, and vowels can only be Qal Perfect 3MS (QP3ms) - he knows
+    * As we said in the introduction to Unit 3, you will start to see the cantillation marks in words and passages
+        * If you don't recognize a dot, dash, or line as a vowel, assume it is a cantillation mark
 * <span class="he">שָׁמְר֤וּ</span>
-    * No preformative + וּ sufformative = $P3cp$ conjugation
-    * $Pre =$ <span class="he">קָ</span> is diagnostic of $Q$ stem
-        * $V_2 = :$
-        * The Perfect sufformative is preceded by a Sheva whenever possible
-        * In the P3cp and P3fs, the Sheva of the sufformative displaces $V_2$
-        * If we know our vocab, we also understand that the Lexical form is <span class="he">שָׁמַר</span>.
-    * שָׁמְר֤וּ is Qal Perfect 3cp (QP3cp) - they guarded/observed
+    * $Pre =$ <span class="he">קָ</span> is diagnostic of Qal stem
+    * <span class="he">שָׁמְר֤וּ</span> has <span class="he">שָׁ</span>
+    * וּ perfect sufformative = $P3cp$ conjugation
+    * In <span class="he">שָׁמְר֤וּ</span>, $V_2 = ə$
+        * We're typically expecting $V_S = A$ in the Qal
+        * We know one of our rules is that the Perfect sufformative is preceded by a Sheva, but in the P3cp (and P3fs), the Sheva of the sufformative displaces $V_2$
+    * If we know our vocab, we also understand that the Lexical form is <span class="he">שָׁמַר</span>.
+    * שָׁמְר֤וּ is Qal Perfect 3cp (QP3cp) - they guarded/observed/kept
 
 ::: {.box .map}
 NAVIGATION TIP
@@ -1122,7 +1135,7 @@ NAVIGATION TIP
 * As we will learn in Unit 4, when there are no other signs of a different stem, we can default to Qal; this is because Qal is the most common stem
 * As with <span class="he">זָכָ֑רְתְּ</span>, there are times where $V_2= \bar A$ or $V_2 = A$
     * These are often spelling variants that occur over the many hundreds of years the Tanach was written<small>^[<small>This is not unlike seeing "olde" or even "auld" on an English document from a few hundred years ago.  We know they both mean "old"</small>]</small>
-    * There is nothing otherwise to suggest that these are not Qal verbs
+    * If there is nothing otherwise to suggest that you are not looking at a Qal verb, go with a Qal translation unless/until proven otherwise
 
 :::
 
@@ -1342,7 +1355,7 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <iframe class="responsive-iframe" src="https://forms.gle/ywRYeNmuKkK441Pj9" frameborder="0"></iframe>
 </div>
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #5-7 {-}
+## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #5-7 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
