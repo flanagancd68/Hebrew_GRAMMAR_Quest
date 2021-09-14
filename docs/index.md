@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-08-23"
+#date: "2021-09-14"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-08-23</small>
+<small>*Updated*: 2021-09-14</small>
 
 <small>
 
@@ -1989,7 +1989,7 @@ The table below lists the vowels that are not vowel letters.  This table MUST be
 
 * The letter בּ is provided as a placeholder
 * Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.]. 
-  * So, the first vowel example is "baw" not "awb."
+  * So, the first vowel example is "baw" not "awb."^["Basics of Biblical Hebrew" labels the first vowel "Qamets" and pronounced either `qa-MAYTZ` or `QA-maytz`.  Others, including Dr. Beckman, spell the vowel as "Qamats" and pronounced `qa-MAHTZ` (or sometimes or `QA-mahtz`, which sounds like the English word `comets`).  You may hear these used interchangeably, even in the narration of this book. This should not pose any obstacle. The important aspect is the vowel makes the "ah" sound in "father".  For simplicity, students may choose to use Izzy's pronunciation in _Hebrew Quest_ (which happens to be `QA-maytz`).]
 
 <img src="images/02.vowels_not_letters.png" width="600pt" style="display: block; margin: auto;" />
 
@@ -13470,7 +13470,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 > In the Bible, weak verbs are much more common than strong verbs. To understand Biblical Hebrew, we must be able to translate weak verbs.
 
 
-A weak verb is defined as one with one or more letters that cause the word to deviate from the strong verb pattern. We already looked at two of these in the previous lesson:  נ and ת assimilate under certain conditions. 
+A weak verb is defined as a verb with one or more letters that cause the word to deviate from the strong verb pattern. We already looked at two of these in the previous lesson:  נ and ת assimilate under certain conditions. 
 
 Many Hebrew grammar textbooks asked students to memorize _all_ of the differences in each stem and conjugation.  Fortunately, there is an easier way.  
 
@@ -13536,21 +13536,11 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-### <span class="he">בָ֤אָה נַחֲלָתֵ֙נוּ֙ אֵלֵ֔ינוּ מֵעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרָֽחָה׃</span> {-}
+### <span class="he"><rtl>בָ֤אָה נַחֲלָתֵ֙נוּ֙ אֵלֵ֔ינוּ מֵעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרָֽחָה׃</rtl></span> {-}
 
 *our inheritance has fallen to us on this side of the Jordan toward the east (Numbers 32:19)*
 
 Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock."  They followed their eyes, which saw profit. They took the easy path, which caused tension between the tribes. Students of history know that these lands to the east were often easily invaded. The lesson for us is to make sure we seek what the Lord wants for us and not our own desires.
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/14-03-Num.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 
@@ -13584,11 +13574,11 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * A weak letter behaves differently in some fashion
     * It could reject a dagesh forte, prefer a different vowel, or disappear entirely under certain situations
 * A weak verb is a verbal root with one or more weak letters
-* It is possible for a verb may be strong in one conjugation but weak in another
+* It is possible for a verb to be strong in one conjugation but weak in another
     * For example, Resh is only a weak letter in verbs that try to put a Daghesh Forte in it
     * The Qal stem does not require a Dagesh Forte in any form; therefore, verbs with Resh are not considered weak in Qal
         * In Unit 4, we will learn the Piel stem requires a Daghesh Forte in $R_2$
-        * Therefore, a verb with a Resh (or any guttural) in $R_2$ is a weak verb in the Piel
+        * Therefore, a verb with a Resh in $R_2$ is a weak verb in the Piel
 * Weak verbs are classified by their problematic root letter 
     * [Refer to Lesson 12](#weak-class) for a review of weak verb classes
 
@@ -13611,16 +13601,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* A Tav with a Sheva assimilates to another Tav only
+* A Tav with a Silent Sheva assimilates to another Tav only
     * It becomes a Dagesh Forte in the following Tav
     * This occurs in all Qal Perfect 2nd person forms as well as 1cs
     * NOT <span class="he">כָּרַתְתָּ</span>*, BUT <span class="he">כָּרַתָּ</span>
 * A Nun with a Silent Sheva assimilates to anything
-    * It becomes a Daghesh Forte in the next letter
+    * It becomes a Dagesh Forte in the next letter
     * This occurs in all Qal Perfect 1st and 2nd Person forms
         * NOT <span class="he">נַתַ֫נְתָּ</span>*, BUT <span class="he">נַתַ֫תָּ</span> 
         * NOT <span class="he">נָתַנְנוּ</span>*, BUT <span class="he">נַתַ֫נּוֹ</span>
-* The Dagesh 2MS ending is usually a Lene, but each becomes a Forte (Why?<small>^[<small>A Daghesh is a Forte if it is preceded by a vowel that is not a Sheva.</small>]</small>)
+* The Dagesh mark in the 2MS ending is usually a Lene, but when preceded by נ or ת it becomes a Forte (Why?^[A Dagesh is a Forte if it is preceded by a vowel that is not a Sheva.])
 
 ::: {.box .info}
 DAGESH FORTE
@@ -13740,7 +13730,7 @@ function setPlaySpeed25() {
 * In all 3G, $V_1 = \bar A$ (unless reduced in 2mp/2fp) as is diagnostic of the QP conjugation - in other words, no matter what happens to $V_S$, you will usually be able to diagnose Qal Perfect by the regular Qamets in $V_1$
 
     
-## א3 
+## א-3 
 
 ::: {.infobox .sound}
 <figure>
@@ -13784,52 +13774,20 @@ function setPlaySpeed25() {
     * QP2ms: NOT <span class="he">מָצַ֫אְתָּ</span>*, BUT <span class="he">מָצָ֫אתָּ</span>
     * QP3ms, the Aleph is already quiescent (CL): NOT <span class="he">מָצַא</span>*, BUT <span class="he">מָצָא</span>
     * בגד כפת have Dagesh Lene only if not after a vowel
-        * In other words, the Quiescent Aleph is ignored
-        * Note how the 2fs forms drop the Dagesh Lene and final Silent Sheva if a vowel is before the בגד כפת:
+        * In other words, the Quiescent Aleph is ignored - it is neither a consonant, nor a vowel and does not affect syllabification
+        * Note how the 2fs forms drop the Dagesh Lene and final Silent Sheva - this is because a vowel is before the בגד כפת letter
         * NOT <span class="he">מָצַאְתְּ</span>*, BUT <span class="he">מָצָאת</span>
 * As mentioned, in 3G, $V_1 = \bar A$ (unless reduced in 2mp/2fp) as is diagnostic of the QP conjugation - (are you beginning to see the pattern?)
 
-## יָרֵא is 3א AND Tsere Stative
+::: {.box .caution}
 
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.7.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
+יָרֵא is 3א AND Tsere Stative
+
 :::
 
+* <span class="he">יָרֵא</span> is irregular
+* Most Tsere statives have $\bar E$ only in the 3ms, but with <span class="he">יָרֵא</span>, $V_S = \bar E$ unless $V_2$ is reduced (P3fs, P3cp)
 
-* $V_S = \bar E$ unless reduced (P3fs, P3cp)
-* Most Tsere statives have $\bar E$ only in the 3ms  
-* <span class="he">ירא</span> is irregular
 
 
 ## 3ה  
@@ -13871,28 +13829,35 @@ function setPlaySpeed25() {
 
 
 * 3ה verbs are in a unique class
-* $R_3$ is not a consonant; in fact, there is no $R_3$ consonant
-* 3ה verbs only have two root consonants, $R_1$ and $R_2$ - the final slot is taken up by $\hat A$ (Qamats+Hei)
-
-::: {.box .info}
-Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "reappears."
-:::
-
+* $R_3$ is not a consonant; in fact, there is no $R_3$ consonant^[This is per Dr. Beckman's lessons. Other scholars, including _Basics of Biblical Hebrew_, view the ה as $R_3$. Beckman's approach turns out to be easier to grasp.]
+* 3ה verbs only have two root consonants, $R_1$ and $R_2$ - the final slot is taken up by the _vowel_ $\hat A$ (Qamats+Hei)
 * $V_2$ of 3ה verbs follow a unique pattern:
-    * IF there is no sufformative, THEN add the vowel $\hat A$ in the Perfect
-    * IF the sufformative starts with a vowel, THEN the vowel of the sufformative is $V_2$
-    * IF the sufformative starts with a consonant, THEN $V_2$ is (vowel)+Yod
+    * If there is no sufformative, THEN add the vowel $\hat A$ in the Perfect
+    * If the sufformative starts with a vowel, THEN the vowel of the sufformative is $V_2$
+    * If the sufformative starts with a consonant, THEN $V_2$ is (vowel)+Yod
         * The specific (vowel) depends on the conjugation
         * For the Perfect, $V_2 = \hat I$ (Hireq+Yod)
 * Additionally, to avoid ambiguity with the P3ms, the P3fs sufformative becomes <span class="he">תָה</span>
-* With all these changes, the  $V_1 = \bar A$ (unless reduced in 2mp/2fp) diagnostic of QP does not change
+* With all these changes, the  $V_1 = \bar A$ (unless reduced in 2mp/2fp) diagnostic of the QP does not change
+
+
 
 ::: {.box .light}
-3ה ENDINGS
-
 * 3ה Verbs are frequent, so we will want to memorize these rules and endings
-* They are consistent throughout all stems; e.g., P3ms 3ה verbs end in $\hat A$ (Qamets+Hei) in all seven stems
+* Good news! They are consistent throughout all stems; e.g., P3ms 3ה verbs end in $\hat A$ (Qamets+Hei) in all seven stems
 
+:::
+
+Below is a summary table showing the verb <span class="he">בָנָה</span> in the Qal Perfect.  Note $\hat I$ in all 2nd/1st person perfect forms.
+
+<div class="figure" style="text-align: center">
+<img src="images/14.3heiparadigm.png" alt="3-Hei Qal Perfect" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-88)3-Hei Qal Perfect</p>
+</div>
+
+::: {.box .info}
+* Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "reappears."
+* In the Qal Perfect, the diagnostic $V_S = \hat I$ will help you to identify the 3-ה class of verbs.
 :::
 
 ## Doubly Weak
@@ -13938,7 +13903,21 @@ function setPlaySpeed25() {
 * These verbs have an additional step to scavenger hunt our way back to the Strong Verb Paradigm
 * We simply need to combine the 1G/2G aspects of the Hateph vowel instead of a Sheva with the 3ה endings we studied in the previous section
 
-## הָיָה
+::: {.box .light}
+<span class="he"> הָיָה </span> is a very common verb meaning "to be"
+ 
+:::
+
+* As you can see, it is both 1G and 3ה
+* It follows the 3ה endings we discussed above
+* $V_1$ is <span class="he">הֱ</span> in 2mp and 2fp
+    * <span class="he">הֱיִיתֶם</span> and <span class="he">הֱיִיתֵן</span>
+    * The first Yod is $R_2$
+    * The second Yod is part of the vowel $V_2 = \hat I$ (Hireq+Yod), which is diagnostic of a 3ה verb in the Perfect 2p/1p conjugation
+* The key to unlocking these is learning your 3ה vocabulary words
+
+
+## Geminate 
 
 ::: {.infobox .sound}
 <figure>
@@ -13976,63 +13955,23 @@ function setPlaySpeed25() {
 :::
 
 
-* This is a very common verb meaning "to be"
-* As you can see, it is both 1G and 3ה
-* It follows the 3ה endings we discussed above
-* $V_1$ is <span class="he">הֱ</span> in 2mp and 2fp
-    * <span class="he">הֱיִיתֶם</span> and <span class="he">הֱיִיתֵן</span>
-    * The first Yod is $R_2$
-    * The second is $V_2 = \hat I$ (Hireq+Yod)
-
-## Geminate Paradigm
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.11.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
-:::
-
-
-* In Geminate verbs, $R_3 = $R_2$
+* In Geminate verbs, $R_3 = R_2$
 * No Hebrew words have $R_1 = R_2$ - this will prove to be important later in the course
 * Frequently, $R_2$ assimilates into its twin $R_3$
     * $R_3$ will then take a Dagesh Forte, unless it is the final consonant in a word
-    * 3rd person forms will have both
-        * <span class="he">סַב</span> or <span class="he">סָבַב</span>
-    * When there is assimilation, the accent tries to shift to $V_1$ since that is the new Stem Vowel
+
+::: {.box .caution}
+* 3rd person forms may be spelled either with or without assimilation
+* <span class="he">סַב</span> or <span class="he">סָבַב</span>
+:::
+
+* When there is assimilation, $V_S$ shifts to $V_1$ position
+    * So this is a time where you may _not_ see our diagnostic Qal Perfect $V_1 = \bar A$
+    * Additionally, the accent tries to shift to $V_1$ since that is the new Stem Vowel
         * The accent must be on the last two syllables
         * The heavy sufformatives (2mp and 2fp) continue to take the accent
     * $V_2 = \hat O$ before sufformative that starts with a consonant
-* Review the table below, noting $V_1$ and accent changes:
+* Review the table below, noting $V_1$, $V_2$, and accent changes:
 
 
 | PGN | Gem | Strong
@@ -14053,44 +13992,6 @@ function setPlaySpeed25() {
 Geminate verbs are relatively infrequent, so the changes in the table above needn't distract you from your verb parsing quest!
 :::
 
-## Geminate Vocabulary
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.12.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
-:::
-
-
 You will learn the major geminate verbs in your vocabulary. To start with, here are a few of the most common:
 
 * <span class="he">סָבַב</span>, to surround
@@ -14099,17 +14000,16 @@ You will learn the major geminate verbs in your vocabulary. To start with, here 
 * <span class="he">אָרַר</span>, to curse
     * Resh rejects = Compensatory Lengthening
     * <span class="he">אָר֫וֹתִי</span> = QP1cs
-    * In the table on the previous page, note how $V_1 = A$, but in <span class="he">אָר֫וֹתִי</span>, $V_1 = \bar A$
+    * In the table above, note how $V_1 = A$, but in <span class="he">אָר֫וֹתִי</span>, $V_1 = \bar A$
 * <span class="he">תָמַם</span>, to finish
     * The first מ will assimilate into a Dagesh Forte (except QP3ms)
     * <span class="he">תַּ֫מּוּ</span> = QP3cp
-
 
 ## Biconsonantal
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.13.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/14.11.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -14148,12 +14048,11 @@ function setPlaySpeed25() {
     * It will be important to memorize the Lexical Vowel
         * For example, NOT <span class="he">קִים</span>**, NOT <span class="he">קוֹם</span>**, BUT <span class="he">קוּם</span>
     * The word with the Lexical Vowel is the Lexical Form (the version that is in the dictionary)
-    * This is an exception to the QP3ms = Lexical Form guideline
+    * This is an exception to the rule that the Lexical Form = QP3ms
 * $V_S$ and its accent move to $V_1$ and do not reduce
     * $V_S$ lengthens in 3rd person
     
 Review the table below, noting $V_1$ and accent changes:
-
 
 | PGN | קוּם  | Strong
 | :- | :- | :-
@@ -14167,63 +14066,29 @@ Review the table below, noting $V_1$ and accent changes:
 2fp | <span class="he">קַמְתֶּן</span> | <span class="he">קְטַלְתֶּן</span>
 1cp | <span class="he">קַ֫מְנוּ</span> | <span class="he">קָטַ֫לְנוּ</span>
 
-
-## מוּת is Biconsonantal and Stative
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.14.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
+::: {.box .caution}
+<span class="he">מוּת</span> is Biconsonantal and Stative
 :::
 
-* Recognize Biconsonantal by the accent and missing root consonant
-* $V_S$ and accent moved to $V_1$
-* Tsere stem vowel in 3rd person
-* In the perfect, only occurs in 3rd person and 1cp
+* Recognize a Biconsonantal by the accent and missing root consonant
+    * $V_S$ and accent moved to $V_1$
+* With a Tsere-stative, we have a Tsere stem vowel in 3rd person
+* In the perfect, מוּת only occurs in 3rd person and 1cp
 * Compare <span class="he">מוּת</span> and <span class="he">קוּם</span> in the table below:
 
 
 | PGN | קוּם  | מוֹת
 | :- | :- | :-
 3ms | <span class="he">קָם</span> | <span class="he">מֵת</span>
-3fs | <span class="he">קָ֫מָה</span> | <span>
-3cp | <span class="he">קָ֫מוּ</span> | <span>
+3fs | <span class="he">קָ֫מָה</span> |  <span class="he">מֵתָה</span>
+3cp | <span class="he">קָ֫מוּ</span> |  <span class="he">מֵתוּ</span>
 1cp | <span class="he">קַ֫מְנוּ</span> | <span class="he">מַ֫תְנוּ</span>
 
-## Qal Perfect Quest Clues
+## Qal Perfect Summary
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.15.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/14.12.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -14262,50 +14127,16 @@ function setPlaySpeed25() {
     * $V_1$ will be reduced if 2mp/2fp
     * $V_1 =A$ (Patach) if Biconsonantal or Geminate 1st or 2nd Person
     * $V_1$ will be reduced if there is a pronominal suffix - Lesson 19
-    
-## Clues for Qal Perfect Special Situations
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.16.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
-:::
 
 ::: {.box .map}
-MISSING A ROOT CONSONANT
+MISSING A ROOT CONSONANT?
+:::
+
+You can refer back to these clues if you encounter a word that doesn't seem to fit the Qal Perfect form because it is missing a root consonant.
 
 * If $V_1$ is accented, it is biconsonantal or geminate
 * 1st or 2nd person: look at the vowel before the sufformative
-    * <span class="he">י ִ</span> = 3ה
+    * $\hat I$ = 3ה
     * <span class="he">וֹ ּ </span> = GEMINATE
     * <span class="he">ְ </span> = BICONSONANTAL
     * <span class="he">תּ ַ </span> (where Tav is the sufformative) = 3נ/ת
@@ -14314,7 +14145,7 @@ MISSING A ROOT CONSONANT
     * Dagesh Forte in what looks like $R_2$ = GEMINATE
     * $V_1$ is accented and no Dagesh in $R_2$ = BICONSONANTAL
     * $V_2$ accented as usual = 3ה
-:::
+  
 
 ## Word Warm-up {-}
 
@@ -14406,16 +14237,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 > To comprehend Biblical Hebrew, we must be able to parse and translate Qal imperfect verbs
 
-In a few lessons, we will learn about the Vav Conjunction.  The Vav Conjunction + the Qal imperfect is the most frequent verb form in the Hebrew Bible, so understanding the imperfect is essential.  Like the Qal Perfect Strong paradigm, we must have a robotic-like recall of the Qal Imperfect Strong Paradigm.
+In a few lessons, we will learn about the Vav Conjunction.  The Qal imperfect + Vav Conjunction (abbreviated QIwc)^[The nomenclature comes from academia where the Vav is pronounced Waw] is the most frequent verb form in the Hebrew Bible, so understanding the imperfect is essential.  Like the Qal Perfect Strong paradigm, we must have a robotic-like recall of the Qal Imperfect Strong Paradigm.
 
 <span class="he">וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר׃</span>
 
-You might recognize this from Genesis 1:3 - "And God said, 'Let there be light'; and there was light."  There are three verbs in this short sentence, and all three are Qal Imperfect.
+You might recognize this from Genesis 1:3 - "And God said, 'Let there be light'; and there was light."  There are three verbs in this short sentence, and all three are Qal Imperfect (and two are the Qal Imperfect + Vav Conjunction.
 
 ::: {.box .map}
 LESSON ITINERARY
 
-1. Imperfect is future, modal, or imperfective
+1. Begin to translate the imperfect
 1. Components of the Qal Imperfect Strong Paradigm
     1. The Imperfect Preformatives and Sufformatives
     1. The Qal Imperfect Vowels
@@ -14459,7 +14290,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-89)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14494,16 +14325,18 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * The Imperfect has many potential translations
-* Watch to see whether the imperfect verb begins a clause as this is a clue
-* When the Imperfect does not begin a clause . . .
-    * future, "I will run"
-    * imperfective, "I am running" or "I was running"
-* When the Imperfect begins a clause (and does not have a Vav Consecutive prefix)<small>^[<small>An imperfect verb _with_ the Vav Consuctive changes the verb's aspect to Perfect.  We'll study this in Lesson 17.</small>]</small> . . .
-    * modal, cohortative: "I should run" or "I might run" or "let us run"
-    * modal, jussive: "may he run"
-    * We will study the modal forms in greater detail in Lesson 18
+* If you don't have any context, translate Imperfect as future
+* In context, watch to see whether the imperfect verb begins a clause as this is a clue
+* When the Imperfect does not begin a clause: future, "I will run", or imperfective, "I am running" or "I was running"
+* When the Imperfect begins a clause and does not have a Vav Consecutive prefix, the use is what is called _modal_.  We'll study modal forms in Lesson 18.
+* An imperfect verb _with_ the Vav Consuctive changes the verb's aspect to Perfect.  We'll study this in Lesson 17
 * When the imperfect is preceded by <span class="he">לֹא</span> or <span class="he">אַל</span> it is a negative command
     * We'll have more to say about this towards the end of the lesson
+    * Positive commands take a different form, called the _Imperative_, which we will also study in Lesson 18
+    
+::: {.box .map}
+For now, translate the Imperfect as the English Future tense
+:::
     
 
 ## The Imperfect Always has a Preformative
@@ -14528,7 +14361,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * <span class="he">י</span> for 3ms, 3mp
 * <span class="he">א</span> for 1cs
 * <span class="he">נ</span> for 1cp
-* <span class="he">תּ</span> for everywhere else (3fs,3fp, 2ms, 2fs, 2mp, 2fp)
+* <span class="he">תּ</span> for everywhere else (3fs ,3fp, 2ms, 2fs, 2mp, 2fp)
 
 
 ## Qal Imperfect Vowels
@@ -14548,20 +14381,34 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ combination
+Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ ($Pre$) combination
 
 * All QI strong verbs except 1cs begin with Hireq+Silent Shewa
     *  <span class="he">ְ יִ</span> for 3ms, 3mp
     *  <span class="he">ְ נִ</span> for 1cp
     *  <span class="he">ְ תִּ</span> for all others except 1cs
 * 1cs begins with Aleph+Seghol+Silent Sheva <span class="he">ְ אֶ</span>
-* The vowels behave as if they were from the Rule of Sheva (they aren't)
-* We can summarize this by saying, "for the QI, $Pre =$ <span class="he">יִקְ</span>
+* We can summarize this by saying, "for the QI, $Pre =$ <span class="he">יִקְ</span>"
     * <span class="he">יִ</span> represents any of the Imperfect preformatives with a Hireq or <span class="he">אֶ</span>
     * <span class="he">קְ</span> represents any strong letter in $R_1$ with a Silent Sheva
 
-<img src="images/15-rule-of-sheva.png" width="400pt" style="display: block; margin: auto;" />
+::: {.box .info}
+The vowels behave as if they were from the Rule of Sheva (they aren't)
 
+<img src="images/15-rule-of-sheva.png" width="400pt" style="display: block; margin: auto;" />
+:::
+
+::: {.box .caution}
+* Note, when you see $Pre$ in the special font, this is not the same as the form's prefix and it is not the same as the form's preformative.  
+* $Pre$ is a combination of prefix, preformatives, initial vowels and Daghesh marks as indicated that are diagnostic of a given stem and conjugation.
+*For the QI, $Pre =$ <span class="he">יִקְ</span>
+:::
+
+* Lastly, for the QI, $V_S = \bar O$
+* With this we can begin to build our $V_S$ formula we introduced at the very end of lesson 12
+* Qal Formula: $V_S = A \sim \bar O$
+    * Perfect = Patach
+    * Imperfect = Holem
 
 ## Imperfect Sufformatives
 
@@ -14585,14 +14432,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * The <span class="he">ְ תִּ</span> preformative with the <span class="he">י ִ</span> sufformative is diagnostic of the QI2fs
 * Of the plural forms, only 1cp does NOT have a sufformative
     * 2mp/3mp sufformative - <span class="he">וּ</span>
-        * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>
-        * The ן sometimes causes the shuruk to shorten to a Qubbutz
-        * In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp
+        * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>^[ The ן sometimes causes the shuruk to shorten to a Qubbutz. In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp]
+        * You will be able to tell 2mp from 3mp by the preformative
     * 2fp/3fp sufformative - <span class="he">נָה</span>
-    * You'll note that QI2fp and QI3fp are identical.   The context will determine whether the verb is being used in the 3rd person or the 2nd person.  These forms are relatively infrequent.
+        * You'll note that QI2fp and QI3fp are identical.   
+        * The context will determine whether the verb is being used in the 3rd person or the 2nd person.  
+        * These forms are relatively infrequent.
 * There are no "heavy sufformatives" in the Imperfect
     * In fact, the two we studied previously (2mp and 2fp) are the only ones
-* The Imperfect is a Finite verb, so a Sheva prefers to go before a finite verb sufformative
+* The last point is to remember that the Imperfect is a Finite verb, so a Sheva prefers to go before a finite verb sufformative
 
 
 > Now we're ready to put all this together and learn the Qal Imperfect Strong Paradigm, the same way we built the Qal Perfect Strong Paradigm!
@@ -14624,41 +14472,15 @@ Study the graphic and the steps below carefully.  It may seem confusing at first
 3. A Sheva goes before a finite sufformative
     * Sheva goes under $R_2$ (displacing $V_S/V_2$) when $R_3$ already has a vowel
 4. $V_S = \bar O$ unless already reduced by the Sheva of the finite sufformative
-    * Qal Formula: $V_S = A \sim \bar O$
-        * Perfect = Patach
-        * Imperfect = Holem
 5. Accent $V_S$ unless it reduced
 6. $V_P = I$ and $V_1 = \ :$, except 1cs ($V_P = E$)
-    * Qal $Pre =$ <span class="he">יִקְ</span>
-7. Add Dagesh Lene to בגד כפת after Sheva (N/A for קטל)
+    * Qal Imperfect $Pre =$ <span class="he">יִקְ</span> - and we simply need to remember to replace the י with the applicable imperfect preformative
 
 
 
-## Qal Imperfect Strong Paradigm
+## Qal Imperfect Strong Paradigm Audio
 
-::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.7.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 3ms | <span class="he">יִקְטֹל</span>  | 3mp | <span class="he">יִקְטְלוּ</span> 
-| 3fs | <span class="he">תִּקְטֹל</span> | 3fp | <span class="he">תִּקְטֹ֫לְנָה</span> 
-| 2ms | <span class="he">תִּקְטֹל</span> | 2mp | <span class="he">תִּקְטְלוּ</span>
-| 2fs | <span class="he">תִּקְטְלִי</span> | 2fp | <span class="he">תִּקְטֹ֫לְנָה</span>
-| 1cs | <span class="he">אֶקְטֹל</span> | 1cp | <span class="he">נִקְטֹל</span>
-
+Repeat the paradigm until you have it memorized!  This will help you with the worksheet activity.
 
 <figure>
     <figcaption>Qal Imperfect Strong (Singular) read by Izzy</figcaption>
@@ -14679,6 +14501,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
             <code>audio</code> element.
     </audio>
 </figure>
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִקְטֹל</span>  | 3mp | <span class="he">יִקְטְלוּ</span> 
+| 3fs | <span class="he">תִּקְטֹל</span> | 3fp | <span class="he">תִּקְטֹ֫לְנָה</span> 
+| 2ms | <span class="he">תִּקְטֹל</span> | 2mp | <span class="he">תִּקְטְלוּ</span>
+| 2fs | <span class="he">תִּקְטְלִי</span> | 2fp | <span class="he">תִּקְטֹ֫לְנָה</span>
+| 1cs | <span class="he">אֶקְטֹל</span> | 1cp | <span class="he">נִקְטֹל</span>
+
+
 
 ## Worksheet: Qal Imperfect Strong Paradigm {-}
 
@@ -14707,24 +14539,29 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * <span class="he">תִּזְכְּר֔וּ</span>
-    * Preformative: Tav+Hireq+Sheva = QI2xx or QI3Fx
-    * Sufformative: Shuruq = I2mp or I3mp
-    * Together: QI2mp
-    * You will remember
+    * $Pre$: Tav+Hireq+Zain+Sheva 
+        * Fits QI $Pre$ = $Pre =$ <span class="he">יִקְ</span> - Qal Imperfect
+        * ת = I2xx or I3Fx
+    * Sufformative: וּ = I2mp or I3mp
+    * $Pre$ + sufformative can only be QI2mp
+    * <span class="he">תִּזְכְּר֔וּ</span> = QI2mp, זָכַר, You (all) will remember
+    * We note that $V_S$ is not $\bar O$, but that's because we have a Sheva before a finite sufformative.  It turns out we do not need the $V_S$ to identify this as QI2mp.
 * <span class="he">יִכְתֹּ֤ב</span>
-    * Preformative: Yod+Hireq+Sheva = QI3mx
+    * $Pre$: Yod+Hireq+Kaf+Sheva = QI3mx
     * Sufformative: none = QIxxS or QI1CP
-    * Together: QI3ms
+    * $Pre$ + no sufformative can only be QI3ms
     * He will write
+    * $V_S = \bar O$ is additional confirmation that this is Qal Imperfect
 * <span class="he">תִשְׁבַּ֤ת </span>
-    * Preformative: Tav+Hireq+Sheva = QI2xx or QI3Fx
+    * Preformative: Tav+Hireq+Shin+Sheva = QI2xx or QI3Fx
     * Sufformative: none = QIxxS or QI1CP
-    * Together: QI3fs or QI2fs - context will determine which one
+    * Together: QI3fs or QI2ms - context will determine which one
     * Context: <span class="he">לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙</span> = Lit: why she will stop, the work" or "Why should the work stop" = the verb is modifying "the work" which is a feminine noun.
     * QI3fs
+    *$V_S = A$ because this is a stative verb - in the imperfect $V_S = A$ for all stative verbs
 
 
-## Deviations from the Paradigm
+## Deviations from the Qal Imperfect Strong Paradigm
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.9.m4a">
@@ -14774,12 +14611,38 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * <span class="he">לֹא</span> + imperfect is for permanent prohibitions
     * <span class="he">לֹא תִּרְצָח</span> Thou shalt not murder (Ex 20:13)
 * <span class="he">אַל</span> + Jussive (closely related to imperfect) is usually a temporary or circumstantial prohibition
-    * <span class="he">אַל־ת־ִשְׁמְעוּ אֶל־דִּבְרֵי נְבִיאֵיצֶם</span> Do not listen to the words of your prophets (Jer 27:16)
+    * <span class="he">אַֽל־תִּשְׁמְע֞וּ אֶל־דִּבְרֵ֣י נְבִֽיאֵיכֶ֗ם</span> Do not listen to the words of your prophets (Jer 27:16)
     * Jeremiah is not saying, "Don't EVER listen to ANY prophets"
     * In this circumstance, the people were listening to FALSE prophets
     * The specific circumstance of listening to false prophets is what Jeremiah is prohibiting
 
+## Qal Imperfect Strong Conclusion {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+::: 
+
+* The Qal Imperfect is a critically important form in the Bible so way to go for getting through this lesson
+* As we said in the intro to Lesson 14, weak verbs are much more common than strong verbs; this is true for Imperfect as well as perfect
+* The authors of _Basics of Biblical Hebrew_ believe Lesson 16 is the high water mark of the course
+* Once you master the material in the next lesson, many students find that the rest of the course fits together nicely
+* We mention this now in Lesson 15, because the diligent work you do between now, this very moment, and the moment you start Lesson 16 will set you up for maximum success in the remainder of the course
+* Be sure you have mastered the Qal Imperfect paradigm, both in terms of speaking it and writing it
+    * We know we've said that speaking and writing are not our focus with this course, but here we are making an exception
+    * Listening and repeating Izzy's audio several, completing the worksheet a few more times, and of course doing all of the Anki work and activities, will serve you very well as we had into lesson 16.
+
+>Keep up the fantastic work! You're doing great!
 
 ## Word Warm-up {-}
 
@@ -14815,7 +14678,7 @@ Identify and translate the Qal Verbs below.
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -14879,7 +14742,7 @@ The Qal Imperfect Strong Paradigm must be memorized.
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15254,8 +15117,7 @@ Once you have completed <span class="he">all activities<span class="he"> through
 <iframe class="responsive-iframe" src="https://forms.gle/y2JPkZAxVGEsmACr6" frameborder="0"></iframe>
 </div>
 
-
-## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
+## Honors Track: _Hebrew Quest_ Study Passage : Proverbs #15-17 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -15331,7 +15193,7 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-93)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
@@ -15590,7 +15452,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15922,7 +15784,7 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-95)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16111,7 +15973,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -16369,7 +16231,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
@@ -16575,7 +16437,7 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -16834,7 +16696,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-100)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17213,7 +17075,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-102)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17608,7 +17470,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-103)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-104)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17854,7 +17716,7 @@ We must practice the disciplines of worship, service, and study (and teaching if
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18255,7 +18117,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-107)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18517,7 +18379,7 @@ How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and 
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18784,7 +18646,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18892,7 +18754,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19225,7 +19087,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19478,7 +19340,7 @@ HaShem had these details recorded for a reason. Through our study of Hebrew, we 
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-114)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19754,7 +19616,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-116)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19886,7 +19748,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-116)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-117)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20160,7 +20022,7 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-119)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20385,7 +20247,7 @@ The men and women who followed Yeshua became a safe and loving community.  Same 
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-121)Chris Flanagan</p>
 </div>
 ## References {-}
 

@@ -17,16 +17,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 > To comprehend Biblical Hebrew, we must be able to parse and translate Qal imperfect verbs
 
-In a few lessons, we will learn about the Vav Conjunction.  The Vav Conjunction + the Qal imperfect is the most frequent verb form in the Hebrew Bible, so understanding the imperfect is essential.  Like the Qal Perfect Strong paradigm, we must have a robotic-like recall of the Qal Imperfect Strong Paradigm.
+In a few lessons, we will learn about the Vav Conjunction.  The Qal imperfect + Vav Conjunction (abbreviated QIwc)^[The nomenclature comes from academia where the Vav is pronounced Waw] is the most frequent verb form in the Hebrew Bible, so understanding the imperfect is essential.  Like the Qal Perfect Strong paradigm, we must have a robotic-like recall of the Qal Imperfect Strong Paradigm.
 
 <span class="he">וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר׃</span>
 
-You might recognize this from Genesis 1:3 - "And God said, 'Let there be light'; and there was light."  There are three verbs in this short sentence, and all three are Qal Imperfect.
+You might recognize this from Genesis 1:3 - "And God said, 'Let there be light'; and there was light."  There are three verbs in this short sentence, and all three are Qal Imperfect (and two are the Qal Imperfect + Vav Conjunction.
 
 ::: {.box .map}
 LESSON ITINERARY
 
-1. Imperfect is future, modal, or imperfective
+1. Begin to translate the imperfect
 1. Components of the Qal Imperfect Strong Paradigm
     1. The Imperfect Preformatives and Sufformatives
     1. The Qal Imperfect Vowels
@@ -105,16 +105,18 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * The Imperfect has many potential translations
-* Watch to see whether the imperfect verb begins a clause as this is a clue
-* When the Imperfect does not begin a clause . . .
-    * future, "I will run"
-    * imperfective, "I am running" or "I was running"
-* When the Imperfect begins a clause (and does not have a Vav Consecutive prefix)<small>^[<small>An imperfect verb _with_ the Vav Consuctive changes the verb's aspect to Perfect.  We'll study this in Lesson 17.</small>]</small> . . .
-    * modal, cohortative: "I should run" or "I might run" or "let us run"
-    * modal, jussive: "may he run"
-    * We will study the modal forms in greater detail in Lesson 18
+* If you don't have any context, translate Imperfect as future
+* In context, watch to see whether the imperfect verb begins a clause as this is a clue
+* When the Imperfect does not begin a clause: future, "I will run", or imperfective, "I am running" or "I was running"
+* When the Imperfect begins a clause and does not have a Vav Consecutive prefix, the use is what is called _modal_.  We'll study modal forms in Lesson 18.
+* An imperfect verb _with_ the Vav Consuctive changes the verb's aspect to Perfect.  We'll study this in Lesson 17
 * When the imperfect is preceded by <span class="he">לֹא</span> or <span class="he">אַל</span> it is a negative command
     * We'll have more to say about this towards the end of the lesson
+    * Positive commands take a different form, called the _Imperative_, which we will also study in Lesson 18
+    
+::: {.box .map}
+For now, translate the Imperfect as the English Future tense
+:::
     
 
 ## The Imperfect Always has a Preformative
@@ -139,7 +141,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * <span class="he">י</span> for 3ms, 3mp
 * <span class="he">א</span> for 1cs
 * <span class="he">נ</span> for 1cp
-* <span class="he">תּ</span> for everywhere else (3fs,3fp, 2ms, 2fs, 2mp, 2fp)
+* <span class="he">תּ</span> for everywhere else (3fs ,3fp, 2ms, 2fs, 2mp, 2fp)
 
 
 ## Qal Imperfect Vowels
@@ -159,23 +161,37 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ combination
+Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ ($Pre$) combination
 
 * All QI strong verbs except 1cs begin with Hireq+Silent Shewa
     *  <span class="he">ְ יִ</span> for 3ms, 3mp
     *  <span class="he">ְ נִ</span> for 1cp
     *  <span class="he">ְ תִּ</span> for all others except 1cs
 * 1cs begins with Aleph+Seghol+Silent Sheva <span class="he">ְ אֶ</span>
-* The vowels behave as if they were from the Rule of Sheva (they aren't)
-* We can summarize this by saying, "for the QI, $Pre =$ <span class="he">יִקְ</span>
+* We can summarize this by saying, "for the QI, $Pre =$ <span class="he">יִקְ</span>"
     * <span class="he">יִ</span> represents any of the Imperfect preformatives with a Hireq or <span class="he">אֶ</span>
     * <span class="he">קְ</span> represents any strong letter in $R_1$ with a Silent Sheva
+
+::: {.box .info}
+The vowels behave as if they were from the Rule of Sheva (they aren't)
 
 ```{r, out.width = "400pt", fig.align='center'}
 
 knitr::include_graphics("images/15-rule-of-sheva.png")
 ``` 
+:::
 
+::: {.box .caution}
+* Note, when you see $Pre$ in the special font, this is not the same as the form's prefix and it is not the same as the form's preformative.  
+* $Pre$ is a combination of prefix, preformatives, initial vowels and Daghesh marks as indicated that are diagnostic of a given stem and conjugation.
+*For the QI, $Pre =$ <span class="he">יִקְ</span>
+:::
+
+* Lastly, for the QI, $V_S = \bar O$
+* With this we can begin to build our $V_S$ formula we introduced at the very end of lesson 12
+* Qal Formula: $V_S = A \sim \bar O$
+    * Perfect = Patach
+    * Imperfect = Holem
 
 ## Imperfect Sufformatives
 
@@ -199,14 +215,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * The <span class="he">ְ תִּ</span> preformative with the <span class="he">י ִ</span> sufformative is diagnostic of the QI2fs
 * Of the plural forms, only 1cp does NOT have a sufformative
     * 2mp/3mp sufformative - <span class="he">וּ</span>
-        * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>
-        * The ן sometimes causes the shuruk to shorten to a Qubbutz
-        * In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp
+        * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>^[ The ן sometimes causes the shuruk to shorten to a Qubbutz. In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp]
+        * You will be able to tell 2mp from 3mp by the preformative
     * 2fp/3fp sufformative - <span class="he">נָה</span>
-    * You'll note that QI2fp and QI3fp are identical.   The context will determine whether the verb is being used in the 3rd person or the 2nd person.  These forms are relatively infrequent.
+        * You'll note that QI2fp and QI3fp are identical.   
+        * The context will determine whether the verb is being used in the 3rd person or the 2nd person.  
+        * These forms are relatively infrequent.
 * There are no "heavy sufformatives" in the Imperfect
     * In fact, the two we studied previously (2mp and 2fp) are the only ones
-* The Imperfect is a Finite verb, so a Sheva prefers to go before a finite verb sufformative
+* The last point is to remember that the Imperfect is a Finite verb, so a Sheva prefers to go before a finite verb sufformative
 
 
 > Now we're ready to put all this together and learn the Qal Imperfect Strong Paradigm, the same way we built the Qal Perfect Strong Paradigm!
@@ -241,41 +258,15 @@ knitr::include_graphics("images/15.Qal_imperfect_Strong.png")
 3. A Sheva goes before a finite sufformative
     * Sheva goes under $R_2$ (displacing $V_S/V_2$) when $R_3$ already has a vowel
 4. $V_S = \bar O$ unless already reduced by the Sheva of the finite sufformative
-    * Qal Formula: $V_S = A \sim \bar O$
-        * Perfect = Patach
-        * Imperfect = Holem
 5. Accent $V_S$ unless it reduced
 6. $V_P = I$ and $V_1 = \ :$, except 1cs ($V_P = E$)
-    * Qal $Pre =$ <span class="he">יִקְ</span>
-7. Add Dagesh Lene to בגד כפת after Sheva (N/A for קטל)
+    * Qal Imperfect $Pre =$ <span class="he">יִקְ</span> - and we simply need to remember to replace the י with the applicable imperfect preformative
 
 
 
-## Qal Imperfect Strong Paradigm
+## Qal Imperfect Strong Paradigm Audio
 
-::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.7.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
-
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
-| 3ms | <span class="he">יִקְטֹל</span>  | 3mp | <span class="he">יִקְטְלוּ</span> 
-| 3fs | <span class="he">תִּקְטֹל</span> | 3fp | <span class="he">תִּקְטֹ֫לְנָה</span> 
-| 2ms | <span class="he">תִּקְטֹל</span> | 2mp | <span class="he">תִּקְטְלוּ</span>
-| 2fs | <span class="he">תִּקְטְלִי</span> | 2fp | <span class="he">תִּקְטֹ֫לְנָה</span>
-| 1cs | <span class="he">אֶקְטֹל</span> | 1cp | <span class="he">נִקְטֹל</span>
-
+Repeat the paradigm until you have it memorized!  This will help you with the worksheet activity.
 
 <figure>
     <figcaption>Qal Imperfect Strong (Singular) read by Izzy</figcaption>
@@ -296,6 +287,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
             <code>audio</code> element.
     </audio>
 </figure>
+
+| Sing | Paradigm | Plural | Paradigm
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">יִקְטֹל</span>  | 3mp | <span class="he">יִקְטְלוּ</span> 
+| 3fs | <span class="he">תִּקְטֹל</span> | 3fp | <span class="he">תִּקְטֹ֫לְנָה</span> 
+| 2ms | <span class="he">תִּקְטֹל</span> | 2mp | <span class="he">תִּקְטְלוּ</span>
+| 2fs | <span class="he">תִּקְטְלִי</span> | 2fp | <span class="he">תִּקְטֹ֫לְנָה</span>
+| 1cs | <span class="he">אֶקְטֹל</span> | 1cp | <span class="he">נִקְטֹל</span>
+
+
 
 ## Worksheet: Qal Imperfect Strong Paradigm {-}
 
@@ -324,24 +325,29 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * <span class="he">תִּזְכְּר֔וּ</span>
-    * Preformative: Tav+Hireq+Sheva = QI2xx or QI3Fx
-    * Sufformative: Shuruq = I2mp or I3mp
-    * Together: QI2mp
-    * You will remember
+    * $Pre$: Tav+Hireq+Zain+Sheva 
+        * Fits QI $Pre$ = $Pre =$ <span class="he">יִקְ</span> - Qal Imperfect
+        * ת = I2xx or I3Fx
+    * Sufformative: וּ = I2mp or I3mp
+    * $Pre$ + sufformative can only be QI2mp
+    * <span class="he">תִּזְכְּר֔וּ</span> = QI2mp, זָכַר, You (all) will remember
+    * We note that $V_S$ is not $\bar O$, but that's because we have a Sheva before a finite sufformative.  It turns out we do not need the $V_S$ to identify this as QI2mp.
 * <span class="he">יִכְתֹּ֤ב</span>
-    * Preformative: Yod+Hireq+Sheva = QI3mx
+    * $Pre$: Yod+Hireq+Kaf+Sheva = QI3mx
     * Sufformative: none = QIxxS or QI1CP
-    * Together: QI3ms
+    * $Pre$ + no sufformative can only be QI3ms
     * He will write
+    * $V_S = \bar O$ is additional confirmation that this is Qal Imperfect
 * <span class="he">תִשְׁבַּ֤ת </span>
-    * Preformative: Tav+Hireq+Sheva = QI2xx or QI3Fx
+    * Preformative: Tav+Hireq+Shin+Sheva = QI2xx or QI3Fx
     * Sufformative: none = QIxxS or QI1CP
-    * Together: QI3fs or QI2fs - context will determine which one
+    * Together: QI3fs or QI2ms - context will determine which one
     * Context: <span class="he">לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙</span> = Lit: why she will stop, the work" or "Why should the work stop" = the verb is modifying "the work" which is a feminine noun.
     * QI3fs
+    *$V_S = A$ because this is a stative verb - in the imperfect $V_S = A$ for all stative verbs
 
 
-## Deviations from the Paradigm
+## Deviations from the Qal Imperfect Strong Paradigm
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.9.m4a">
@@ -391,12 +397,38 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * <span class="he">לֹא</span> + imperfect is for permanent prohibitions
     * <span class="he">לֹא תִּרְצָח</span> Thou shalt not murder (Ex 20:13)
 * <span class="he">אַל</span> + Jussive (closely related to imperfect) is usually a temporary or circumstantial prohibition
-    * <span class="he">אַל־ת־ִשְׁמְעוּ אֶל־דִּבְרֵי נְבִיאֵיצֶם</span> Do not listen to the words of your prophets (Jer 27:16)
+    * <span class="he">אַֽל־תִּשְׁמְע֞וּ אֶל־דִּבְרֵ֣י נְבִֽיאֵיכֶ֗ם</span> Do not listen to the words of your prophets (Jer 27:16)
     * Jeremiah is not saying, "Don't EVER listen to ANY prophets"
     * In this circumstance, the people were listening to FALSE prophets
     * The specific circumstance of listening to false prophets is what Jeremiah is prohibiting
 
+## Qal Imperfect Strong Conclusion {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+::: 
+
+* The Qal Imperfect is a critically important form in the Bible so way to go for getting through this lesson
+* As we said in the intro to Lesson 14, weak verbs are much more common than strong verbs; this is true for Imperfect as well as perfect
+* The authors of _Basics of Biblical Hebrew_ believe Lesson 16 is the high water mark of the course
+* Once you master the material in the next lesson, many students find that the rest of the course fits together nicely
+* We mention this now in Lesson 15, because the diligent work you do between now, this very moment, and the moment you start Lesson 16 will set you up for maximum success in the remainder of the course
+* Be sure you have mastered the Qal Imperfect paradigm, both in terms of speaking it and writing it
+    * We know we've said that speaking and writing are not our focus with this course, but here we are making an exception
+    * Listening and repeating Izzy's audio several, completing the worksheet a few more times, and of course doing all of the Anki work and activities, will serve you very well as we had into lesson 16.
+
+>Keep up the fantastic work! You're doing great!
 
 ## Word Warm-up {-}
 
@@ -432,7 +464,7 @@ Identify and translate the Qal Verbs below.
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:

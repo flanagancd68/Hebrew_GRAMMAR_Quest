@@ -18,7 +18,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 > In the Bible, weak verbs are much more common than strong verbs. To understand Biblical Hebrew, we must be able to translate weak verbs.
 
 
-A weak verb is defined as one with one or more letters that cause the word to deviate from the strong verb pattern. We already looked at two of these in the previous lesson:  נ and ת assimilate under certain conditions. 
+A weak verb is defined as a verb with one or more letters that cause the word to deviate from the strong verb pattern. We already looked at two of these in the previous lesson:  נ and ת assimilate under certain conditions. 
 
 Many Hebrew grammar textbooks asked students to memorize _all_ of the differences in each stem and conjugation.  Fortunately, there is an easier way.  
 
@@ -84,21 +84,11 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-### <span class="he">בָ֤אָה נַחֲלָתֵ֙נוּ֙ אֵלֵ֔ינוּ מֵעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרָֽחָה׃</span> {-}
+### <span class="he"><rtl>בָ֤אָה נַחֲלָתֵ֙נוּ֙ אֵלֵ֔ינוּ מֵעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרָֽחָה׃</rtl></span> {-}
 
 *our inheritance has fallen to us on this side of the Jordan toward the east (Numbers 32:19)*
 
 Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock."  They followed their eyes, which saw profit. They took the easy path, which caused tension between the tribes. Students of history know that these lands to the east were often easily invaded. The lesson for us is to make sure we seek what the Lord wants for us and not our own desires.
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/14-03-Num.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 
@@ -132,11 +122,11 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * A weak letter behaves differently in some fashion
     * It could reject a dagesh forte, prefer a different vowel, or disappear entirely under certain situations
 * A weak verb is a verbal root with one or more weak letters
-* It is possible for a verb may be strong in one conjugation but weak in another
+* It is possible for a verb to be strong in one conjugation but weak in another
     * For example, Resh is only a weak letter in verbs that try to put a Daghesh Forte in it
     * The Qal stem does not require a Dagesh Forte in any form; therefore, verbs with Resh are not considered weak in Qal
         * In Unit 4, we will learn the Piel stem requires a Daghesh Forte in $R_2$
-        * Therefore, a verb with a Resh (or any guttural) in $R_2$ is a weak verb in the Piel
+        * Therefore, a verb with a Resh in $R_2$ is a weak verb in the Piel
 * Weak verbs are classified by their problematic root letter 
     * [Refer to Lesson 12](#weak-class) for a review of weak verb classes
 
@@ -159,16 +149,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* A Tav with a Sheva assimilates to another Tav only
+* A Tav with a Silent Sheva assimilates to another Tav only
     * It becomes a Dagesh Forte in the following Tav
     * This occurs in all Qal Perfect 2nd person forms as well as 1cs
     * NOT <span class="he">כָּרַתְתָּ</span>*, BUT <span class="he">כָּרַתָּ</span>
 * A Nun with a Silent Sheva assimilates to anything
-    * It becomes a Daghesh Forte in the next letter
+    * It becomes a Dagesh Forte in the next letter
     * This occurs in all Qal Perfect 1st and 2nd Person forms
         * NOT <span class="he">נַתַ֫נְתָּ</span>*, BUT <span class="he">נַתַ֫תָּ</span> 
         * NOT <span class="he">נָתַנְנוּ</span>*, BUT <span class="he">נַתַ֫נּוֹ</span>
-* The Dagesh 2MS ending is usually a Lene, but each becomes a Forte (Why?<small>^[<small>A Daghesh is a Forte if it is preceded by a vowel that is not a Sheva.</small>]</small>)
+* The Dagesh mark in the 2MS ending is usually a Lene, but when preceded by נ or ת it becomes a Forte (Why?^[A Dagesh is a Forte if it is preceded by a vowel that is not a Sheva.])
 
 ::: {.box .info}
 DAGESH FORTE
@@ -288,7 +278,7 @@ function setPlaySpeed25() {
 * In all 3G, $V_1 = \bar A$ (unless reduced in 2mp/2fp) as is diagnostic of the QP conjugation - in other words, no matter what happens to $V_S$, you will usually be able to diagnose Qal Perfect by the regular Qamets in $V_1$
 
     
-## א3 
+## א-3 
 
 ::: {.infobox .sound}
 <figure>
@@ -332,52 +322,20 @@ function setPlaySpeed25() {
     * QP2ms: NOT <span class="he">מָצַ֫אְתָּ</span>*, BUT <span class="he">מָצָ֫אתָּ</span>
     * QP3ms, the Aleph is already quiescent (CL): NOT <span class="he">מָצַא</span>*, BUT <span class="he">מָצָא</span>
     * בגד כפת have Dagesh Lene only if not after a vowel
-        * In other words, the Quiescent Aleph is ignored
-        * Note how the 2fs forms drop the Dagesh Lene and final Silent Sheva if a vowel is before the בגד כפת:
+        * In other words, the Quiescent Aleph is ignored - it is neither a consonant, nor a vowel and does not affect syllabification
+        * Note how the 2fs forms drop the Dagesh Lene and final Silent Sheva - this is because a vowel is before the בגד כפת letter
         * NOT <span class="he">מָצַאְתְּ</span>*, BUT <span class="he">מָצָאת</span>
 * As mentioned, in 3G, $V_1 = \bar A$ (unless reduced in 2mp/2fp) as is diagnostic of the QP conjugation - (are you beginning to see the pattern?)
 
-## יָרֵא is 3א AND Tsere Stative
+::: {.box .caution}
 
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.7.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
+יָרֵא is 3א AND Tsere Stative
+
 :::
 
+* <span class="he">יָרֵא</span> is irregular
+* Most Tsere statives have $\bar E$ only in the 3ms, but with <span class="he">יָרֵא</span>, $V_S = \bar E$ unless $V_2$ is reduced (P3fs, P3cp)
 
-* $V_S = \bar E$ unless reduced (P3fs, P3cp)
-* Most Tsere statives have $\bar E$ only in the 3ms  
-* <span class="he">ירא</span> is irregular
 
 
 ## 3ה  
@@ -419,28 +377,35 @@ function setPlaySpeed25() {
 
 
 * 3ה verbs are in a unique class
-* $R_3$ is not a consonant; in fact, there is no $R_3$ consonant
-* 3ה verbs only have two root consonants, $R_1$ and $R_2$ - the final slot is taken up by $\hat A$ (Qamats+Hei)
-
-::: {.box .info}
-Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "reappears."
-:::
-
+* $R_3$ is not a consonant; in fact, there is no $R_3$ consonant^[This is per Dr. Beckman's lessons. Other scholars, including _Basics of Biblical Hebrew_, view the ה as $R_3$. Beckman's approach turns out to be easier to grasp.]
+* 3ה verbs only have two root consonants, $R_1$ and $R_2$ - the final slot is taken up by the _vowel_ $\hat A$ (Qamats+Hei)
 * $V_2$ of 3ה verbs follow a unique pattern:
-    * IF there is no sufformative, THEN add the vowel $\hat A$ in the Perfect
-    * IF the sufformative starts with a vowel, THEN the vowel of the sufformative is $V_2$
-    * IF the sufformative starts with a consonant, THEN $V_2$ is (vowel)+Yod
+    * If there is no sufformative, THEN add the vowel $\hat A$ in the Perfect
+    * If the sufformative starts with a vowel, THEN the vowel of the sufformative is $V_2$
+    * If the sufformative starts with a consonant, THEN $V_2$ is (vowel)+Yod
         * The specific (vowel) depends on the conjugation
         * For the Perfect, $V_2 = \hat I$ (Hireq+Yod)
 * Additionally, to avoid ambiguity with the P3ms, the P3fs sufformative becomes <span class="he">תָה</span>
-* With all these changes, the  $V_1 = \bar A$ (unless reduced in 2mp/2fp) diagnostic of QP does not change
+* With all these changes, the  $V_1 = \bar A$ (unless reduced in 2mp/2fp) diagnostic of the QP does not change
+
+
 
 ::: {.box .light}
-3ה ENDINGS
-
 * 3ה Verbs are frequent, so we will want to memorize these rules and endings
-* They are consistent throughout all stems; e.g., P3ms 3ה verbs end in $\hat A$ (Qamets+Hei) in all seven stems
+* Good news! They are consistent throughout all stems; e.g., P3ms 3ה verbs end in $\hat A$ (Qamets+Hei) in all seven stems
 
+:::
+
+Below is a summary table showing the verb <span class="he">בָנָה</span> in the Qal Perfect.  Note $\hat I$ in all 2nd/1st person perfect forms.
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="3-Hei Qal Perfect"}
+
+knitr::include_graphics("images/14.3heiparadigm.png")
+``` 
+
+::: {.box .info}
+* Historically, third ה verbs used to be 3-י.  In some conjugations, the Yod "reappears."
+* In the Qal Perfect, the diagnostic $V_S = \hat I$ will help you to identify the 3-ה class of verbs.
 :::
 
 ## Doubly Weak
@@ -486,7 +451,21 @@ function setPlaySpeed25() {
 * These verbs have an additional step to scavenger hunt our way back to the Strong Verb Paradigm
 * We simply need to combine the 1G/2G aspects of the Hateph vowel instead of a Sheva with the 3ה endings we studied in the previous section
 
-## הָיָה
+::: {.box .light}
+<span class="he"> הָיָה </span> is a very common verb meaning "to be"
+ 
+:::
+
+* As you can see, it is both 1G and 3ה
+* It follows the 3ה endings we discussed above
+* $V_1$ is <span class="he">הֱ</span> in 2mp and 2fp
+    * <span class="he">הֱיִיתֶם</span> and <span class="he">הֱיִיתֵן</span>
+    * The first Yod is $R_2$
+    * The second Yod is part of the vowel $V_2 = \hat I$ (Hireq+Yod), which is diagnostic of a 3ה verb in the Perfect 2p/1p conjugation
+* The key to unlocking these is learning your 3ה vocabulary words
+
+
+## Geminate 
 
 ::: {.infobox .sound}
 <figure>
@@ -524,63 +503,23 @@ function setPlaySpeed25() {
 :::
 
 
-* This is a very common verb meaning "to be"
-* As you can see, it is both 1G and 3ה
-* It follows the 3ה endings we discussed above
-* $V_1$ is <span class="he">הֱ</span> in 2mp and 2fp
-    * <span class="he">הֱיִיתֶם</span> and <span class="he">הֱיִיתֵן</span>
-    * The first Yod is $R_2$
-    * The second is $V_2 = \hat I$ (Hireq+Yod)
-
-## Geminate Paradigm
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.11.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
-:::
-
-
-* In Geminate verbs, $R_3 = $R_2$
+* In Geminate verbs, $R_3 = R_2$
 * No Hebrew words have $R_1 = R_2$ - this will prove to be important later in the course
 * Frequently, $R_2$ assimilates into its twin $R_3$
     * $R_3$ will then take a Dagesh Forte, unless it is the final consonant in a word
-    * 3rd person forms will have both
-        * <span class="he">סַב</span> or <span class="he">סָבַב</span>
-    * When there is assimilation, the accent tries to shift to $V_1$ since that is the new Stem Vowel
+
+::: {.box .caution}
+* 3rd person forms may be spelled either with or without assimilation
+* <span class="he">סַב</span> or <span class="he">סָבַב</span>
+:::
+
+* When there is assimilation, $V_S$ shifts to $V_1$ position
+    * So this is a time where you may _not_ see our diagnostic Qal Perfect $V_1 = \bar A$
+    * Additionally, the accent tries to shift to $V_1$ since that is the new Stem Vowel
         * The accent must be on the last two syllables
         * The heavy sufformatives (2mp and 2fp) continue to take the accent
     * $V_2 = \hat O$ before sufformative that starts with a consonant
-* Review the table below, noting $V_1$ and accent changes:
+* Review the table below, noting $V_1$, $V_2$, and accent changes:
 
 
 | PGN | Gem | Strong
@@ -601,44 +540,6 @@ function setPlaySpeed25() {
 Geminate verbs are relatively infrequent, so the changes in the table above needn't distract you from your verb parsing quest!
 :::
 
-## Geminate Vocabulary
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.12.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
-:::
-
-
 You will learn the major geminate verbs in your vocabulary. To start with, here are a few of the most common:
 
 * <span class="he">סָבַב</span>, to surround
@@ -647,17 +548,16 @@ You will learn the major geminate verbs in your vocabulary. To start with, here 
 * <span class="he">אָרַר</span>, to curse
     * Resh rejects = Compensatory Lengthening
     * <span class="he">אָר֫וֹתִי</span> = QP1cs
-    * In the table on the previous page, note how $V_1 = A$, but in <span class="he">אָר֫וֹתִי</span>, $V_1 = \bar A$
+    * In the table above, note how $V_1 = A$, but in <span class="he">אָר֫וֹתִי</span>, $V_1 = \bar A$
 * <span class="he">תָמַם</span>, to finish
     * The first מ will assimilate into a Dagesh Forte (except QP3ms)
     * <span class="he">תַּ֫מּוּ</span> = QP3cp
-
 
 ## Biconsonantal
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.13.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/14.11.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -696,12 +596,11 @@ function setPlaySpeed25() {
     * It will be important to memorize the Lexical Vowel
         * For example, NOT <span class="he">קִים</span>**, NOT <span class="he">קוֹם</span>**, BUT <span class="he">קוּם</span>
     * The word with the Lexical Vowel is the Lexical Form (the version that is in the dictionary)
-    * This is an exception to the QP3ms = Lexical Form guideline
+    * This is an exception to the rule that the Lexical Form = QP3ms
 * $V_S$ and its accent move to $V_1$ and do not reduce
     * $V_S$ lengthens in 3rd person
     
 Review the table below, noting $V_1$ and accent changes:
-
 
 | PGN | קוּם  | Strong
 | :- | :- | :-
@@ -715,63 +614,29 @@ Review the table below, noting $V_1$ and accent changes:
 2fp | <span class="he">קַמְתֶּן</span> | <span class="he">קְטַלְתֶּן</span>
 1cp | <span class="he">קַ֫מְנוּ</span> | <span class="he">קָטַ֫לְנוּ</span>
 
-
-## מוּת is Biconsonantal and Stative
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.14.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
+::: {.box .caution}
+<span class="he">מוּת</span> is Biconsonantal and Stative
 :::
 
-* Recognize Biconsonantal by the accent and missing root consonant
-* $V_S$ and accent moved to $V_1$
-* Tsere stem vowel in 3rd person
-* In the perfect, only occurs in 3rd person and 1cp
+* Recognize a Biconsonantal by the accent and missing root consonant
+    * $V_S$ and accent moved to $V_1$
+* With a Tsere-stative, we have a Tsere stem vowel in 3rd person
+* In the perfect, מוּת only occurs in 3rd person and 1cp
 * Compare <span class="he">מוּת</span> and <span class="he">קוּם</span> in the table below:
 
 
 | PGN | קוּם  | מוֹת
 | :- | :- | :-
 3ms | <span class="he">קָם</span> | <span class="he">מֵת</span>
-3fs | <span class="he">קָ֫מָה</span> | <span>
-3cp | <span class="he">קָ֫מוּ</span> | <span>
+3fs | <span class="he">קָ֫מָה</span> |  <span class="he">מֵתָה</span>
+3cp | <span class="he">קָ֫מוּ</span> |  <span class="he">מֵתוּ</span>
 1cp | <span class="he">קַ֫מְנוּ</span> | <span class="he">מַ֫תְנוּ</span>
 
-## Qal Perfect Quest Clues
+## Qal Perfect Summary
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.15.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/14.12.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -810,50 +675,16 @@ function setPlaySpeed25() {
     * $V_1$ will be reduced if 2mp/2fp
     * $V_1 =A$ (Patach) if Biconsonantal or Geminate 1st or 2nd Person
     * $V_1$ will be reduced if there is a pronominal suffix - Lesson 19
-    
-## Clues for Qal Perfect Special Situations
-
-::: {.infobox .sound}
-<figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/14.16.m4a">
-            Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
-:::
 
 ::: {.box .map}
-MISSING A ROOT CONSONANT
+MISSING A ROOT CONSONANT?
+:::
+
+You can refer back to these clues if you encounter a word that doesn't seem to fit the Qal Perfect form because it is missing a root consonant.
 
 * If $V_1$ is accented, it is biconsonantal or geminate
 * 1st or 2nd person: look at the vowel before the sufformative
-    * <span class="he">י ִ</span> = 3ה
+    * $\hat I$ = 3ה
     * <span class="he">וֹ ּ </span> = GEMINATE
     * <span class="he">ְ </span> = BICONSONANTAL
     * <span class="he">תּ ַ </span> (where Tav is the sufformative) = 3נ/ת
@@ -862,7 +693,7 @@ MISSING A ROOT CONSONANT
     * Dagesh Forte in what looks like $R_2$ = GEMINATE
     * $V_1$ is accented and no Dagesh in $R_2$ = BICONSONANTAL
     * $V_2$ accented as usual = 3ה
-:::
+  
 
 ## Word Warm-up {-}
 

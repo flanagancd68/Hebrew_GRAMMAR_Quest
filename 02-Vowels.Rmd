@@ -191,7 +191,7 @@ The table below lists the vowels that are not vowel letters.  This table MUST be
 
 * The letter בּ is provided as a placeholder
 * Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.]. 
-  * So, the first vowel example is "baw" not "awb."
+  * So, the first vowel example is "baw" not "awb."^["Basics of Biblical Hebrew" labels the first vowel "Qamets" and pronounced either `qa-MAYTZ` or `QA-maytz`.  Others, including Dr. Beckman, spell the vowel as "Qamats" and pronounced `qa-MAHTZ` (or sometimes or `QA-mahtz`, which sounds like the English word `comets`).  You may hear these used interchangeably, even in the narration of this book. This should not pose any obstacle. The important aspect is the vowel makes the "ah" sound in "father".  For simplicity, students may choose to use Izzy's pronunciation in _Hebrew Quest_ (which happens to be `QA-maytz`).]
 
 ```{r, out.width = "600pt", fig.align='center'}
 
