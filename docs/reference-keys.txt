@@ -239,7 +239,6 @@ qal-imperfect-strong-examples
 deviations-from-the-qal-imperfect-strong-paradigm
 translating-negative-commands
 qal-imperfect-weak
-our-quest
 g
 חע
 א
@@ -251,13 +250,12 @@ geminate-1
 biconsonantal-1
 yod
 הלך
-יכל-takes-v_p-hat-u
+יכל-takes-v_p-hat-u-in-the-qi
 נ-assimilates-with-silent-sheva
 לקח
 doubly-weak-1
 נתן-is-1נ-and-3נ
 ראה-vs.-ירא
-qal-imperfect-weak-summary
 vav-consecutive
 hebrew-quest-qal-vav-consecutive-lecture-from-lesson-14
 hebrew-quest-vav-consecutive-lecture-from-lesson-5

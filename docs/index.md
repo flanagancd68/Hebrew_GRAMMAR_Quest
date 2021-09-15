@@ -14540,7 +14540,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * <span class="he">תִּזְכְּר֔וּ</span>
     * $Pre$: Tav+Hireq+Zain+Sheva 
-        * Fits QI $Pre$ = $Pre =$ <span class="he">יִקְ</span> - Qal Imperfect
+        * Fits QI $Pre =$ <span class="he">יִקְ</span> - Qal Imperfect
         * ת = I2xx or I3Fx
     * Sufformative: וּ = I2mp or I3mp
     * $Pre$ + sufformative can only be QI2mp
@@ -14558,7 +14558,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * Together: QI3fs or QI2ms - context will determine which one
     * Context: <span class="he">לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙</span> = Lit: why she will stop, the work" or "Why should the work stop" = the verb is modifying "the work" which is a feminine noun.
     * QI3fs
-    *$V_S = A$ because this is a stative verb - in the imperfect $V_S = A$ for all stative verbs
+    * $V_S = A$ because this is a stative verb - in the imperfect $V_S = A$ for all stative verbs
 
 
 ## Deviations from the Qal Imperfect Strong Paradigm
@@ -14640,7 +14640,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * We mention this now in Lesson 15, because the diligent work you do between now, this very moment, and the moment you start Lesson 16 will set you up for maximum success in the remainder of the course
 * Be sure you have mastered the Qal Imperfect paradigm, both in terms of speaking it and writing it
     * We know we've said that speaking and writing are not our focus with this course, but here we are making an exception
-    * Listening and repeating Izzy's audio several, completing the worksheet a few more times, and of course doing all of the Anki work and activities, will serve you very well as we had into lesson 16.
+    * Listening and repeating Izzy's audio several times, completing the worksheet a few more times, and of course doing all of the Anki work and activities, will serve you very well as we had into lesson 16.
 
 >Keep up the fantastic work! You're doing great!
 
@@ -14702,9 +14702,38 @@ YOUR HEBREW QUEST:
 
 # Qal Imperfect Weak {.QI-w}
 
-This is a critical and dense chapter.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+::: 
+
+>This is a critical and dense chapter, but one that must be mastered to read and understand Biblical Hebrew
 
 Almost every weak verb class experiences some change in the Imperfect.
+
+As we progress through the material in this chapter, our quest is to learn how the weak verbs behave in order to work our way back to the Qal Imperfect Strong Verb indicators.  We've tried to keep the individual sections as short as possible.  We simply want to introduce you to the concepts before you reinforce with your activities.  If you find you need more in-depth lecture, [Dr. Beckman's Chapter 16](https://www.youtube.com/watch?v=IqAlZba1liQ) lecture is over two hours and is available on YouTube. 
+
+Recall the primary diagnostic indicators of the Qal Imperfect Strong:
+
+1. $Pre \ =$ <span class="he">יִקְ</span>
+    * Remember when we say $Pre \ =$ <span class="he">יִקְ</span>, we also include:
+        * $Pre \ =$ <span class="he">תִּקְ</span>
+        * $Pre \ =$ <span class="he">נִקְ</span>, and 
+        * $Pre \ =$ <span class="he">אֶקְ</span>
+2. The Imperfect sufformatives
+3. $V_S = \bar O$ (less important)
+
+Take your time through this lesson.  Accuracy is significantly more important than speed!
 
 ::: {.box .map}
 LESSON ITINERARY
@@ -14722,22 +14751,24 @@ The Qal Imperfect Strong Paradigm must be memorized.
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16-06-Mal.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+::: 
+
 ### <span class="he">וְעֵינֵיכֶ֖ם תִּרְאֶ֑ינָה</span> {-}
 
 *Your eyes will see (Malachi 1:5)*
-
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/16-06-Mal.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
 
 
 <div class="figure" style="text-align: center">
@@ -14746,24 +14777,33 @@ The Qal Imperfect Strong Paradigm must be memorized.
 </div>
 
 
-## Our Quest
 
-As we progress through the material in this chapter, our quest is to learn how the weak verbs behave in order to work our way back to the Qal Imperfect Strong Verb indicators.
 
-Recall the two primary diagnostic indicators of the Qal Imperfect Strong:
-
-* $Pre \ =$ <span class="he">יִקְ</span>
-* $V_S = \bar O$
 
 
 ## 2G 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+::: 
 
 * When $V_2$ reduces, it will be a Hateph Vowel instead of Vocal Sheva
 * Gutturals prefer Patach
     * When NOT reduced, $V_S = A$ instead of $\bar O$ 
 
 ::: {.box .light}
-Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect since the $Pre \ =$ <span class="he">יִקְ</span> diagnostic is retained
+Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained
 :::
 
 |  | 2G | Strong | 
@@ -14775,11 +14815,26 @@ Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect since the $P
 
 ## 3חע
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Prefer $V_S = A$
 
 ::: {.box .light}
 
-Although $V_S = A$, 3חע verbs are easily recognized as Qal Imperfect since the $Pre \ =$ <span class="he">יִקְ</span> diagnostic is retained  
+Although $V_S = A$, 3חע verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained  
 :::
 
 |  | 3חע | Strong | 
@@ -14789,13 +14844,28 @@ Although $V_S = A$, 3חע verbs are easily recognized as Qal Imperfect since the
 
 ## 3א  
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * While 3חע prefer $V_S = A$, 3א prefer $V_S = \bar A$ primarily
 * 3/2fp
     * Will see $V_S = E$, or sometimes $V_S = \bar E$
     * 3א quiesces with Silent Sheva (and sometimes with vocal)
 
 ::: {.box .light}
-Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect since the $Pre \ =$ <span class="he">יִקְ</span> diagnostic is retained  
+Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained  
 :::
 
 |  | 3א | Strong 
@@ -14805,9 +14875,23 @@ Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect since 
 
 ## 3ה 
 
-::: {.box .caution}
-3ה verbs lose the final ה root consonant in every form
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
+::: {.box .caution}
+Remember: 3ה verbs do not have $R_3$
 :::
 
 * _IF_ there is no sufformative, _THEN_ $V_2 \ =$ vowel + HEI:
@@ -14823,9 +14907,9 @@ Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect since 
 
 ::: {.box .light}
 
-Despite the endings, 3ה verbs are easily recognized as Qal Imperfect since the $Pre \ =$ <span class="he">יִקְ</span> diagnostic is retained.
-
+Despite the endings, 3ה verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained  
 :::
+
 
 
 |  | 3ה | Strong | Notes
@@ -14835,6 +14919,21 @@ Despite the endings, 3ה verbs are easily recognized as Qal Imperfect since the 
 | QI(3/2)fp | <span class="he">תִּבְנֶ֫ינָה</span> | <span class="he">תִּקְטֹ֫לְנָה</span> | Seghol+Yod
 
 ## 3ה ending comparison table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 The table below shows a comparison of 3ה verbs when there is no sufformative.
 
@@ -14854,25 +14953,60 @@ The table below shows a comparison of 3ה verbs when there is no sufformative.
 
 ## 1G
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Remember the Rule of Sheva that prevents two contiguous Vocal Sheva/Hateph Vowels
     * NOT <span class="he">יְקְ</span>, BUT <span class="he">יִקְ</span>
-    * Whenever we see the $Pre \ =$ <span class="he">ְ יִ</span> of the Qal Imperfect, think "Rule of Sheva"<small>^[<small>Historically the QI $Pre$ did not come the Rule of Sheva, however pretending that it did makes it easy to recognize QI 1G verbs.</small>]</small>
+    * Whenever we see the $Pre \ =$ <span class="he">ְ יִ</span> of the Qal Imperfect, think "Rule of Sheva"<>^[<>Historically the QI $Pre$ did not come the Rule of Sheva, however pretending that it did makes it easy to recognize QI 1G verbs.</>]</>
 * The 1G will reject the Vocal Shewa in favor of a Hateph Vowel
+* Then we can think of it as if the Imperfect "originally" wanted $V_P$ and $V_1$ to both be vocal sheva or a hateph vowel if a guttural; however, this is not allowable by the Rule of Sheva
+    * What wanted to be <span class="he">יְחֲ</span>, becomes <span class="he">יַחֲ</span> after the Rule of Sheva is applied
+
 
 ::: {.box .light}
-To identify QI from a 1G verb:
+To identify QI from a 1G verb, apply the Rule of Sheva
 
-* Turn <span class="he">יַחֲ</span> or <span class="he">יֶחֱ</span> back to <span class="he">יִקְ</span>
-* Turn <span class="he">יֶהֶזְ</span> or <span class="he">יַחַלְ</span> back to <span class="he">יִקְטְ</span>
+* <span class="he">יַחֲ</span> or <span class="he">יֶחֱ</span> with a guttural consonant would be <span class="he">יִקְ</span> with two non-guttural consonants
+*<span class="he">יֶהֶזְ</span> or <span class="he">יַחַלְ</span> with at least one guttural consonant would be <span class="he">יִקְטְ</span> with three non-guttural consonants
 :::
 
 
-|  | חזק |  חלף  | Strong 
+|  | חלף |  חזק  | Strong 
 | :-  | :- | :-  | :-  
 | 3ms | <span class="he">יַחֲלֹף</span> | <span class="he">יֶחֱזַק</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יַחַלְפוּ</span> | <span class="he">יֶחֶזְקוּ</span> | <span class="he">יִקְטְלוּ</span>
 
 ## 1א "Angry Baker"
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * There is a special class of  1א verbs that are irregular ONLY in the QI
 * They are given the mnemonic "angry baker":
@@ -14880,7 +15014,7 @@ To identify QI from a 1G verb:
     * I want אטה you
     * To eat אכל what
     * I bake אפה, or
-    * I _may_ seize אחז you<small>^[<small>"MAY seize" here is intentional. Sometimes אחז is regular and sometimes it is "angry."</small>]</small>, and you
+    * I _may_ seize אחז you<>^[<>"MAY seize" here is intentional. Sometimes אחז is regular and sometimes it is "angry."</>]</>, and you
     * will perish אבד."
 * $V_P = O$ and the א in $R_1$ is quiescent  (usually $V_S = A$)
     * QI1cs: NOT <span class="he">אֹא</span>, BUT <span class="he">אֹ</span>
@@ -14895,20 +15029,38 @@ To identify QI from a 1G verb:
 | 3mp | <span class="he">יַאַסְפוּ</span> | <span class="he">יֹאמְרוּ</span> | <span class="he">יִקְטְלוּ</span>
 
 ::: {.box .info}
-You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֶר is an "angry baker" verb.
+* You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֶר is an "angry baker" verb.
+* When prefixed with the Vav Consecutive (Lesson 17), the penult is usually accented (וַיֹּ֣אמֶר is not va-yo-MER, but va-YO-mer)
 :::
 
 ## Geminate
 
-* $Pre \ =$ <span class="he">יָ</span>
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+* $V_P = \bar A$ as in: <span class="he">יָ</span>
 * Geminate Lose $R_2$ - Dagesh Forte in remaining twin letter (unless word-final or guttural letter)
     * In alternate forms, the Dagesh appears in $R_1$ and $V_P = I$ (see table below)
-* There is also a Geminate form (let's call it "Type 2") that takes $Pre \ =$ <span class="he">יֵ</span>
-* Imperfect Preformatives/Sufformatives remain
+* There is also a Geminate form (let's call it "Type 2") that takes $V_P = \bar E$ 
 * $V_S$ and Accent shift to $V_1$
 * There will be a connecting vowel before a sufformative that starts with a consonant
     * QP2fp - <span class="he">סַבּוֹתֶן</span>
     * QI2fp - <span class="he">תְּסֻבֶּ֫ינָה</span>
+* Otherwise, the Imperfect Preformatives/Sufformatives remain
 
 ::: {.box .info}
 Recognizing the Imperfect preformatives/sufformatives and Geminate vocabulary knowledge will help you recognize QI for Geminate verbs
@@ -14922,7 +15074,25 @@ Recognizing the Imperfect preformatives/sufformatives and Geminate vocabulary kn
 
 ## Biconsonantal
 
-* $Pre \ =$ <span class="he">יָ</span>
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.9.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+
+* $V_P = \bar A$, as in: <span class="he">יָ</span>
 * $V_S$ and accent move to $R_1$
 * The Lexical Vowel REMAINS, though sometimes it is defective
     * <span class="he">יָקוּם</span>
@@ -14939,6 +15109,23 @@ The retention of the Lexical Vowel, $V_P = \bar A$ and the Imperfect preformativ
 
 ## 1-Yod 
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.10.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 * ALWAYS drops 1-yod $R_1$
     * $V_P =\bar E$ or $V_P = \hat I$ (Hireq+Yod) - not the consonant Yod but the vowel letter
     * $V_S = \bar E$ or $V_S = A$
@@ -14951,11 +15138,28 @@ The retention of the Lexical Vowel, $V_P = \bar A$ and the Imperfect preformativ
 
 ::: {.box .info}
 * When $V_P = \hat I$, you can visualize the remnants of the QI Strong $Pre$ as well as the 1st yod
-* When $V_P = \bar E$, you will need to recognize the Imperfect pre/sufformatives and your knowledge of vocabulary<small>^[<small>Also, you could imagine one of the dots of the Tsere representing the dropped Yod - turn it into a Yod and you have $\hat I$, which is a more normal-looking QI $Pre$.  If you "see" this and it helps, great!  If you don't, forget about it and don't let it confuse you!</small>]</small>
+* When $V_P = \bar E$, you will need to recognize the Imperfect pre/sufformatives and your knowledge of vocabulary<>^[<>Also, you could imagine one of the dots of the Tsere representing the dropped Yod - turn it into a Yod and you have $\hat I$, which is a more normal-looking QI $Pre$.  If you "see" this and it helps, great!  If you don't, forget about it and don't let it confuse you!</>]</>
 :::
 
 
 ## הלך 
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 * הלך is an irregular verb that acts like 1-Yod in the Qal Imperfect
 * The ה drops and $V_P = \bar E$
@@ -14968,7 +15172,24 @@ The retention of the Lexical Vowel, $V_P = \bar A$ and the Imperfect preformativ
 | 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יֵלֵךְ</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יֵלְכוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-## <span class="he">יכל</span> takes $V_P = \hat U$
+## יכל takes $V_P = \hat U$ in the QI
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.12.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 | | ישׁב | To be able יכל | Strong
 | :-  | :- | :-  | :-
@@ -14977,6 +15198,21 @@ The retention of the Lexical Vowel, $V_P = \bar A$ and the Imperfect preformativ
 
 
 ## 1נ Assimilates with Silent Sheva
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.13.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * If guttural or Resh after the נ, the נ usually remains
 * Dagesh Forte in $R_2$ when נ assimilates
@@ -14993,7 +15229,22 @@ To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="
 
 ## לקח
 
-* Just as <span class="he">הלך</span> thinks it's 1י, <span class="he">לקח</span> thinks it's 1נ
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.14.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Just as <span class="he">הלך</span> thinks it's 1י, the verb <span class="he">לקח</span> thinks it's 1נ
 * Note $R_2 =$ <span class="he">ק</span> is SQiN eM LeVY
 
 | | 1נ | To take לקח | Strong
@@ -15002,6 +15253,22 @@ To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="
 | 3mp | <span class="he">יִפְּלוּ</span> | <span class="he">יִקְחוּ</span> | <span class="he">יִקְטְלוּ</span>
 
 ## Doubly Weak
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.15.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * As with the Qal Perfect, there is nothing overly complex about Imperfect Doubly Weak Verbs
 * Simply address the changes caused by each weak letter, then and work your way back to the strong form
@@ -15016,12 +15283,28 @@ To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="
 
 ## נתן is 1נ and 3נ
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.16.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * 1n assimilates as usual
 * 3n assimilates as usual
 * The result is only ONE root letter!  
     * But fortunately, this only occurs in QIfp forms
     
-::: {.box .light}
+::: {.box .caution}
 <span class="he">נתן</span> is extremely common, so we must study and understand these changes
 :::
 
@@ -15034,6 +15317,22 @@ To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="
 
 ## ראה vs. ירא
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.17.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * ירא is 1-yod and 3-aleph
     * $V_P = \hat I$ like 1י
     * 3א quiesces with Sheva (FP forms)
@@ -15045,7 +15344,23 @@ To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="
 | 3ms | <span class="he">יִרְאֶה</span> | <span class="he">יִירָא</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יִירְאוּ</span> | <span class="he">יִרְאוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-## Qal Imperfect Weak Summary
+## Qal Imperfect Weak Summary {-}
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.18.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 This is the densest chapter in _Basics of Biblical Hebrew_ yet also one of the most important.  
 

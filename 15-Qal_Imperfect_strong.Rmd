@@ -326,7 +326,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * <span class="he">תִּזְכְּר֔וּ</span>
     * $Pre$: Tav+Hireq+Zain+Sheva 
-        * Fits QI $Pre$ = $Pre =$ <span class="he">יִקְ</span> - Qal Imperfect
+        * Fits QI $Pre =$ <span class="he">יִקְ</span> - Qal Imperfect
         * ת = I2xx or I3Fx
     * Sufformative: וּ = I2mp or I3mp
     * $Pre$ + sufformative can only be QI2mp
@@ -344,7 +344,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * Together: QI3fs or QI2ms - context will determine which one
     * Context: <span class="he">לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙</span> = Lit: why she will stop, the work" or "Why should the work stop" = the verb is modifying "the work" which is a feminine noun.
     * QI3fs
-    *$V_S = A$ because this is a stative verb - in the imperfect $V_S = A$ for all stative verbs
+    * $V_S = A$ because this is a stative verb - in the imperfect $V_S = A$ for all stative verbs
 
 
 ## Deviations from the Qal Imperfect Strong Paradigm
@@ -426,7 +426,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * We mention this now in Lesson 15, because the diligent work you do between now, this very moment, and the moment you start Lesson 16 will set you up for maximum success in the remainder of the course
 * Be sure you have mastered the Qal Imperfect paradigm, both in terms of speaking it and writing it
     * We know we've said that speaking and writing are not our focus with this course, but here we are making an exception
-    * Listening and repeating Izzy's audio several, completing the worksheet a few more times, and of course doing all of the Anki work and activities, will serve you very well as we had into lesson 16.
+    * Listening and repeating Izzy's audio several times, completing the worksheet a few more times, and of course doing all of the Anki work and activities, will serve you very well as we had into lesson 16.
 
 >Keep up the fantastic work! You're doing great!
 
