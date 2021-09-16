@@ -1,5 +1,20 @@
 # Qal Participle {.QPt}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 Participles are verbal adjectives.  For Hebrew, this means:
 
@@ -29,6 +44,21 @@ As needed, review [Lesson 7 on Adjectives](#adjectives) prior to beginning Lesso
 
 ##  First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22-10.Psalms 9.11.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ###  <span class="he">וְיִבְטְח֣וּ בְ֭ךָ יוֹדְעֵ֣י שְׁמֶ֑ךָ כִּ֤י לֹֽא־עָזַ֖בְתָּ דֹרְשֶׁ֣יךָ יְהוָֽה׃ </span> {-}
 
 *And those who know Your name will put their trust in You, For You, O LORD, have not forsaken those who seek You. (Psalms 9:11)*
@@ -38,16 +68,6 @@ Our _Hebrew Quest_ study passage for this lesson is Matthew 13 and the parable o
 It's become a cliche for Bible teachers to ask, "which of the four soils are you?"  In truth, for most of us, our lives at some point have reflected each of four soils.  So the better question to ask might be:
 
 > "Today, in the next 1440 minutes, how can I make sure that I am the 'good soil', trusting in Adonai, and producing a yield for the Kingdom?"
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/22-10.Psalms 9.11.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 
@@ -70,6 +90,21 @@ hfu4gjNo2K4?start=3664&end=3737&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## Participles are Verbal Adjectives
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Participles are non-finite because they do not have 1st, 2nd, or 3rd person
 * Since Participles are adjectives, the DO inflect for gender and number
     * They use the same adjectival endings we learned many lessons ago: MS, FS, MP, FP
@@ -89,6 +124,21 @@ Review [Lesson 7](#adjectives) if you need a review on adjectives
 
 ## Qal Active and Passive Participles
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * The Qal (and only the Qal) stem has both active and passive particles
 * Active: 
     * Parsing code QPtms - Qal Participle masculine singular (no need to say "active")
@@ -100,6 +150,20 @@ Review [Lesson 7](#adjectives) if you need a review on adjectives
 ## Qal Participle Spelling
 
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 * Participles use adjective endings and can appear in Absolute or Construct forms
 * Active
     * $V_1 = \bar O$ defective: Holem (more common than plene Holem+Vav)
@@ -117,8 +181,8 @@ Review [Lesson 7](#adjectives) if you need a review on adjectives
     * Since $V_2 = \hat U$ it can't reduce; therefore $V_1$ will reduce before adjective endings
     * No FS "T" form
 
- |Abs | Con
-:- | :- | :-
+| |Abs | Con
+| :- | :- | :-
 QPtMS | <span class="he">קֹטֵל</span> | <span class="he">קֹטֵל</span>
 QPtFS | <span class="he">קֹטֶ֫לֶת</span> or <span class="he">קֹטְלָה</span> | <span class="he">קֹטְלַת</span>
 QPtMP | <span class="he">קֹטְלִים</span> | <span class="he">קֹטְלֵי</span>
@@ -131,6 +195,21 @@ QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּ
 
 ## Prefixes and Suffixes
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Like any adjective, the conjunction, the definite article, the interrogative particle, and prepositions can be added to Participles
     * Infinitive constructs and participles are the only verb conjugations that can take a prefixed preposition
 * Type 1 pronominal suffixes may be added to singular participles
@@ -140,22 +219,51 @@ QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּ
 
 ## Biconsonantal 
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * QPt $V_1 = \bar A$ (Qamets) - always - DOES NOT REDUCE
-    * Irregular: **מוּת*** becomes **מֵת*** in Qpt
+    * Irregular: <span class="he">מוּת</span> becomes <span class="he">מֵת</span> in Qpt
 * QPp $V_1 = \hat U$ or the lexical vowel $\hat I$ (Hireq+Yod)
 * Ambiguities
-    * **קָם*** - QP3ms, QPtMS
-    * **בּוֹא*** - QM2ms, Q∞, QA
-    * **קָמָה*** is QPtFS, but **קָ֫מָה*** (note accent) is QP3fs
+    * <span class="he">קָם</span> - QP3ms, QPtMS
+    * <span class="he">בּוֹא</span> - QM2ms, Q∞, QA
+    * <span class="he">קָמָה</span> is QPtFS, but <span class="he">קָ֫מָה</span> (note accent) is QP3fs
     
 ## 3ה 
 
-* The "consonantal" ה drops in all forms of the Qpt
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+* The "third" ה drops in all forms of the Qpt
   * In the MS, it is replaced by Seghol+Hei - <span class="he">בֹּנֶה</span>
     * Although the final vowel is shared with the Imperfect, the Pt will never have an imperfect preformative
     * Thus, there is little risk of confusing a 3ה Imperfect with a 3ה Participle
   * In the FS, it is replaced by $\hat A$ (Qamets+Hei) - <span class="he">בֹּנָה</span> (the Tsere+Tav form $\nexists$))
-  * There is no vowel letter ה ִin the plural forms
+  * There is no vowel letter ה ִ in the plural forms
 * The Yod reappears as $R_3$ in all forms of the QPp (and the non "T" form of QPtFS)
   * <span class="he">בָּנוּי</span>
 
@@ -180,11 +288,25 @@ MEMORIZE THE 3ה ENDINGS
 
 ## Stem Comparison Table
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 * Now that we have concluded our discussion on the Qal stem, take a moment to review this table.
 * It currently shows the Perfect 3ms, the Imperfect 3ms, and the Participle ms strong verb forms for the Qal stem
   * We will add the additional stems as we work through Unit 4
 * Take note of the $Pre$ patterns in red and the $V_S$ in blue
-    * When you can work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+    * When you are able work your way back to the $Pre$ pattern of the Strong verb, it means you will correctly identify the stem and conjugation most of the time
 * The last column indicates the $V_S$ pattern for perfects on the left, and Imperfects/Imperatives/Infinitives on the right.
 
 
@@ -227,7 +349,7 @@ hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
 
-[All Qal paradigms worksheet](22_qal_paradigms_strong_verbs.pdf){target="_blank"}
+[All Qal paradigms worksheet](./images/22_qal_paradigms_strong_verbs.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}        
 
@@ -253,7 +375,7 @@ Once you have completed all activities through this lesson, complete the form be
 </div>
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Matthew 13 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Matthew 13 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:

@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-09-14"
+#date: "2021-09-15"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-09-14</small>
+<small>*Updated*: 2021-09-15</small>
 
 <small>
 
@@ -14971,7 +14971,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * Remember the Rule of Sheva that prevents two contiguous Vocal Sheva/Hateph Vowels
     * NOT <span class="he">יְקְ</span>, BUT <span class="he">יִקְ</span>
-    * Whenever we see the $Pre \ =$ <span class="he">ְ יִ</span> of the Qal Imperfect, think "Rule of Sheva"<>^[<>Historically the QI $Pre$ did not come the Rule of Sheva, however pretending that it did makes it easy to recognize QI 1G verbs.</>]</>
+    * Whenever we see the $Pre \ =$ <span class="he">ְ יִ</span> of the Qal Imperfect, think "Rule of Sheva"^[Historically the QI $Pre$ did not come the Rule of Sheva, however pretending that it did makes it easy to recognize QI 1G verbs.]
 * The 1G will reject the Vocal Shewa in favor of a Hateph Vowel
 * Then we can think of it as if the Imperfect "originally" wanted $V_P$ and $V_1$ to both be vocal sheva or a hateph vowel if a guttural; however, this is not allowable by the Rule of Sheva
     * What wanted to be <span class="he">יְחֲ</span>, becomes <span class="he">יַחֲ</span> after the Rule of Sheva is applied
@@ -14981,7 +14981,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 To identify QI from a 1G verb, apply the Rule of Sheva
 
 * <span class="he">יַחֲ</span> or <span class="he">יֶחֱ</span> with a guttural consonant would be <span class="he">יִקְ</span> with two non-guttural consonants
-*<span class="he">יֶהֶזְ</span> or <span class="he">יַחַלְ</span> with at least one guttural consonant would be <span class="he">יִקְטְ</span> with three non-guttural consonants
+* <span class="he">יֶהֶזְ</span> or <span class="he">יַחַלְ</span> with at least one guttural consonant would be <span class="he">יִקְטְ</span> with three non-guttural consonants
 :::
 
 
@@ -15014,7 +15014,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * I want אטה you
     * To eat אכל what
     * I bake אפה, or
-    * I _may_ seize אחז you<>^[<>"MAY seize" here is intentional. Sometimes אחז is regular and sometimes it is "angry."</>]</>, and you
+    * I _may_ seize אחז you^["MAY seize" here is intentional. Sometimes אחז is regular and sometimes it is "angry."], and you
     * will perish אבד."
 * $V_P = O$ and the א in $R_1$ is quiescent  (usually $V_S = A$)
     * QI1cs: NOT <span class="he">אֹא</span>, BUT <span class="he">אֹ</span>
@@ -15138,7 +15138,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ::: {.box .info}
 * When $V_P = \hat I$, you can visualize the remnants of the QI Strong $Pre$ as well as the 1st yod
-* When $V_P = \bar E$, you will need to recognize the Imperfect pre/sufformatives and your knowledge of vocabulary<>^[<>Also, you could imagine one of the dots of the Tsere representing the dropped Yod - turn it into a Yod and you have $\hat I$, which is a more normal-looking QI $Pre$.  If you "see" this and it helps, great!  If you don't, forget about it and don't let it confuse you!</>]</>
+* When $V_P = \bar E$, you will need to recognize the Imperfect pre/sufformatives and your knowledge of vocabulary^[Also, you could imagine one of the dots of the Tsere representing the dropped Yod - turn it into a Yod and you have $\hat I$, which is a more normal-looking QI $Pre$.  If you "see" this and it helps, great!  If you don't, forget about it and don't let it confuse you!]
 :::
 
 
@@ -15425,14 +15425,14 @@ Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar wo
 
 <!-- Lesson 16 Tribe Badge 6 = Joseph -->
 
-Once you have completed <span class="he">all activities<span class="he"> through this lesson, you can fill out the form below and receive your next badge!
+Once you have completed **all activities** through this lesson, you can fill out the form below and receive your next badge!
 
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/y2JPkZAxVGEsmACr6" frameborder="0"></iframe>
 </div>
 
-## Honors Track: _Hebrew Quest_ Study Passage : Proverbs #15-17 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -15453,26 +15453,37 @@ YOUR HEBREW QUEST:
 
 # Vav Consecutive {.wc}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> To understand Biblical Hebrew, we must be able to distinguish the Vav Consecutive from the conjunction Vav and translate accurately.
+
 Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: <span class="he">וּכְתַטְתָּם</span>.
 
-The initial ו means "and", so this one word is translated "AND you will write them".  It also has a grammatical purpose of changing the verb's meaning from past tense to future tense.  <span class="he">כָּתַטְתָּ</span> means "you (ms) wrote" (perfect), but putting a ו as prefix changed the meaning to "and you will write" (imperfect).  We'll learn more about these changes in this Lesson.
+The initial ו means "and", so we might want to say that this word simply means "and you wrote them." In Hebrew, the Vav Consecutive also has a grammatical purpose of changing the verb's meaning from Perfect to Imperfect.  This is true even though it is affixed to a Perfect verb, <span class="he">כָּתַטְתָּ</span> means "you (ms) wrote" (perfect), but putting a ו as prefix changes the meaning to "and you will write" (imperfect).  The opposite happens when the Vav Consecutive is affixed to an Imperfect verb: the resulting word is Perfect (past tense). Less frequently, there are times with the Vav is just a Vav and is not acting as a Consecutive.  We'll learn more about these changes in this Lesson.
 
-The terminology on this topic is a bit fluid. The term "Waw Consecutive" is significantly more prevalent than "Vav Consecutive", so we will stick with the seminary style phrasing for this chapter.
+The terminology on this topic is a bit fluid. The term "Waw Consecutive" is significantly more prevalent than "Vav Consecutive" in academic circles, so we will still encounter the "w" references frequently in Hebrew grammar materials.
 
-| Hebrew | Description | Also known as | Shorthand
-| :- | :- | :- | :-
-<span class="he">וְקָטַל</span> | Qal Perfect + ו | Weqatal | QP + ו
-<span class="he">וְיִקְטֹל</span> | Qal Imperfect + ו | Weyiqtol | QI + ו
-<span class="he">וְקָטַל</span> | Qal Perfect Waw Consecutive  | Weqatal | QPwc
-<span class="he">יַיִּקְטֹל</span> | Qal Imperfect Waw Consecutive  | Wayyiqtol | QIwc
 
 ::: {.box .map}
 LESSON ITINERARY
 
 1. Qal Perfect + ו 
 1. Qal Imperfect + ו
-1. Qal Perfect Waw Consecutive
-1. Qal Imperfect Waw Consecutive
+1. Qal Perfect Vav Consecutive
+1. Qal Imperfect Vav Consecutive
 
 :::
 
@@ -15485,24 +15496,29 @@ Before continuing, be sure you have the Perfect and Imperfect strong paradigms m
 
 ## First Thought {-}
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17-13-Numb.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">וַיַּשְׁכִּ֣מוּ בַבֹּ֔קֶר וַיַּֽעֲל֥וּ אֶל־רֹאשׁ־הָהָ֖ר </span> {-}
 
 *In the morning, however, they rose up early and went up to the ridge of the hill country (Numbers 14:40)*
 
-The conjunction ו is a powerful linguistic tool in Scripture.  Later in this lesson, we will study Genesis 1:1-5 from _Hebrew Quest_.  Verse 2 begins with the conjunction prefixed to a noun, while verses 3-5 begin with the "Waw Consecutive", which is to say the letter Vav is prefixed to a verb.
+The conjunction ו is a powerful linguistic tool in Scripture.  Later in this lesson, we will study Genesis 1:1-5 from _Hebrew Quest_.  Verse 2 begins with the conjunction prefixed to a noun, while verses 3-5 begin with the "Vav Consecutive", which is to say the letter Vav is prefixed to a verb.
 
 Like the dawning of a new day, after you complete this lesson, most of the verb forms that appear in the Hebrew Scriptures will be opened to you.  We hope you are as excited about taking this new step into a larger world as we are excited for you!
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/17-13-Numb.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 
 
@@ -15512,6 +15528,7 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
+
 View this 2-minute overview video from _Hebrew Quest_ Lesson 14 on Hebrew Qal Vav Consecutive Verbs.  We will break down the concepts Izzy discusses as we progress through this lesson.  
 
 
@@ -15536,49 +15553,125 @@ oZ1VbPCpMvw?start=1508&end=1811&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 
 
-## Review of the Conjunction Vav
+## Review of the Conjunction Vav from Lesson 5
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 * Usually spelled <span class="he">וְ</span>
-    * Spelled <span class="he">וּ</span> before פ, מ, ב, or Sheva
-    I* Rule of Sheva can create <span class="he">וִי</span>
-or the "Hateph copy-cat",<span class="he">וַעֲ</span>
+* Spelled <span class="he">וּ</span> before פ, מ, ב, or Sheva
+* Because the normal spelling contains a Vocal Sheva, the rule of Sheva can cause changes, most commonly <span class="he">וִי</span> or, with a guttural, <span class="he">וַעֲ</span>
 
-## Perfect + וְ: Spelling
+
+<img src="images/17-vav-rule-of-sheva.png" width="600pt" style="display: block; margin: auto;" />
+
+## Perfect with וְ: Spelling
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Always first letter
-* Accent shift to ultima in 2ms and 1cs
+* Accent shift to ultima in 2ms and 1cs when used as Vav Consecutive
 
-| | QP | + ו 
+| | QP | add ו 
 | :- | :- | :- 
 3ms | <span class="he">קָטַל</span> | <span class="he">וְקָטַל</span>
 1cs | <span class="he">קָטַ֫לְתִּי</span> | <span class="he">וְקָטַלְתִּ֫י</span>
 3cp | <span class="he">קָטְלוּ</span> | <span class="he">וְקָטְ֫לוּ</span>
 
-## Perfect + וְ: Translating
+## Perfect with וְ: Translating
 
-* Parsing code: Pwc (Perfect Waw Consecutive)
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* More Common: used as Perfect Vav Consecutive
+* Parsing code: Pwc (Perfect Waw Consecutive, also called the `Weqatal` from the 3ms form וְקָטַל)
 * Often used for the next event in a future narrative
 * Usually translated as IMPERFECT
     * Future: And I will study
     * Modal: And I would/could/should study
     * Imperfective: And I am/was/will be studying
 * After an imperative, we usually will translate as another imperative:
-    * Go and study!
-* Can be translated as the regular perfect (past tense)
-    * Parsing code, in this case, would be the perfect code "+ ו", as in QP3ms + ו
-    * The accent MAY be a clue
+    * Go _and_ _study_!
+* Less Common (in fact relatively infrequently): translated as the regular perfect (past tense)
+    * The Parsing code, in this case, would be the perfect code "+ ו", as in QP3ms + ו
+    * The accent MAY be a clue for the 2ms and 1cs
         * <span class="he">וְשָׁמַרְתִּ֫י</span> = QPwc1cs - and I will guard
         * <span class="he">וְשָׁמַ֫רְתִּי</span> = QP1cs + ו - and I guarded
     * Context is a better guide
+* For a smoother English translation, the "and" may need to be changed or omitted entirely
+    * Hebrew: And I will study and I will run and I will guard
+    * English: Then I will study, run, and guard
     
 
 ## Imperfect + וְ: Spelling
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Always first letter
 * Usually spelled וְ
-    * On the Perfect, there is no difference between the spelling of the Conjunction and the Waw Consecutive - both are, וְ
+    * On the Perfect, there is no difference between the spelling of the Conjunction and the Vav Consecutive - both are וְ
+        * Vav+Vocal Sheva
+        * Both forms are also called the `Weqatal` from וְקָטַל
     * On the Imperfect, the CONJUNCTION is spelled, וְ
-    * The Imperfect Waw CONSECUTIVE is spelled, וַיִּ
+        * Vav+Vocal Sheva
+        * This is QI+ו
+        * Also called `W_e_yiqtol` from וְיִקְטֹל
+    * The Imperfect Vav CONSECUTIVE is spelled, וַיִּ
+        * Vav + Patach + Dagesh Forte
+        * This is QIwc
+        * Also called `W_a_yiqtol` from וַיִּקְטֹל
 
 | | QI | + ו 
 | :- | :- | :- 
@@ -15588,16 +15681,49 @@ or the "Hateph copy-cat",<span class="he">וַעֲ</span>
 
 ## Imperfect with Vav often indicates purpose
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Instead of "and", translate, "so that...may"
     * "Shall I go call a Hebrew nurse SO THAT she MAY nurse the child for you?" (Ex 2:7)
     * "Let's make a tower...SO THAT we MAY make a name for ourselves." (Gen 11:4)
-* Regular imperfect translations are possible (same as Pwc)
+* Regular imperfect translations are possible 
 
-## Imperfect Waw Consecutive: Spelling (Strong)
+## Imperfect Vav Consecutive: Spelling (Strong)
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Vav + Patach + Dagesh Forte
     * Similar to the independent preposition with the definite article
-* In the 1cs form, the Aleph preformative rejects the Dagesh, resulting in Compensatory Lengthening
+    * In the 1cs form, the Aleph preformative rejects the Dagesh, resulting in Compensatory Lengthening
+* This is also called `Wayiqtol` from וַיִּקְטֹל
 
 | | QI | QIwc
 | :- | :- | :- 
@@ -15606,10 +15732,26 @@ or the "Hateph copy-cat",<span class="he">וַעֲ</span>
 3cp | <span class="he">יִקְטְלוּ</span> | <span class="he">וַיִּקְטְלוּ</span>
 
 
-## Imperfect Waw Consecutive: Spelling (Weak)
+## Imperfect Vav Consecutive: Spelling (Weak)
 
-* 3ה verbs drop the suffix
-* Biconsonantal verbs change
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.9.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* 3ה verbs drop the ending
+* Biconsonantal verbs can change middle vowel
 * Some other verbs change stem vowel to Seghol
 
 |3ms | QI | QIwc
@@ -15618,22 +15760,66 @@ or the "Hateph copy-cat",<span class="he">וַעֲ</span>
 Bicons | <span class="he">יָקוּם</span> | <span class="he">וַיָּקָם</span>
 Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫אמֶר</span>
 
-## Imperfect Waw Consecutive: Translation
+## Imperfect Vav Consecutive: Translation
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.10.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ### Usually, translate Iwc as PAST TENSE {-}
 
 * Often used for the next event in a past-time narrative
-* Uses the opposite form from what we might expect:
+    * AND GOD SAID (QIwc3ms)...AND THERE WAS (QIwc3ms)
+* In a narrative sequence of verbs, the second (and following) verb uses the opposite form from what we might expect:
     * Iwc in a PAST narrative
+        * He did X (the first verb will be P), and then he did Y (the next verb is Iwc), and then he did Z (Iwc)
     * Pwc in a FUTURE narrative
-* He did X (the first verb will be P), and then he did Y (the next verb is Iwc), and then he did Z (Iwc)
-* He will do X (the first verb is I), then he will do Y (the next verb is Pwc)
+        * He will do X (the first verb is I), then he will do Y (the next verb is Pwc)
+* We will explore additional uses in Lesson 23
 
-## Summary
+## Vav Consecutive Summary
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/17.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+The chart below summarizes the four different types of Vav verbal prefixes:
+
+| Hebrew | Description | Also known as | Shorthand | Usually Translate as
+| :- | :- | :- | :- | :-
+<span class="he">וְקָטַל</span> | Qal Perfect + ו | Weqatal | QP + ו | Perfect 
+<span class="he">וְיִקְטֹל</span> | Qal Imperfect + ו | Weyiqtol | QI + ו | Purpose/Intent
+<span class="he">וְקָטַל</span> | Qal Perfect Vav Consecutive  | Weqatal | QPwc | Imperfect
+<span class="he">יַיִּקְטֹל</span> | Qal Imperfect Vav Consecutive  | Wayyiqtol | QIwc | Perfect
+
 
 * Iwc is most common <span class="he">וַיִּקְטֹל</span>
 * Pwc is next <span class="he">וְקָטֹל</span>
 * P+ו and I+ו are relatively uncommon
+* Reading practice is the key to demystifying these verbal Vav forms
 
 ## Word Warm-up {-}
 
@@ -15655,9 +15841,9 @@ Seghol | <span class="he">יֹאמַר</span> | <span class="he">וַיֹּ֫א�
 
 ## Worksheet: Qal Vav-Consecutive Paradigms {-}
 
-Write the paradigm until you can complete it from memory at least once.
+Write the paradigm until you can complete it correctly at least once. Focus on using the rules we have studied rather than forced memorization of the paradigm.
 
-[Qal Vav-consecutive Paradigms](17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
+[Qal Vav-consecutive Paradigms](images/17_qal_waw-consecutive_paradigms.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}   
 
@@ -15686,7 +15872,7 @@ YOUR QUEST
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Genesis 1:1-5 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Genesis 1:1-5 {-}
 
 With this lesson, we move away from the selected verses in Proverbs to lengthier study passages.
 
@@ -15695,7 +15881,7 @@ YOUR HEBREW QUEST:
 
 1. Read the passage - [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}, or you may use your copy from Lesson 6
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
+3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
     * Though we would encourage viewing the entire segment, since you already reviewed Genesis 1:1 back in Lesson 6, you can start with Genesis 1:2 at the 46:50 mark
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?
@@ -15718,6 +15904,23 @@ MEMRISE
 <!--chapter:end:17-Vav_Consecutive.Rmd-->
 
 # Qal Imperative {.QM}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> To understand Biblical Hebrew, we must have an understanding of volitional verbs.
 
 Lesson 18 marks the start of the second semester of a traditional first-year Hebrew Course.  In other words, congratulations! You are halfway through the course!
 
@@ -15748,26 +15951,32 @@ Before continuing, can you describe the following concepts?
 
 ## First Thought {-}
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18-08-Deut.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">וְעַתָּ֣ה יִשְׂרָאֵ֗ל שְׁמַ֤ע אֶל־הַֽחֻקִּים֙ וְאֶל־הַמִּשְׁפָּטִ֔ים אֲשֶׁ֧ר אָֽנֹכִ֛י מְלַמֵּ֥ד אֶתְכֶ֖ם לַעֲשׂ֑וֹת</span> {-}
 
 *Now, O Israel, listen to the statutes and the judgments which I am teaching you to perform (Deuteronomy 4:1)*
 
 The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 6. Yeshua quoted it as the "greatest commandment."  The Shema reminds us that we study Hebrew to draw closer to Him and love Him with all that we are.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/18-08-Deut.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-95)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15783,7 +15992,24 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3425){target="_blank"}
 
+
 ## Volitional Forms Introduction
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Volitional conjugations express someone's will (their volition)
     * Command or permission
@@ -15795,12 +16021,28 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
     * 2nd person
 * The Jussive (J) is the 3rd person volitional form
     * "May he study" or "she should study"
-    * 2nd person jussives exist
+    * 2nd person jussives exist ("you should study")
 * The Cohortative (C) is the 1st person volitional form
     * "Let us study"
     * "I shall run!"
     
 ## Negative Commands use the Jussive or the Imperfect
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Negative commands never use the imperative
 * לֹא + imperfect
@@ -15815,7 +16057,28 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## The Imperative is the Imperfect without the Imperfect Preformative
 
-* Apply Rule of Sheva to 2fs and 2mp
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Izzy talked about this in the _Hebrew Quest_ Qal Imperative video
+* In 2fs and 2mp, removing the preformative now results in a Vocal Sheva as $V_1$
+    * Any Sheva that begins a word must be vocal
+    * The second of two Sheva is also vocal unless it ends a word
+    * The Rule of Sheva says two reduced vowels cannot stand
+    * Therefore, we need to apply the Rule of Sheva to M2fs and M2mp forms
 
 |  | QI | QM | 
 | :-  | :- | :-  
@@ -15825,8 +16088,25 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 | 2fp | <span class="he">תִּקְטֹ֫לְנָה</span>  | <span class="he">קְטֹ֫לְנָה</span>
 
 * Rule of Sheva - 2mp is NOT <span class="he">קְטְלוּ</span>, BUT <span class="he">קִטְלוּ</span>
+    * Adjust the vowels accordingly for a guttural
 
 ## Identifying QM
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 1. Lacks I preformative
 2. Retains I sufformative (or no sufformative)
@@ -15836,18 +16116,54 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## <span class="he">נָה</span> can follow volitional verbs
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * <span class="he">נָה</span> may be independent or joined by maqqef
 * Scholars debate what this means or whether it means anything
-* "Please" or "now" have been suggested
-* May leave it untranslated depending on the context
+    * "Please" or "now" have been suggested ("prithee" in KJV)
+    * <span class="he">וַיֹּ֡אמֶר קַח־נָ֠א אֶת־בִּנְךָ֨ אֶת־יְחִֽידְךָ֤ אֲשֶׁר־אָהַ֙בְתָּ֙ אֶת־יִצְחָ֔ק</span> (Genesis 22:2)
+        * Remember from Lesson 16, the verb לקח thinks it’s 1נ, therefore the initial ל frequently assimilates just as a נ would.
+* We may elect to leave <span class="he">נָה</span> untranslated depending on the context
 
 ::: {.box .info}
 <span class="he">נָה</span> only follows volitional verbs. This helps with parsing.
 :::
 
-## Distinguishing QM2ms, QI3ms, and QP3ms
+## Distinguishing QM2ms, QI2ms, and QP3ms
 
-|  | QI3ms | QM2ms | QP3ms
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* $V_1$ IS or WAS reduced in QM
+
+|  | QI2ms | QM2ms | QP3ms
 | :-  | :- | :-  | :-
 | Spell | <span class="he">תִּקְטֹל</span>  | <span class="he">קְטֹל</span>  | <span class="he">קָטַל</span>
 | $V_1$ |  $:$  |$ə$  | $\bar A$
@@ -15855,15 +16171,49 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## Paragogic ה 
 
-* Paragogic ה is an extra ה appended to  M2ms<small>^[<small>Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."</small>]</small>
-* It occurs 311 times on M2ps forms
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Paragogic ה is an extra ה appended to  M2ms^[Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."]
+* It occurs 311 times on M2ms forms
     * <span class="he">קְטֹל</span> - regular QM2ms
     * <span class="he">קָטְלָה</span> (Qamets Hatuf) - QM2ms with paragogic ה OR pronominal suffix (Lesson 19) 
         * Note how $V_S = O$ (Qamets Hatuf)
-* We will NEVER see the directional ה on verbs, so we can rule that out
 * We will need to determine from the context whether the Qamets+Hei is paragogic or a pronominal suffix
+* We will NEVER see the directional ה on verbs, so we can rule that out
+
 
 ## 3ה Verbs
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.9.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 3rd ה verbs undergo the usual changes we have been studying. Now, we are adding a new (vowel) + ה ending for the Imperative:
 
@@ -15875,8 +16225,27 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 * If sufformative starts with a consonant, add (vowel)+Yod
     * Perfect - <span class="he">י ִ </span> (Hireq+Yod)
     * Imperfect/Imperative - <span class="he">י ֶ </span> (Seghol+Yod)
+        * Telling the imperfect from the imperative will not be a challenge
+        * Imperative will not have a preformative
+        * In the Imperative, $V_1$ is or was reduced
 
 ## 3ה Comparison Table
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.10.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 We can now add the Imperative to our table of 3ה verbs with no sufformative.
 
@@ -15898,6 +16267,22 @@ We can now add the Imperative to our table of 3ה verbs with no sufformative.
 
 ## 1נ and 1י
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * 1י drops in the QM
 * 1נ _sometimes_ drops in the QM
     * For example, נסע, נתן do; נפל does not
@@ -15915,8 +16300,30 @@ Carefully study the verbs in the table below
 | <span class="he">נתן</span> | <span class="he">תִּתֵּן</span>  | <span class="he">תֵּן</span>  | <span class="he">תְּנוּ</span>
 | <span class="he">נפה</span> | <span class="he">תִּפֹּל</span>  | <span class="he">נְפֹל</span> | <span class="he">נִפְלוּ</span>
 
+{.box .caution}
+* When $R_1$ assimilates, we will have only two letters visible in the M2ms (one syllable)
+* Hebrew will never have a reduced vowel in a one syllable word, so the guideline "$V_1$ is or was reduced" does not apply
+* The vowel you see is actually $V_S$ carried over from the Imperative form
+:::
+
 
 ## Biconsonantal and Geminate
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.12.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * These verbs pose little problems
 * The imperfect preformative is dropped
@@ -15931,6 +16338,21 @@ Carefully study the verbs in the table below
 | <span class="he">תמם</span> | <span class="he">תֵּתַם</span> | <span class="he">תַּם</span>
 
 ## Masculine Third Person QP and 2nd Person QM are potential look-alikes
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.13.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * QP3ms doesn't drop $R_1$ 
 * QP3ms has $V_1 = \bar A$ consistently
@@ -15955,6 +16377,22 @@ Carefully study the verbs in the table below
 
 ## Cohortative and Jussive Introduction
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.14.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * These are more nuanced conjugations
 * Cohortative (parsing code C)
     * 1st person volitional
@@ -15976,13 +16414,34 @@ IDENTIFYING THE COHORTATIVE/JUSSIVE
 If an Imperfect verb (without a Vav prefix) is the FIRST WORD in a clause, then see if a volitional translation fits better than an unnuanced Imperfect translation
 :::
 
-## Some weak verbs often shorten the Jussive singular
+## Some weak verbs shorten in the Jussive singular
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/18.15.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>  
+:::
+
+* 3ה verbs often drop the ending
+* Biconsonantal vowels shorten
+* Not a hard and fast rule
+    * Sometimes jussive that could shorten do not
+    * Somtimes non-jussive Imperfect shorten
 
 | Type | QI3ms | QJ3ms | Translation
 | :- | :- | :- | :-
 | 3ה | <span class="he">יִבְנֶה</span> | <span class="he">יִבֶן</span> | Let him build
-| Bicons. | <span class="he">יָשִֹים</span> | <span class="he">יָשֵֹׁם</span> | Let him put
+| Bicons. | <span class="he">יָשִֹים</span> | <span class="he">יָשֵּם</span> | Let him put
 | Bicons. | <span class="he">יָשׁוּב</span> | <span class="he">יָשֹׁב</span> | Let him return
 
 ## Word Warm-up {-}
@@ -16006,10 +16465,10 @@ If an Imperfect verb (without a Vav prefix) is the FIRST WORD in a clause, then 
 
 ## Worksheet: Qal Volitional Forms {-}
 
-Write the Qal Volitional paradigm until you can complete it from memory at least once.  Focus on using the rules we have studied rather than forced memorization of the paradigm.
+Write the Qal Volitional paradigm until you can complete it correctly at least once.  Focus on using the rules we have studied rather than forced memorization of the paradigm.
 
 
-[Qal Volitional Forms](18_qal_volitive_paradigm.pdf){target="_blank"}
+[Qal Volitional Forms](./images/18_qal_volitive_paradigm.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}   
 
@@ -16024,7 +16483,7 @@ YOUR QUEST
 * [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
 * [Ruth Pursuit Answer Key #18](./images/18_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## OPTIONAL _Hebrew Quest_ Study Passage: The Shema {-}
+## Honors Track: _Hebrew Quest_ Study Passage: The Shema {-}
 
 
 ::: {.box .map}
@@ -16032,7 +16491,7 @@ YOUR HEBREW QUEST:
 
 1. Read  the passage - [Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
+3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?
 
@@ -16042,14 +16501,32 @@ YOUR HEBREW QUEST:
 
 # Pronominal Suffixes on Verbs {.VerbSuffix}
 
-Instead of learning something new, Lesson 19 will be one where we take a concept you already know and apply it to a new scenario.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
-The verbal pronominal suffixes are the same suffixes we learned from Lesson 9.  In fact, Verbs ONLY use the "Type 1" suffixes.  
+>Hebrew verbs frequently contain pronominimal suffixes. To understand Biblical Hebrew, we must have an understanding of how suffixes are used with verbs.
+
+Instead of learning something entirely new, Lesson 19 will be one where we take a concept you already know and apply it to a new scenario.
+
+The verbal pronominal suffixes are the same suffixes we learned from Lesson 9.  In fact, verbs ONLY use the "Type 1" suffixes.  
 
 The more challenging aspects can include significant spelling and accent changes.  This can result in words that are identically spelled but have different meanings.  
 
-One of the first vocabulary words in _Hebrew Quest_ was <span class="he">וּכְתַטְתָּם</span>.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you shall write them).  It also has a 3mp pronominal suffix (and you will write THEM).
+One of the first vocabulary words in _Hebrew Quest_ was <span class="he">וּכְתַטְתָּם</span>.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
 
+In Lesson 19, we will explore these pronominal suffixes from Lesson 9 and apply them to verbs.
 
 
 ::: {.box .map}
@@ -16068,6 +16545,21 @@ Before continuing, be sure you understand Type 1 pronominal suffixes from Lesson
 
 ##  First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19-14.Psalms 17.6.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">אֲנִֽי־קְרָאתִ֣יךָ כִֽי־תַעֲנֵ֣נִי אֵ֑ל הַֽט־אָזְנְךָ֥ לִ֝֗י שְׁמַ֣ע אִמְרָתִֽי׃</span> {-}
 
 *I have called upon You, for You will answer me, O God; Incline Your ear to me, hear my speech. (Psalms 17:6)*
@@ -16084,22 +16576,14 @@ Be honest.
 Meditate on that as you work through this lesson, and as you study the "Avinu" in this lesson's _Hebrew Quest_ Study Passage.
 
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/19-14.Psalms 17.6.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 
 
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16118,14 +16602,45 @@ Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the co
 
 ## Hebrew Direct Object Pronouns
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * We learned in Lesson 9 that Hebrew has a Definite Direct Object marker <span class="he">אֵת</span> that takes pronominal suffixes
     *  For example, <span class="he">אֹתִי</span>, is "me" and <span class="he">אֹתְךָ</span> is "you (ms)"
 * Hebrew also attaches pronominal suffixes to verbs
-* We already learned that the PGN of the verb indicates the subject: <span class="he">אָכַל </span> = HE ate
-* A pronominal suffix provides the OBJECT of the verb:  <span class="he">אֲכָלוֹ</span> = He ate IT
+* We already learned that the PGN of the verb indicates the subject: <span class="he">אָכַל </span> = HE ate (QP3ms)
+* A pronominal suffix provides the OBJECT of the verb:  <span class="he">אֲכָלוֹ</span> = He ate IT (QP3ms + 3ms)
 
 
 ## Verbs use Type 1 Suffixes
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * This is good news as you will be able to recognize the suffix immediately (provided you remember them from Lesson 9!).
 * The 1cp pronominal suffix is <span class="he">נוּ</span>, which, unfortunately, is the same as the P1cp sufformative
@@ -16136,14 +16651,32 @@ Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the co
 
 ## Qal Perfect Vowel and Accent Changes When a Pronominal Suffix is added
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Accent shifts to sufformative
 * $V_1$ reduces
 * $V_S$ is LONG in the 3rd person (usually reduces in 3cp)
 * 2fs and 1cs are identical
-* (QP2fp - $\nexists$<small>^[<small>This is the mathematical symbol for "does not exist"; in our context, it means there are no examples of the QP2fp with a pronominal suffix in Scripture.</small>]</small>)
+* (QP2fp - $\nexists$^[This is the mathematical symbol for "does not exist"; in our context, it means there are no examples of the QP2fp with a pronominal suffix in Scripture.])
+* Review these changes in the comparison table below
+    * Note that the right column displays the form of the verb WITHOUT a suffix - these forms are incomplete without a suffix and are not words by themselves
 
 
-|  | QP | QP + Pron.
+|  | QP | QP + Pron.*
 | :- | :- | :-
 | 3ms | <span class="he">קָטַל</span> | <span class="he">קְטָל</span>
 | 3fs | <span class="he">קָטְלָה</span> | <span class="he">קְטָלַ֫ת</span>
@@ -16156,9 +16689,25 @@ Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the co
 
 ## QI Vowel Changes 
 
-* Imperfect $V_S$ reduces before a pronominal suffix, unless:
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Imperfect $V_S$ reduces before a pronominal suffix, EXCEPT:
     * IF the original $V_S = A$, THEN instead of reducing, $A$ _lengthens_ to $\bar A$
-* QI3fp/QM2fp - $\nexists$
+* QI3fp/QI2fp - $\nexists$
+
 
 |  | QI | QI + Pron.
 | :- | :- | :-
@@ -16171,7 +16720,29 @@ Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the co
 | 2mp | <span class="he">תִּקְטְלוּ</span> | <span class="he">תִּקְטְלוּ</span>
 | 1cp | <span class="he">נִקְטֹל</span> | <span class="he">נִקְטְל</span>
 
+::: {.box .caution}
+* Uncommonly, you may see a Daghesh Forte or a נ added to the 3ms suffix in the Imperfect as well as the Imperative
+* The spelling could make it a challenge to distinguish between 3ms and 1cp suffixes 
+* The context should make it obvious
+:::
+
 ## QM Vowel Changes
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * QM2ms is Qamets Hatuf + Silent Sheva
 * QM2fs/QM2fp - $\nexists$
@@ -16179,23 +16750,22 @@ Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the co
 |  | QM | QM + Pron.
 | :- | :- | :-
 | 2ms | <span class="he">קְטֹל</span> | <span class="he">קָטְל</span>
-| 2mp | <span class="he">קִטְוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
+| 2mp | <span class="he">קִטְלוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
 
-
-## Imperative/Perfect Ambiguity when normal Imperative $V_S = A$
+::: {.box .caution}
+Imperative/Perfect Ambiguity when normal Imperative $V_S = A$
 
 * As with the Imperfect, if the original Imperative $V_S = A$, THEN instead of reducing, $A$ _lengthens_ to $\bar A$
 * In the imperative, this occurs with Stative, 2G, and 3G verbs
-* The result is ambiguity between the Perfect and the Imperative, as reflected in the table below
+* The result is ambiguity between the Perfect and the Imperative
     * QM2ms+suffix looks like QP3ms+suffix
     * QM2mp+suffix looks like QP3cp+suffix
-    * The context will determine whether the verb is directed TO someone (2nd person) or is ABOUT someone (3rd)
+* The context will determine whether the verb is directed TO someone (2nd person) or is ABOUT someone (3rd)
+* These are given the name "nun type suffixes"
 
-| QP/Suf | QM/Suf $V_S = A$ | QM/Suf $V_S =O$
-| :- | :- | :-
-| <span class="he">קְטָל</span> | <span class="he">קְטָל</span> | <span class="he">קָטְל</span>
-| <span class="he">יְטָלוּ</span> | <span class="he">יְטָלוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
+As always, we encourage you not to be overly concerned with these infrequent exceptions.  They are just some additional things to be aware of if, as you're reading, things aren't making sense.
 
+:::
 
 ## Word Warm-up {-}
 
@@ -16232,14 +16802,14 @@ Once you have completed <span class="he">all activities<span class="he"> through
 <iframe class="responsive-iframe" src="https://forms.gle/4Q8STELkBPRy6mEw8" frameborder="0"></iframe>
 </div>
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Matthew 6 {-}
+## Honors Track: _Hebrew Quest_ Study Passage:  Matthew 6 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
 1. Read through the passage - [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/edit?usp=sharing){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
+3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?
 
@@ -16249,9 +16819,24 @@ YOUR HEBREW QUEST:
 
 # Qal Infinitive Construct {.Qinfinitive}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 Infinitive constructs are verbal nouns.
 
-There is a unique aspect that makes identifying and parsing the ∞<small>^[<small>If you ever have a need to generate the infinity symbol on a desktop computer, ∞, make sure the `Num Lock` is on (and use the numbers on the keypad layout, not the ones on the top row), hold down the `Alt` key and type `236`, then let go of the `Alt` key. On a phone, you can often type `infinity` and the ∞ symbol will appear.</small>]</small> super easy (but you'll have to read on!)
+There is a unique aspect that makes identifying and parsing the ∞^[If you ever have a need to generate the infinity symbol on a desktop computer, ∞, make sure the `Num Lock` is on (and use the numbers on the keypad layout, not the ones on the top row), hold down the `Alt` key and type `236`, then let go of the `Alt` key. On a phone, you can often type `infinity` and the ∞ symbol will appear.] super easy (but you'll have to read on!)
 
 
 ::: {.box .map}
@@ -16265,6 +16850,21 @@ __LESSON ITINERARY__
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20-6.Deut 8.6.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ###  <span class="he">וְשָׁ֣מַרְתָּ֔ אֶת־מִצְוֺ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ לָלֶ֥כֶת בִּדְרָכָ֖יו וּלְיִרְאָ֥ה אֹתֽוֹ׃</span> {-}
 
 *Therefore, you shall keep the commandments of Adonai your God, to walk in His ways and to fear Him. (Deuteronomy 8:6)*
@@ -16275,20 +16875,11 @@ In our _Hebrew Quest_ Study Passage for this lesson, we will read the story of w
 
 Ponder these things as you work through this Lesson and the study passage.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/20-6.Deut 8.6.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -16305,6 +16896,22 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## Two types of Infinitives
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Infinitive Construct - Parsing Code: ∞
 * Infinitive Absolute (Lesson 21) - Parsing Code: A
 * The Infinitives do NOT inflect for person, number, or gender
@@ -16318,7 +16925,23 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## Q∞ Spelling
 
-* For most verbs: <span class="he">קְתֹל</span>
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* For most verbs: <span class="he">קְטֹל</span>
     * 1G reduces as expected: <span class="he">אֱמֹר</span>
     * 3ח/ע can take a furtive patach, which is ignored when parsing: <span class="he">שְׁלֹחַ</span>
 
@@ -16327,6 +16950,21 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 :::
 
 ## 3ה Endings
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * As expected, when a 3ה verb has no sufformative, a vowel is added
 * For the ∞, this ending is <span class="he">וֹת</span>
@@ -16355,6 +16993,21 @@ LOOK-ALIKE WORDS
 
 ## 1י and 1נ Spelling
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Usually, but not always, drop the 1-yod/nun
 * When dropped, add a final <span class="he">ת</span>, and change the vowels so that it looks like a Segholate noun
 
@@ -16363,7 +17016,7 @@ LOOK-ALIKE WORDS
 | Root | Keep | Drop
 | :- | :- | :-
 | <span class="he">נסע</span> | <span class="he">נְסֹעַ</span> | <span class="he">סַ֫עַת</span>
-| <span class="he">נגע</span> | <span class="he">נְגֹת</span> | <span class="he">גַּ֫עַת</span>
+| <span class="he">נגע</span> | <span class="he">נְגֹע</span> | <span class="he">גַּ֫עַת</span>
 | <span class="he">נתן</span> | <span class="he">נְתֹן</span> | <span class="he">תֵּת</span>
 | <span class="he">הלך</span> | $\nexists$ | <span class="he">לֶ֫כֶת</span>
 
@@ -16374,6 +17027,21 @@ Memorize <span class="he">תֵּת</span> as Q∞ of נתן
 :::
 
 ## Biconsonantal
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * An easy one, as long as you've memorized your vocab!
 * The Q∞ of biconsonantal verbs is simply the lexical form
@@ -16386,11 +17054,41 @@ Memorize <span class="he">תֵּת</span> as Q∞ of נתן
 
 ## Q∞ often is identical to QM2ms
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * As one is finite and the other is non-finite, the context should be obvious as to whether one person is giving a command to another person
 * Some verbs that lose the Imperfect $V_S = O$ in the QM, RETAIN $V_S = O$ in the Q∞
 * 3ה verbs have different word-final ה vowels as mentioned previously
 
 ## ∞ take Type 1 Pronominal Suffixes
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Q∞ and QM2ms with pronominal suffix are usually the same
 * Both shift vowels with $V_1 \ =$ Qamets Hatuf when there is a pronominal suffix
@@ -16415,6 +17113,21 @@ When affixed to an ∞ verb, the suffix can be the SUBJECT as well as the object
 
 ## Most ∞ have a prefixed preposition
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.9.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * There are 6595 ∞ in the Bible
     * Only 896 do not have a prefixed preposition
     * 68% have <span class="he">ל</span>
@@ -16425,6 +17138,21 @@ Since only ∞ and Participle can have a prefixed preposition, identifying and p
 
 
 ## Meaning of ∞
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.10.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Often used as a verbal noun - "to hear" or "hearing"
     * In English, "to hear", "to speak", or "to be" are examples of "infinitive" verbs.
@@ -16440,6 +17168,21 @@ Since only ∞ and Participle can have a prefixed preposition, identifying and p
     * Future time: WHEN YOU CROSS = <span class="he">וְהָיָה בְּעָבְרְכֶם</span>
 
 ## Negating the Infinitive
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * The negative particles <span class="he">אַל </span> and <span class="he">לֹא </span> are not used to negate the ∞
 * <span class="he">בִּלְתִּי </span> and <span class="he">לְבִלְתִּי</span> are used
@@ -16482,14 +17225,14 @@ YOUR QUEST
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Genesis 22:1-19 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Genesis 22:1-19 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
 1. Read through the passage - [Blank copy of Genesis 22:1-19](https://docs.google.com/document/d/1zpIOg9zyDv_qPK9f69QexbIlBhH6wKO74YkPz3xpurI/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}), and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-22.php){target="_blank"}
+3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-22.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?
 
@@ -16498,6 +17241,21 @@ YOUR HEBREW QUEST:
 <!--chapter:end:20-Qal_Infinitive_Construct.Rmd-->
 
 # Qal Infinitive Absolute {.QA}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/21.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 
 The Qal Infinitive Absolute (abbreviated QA) is relatively infrequent, occurring 872 times.  It has a unique function, with no direct equivalent in English.  It generally adds emphasis to, or sometimes replaces another Hebrew verb entirely.  We will study a few of these different uses in this lesson.  We will also look at the functions of two articles,  יֵשׁ and אֵין.
@@ -16519,6 +17277,21 @@ Before continuing, be sure you understand the spelling and meaning of Qal Infini
 :::
 
 ## First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/21-5.Gen 46.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ### <span class="he">אָנֹכִ֗י אֵרֵ֤ד עִמְּךָ֙ מִצְרַ֔יְמָה וְאָנֹכִ֖י אַֽעַלְךָ֣ גַם־עָלֹ֑ה</span> {-}
 
@@ -16546,7 +17319,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
@@ -16563,6 +17336,21 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 
 ## QA Spelling
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/21.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * The QA has a distinctive $V_2 = \hat O$ (Holem+Vav)
     * <span class="he">קָטוֹל</span> or <span class="he">קָטֹל</span> (defective spelling)
@@ -16584,6 +17372,21 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## 3ה Comparison Table
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/21.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 | Conj | Hebrew | Vowel
 | :- | :- | :-
 | P | <span class="he">בָּנָה</span> | Qamets+Hei
@@ -16593,6 +17396,21 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 | A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
 
 ## Meaning of Infinitive Absolute
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/21.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Frequently, the absolute serves to emphasize a finite verb from the same root
 * The Infinitive Absolute form may appear before or after the finite verb
@@ -16614,6 +17432,21 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 ## Comparison of Infinitive Construct and Infinitive Absolute
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/21.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 | | ∞ | A
 | :- | :- | :-
 PGN | No PGN | No PGN
@@ -16628,6 +17461,21 @@ Meaning | purpose/result | emphasize certainty
 English equivalent | Verbal noun "to do" or "doing" | No direct equivalent
 
 ## יֵשׁ and אֵין 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/21.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * These are particles that assert the existence or non-existence of something or someone
 * Mnemonics: 
@@ -16681,14 +17529,14 @@ YOUR QUEST:
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Aaronic/Priestly Blessing {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Aaronic/Priestly Blessing {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
 1. Read through the passage - [Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
+3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?
 
@@ -16697,6 +17545,21 @@ YOUR HEBREW QUEST:
 <!--chapter:end:21-Qal_Infinitive_Absolute.Rmd-->
 
 # Qal Participle {.QPt}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 
 Participles are verbal adjectives.  For Hebrew, this means:
@@ -16727,6 +17590,21 @@ As needed, review [Lesson 7 on Adjectives](#adjectives) prior to beginning Lesso
 
 ##  First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22-10.Psalms 9.11.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ###  <span class="he">וְיִבְטְח֣וּ בְ֭ךָ יוֹדְעֵ֣י שְׁמֶ֑ךָ כִּ֤י לֹֽא־עָזַ֖בְתָּ דֹרְשֶׁ֣יךָ יְהוָֽה׃ </span> {-}
 
 *And those who know Your name will put their trust in You, For You, O LORD, have not forsaken those who seek You. (Psalms 9:11)*
@@ -16737,22 +17615,12 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 > "Today, in the next 1440 minutes, how can I make sure that I am the 'good soil', trusting in Adonai, and producing a yield for the Kingdom?"
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/22-10.Psalms 9.11.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -16767,6 +17635,21 @@ hfu4gjNo2K4?start=3664&end=3737&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3664){target="_blank"}
 
 ## Participles are Verbal Adjectives
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Participles are non-finite because they do not have 1st, 2nd, or 3rd person
 * Since Participles are adjectives, the DO inflect for gender and number
@@ -16787,6 +17670,21 @@ Review [Lesson 7](#adjectives) if you need a review on adjectives
 
 ## Qal Active and Passive Participles
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * The Qal (and only the Qal) stem has both active and passive particles
 * Active: 
     * Parsing code QPtms - Qal Participle masculine singular (no need to say "active")
@@ -16798,6 +17696,20 @@ Review [Lesson 7](#adjectives) if you need a review on adjectives
 ## Qal Participle Spelling
 
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 * Participles use adjective endings and can appear in Absolute or Construct forms
 * Active
     * $V_1 = \bar O$ defective: Holem (more common than plene Holem+Vav)
@@ -16815,8 +17727,8 @@ Review [Lesson 7](#adjectives) if you need a review on adjectives
     * Since $V_2 = \hat U$ it can't reduce; therefore $V_1$ will reduce before adjective endings
     * No FS "T" form
 
- |Abs | Con
-:- | :- | :-
+| |Abs | Con
+| :- | :- | :-
 QPtMS | <span class="he">קֹטֵל</span> | <span class="he">קֹטֵל</span>
 QPtFS | <span class="he">קֹטֶ֫לֶת</span> or <span class="he">קֹטְלָה</span> | <span class="he">קֹטְלַת</span>
 QPtMP | <span class="he">קֹטְלִים</span> | <span class="he">קֹטְלֵי</span>
@@ -16829,6 +17741,21 @@ QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּ
 
 ## Prefixes and Suffixes
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Like any adjective, the conjunction, the definite article, the interrogative particle, and prepositions can be added to Participles
     * Infinitive constructs and participles are the only verb conjugations that can take a prefixed preposition
 * Type 1 pronominal suffixes may be added to singular participles
@@ -16838,22 +17765,51 @@ QPpFP | <span class="he">קְטוּלוֹת</span> | <span class="he">קְטוּ
 
 ## Biconsonantal 
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * QPt $V_1 = \bar A$ (Qamets) - always - DOES NOT REDUCE
-    * Irregular: **מוּת*** becomes **מֵת*** in Qpt
+    * Irregular: <span class="he">מוּת</span> becomes <span class="he">מֵת</span> in Qpt
 * QPp $V_1 = \hat U$ or the lexical vowel $\hat I$ (Hireq+Yod)
 * Ambiguities
-    * **קָם*** - QP3ms, QPtMS
-    * **בּוֹא*** - QM2ms, Q∞, QA
-    * **קָמָה*** is QPtFS, but **קָ֫מָה*** (note accent) is QP3fs
+    * <span class="he">קָם</span> - QP3ms, QPtMS
+    * <span class="he">בּוֹא</span> - QM2ms, Q∞, QA
+    * <span class="he">קָמָה</span> is QPtFS, but <span class="he">קָ֫מָה</span> (note accent) is QP3fs
     
 ## 3ה 
 
-* The "consonantal" ה drops in all forms of the Qpt
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+* The "third" ה drops in all forms of the Qpt
   * In the MS, it is replaced by Seghol+Hei - <span class="he">בֹּנֶה</span>
     * Although the final vowel is shared with the Imperfect, the Pt will never have an imperfect preformative
     * Thus, there is little risk of confusing a 3ה Imperfect with a 3ה Participle
   * In the FS, it is replaced by $\hat A$ (Qamets+Hei) - <span class="he">בֹּנָה</span> (the Tsere+Tav form $\nexists$))
-  * There is no vowel letter ה ִin the plural forms
+  * There is no vowel letter ה ִ in the plural forms
 * The Yod reappears as $R_3$ in all forms of the QPp (and the non "T" form of QPtFS)
   * <span class="he">בָּנוּי</span>
 
@@ -16878,11 +17834,25 @@ MEMORIZE THE 3ה ENDINGS
 
 ## Stem Comparison Table
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 * Now that we have concluded our discussion on the Qal stem, take a moment to review this table.
 * It currently shows the Perfect 3ms, the Imperfect 3ms, and the Participle ms strong verb forms for the Qal stem
   * We will add the additional stems as we work through Unit 4
 * Take note of the $Pre$ patterns in red and the $V_S$ in blue
-    * When you can work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+    * When you are able work your way back to the $Pre$ pattern of the Strong verb, it means you will correctly identify the stem and conjugation most of the time
 * The last column indicates the $V_S$ pattern for perfects on the left, and Imperfects/Imperatives/Infinitives on the right.
 
 
@@ -16922,7 +17892,7 @@ hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
 
-[All Qal paradigms worksheet](22_qal_paradigms_strong_verbs.pdf){target="_blank"}
+[All Qal paradigms worksheet](./images/22_qal_paradigms_strong_verbs.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}        
 
@@ -16948,7 +17918,7 @@ Once you have completed all activities through this lesson, complete the form be
 </div>
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Matthew 13 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Matthew 13 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -16967,8 +17937,27 @@ YOUR HEBREW QUEST:
 
 # Hebrew Syntax {.Syntax}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
-With this lesson, you will begin to put all that information you learned over the past 22 lessons to work in better understanding how the Bible communicates to us.  With this knowledge, we can begin to think critically in our evaluation of differences in translation and the validity of arguments we read in commentaries.  We will cover a lot of Scripture in this lesson.  For this reason, this lesson, including the Anki exercises, will be a bit longer than usual as you store 29 of these verses in your heart.  
+
+With this lesson, you will begin to put all that information you learned over the past 22 lessons to work in better understanding how the Bible communicates to us.  With this knowledge, we can begin to think critically in our evaluation of differences in translation and the validity of arguments we read in commentaries.  We will cover a lot of Scripture in this lesson.  For this reason, this lesson, including the Anki exercises, will be a bit longer than usual as you store these verses in your heart.  
+
+It was a great move for the authors of _Basics of Biblical Hebrew_ to include this lesson.  Often, Hebrew syntax and meaning is reserved for second year/intermediate Hebrew.  This lesson won't cover all we'll ever need to know but it will get us well on our way to a deeper understanding of Scripture and a deeper relationship with Yeshua.
+
+We're excited for you to begin this lesson.  Let's get to it!
 
 ::: {.box .map}
 __LESSON ITINERARY__
@@ -16987,6 +17976,21 @@ Before continuing, make sure you have an understanding of the Qal conjugations. 
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.07Ex1811.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">עַתָּה יָדַעְתִּי כִּי־גָדוֹל יְהוָה מִכָּל־הָאֱלֹהִים</span> {-}
 
 *Now I know that the LORD is greater than all the Gods (Exodus 18:11)*
@@ -16996,27 +18000,33 @@ Back in Unit 2, we touched on how מִן is quite flexible when it comes to mean
 This lesson will provide some overarching tips on interpretation and translation based on what we have studied so far.
 
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 *****
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-100)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-101)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 ## Clause versus Sentence
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * A clause has a subject and a predicate.
     * The simplest clause in Scripture is "Yeshua (subject) wept (predicate)"
@@ -17031,20 +18041,34 @@ This lesson will provide some overarching tips on interpretation and translation
 
 ## Word Order
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 Normal Hebrew word order is Verb - Subject - Object.  We can abbreviate this V-S-O (of course, in Hebrew, this goes from right-to-left).
 
 * <span class="he">וַיִּזְכֹּר אֱלֹהִים אֶת־נֹחַ </span>  
-    * _And God Remembered Noah (Gen 8:1)_
+    * <figure><figcaption>_And God Remembered Noah (Gen 8:1)_</figcaption> <audio controls controlsList="nodownload" src="./images/23gen0801.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
 * <span class="he">וַיַּחֲלֹם יוֹסֵף חֲלוֹם</span>
-    * _And (Then) Joseph dreamed a dream (Gen 37:5)_
+    * <figure><figcaption>_And (Then) Joseph dreamed a dream (Gen 37:5)_</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen3705.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
 * <span class="he">וַיִּקְרָא מֹשֶׁה אֶל־כָּל־יִשְׂרָאֵל</span>
-    * _Then (and) Moses summoned all Israel (Ex 24:16)_
-
+    * <figure><figcaption>_Then (and) Moses summoned all Israel (Deut 5:1)_</figcaption> <audio controls controlsList="nodownload" src="./images/23Deuteronomy0501.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    
 Since we say that V-S-O is the "normal" word order, whenever we encounter a clause that is **NOT** V-S-O, we want to take note as to what is going on.  Below is an example of S-V-O used to emphasize the subject, Adonai.
 
 * <span class="he">*יְהוָה* יִמְלֹךְ לְעֹלָם וָעֶד</span>
-    * *Adonai* shall reign forever and ever (Ex 15:18)
-    
+     * <figure><figcaption>*Adonai* shall reign forever and ever (Ex 15:18)</figcaption> <audio controls controlsList="nodownload" src="./images/23Ex1518.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>   
  
 Hebrew also can have O-V-S, particularly in poetry.   
 
@@ -17052,72 +18076,132 @@ Hebrew also can have O-V-S, particularly in poetry.
 English standard word order is S-V-O, so this is the way we would translate regardless of the Hebrew word order.
 :::
 
-## Perfect Syntax
+## Syntax of the Perfect
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 The Perfect _without_ the <span class="he">ו</span> consecutive is **NOT NORMALLY** the first word in a clause
 
 * <span class="he">אַחַר הַדְּבָרִים הָאֵלֶּה *הָיָה* דְבַר־יְהוָה אֶל־אַבְרָם</span>
-    * After these things, the word of the LORD _CAME_ to Abram (Gen 15:1)
+    * <figure><figcaption>After these things, the word of the LORD _CAME_ to Abram (Gen 15:1)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen1501.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
 * <span class="he">וְהִנֵּה *נָפְלוּ* אֲבוֹתֵינוּ בֶּחָרֶב</span>
-    * For behold, our fathers _FELL_ by the sword (2 Chr 29:9)
-* <span class="he">בְּרֵאשִׁית *בָּרָא* אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ</span>
-    * In the beginning, God _CREATED_ the heavens and the earth (Gen 1:1
+    * <figure><figcaption>For behold, our fathers _FELL_ by the sword (2 Chr 29:9)</figcaption> <audio controls controlsList="nodownload" src="./images/232chr2909.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+* <span class="he">בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ׃</span>
+    * <figure><figcaption>In the beginning God _CREATED_ the heavens and the earth (Gen 1:1)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen0101.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>  
     
 However, the Perfect _WITH_ the <span class="he">ו</span> consecutive is **ALWAYS** the first word in a clause
 
-* <span class="he">*וַיֹּאוְאָהַבְתָּ* אֵת יְהוָה אֱלֹהֶיךָ</span>
-    * _And you will love_ Adonai your God (Deut 6:5)
+* <span class="he">וְאָ֣הַבְתָּ֔ אֵ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ</span>
+    * _And you will love_ Adonai your God (Deut 6:5) 
 * <span class="he">*וְזָכַרְתִּי* אֶת־בְּרִיתִי </span>
     * _And I will remember_ my covenant (Gen 9:15)
 
-As we remember from Lesson 17, the Perfect conjugation with the Vav is translated as if it were an Imperfect.
+
+As we remember from Lesson 17, the Perfect conjugation with the Vav is usually translated as if it were an Imperfect.
 
 
-## Imperfect Syntax
+## Syntax of the Imperfect
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Like the Perfect, the Imperfect _without_ the <span class="he">ו</span> consecutive is **NOT NORMALLY** the first word in a clause.  Below is an "S-V-O" verse we looked at earlier
 
 
 * <span class="he">יְהוָה *יִמְלֹךְ* לְעֹלָם וָעֶד</span>
-    * Adonai _shall reign_ forever and ever (Ex 15:18)
-    
+    * <figure><figcaption>Adonai _shall reign_ forever and ever (Ex 15:18)</figcaption> <audio controls controlsList="nodownload" src="./images/23Ex1518.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>  
+       
 The consecutive Imperfect is the first word in a clause.  This is the most common form in Hebrew narrative.
 
 * <span class="he">*וַיֹּאמֶר* הַנָּחָשׁ אֶל־הָאִשָּׁה</span>
-    * The serpent _said_ to the woman (Gen 3:4)
+    * <figure><figcaption>The serpent _said_ to the woman (Gen 3:4)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen0304.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>  
     
 A volitional imperfect (Cohortative and Jussive, each without the Vav consecutive) is usually the first word in the clause.
 
 * <span class="he">*נַעֲשֶׂה* אָדָם בְּצַלְמֵנוּ </span>
-    * _Let us make_ man in our image
+    * <figure><figcaption>_Let us make_ man in our image (Gen 1:26)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen0126.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
 
 ::: {.box .info}
-Note these words all follow the Imperfect paradigm.  The key to accurate translation is word order and whether or not there is the <span class="he">ו</span> consecutive prefix.
+Note without understanding the significance of word placement, these words all follow the Imperfect paradigm.  The key to accurate translation is word order and whether or not there is the <span class="he">ו</span> consecutive prefix.
 :::
 
-## Volitional Syntax
+## Syntax of the Volitional
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 Hebrew likes to link multiple verbs together. Word order can be a big clue in translating volitional clauses. 
 
 * Multiple Imperatives (M+M) in succession:
     * <span class="he">*עֲלֵה* *וּקְבֹר* אֶת־אָבִיךָ</span>
-    * _Go up_ and bury your father (Gen 50:6)
-    * This verse would be sequential - go up and (then you can) bury your father
-    * The context may indicate a consequential translation - do this **so that** something else will happen
+    * <figure><figcaption>_Go up_ and bury your father (Gen 50:6)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen5006.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+        * This verse would be sequential - go up and (then you can) bury your father
+        * The context may indicate a consequential translation - do this **so that** something else will happen
 * An Imperative followed by Perfect with Vav Consecutive (M + Pwc)
     * <span class="he">*לֵךְ* *וְאָמַרְתָּ* אֶל־עַבְדִּי</span>
-    * _Go and say_ to my servant (2 Sam 7:5)
+    * <figure><figcaption>_Go and say_ to my servant (2 Sam 7:5)</figcaption> <audio controls controlsList="nodownload" src="./images/232Sam0705.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
     * The perfect verb acts as if it were a second imperative ("Go and say", not "go and you will say")
 * Imperative followed by an Imperfect or Cohortative (M+I or M+C) to create a purpose or result. "So that..."
     * <span class="he"> *רְדוּ*־שָׁמָּה *וְשִׁבְרוּ*־לָנוּ מִשָּׁם *וְנִחְיֶה* </span>
-    * _Go down_ there and *buy grain* for us from there _so that we might live_
+    * <figure><figcaption>_Go down_ there and *buy grain* for us from there _so that we might live_ (Gen 42:2)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen4202.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
 
 ## Conditional Phrases
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 A conditional phrase is made up of two clauses.  You might want to think of this as an "if-then" statement.  The first gives the "if" condition, and the second states the "then" consequence if the condition is met<small>^[<small>The technical term for the first statement is the _protasis_, and the second statement is called the _apodosis_.</small>]</small> 
 
 * <span class="he">וַיֹּאמֶר אֵלֶיהָ בָּרָק *אִם*־תֵּלְכִי עִמִּי *וְהָלָכְתִּי* *וְאִם*־לֹא תֵלְכִי עִמִּי לֹא אֵלֵךְ</span>
-    * Then Barak said to her, "*If* you will go with me, *then I will go*; but *if* you will not go with me, (*then*) I will not go." (Judg 4:8)
+    * <figure><figcaption>Then Barak said to her, "*If* you will go with me, *then I will go*; but *if* you will not go with me, (*then*) I will not go." (Judg 4:8)</figcaption> <audio controls controlsList="nodownload" src="./images/23Judg0408.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+
     
 ::: {.box .info}
 
@@ -17128,43 +18212,82 @@ A conditional phrase is made up of two clauses.  You might want to think of this
 
 ## Disjunctive Vav
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 In this course, we have talked about the CONjunctive Vav.  This is a Vav that is prefixed to a verb and serves to link the narrative and move it forward in some fashion.
 
 When a Vav is prefixed to a non-verb, it is called a _DISjunctive_ Vav.  As the name implies, it indicates some kind of break or tangent in the narrative.  There are four primary ways a disjunctive Vav is used, as illustrated by the verses below.
 
-* <span class="he">*וְהֵם* לֹא יָדְעוּ כִּי שֹׁמֵעַ יוֹסֵף כִּי הַמֵּלִיץ בֵּינֹתָם</span>
-    * _(Now) They_ did not know, however, that Joseph understood, for there was an interpreter between them (Gen 42:23)
-    * Parenthetical use: <span class="he">וְהֵם</span>
+* Parenthetical use: <span class="he">וְהֵם</span>
+    * <span class="he">*וְהֵם* לֹא יָדְעוּ כִּי שֹׁמֵעַ יוֹסֵף כִּי הַמֵּלִיץ בֵּינֹתָם</span>
+    * <figure><figcaption>_(Now) They_ did not know, however, that Joseph understood, for there was an interpreter between them (Gen 42:23)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen4223.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
     * A parenthetical comment to explain why Joseph's brothers believed they could speak freely
-* <span class="he">וַיְהִי כְּהַיּוֹם הַזֶּה וַיָּבֹא הַבַּיְתָה לַעֲשׂוֹת מְלַאכְתּוֹ *וְאֵין* אִישׁ מֵאַנְשֵׁי הַבַּיִת שָׁם בַּבָּיִת</span>
-    * Now it happened one day that he went into the house to do his work, *and none* of the men of the household was there inside (Gen 39:11)
-    * Circumstantial use: <span class="he">וְאֵין</span>
-    * A break in the narrative, in this case, to provide vital information to set up the circumstances of the attempted seduction and subsequent imprisonment of Joseph
-* <span class="he">וַיִּשַׁע יְהוָה אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ׃  *וְאֶל*־קַיִן וְאֶל־מִנְחָתוֹ לֹא שָׁעָה</span>
-    * And Adonai had regard for Abel and for his offering; *but for* Cain and for his offering He had no regard (Gen 4:4b-5a)
-    * Contrastive use: <span class="he">וְאֶל</span>
+
+* Circumstantial use: <span class="he">וְאֵין</span>
+    * <span class="he">וַיְהִי כְּהַיּוֹם הַזֶּה וַיָּבֹא הַבַּיְתָה לַעֲשׂוֹת מְלַאכְתּוֹ *וְאֵין* אִישׁ מֵאַנְשֵׁי הַבַּיִת שָׁם בַּבָּיִת</span>
+    * <figure><figcaption>Now it happened one day that he went into the house to do his work, *and none* of the men of the household was there inside (Gen 39:11)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen3911.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * Here we have a break in the narrative, in this case, to provide vital information to set up the circumstances of the attempted seduction and subsequent imprisonment of Joseph
+
+* Contrastive use: <span class="he">וְאֶל</span>
+    * <span class="he">וַיִּשַׁע יְהוָה אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ׃  *וְאֶל*־קַיִן וְאֶל־מִנְחָתוֹ לֹא שָׁעָה</span>
+    * <figure><figcaption>And Adonai had regard for Abel and for his offering; *but for* Cain and for his offering He had no regard (Gen 4:4b-5a)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen040405.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
     * Often translated "but"
     * This contrasts Adonai's reponse to the two men's offerings
-* <span class="he">*וְהַנָּחָשׁ* הָיָה עָרוּם מִכֹּל חַיַּת הַשָּׂדֶה אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים</span>
-    * _Now the serpent_ was more crafty than any beast of the field which the LORD God had made (Gen 3:11)
-    * Introductory use: <span class="he">וְהַנָּחָשׁ</span>
+
+* Introductory use: <span class="he">וְהַנָּחָשׁ</span>
+    * <span class="he">*וְהַנָּחָשׁ* הָיָה עָרוּם מִכֹּל חַיַּת הַשָּׂדֶה אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים</span>
+    * <figure><figcaption>_Now the serpent_ was more crafty than any beast of the field which the LORD God had made (Gen 3:1)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen0301.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
     * A new theme or idea; sometimes an entirely new narrative
     * In this example, we move from the creation narrative to the temptation narrative
+    
+::: {.box .light}
+As you read, when you see a ו attached to a non-verb, pay attention!  The author is trying to tell you something important.
+:::
+
 
 ## Adverbs
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * <span class="he">*עַתָּה* יָדַעְתִּי כִּי־יְרֵא אֱלֹהִים אַתָּה</span>
-    * _Now_ I know that you fear God (Gen 22:12)
+    * <figure><figcaption>_Now_ I know that you fear God (Gen 22:12)</figcaption> <audio controls controlsList="nodownload" src="./images/23gen2212.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
     * Adverb of Time: <span class="he">עַתָּה</span>
 * <span class="he">*וַיָּשֶׂם* שָׁם אֶת־הָאָדָם אֲשֶׁר יָצָר</span>
-    * *and there *He placed the man whom He had formed (Gen 2:8)
+    * <figure><figcaption>*and there *He placed the man whom He had formed (Gen 2:8)</figcaption> <audio controls controlsList="nodownload" src="./images/23gen0208.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
     * Adverb of Place: <span class="he">שָׁם</span>
 * <span class="he">עֵינַי *תָּמִיד* אֶל־יְהוָה</span>
-    * My eyes are *continually* toward the LORD (Ps 25:15)
+    * <figure><figcaption>My eyes are *continually* toward the LORD (Ps 25:15)</figcaption> <audio controls controlsList="nodownload" src="./images/23psa2515.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
     * Adverb of Degree: <span class="he">תָּמִיד</span>
 * <span class="he">וַיָּבֹא אֲלֵיהֶם יְהוֹשֻׁעַ *פִּתְאֹם*</span>
-    * So Joshua came upon them *suddenly* (Josh 10:9)
-        * Adverb of Manner: <span class="he">פִּתְאֹם</span>
+    * <figure><figcaption>So Joshua came upon them *suddenly* (Josh 10:9)</figcaption> <audio controls controlsList="nodownload" src="./images/23Josh1009.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * Adverb of Manner: <span class="he">פִּתְאֹם</span>
 
 ::: {.box .info}
 * Adverbs are most frequently at the end of a clause.
@@ -17218,7 +18341,7 @@ If you have completed **all activities** in Lessons 1-23, you may claim the thir
 <iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
 </div>
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Psalm 19 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Psalm 19 {-}
 
 
 ::: {.box .map}
@@ -17390,7 +18513,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17785,7 +18908,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18031,7 +19154,7 @@ We must practice the disciplines of worship, service, and study (and teaching if
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18432,7 +19555,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18694,7 +19817,7 @@ How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and 
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18961,7 +20084,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19069,7 +20192,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19402,7 +20525,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-114)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19655,7 +20778,7 @@ HaShem had these details recorded for a reason. Through our study of Hebrew, we 
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-114)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19931,7 +21054,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-116)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-117)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20063,7 +21186,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-117)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-118)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20337,7 +21460,7 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-119)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-120)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20562,7 +21685,7 @@ The men and women who followed Yeshua became a safe and loving community.  Same 
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-122)Chris Flanagan</p>
 </div>
 ## References {-}
 
