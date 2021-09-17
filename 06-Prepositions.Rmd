@@ -646,7 +646,7 @@ YOUR QUEST
     * <span class="he">כָּל־</span>(Pink)
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #6](./images/06_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -658,3 +658,15 @@ YOUR QUEST
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScSk6Jya_wOUJ4W88s8wcvY-3NyS2FnDmle4T6yo00Fus4Nmg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/d_jKtFDLVts){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/06_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-06.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_06.pdf){target=“_blank”}
+*[Preposition video](http://youtu.be/byszemY8Pl8){target=“_blank”} by The Bazillions
+* Additional Drills/Worksheets
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/06_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/06_quiz_practice.pdf){target=“_blank”}
+

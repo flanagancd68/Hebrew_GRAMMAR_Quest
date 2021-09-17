@@ -1,4 +1,4 @@
-# Qal Imperfect Weak {.QI-w}
+# Qal Imperfect - Weak {.QI-w}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.intro.m4a">
@@ -745,4 +745,17 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/IqAlZba1liQ){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/16_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-16.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_166.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Preformative practice](https://hebrewsyntax.org/bbh2new/16_preformative_practice.pdf){target=“_blank”}
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/16_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/16b_quiz_practice.pdf){target=“_blank”}
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/16d_quiz_practice.pdf){target=“_blank”}
+    * [Quiz d](https://hebrewsyntax.org/bbh2new/16_quiz_practice.pdf){target=“_blank”}
 

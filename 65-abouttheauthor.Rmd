@@ -12,4 +12,3 @@
 
 knitr::include_graphics("images/cf.jpg")
 ```
-## References {-}

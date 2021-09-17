@@ -575,7 +575,7 @@ YOUR QUEST
 3. Identify, parse, and translate the two negated commands
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #18](./images/18_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## Honors Track: _Hebrew Quest_ Study Passage: The Shema {-}
@@ -591,3 +591,15 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/8Rc4m--TEoo){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/18_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-18.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_18.pdf){target=“_blank”}
+* [Volitional Paradigm PDF](https://hebrewsyntax.org/bbh2new/18_qal_volitive_paradigm.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz](https://hebrewsyntax.org/bbh2new/18_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/18_quiz_practice.pdf){target=“_blank”}
+    * [Quiz Paradigms](https://hebrewsyntax.org/bbh2new/18_quiz_paradigms_13-18.pdf){target=“_blank”}

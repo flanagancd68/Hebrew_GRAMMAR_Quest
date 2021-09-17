@@ -827,7 +827,7 @@ YOUR QUEST
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #09](./images/09_Ruth_Pursuit_KEY.pdf){target="_blank"}<small>^[<small>Note: Many English Bibles contain a footnote at Ruth 1:20 that Naomi means "pleasant"; however, the precise etymology of Naomi's name is unclear.  While her name appears to have a Type 1 1CS suffix, since it is a proper name, we are not including it in our answer key.</small>]</small>
 
 
@@ -838,3 +838,17 @@ YOUR QUEST
 </div>
 
 [Open Quest Quiz #9 in a new window](https://forms.gle/7Jgs8W2vi6XKTukG6){target="_blank"}
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/7Jnh6nAFQ1c){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/09_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-09.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_09.pdf){target=“_blank”}
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/09_pronominal_suffix_paradigm.pdf){target=“_blank”}
+* Additional Drills/Worksheets
+    * [Parsing](https://hebrewsyntax.org/bbh2new/09_pronominal_suffix_practice.pdf){target=“_blank”}
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/09_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/09_quiz_practice.pdf){target=“_blank”} 
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/09_quiz_paradigms_7_8_9.pdf){target=“_blank”}
+

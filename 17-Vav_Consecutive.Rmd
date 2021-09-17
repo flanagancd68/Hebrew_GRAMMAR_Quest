@@ -17,9 +17,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 > To understand Biblical Hebrew, we must be able to distinguish the Vav Consecutive from the conjunction Vav and translate accurately.
 
-Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: <span class="he">וּכְתַטְתָּם</span>.
+Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: <span class="he">וּכְתְַבְתָּם</span>.
 
-The initial ו means "and", so we might want to say that this word simply means "and you wrote them." In Hebrew, the Vav Consecutive also has a grammatical purpose of changing the verb's meaning from Perfect to Imperfect.  This is true even though it is affixed to a Perfect verb, <span class="he">כָּתַטְתָּ</span> means "you (ms) wrote" (perfect), but putting a ו as prefix changes the meaning to "and you will write" (imperfect).  The opposite happens when the Vav Consecutive is affixed to an Imperfect verb: the resulting word is Perfect (past tense). Less frequently, there are times with the Vav is just a Vav and is not acting as a Consecutive.  We'll learn more about these changes in this Lesson.
+The initial ו means "and", so we might want to say that this word simply means "and you wrote them." In Hebrew, the Vav Consecutive also has a grammatical purpose of changing the verb's meaning from Perfect to Imperfect.  This is true even though it is affixed to a Perfect verb, <span class="he">כָּתַבְתָּ</span> means "you (ms) wrote" (perfect), but putting a ו as prefix changes the meaning to "and you will write" (imperfect).  The opposite happens when the Vav Consecutive is affixed to an Imperfect verb: the resulting word is Perfect (past tense). Less frequently, there are times with the Vav is just a Vav and is not acting as a Consecutive.  We'll learn more about these changes in this Lesson.
 
 The terminology on this topic is a bit fluid. The term "Waw Consecutive" is significantly more prevalent than "Vav Consecutive" in academic circles, so we will still encounter the "w" references frequently in Hebrew grammar materials.
 
@@ -417,7 +417,7 @@ YOUR QUEST
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #17](./images/17_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -450,3 +450,37 @@ MEMRISE
     * [Hebrew Quest Graduation](https://holylanguage.com/graduate.html){target="_blank"}
     * [Memrise](https://holylanguage.com/memrise.html){target="_blank"}
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/mHf7IQGPWyM){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/17_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-17.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_17.pdf){target=“_blank”}
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/17_qal_waw-consecutive_paradigms.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/17_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/17_quiz_practice.pdf){target=“_blank”}
+
+As Lesson 17 marks the end of the 1st semester in a traditional academic course, Dr. Beckman has additional cumulative review materials.
+
+[Summary Study Guide](https://hebrewsyntax.org/bbh2new/17x_Hebrew1_summary_study_guide.pdf){target=“_blank”}  (_Note: Most of this material is contained in our Hebrew GRAMMAR Quest `Anki` cards._)
+ 
+* Additional Drills/Worksheets/Practice Exams
+    * [Quiz](https://hebrewsyntax.org/bbh2new/17_quiz_vocab.pdf){target=“_blank”}
+     *[Quiz Paradigms](https://hebrewsyntax.org/bbh2new/17_quiz_paradigms.pdf){target=“_blank”}
+    * [Quiz QI Preformatives](https://hebrewsyntax.org/bbh2new/17_quiz_paradigms_QI-begins.pdf){target=“_blank”}
+    * [Quiz Parsing](https://hebrewsyntax.org/bbh2new/17_quiz_parsing.pdf){target=“_blank”}
+    * [Quiz Translation](https://hebrewsyntax.org/bbh2new/17_quiz_translation.pdf){target=“_blank”}
+    * [Practice final exam 1](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_1.pdf){target=“_blank”}
+        * [Final exam 1 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_1_answers.pdf){target=“_blank”}
+        * [Final exam 1 explanations](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_1_explanations.pdf){target=“_blank”}
+    * [Practice final exam 2](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_2.pdf){target=“_blank”}
+        * [Final exam 2 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_2_answers.pdf){target=“_blank”}
+    * [Practice final exam 3](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_3.pdf){target=“_blank”}
+        * [Final exam 3 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_3_answers.pdf){target=“_blank”}
+    * [Practice final exam 4:](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_4.pdf){target=“_blank”}
+        * [Final exam 4 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_4_answers.pdf){target=“_blank”}
+    * [Practice final exam 5](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_5.pdf){target=“_blank”}
+        * [Final exam 5 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_5_answers.pdf){target=“_blank”}
+

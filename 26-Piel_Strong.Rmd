@@ -1,6 +1,28 @@
-# The Piel Stem - Strong Verbs {.D-s}
+# The Piel Stem - Strong {.D-s}
 
-The Piel stem occurs 6,473 times in the Hebrew Bible. It appears in the Perfect 2,120 times, Imperfect 2,446 times, Imperative 436 times, Infinitive Construct 708 times, Infinitive Absolute 84 times, and Participle 679 times
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+The Piel stem occurs 6,473 times in the Hebrew Bible. 
+P - 2,120
+I - 2446
+M - 436
+∞ - 708
+A -84
+Pt - 679
 
 Many students find the Piel is one of the easier stems to identify.  It is one of only three Verb stems (along with the Pual and Hitpael) that has a Dagesh Forte in $R_2$. The Piel is easily distinguished from the Pual, which has a steady U-class vowel.  The Piel is also easily distinguished from the Hitpael, which has a unique prefix.
 
@@ -17,6 +39,24 @@ __LESSON ITINERARY__
 
 ## First Thought {-}
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26-18.Psalms119.13.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+
 ### <span class="he">בִּשְׂפָתַ֥י סִפַּ֑רְתִּי כֹּ֝֗ל מִשְׁפְּטֵי־פִֽיךָ׃</span> {-}
 
 *With my lips, I have told of All the ordinances of Your mouth (Psalms 119:13)*
@@ -24,16 +64,6 @@ __LESSON ITINERARY__
 With our study of Hebrew, we can get closer to the original intent of God's ordinances.  However, if we are not already keeping His words, worshiping and serving Him, and serving others in our native language, then nothing about learning Hebrew by itself will transform our lives.  
 
 We must practice the disciplines of worship, service, and study (and teaching if that is our calling) so that these traits become hard-wired habits.  If that is already in place then we can use Hebrew to reach new depths in our relationships.
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/26-18.Psalms119.13.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 
@@ -50,6 +80,22 @@ knitr::include_graphics("./images/26_Man with arms upraised at Western Wall, tb0
 
 ## Piel Verb Stem Table 
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
 Simple Action	| Qal | Niphal | Niphal
@@ -59,18 +105,31 @@ Cause an Action	| Hiphil | Hophal
 * Reminders:
     * The table gives broad generalization; many verbs do not fit neatly into the table's definitions
     * Use a lexicon/dictionary to check the meanings in different stems
-    * Many references like this one will label the 2nd row as "Intensive Action," but this is a controversial topic in the academic community
+    * Many references will label the 2nd row as "Intensive Action," but this is a controversial topic in the academic community
 
 
 ## Piel Meanings
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Cause a state ('factitive')
     * <span class="he">מִלֵּא </span>
         * Q - He filled
         * D (Piel) - He caused (something) to be full
-    <span class="he">אָנַשף </span>
-        * Q - He was angry
-        * D - He made (someone) angry
+
 * Do something repeatedly ('iterative')
     * <span class="he">הָלַךְ</span>
         * Q - He walked
@@ -87,6 +146,21 @@ Cause an Action	| Hiphil | Hophal
 
 ## Piel is the "D" stem because $R_2$ takes a Doubling Dagesh Forte
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * In fact, when you see a Dagesh in $R_2$, it's more than likely either a Piel form or a 1-נ verb that has assimilated.  If you see three root letters, it's probably a Piel
     * Two other Stems take a Dagesh in $R_2$ - Pual (Lesson 28) and Hitpael (Lesson 34).  As we will learn in those lessons, both forms are easily distinguished from Piel.
 * Gutturals, Resh, SQiN eM LeVY letters reject the Daghesh Forte
@@ -94,6 +168,21 @@ Cause an Action	| Hiphil | Hophal
     * Gutturals/Resh will be discussed in Lesson 27
 
 ## Memorize Piēl - Paēl
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ::: {.box .info}
 The Piel is remarkably consistent.  
@@ -104,7 +193,7 @@ While there are distinctive $Pre$ and $V_S$ combinations, it's easiest to rememb
     * $V_1 = I$
     * $V_S = \bar E$ in the 3rd person
         * <span class="he">קִטֵּל</span> - DP3ms
-    * $V_S = A in the 2nd/1st person
+    * $V_S = A$ in the 2nd/1st person
         * <span class="he">קִטַּ֫לְתָּ</span> - DP2ms
 * Paēl in ALL OTHER CONJUGATIONS
     * $V_1 = A$
@@ -124,44 +213,25 @@ While there are distinctive $Pre$ and $V_S$ combinations, it's easiest to rememb
 $$V_{S} = \bar E[A] \sim \bar E$$
 
 
-## Pay attention when $R_2$ is a SQiN eM LeVY consonant
 
-* As we have mentioned previously, SQiN eM LeVY is a mnemonic for a group of letters that can reject a Dagesh Forte when the letter has a Sheva
-    * S - סצשׁסֹ
-    * Q - ק
-    * N - נ
-    * M - מ
-    * L - ל
-    * V - ו
-    * Y - י
-
-* If you see a SQiN eM LeVY consonant with a Sheva, it might have a "hidden" Daghesh Forte
-
-## DIwc
-
-* The Iwc has a Dagesh in the Imperfect Preformative
-* the DI preformative has a Sheva
-* Therefore, DIwc3ms and DIwc3mp lose Dagesh
-* DIwc3ms - Not *<span class="he">וַיְּקַטֵּל</span>, but <span class="he">וַיְקַטֵּל</span>
-* DIwc3mp - Not *<span class="he">וַיְּקַטְּלוּ</span>, but <span class="he">וַיְקַטְּלוּ</span>
-* Forms with reduced $V_2$
-    * Example DP3cp - Not *<span class="he">שִׁמְּרוּ</span>, but <span class="he">שִׁמְרוּ</span>
-    
-## Piel: what to memorize
-
-* Parsing code D - Dagesh Forte in $R_2$
-* "Piēl - Paēl"
-    * This is easier than remembering the $Pre$ and $V_S$ combinations separately
-    * Piēl - Perfect $V_1 = I$
-    * Paēl - everywhere else: $V_1 = A$
-    * $V_S = E$ everywhere except Perfect 1st/2nd person (where $V_S = A$)
-* $V_P = :$ in all Strong Conjugations with preformatives
-    * This compares to $V_P = I$ in the Qal
-* Participle preformative <span class="he">מ</span> (all stems except Qal and Niphal)
-* The SQiN eM LeVY exceptions
-    * $R_2$ and $DIwc$
 
 ## Piel Perfect Strong Paradigm
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -173,6 +243,7 @@ $$V_{S} = \bar E[A] \sim \bar E$$
 
 * 3rd person $Pre$ is distinctive Hireq+Dagesh+Tsere
 * 1st/2nd person $Pre$ is Hireq+Dagesh+Patach
+* Daghesh Forte in $R_2$
 
 <figure>
     <figcaption>Piel Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -198,6 +269,7 @@ $$V_{S} = \bar E[A] \sim \bar E$$
     * Remember $V_1 = A$ in all non-Perfect forms
     * $V_P = ə$ (Vocal Sheva) - DI1cs will take $V_P = \breve A$ (Hateph Patach)
     * Compare to Qal Imperfect $Pre$ of Hireq+Sheva+Holem
+* Again, note the Daghesh Forte in $R_2$
     
 <figure>
     <figcaption>Piel Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -215,6 +287,9 @@ $$V_{S} = \bar E[A] \sim \bar E$$
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">קַטֵּל</span> | 2mp | <span class="he">קַטְּלוּ</span>
 | 2fs | <span class="he">קַטְּלִי</span> | 2fp | <span class="he">קַטֵּ֫לְנָה</span>
+
+* As usual, the Imperative = the Imperfect without the preformative.
+* Again, a Daghesh Forte in $R_2$
 
 <figure>
     <figcaption>Piel Imperative Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -271,11 +346,93 @@ Pual | מְ
 Hiphil | ַמ
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
-Hithpael | תִמְ
+Hithpael | מִתְ
 
+## SQiN eM LeVY consonants with Sheva may reject Daghesh Forte
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* As we have mentioned previously, SQiN eM LeVY is a mnemonic for a group of letters that can reject a Dagesh Forte when the letter has a Sheva
+    * S - שׁשּצס
+    * Q - ק
+    * N - נ
+    * M - מ
+    * L - ל
+    * V - ו
+    * Y - י
+
+* As we saw in the paradigm tables, all verbs place a Sheva in $V_2$ in P3fs, P3cp, (I/M)2fs, I3mp, (I/M)2mp, Pt(m/f)p, as well as frequently when there is a pronominal suffix
+* The Piel stem places a Sheva in $V_P$, in conjugations that have a preformative
+    * The Iwc places a Daghesh in the Imperfect Preformative
+    * So the י in DIwc3ms and DIwc3mp may lose the Daghesh
+
+::: {.box .caution}
+If you see a word that otherwise looks like a Piel but there is no Daghesh Forte where one is expected, you may have a SQiN eM LeVY consonant with a Sheva.
+:::
+
+
+## Piel: what to memorize
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+* Parsing code D - Dagesh Forte in $R_2$
+* "Piēl - Paēl"
+    * This is easier than remembering the $Pre$ and $V_S$ combinations separately
+    * Piēl - Perfect $V_1 = I$
+    * Paēl - everywhere else: $V_1 = A$
+    * $V_S = E$ everywhere except Perfect 1st/2nd person (where $V_S = A$)
+* $V_P = :$ in all Strong conjugations with preformatives
+    * This compares to $V_P = I$ in the Qal
+* Participle preformative <span class="he">ְמ</span> (מ in all stems except Qal and Niphal)
+* The SQiN eM LeVY exceptions
+    * $R_2$ and $DIwc3m-$
+    
 ## Piel Parsing Examples
 
-* Word: <span class="he">גדַּ֫לְנוּ </span>
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.12.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Word: <span class="he">גִּדַּלְנוּ </span>
     * The Dagesh in the Gimmel is a Lene (not preceded by a vowel), but the Dagesh in the Dalet is preceded by a vowel that is not a Sheva, so this must be a forte.
         * A Forte in what appears to be $R_2$ Should get your attention 
         * The two questions you should start asking when you see a Forte in $R_2$:
@@ -321,6 +478,21 @@ Hithpael | תִמְ
 
 ## Stem Comparison Table
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.13.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Here is the Stem Comparison Table showing Qal, Niphal, and now Piel
 
 
@@ -350,15 +522,31 @@ include_graphics("images/26_stemcomp.png")
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/NGT8fiuGGp0){target="_blank"}
 
 
-## Worksheets: Piel Strong Paradigms {-}
+## Worksheet: Piel Strong Paradigms {-}
 
 Use your knowledge of the diagnostics Piel stem to complete the Piel worksheet.
 
 Strive for pattern recognition over rote memorization.
 
-[Piel Strong Worksheet](26_piel_strong_paradigms.pdf){target="_blank"}
+[Piel Strong Worksheet](./images/26_piel_strong_paradigms.pdf){target="_blank"}
 
-## Ruth Pursuit Analysis
+## Ruth Pursuit Analysis {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.ruth.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 We are now at the exciting stage where we can begin to stitch together an analysis of Ruth 1.  This will be much the same as you have done with the `Hebrew Quest Study Passages`.  The main difference is you will not have Izzy's video explanation.  In that sense, you will now be wading a little deeper into the Hebrew pool! 
 
@@ -372,16 +560,16 @@ YOUR QUEST
 1. Read Ruth 1:1-6 in the Hebrew text and underline any words or forms do you not recognize
     * For the first time, try doing this without any study aids, including your `Ruth Pursuit Translation Worksheet`
     * Then as needed, look up the words you don't recognize
-2. Using what you have learned about syntax/phrase constructions and context, compose your own interpretative translation (this time, using whatever resources you'd like!)
+2. Using what you have learned about syntax/phrase constructions and context, compose your own interpretative translation (this time, using your `Ruth worksheet` and whatever other resources you'd like!)
     * You may wish to compose a structural outline of "mini-scenes" identified by conjunctive or disjunctive clauses, quotations, or other constructions
-3. Compare your version with translations of your choice.  These may include JPS, KJV, ESV, NASB, NIV, or NLT.  
-    * At what points do you agree and disagree with translation decisions made by these publications? 
+3. Compare your version with translations of your choice.  These may include JPS, KJV, ESV, NASB, NIV, or NLT.^[We do recommend you avoid strict paraphrase versions such as "The Message", as well as the other translations discouraged by Izzy in his ["Bible Reviews" series](https://holylanguage.com/bibles.html)]
+4. At what points do you agree and disagree with translation decisions made by these publications? 
 
-This exercise is for you.  You do not have to turn this in, and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their feedback and encouragement.
+This exercise is for you.  Although you will need to complete this activity in order to earn your diploma, you will not have to turn this in, and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their feedback and encouragement.
 
 :::
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 31 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Exodus 31 {-}
 
 
 ::: {.box .map}
@@ -394,3 +582,15 @@ YOUR HEBREW QUEST
     * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31){target="_blank"}
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/qvwYmPkYxuk){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/26_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-26.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_26.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/26_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/26_quiz_practice.pdf){target=“_blank”}
+
+

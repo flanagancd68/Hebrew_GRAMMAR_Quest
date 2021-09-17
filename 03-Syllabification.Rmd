@@ -1,4 +1,4 @@
-# Syllabification and Pronunciation
+# Hebrew Syllables
 
 ::: {.infobox .sound}
 <figure>
@@ -1173,3 +1173,13 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 
 [Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/AY7KAsD4fZg){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/03_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-03.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_03.pdf){target=“_blank”}
+* [Dr. Beckman additional practice video](http://youtu.be/icqgATyH9qQ){target=“_blank”}
+* Additional Drills/Worksheets
+  * [Quiz a](https://hebrewsyntax.org/bbh2new/03_quiz_new.pdf){target=“_blank”}
+  * [Quiz b](https://hebrewsyntax.org/bbh2new/03_quiz_practice.pdf){target=“_blank”}

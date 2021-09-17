@@ -1,4 +1,20 @@
-# The Hitpael Stem - Weak Verbs {.Ht-w}
+# The Hitpael Stem - Weak {.Ht-w}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 > CONGRATULATIONS ON REACHING THE FINAL CHAPTER OF HEBREW GRAMMAR QUEST!
 
@@ -21,6 +37,22 @@ Before continuing, be sure you can identify the Hitpael preformatives in all con
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35-4.Micah1.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 ###  <span class="he">וְנָמַ֤סּוּ הֶֽהָרִים֙ תַּחְתָּ֔יו וְהָעֲמָקִ֖ים יִתְבַּקָּ֑עוּ כַּדּוֹנַג֙ מִפְּנֵ֣י הָאֵ֔שׁ כְּמַ֖יִם מֻגָּרִ֥ים בְּמוֹרָֽד׃ </span> {-}
 
 *The mountains will melt under Him, and the valleys will be split, like wax before the fire (Micah 1:4)*
@@ -28,18 +60,6 @@ Before continuing, be sure you can identify the Hitpael preformatives in all con
 Our prayer at Holy Language Institute is that you have drawn closer to HaShem through Hebrew, His Holy Language.  We are extremely proud of you and excited that you have completed the course.  With that said, we know that, unless checked by the Spirit, we have an all-too-human tendency to boast in our success.  Let us give glory to Him who alone has the power to call down fire from heaven!
 
 The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel in 1 Kings 18. HaShem did precisely that. May we always be reminded that we do all things through Yeshua, who gives us strength.
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/35-4.Micah1.4.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
 
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
@@ -52,18 +72,49 @@ knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb0
 
 ## $R_2$ can lose Daghesh Forte
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * By now, you are very familiar with this concept
-* The Hitpael verb MAY lose if  $R_2$ is SQiN eM LeVY consonant with a Sheva
-* The Hitpael verb WILL lose if $R_2$ is Guttural or Resh
+* The Hitpael verb MAY lose the Daghesh Forte if  $R_2$ is SQiN eM LeVY consonant with a Sheva
+* The Hitpael verb WILL lose the Daghesh Forte if $R_2$ is Guttural or Resh
     * With ע, ה,  and ח there is usually no compensatory lengthening
     * With א and ר $V_1$ will lengthen from Patach to Qamets
-        * <span>הִתְבָּרֵךְ</span> tDP3ms of ברך, "he blessed himself"
+        * <span class="he">הִתְבָּרֵךְ</span> tDP3ms of ברך, "he blessed himself"
+* Review the Piel lessons if you need a refresher on any of these concepts.
 
 
 ## Transposition of ת and $R_1$ when $R_1$ is sibilant
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * The sibilants are the same letters as the "S" SQiN eM LeVY letters
-* The ancients found it easier to pronounce <span>הִשְׁתַּמֵּר</span>* instead of <span class="he">הִתְשַׁמֵּר</span>
+* The ancients found it easier to pronounce <span class="he">הִשְׁתַּמֵּר</span>* instead of <span class="he">הִתְשַׁמֵּר</span>
     * English has this too: we find it more "comfterble" to pronounce "comfortable" as "comfterble" - we transpose the "r" and "t"
     * Hebrew transposes the "ת" of the Hitpael preformative with the s-sound of $R_1$
 * This can be an initial challenge since the <span class="he">ְ הִ</span> looks like Hiphil
@@ -72,10 +123,25 @@ knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb0
 * The vowels of the Hitpael strong are the same
 * Examples:
     * <span class="he">הִסְתַּתֵּר</span> - he hid himself
-    * <span class="he">הִשְׂתַּכֵּר</span> - he earned wages for (hired) himself<small>^[<small>BBH mentions that there are three times n the Bible when $R_1$ = <span class="he">צ</span>, not only will the <span class="he">ת</span> switch places, it will change to <span class="he">ט</span>.</small>]</small>
+    * <span class="he">הִשְׂתַּכֵּר</span> - he earned wages for (hired) himself^[BBH mentions that there are three times n the Bible when $R_1$ = <span class="he">צ</span>, not only will the <span class="he">ת</span> switch places, it will change to <span class="he">ט</span>.]
 
 
 ## Preformative תְ assimilates when $R_1$ is ז ד ט ת,
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * If $R_1$ is ז ד ט ת (i.e., the "dental" letters) the ת of the Hithpael preformative will assimilate into $R_1$ and remain as a Daghesh Forte
 * This can present a potential ambiguity with Niphal; however, note $V_1$ is _QAMETS_ in Niphal compared to _PATACH_ in Hitpael, and $R_2$ will have a Daghesh Forte in Hitpael:
@@ -84,8 +150,24 @@ knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb0
 
 
 
-## Hitpolel is tD of some Biconsonantal and Geminate Verbs
+## Hitpolel minor stem
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Hitpolel is the Hitpael form of some Biconsonantal and Geminate Verbs
 * $R_3$ is doubled
 * $V_1$ is <span class="he">וֹ</span>
 * This is an irregular form, but these words maintain diagnostic Hitpael preformative       
@@ -94,9 +176,25 @@ knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb0
 * Same meaning as a normal Hitpael
 
 
-## <span class="he">חָוָה </span> - Hishtapel Stem
+## Hishtapel minor stem
 
-*  <span class="he">חָוָה </span> gets its own stem: Hishtapel
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* There is one verb that is so important it gets it's own stem
+* The verb is <span class="he">חָוָה </span>, and the stem's name is Hishtapel
 *  <span class="he">חָוָה </span> occurs 173 times in the Bible, only in Hishtapel
 *  <span class="he">חוה</span> means: to prostrate oneself in worship (as to God, or another deity) or submission (as to a king)
 
@@ -160,14 +258,8 @@ Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael v
 * [Ruth Pursuit Answer Key #35](./images/35_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## You did it!  Claim your Diploma! {-}
 
-Once all Anki cards are `Mature`, please complete the attached form to begin the Graduation process and earn your Hebrew GRAMMAR Quest Diploma!      
-
-<div class="containerLet">
-<iframe class ="responsive-iframe" src="https://forms.gle/eyX82mzkCjoh9oM56" frameborder="0"></iframe>
-</div>
-## OPTIONAL _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
 
 
 ::: {.box .map}
@@ -186,3 +278,15 @@ YOUR HEBREW QUEST
 6. Complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/40/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/nyO8SUVgsPY){target=“_blank”} - combined with Lesson 34
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/34-35_overheads_bw.pdf){target=“_blank”} - combined with Lesson 34
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-35.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_35.pdf){target=“_blank”}
+* [Dr Beckman Parsing video for Chapter 35](http://youtu.be/s1Tr73N82e8){target=“_blank”} 
+* Quizes for Chapter 35
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/35_quiz_new.pdf){target=“_blank”} 
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/35_quiz_practice.pdf){target=“_blank”}
+

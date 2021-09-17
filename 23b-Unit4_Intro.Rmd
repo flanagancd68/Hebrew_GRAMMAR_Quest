@@ -1,6 +1,21 @@
-# (PART) Derived Binyanim {-}
+# (PART) Derived Stems {-}
 
-# Introduction to Unit 4 {-}
+# Introduction to Unit IV {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Congratulations!  You now have the hardest work of a first-year Hebrew grammar course behind you.  From here on out, we will be studying the six major derived Hebrew Verb stems Niphal, Piel, Pual, Hiphil, Hophal, and Hitpael.
 
@@ -10,11 +25,26 @@ If you remember our introduction to Unit 3, we drew the comparison to a math for
 
 Summaries of each of the derived stems will consist of the overall diagnostic features.  It is THESE features that should be memorized, not the numerous paradigms.
 
-## Structure of Lessons 24-35 {-}
+## Structure of Unit 4: Lessons 24-35 {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.structure.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * You will note that 12 lessons remain in the course
-* Each of the six derived stems will have two lessons: a lesson "A" and a lesson "B"
-* Lesson A (even number) will cover the "Strong" Verb paradigm
+* Each of the six derived stems will have two lessons: 
+* The first (even number) will cover the "Strong" Verb paradigm
     * The meaning of the stem
     * The spelling of the stem
         * Word-initial Prefix/Preformative combinations
@@ -24,13 +54,28 @@ Summaries of each of the derived stems will consist of the overall diagnostic fe
         * The Anki deck will have exercises to help you with paradigm identification
         * Each lesson will have a worksheet for you to practice the paradigm
         * As we have said, __identification of patterns is more important than memorization of paradigms__
-* Lesson B (odd number) will address weak verb deviations
-    * The b-side will cover spelling changes within caused by the behaviors of gutturals and other weak letters, Geminate verbs, Biconsonantal verbs, and other irregular verbs
+* The second (odd number) will address weak verb deviations
+    * The b-side will cover spelling changes  caused by the behaviors of gutturals and other weak letters, Geminate verbs, Biconsonantal verbs, and other irregular verbs
     * Most of the time, you will already know the concepts
         * For example, in some forms of the Niphal Strong paradigm, $R_1$ takes a Dagesh Forte
         * You already know that if $R_1$ is a guttural or Resh, $R_1$ will reject the Dagesh Forte and often (but not always), there will be Compensatory Lengthening
         
 ## Ruth Pursuits {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.ruth.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 There are only a handful of non-Qal verbs in Ruth 1, so you will only see the `Ruth Pursuit` activities in the following Lessons:
 
@@ -47,11 +92,27 @@ In Lesson 26, we will start to do a `Ruth Pursuit Analysis`.
 * This exercise is for your edification
     * You do not have to turn this in and, it will not be graded as a part of this course (as you know, no grades are ever recorded in this course)
     * We would encourage you to share your passage with the Holy Language Institute Tribe for their edification
+* Composing a translation of Ruth and/or Jonah is a common assignment in a second year Hebrew course; we believe you will get a lot out of this new activity
 
 ## Stem Vowel Pattern Nomenclature {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.stem.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * The derived stems tend to be much more consistent with their application of stem vowels
-* We will use a code to memorize the stem vowels for non-Qal Strong verbs
+* We will use the code we introduced at the end of Unit 3 to memorize the stem vowels for non-Qal Strong verbs - our thanks to Dr. Beckman for this innovation in Hebrew learning
 * For example, the stem vowel code for Niphal is 
 
 $$V_{S} = A \sim \bar E (A)$$
@@ -59,12 +120,12 @@ $$V_{S} = A \sim \bar E (A)$$
 * $V_{S}$ means the <u>S</u>tem <u>V</u>owel
 * Everything to the LEFT of the tilde $\sim$ is the stem vowel in the PERFECT conjugation
 * Everything to the RIGHT of the tilde is the stem vowel in the IMPERFECT and related forms, Jussive, Cohortative, Imperative and Infinitive Construct
-* Any exceptions are inside ()
-    * Imperfect form exceptions apply to the Feminine Plural
+* The tilde itself is just a separator symbol with no inherent meaning
+* Any exceptions are inside `[]` for the perfect `()` for the imperfect
+    * The Niphal has no exceptions for the perfect, but other stems change the stem vowel in the 1/2 person - this vowel will be listed inside `[]`
+    * Imperfect form exceptions listed inside `()` apply to the Feminine Plural
         * Therefore $(A)$ in the formula means the Stem Vowel in the Imperfect FP, the Jussive FP, and the Imperative FP is Short A - Patach
         * There are no Cohortative (1st person) feminine forms
-    * Perfect exceptions will tend to apply to the 2nd and 1st person forms
-    * Niphal does not have any Perfect exceptions so there is nothing next to the first $A$
 * What about Infinitive Absolute and Participles?
     * It turns out that for stems besides the Qal the Infinitive Absolute like $\bar E$ (Tsere)
     * Participles, again other than Qal, tend to like the _PERFECT_ $V_S$, _LENGTHENED_ if possible
@@ -75,28 +136,4 @@ $$V_{S} = A \sim \bar E (A)$$
 knitr::include_graphics("images/23b.stemvowelformula.png")
 ``` 
 
-## What to memorize for all Derived Stems {-}
-* Meaning of $V_S$ pattern
-
-$$V_S = Perfect[2/1 person] \sim Imperfect (Imperfect FP)$$
-
-* Always a Sheva before finite verb endings (unless $\bar E$ (Tsere))
-* Participle $V_S$ = P3ms $V_S$ lengthened if possible (unless $\bar E$ (Tsere))
-* Infinitive Absolute $V_S = \bar E$
-    * Except: $V_S = \hat O$ for QA and some NA
-* Everything else uses Imperfect $V_S$
-    * Imperative, Jussive, Cohortative, ∞
-    
-## Review: Sheva before Finite Verb Endings {-}
-
-* Finite Verbs have Person (1st, 2nd, 3rd)
-    * Thus the Finite verb conjugations are: Perfect, Imperfect, Imperative, Jussive, Cohortative
-    * The non-Finite conjugations are: Infinitive Construct, Infinitive Absolute, Participle
-* A Sheva goes before a Finite Verb ending
-    * This means the $V_S$ will REDUCE if the sufformative begins with a VOWEL
-    * An exception to the above is that Unchangeable vowel letters do not reduce, so they do NOT take a Sheva
-* The Adjective Endings do NOT take a Sheva - since Participles use adjective endings, they do not take a Sheva
-    * One exception: if the Participle $V_S = \bar E$, then it REDUCES
-        * Qal Active: <span class="he">קֹטֵל</span> (QPTms) becomes <span class="he">קֹטְלִים</span> (QPTmp)
-        * Piel: <span class="he">מְקַתֵּל</span> (DPtms) becomes <span class="he">מְקַטְּלוֹת</span> (DPtfp)
         

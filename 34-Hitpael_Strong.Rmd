@@ -1,9 +1,23 @@
-# The Hithpael Stem - Strong Verbs {.HT-s}
+# The Hitpael Stem - Strong {.HT-s}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
-This is one of the shortest and easiest chapters in Hebrew GRAMMAR Quest.
+Welcome to our final Hebrew stem, the Hitpael^[Just as with "PATH-ac" versus "pa-TOCK" referring to the short-A vowel, this stem tends to be called "HITHpael" in academic circles and HEETpael in non-academic settings.].
 
-If you've made it this far, you've earned it!
+This is probably the easiest stem to identify because of the distinctive "HEET" (or "Hith) prefix.
 
 There are just under 1000 instances of the Hitpael stem:
 
@@ -14,8 +28,37 @@ There are just under 1000 instances of the Hitpael stem:
 * tDA - 3
 * tDPt - 147
 
+::: {.box .map}
+LESSON ITINERARY
+
+1. Meaning of the Hitpael Stem
+1. Parsing Clues
+1. Strong paradigms
+:::
+
+::: {.box .stop}
+EQUIPMENT CHECK
+
+Before continuing, make sure you understand the Piel stem, as the Hitpael stem is closely related
+
+:::
 
 ##  First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34-7.Isaiah38.2.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ###  <span class="he"> וַיַּסֵּ֧ב חִזְקִיָּ֛הוּ פָּנָ֖יו אֶל־הַקִּ֑יר וַיִּתְפַּלֵּ֖ל אֶל־יְהוָֽה׃ </span> {-}
 
@@ -27,18 +70,6 @@ Many of us may be physically removed from Jerusalem and the Western Wall.  Like 
 
 Why don't you stop what you're doing and pray towards Jerusalem right now?
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/34-7.Isaiah38.2.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
@@ -48,12 +79,27 @@ knitr::include_graphics("images/34.Men praying at Western Wall, tb090705000.jpg"
 
 
 
-## Meaning of Hitpael
+## Hitpael Verb Stem Table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
 Simple Action	| Qal | Niphal | (Niphal)
-Intensive	| Piel | Pual | __HITPAEL__
+Cause a State	| Piel | Pual | __HITPAEL__
 Cause an Action	|Hiphil | Hophal
 
 Meanings:
@@ -70,49 +116,60 @@ Meanings:
     * Q - to walk
     * tD - to walk back and forth, or to walk (as a way of life)
 * Simple active - <span class="he">פלל</span>
-    * tD - to pray
+    * tD - to pray^[Perhaps there is a spiritual insight here.  Do we truly enter into a reflexive state of prayer when we pray?]
 
-## Parsing Clues - _Pre_: a distinctive "_h_IT" prefix
 
-The Hitpael is probably the easiest stem to identify:
+
+## Parsing Clues - _Pre_: a distinctive הִתְ prefix
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+The Hitpael is the easiest stem to identify:
 
 * All conjugations have a distinctive prefix:
-    * <span class="he">הִתְקַטֶּל</span> - tDP3ms, tDM2ms, tD∞, or tDA
-    * <span class="he">יִתְקַטֶּל</span> - tDI3ms, and so forth for the remaining imperfect stems. 
+    * <span class="he">הִתְקַטֵּל</span> - tDP3ms, tDM2ms, tD∞, or tDA
+    * <span class="he">יִתְקַטֵּל</span> - tDI3ms, and so forth for the remaining imperfect stems. 
         * tDI1cs preformative is <span class="he">אֶתְ</span>
-    * <span class="he">מִתְקַטֶּל</span> - tDPtms
-    * The preformative always has <span class="he"> תְ ִ </span> (except for I1cs)
-        * So, if a verb begins with "hIT", "yIT", "mIT", etc., (and $R_1$ is not ת or ט) it's probably Hitpael
+    * <span class="he">מִתְקַטֵּל</span> - tDPtms
+    * So, if a verb begins with "hIT", "yIT", "mIT", etc., it's probably Hitpael
         
 Also:
 
 * $R_2$ takes Daghesh Forte
 * $V_1$ is Patach
-
-
-## Parsing Clues - $V_S = \bar E[A] \sim \bar E$
-
-
-
-* tDP2ms and tDP1cs have $V_S = A$, otherwise it's very consistent
+* $V_S = \bar E[A] \sim \bar E$
+    * tDP2ms and tDP1cs have $V_S = A$, otherwise it's very consistently $\bar E$
 
 ::: {.box .light}
 The preformative alone is sufficient to identify the Hitpael stem  
 :::
 
-## Perfect Strong
+## Hitpael Perfect Strong Paradigm
 
 * The standard Perfect sufformatives
-* $V_S =$ Patach
+* $V_S =$ Patach in 2nd/1st person
 * "Signature" tD Prefix: <span class="he">הִתְ</span>
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 3ms | <span class="he">הִתְקַטֵּל</span>  | 3cp | <span class="he"> הִתְקַטְּלוּ</span
+| 3ms | <span class="he">הִתְקַטֵּל</span>  | 3cp | <span class="he"> הִתְקַטְּלוּ</span>
 | 3fs | <span class="he">הִתְקַטְּלָה</span> | |
-| 2ms | <span class="he">הִתְקַטַּ֫לְתָּ</span> | 2ms | <span class="he">הִתְקַטַּלְתֶּם</span>
-| 2fs | <span class="he">הִתְקַטַּלְתְּ</span> | 2fs | <span class="he">הִתְקַטַּלְתֶּן</span>
-| 1cs | <span class="he">הִתְקַטַּ֫לְתִּי</span> | 1cs | <span class="he">הִתְקַטַּ֫לְנוּ</span>
+| 2ms | <span class="he">הִתְקַטַּ֫לְתָּ</span> | 2mp | <span class="he">הִתְקַטַּלְתֶּם</span>
+| 2fs | <span class="he">הִתְקַטַּלְתְּ</span> | 2fp | <span class="he">הִתְקַטַּלְתֶּן</span>
+| 1cs | <span class="he">הִתְקַטַּ֫לְתִּי</span> | 1cp | <span class="he">הִתְקַטַּ֫לְנוּ</span>
 
 <figure>
     <figcaption>Hitpael Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -125,10 +182,10 @@ The preformative alone is sufficient to identify the Hitpael stem
 </figure>
 
 
-## Imperfect Strong
+## Hitpael Imerfect Strong Paradigm
 
 * The standard Imperfect preformatives and sufformatives
-* $V_S =$ Patach
+* $V_S =$ Tsere unless reduced
 * "Signature" tD Prefix: <span class="he">יִתְ</span> (or the applicable Imperfect preformative)
 
 | Sing | Paradigm | Plural | Paradigm
@@ -151,14 +208,14 @@ The preformative alone is sufficient to identify the Hitpael stem
     </audio>
 </figure>
 
-## Imperative Strong
+## Hitpael Imperative Strong Paradigm
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">הִתְקַטֵּל</span> | 2mp | <span class="he">הִתְקַטְּלוּ</span>
 | 2fs | <span class="he">הִתְקַטְּלִי</span> | 2fp | <span class="he">הִתְקַטֵּ֫לְנָה</span>
 
-## Infinitives Strong
+## Hitpael Infinitives Strong Paradigm
 
 
 | Type | Paradigm 
@@ -168,7 +225,7 @@ The preformative alone is sufficient to identify the Hitpael stem
 
 Although these forms are identical to tDP3ms and tDM2ms, the infinitive forms are infrequent.  The tDA only appears three times in the Hebrew Bible.
 
-## Participle Strong
+## Hitpael Participle Strong Paradigm
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -189,8 +246,27 @@ Pual | מְ
 Hiphil | ַמ
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
-HITPAEL | <span class="he">תִמְ</span>
+HITPAEL | <span class="he">מִתְ</span>
 
+## What to memorize: Hitpael
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* "Signature" tD Prefix: <span class="he">הִתְ</span> (and so forth for the other conjugations)
+* $R_2$ takes Daghesh Forte
 
 ## Stem Comparison Table
 
@@ -242,14 +318,14 @@ YOUR QUEST
 
 <!-- Lesson 34 Tribe Badge 12 = ZEBULUN -->
 
-Once you have completed <span class="he">all activities<span class="he"> through this lesson, fill out the form below, and receive your next badge!
+Once you have completed **all activities** through this lesson, fill out the form below, and receive your next badge!
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ejQEQDRGZJT1v8jE6" frameborder="0"></iframe>
 </div>
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Leviticus 23 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Leviticus 23 {-}
 
 
 ::: {.box .map}
@@ -270,3 +346,12 @@ YOUR HEBREW QUEST
 6. Complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/38/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/nyO8SUVgsPY){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/34-35_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-34.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_34.pdf){target=“_blank”}
+* [Dr Beckman Parsing video for Chapter 34](http://youtu.be/RAyIxdXxZ6k){target=“_blank”} 
+* [Quiz for Chapter 34](https://hebrewsyntax.org/bbh2new/34_quiz_new.pdf){target=“_blank”} 

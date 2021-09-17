@@ -1,7 +1,22 @@
-# The Niphal Stem - Weak Verbs {.N-w}
+# The Niphal Stem - Weak {.N-w}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 
-Now that we have learned the basic ground rules for the Niphal stem in Lesson 24, we now turn our attention to the spelling changes caused by verbs with one or more weak letters.  
+Now that we have learned the basic ground rules for the Niphal stem in Lesson 24, we turn our attention to the spelling changes caused by verbs with one or more weak letters.  
 
 In all stems, weak verbs tend to be much more prevalent.   We start by learning the strong verb patterns, then we can "manage by exception" to diagnose the corresponding weak verbs.
 
@@ -27,22 +42,26 @@ Before continuing, can you describe the following concepts from Lesson 24?
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25-9.Isaiah62.12.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ###  <span class="he">וְקָרְא֥וּ לָהֶ֛ם עַם־הַקֹּ֖דֶשׁ גְּאוּלֵ֣י יְהוָ֑ה וְלָךְ֙ יִקָּרֵ֣א דְרוּשָׁ֔ה עִ֖יר לֹ֥א נֶעֱזָֽבָה׃</span> {-}
 
 *And they will call them, "The holy people, The redeemed of Adonai"; And you will be called, "Sought out, a city not forsaken." (Isaiah 62:12)*
 
 We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a chance to reflect on what it means to be redeemed and live our lives accordingly.
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/25-13.Isaiah65.19.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 
 
@@ -54,25 +73,75 @@ knitr::include_graphics("images/25.Sunrise over Mount of Olives, tb031605564.jpg
 
 ## A weak consonant affects the vowels that touch it
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+You may have noticed that a weak letter not only affects its own vowel, but it can also affect the vowel that immediately precedes.  This is usually through compensatory lengthening or virtual doubling (which as remember is virtually NO doubling because nothing visibly changes):
+
 * A weak $R_1$ affects $V_P$ and $V_1$ (but NOT $V_S$)
 * A weak $R_2$ affects $V_S$ and $V_1$ (but NOT $V_P$)
 * A weak $R_3$ affects $V_S$ and sufformative (but NOT $V_1$ or $V_P$)
 
 
-## 1-Guttural 
+## 1-Guttural / 1-Resh
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 * Guttural takes Hateph Vowel instead of Sheva
-    * Remember the Rule of Sheva - "Hateph Copy Cat"
+    * Remember the Rule of Sheva - 
     * Whichever Hateph vowel is under the guttural, the Niphal prefix will take the corresponding short vowel
         * Strong - <span class="he">נִקְ</span>
-        * 1G - <span class="he">נַעֲ</span> or <span class="he">נֶאֱ</span>
-    * If $R_2$ has a Sheva, then $R_1$ lengthens from Hateph to its corresponding short vowel
-        * 1G -<span class="he">נֶאֶמְ</span>
-* Guttural and Resh reject Dagesh Forte
+        * 1G - <span class="he">נַעֲ</span> or <span class="he">נֶאֱ</span> (which we can imagine itself has been affected by the Rule of Sheva)
+    * If $R_2$ has a Sheva (e.g. NP3cp), then $V_1$ lengthens from its Hateph vowel to its corresponding short vowel
+        * 1G -<span class="he">נֶאֶמְ</span>, using א and ע to represent any guttural
+* Guttural and Resh reject Dagesh Forte - expect Compensatory Lengthening
     * Strong - <span class="he">הִקָּ</span>
     * 1G/1R - <span class="he">יֵעָ</span>
+    * Because Niphal has forms that put a Daghesh Forte in $R_1$, 1-ר verbs are considered Weak verbs in the Niphal, whereas they were Strong in the Qal
 
 ## 1י
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 ::: {.box .info}
 * Historically, in the evolution of the language, most 1-Yod verbs used to begin with a Vav
@@ -84,7 +153,7 @@ knitr::include_graphics("images/25.Sunrise over Mount of Olives, tb031605564.jpg
     * Participle - NOT *<span class="he">נִיְשָׁב</span>, but <span class="he">נוֹשָׁב</span>
 * 1-Yod shifts to consonantal Vav when $Pre =$ <span class="he">יִקָּ</span> (or similar)
     * Imperfect - NOT *<span class="he">יִיָּשֶׁב</span>, but <span class="he">יִוָּשֶׁב</span>
-        * Imperfect 1C is ALWAYS <span class="he">אִ</span>, NOT *<span class="he">אֶ</span> if 1-Yod 
+        * Imperfect 1cs is ALWAYS <span class="he">אִ</span>, NOT *<span class="he">אֶ</span> if 1-Yod 
     * Imperative - NOT *<span class="he">הִיָּשֵׁב</span>, but <span class="he">הִוָּשֵׁב</span>
 
 ::: {.box .light}
@@ -94,32 +163,83 @@ If you see what looks like a "1-Vav" verb, parse it as 1-Yod
 
 ## 1נ with Silent Sheva Assimilates
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 * When Niphal $Pre =$ <span class="he">נִקְ</span>:
     * NP3ms - NOT *<span class="he">נִנְצַל</span> but <span class="he">נִצַּל</span>
-    * NPtMS - NOT *<span class="he">נִנְטָל</span> but <span class="he">נִצָּל</span>
+    * NPtMS - NOT *<span class="he">נִנְצָל</span> but <span class="he">נִצָּל</span>
 
-## 3א Changes $V_S$
+## 3א 
 
-::: {.map .light}
-You can usually parse a 3-Aleph verb based on the preformative alone
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
 
 * For 3-Aleph, there is a unique Niphal $V_S$ formula
 
-$$V_S = \bar A(\bar E) \sim \bar E(E)$$
+$$V_S = \bar A[\bar E] \sim \bar E(E)$$
+
+
+
 
 * You do not need to memorize the changed pattern since you can still parse based on the preformative
-* $\bar A(\bar E)$ means:
-    * $\bar A$ (Qamets) in the NP <u>3rd person</u> reduced (except in 3ms)
-    * $(\bar E)$ (Tsere) in the NP <u>1st and 2nd person</u>
-* NPt is still the P3ms $V_S$ lengthened
-    * $\bar A$ is already a long vowel
-    * So 3-Aleph NP3ms and NPtMS have the same spelling
-    * <span class="he">נִמְצָא</span> is NP3ms or NPtMS
+* In the interest of thoroughness:
+    * $\bar A(\bar E)$ means:
+        * $\bar A$ (Qamets) in the NP <u>3rd person</u> 
+        * $[\bar E]$ (Tsere) in the NP <u>1st and 2nd person</u>
+    * NPt is still the P3ms $V_S$ lengthened
+        * $\bar A$ is already a long vowel
+        * So 3-Aleph NP3ms and NPtMS have the same spelling
+        * <span class="he">נִמְצָא</span> is NP3ms or NPtMS
     
-## 3ה Verbs Follow the same general principles
+::: {.box .light}
+You can usually parse a 3-Aleph verb based on the $Pre$ formula
+:::
 
-::: {.map .info}
+## 3ה Verbs follow the same general principles
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+::: {.box .info}
 To review: 
 
 * 3-ה verbs have two root consonants, not three
@@ -157,30 +277,55 @@ Review 3ה endings by Conjugation:
 
 ## What to Memorize for Niphal Weak
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 ::: {.box .light}
 Think your way through the weak verb $Pre$ to get back to the Niphal Strong $Pre$
 :::
 
-* 1G - $Pre$ <span class="he">נַעֲ</span> or <span class="he">נֶאֱ </span> or <span class="he">נֶאֶמְ</span> is the same as strong $Pre$ <span class="he">נִקְ</span>
-* 1G/R - $Pre =$ <span class="he">הֵרָ</span> is the same as strong $Pre =$ <span class="he">הִקָּ</span>
-* 1Y - $Pre =$ <span class="he">נוֹ</span> is the same as strong $Pre =$ <span class="he">נִקְ</span>
-* 1N - $Pre =$ <span class="he">ָנִתּ</span> is the same as strong $Pre =$ <span class="he">נִקְתַ</span>
+* 1G reject Sheva in $R_1$ in the Niphal Perfect forms - apply the Rule of Sheva
+    * $Pre$ <span class="he">נַעֲ</span> or <span class="he">נֶאֱ </span> or <span class="he">נֶאֶמְ</span> is the same as strong $Pre$ <span class="he">נִקְ</span> 
+* 1G/ר reject the Daghesh Forte in $R_1$ in the Niphal Imperfect forms - compensatory lengthening
+    * $Pre =$ <span class="he">הֵרָ</span> is the same as strong $Pre =$ <span class="he">הִקָּ</span>
+* 1י were originally 1ו - will take Holem+Vav in the Perfect forms, and Consonantal Vav (with a Daghesh Forte) in the Imperfect forms
+    * $Pre =$ <span class="he">נוֹ</span> is the same as strong $Pre =$ <span class="he">נִקְ</span> 
+* 1נ - Niphal Perfect forms want a silent sheva in R$_1$ - a נ with a Silent Sheva assimilated into a Daghesh Forte in $R_2$ (if possible)
+    * $Pre =$ <span class="he">נִטַּ</span> is the same as strong $Pre =$ <span class="he">נִקְטַ</span>
+* 3ה verbs behave as they did in the Qal - add the appropriate 3ה ending or vowel + י combination
 
-Also:
-
-* Verbs that look "1-Vav" are actually 1-Yod - <span class="he">יִוָּשֵׁב</span>
-* Memorize the list of 3-ה verb endings:
-
-| Conj | Hebrew | Vowel
-| :- | :- | :-
-| P | <span class="he">בָּנָה</span> | Qamets+Hei
-| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
-| M | <span class="he">בְּנֵה</span> | Tsere+Hei
-| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
-| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
-| Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
 
 ## Top 10 Niphal Verbs 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 
 1. <span class="he">לָחַם</span> - (Q, N) to fight, do battle with (167x in Niphal Stem)
 1. <span class="he">שָׁבַע</span> - (N) to swear, swear (take) an oath, adjure (154x)
@@ -224,7 +369,7 @@ You are likely unfamiliar with the meanings of at least two of these.  Identify 
 By now, if you have been completing your `Ruth Pursuit` table along with each lesson, you may have noted that there aren't that many words left in the passage that we haven't translated.  This may make it easier for you to identify the remaining verbs by process of elimination, but make sure you understand WHY the words you select are Niphal.
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #25](./images/25_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## Claim your next `Twelve Tribes Badge`! {-}
@@ -238,7 +383,7 @@ Once you have completed all activities through this lesson, complete the form be
 </div>
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: John 1 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: John 1 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -249,3 +394,13 @@ YOUR HEBREW QUEST:
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/UqarSC_Wt4Y){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/25_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-25.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_25.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/25_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/25_quiz_practice.pdf){target=“_blank”}

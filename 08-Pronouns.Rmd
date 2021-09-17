@@ -647,7 +647,7 @@ Identify each occurrence of the following:
     
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -658,4 +658,18 @@ Identify each occurrence of the following:
 <div class="container">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSd4cI1lk3APqQvyt8FT7muC_i3dR-wwiD6zgIdKwJCiXbgMuQ/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/rdDReLZher0){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/08_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-08.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_08.pdf){target=“_blank”}
+* Paradigm PDF
+    *[Subject](https://hebrewsyntax.org/bbh2new/08_subject_paradigm.pdf){target=“_blank”}
+    * [Demonstrative](https://hebrewsyntax.org/bbh2new/08_demonstrative_paradigm.pdf){target=“_blank”}
+* Additional Drills/Worksheets
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/08_quiz_new.pdf){target=“_blank”} 
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/08_quiz_practice.pdf){target=“_blank”} 
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/08_quiz_paradigms_7_8.pdf){target=“_blank”}
 

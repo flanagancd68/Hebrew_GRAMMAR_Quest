@@ -1,4 +1,19 @@
-# The Pual Stem - Strong Verbs {.Dp-s}
+# The Pual Stem - Strong {.Dp-s}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 The Pual stem has a diagnostic Qibbuts as $V_1$, making this stem easy to recognize. 
 
@@ -25,6 +40,21 @@ Before continuing, be sure you can describe the diagnostics of the Piel Strong P
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28-1.Proverbs16.6.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">בְּחֶ֣סֶד וֶ֭אֱמֶת יְכֻפַּ֣ר עָוֺ֑ן וּבְיִרְאַ֥ת יְ֝הוָ֗ה ס֣וּר מֵרָֽע׃</span> {-}
 
 *By lovingkindness and truth iniquity is atoned for, And by the fear of Adonai, one keeps away from evil. (Proverbs 16:6)*
@@ -33,19 +63,6 @@ This verse is interesting.  Our traditional beliefs would probably be closer to 
 
 How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and truth can cover (כפר) our sins? 
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/28-1.Proverbs16.6.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
-
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg")
@@ -53,7 +70,22 @@ knitr::include_graphics("images/28_Megiddo pass aerial from northeast, tbs120140
 
 
 
-## Pual Verb Stem Table and Meaning
+## Pual Verb Stem Table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -76,42 +108,40 @@ The Pual is the Passive of the Piel, or sometimes, the passive of the Qal
 
 
 
-## Parsing Clues - _Pre_: $V_1 = U$ - ALWAYS for strong verbs
+## Parsing Clues - $V_1 = U$ - ALWAYS for strong verbs
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * The Pual is very consistent, making it easily recognizable
     * $V_1 = U$ - ALWAYS for strong verbs
-* Perfect: <span class="he">קֻטּ</span>
-* Imperfect: <span class="he">יְקֻטּּ</span>
+* The Pual retains the Daghesh Forte in $R_2$
+* $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
+    * I.e. $V_S = A \sim A$
+    * Pt lengthens as expected: $V_S = \bar A$
+* Perfect: $Pre =$ <span class="he">קֻטַּ</span>
+* Imperfect: $Pre =$ <span class="he">ַיְקֻטַּ</span>
     * $V_P = ə$ (I1cs/I1cp never occurs)
-* Participle: <span class="he">מְקֻטּ</span>
+* Participle: $Pre =$ <span class="he">מְקֻטָּ</span>
 
 ::: {.box .light}
 The Qibbuts under the first root consonant distinguishes the Pual Form
 :::
 
-## Parsing Clues - $V_S = A$ and Dagesh Forte in $R_2$
 
-* $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
-    * I.e. $V_S = A \sim A$
-    * Pt lengthens as expected: $V_S = \bar A$
-* The Pual retains the other diagnostics of the Piel:
-    * Daghesh Forte in $R_2$
-
-
-
-
-## Pual: what to memorize
-
-* Parsing code: Dp
-    * 'D' because $R_2$ is doubled
-    * 'p' because passive
-* $V_P = \ :$
-* $V_1 = U$
-* $V_S = A$
-* Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
-* Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
-
-## Perfect  
+## Pual Perfect Paradigm
 
 Qibbuts in $V_1$ always
 
@@ -119,7 +149,7 @@ Qibbuts in $V_1$ always
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">קֻטַּל</span>  | 3cp | <span class="he">קֻטְּלוּ</span> 
 | 3fs | <span class="he">קֻטְּלָה</span> | 
-| 2ms | <span class="he">קִטַּ֫לְתָּ</span> | 2mp | <span class="he">קֻטַּלְתֶּם</span>
+| 2ms | <span class="he">קִֻטַּ֫לְתָּ</span> | 2mp | <span class="he">קֻטַּלְתֶּם</span>
 | 2fs | <span class="he">קֻטַּלְתְּ</span> | 2fp | <span class="he">קֻטַּלְתֶּן</span>
 | 1cs | <span class="he">קֻטַּ֫לְתִּי</span> | 1cp | <span class="he">קֻטַּ֫לְנוּ</span>
 
@@ -134,10 +164,10 @@ Qibbuts in $V_1$ always
 </figure>
 
 
-## Imperfect  
+## Pual Imperfect Paradigm
 
 * Qibbuts in $V_1 = U$ always
-* If there is a preformative, $V_P = \ :$ always
+* If there is a preformative, $V_P = \ :$ always (Hateph Patach in 1cs)
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -158,10 +188,10 @@ Qibbuts in $V_1$ always
 </figure>
 
 
-## Participle
+## Pual Participle Paradigm
 
 * Qibbuts in $V_1$ always
-* Mem+Sheva prefix always
+* Mem+Sheva מְ prefix always
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -181,6 +211,32 @@ Hiphil | ַמ
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 Hithpael | תִמְ
+
+## Pual: what to memorize
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Parsing code: Dp
+    * 'D' because $R_2$ is doubled
+    * 'p' because passive
+* $V_P = \ :$
+* $V_1 = U$
+* $V_S = A$
+* Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
+* Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
 
 ## Pual Parsing Examples
 
@@ -206,7 +262,7 @@ include_graphics("images/28_stemcomp.png")
 
 After memorizing the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
 
-[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
+[Pual Strong Paradigms](./images/28_pual_strong_paradigms.pdf){target="_blank"}
 
 
 ## Word Warm-up {-}
@@ -259,7 +315,7 @@ Once you have completed all activities through this lesson, fill out the form be
 </div>
 
 
-## OPTIONAL Hebrew Quest Study Passage: Revelation 1 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Revelation 1 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST
@@ -271,4 +327,14 @@ YOUR HEBREW QUEST
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/fFF0iqcTdIQ){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/28_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-28.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_28.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/28_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/28_quiz_practice.pdf){target=“_blank”}
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/28_quiz_strong_verb_summary.pdf){target=“_blank”}
 

@@ -1,4 +1,4 @@
-# Introduction to Hebrew Verbs
+# Introduction to Verbs
 
 ::: {.infobox .sound}
 <figure>
@@ -1398,3 +1398,12 @@ YOUR HEBREW QUEST!
 :::
 
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/YgpyuYqIU7k){target="_blank"}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/12_overheads_bw.pdf){target="_blank"}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-12.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_12.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/12_quiz_new.pdf){target="_blank"}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/12_quiz_practice.pdf){target="_blank"}

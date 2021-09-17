@@ -1,4 +1,19 @@
-# The Hophal Stem - Weak Verbs {.Hp-w}
+# The Hophal Stem - Weak {.Hp-w}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Most of the Hopal verbs in the Bible are weak.  As with all the forms, we start with the strong verb diagnostics.  This makes it easier to understand the spelling changes that occur with weak verbs.  By now, you should be well-acquainted with the concepts discussed in this lesson.
 
@@ -19,24 +34,26 @@ Before continuing, be sure you can identify Hophal Perfect, Imperfect, and Parti
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33-7.Isaiah24.12.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">נִשְׁאַ֥ר בָּעִ֖יר שַׁמָּ֑ה וּשְׁאִיָּ֖ה יֻכַּת־שָֽׁעַר׃ </span> {-}
 
 *Desolation is left in the city; and the gate is battered to ruins. (Isaiah 24:12)*
 
 As people of God, we are sometimes faced with situations where we are tempted to ask, "How could He let this happen?" The people of Isaiah's time who witnessed the destruction of Jerusalem indeed had similar questions. Most of the time, we can not provide a satisfactory answer. The only right choice is to relinquish any notion that we can control the situation and, like Job, trust in Him no matter what the outcome.
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/33-7.Isaiah24.12.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
@@ -50,13 +67,44 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 
 ## 1G and 3ה Verbs prefer Qamets Hatuf as $V_P$
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * $V_P = O$ 
-* $V_1 = \breve O$ (Hateph Qamets Hatuf)
+* $V_1 = \breve O$ (Hateph Qamets Hatuf) when 1G
 * $V_S = A$, which follows the strong paradigm
+* 3ה verbs behave as expected
 
 
 
 ## 1נ assimilates as expected
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Since $V_1$ is a Sheva, 1נ assimilates just as it does with QI and NP
 * $R_2$ will take a Daghesh Forte, if allowed
@@ -67,7 +115,22 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 
 
 
-## Geminate/Biconsonant prefer Shureq as $V_P$
+## Geminate/Biconsonantal prefer Shureq as $V_P$
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * The medial letter of the biconsonantal verb is dropped
 * Only one geminate consonant is preserved - where possible, a Daghesh Forte will appear in the remaining consonant
@@ -106,7 +169,7 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 45 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Psalms 45 {-}
 
 
 ::: {.box .map}
@@ -125,3 +188,15 @@ YOUR HEBREW QUEST
 6. Complete Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/37/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 :::
+
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/CeGTW1NOmrc){target=“_blank”} - combined with Lesson 32
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/32-33_overheads_bw.pdf){target=“_blank”} - combined with lesson 32
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-33.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_33.pdf){target=“_blank”}
+* [Dr. Beckman additional parsing practice video](http://youtu.be/gasuAqRqp_o){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz](https://hebrewsyntax.org/bbh2new/33_quiz_practice.pdf){target=“_blank”} 
+    

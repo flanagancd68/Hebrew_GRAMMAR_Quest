@@ -1,9 +1,19 @@
-# The Hiphil Stem - Weak Verbs {.H-w}
+# The Hiphil Stem - Weak {.H-w}
 
-
-The Hiphil stem is relatively common in Scripture, occurring 9,496.  In fact, it is the most frequently occurring of the derived stems.
-
-Primarily, the Hiphil stem has a causative action.  For example, the root זכר means "he remembered" in the Qal Perfect 3ms.  That root would mean "he caused to remember," i.e., "he reminded" in the Hiphil Perfect 3ms. 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Hiphil has a distinctive prefix (remember, "Hiphil-Haphil"), and a distinctive $\hat I$ in the 3rd person Perfect as well as most non-Perfect forms.  For the most part, these diagnostic features are retained in weak verbs.  This lesson will review some of the major exceptions to the Hiphil strong verb paradigm.
 
@@ -27,30 +37,34 @@ Hiphil weak verb principles as they related to the following:
 Before continuing, can you describe the following concepts?
 
 * Parsing code H
-* Hiphîl-Haphîl
+* Hiphîl-Haphîl (and the `Strong Summary` from Lesson 30)
 * $V_S = \hat I(A) \sim \hat I(\bar E)$
+
 :::
 
 ## First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31-1.Psalms19.8.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 ### <span class="he">תּ֘וֹרַ֤ת יְהוָ֣ה תְּ֭מִימָה מְשִׁ֣יבַת נָ֑פֶשׁ עֵד֥וּת יְהוָ֥ה נֶ֝אֱמָנָ֗ה מַחְכִּ֥ימַת פֶּֽתִי׃</span> {-}
 
 *The precepts of Adonai are right, rejoicing the heart; The commandment of Adonai is pure, enlightening the eyes. (Psalms 19:8)*
 
 The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, the 10 commandments. Let us delight in the Law of Adonai!
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/31-1.Psalms19.8.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
@@ -60,6 +74,22 @@ knitr::include_graphics("images/31_Men touching Torah Scroll at Western Wall, tb
 
 
 ## Weak Verbs Review: 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 * A weak consonant affects the vowels that touch it
     * A weak $R_1$ affects $V_P$ and $V_1$ (but NOT $V_S$)
@@ -73,28 +103,30 @@ knitr::include_graphics("images/31_Men touching Torah Scroll at Western Wall, tb
 Distrust vowels on or immediately before weak letters
 :::
 
-## Strong Summary
-
-* In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
-    * The exceptions come when $R_1$ is a weak letter (discussed in this lesson)
-* Hiphil $Pre$ sequences:
-    * <span class="he">ְ הִ</span> - HP
-    * <span class="he">ְ יַ</span> - (etc.) HI
-    * <span class="he">ְ הַ</span> - HM/H∞/HA
-    * <span class="he">ְ מַ</span> - HPt
-* $V_S = Î[A] \sim Î(Ē)$
-    * It's important to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
-    
+  
 
 ## 1-Guttural
 
-The changes below **ONLY** apply to 1G Imperfect Verbs
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
-* When Hiphil 1G $V_1$ takes Hateph vowel, this means $V_P$ is affected by the Rule of Sheva
+
+* Hiphil 1G $V_1$ takes Hateph vowel; this means $V_P$ is affected by the Rule of Sheva
 * The same thing occurs in the Qal Imperfect
-* Therefore, the $Pre$ for the Hiphil and the Qal will be identical: <span class="he">יֶעֱ</span> or <span class="he">יַעֲ</span>
+* Therefore, the $Pre$ for the Hiphil imperfect and the Qal Imperfect will be identical: <span class="he">יֶעֱ</span> or <span class="he">יַעֲ</span>
 * But (good news!), Hiphil has $V_S = \hat I$ which never reduces, so this is how we can distinguish
-* All others:<span class="he">יַעֲמִיד</span>
     * <span class="he">יַעֲמִיד</span> is HI3ms because $V_S = \hat I$, which is diagnostic of Hiphil
     * <span class="he">יַעֲמֹד</span> is QI3ms because $V_S = O$, which is diagnostic of Qal Imperfect
 
@@ -108,27 +140,72 @@ AMBIGUITIES
 
 ## 2-Guttural
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * No changes
-* 2G reject Dagesh Forte, but this is not applicable for Hiphil<small>^[<small>Potentially, we could have a verb that is both 1נ and 2G.  We would think the Nun with $V_1 = \ :$ would assimilate into a Dagesh Forte that is ultimately rejected. In our vocab, we only have one such verb: נחם (to be sorry, regret).  What ends up happening is the ח's rejection of the Dagesh causes Compensatory Lengthening in $V_1$ of the נ.  Since the נ only assimilates when it has a Sheva, the Nun no longer wants assimilate.  The end result is that all three root letters of נחם are visible with the Hiphil $Pre$ and $V_S$ intact.</small>]</small>
+* 2G reject Dagesh Forte, but this is not applicable for Hiphil^[Potentially, we could have a verb that is both 1נ and 2G.  We would think the Nun with $V_1 = \ :$ would assimilate into a Dagesh Forte that is ultimately rejected. In our vocab, we only have one such verb: נחם (to be sorry, regret).  What ends up happening is the ח's rejection of the Dagesh causes Compensatory Lengthening in $V_1$ of the נ.  Since the נ only assimilates when it has a Sheva, the Nun no longer wants assimilate.  The end result is that all three root letters of נחם are visible with the Hiphil $Pre$ and $V_S$ intact.]
 * 2G rejects Vocal Sheva but the $V_S = \hat I$ will never reduce to a Sheva
 
 ## 3א and 3עח
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * 3-Guttural can tweak the $V_S$, so we can't use $V_S$ for parsing
 * Parse based on the word's $Pre$ sequence
 * With 3עח, $V_S = A$
-    * The Furtive Patach is hit or miss, but we can ignore it<small>^[<small>There is logic.  It appears if the 3עח is word-final and $V_2 \not = A \ or \ \bar A$</small>]</small>
-    * $V_S = A$ for FP Imperfect and Imperative with 3עח
 * With 3א, the א usually quiesces
     * The sufformative will lose its Dagesh Lene
     * The $V_S$ often switches, so we do not rely on it for parsing
 
+
 ## 3ה
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * The usual changes
 * If no sufformative, add final vowel letter (see table below)
 * If sufformative begins with a vowel, that sufformative replaces $V_2$
 * If sufformative begins with a consonant, add the applicable (vowel)+Yod
+* Parse based on the word's $Pre$ sequence and the applicable 3ה vowel changes
 
 | Conj | Hebrew | Vowel when no sufformative
 | :- | :- | :-
@@ -142,21 +219,43 @@ AMBIGUITIES
 
 ## 1נ always assimilates in Hiphil
 
-* Always $V_1 = \ :$ in Hiphil
-* When $R_1 =$ נ, and $V_1 = \ :$, the נ will always assimilate
-* Therefore, 1נ always assimilates in Hiphil
-
-::: {.box .caution}
-POTENTIAL LOOK-ALIKES
-
-Need to watch $R_1$ vs $R_2$ to avoid confusion with Niphil<small>^[<small>Dr. Beckman also notes a potential for ambiguity if a 1נ and a 1ה verb shared the same $R_2$ and $R_3$.  When you saw the ּ הַ , you would not know whether you are looking at the ה of the Hiphil prefix with an assimilated Nun or the first ה of a Piel verb.  In our first year Hebrew course, we do not have any vocabulary verbs where this potential could occur, so we will save this discussion for Intermediate Hebrew.</small>]</small>
-
-    * <span class="he">הִצִּילוּ</span> is Hiphil with 1נ assimilated
-    * <span class="he">הִנָּצְלוּ</span> is Niphal with נ prefix assimilated
-
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
 
+* Always $V_1 = \ :$ in Hiphil
+* When $R_1 =$ נ, and $V_1 = \ :$, the נ will always assimilate
+* There will still be the applicable preformative and $V_P$
+
+
+
 ## 1י 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * 1י were originally 1ו
 * In the Hiphil, 1י becomes $V_P = \hat O \ or \ O$:
@@ -164,17 +263,24 @@ Need to watch $R_1$ vs $R_2$ to avoid confusion with Niphil<small>^[<small>Dr. B
     * <span class="he">יוֹשִׁיט</span>
     * <span class="he">הוֹשֵׁב</span>
 
-::: {.box .caution}
-POTENTIAL LOOK-ALIKES
 
-* QPtms (Strong): <span class="he">קֹטֵל</span>
-* DP3ms (2G): <span class="he">בֹּרַךְ</span>
-* HP3ms (1י): <span class="he">הֹדִיע</span>
-
-The $\hat O$ may be written defectively or plene in any of the above forms  
-:::
 
 ## Biconsonantal Hiphil
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Biconsonantal verbs tweak $V_P$ so we can't rely on it
 * Good news: $V_S = \hat I$, except in FP imperfect and FP imperative, where $V_S = \bar E$
@@ -249,7 +355,7 @@ Once you have completed all activities through this lesson, fill out the form be
 <iframe class="responsive-iframe" src="https://forms.gle/gD1doxWveXuijHUF6" frameborder="0"></iframe>
 </div>
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 20 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Exodus 20 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST
@@ -261,3 +367,17 @@ YOUR HEBREW QUEST
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/QrjD4dFFTiM){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/31_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-31.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_31.pdf){target=“_blank”}
+* [Dr. Beckman additional parsing practice video] (http://youtu.be/jytjiKkTNl8){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet.pdf){target=“_blank”}
+* [Dr. Beckman parsing review chapters 14-31 video](http://youtu.be/xN72q4R_DWs){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet_14.pdf){target=“_blank”} 
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/31_quiz_new.pdf){target=“_blank”}
+   * [Quiz b](https://hebrewsyntax.org/bbh2new/31_quiz_practice.pdf){target=“_blank”}
+    * [Quiz parsing](https://hebrewsyntax.org/bbh2new/31_parsing_practice_quiz.pdf){target=“_blank”} 
+        * [Parsing Quiz answers explained](http://youtu.be/BZ3bAp3gxow){target=“_blank”}

@@ -1,20 +1,37 @@
 # Conclusion {-}
 
-We would like to take a moment and recap all that you have accomplished in His strength.  Each section will also have tips and references on where you can go next.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/36.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+We would like to take a moment and recap all that you have accomplished in His strength.  Each section will also have tips and references on where you can go next.^[Of note, for Chapter 36, the _Basics of Biblical Hebrew_ textbook discusses several historical and textual matters regarding the Masoretic text and the _Biblia Hebraica Stuttgartensia_, often abbreviated BHS. While interesting, we believe most of this information is beyond what the majority of Holy Language students want or need. We are going to conclude our course with a celebration and recommendations for next steps. If you are interested in the BHS topic, a link to Dr. Beckman's lecture video is included in the `Lesson Extras` section.]
 
 * Vocabulary
-    * What you have accomplished: 570 of the most common Biblical Hebrew words committed to memory!
-    * Where you can go next: Continue to grow your vocabulary, both by isolated word memorization, such as by learning the top 1000 (or more) Biblical Hebrew words and, of course, by continuing to read your Hebrew Bible.  For word memorization, there are modules on Memrise and Anki that are free (these are not affiliated with Holy Language Institute)
+    * _What you have accomplished_: 570 of the most common Biblical Hebrew words committed to memory!
+    * _Where you can go next_: Continue to grow your vocabulary, both by isolated word memorization, such as by learning the top 1000 (or more) Biblical Hebrew words and, of course, by continuing to read your Hebrew Bible.  For word memorization, there are modules on Memrise and Anki that are free (these are not affiliated with Holy Language Institute)
 * Bible Verses
-    * _What you have accomplished_:
-    * _Where you can go next_:
-* Hebrew Quest Study Passages (optional track)
+    * _What you have accomplished_: Over 500 Bible verses in Hebrew, including many grammatically challenging concepts
+    * _Where you can go next_: 
+        * Grab a Tanach and a study guide and dig in!
+        * If you haven't already done so, check out Dr. Beckman's lecture on [How to prepare a passage](https://www.youtube.com/watch?v=5v8KvmEtZy0&t=2918s){target="_blank"}
+* Hebrew Quest Study Passages ("Honors" track)
     * _What you have accomplished_: You have studied 20 distinct passages, most of which were full chapters of the Hebrew Bible or passages from the Delitsch Hebrew New Testament.  You have also completed the 17-lesson "Premium Proverbs" study.
     * _Where you can go next_:
         * Complete _Hebrew Quest_ if you have not already done so!
         * After _Hebrew Quest_, review Izzy's [Hebrew Verses](https://holylanguage.com/verses.html) studies.  Hebrew Verses picks up where Hebrew Quest left off.
-* Ruth
-    * _What you have accomplished_: You have skimmed, if not read entirely through, Ruth Chapter one at least 35 times and written your own translations.
+* Ruth Pursuit
+    * _What you have accomplished_: You have skimmed, if not read entirely through, Ruth Chapter one at least 30 times.  The `Ruth Pursuit Analysis` was your introduction to intermediate Hebrew, where you took the first-year grammar concepts and applied them to a passage of Scripture to compose your own translation.
     * _Where you can go next_: INTERMEDIATE HEBREW!
         * You can review [Dr. Beckman's Notes on Ruth](./images/00_Ruth_notes.pdf){target="_blank"}
     * We can recommend two Intermediate Hebrew books:
@@ -22,10 +39,27 @@ We would like to take a moment and recap all that you have accomplished in His s
         * The same author has [From Exegesis to Exposition: A Practical Guide to Using Biblical Hebrew](https://www.amazon.com/gp/product/B009UOG4N4/&tag=holylanginst-20){target="_blank"}
 
 
+### Overall Next steps {-}
+
+* Praise HaShem for the work He is doing in you
+* Continue with Intermediate Hebrew
+* Volunteer with Holy Language Institute
+* Help someone else learn Hebrew - "pay it forward"
+
+>Congratulations again.  We are proud of you!
+
+Izzy Avraham and Chris Flanagan
 
 
-**Next steps**: Continue with Intermediate Hebrew!
+## Lesson Extras
 
+* [Dr. Beckman Lecture Video](http://youtu.be/5v8KvmEtZy0){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/36_overheads_bw4.pdf){target=“_blank”}
 
+## You did it!  Claim your Diploma! {-}
 
+Once all Anki cards are `Mature`, please complete the attached form to begin the Graduation process and earn your Hebrew GRAMMAR Quest Diploma!      
 
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://forms.gle/eyX82mzkCjoh9oM56" frameborder="0"></iframe>
+</div>

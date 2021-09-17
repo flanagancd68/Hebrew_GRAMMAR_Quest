@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-09-15"
+#date: "2021-09-17"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-09-15</small>
+<small>*Updated*: 2021-09-17</small>
 
 <small>
 
@@ -454,19 +454,23 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 1. Change `USER1` Name to your name
     1. In Anki, click `File`, then `Switch Profile`  
     2. Select `User 1`, then `Rename` and type your name
-2. To change learning settings, click `Tools,` then `Preferences.` Make sure your settings match the images below:
+2. To change learning settings, click the gear button next to "Hebrew Grammar Quest", then click `Options`
+<div class="figure" style="text-align: center">
+<img src="images/00.anki_options.png" alt="Anki Deck Options" width="250pt" />
+<p class="caption">(\#fig:unnamed-chunk-4)Anki Deck Options</p>
+</div>
+3. Make sure your settings match the images below:
 
 ### Daily limits and New Cards {-}
 
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings01.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-4)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
 </div>
 
 ::: {.box .info}
-INSERTION ORDER
-
-If you find `Sequential` is too easy, you might try to switch to `Random`.
+* NEW CARDS/DAY: You are welcome to enter any number you wish, but lower numbers mean it will take longer to get through the entire deck.  `200` is recommended, but this does not mean you have to do 200 new cards in one day or the next day you will have 400 new cards.  You will never have more new cards than the number entered here. 
+* INSERTION ORDER: If you find `Sequential` is too easy, you might try to switch to `Random`.
 
 :::
 
@@ -475,7 +479,7 @@ If you find `Sequential` is too easy, you might try to switch to `Random`.
 `Show answer timer` is optional.
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings02.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
 </div>
 
 
@@ -484,14 +488,14 @@ If you find `Sequential` is too easy, you might try to switch to `Random`.
 Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings03.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-7)Settings</p>
 </div>
 
 ### Advanced {-}
  
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings04.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-7)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-8)Settings</p>
 </div>
 
 ::: {.box .info}
@@ -508,14 +512,14 @@ Anki Add-ons
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_more_stats.png" alt="Settings" width="500pt" />
-<p class="caption">(\#fig:unnamed-chunk-8)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-9)Settings</p>
 </div>
 
 ## `HGQ Custom Words` Deck {-}
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_custom.png" alt="Settings" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-9)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-10)Settings</p>
 </div>
 
 * On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
@@ -549,7 +553,7 @@ Anki Add-ons
 
 <div class="figure" style="text-align: center">
 <img src="images/00.ankinavigate.png" alt="Settings" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-10)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-11)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -606,7 +610,7 @@ Several of the cards have silly mnemonics.  As we borrowed and reformatted the `
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_good.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-11)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-12)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -921,10 +925,7 @@ OPTIONAL:
 Below are additional resources, some of which are free and some paid:
 
 * Free of charge
-  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to his videos and handouts.  Everything on [his site](https://hebrewsyntax.org/bbh2new/){target="_blank"} is free.
-  * Dr. Bill Mounce has study guides available for each Chapter of _Basics of Biblical Hebrew_
-    * In most cases, these will not add much to the lessons in Hebrew GRAMMAR Quest, but some students might find them valuable
-    * For Chapter 1, click [http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target="_blank"}; for other chapters, change the `01` in the URL to the chapter number you are seeking^[Except Chapter 4, which for some reason, is not available.]
+  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to his videos and handouts.  Everything on [his site](https://hebrewsyntax.org/bbh2new/){target="_blank"} is free.  We have included most of these resources in our `Lesson Extras` sections.
   * [The Basics of Biblical Hebrew Lexicon](./images/BBH_Lexicon.pdf){target="_blank"}
     * A `lexicon` and a `dictionary` are virtually synonymous terms - academians tend to use the term `lexicon`
     * The authors of <u>Basics of Biblical Hebrew</u> have created an abridged lexicon to accompany this course
@@ -1145,7 +1146,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 
 <div class="figure" style="text-align: center">
 <img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-16)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-17)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 <small>Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
@@ -1678,6 +1679,7 @@ function x25() {
 * Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
     * You may need to sign in with a Google account
     * You may wish to rename the document with the applicable lesson # as you will be reusing the blank document multiple times
+      * In fact, instead of downloading from the above link each time, we recommend you save a blank copy to your personal Google Drive, then select `File` then `Make a Copy` whenever you wish to begin a new `Ruth Pursuit`.
 * We strongly encourage you to go line by line through the passage and do not use the "Find" function in your word processor
     * Line by line will take longer, but you will learn more (even though you may think it's a waste of time because at this point you may not know much, if any, Hebrew.  Just go through the passage as best as you can; you may be surprised what sinks in!)
 
@@ -1797,6 +1799,17 @@ In other words after you have completed `Anki` so that all the lesson's cards ar
 
 [Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/edv-QEGJI3k){target="_blank"}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target=“_blank”}
+* [Additional Drills/Worksheets- Quiz](https://hebrewsyntax.org/bbh2new/01_quiz.pdf){target="_blank"}
+* Additional אב song versions (© John Walton):
+  * [Audio](https://hebrewsyntax.org/bbh2new/01_alef_bet_song.mp3){target="_blank"}
+  * [Video with names](http://youtu.be/xl_11xvc3Bw){target="_blank"}
+  * [Video letters only](http://youtu.be/mwWznK3dAS4){target="_blank"}
+
 <!--chapter:end:01b-Alephbet.Rmd-->
 
 # Hebrew Vowels 
@@ -1906,7 +1919,7 @@ Reflect on the works of HaShem that you have seen!
 
 <div class="figure" style="text-align: center">
 <img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-27)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-28)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 <!-- 2.1 -->
@@ -2510,7 +2523,7 @@ function x25() {
 
 <div class="figure" style="text-align: center">
 <img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="500pt" />
-<p class="caption">(\#fig:unnamed-chunk-33)That's no moon.  That's a Guttural!</p>
+<p class="caption">(\#fig:unnamed-chunk-34)That's no moon.  That's a Guttural!</p>
 </div>
 
 * A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements
@@ -2760,9 +2773,17 @@ Use the form below to claim your Asher badge!
 <iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/FtGZBq6QVsI){target="_blank"}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/02_overheads_bw.pdf){target="_blank"}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-02.pdf){target=“_blank”}
+* [Additional Drills/Worksheets- Quiz](https://hebrewsyntax.org/bbh2new/02_quiz_practice.pdf){target="_blank"}
+
+
 <!--chapter:end:02-Vowels.Rmd-->
 
-# Syllabification and Pronunciation
+# Hebrew Syllables
 
 ::: {.infobox .sound}
 <figure>
@@ -2915,7 +2936,7 @@ Thank God for his blessings and meditate upon them.
 
 <div class="figure" style="text-align: center">
 <img src="images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg" alt="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-34)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-35)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Hebrew Syllables {#syllables}
@@ -3907,6 +3928,16 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 
 [Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/AY7KAsD4fZg){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/03_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-03.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_03.pdf){target=“_blank”}
+* [Dr. Beckman additional practice video](http://youtu.be/icqgATyH9qQ){target=“_blank”}
+* Additional Drills/Worksheets
+  * [Quiz a](https://hebrewsyntax.org/bbh2new/03_quiz_new.pdf){target=“_blank”}
+  * [Quiz b](https://hebrewsyntax.org/bbh2new/03_quiz_practice.pdf){target=“_blank”}
 
 <!--chapter:end:03-Syllabification.Rmd-->
 
@@ -4136,7 +4167,7 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-49)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-50)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5262,12 +5293,23 @@ YOUR QUEST
     </iframe>
 </div>
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/9LxaKsDifCo){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/04_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](./images/BasicsBiblicalHebrew-04.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_04.pdf){target=“_blank”}
+* [Dr. Beckman additional practice video](http://youtu.be/xiwNrZaNtCg){target=“_blank”}
+* Additional Drills/Worksheets
+    * [a](https://hebrewsyntax.org/bbh2new/04_quiz_new.pdf){target=“_blank”}
+    * [b](https://hebrewsyntax.org/bbh2new/04_quiz_practice.pdf){target=“_blank”}
+
 
 
 
 <!--chapter:end:04f-NounsPlural.Rmd-->
 
-# Definite Article and Conjunction Vav {.Article}
+# Article and Conjunction {.Article}
 
 ::: {.infobox .sound}
 <figure>
@@ -5404,7 +5446,7 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 <div class="figure" style="text-align: center">
 <img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-50)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-51)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Vav Lecture (from HQ Lesson 5)
@@ -6250,7 +6292,7 @@ YOUR QUEST
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #05](./images/05_Ruth_Pursuit_KEY.pdf){target="_blank"}
 * Update your `Ruth Pursuit Translation` worksheet.
 
@@ -6273,6 +6315,17 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdUEWHBbR9iuUrUMSJ76Fucn0qyqIPxILQpfh3Ss6Hmz8bPZA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/CgktePAFbF8){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/05_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-05.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_05.pdf){target=“_blank”}
+*[SQiN eM Levy sheet](https://hebrewsyntax.org/bbh2new/05_sqin_em_levy.pdf){target=“_blank”}
+* Additional Drills/Worksheets
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/05_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/05_quiz_practice.pdf){target=“_blank”}
 
 <!--chapter:end:05-DefArt_Conjunction.Rmd-->
 
@@ -6373,7 +6426,7 @@ The בּ in <span class="he">בְּיוֹם</span> is an example of an "insepara
 
 <div class="figure" style="text-align: center">
 <img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-53)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-54)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6915,7 +6968,7 @@ YOUR QUEST
     * <span class="he">כָּל־</span>(Pink)
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #6](./images/06_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -6927,6 +6980,18 @@ YOUR QUEST
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScSk6Jya_wOUJ4W88s8wcvY-3NyS2FnDmle4T6yo00Fus4Nmg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/d_jKtFDLVts){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/06_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-06.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_06.pdf){target=“_blank”}
+*[Preposition video](http://youtu.be/byszemY8Pl8){target=“_blank”} by The Bazillions
+* Additional Drills/Worksheets
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/06_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/06_quiz_practice.pdf){target=“_blank”}
+
 
 <!--chapter:end:06-Prepositions.Rmd-->
 
@@ -7022,7 +7087,7 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-57)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-58)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Adjectives Lecture
@@ -7430,7 +7495,7 @@ Be sure to update your `Ruth Pursuit Translation Worksheet` with the findings fr
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #7](./images/07_Ruth_Pursuit_KEY.pdf){target="_blank"}
 * Don't forget to update your `Ruth Pursuit Translation` worksheet with new words identified through lesson 7.
 
@@ -7452,6 +7517,16 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://forms.gle/u7NiyG7MzE4inxj86" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/ykGSHhZulhU){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/07_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-07.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_07.pdf){target=“_blank”}
+* Additional Drills/Worksheets
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/07_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/07_quiz_practice.pdf){target=“_blank”}
 
 <!--chapter:end:07-Adjectives.Rmd-->
 
@@ -7560,7 +7635,7 @@ The first word in the passage above is an example of a "demonstrative pronoun". 
 
 <div class="figure" style="text-align: center">
 <img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-59)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-60)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Independent Pronouns Lecture
@@ -8016,7 +8091,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 <div class="figure" style="text-align: center">
 <img src="images/08-manna-ko-hiking-en-gedi.jpg" alt="Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission." width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-60)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
+<p class="caption">(\#fig:unnamed-chunk-61)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
 </div>
 :::
 
@@ -8104,7 +8179,7 @@ Identify each occurrence of the following:
     
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #8](./images/08_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -8115,6 +8190,20 @@ Identify each occurrence of the following:
 <div class="container">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSd4cI1lk3APqQvyt8FT7muC_i3dR-wwiD6zgIdKwJCiXbgMuQ/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/rdDReLZher0){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/08_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-08.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_08.pdf){target=“_blank”}
+* Paradigm PDF
+    *[Subject](https://hebrewsyntax.org/bbh2new/08_subject_paradigm.pdf){target=“_blank”}
+    * [Demonstrative](https://hebrewsyntax.org/bbh2new/08_demonstrative_paradigm.pdf){target=“_blank”}
+* Additional Drills/Worksheets
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/08_quiz_new.pdf){target=“_blank”} 
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/08_quiz_practice.pdf){target=“_blank”} 
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/08_quiz_paradigms_7_8.pdf){target=“_blank”}
 
 
 <!--chapter:end:08-Pronouns.Rmd-->
@@ -8253,7 +8342,7 @@ In addition to offering up our petitions, let us be sure to hear God's questions
 
 <div class="figure" style="text-align: center">
 <img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-61)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-62)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Possessive Pronominal Suffixes Lecture
@@ -8933,7 +9022,7 @@ YOUR QUEST
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #09](./images/09_Ruth_Pursuit_KEY.pdf){target="_blank"}<small>^[<small>Note: Many English Bibles contain a footnote at Ruth 1:20 that Naomi means "pleasant"; however, the precise etymology of Naomi's name is unclear.  While her name appears to have a Type 1 1CS suffix, since it is a proper name, we are not including it in our answer key.</small>]</small>
 
 
@@ -8944,6 +9033,20 @@ YOUR QUEST
 </div>
 
 [Open Quest Quiz #9 in a new window](https://forms.gle/7Jgs8W2vi6XKTukG6){target="_blank"}
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/7Jnh6nAFQ1c){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/09_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-09.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_09.pdf){target=“_blank”}
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/09_pronominal_suffix_paradigm.pdf){target=“_blank”}
+* Additional Drills/Worksheets
+    * [Parsing](https://hebrewsyntax.org/bbh2new/09_pronominal_suffix_practice.pdf){target=“_blank”}
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/09_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/09_quiz_practice.pdf){target=“_blank”} 
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/09_quiz_paradigms_7_8_9.pdf){target=“_blank”}
+
 
 <!--chapter:end:09-Pronominal_Suffixes.Rmd-->
 
@@ -9083,7 +9186,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-67)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-68)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9602,7 +9705,7 @@ YOUR QUEST
 As always, words may have prefixes or suffixes.  Try to identify whether the construct is definite or indefinite based on the absolute noun.  
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #10](./images/10_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -9625,6 +9728,19 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/7X1tmBcU5WtGT46A7" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/IqD25wwKgWc){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/10_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-10.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_10.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Practice of vocabulary words in the construct state](https://hebrewsyntax.org/bbh2new/10_construct_vocab.pdf){target=“_blank”} 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/10_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/10_quiz_practice.pdf){target=“_blank”}
+
+
 
 <!--chapter:end:10-ConstructChain.Rmd-->
 
@@ -9741,7 +9857,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-69)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-70)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10155,7 +10271,7 @@ YOUR QUEST
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 
 * [Ruth Pursuit Answer Key #11](./images/11_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
@@ -10171,6 +10287,15 @@ If you have completed **all activities** in Lessons 1-11, you may claim the seco
 :::
 
 [Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/DUxhURGLjpA){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/11_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-11.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_11.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+  * [Translation practice (review) for chapters 4 to 11](https://hebrewsyntax.org/bbh2new/11-4_translation_practice_review_bw.pdf){target=“_blank”}
 
 <!--chapter:end:11-Numerals.Rmd-->
 
@@ -10245,7 +10370,7 @@ We wanted to let you know of some changes:
     2. Study Verses
         * Cantillation marks added to study verses
         * Verses in `Anki` will be taken as a whole, not split into smaller components
-    3. OPTIONAL _Hebrew Quest_ Study Passage Translation
+    3. Honors Track: _Hebrew Quest_ Study Passage Translation
     
 
 The next few pages will describe these changes in greater detail.
@@ -10418,7 +10543,7 @@ function setPlaySpeed25() {
 * At this stage of the course, we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
 * The overload workload is steadily increasing, and of course, the Anki reviews are growing (so be sure to keep up with daily reviews!)
 
-## Changes for Unit 3: Changes to `Anki Study Verses` {-}
+## Changes for Unit 3: Changes to `Anki Study Verses` and Cantilation Marks {-}
 
 ::: {.infobox .sound}
 <figure>
@@ -10501,6 +10626,18 @@ Trying to read with these marks can be visually distracting and overwhelming at 
 
 :::
 
+::: {.box .caution}
+Pausal Forms
+
+* In Lesson 3, we briefly mentioned "pausal forms"
+* Pausal forms may change the spelling
+    * A Patach, Seghol, or sheva may change to Qamets
+        * Example קָטַל becomes קָטָל
+    * A sheva may changed to a Seghol in the 2ms pronominal suffix (Lesson 19)
+        * סוּסְךָ to סוּסֶ֫ךָ
+    * Words that are normally accented on the ultima may undergo an accent shift to the penultima with resulting vowel change, for example אֲנִי can become אָ֫נִי
+:::
+
 ## Changes for Unit 3: Optional Honors Track: _Hebrew Quest_ Study Passages {-}
 
 ::: {.infobox .sound}
@@ -10564,6 +10701,7 @@ function setPlaySpeed25() {
     3. Read again, but this time, compose a translation
         1. First, see how much you can do without a reference
         2. Then, look up any words you don't know in a lexicon
+        3. Parts of this are meant for students who have finished the course but you may wish to review Dr. Beckman's lecture on [How to prepare a passage](https://www.youtube.com/watch?v=5v8KvmEtZy0&t=2918s){target="_blank"}
     4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights^[Note: Izzy intentionally speaks very slowly, so as you advance in Hebrew, you may wish to increase the speed of the YouTube video].
         * As you are watching, compare your translation with Izzy's explanation
         * How did you do?  Can you see how much you are learning?
@@ -10623,7 +10761,7 @@ Lessons 13-16 are critical!
 
 <div class="figure" style="text-align: center">
 <img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-72)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
+<p class="caption">(\#fig:unnamed-chunk-73)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
 </div>
 
 
@@ -10706,7 +10844,7 @@ Now, let's get to Hebrew Verbs!
 
 <!--chapter:end:11b-Unit3_Intro.Rmd-->
 
-# Introduction to Hebrew Verbs
+# Introduction to Verbs
 
 ::: {.infobox .sound}
 <figure>
@@ -10844,7 +10982,7 @@ In these times, we must depend on God to sustain us.  It is times like these whe
 
 <div class="figure" style="text-align: center">
 <img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-73)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-74)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -12100,10 +12238,19 @@ YOUR HEBREW QUEST!
 :::
 
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/YgpyuYqIU7k){target="_blank"}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/12_overheads_bw.pdf){target="_blank"}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-12.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_12.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/12_quiz_new.pdf){target="_blank"}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/12_quiz_practice.pdf){target="_blank"}
 
 <!--chapter:end:12-Verbs_Intro.Rmd-->
 
-# Qal Perfect - Strong Verbs {.QP-s}
+# Qal Perfect - Strong {.QP-s}
 
 ::: {.infobox .sound}
 <figure>
@@ -12217,7 +12364,7 @@ Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ
 
 <div class="figure" style="text-align: center">
 <img src="images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg" alt="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-76)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-77)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13448,9 +13595,22 @@ YOUR HEBREW QUEST:
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/LooAb_a3T-s){target="_blank"}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/13_overheads_bw.pdf){target="_blank"}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-13.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_13.pdf){target=“_blank”}
+
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/13_qal_perfect_strong_paradigm.pdf){target="_blank"}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/13_quiz_new.pdf){target="_blank"}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/13_quiz_practice.pdf){target="_blank"}
+    * [Quiz c Paradigms](https://hebrewsyntax.org/bbh2new/13_quiz_paradigms_7_8_9_13.pdf)
+
 <!--chapter:end:13-Qal_Perfect_Strong.Rmd-->
 
-# Qal Perfect - Weak Verbs {.QP-w}
+# Qal Perfect - Weak {.QP-w}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/14.intro.m4a">
@@ -13547,7 +13707,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-88)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13852,7 +14012,7 @@ Below is a summary table showing the verb <span class="he">בָנָה</span> in 
 
 <div class="figure" style="text-align: center">
 <img src="images/14.3heiparadigm.png" alt="3-Hei Qal Perfect" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)3-Hei Qal Perfect</p>
+<p class="caption">(\#fig:unnamed-chunk-89)3-Hei Qal Perfect</p>
 </div>
 
 ::: {.box .info}
@@ -14216,9 +14376,21 @@ YOUR HEBREW QUEST:
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/ssee8-uHw_s){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/14_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-14.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_14.pdf){target=“_blank”}
+* [3-ה verbs](https://hebrewsyntax.org/bbh2new/00_3He_verbs.pdf){target=“_blank”}
+* [Dr. Beckman additional practice video](http://youtu.be/ay_JLbEIsVs){target=“_blank”}
+* Additional Drills/Worksheets 
+  * [Quiz a](https://hebrewsyntax.org/bbh2new/14_quiz_new.pdf){target=“_blank”}
+  * [Quiz b](https://hebrewsyntax.org/bbh2new/14_quiz_practice.pdf){target=“_blank”}
+
 <!--chapter:end:14-Qal_Perfect_Weak.Rmd-->
 
-# Qal Imperfect - Strong Verbs {.QI-s}
+# Qal Imperfect - Strong {.QI-s}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.intro.m4a">
@@ -14290,7 +14462,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14698,9 +14870,22 @@ YOUR HEBREW QUEST:
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/yuIwYku3J14){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/15_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-15.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_15.pdf){target=“_blank”}
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/15_qal_imperfect_strong_paradigm.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/15_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/15_quiz_practice.pdf){target=“_blank”}
+    * [Quiz Paradigms](https://hebrewsyntax.org/bbh2new/15_quiz_paradigms_7_8_9_13_15.pdf){target=“_blank”}
+
+
 <!--chapter:end:15-Qal_Imperfect_strong.Rmd-->
 
-# Qal Imperfect Weak {.QI-w}
+# Qal Imperfect - Weak {.QI-w}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.intro.m4a">
@@ -14773,7 +14958,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-93)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15448,6 +15633,19 @@ YOUR HEBREW QUEST:
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/IqAlZba1liQ){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/16_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-16.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_166.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Preformative practice](https://hebrewsyntax.org/bbh2new/16_preformative_practice.pdf){target=“_blank”}
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/16_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/16b_quiz_practice.pdf){target=“_blank”}
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/16d_quiz_practice.pdf){target=“_blank”}
+    * [Quiz d](https://hebrewsyntax.org/bbh2new/16_quiz_practice.pdf){target=“_blank”}
+
 
 <!--chapter:end:16-Qal_Imperfect_Weak.Rmd-->
 
@@ -15470,9 +15668,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 > To understand Biblical Hebrew, we must be able to distinguish the Vav Consecutive from the conjunction Vav and translate accurately.
 
-Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: <span class="he">וּכְתַטְתָּם</span>.
+Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: <span class="he">וּכְתְַבְתָּם</span>.
 
-The initial ו means "and", so we might want to say that this word simply means "and you wrote them." In Hebrew, the Vav Consecutive also has a grammatical purpose of changing the verb's meaning from Perfect to Imperfect.  This is true even though it is affixed to a Perfect verb, <span class="he">כָּתַטְתָּ</span> means "you (ms) wrote" (perfect), but putting a ו as prefix changes the meaning to "and you will write" (imperfect).  The opposite happens when the Vav Consecutive is affixed to an Imperfect verb: the resulting word is Perfect (past tense). Less frequently, there are times with the Vav is just a Vav and is not acting as a Consecutive.  We'll learn more about these changes in this Lesson.
+The initial ו means "and", so we might want to say that this word simply means "and you wrote them." In Hebrew, the Vav Consecutive also has a grammatical purpose of changing the verb's meaning from Perfect to Imperfect.  This is true even though it is affixed to a Perfect verb, <span class="he">כָּתַבְתָּ</span> means "you (ms) wrote" (perfect), but putting a ו as prefix changes the meaning to "and you will write" (imperfect).  The opposite happens when the Vav Consecutive is affixed to an Imperfect verb: the resulting word is Perfect (past tense). Less frequently, there are times with the Vav is just a Vav and is not acting as a Consecutive.  We'll learn more about these changes in this Lesson.
 
 The terminology on this topic is a bit fluid. The term "Waw Consecutive" is significantly more prevalent than "Vav Consecutive" in academic circles, so we will still encounter the "w" references frequently in Hebrew grammar materials.
 
@@ -15524,7 +15722,7 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
@@ -15867,7 +16065,7 @@ YOUR QUEST
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #17](./images/17_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -15900,6 +16098,40 @@ MEMRISE
     * [Hebrew Quest Graduation](https://holylanguage.com/graduate.html){target="_blank"}
     * [Memrise](https://holylanguage.com/memrise.html){target="_blank"}
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/mHf7IQGPWyM){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/17_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-17.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_17.pdf){target=“_blank”}
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/17_qal_waw-consecutive_paradigms.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/17_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/17_quiz_practice.pdf){target=“_blank”}
+
+As Lesson 17 marks the end of the 1st semester in a traditional academic course, Dr. Beckman has additional cumulative review materials.
+
+[Summary Study Guide](https://hebrewsyntax.org/bbh2new/17x_Hebrew1_summary_study_guide.pdf){target=“_blank”}  (_Note: Most of this material is contained in our Hebrew GRAMMAR Quest `Anki` cards._)
+ 
+* Additional Drills/Worksheets/Practice Exams
+    * [Quiz](https://hebrewsyntax.org/bbh2new/17_quiz_vocab.pdf){target=“_blank”}
+     *[Quiz Paradigms](https://hebrewsyntax.org/bbh2new/17_quiz_paradigms.pdf){target=“_blank”}
+    * [Quiz QI Preformatives](https://hebrewsyntax.org/bbh2new/17_quiz_paradigms_QI-begins.pdf){target=“_blank”}
+    * [Quiz Parsing](https://hebrewsyntax.org/bbh2new/17_quiz_parsing.pdf){target=“_blank”}
+    * [Quiz Translation](https://hebrewsyntax.org/bbh2new/17_quiz_translation.pdf){target=“_blank”}
+    * [Practice final exam 1](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_1.pdf){target=“_blank”}
+        * [Final exam 1 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_1_answers.pdf){target=“_blank”}
+        * [Final exam 1 explanations](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_1_explanations.pdf){target=“_blank”}
+    * [Practice final exam 2](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_2.pdf){target=“_blank”}
+        * [Final exam 2 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_2_answers.pdf){target=“_blank”}
+    * [Practice final exam 3](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_3.pdf){target=“_blank”}
+        * [Final exam 3 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_3_answers.pdf){target=“_blank”}
+    * [Practice final exam 4:](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_4.pdf){target=“_blank”}
+        * [Final exam 4 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_4_answers.pdf){target=“_blank”}
+    * [Practice final exam 5](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_5.pdf){target=“_blank”}
+        * [Final exam 5 answer key](https://hebrewsyntax.org/bbh2new/17x_Hebrew_1_final_5_answers.pdf){target=“_blank”}
+
 
 <!--chapter:end:17-Vav_Consecutive.Rmd-->
 
@@ -15976,7 +16208,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16480,7 +16712,7 @@ YOUR QUEST
 3. Identify, parse, and translate the two negated commands
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/view?usp=sharing){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #18](./images/18_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## Honors Track: _Hebrew Quest_ Study Passage: The Shema {-}
@@ -16497,9 +16729,21 @@ YOUR HEBREW QUEST:
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/8Rc4m--TEoo){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/18_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-18.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_18.pdf){target=“_blank”}
+* [Volitional Paradigm PDF](https://hebrewsyntax.org/bbh2new/18_qal_volitive_paradigm.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz](https://hebrewsyntax.org/bbh2new/18_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/18_quiz_practice.pdf){target=“_blank”}
+    * [Quiz Paradigms](https://hebrewsyntax.org/bbh2new/18_quiz_paradigms_13-18.pdf){target=“_blank”}
+
 <!--chapter:end:18-Qal_Imperative_strong.Rmd-->
 
-# Pronominal Suffixes on Verbs {.VerbSuffix}
+# Pronominal Suffixes {.VerbSuffix}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.intro.m4a">
@@ -16524,7 +16768,7 @@ The verbal pronominal suffixes are the same suffixes we learned from Lesson 9.  
 
 The more challenging aspects can include significant spelling and accent changes.  This can result in words that are identically spelled but have different meanings.  
 
-One of the first vocabulary words in _Hebrew Quest_ was <span class="he">וּכְתַטְתָּם</span>.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
+One of the first vocabulary words in _Hebrew Quest_ was <span class="he">וּכְתְַבְתָּם</span>.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
 
 In Lesson 19, we will explore these pronominal suffixes from Lesson 9 and apply them to verbs.
 
@@ -16583,7 +16827,7 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16815,6 +17059,17 @@ YOUR HEBREW QUEST:
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/vjW8D2NjmKs){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/19_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-19.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_19.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/19_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/19_quiz_practice.pdf){target=“_blank”}
+    * [Quiz Paradigm](https://hebrewsyntax.org/bbh2new/19_quiz_Qal-paradigm.pdf){target=“_blank”}
+
 <!--chapter:end:19-Pronominal_Suffix_Verbs.Rmd-->
 
 # Qal Infinitive Construct {.Qinfinitive}
@@ -16879,7 +17134,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -17219,7 +17474,7 @@ YOUR QUEST
 2. Identify the Lesson 20 vocabulary word that negates an Infinitive (blue)
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #20](./images/20_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -17237,6 +17492,16 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/FqPOLmfap40){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/20_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-20.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_20.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/20_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/20_quiz_practice.pdf){target=“_blank”}
 
 <!--chapter:end:20-Qal_Infinitive_Construct.Rmd-->
 
@@ -17319,7 +17584,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
@@ -17524,7 +17789,7 @@ YOUR QUEST:
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #21](./images/21_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -17541,6 +17806,16 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/4_KnT48Qgl0){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/21_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-21.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_21.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/21_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/21_quiz_practice.pdf){target=“_blank”}
 
 <!--chapter:end:21-Qal_Infinitive_Absolute.Rmd-->
 
@@ -17620,7 +17895,7 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-100)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -17903,7 +18178,7 @@ Identify the one Participle in Ruth 1.  You might recall that we discussed this 
 
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #22](./images/22_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -17932,6 +18207,18 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/6Z9nHqzkCDk){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/22_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-22.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_22.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+  * [Quiz a](https://hebrewsyntax.org/bbh2new/22_quiz_new.pdf){target=“_blank”}
+  * [Quiz b](https://hebrewsyntax.org/bbh2new/22_quiz_practice.pdf){target=“_blank”}
+  * [Quiz Qal Paradigms](https://hebrewsyntax.org/bbh2new/22_quiz_qal_paradigms.pdf){target=“_blank”}
+  * [Quiz Qal Parsing](https://hebrewsyntax.org/bbh2new/22_quiz_qal_parsing.pdf){target=“_blank”}
 
 <!--chapter:end:22-Qal_Participle.Rmd-->
 
@@ -18006,7 +18293,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-102)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18355,13 +18642,35 @@ YOUR HEBREW QUEST:
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/VKz33Fb0z78){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/23_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary and Study Verses](http://hebrew.billmounce.com/BasicsBiblicalHebrew-23.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz](https://hebrewsyntax.org/bbh2new/23_quiz_new.pdf){target=“_blank”}
 
 
 <!--chapter:end:23-Hebrew_Syntax.Rmd-->
 
-# (PART) Derived Binyanim {-}
+# (PART) Derived Stems {-}
 
-# Introduction to Unit 4 {-}
+# Introduction to Unit IV {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Congratulations!  You now have the hardest work of a first-year Hebrew grammar course behind you.  From here on out, we will be studying the six major derived Hebrew Verb stems Niphal, Piel, Pual, Hiphil, Hophal, and Hitpael.
 
@@ -18371,11 +18680,26 @@ If you remember our introduction to Unit 3, we drew the comparison to a math for
 
 Summaries of each of the derived stems will consist of the overall diagnostic features.  It is THESE features that should be memorized, not the numerous paradigms.
 
-## Structure of Lessons 24-35 {-}
+## Structure of Unit 4: Lessons 24-35 {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.structure.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * You will note that 12 lessons remain in the course
-* Each of the six derived stems will have two lessons: a lesson "A" and a lesson "B"
-* Lesson A (even number) will cover the "Strong" Verb paradigm
+* Each of the six derived stems will have two lessons: 
+* The first (even number) will cover the "Strong" Verb paradigm
     * The meaning of the stem
     * The spelling of the stem
         * Word-initial Prefix/Preformative combinations
@@ -18385,13 +18709,28 @@ Summaries of each of the derived stems will consist of the overall diagnostic fe
         * The Anki deck will have exercises to help you with paradigm identification
         * Each lesson will have a worksheet for you to practice the paradigm
         * As we have said, __identification of patterns is more important than memorization of paradigms__
-* Lesson B (odd number) will address weak verb deviations
-    * The b-side will cover spelling changes within caused by the behaviors of gutturals and other weak letters, Geminate verbs, Biconsonantal verbs, and other irregular verbs
+* The second (odd number) will address weak verb deviations
+    * The b-side will cover spelling changes  caused by the behaviors of gutturals and other weak letters, Geminate verbs, Biconsonantal verbs, and other irregular verbs
     * Most of the time, you will already know the concepts
         * For example, in some forms of the Niphal Strong paradigm, $R_1$ takes a Dagesh Forte
         * You already know that if $R_1$ is a guttural or Resh, $R_1$ will reject the Dagesh Forte and often (but not always), there will be Compensatory Lengthening
         
 ## Ruth Pursuits {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.ruth.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 There are only a handful of non-Qal verbs in Ruth 1, so you will only see the `Ruth Pursuit` activities in the following Lessons:
 
@@ -18408,11 +18747,27 @@ In Lesson 26, we will start to do a `Ruth Pursuit Analysis`.
 * This exercise is for your edification
     * You do not have to turn this in and, it will not be graded as a part of this course (as you know, no grades are ever recorded in this course)
     * We would encourage you to share your passage with the Holy Language Institute Tribe for their edification
+* Composing a translation of Ruth and/or Jonah is a common assignment in a second year Hebrew course; we believe you will get a lot out of this new activity
 
 ## Stem Vowel Pattern Nomenclature {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.stem.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * The derived stems tend to be much more consistent with their application of stem vowels
-* We will use a code to memorize the stem vowels for non-Qal Strong verbs
+* We will use the code we introduced at the end of Unit 3 to memorize the stem vowels for non-Qal Strong verbs - our thanks to Dr. Beckman for this innovation in Hebrew learning
 * For example, the stem vowel code for Niphal is 
 
 $$V_{S} = A \sim \bar E (A)$$
@@ -18420,12 +18775,12 @@ $$V_{S} = A \sim \bar E (A)$$
 * $V_{S}$ means the <u>S</u>tem <u>V</u>owel
 * Everything to the LEFT of the tilde $\sim$ is the stem vowel in the PERFECT conjugation
 * Everything to the RIGHT of the tilde is the stem vowel in the IMPERFECT and related forms, Jussive, Cohortative, Imperative and Infinitive Construct
-* Any exceptions are inside ()
-    * Imperfect form exceptions apply to the Feminine Plural
+* The tilde itself is just a separator symbol with no inherent meaning
+* Any exceptions are inside `[]` for the perfect `()` for the imperfect
+    * The Niphal has no exceptions for the perfect, but other stems change the stem vowel in the 1/2 person - this vowel will be listed inside `[]`
+    * Imperfect form exceptions listed inside `()` apply to the Feminine Plural
         * Therefore $(A)$ in the formula means the Stem Vowel in the Imperfect FP, the Jussive FP, and the Imperative FP is Short A - Patach
         * There are no Cohortative (1st person) feminine forms
-    * Perfect exceptions will tend to apply to the 2nd and 1st person forms
-    * Niphal does not have any Perfect exceptions so there is nothing next to the first $A$
 * What about Infinitive Absolute and Participles?
     * It turns out that for stems besides the Qal the Infinitive Absolute like $\bar E$ (Tsere)
     * Participles, again other than Qal, tend to like the _PERFECT_ $V_S$, _LENGTHENED_ if possible
@@ -18433,35 +18788,26 @@ $$V_{S} = A \sim \bar E (A)$$
     
 <img src="images/23b.stemvowelformula.png" width="300pt" style="display: block; margin: auto;" />
 
-## What to memorize for all Derived Stems {-}
-* Meaning of $V_S$ pattern
-
-$$V_S = Perfect[2/1 person] \sim Imperfect (Imperfect FP)$$
-
-* Always a Sheva before finite verb endings (unless $\bar E$ (Tsere))
-* Participle $V_S$ = P3ms $V_S$ lengthened if possible (unless $\bar E$ (Tsere))
-* Infinitive Absolute $V_S = \bar E$
-    * Except: $V_S = \hat O$ for QA and some NA
-* Everything else uses Imperfect $V_S$
-    * Imperative, Jussive, Cohortative, ∞
-    
-## Review: Sheva before Finite Verb Endings {-}
-
-* Finite Verbs have Person (1st, 2nd, 3rd)
-    * Thus the Finite verb conjugations are: Perfect, Imperfect, Imperative, Jussive, Cohortative
-    * The non-Finite conjugations are: Infinitive Construct, Infinitive Absolute, Participle
-* A Sheva goes before a Finite Verb ending
-    * This means the $V_S$ will REDUCE if the sufformative begins with a VOWEL
-    * An exception to the above is that Unchangeable vowel letters do not reduce, so they do NOT take a Sheva
-* The Adjective Endings do NOT take a Sheva - since Participles use adjective endings, they do not take a Sheva
-    * One exception: if the Participle $V_S = \bar E$, then it REDUCES
-        * Qal Active: <span class="he">קֹטֵל</span> (QPTms) becomes <span class="he">קֹטְלִים</span> (QPTmp)
-        * Piel: <span class="he">מְקַתֵּל</span> (DPtms) becomes <span class="he">מְקַטְּלוֹת</span> (DPtfp)
         
 
 <!--chapter:end:23b-Unit4_Intro.Rmd-->
 
-# The Niphal Stem - Strong Verbs
+# The Niphal Stem - Strong
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 The Niphal stem occurs 4,138 times in the Bible. 
 
@@ -18484,13 +18830,27 @@ LESSON ITINERARY
 ::: {.box .stop}
 EQUIPMENT CHECK
 
-* You must have all of the Qal strong verb paradigms committed to memory: Perfect, Imperfect, Imperative, Infinitive Construct, Infinitive Absolute, and Particle
+* You must have all of the Qal strong verb paradigms committed to memory: Perfect, Imperfect, Imperative, Infinitive Construct, Infinitive Absolute, and Participle
 * Review the $V_S =$ nomenclature from the Unit 4 Introduction
 * Review the $Pre =$ nomenclature from the Unit 3 Introduction
 :::
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24-8.1Chronicles 12.9.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 ### <span class="he"> וּמִן־הַגָּדִ֡י נִבְדְּל֣וּ אֶל־דָּוִיד֩ לַמְצַ֨ד מִדְבָּ֜רָה</span> {-}
 
 *From the Gadites there came over to David in the stronghold in the wilderness (1 Chronicles 12:9)*
@@ -18498,28 +18858,30 @@ EQUIPMENT CHECK
 En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty part of Israel adjacent to the Dead Sea.  Similarly, our walk with Yeshua (and indeed, our study of Hebrew!) can sometimes leave us feeling dry and dehydrated.  Just as David had a retreat at En Gedi, we need to remain connected to our source of Living Water as we go through life's journeys.
 
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/24-8.1Chronicles 12.9.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
-
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-103)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-104)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 
-## Niphal Verb Stem Table
+## Verb Stem Table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -18528,12 +18890,27 @@ Cause a State	| Piel | Pual | Hitpael
 Cause an Action	| Hiphil | Hophal
 
 * Reminders:
-    * The table gives broad generalization; many verbs do not fit neatly into the table's definitions
+    * The table gives broad generalization as to the stem's meaning; many verbs do not fit neatly into the table's definitions
     * Use a lexicon/dictionary to check the meanings in different stems
     * Few verbs occur in all stems - many Niphal verbs NEVER occur in Qal
 * Lesson 25 will have a list of the most frequent Niphal verbs
 
 ## Niphal Meanings
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Simple action with either a passive or reflexive voice
 * <span class="he">שָׁמַע </span>
@@ -18545,8 +18922,23 @@ Cause an Action	| Hiphil | Hophal
 
 ## Parsing Clues - _Pre_:  the נ prefix is added to EVERY conjugation
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Remember, we use the label $Pre$ for any diagnostic combination of word-initial consonants (prefix or root letters), vowels, and Dagesh Fortes (as applicable)
-    * ק is used as a placeholder to represent $R_1% of any strong verb
+    * ק is used as a placeholder to represent $R_1$ of any strong verb
     * For the Imperfect forms, י represents any of the Imprefect preformatives (note that 1cs א often usually takes a different $V_P$)
 
 :::{.box .light}
@@ -18555,22 +18947,36 @@ Memorize these three $Pre$ formulas and the conjugations in which they are used
 
 * NP, NPt, some NA: $Pre =$ <span class="he">נִקְ</span>        
 * NI: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
-    * NI1cs: $Pre =$ <span class="he">אֶקָּ</span> (like the Qal) OR <span class="he">אִקָּ</span>
 * NM, N∞, some NA:$Pre=$ <span class="he">הִקָּ</span>
 
 ::: {.box .info}      
 * The נ prefix is added to <u>every</u> form of <u>every</u> conjugation
     * In the NP, NPt and in one form of the NA, the נ appears
     * In the NI, NM, N∞, and the other form of the NA, the נ is _assimilated into a Daghesh Forte_ in $R_1$
-* Niphal Strong $V_P = I$ ALWAYS
+* Niphal Strong $V_P = I$ ALWAYS (except for NI1cs)
 
 :::
 
 ## Parsing Clues - $V_S = A \sim \bar E(A)$
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .light}
 Memorize the $V_S$ formulas for each stem
-:::
+
 * $V_S = A \sim \bar E(A)$
 * Left of $\sim$:
     * NP = $A$
@@ -18578,12 +18984,13 @@ Memorize the $V_S$ formulas for each stem
     * NPt (and Pt for all derived stems) = the P3ms $V_S$, _lengthened if possible_
         * Npt $V_S = \bar A$
 * Right of $\sim$:
-    *  NP/NI/N∞ = $\bar E$ 
+    *  NI/NM/N∞ = $\bar E$ 
         * ($A$ for Feminine Plural forms)
 *  Absolute is not listed in the formula because for all derived stems, Absolute $V_S = \bar E$ (except $\hat O$ for QA and some NA)
+
 :::
 
-* Perfect $V_S=A$, so NP3ms = <span class="he">נִקְתַל</span>
+* Perfect $V_S=A$, so NP3ms = <span class="he">נִקְטַל</span>
 * Imperfect/Imperative/∞ (except FP) $V_S= \bar E$, so <span class="he">יִקָּטֵל</span>
 * Imperfect/Imperative/∞ FP $V_S=(A)$, so <span class="he">תִּקָּטַ֫לְנָה</span>
 * Infinitive Absolute $V_S = \bar E$ (usually)
@@ -18597,24 +19004,29 @@ Memorize the $V_S$ formulas for each stem
         * NptMS = <span class="he">נִקְטָל</span>
     * $V_S$ does NOT reduce in the NPt, which distinguishes Np3fs from NPtfs
         * <span class="he">נִקְטָלָה</span> is NPtfs because $V_S$ is long
-        * <span class="he">נִקְתְלָה</span> is NP3fs because $V_S$ is reduced
+        * <span class="he">נִקְטְלָה</span> is NP3fs because $V_S$ is reduced
     * Other stems reduce only if $V_S$ is $\bar E$ (Tsere)
         * Qal Active, Piel and Hitpael
     
 
 
-## What to memorize for Niphal 
-
-* The Three $Pre$ Sequences
-    * NP/NPt/One form of NA: $Pre =$ <span class="he">נִקְ</span>        
-    * NI: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
-    * NM/N∞/One form of NA: $Pre =$ <span class="he">הִקָּ</span>
-* The Niphal $V_S$ formula and what it means
-    * $V_{S} = A \sim \bar E(A)$
-
-
 
 ## Paradigm: Niphal Perfect Strong
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ::: {.box .stop}
 YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
@@ -18648,10 +19060,26 @@ YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
 
 ## Paradigm: Niphal Imperfect Strong
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * In the Imperfect, the נ of the Niphal is ASSIMILATED
 * $Pre$ - $V_P = I$, Dagesh Forte in $R_1$, and $V_1 = \bar A$ = <span class="he">יִקָּ</span>
 * $V_S = \bar E$ (unless reduced)
     * For FP forms, $V_S = A$
+* Occasionally, we will see $Pre =$ <span class="he">אִקָּ</span> for the NI1cs
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -18672,6 +19100,21 @@ YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
 </figure>
 
 ## Paradigm: Niphal Imperative Strong
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * In the Imperative, the נ of the Niphal is ASSIMILATED
 * You can tell an Imperative from an Imperfect by the <span class="he">הִ</span>, which is not an Imperfect preformative
@@ -18695,6 +19138,21 @@ Hiphil Perfect verbs also have $Pre =$ <span class="he">הִקְ</span>, but Hip
 
 ## Paradigm: Niphal Infinitives Strong
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.9.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * In one form of the Infinitive Absolute, the נ of the Niphal is WRITTEN
 * In the other form of the Infinitive Absolute, the נ of the Niphal is ASSIMILATED
 * The Niphal Infinitive Construct is identical to the NM2ms
@@ -18714,6 +19172,21 @@ Hiphil Perfect verbs also have $Pre =$ <span class="he">הִקְ</span>, but Hip
     * $\hat O$ <span class="he">וֹ</span> can be written defectively.
 
 ## Paradigm: Niphal Participle Strong
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.10.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * In the Participle, the נ of the Niphal is WRITTEN
 
@@ -18738,6 +19211,21 @@ Three Exceptions:
 
 ## Participle Prefixes in the Derived Stems
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 All of the Participles besides Qal have a distinctive prefix.  Being able to identify this prefix will make identifying the various Participle stems straightforward.
 
 Stem | Prefix 
@@ -18748,10 +19236,25 @@ Pual | מְ
 Hiphil | ַמ
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
-Hithpael | תִמְ
+Hithpael | מִתְ
 
 
 ## Forms with Identical Spelling
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.12.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * NP3fs and NPtfs - <span class="he">נִקְטְלָה</span>
 * NI2ms and N∞ - <span class="he">הִקָּטֵל</span>
@@ -18759,11 +19262,73 @@ Hithpael | תִמְ
 
 ## Easily Confused Forms
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.13.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * <span class="he">נִקְטַל</span> - NP3ms
 * <span class="he">נִקְטֹל</span> - QI1cp (only biconsonantal forms would ever take a holem stem vowel (defective of Holem Vav) in the Niphal )
 * <span class="he">נִקְטָל</span> - NPtms
 
+## What to memorize for Niphal 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* The Three $Pre$ Sequences
+    * NP/NPt/One form of NA: $Pre =$ <span class="he">נִקְ</span>        
+    * NI: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
+    * NM/N∞/One form of NA: $Pre =$ <span class="he">הִקָּ</span>
+* The Niphal $V_S$ formula and what it means
+    * $V_{S} = A \sim \bar E(A)$
+
+
+
 ## Niphal Parsing Examples
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.14.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+::: {.box .info}
+* In this section, we will disect words taken from the lesson's study verses, and identify the parsing code for the word (Stem, conjugation, PGN)
+* If you desire additional guided practice with parsing, Dr. Beckman usually has several pages of words that he parses in his videos.
+* Our lesson numbers correspond with his - so if you are looking for Lesson 24 practice, you can visit [his _Basics of Biblical Hebrew_ resources page](https://hebrewsyntax.org/bbh2new/) and click the video for chapter 24.  His parsing activities are usually toward the end of his lecture.
+:::
 
 * Word: <span class="he">נִכְרָֽת</span>
     * Context: <span class="he"> וְזֶ֖רַע רְשָׁעִ֣ים נִכְרָֽת</span>
@@ -18771,7 +19336,7 @@ Hithpael | תִמְ
     * $Suf =$ n/a
     * $Root =$ <span class="he">כרת</span>
     * $V_S = \bar A$ - 
-        * The $V_S$ lengthening is unusual, but we have seen this with other Perfect and Imperfect verbs in the Qal section<small>^[<small>When in doubt, CHALOT provides a spelling of each word used.  P. 165 includes נִכְרָֽת as Niphal Perfect.</small> ]</small>
+        * The $V_S$ lengthening is unusual, but we have seen this with other Perfect and Imperfect verbs in the Qal section^[When in doubt, CHALOT provides a spelling of each word used.  P. 165 includes נִכְרָֽת as Niphal Perfect. ]
         * When the $Pre$ and $Suf$ are unambiguous, you can ignore the $V_S$
     * Result: NP3ms, he will be cut off
 
@@ -18780,7 +19345,7 @@ Hithpael | תִמְ
     * $Pre =$ <span class="he">אִכָּ</span>- Niphal Imperfect 1cs + ו
     * $Suf =$ <span class="he">דָה</span>
         * Our first thought might P3fs or 3fs pronominal suffix, but neither of these fit the context
-        * Remember from Lesson 18 that often, the Cohortative appears with an ה ָ ending.  In this passage, "I will be honored in/through Pharaoh" seems to fit better than "Let me be honored through Pharaoh."  This is likely just a spelling variant<small>^[<small>See CHALOT p. 150</small>]</small
+        * Remember from Lesson 18 that often, the Cohortative appears with an ה ָ ending.  In this passage, "I will be honored in/through Pharaoh" seems to fit better than "Let me be honored through Pharaoh."  This is likely just a spelling variant^[See CHALOT p. 150]</small
         * External references tend to parse this as NI1cs
     * $Root =$ <span class="he">כבד</span>  to be heavy/weighty/glorified
     * $V_S = \ :$  (Silent Sheva)
@@ -18797,9 +19362,26 @@ Hithpael | תִמְ
     
 ## Stem Comparison Table
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.15.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * We can now update our Stem Comparison table to include Niphal
 * Take note of the $Pre$ patterns in red and the $V_S$ in blue
-    * When you can work your way back to the $Pre$ pattern of the Strong verb means you will correctly identify the stem and conjugation most of the time
+    * When you are able work your way back to the $Pre$   pattern of the Strong verb, it means you will correctly identify the stem and conjugation most of the time
+    * The last column indicates the  $V_S$ pattern for perfects on the left, and imperfects on the right
+        * Remember, FP imperfect forms take $A$ (Patach) in the Niphal, the Pt $V_S$ is the lengthened P3ms and the A $V_S$ is usually $\bar E$ (Tsere)
 
 
 <img src="images/24_stemcomp.png" width="600pt" style="display: block; margin: auto;" />
@@ -18824,29 +19406,39 @@ Hithpael | תִמְ
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/jEQ6P2xIDEo){target="_blank"}
 
 
-## Worksheets: Niphal Strong Paradigm {-}
+## Worksheet: Niphal Strong Paradigm {-}
 
 Use your knowledge of the $Pre$ and $V_S$ of the Niphal, complete the worksheet until you can do it once through correctly.
 
 Again, you do NOT need to have the Niphal paradigms memorized (although that may eventually happen naturally!).
 
-[Niphal Strong Paradigm](24_niphal_strong_paradigms.pdf){target="_blank"}
+[Niphal Strong Paradigm](./images/24_niphal_strong_paradigms.pdf){target="_blank"}
 
 
-## Optional _Hebrew Quest_ Study Passage: Numbers 15 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Numbers 15 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
 1. Read the passage - [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
+3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
     * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15){target="_blank"}
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/gpXGnSfT_3k){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/24_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-24.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_24.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/24_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/24_quiz_practice.pdf){target=“_blank”}
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/24_quiz_strong_verb_summary.pdf){target=“_blank”}
 
 
 
@@ -18858,10 +19450,25 @@ YOUR HEBREW QUEST:
 
 <!--chapter:end:24-Niphal_Strong.Rmd-->
 
-# The Niphal Stem - Weak Verbs {.N-w}
+# The Niphal Stem - Weak {.N-w}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 
-Now that we have learned the basic ground rules for the Niphal stem in Lesson 24, we now turn our attention to the spelling changes caused by verbs with one or more weak letters.  
+Now that we have learned the basic ground rules for the Niphal stem in Lesson 24, we turn our attention to the spelling changes caused by verbs with one or more weak letters.  
 
 In all stems, weak verbs tend to be much more prevalent.   We start by learning the strong verb patterns, then we can "manage by exception" to diagnose the corresponding weak verbs.
 
@@ -18887,52 +19494,106 @@ Before continuing, can you describe the following concepts from Lesson 24?
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25-9.Isaiah62.12.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ###  <span class="he">וְקָרְא֥וּ לָהֶ֛ם עַם־הַקֹּ֖דֶשׁ גְּאוּלֵ֣י יְהוָ֑ה וְלָךְ֙ יִקָּרֵ֣א דְרוּשָׁ֔ה עִ֖יר לֹ֥א נֶעֱזָֽבָה׃</span> {-}
 
 *And they will call them, "The holy people, The redeemed of Adonai"; And you will be called, "Sought out, a city not forsaken." (Isaiah 62:12)*
 
 We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a chance to reflect on what it means to be redeemed and live our lives accordingly.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/25-13.Isaiah65.19.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
 
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 ## A weak consonant affects the vowels that touch it
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+You may have noticed that a weak letter not only affects its own vowel, but it can also affect the vowel that immediately precedes.  This is usually through compensatory lengthening or virtual doubling (which as remember is virtually NO doubling because nothing visibly changes):
 
 * A weak $R_1$ affects $V_P$ and $V_1$ (but NOT $V_S$)
 * A weak $R_2$ affects $V_S$ and $V_1$ (but NOT $V_P$)
 * A weak $R_3$ affects $V_S$ and sufformative (but NOT $V_1$ or $V_P$)
 
 
-## 1-Guttural 
+## 1-Guttural / 1-Resh
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 * Guttural takes Hateph Vowel instead of Sheva
-    * Remember the Rule of Sheva - "Hateph Copy Cat"
+    * Remember the Rule of Sheva - 
     * Whichever Hateph vowel is under the guttural, the Niphal prefix will take the corresponding short vowel
         * Strong - <span class="he">נִקְ</span>
-        * 1G - <span class="he">נַעֲ</span> or <span class="he">נֶאֱ</span>
-    * If $R_2$ has a Sheva, then $R_1$ lengthens from Hateph to its corresponding short vowel
-        * 1G -<span class="he">נֶאֶמְ</span>
-* Guttural and Resh reject Dagesh Forte
+        * 1G - <span class="he">נַעֲ</span> or <span class="he">נֶאֱ</span> (which we can imagine itself has been affected by the Rule of Sheva)
+    * If $R_2$ has a Sheva (e.g. NP3cp), then $V_1$ lengthens from its Hateph vowel to its corresponding short vowel
+        * 1G -<span class="he">נֶאֶמְ</span>, using א and ע to represent any guttural
+* Guttural and Resh reject Dagesh Forte - expect Compensatory Lengthening
     * Strong - <span class="he">הִקָּ</span>
     * 1G/1R - <span class="he">יֵעָ</span>
+    * Because Niphal has forms that put a Daghesh Forte in $R_1$, 1-ר verbs are considered Weak verbs in the Niphal, whereas they were Strong in the Qal
 
 ## 1י
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 ::: {.box .info}
 * Historically, in the evolution of the language, most 1-Yod verbs used to begin with a Vav
@@ -18944,7 +19605,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
     * Participle - NOT *<span class="he">נִיְשָׁב</span>, but <span class="he">נוֹשָׁב</span>
 * 1-Yod shifts to consonantal Vav when $Pre =$ <span class="he">יִקָּ</span> (or similar)
     * Imperfect - NOT *<span class="he">יִיָּשֶׁב</span>, but <span class="he">יִוָּשֶׁב</span>
-        * Imperfect 1C is ALWAYS <span class="he">אִ</span>, NOT *<span class="he">אֶ</span> if 1-Yod 
+        * Imperfect 1cs is ALWAYS <span class="he">אִ</span>, NOT *<span class="he">אֶ</span> if 1-Yod 
     * Imperative - NOT *<span class="he">הִיָּשֵׁב</span>, but <span class="he">הִוָּשֵׁב</span>
 
 ::: {.box .light}
@@ -18954,32 +19615,83 @@ If you see what looks like a "1-Vav" verb, parse it as 1-Yod
 
 ## 1נ with Silent Sheva Assimilates
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 * When Niphal $Pre =$ <span class="he">נִקְ</span>:
     * NP3ms - NOT *<span class="he">נִנְצַל</span> but <span class="he">נִצַּל</span>
-    * NPtMS - NOT *<span class="he">נִנְטָל</span> but <span class="he">נִצָּל</span>
+    * NPtMS - NOT *<span class="he">נִנְצָל</span> but <span class="he">נִצָּל</span>
 
-## 3א Changes $V_S$
+## 3א 
 
-::: {.map .light}
-You can usually parse a 3-Aleph verb based on the preformative alone
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
 
 * For 3-Aleph, there is a unique Niphal $V_S$ formula
 
-$$V_S = \bar A(\bar E) \sim \bar E(E)$$
+$$V_S = \bar A[\bar E] \sim \bar E(E)$$
+
+
+
 
 * You do not need to memorize the changed pattern since you can still parse based on the preformative
-* $\bar A(\bar E)$ means:
-    * $\bar A$ (Qamets) in the NP <u>3rd person</u> reduced (except in 3ms)
-    * $(\bar E)$ (Tsere) in the NP <u>1st and 2nd person</u>
-* NPt is still the P3ms $V_S$ lengthened
-    * $\bar A$ is already a long vowel
-    * So 3-Aleph NP3ms and NPtMS have the same spelling
-    * <span class="he">נִמְצָא</span> is NP3ms or NPtMS
+* In the interest of thoroughness:
+    * $\bar A(\bar E)$ means:
+        * $\bar A$ (Qamets) in the NP <u>3rd person</u> 
+        * $[\bar E]$ (Tsere) in the NP <u>1st and 2nd person</u>
+    * NPt is still the P3ms $V_S$ lengthened
+        * $\bar A$ is already a long vowel
+        * So 3-Aleph NP3ms and NPtMS have the same spelling
+        * <span class="he">נִמְצָא</span> is NP3ms or NPtMS
     
-## 3ה Verbs Follow the same general principles
+::: {.box .light}
+You can usually parse a 3-Aleph verb based on the $Pre$ formula
+:::
 
-::: {.map .info}
+## 3ה Verbs follow the same general principles
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+::: {.box .info}
 To review: 
 
 * 3-ה verbs have two root consonants, not three
@@ -19017,30 +19729,55 @@ Review 3ה endings by Conjugation:
 
 ## What to Memorize for Niphal Weak
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 ::: {.box .light}
 Think your way through the weak verb $Pre$ to get back to the Niphal Strong $Pre$
 :::
 
-* 1G - $Pre$ <span class="he">נַעֲ</span> or <span class="he">נֶאֱ </span> or <span class="he">נֶאֶמְ</span> is the same as strong $Pre$ <span class="he">נִקְ</span>
-* 1G/R - $Pre =$ <span class="he">הֵרָ</span> is the same as strong $Pre =$ <span class="he">הִקָּ</span>
-* 1Y - $Pre =$ <span class="he">נוֹ</span> is the same as strong $Pre =$ <span class="he">נִקְ</span>
-* 1N - $Pre =$ <span class="he">ָנִתּ</span> is the same as strong $Pre =$ <span class="he">נִקְתַ</span>
+* 1G reject Sheva in $R_1$ in the Niphal Perfect forms - apply the Rule of Sheva
+    * $Pre$ <span class="he">נַעֲ</span> or <span class="he">נֶאֱ </span> or <span class="he">נֶאֶמְ</span> is the same as strong $Pre$ <span class="he">נִקְ</span> 
+* 1G/ר reject the Daghesh Forte in $R_1$ in the Niphal Imperfect forms - compensatory lengthening
+    * $Pre =$ <span class="he">הֵרָ</span> is the same as strong $Pre =$ <span class="he">הִקָּ</span>
+* 1י were originally 1ו - will take Holem+Vav in the Perfect forms, and Consonantal Vav (with a Daghesh Forte) in the Imperfect forms
+    * $Pre =$ <span class="he">נוֹ</span> is the same as strong $Pre =$ <span class="he">נִקְ</span> 
+* 1נ - Niphal Perfect forms want a silent sheva in R$_1$ - a נ with a Silent Sheva assimilated into a Daghesh Forte in $R_2$ (if possible)
+    * $Pre =$ <span class="he">נִטַּ</span> is the same as strong $Pre =$ <span class="he">נִקְטַ</span>
+* 3ה verbs behave as they did in the Qal - add the appropriate 3ה ending or vowel + י combination
 
-Also:
-
-* Verbs that look "1-Vav" are actually 1-Yod - <span class="he">יִוָּשֵׁב</span>
-* Memorize the list of 3-ה verb endings:
-
-| Conj | Hebrew | Vowel
-| :- | :- | :-
-| P | <span class="he">בָּנָה</span> | Qamets+Hei
-| I | <span class="he">יִבְנֶה</span> | Seghol+Hei
-| M | <span class="he">בְּנֵה</span> | Tsere+Hei
-| ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
-| A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
-| Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
 
 ## Top 10 Niphal Verbs 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/25.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 
 1. <span class="he">לָחַם</span> - (Q, N) to fight, do battle with (167x in Niphal Stem)
 1. <span class="he">שָׁבַע</span> - (N) to swear, swear (take) an oath, adjure (154x)
@@ -19084,7 +19821,7 @@ You are likely unfamiliar with the meanings of at least two of these.  Identify 
 By now, if you have been completing your `Ruth Pursuit` table along with each lesson, you may have noted that there aren't that many words left in the passage that we haven't translated.  This may make it easier for you to identify the remaining verbs by process of elimination, but make sure you understand WHY the words you select are Niphal.
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #25](./images/25_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 ## Claim your next `Twelve Tribes Badge`! {-}
@@ -19098,7 +19835,7 @@ Once you have completed all activities through this lesson, complete the form be
 </div>
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: John 1 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: John 1 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
@@ -19110,11 +19847,43 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/UqarSC_Wt4Y){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/25_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-25.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_25.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/25_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/25_quiz_practice.pdf){target=“_blank”}
+
 <!--chapter:end:25-Niphal_Weak.Rmd-->
 
-# The Piel Stem - Strong Verbs {.D-s}
+# The Piel Stem - Strong {.D-s}
 
-The Piel stem occurs 6,473 times in the Hebrew Bible. It appears in the Perfect 2,120 times, Imperfect 2,446 times, Imperative 436 times, Infinitive Construct 708 times, Infinitive Absolute 84 times, and Participle 679 times
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+The Piel stem occurs 6,473 times in the Hebrew Bible. 
+P - 2,120
+I - 2446
+M - 436
+∞ - 708
+A -84
+Pt - 679
 
 Many students find the Piel is one of the easier stems to identify.  It is one of only three Verb stems (along with the Pual and Hitpael) that has a Dagesh Forte in $R_2$. The Piel is easily distinguished from the Pual, which has a steady U-class vowel.  The Piel is also easily distinguished from the Hitpael, which has a unique prefix.
 
@@ -19131,6 +19900,24 @@ __LESSON ITINERARY__
 
 ## First Thought {-}
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26-18.Psalms119.13.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+
 ### <span class="he">בִּשְׂפָתַ֥י סִפַּ֑רְתִּי כֹּ֝֗ל מִשְׁפְּטֵי־פִֽיךָ׃</span> {-}
 
 *With my lips, I have told of All the ordinances of Your mouth (Psalms 119:13)*
@@ -19139,22 +19926,12 @@ With our study of Hebrew, we can get closer to the original intent of God's ordi
 
 We must practice the disciplines of worship, service, and study (and teaching if that is our calling) so that these traits become hard-wired habits.  If that is already in place then we can use Hebrew to reach new depths in our relationships.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/26-18.Psalms119.13.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-107)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19163,6 +19940,22 @@ We must practice the disciplines of worship, service, and study (and teaching if
 <!-- FOR STRONG VERB CHAPTERS -->
 
 ## Piel Verb Stem Table 
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -19173,18 +19966,31 @@ Cause an Action	| Hiphil | Hophal
 * Reminders:
     * The table gives broad generalization; many verbs do not fit neatly into the table's definitions
     * Use a lexicon/dictionary to check the meanings in different stems
-    * Many references like this one will label the 2nd row as "Intensive Action," but this is a controversial topic in the academic community
+    * Many references will label the 2nd row as "Intensive Action," but this is a controversial topic in the academic community
 
 
 ## Piel Meanings
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Cause a state ('factitive')
     * <span class="he">מִלֵּא </span>
         * Q - He filled
         * D (Piel) - He caused (something) to be full
-    <span class="he">אָנַשף </span>
-        * Q - He was angry
-        * D - He made (someone) angry
+
 * Do something repeatedly ('iterative')
     * <span class="he">הָלַךְ</span>
         * Q - He walked
@@ -19201,6 +20007,21 @@ Cause an Action	| Hiphil | Hophal
 
 ## Piel is the "D" stem because $R_2$ takes a Doubling Dagesh Forte
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * In fact, when you see a Dagesh in $R_2$, it's more than likely either a Piel form or a 1-נ verb that has assimilated.  If you see three root letters, it's probably a Piel
     * Two other Stems take a Dagesh in $R_2$ - Pual (Lesson 28) and Hitpael (Lesson 34).  As we will learn in those lessons, both forms are easily distinguished from Piel.
 * Gutturals, Resh, SQiN eM LeVY letters reject the Daghesh Forte
@@ -19208,6 +20029,21 @@ Cause an Action	| Hiphil | Hophal
     * Gutturals/Resh will be discussed in Lesson 27
 
 ## Memorize Piēl - Paēl
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ::: {.box .info}
 The Piel is remarkably consistent.  
@@ -19218,7 +20054,7 @@ While there are distinctive $Pre$ and $V_S$ combinations, it's easiest to rememb
     * $V_1 = I$
     * $V_S = \bar E$ in the 3rd person
         * <span class="he">קִטֵּל</span> - DP3ms
-    * $V_S = A in the 2nd/1st person
+    * $V_S = A$ in the 2nd/1st person
         * <span class="he">קִטַּ֫לְתָּ</span> - DP2ms
 * Paēl in ALL OTHER CONJUGATIONS
     * $V_1 = A$
@@ -19238,44 +20074,25 @@ While there are distinctive $Pre$ and $V_S$ combinations, it's easiest to rememb
 $$V_{S} = \bar E[A] \sim \bar E$$
 
 
-## Pay attention when $R_2$ is a SQiN eM LeVY consonant
 
-* As we have mentioned previously, SQiN eM LeVY is a mnemonic for a group of letters that can reject a Dagesh Forte when the letter has a Sheva
-    * S - סצשׁסֹ
-    * Q - ק
-    * N - נ
-    * M - מ
-    * L - ל
-    * V - ו
-    * Y - י
-
-* If you see a SQiN eM LeVY consonant with a Sheva, it might have a "hidden" Daghesh Forte
-
-## DIwc
-
-* The Iwc has a Dagesh in the Imperfect Preformative
-* the DI preformative has a Sheva
-* Therefore, DIwc3ms and DIwc3mp lose Dagesh
-* DIwc3ms - Not *<span class="he">וַיְּקַטֵּל</span>, but <span class="he">וַיְקַטֵּל</span>
-* DIwc3mp - Not *<span class="he">וַיְּקַטְּלוּ</span>, but <span class="he">וַיְקַטְּלוּ</span>
-* Forms with reduced $V_2$
-    * Example DP3cp - Not *<span class="he">שִׁמְּרוּ</span>, but <span class="he">שִׁמְרוּ</span>
-    
-## Piel: what to memorize
-
-* Parsing code D - Dagesh Forte in $R_2$
-* "Piēl - Paēl"
-    * This is easier than remembering the $Pre$ and $V_S$ combinations separately
-    * Piēl - Perfect $V_1 = I$
-    * Paēl - everywhere else: $V_1 = A$
-    * $V_S = E$ everywhere except Perfect 1st/2nd person (where $V_S = A$)
-* $V_P = :$ in all Strong Conjugations with preformatives
-    * This compares to $V_P = I$ in the Qal
-* Participle preformative <span class="he">מ</span> (all stems except Qal and Niphal)
-* The SQiN eM LeVY exceptions
-    * $R_2$ and $DIwc$
 
 ## Piel Perfect Strong Paradigm
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -19287,6 +20104,7 @@ $$V_{S} = \bar E[A] \sim \bar E$$
 
 * 3rd person $Pre$ is distinctive Hireq+Dagesh+Tsere
 * 1st/2nd person $Pre$ is Hireq+Dagesh+Patach
+* Daghesh Forte in $R_2$
 
 <figure>
     <figcaption>Piel Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -19312,6 +20130,7 @@ $$V_{S} = \bar E[A] \sim \bar E$$
     * Remember $V_1 = A$ in all non-Perfect forms
     * $V_P = ə$ (Vocal Sheva) - DI1cs will take $V_P = \breve A$ (Hateph Patach)
     * Compare to Qal Imperfect $Pre$ of Hireq+Sheva+Holem
+* Again, note the Daghesh Forte in $R_2$
     
 <figure>
     <figcaption>Piel Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -19329,6 +20148,9 @@ $$V_{S} = \bar E[A] \sim \bar E$$
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">קַטֵּל</span> | 2mp | <span class="he">קַטְּלוּ</span>
 | 2fs | <span class="he">קַטְּלִי</span> | 2fp | <span class="he">קַטֵּ֫לְנָה</span>
+
+* As usual, the Imperative = the Imperfect without the preformative.
+* Again, a Daghesh Forte in $R_2$
 
 <figure>
     <figcaption>Piel Imperative Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -19385,11 +20207,93 @@ Pual | מְ
 Hiphil | ַמ
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
-Hithpael | תִמְ
+Hithpael | מִתְ
 
+## SQiN eM LeVY consonants with Sheva may reject Daghesh Forte
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* As we have mentioned previously, SQiN eM LeVY is a mnemonic for a group of letters that can reject a Dagesh Forte when the letter has a Sheva
+    * S - שׁשּצס
+    * Q - ק
+    * N - נ
+    * M - מ
+    * L - ל
+    * V - ו
+    * Y - י
+
+* As we saw in the paradigm tables, all verbs place a Sheva in $V_2$ in P3fs, P3cp, (I/M)2fs, I3mp, (I/M)2mp, Pt(m/f)p, as well as frequently when there is a pronominal suffix
+* The Piel stem places a Sheva in $V_P$, in conjugations that have a preformative
+    * The Iwc places a Daghesh in the Imperfect Preformative
+    * So the י in DIwc3ms and DIwc3mp may lose the Daghesh
+
+::: {.box .caution}
+If you see a word that otherwise looks like a Piel but there is no Daghesh Forte where one is expected, you may have a SQiN eM LeVY consonant with a Sheva.
+:::
+
+
+## Piel: what to memorize
+
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+* Parsing code D - Dagesh Forte in $R_2$
+* "Piēl - Paēl"
+    * This is easier than remembering the $Pre$ and $V_S$ combinations separately
+    * Piēl - Perfect $V_1 = I$
+    * Paēl - everywhere else: $V_1 = A$
+    * $V_S = E$ everywhere except Perfect 1st/2nd person (where $V_S = A$)
+* $V_P = :$ in all Strong conjugations with preformatives
+    * This compares to $V_P = I$ in the Qal
+* Participle preformative <span class="he">ְמ</span> (מ in all stems except Qal and Niphal)
+* The SQiN eM LeVY exceptions
+    * $R_2$ and $DIwc3m-$
+    
 ## Piel Parsing Examples
 
-* Word: <span class="he">גדַּ֫לְנוּ </span>
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.12.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Word: <span class="he">גִּדַּלְנוּ </span>
     * The Dagesh in the Gimmel is a Lene (not preceded by a vowel), but the Dagesh in the Dalet is preceded by a vowel that is not a Sheva, so this must be a forte.
         * A Forte in what appears to be $R_2$ Should get your attention 
         * The two questions you should start asking when you see a Forte in $R_2$:
@@ -19435,6 +20339,21 @@ Hithpael | תִמְ
 
 ## Stem Comparison Table
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.13.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Here is the Stem Comparison Table showing Qal, Niphal, and now Piel
 
 
@@ -19461,15 +20380,31 @@ Hithpael | תִמְ
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/NGT8fiuGGp0){target="_blank"}
 
 
-## Worksheets: Piel Strong Paradigms {-}
+## Worksheet: Piel Strong Paradigms {-}
 
 Use your knowledge of the diagnostics Piel stem to complete the Piel worksheet.
 
 Strive for pattern recognition over rote memorization.
 
-[Piel Strong Worksheet](26_piel_strong_paradigms.pdf){target="_blank"}
+[Piel Strong Worksheet](./images/26_piel_strong_paradigms.pdf){target="_blank"}
 
-## Ruth Pursuit Analysis
+## Ruth Pursuit Analysis {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/26.ruth.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 We are now at the exciting stage where we can begin to stitch together an analysis of Ruth 1.  This will be much the same as you have done with the `Hebrew Quest Study Passages`.  The main difference is you will not have Izzy's video explanation.  In that sense, you will now be wading a little deeper into the Hebrew pool! 
 
@@ -19483,16 +20418,16 @@ YOUR QUEST
 1. Read Ruth 1:1-6 in the Hebrew text and underline any words or forms do you not recognize
     * For the first time, try doing this without any study aids, including your `Ruth Pursuit Translation Worksheet`
     * Then as needed, look up the words you don't recognize
-2. Using what you have learned about syntax/phrase constructions and context, compose your own interpretative translation (this time, using whatever resources you'd like!)
+2. Using what you have learned about syntax/phrase constructions and context, compose your own interpretative translation (this time, using your `Ruth worksheet` and whatever other resources you'd like!)
     * You may wish to compose a structural outline of "mini-scenes" identified by conjunctive or disjunctive clauses, quotations, or other constructions
-3. Compare your version with translations of your choice.  These may include JPS, KJV, ESV, NASB, NIV, or NLT.  
-    * At what points do you agree and disagree with translation decisions made by these publications? 
+3. Compare your version with translations of your choice.  These may include JPS, KJV, ESV, NASB, NIV, or NLT.^[We do recommend you avoid strict paraphrase versions such as "The Message", as well as the other translations discouraged by Izzy in his ["Bible Reviews" series](https://holylanguage.com/bibles.html)]
+4. At what points do you agree and disagree with translation decisions made by these publications? 
 
-This exercise is for you.  You do not have to turn this in, and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their feedback and encouragement.
+This exercise is for you.  Although you will need to complete this activity in order to earn your diploma, you will not have to turn this in, and it will not be graded as a part of this course.  We would encourage you to share your passage with the Holy Language Institute Tribe for their feedback and encouragement.
 
 :::
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 31 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Exodus 31 {-}
 
 
 ::: {.box .map}
@@ -19506,11 +20441,38 @@ YOUR HEBREW QUEST
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/qvwYmPkYxuk){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/26_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-26.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_26.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/26_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/26_quiz_practice.pdf){target=“_blank”}
+
+
+
 <!--chapter:end:26-Piel_Strong.Rmd-->
 
-# The Piel Stem - Weak Verbs {.D-w}
+# The Piel Stem - Weak {.D-w}
 
-This lesson will continue our overview of the Piel stem by looking at the week verbs.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+This lesson will continue our overview of the Piel stem by looking at the week verbs.  Most verbs that are weak in $R_1$ are not a problem because the Piel never tries to reduce $R_1$ or put a Dagesh Forte in $R_1$.  The only one of minor interest is 1-נ.
 
 ::: {.box .map}
 __LESSON ITINERARY__
@@ -19522,11 +20484,26 @@ __LESSON ITINERARY__
 ::: {.box .stop)  
 EQUIPMENT CHECK
 
-Before continuing, be sure you are familiar with the diagnostics of the Piel strong forms across the six primary conjugations
-
+Before continuing, be sure you are familiar with the diagnostics of the Piel strong forms (Piēl - Paēl)
 :::
 
 ## First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27-16.Psalms100.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 ### <span class="he">בֹּ֤אוּ שְׁעָרָ֨יו ׀ בְּתוֹדָ֗ה חֲצֵרֹתָ֥יו בִּתְהִלָּ֑ה הֽוֹדוּ־ל֝֗וֹ בָּרֲכ֥וּ שְׁמֽוֹ׃</span> {-}
 
@@ -19540,28 +20517,35 @@ Many people who travel to Israel rightly look back on Jerusalem as the pinnacle 
 
 You are nearing the end of your journey! Keep focusing on Him!  Make sure each day you are entering into His presence with thanksgiving and praise!
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/27-16.Psalms100.4.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 
 
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 
 ## Third Guttural (all variants)
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ::: {.box .light}
 * All third guttural verbs will change the Stem Vowel
@@ -19585,8 +20569,22 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 
 
-## 2-Guttural Reject Sheva 
+## 2-Guttural Reject Sheva
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Going way back to the very first lessons of Hebrew GRAMMAR Course, we studied the different behavior of Gutturals and Resh
 * 2-G verbs will take Hateph vowel instead of Vocal Sheva
@@ -19594,13 +20592,28 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
     * DP3cp - <span class="he">קִטְּלוּ</span> (strong) is <span class="he">נִחֲלוּ</span> 
     * Review Lesson 26 Paradigms for the forms where $V_2 = ə$
 
-## 2-Guttural and 2ר Reject Dagesh Forte
+## 2G/2ר Reject Dagesh Forte
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * As we learned in Lesson 26, the Dagesh Forte in $R_2$ is a key distinctive of the Piel (as well as the Pual and Hitpael) stems
 * 2-G and 2-ר will reject that Dagesh Forte
     * 2-ר/א will almost always have Compensatory Lengthening
-        * DP2ms, Not <span class="he">בִרַּ֫כְתָּ</span>*, but <span class="he">יְבֶרַ֫כְתָּ</span> (Hireq lengthens to Tsere)
-        * DI3ms, Not <span class="he">תְּבַרֵךְ</span>*, but <span class="he">תְּבָרֵךְ</span>(Patach lengthens to Qamets) 
+        * DP2ms, Not <span class="he">בִרַּ֫כְתָּ</span>*, but <span class="he">בֶרַ֫כְתָּ</span> (Hireq + Daghesh lengthens to Tsere and no Daghesh)
+        * DI3ms, Not <span class="he">תְּבַרֵּךְ</span>*, but <span class="he">תְּבָרֵךְ</span> (Patach + Daghesh lengthens to Qamets and no Daghesh) 
     * 2-ה/ח/ע usually do NOT have compensatory lengthening in Piel
         * DP3cp - Not <span class="he">נִחֲּמוּ</span>*, but <span class="he">נִחֲמוּ</span>
         * Often $V_2$ changes, but do not be concerned about this; the Diagnostic Piel $Pre$ (minus the Dagesh Forte) is still intact
@@ -19613,9 +20626,24 @@ However, some verbs may exhibit either pattern.
 
 ## 1נ
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * As we know, what makes a 1-nun verb weak is the tendency to assimilate when the nun has a Sheva
-* $V_1$ is NEVER a Sheva in the Piel<small>^[<small>To "connect the dots", if $V_2$ MUST be a Dagesh Forte, than $V_1$ MUST be a vowel that is not a Sheva.</small>]</small> so 1-Nuns are actually strong in the Piel (meaning there are no spelling changes compared to the Piel Strong Verb Paradigms)
-* The challenge is that the $Pre$ of a 1-nun Piel Perfect verb is identical to the $Pre$ of a Niphal Perfect verb
+* $V_1$ is NEVER a Sheva in the Piel^[To "connect the dots", if $V_2$ MUST be a Dagesh Forte, than $V_1$ MUST be a vowel that is not a Sheva.] so 1-Nuns are actually strong in the Piel (meaning there are no spelling changes compared to the Piel Strong Verb Paradigms)
+* The challenge is that the $Pre$ of a 1-nun Piel Perfect verb CAN BE identical to the $Pre$ of a Niphal Perfect verb
 * To demonstrate, consider <span class="he">נִגַּ֫שְׁתָּ</span>, which is either DP2ms or NP2ms:
     * We do not know whether the <span class="he">נִ</span> is the nun of the Niphal prefix, or whether it is the 1-nun of the root in the Piel
     * We also do not know whether the Dagesh in <span class="he">גּ</span> represents the assimilated 1-Nun in the Niphal, or the Doubled $R_2$ in Piel
@@ -19625,10 +20653,25 @@ However, some verbs may exhibit either pattern.
     * You may need to consult a reference for these
     
 ::: {.box .info}
-The good news is that the P3ms $V_S$ are not the same in Piel ($\bar E$, as in <span class="he">נִצֵּל</span>) and Niphal ($A$, as in <span class="he">נִַצָּל</span>), so the far more common P3ms forms can be differentiated.
+The good news is that the P3ms $V_S$ are not the same in Piel ($\bar E$) and Niphal ($A$), so the far more common P3ms forms can be differentiated.
 :::
 
-## Biconsonantal: the Polel minor stem
+## Biconsonantal and Geminate: the Polel minor stem
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Biconsonantal verbs lack $R_2$ so there will be no Dagesh
 * What happens is that $R_3$ is doubled (as if it were a Geminate) and there is a Holem Vav (sometimes written as a defective Holem) at $V_1$
@@ -19638,28 +20681,46 @@ The good news is that the P3ms $V_S$ are not the same in Piel ($\bar E$, as in <
 
 ::: {.box .info}
 * Because of the vowel sequence, Biconsonantal Piel is sometimes referred to by the mnemonic, pôlēl
-    * While there are seven major Hebrew verb stems, many grammars classify many additional minor stems
+    * While there are seven major Hebrew verb stems, many grammars classify several additional minor stems
     * Polel would be considered a minor stem
-* Take note that pôlēl is also the vowel sequence for the QPt 
+* Take note that pôlēl is also the vowel sequence for the QPt
 :::
-
-## Geminate
 
 * Geminate verbs are sometimes strong
     * <span class="he">הִלֵּל</span> or <span class="he">יְהַלֵּל</span>
 * Sometimes they are like pôlēl
     * <span class="he">פּוֹרֵר</span> or <span class="he">יְפוֹלֵל</span>
 
-## Other weak $R_1$ forms
+::: {.box .light}
+* A robust vocabulary helps to identify Biconsonantal and Geminate verbal roots
+:::
 
-Generally, these are not a problem because we are not trying to reduce $R_1$ or put a Dagesh Forte in $R_1$
+
+
+
+
 
 ## What to Memorize for Piel Weak
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * 3-ה verb endings in all stems
 * 2-G/2-ר verbs lack the Dagesh in $R_2$ - may have Compensatory Lengthening
 * 1-נ verbs in DP = NP (except for 3ms)
-* The mnemonic, pôlēl, to remind you of Biconsonantal or Gemininate
+* The mnemonic, pôlēl, to remind you of Biconsonantal or Gemininate vowel patterns
 
 ::: {.box .info}
 For most weak verbs, the strong diagnostics of the Piel are retained: 
@@ -19670,6 +20731,7 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 :::
 
 ## Piel Weak Parsing Examples
+
 
 * Word: <span class="he">כַּלּוּ </span>
     * $Pre =$ כַּלּ 
@@ -19743,12 +20805,12 @@ Identify, parse, and translate the two Piel verbs in Ruth 1
 Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Daghesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #27](./images/27_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
-## Hebrew Quest Study Passages: Psalms 1 and 27 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Psalms 1 and 27 {-}
 
 
 ::: {.box .map}
@@ -19765,9 +20827,36 @@ YOUR HEBREW QUEST
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/2jzhf9MUhGs){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/27_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-27.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_27.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/27_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/27_quiz_practice.pdf){target=“_blank”}
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/27_quiz_principles.pdf){target=“_blank”}
+
+
 <!--chapter:end:27-Piel_Weak.Rmd-->
 
-# The Pual Stem - Strong Verbs {.Dp-s}
+# The Pual Stem - Strong {.Dp-s}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 The Pual stem has a diagnostic Qibbuts as $V_1$, making this stem easy to recognize. 
 
@@ -19794,6 +20883,21 @@ Before continuing, be sure you can describe the diagnostics of the Piel Strong P
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28-1.Proverbs16.6.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">בְּחֶ֣סֶד וֶ֭אֱמֶת יְכֻפַּ֣ר עָוֺ֑ן וּבְיִרְאַ֥ת יְ֝הוָ֗ה ס֣וּר מֵרָֽע׃</span> {-}
 
 *By lovingkindness and truth iniquity is atoned for, And by the fear of Adonai, one keeps away from evil. (Proverbs 16:6)*
@@ -19802,27 +20906,29 @@ This verse is interesting.  Our traditional beliefs would probably be closer to 
 
 How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and truth can cover (כפר) our sins? 
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/28-1.Proverbs16.6.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
-
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
-## Pual Verb Stem Table and Meaning
+## Pual Verb Stem Table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -19845,42 +20951,40 @@ The Pual is the Passive of the Piel, or sometimes, the passive of the Qal
 
 
 
-## Parsing Clues - _Pre_: $V_1 = U$ - ALWAYS for strong verbs
+## Parsing Clues - $V_1 = U$ - ALWAYS for strong verbs
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * The Pual is very consistent, making it easily recognizable
     * $V_1 = U$ - ALWAYS for strong verbs
-* Perfect: <span class="he">קֻטּ</span>
-* Imperfect: <span class="he">יְקֻטּּ</span>
+* The Pual retains the Daghesh Forte in $R_2$
+* $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
+    * I.e. $V_S = A \sim A$
+    * Pt lengthens as expected: $V_S = \bar A$
+* Perfect: $Pre =$ <span class="he">קֻטַּ</span>
+* Imperfect: $Pre =$ <span class="he">ַיְקֻטַּ</span>
     * $V_P = ə$ (I1cs/I1cp never occurs)
-* Participle: <span class="he">מְקֻטּ</span>
+* Participle: $Pre =$ <span class="he">מְקֻטָּ</span>
 
 ::: {.box .light}
 The Qibbuts under the first root consonant distinguishes the Pual Form
 :::
 
-## Parsing Clues - $V_S = A$ and Dagesh Forte in $R_2$
 
-* $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
-    * I.e. $V_S = A \sim A$
-    * Pt lengthens as expected: $V_S = \bar A$
-* The Pual retains the other diagnostics of the Piel:
-    * Daghesh Forte in $R_2$
-
-
-
-
-## Pual: what to memorize
-
-* Parsing code: Dp
-    * 'D' because $R_2$ is doubled
-    * 'p' because passive
-* $V_P = \ :$
-* $V_1 = U$
-* $V_S = A$
-* Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
-* Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
-
-## Perfect  
+## Pual Perfect Paradigm
 
 Qibbuts in $V_1$ always
 
@@ -19888,7 +20992,7 @@ Qibbuts in $V_1$ always
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">קֻטַּל</span>  | 3cp | <span class="he">קֻטְּלוּ</span> 
 | 3fs | <span class="he">קֻטְּלָה</span> | 
-| 2ms | <span class="he">קִטַּ֫לְתָּ</span> | 2mp | <span class="he">קֻטַּלְתֶּם</span>
+| 2ms | <span class="he">קִֻטַּ֫לְתָּ</span> | 2mp | <span class="he">קֻטַּלְתֶּם</span>
 | 2fs | <span class="he">קֻטַּלְתְּ</span> | 2fp | <span class="he">קֻטַּלְתֶּן</span>
 | 1cs | <span class="he">קֻטַּ֫לְתִּי</span> | 1cp | <span class="he">קֻטַּ֫לְנוּ</span>
 
@@ -19903,10 +21007,10 @@ Qibbuts in $V_1$ always
 </figure>
 
 
-## Imperfect  
+## Pual Imperfect Paradigm
 
 * Qibbuts in $V_1 = U$ always
-* If there is a preformative, $V_P = \ :$ always
+* If there is a preformative, $V_P = \ :$ always (Hateph Patach in 1cs)
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -19927,10 +21031,10 @@ Qibbuts in $V_1$ always
 </figure>
 
 
-## Participle
+## Pual Participle Paradigm
 
 * Qibbuts in $V_1$ always
-* Mem+Sheva prefix always
+* Mem+Sheva מְ prefix always
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -19950,6 +21054,32 @@ Hiphil | ַמ
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 Hithpael | תִמְ
+
+## Pual: what to memorize
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Parsing code: Dp
+    * 'D' because $R_2$ is doubled
+    * 'p' because passive
+* $V_P = \ :$
+* $V_1 = U$
+* $V_S = A$
+* Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
+* Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
 
 ## Pual Parsing Examples
 
@@ -19972,7 +21102,7 @@ Hithpael | תִמְ
 
 After memorizing the information in the "what to memorize" section, see if you can reconstruct the Pual paradigm using this worksheet.  
 
-[Pual Strong Paradigms](28_pual_strong_paradigms.pdf){target="_blank"}
+[Pual Strong Paradigms](./images/28_pual_strong_paradigms.pdf){target="_blank"}
 
 
 ## Word Warm-up {-}
@@ -20025,7 +21155,7 @@ Once you have completed all activities through this lesson, fill out the form be
 </div>
 
 
-## OPTIONAL Hebrew Quest Study Passage: Revelation 1 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Revelation 1 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST
@@ -20037,13 +21167,42 @@ YOUR HEBREW QUEST
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/fFF0iqcTdIQ){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/28_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-28.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_28.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/28_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/28_quiz_practice.pdf){target=“_blank”}
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/28_quiz_strong_verb_summary.pdf){target=“_blank”}
 
 
 <!--chapter:end:28-Pual_Strong.Rmd-->
 
-# The Pual Stem - Weak Verbs {.Dp-w}
+# The Pual Stem - Weak {.Dp-w}
 
-The distinctive $V_1 = U$ is maintained in nearly all Pual weak forms.  Regardless of other spelling changes, only the Pual has $V_1 = U$.  It is only when $R_2$ rejects the Dagesh Forte AND has Compensatory Lengthening that there is a potential ambiguity.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/29.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+The distinctive $V_1 = U$ is maintained in nearly all Pual weak forms.  It helps that the Qibbuts is also quite unique visually! 
+
+It is only when $R_2$ rejects the Dagesh Forte AND has Compensatory Lengthening that there is a potential ambiguity.
+
+You will still need to know the general weak verb concepts, particularly 3-ה behavior, to make sure you get to the correct Pual _conjugation_.
 
 Enjoy this very brief lesson!
 
@@ -20051,7 +21210,7 @@ Enjoy this very brief lesson!
 ::: {.box .map}
 __LESSON ITINERARY__
 
-The Pual diagnostic $V_1 = U$ is maintained in almost every weak verb form
+2-gutturals/ר reject the Daghesh Forte _sometimes_ resulting in Compensatory Lengthening of Qibbuts to Holem.
 :::
 
 ::: {.box .stop}
@@ -20065,53 +21224,85 @@ Before continuing, can you describe the following concepts?
 
 ## First Thought {-}
 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/29-3.Psalms112.2.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">גִּבּ֣וֹר בָּ֭אָרֶץ יִהְיֶ֣ה זַרְע֑וֹ דּ֭וֹר יְשָׁרִ֣ים יְבֹרָֽךְ׃</span> {-}
 
 *His descendants will be mighty on earth; The generation of the upright will be blessed. (Psalms 112:2)*
 
 As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an excellent question to start asking yourself is, "what next?" Or, as Yeshua might ask, what are you going to do with this "light" you have been given?  How can you enrich the lives of your family, friends, and other people in your circle of influence?  How can your descendants (whoever that might be in your situation) be blessed by your greater knowledge of Hebrew?
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/29-3.Psalms112.2.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 
-## The Pual diagnostic $V_1 = U$ is maintained in almost all weak verbs
+## 2-Gutturals/ר Reject Dagesh Forte
 
-* $V_1 = U$ is unique to the Pual stem
-* Regardless of other changes that may occur, you will be able to identify the Pual stem in every case, with one exception
-* You will still need to know the general weak verb concepts, particularly 3-ה behavior, to make sure you get to the correct Pual conjugation
-
-
-
-## 2-Gutturals Reject Dagesh Forte
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/29.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * When there is NO compensatory lengthening, $V_1 = U$, so we can quickly identify Pual
 * When there IS Compensatory Lengthening, $V_1 = \bar O$ (Holem)
     * DpP3ms - NOT *<span class="he">בֻּרַּךְ</span>, but <span class="he">בֹּרַךְ</span>
 * Ambiguity arises because Qal Participle is also $V_1 = \bar O$ but only the QPtFS and DpP3FS of a 2-G verb are identical
+    * Context should be obvious whether there is a woman doing the action or whether the word is describing a feminine noun
 * Because the Qal stem is much more frequent than the Pual, a correct first guess whenever $V_1 = \bar O$ is Qal Participle.  If you notice that $R_2$ is a guttural, you may need to do some more detective work
 
 
-## Biconsonantal: the Polal minor stem
+## Other Changes
 
-* In every respect the same as Pual except for $V_S = A$
-* This is identical to the Polel stem for the Piel discussed in Lesson 27
-    * Polel $V_S = \bar E$
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/29.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* 3-א - $V_S$ shifts to $\bar A$, $\bar E$, or $E$ as usual; still, $V_1 = U$
+
+* 3-ה - same as always; still, $V_1 = U$
+
+* Biconsonantal- In every respect, these are spelled the same as Pual strong except for Polel $V_S = \bar E$ vs Pual $V_S = A$; still $V_1 = U$
+
 
 
 
@@ -20133,11 +21324,8 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/YiO_gyPz-nM){target="_blank"}
 
-## Ruth Pursuit 
 
-Not surprisingly, there are no Pual verbs in Ruth 1.  We'll skip the `Ruth Pursuit` for this lesson.
-
-## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 145 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Psalms 145 {-}
 
 
 ::: {.box .map}
@@ -20145,16 +21333,42 @@ YOUR HEBREW QUEST
 
 1. Read the passage - [Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/copy){target="_blank"}
 2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
+3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/36RA9V4cwiE){target=“_blank”}
+* [Dr. Beckman Lecture Notes] (https://hebrewsyntax.org/bbh2new/29_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-29.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_29.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/29_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/29_quiz_practice.pdf){target=“_blank”}
+
 <!--chapter:end:29-Pual_Weak.Rmd-->
 
-# The Hiphil Stem - Strong Verbs {.H-s}
+# The Hiphil Stem - Strong {.H-s}
 
-With the Hiphil stem, we move into the bottom row of our verb table.  There are approximately 10,000 occurrences of the Hiphil stem in the Bible. The Hiphil stem has the nuance of causing an action, entering into a state, or declaring a state.  Activities for this lesson include identifying Hiphil verbs in Ruth chapter one and, for those doing the _Hebrew Quest_ Study Passage track, reading verse by verse through Exodus 19.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+There are approximately 10,000 occurrences of the Hiphil stem in the Bible. The Hiphil stem has the nuance of causing an action, entering into a state, or declaring a state.  Activities for this lesson include identifying Hiphil verbs in Ruth chapter one and, for those doing the _Hebrew Quest_ Study Passage track, reading verse by verse through Exodus 19.
 
 
 ::: {.box .map}
@@ -20169,6 +21383,20 @@ LESSON ITINERARY
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload"  src="./images/30-10.Isaiah1.18.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 ### <span class="he">לְכוּ־נָ֛א וְנִוָּֽכְחָ֖ה יֹאמַ֣ר יְהוָ֑ה אִם־יִֽהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג יַלְבִּ֔ינוּ אִם־יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִהְיֽוּ׃</span> {-}
 
 *"Come now, and let us reason together," Says Adonai, "Though your sins are as scarlet, They will be as white as snow; Though they are red like crimson, They will be like wool. (Isaiah 1:18)*
@@ -20177,29 +21405,33 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <span class="he">יַאְדִּ֥ימוּ</span> is Hiphil Imperfect 3ms
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/30-10.Isaiah1.18.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
 
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 
 
-## Meaning of the Hiphil
+## Verb Stem Table: Hiphil
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -20213,21 +21445,37 @@ Meanings:
     * <span class="he">יצא</span>
         * Q - to go out
         * H - to cause something to go out, i.e., to bring out
-    * Sometimes passive of Qal - <span class="he">אכל</span>
+* Sometimes passive of Qal - 
+    * <span class="he">אכל</span>
         * Q - to eat
         * H - to cause to eat, i.e., to feed 
 * Enter into or declare the state expressed by Qal
     * <span class="he">זקן</span>
         * Q - to be old
-        * H - to grow old
+        * H - to enter into the state of being old, i.e., to grow old
     * <span class="he">רשׁע</span>
         * Q - to be guilty/wicked
         * H - to declare guilty
 * Simple action, like the Qal
 
-Parsing Code: H (`H`iphil)
+Parsing Code: H (_H_iphil)
 
-## Hiphil Strong Word Initial Combinations - Think "HIphil-HAphil"
+## Hiphil tip: Think "hIphil-hAphil"
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Preformatives
     * Hiphil verbs have preformative ה
@@ -20235,11 +21483,11 @@ Parsing Code: H (`H`iphil)
 * $V_P$
     * Remember "Hiphil-Haphil" (like "Piel-Pael")
     * $V_P = I$ in the PERFECT ("Hiphil")
-    * $V_P = A$ EVERYWHERE ELSE ("Haphil")
+    * $V_P = A$ EVERYWHERE ELSE ("Haphil") 
 * $V_1 = :$ 
 * $Pre$ combinations are:
     * <span class="he">הִקְ</span> - HP
-    * <span class="he">יַקְ</span> - HI, and so forth for the other Imperfect forms
+    * <span class="he">יַקְ</span> - HI, and so forth for the other Imperfect forms, inclidng HI1cs
     * <span class="he">הַקְ</span> - HM/H∞/HA
     * <span class="he">מַקְ</span> - Pt
 
@@ -20250,9 +21498,24 @@ Parsing Code: H (`H`iphil)
 
 ## Hiphil $V_S = Î[A] \sim Î(Ē)$
 
-* $V_S(HPt) = \hat I$ 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Participle $V_S = \hat I$ 
     * The Participle is usually the Perfect $V_S$ lengthened. In this case, Hireq+Yod is already long, so there is no change from the Perfect
-* $V_S(HA) = \bar E$ as expected.
+* Infinitive Absolute (A) $V_S = \bar E$ as expected.
 
 ::: {.box .caution}
 Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never reduces because it is an unchangeable long vowel, even when it is written as Hireq.
@@ -20261,12 +21524,27 @@ Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never redu
 ### Exception to $V_S$ pattern {-}
 
 * HM2ms: $V_S = \bar E$
-* Hiwc---: $V_S$ is often $\bar E$ instead of $\hat I$ (Hireq+Yod) when there is no pronominal suffix
-    * <span class="he">הַקְטֵל</span>
-    * <span class="he">וַיַּקְטֵל</span>
+* HIwc---: $V_S$ is often $\bar E$ instead of $\hat I$ (Hireq+Yod) when there is no pronominal suffix
+    * HM2ms: <span class="he">הַקְטֵל</span>
+    * HIwc3ms: <span class="he">וַיַּקְטֵל</span>
 
 
-## Don’t confuse  <span class="he">ְ הִ</span> with Niphal Preformative  <span class="he">ָּּ הִ</span>
+## Don’t confuse Hiphil <span class="he">ְ הִ</span> with Niphal Imperative Preformative  <span class="he">ָּּ הִ</span>
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Hiphil  - <span class="he">הִקְטִיל</span>
     * No Daghesh Forte in $R_1$
@@ -20276,9 +21554,24 @@ Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never redu
 
 ## Don't confuse Hiphil Imperfect  <span class="he">ְ יַ</span> with Qal Imperfect  <span class="he">ְ יִ</span>
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Remember "Hiphil" = Perfect; "Haphil" everywhere else
 * Imperfect $V_P$ of Hireq is NOT Hiphil
-* Ambiguity arises with 1G verbs because of the Rule of Sheva ("Hateph copy-cat")
+* Ambiguity arises with 1G verbs because of the Rule of Sheva 
 * As we've discussed, in 1G situations, we can't necessarily rely on the stem's $Pre$ sequence to determine the stem
     * $V_P$ and $V_1$ will be Patach and Hateph Patach in both Hiphil and Qal
     * The Hiphil $V_S$ will be Hireq+Yod
@@ -20291,6 +21584,8 @@ Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never redu
 ## Hiphil Perfect Strong Paradigm
 
 As with the other stems, we list these paradigms to aid in your recognition of these forms.  It is not necessary to memorize these like you had to do with the Qal paradigms.
+
+Note $V_P = I$
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -20315,6 +21610,8 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 ## Hiphil Imperfect Strong Paradigm
 
+Note $V_P = A$
+
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">יַקְטִיל</span>  | 3mp | <span class="he">יַקְטִ֫ילוּ</span> 
@@ -20335,6 +21632,9 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 ## Hiphil Imperative Strong Paradigm
 
+Note $V_P = A$
+
+
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">הַקְטֵל</span> | 2mp | <span class="he">הַקְטִ֫ילוּ</span>
@@ -20354,6 +21654,7 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 ## Hiphil Infinitives Strong
 
+Note $V_P = A$
 
 | Type | Paradigm 
 | :-  | :- 
@@ -20363,7 +21664,9 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 * $V_S$ will distinguish the two Infinitive forms.  HA has a Tsere.
 * Note that HM2ms and HA are identical (the context will distinguish)
 
-## Participle Strong
+## Hiphil Participle Strong Paradigm
+
+Note $V_P = A$
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -20371,7 +21674,7 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 | fs | <span class="he">מַקְטֶ֫לֶת</span> or <span class="he">מַקְטִילָה</span> | fp | <span class="he">מַקְטִילוֹת</span>
 
 
-* The מ prefix, which characterizes the Participle in the Piel, Pual, Hiphil, and Hophal stems
+* Mote again, the מ prefix, which characterizes the Participle in the Piel, Pual, Hiphil, and Hophal stems
 * $V_S$ = Hireq+Yod throughout (except for one of the FS forms)
 
 ### Participle Prefixes in the Derived Stems {-}
@@ -20381,23 +21684,38 @@ Stem | Prefix
 Niphal | נִ |
 Piel | מְ
 Pual | מְ
-HIPHIL | <span class="he">ַמ</span>
+HIPHIL | <span class="he">ַמַ</span>
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 Hithpael | תִמְ
 
 
-## Strong Summary
+## What to Memorize: Hiphil
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
 * The exceptions come when $R_1$ is a weak letter (discussed in Lesson 31)
-* Hiphil Beginning Combination:
-    * <span class="he">ְ הִ</span> - HP
-    * <span class="he">ְ יַ</span> - (etc.) HI
-    * <span class="he">ְ הַ</span> - HM/H∞/HA
-    * <span class="he">ְ מַ</span> - HPt
+* Hiphil $Pre$ Combination:
+    * <span class="he">הִקְ</span> - HP
+    * <span class="he">יַקְ</span> - (etc.) HI
+    * <span class="he">הַקְ</span> - HM/H∞/HA
+    * <span class="he">מַקְ</span> - HPt
 * $V_S = Î[A] \sim Î(Ē)$
-    * It's essential to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
+    * It's essential to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the $Pre$ combination
     
 ## Stem Comparison Table
 
@@ -20451,7 +21769,7 @@ YOUR QUEST
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 19 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Exodus 19 {-}
 
 
 ::: {.box .map}
@@ -20466,15 +21784,36 @@ YOUR HEBREW QUEST
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/mOOtL2OTOAo){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/30_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-30.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_30.pdf){target=“_blank”}
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/30_hiphil_strong_paradigms.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/30_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/30_quiz_practice.pdf){target=“_blank”}
+
 
 <!--chapter:end:30-Hiphil-Strong.Rmd-->
 
-# The Hiphil Stem - Weak Verbs {.H-w}
+# The Hiphil Stem - Weak {.H-w}
 
-
-The Hiphil stem is relatively common in Scripture, occurring 9,496.  In fact, it is the most frequently occurring of the derived stems.
-
-Primarily, the Hiphil stem has a causative action.  For example, the root זכר means "he remembered" in the Qal Perfect 3ms.  That root would mean "he caused to remember," i.e., "he reminded" in the Hiphil Perfect 3ms. 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Hiphil has a distinctive prefix (remember, "Hiphil-Haphil"), and a distinctive $\hat I$ in the 3rd person Perfect as well as most non-Perfect forms.  For the most part, these diagnostic features are retained in weak verbs.  This lesson will review some of the major exceptions to the Hiphil strong verb paradigm.
 
@@ -20498,11 +21837,28 @@ Hiphil weak verb principles as they related to the following:
 Before continuing, can you describe the following concepts?
 
 * Parsing code H
-* Hiphîl-Haphîl
+* Hiphîl-Haphîl (and the `Strong Summary` from Lesson 30)
 * $V_S = \hat I(A) \sim \hat I(\bar E)$
+
 :::
 
 ## First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31-1.Psalms19.8.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 ### <span class="he">תּ֘וֹרַ֤ת יְהוָ֣ה תְּ֭מִימָה מְשִׁ֣יבַת נָ֑פֶשׁ עֵד֥וּת יְהוָ֥ה נֶ֝אֱמָנָ֗ה מַחְכִּ֥ימַת פֶּֽתִי׃</span> {-}
 
@@ -20510,27 +21866,30 @@ Before continuing, can you describe the following concepts?
 
 The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, the 10 commandments. Let us delight in the Law of Adonai!
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/31-1.Psalms19.8.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
-
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-114)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 ## Weak Verbs Review: 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 * A weak consonant affects the vowels that touch it
     * A weak $R_1$ affects $V_P$ and $V_1$ (but NOT $V_S$)
@@ -20544,28 +21903,30 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 Distrust vowels on or immediately before weak letters
 :::
 
-## Strong Summary
-
-* In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
-    * The exceptions come when $R_1$ is a weak letter (discussed in this lesson)
-* Hiphil $Pre$ sequences:
-    * <span class="he">ְ הִ</span> - HP
-    * <span class="he">ְ יַ</span> - (etc.) HI
-    * <span class="he">ְ הַ</span> - HM/H∞/HA
-    * <span class="he">ְ מַ</span> - HPt
-* $V_S = Î[A] \sim Î(Ē)$
-    * It's important to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
-    
+  
 
 ## 1-Guttural
 
-The changes below **ONLY** apply to 1G Imperfect Verbs
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
-* When Hiphil 1G $V_1$ takes Hateph vowel, this means $V_P$ is affected by the Rule of Sheva
+
+* Hiphil 1G $V_1$ takes Hateph vowel; this means $V_P$ is affected by the Rule of Sheva
 * The same thing occurs in the Qal Imperfect
-* Therefore, the $Pre$ for the Hiphil and the Qal will be identical: <span class="he">יֶעֱ</span> or <span class="he">יַעֲ</span>
+* Therefore, the $Pre$ for the Hiphil imperfect and the Qal Imperfect will be identical: <span class="he">יֶעֱ</span> or <span class="he">יַעֲ</span>
 * But (good news!), Hiphil has $V_S = \hat I$ which never reduces, so this is how we can distinguish
-* All others:<span class="he">יַעֲמִיד</span>
     * <span class="he">יַעֲמִיד</span> is HI3ms because $V_S = \hat I$, which is diagnostic of Hiphil
     * <span class="he">יַעֲמֹד</span> is QI3ms because $V_S = O$, which is diagnostic of Qal Imperfect
 
@@ -20579,27 +21940,72 @@ AMBIGUITIES
 
 ## 2-Guttural
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * No changes
-* 2G reject Dagesh Forte, but this is not applicable for Hiphil<small>^[<small>Potentially, we could have a verb that is both 1נ and 2G.  We would think the Nun with $V_1 = \ :$ would assimilate into a Dagesh Forte that is ultimately rejected. In our vocab, we only have one such verb: נחם (to be sorry, regret).  What ends up happening is the ח's rejection of the Dagesh causes Compensatory Lengthening in $V_1$ of the נ.  Since the נ only assimilates when it has a Sheva, the Nun no longer wants assimilate.  The end result is that all three root letters of נחם are visible with the Hiphil $Pre$ and $V_S$ intact.</small>]</small>
+* 2G reject Dagesh Forte, but this is not applicable for Hiphil^[Potentially, we could have a verb that is both 1נ and 2G.  We would think the Nun with $V_1 = \ :$ would assimilate into a Dagesh Forte that is ultimately rejected. In our vocab, we only have one such verb: נחם (to be sorry, regret).  What ends up happening is the ח's rejection of the Dagesh causes Compensatory Lengthening in $V_1$ of the נ.  Since the נ only assimilates when it has a Sheva, the Nun no longer wants assimilate.  The end result is that all three root letters of נחם are visible with the Hiphil $Pre$ and $V_S$ intact.]
 * 2G rejects Vocal Sheva but the $V_S = \hat I$ will never reduce to a Sheva
 
 ## 3א and 3עח
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * 3-Guttural can tweak the $V_S$, so we can't use $V_S$ for parsing
 * Parse based on the word's $Pre$ sequence
 * With 3עח, $V_S = A$
-    * The Furtive Patach is hit or miss, but we can ignore it<small>^[<small>There is logic.  It appears if the 3עח is word-final and $V_2 \not = A \ or \ \bar A$</small>]</small>
-    * $V_S = A$ for FP Imperfect and Imperative with 3עח
 * With 3א, the א usually quiesces
     * The sufformative will lose its Dagesh Lene
     * The $V_S$ often switches, so we do not rely on it for parsing
 
+
 ## 3ה
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * The usual changes
 * If no sufformative, add final vowel letter (see table below)
 * If sufformative begins with a vowel, that sufformative replaces $V_2$
 * If sufformative begins with a consonant, add the applicable (vowel)+Yod
+* Parse based on the word's $Pre$ sequence and the applicable 3ה vowel changes
 
 | Conj | Hebrew | Vowel when no sufformative
 | :- | :- | :-
@@ -20613,21 +22019,43 @@ AMBIGUITIES
 
 ## 1נ always assimilates in Hiphil
 
-* Always $V_1 = \ :$ in Hiphil
-* When $R_1 =$ נ, and $V_1 = \ :$, the נ will always assimilate
-* Therefore, 1נ always assimilates in Hiphil
-
-::: {.box .caution}
-POTENTIAL LOOK-ALIKES
-
-Need to watch $R_1$ vs $R_2$ to avoid confusion with Niphil<small>^[<small>Dr. Beckman also notes a potential for ambiguity if a 1נ and a 1ה verb shared the same $R_2$ and $R_3$.  When you saw the ּ הַ , you would not know whether you are looking at the ה of the Hiphil prefix with an assimilated Nun or the first ה of a Piel verb.  In our first year Hebrew course, we do not have any vocabulary verbs where this potential could occur, so we will save this discussion for Intermediate Hebrew.</small>]</small>
-
-    * <span class="he">הִצִּילוּ</span> is Hiphil with 1נ assimilated
-    * <span class="he">הִנָּצְלוּ</span> is Niphal with נ prefix assimilated
-
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
 
+* Always $V_1 = \ :$ in Hiphil
+* When $R_1 =$ נ, and $V_1 = \ :$, the נ will always assimilate
+* There will still be the applicable preformative and $V_P$
+
+
+
 ## 1י 
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * 1י were originally 1ו
 * In the Hiphil, 1י becomes $V_P = \hat O \ or \ O$:
@@ -20635,17 +22063,24 @@ Need to watch $R_1$ vs $R_2$ to avoid confusion with Niphil<small>^[<small>Dr. B
     * <span class="he">יוֹשִׁיט</span>
     * <span class="he">הוֹשֵׁב</span>
 
-::: {.box .caution}
-POTENTIAL LOOK-ALIKES
 
-* QPtms (Strong): <span class="he">קֹטֵל</span>
-* DP3ms (2G): <span class="he">בֹּרַךְ</span>
-* HP3ms (1י): <span class="he">הֹדִיע</span>
-
-The $\hat O$ may be written defectively or plene in any of the above forms  
-:::
 
 ## Biconsonantal Hiphil
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/31.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Biconsonantal verbs tweak $V_P$ so we can't rely on it
 * Good news: $V_S = \hat I$, except in FP imperfect and FP imperative, where $V_S = \bar E$
@@ -20720,7 +22155,7 @@ Once you have completed all activities through this lesson, fill out the form be
 <iframe class="responsive-iframe" src="https://forms.gle/gD1doxWveXuijHUF6" frameborder="0"></iframe>
 </div>
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 20 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Exodus 20 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST
@@ -20733,27 +22168,71 @@ YOUR HEBREW QUEST
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/QrjD4dFFTiM){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/31_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-31.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_31.pdf){target=“_blank”}
+* [Dr. Beckman additional parsing practice video] (http://youtu.be/jytjiKkTNl8){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet.pdf){target=“_blank”}
+* [Dr. Beckman parsing review chapters 14-31 video](http://youtu.be/xN72q4R_DWs){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet_14.pdf){target=“_blank”} 
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/31_quiz_new.pdf){target=“_blank”}
+   * [Quiz b](https://hebrewsyntax.org/bbh2new/31_quiz_practice.pdf){target=“_blank”}
+    * [Quiz parsing](https://hebrewsyntax.org/bbh2new/31_parsing_practice_quiz.pdf){target=“_blank”} 
+        * [Parsing Quiz answers explained](http://youtu.be/BZ3bAp3gxow){target=“_blank”}
+
 <!--chapter:end:31-Hiphil-Weak.Rmd-->
 
-# The Hophal Stem - Strong Verbs {.Hp-s}
+# The Hophal Stem - Strong {.Hp-s}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Of the seven major stems, the Hophal occurs with the least frequency (396 times, roughly split between the Perfect, Imperfect, and Participle). Like the Pual, the Hophal has some distinctive characteristics making it straightforward to identify.
 
 ::: {.box .map}
-<span class="he">LESSON ITINERARY<span class="he">
+LESSON ITINERARY
 
 1. Meaning of the Hophal Stem
 1. Hophal Strong paradigms
 :::
 
 ::: {.box .stop}
-<span class="he">EQUIPMENT CHECK<span class="he">
+EQUIPMENT CHECK
 
 Before continuing, make sure you understand the meaning of the Hiphil stem
 
 :::
 
 ## First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32-8.1Samuel 25.15.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ### <span class="he">וְהָ֣אֲנָשִׁ֔ים טֹבִ֥ים לָ֖נוּ מְאֹ֑ד וְלֹ֤א הָכְלַ֙מְנוּ֙ וְלֹֽא־פָקַ֣דְנוּ מְא֔וּמָה כָּל־יְמֵי֙ הִתְהַלַּ֣כְנוּ אִתָּ֔ם בִּֽהְיוֹתֵ֖נוּ בַּשָּׂדֶֽה׃</span> {-}
 
@@ -20763,33 +22242,36 @@ The _Hebrew Quest_ Study Passage for this lesson is David and Goliath from 1st S
 
 HaShem had these details recorded for a reason. Through our study of Hebrew, we can connect with these great stories in a more intimate way.  Praise Him for that!
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/32-8.1Samuel 25.15.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-116)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 
-## Meaning of the Hophal
+## Hophal Verb Stem Table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
 Simple Action	| Qal | Niphal | (Niphal)
-Intensive	| Piel | Pual | Hitpael
+Cause a State	| Piel | Pual | Hitpael
 Cause an Action	|Hiphil | __HOPHAL__
 
 Meanings:
@@ -20803,14 +22285,29 @@ Meanings:
     * Q - to give
     * Hp - to be given
 
-Parsing Code: Hp (`p`assive of `H`iphil)
+Parsing Code: Hp (_P_assive of _H_iphil)
 
 ## Hophal Strong Parsing Clues - $Pre$: Think "Houûphal"
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Preformatives
     * Hophal verbs have preformative ה like the Hiphil
     * Imperfects and Participles have the usual preformatives
-* $V_P = \ O, \ U, \ or \ \hat U $, indicates Hophal 
+* $V_P = O$, $U$, or $\hat U$, indicates Hophal 
     * So a mnemonic for this stem might be: "<u>houûphal</u>"
     * The Hophal occurs with either u-class or o-class
     * O - Qamets Hatuf <span class="he">הָקְטַל</span>  
@@ -20819,11 +22316,11 @@ Parsing Code: Hp (`p`assive of `H`iphil)
         * <span class="he">הוּרַד</span> (Iי)
         * <span class="he">הוּשַׁט</span> (Biconsonantal)
         * <span class="he">הוּחַל</span> (Geminate)
-    * HŌ or HȎ almost always HIPHIL 1-Yod
+    * HIPHIL 1-Yod will have $\bar O$ or $\hat O$ (see Lesson 31)
 * Hophal Strong $Pre$ sequences are:
     * <span class="he">הָקְ</span> or <span class="he">הֻקְ</span> - HpP
     * <span class="he">יָקְ</span> or <span class="he">יֻקְ</span> - (etc.) HpI
-    * <span class="he">מָקְ</span> or <span class="he">מֻקְ</span> - HpPt<small>^[<small>The remaining conjugations are rare in the Hebrew Bible, so we will skip them.</small>]</small>
+    * <span class="he">מָקְ</span> or <span class="he">מֻקְ</span> - HpPt^[The remaining conjugations are rare in the Hebrew Bible, so we will skip them.]
 * Given that $V_1 = ə$, we expect 1נ to assimilate (as it does in QI and NP)
 
 ::: {.box .caution}
@@ -20838,11 +22335,26 @@ QAMETS HATUF OR QAMETS?
 
 ## Hophal Strong Parsing Clues - $V_S$ = A
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * P,I,M,∞ is $A$, just like the Pual stem
 * Particle stem is lengthened P3ms as expected - HpP3ms uses $A$, so HpPt use $\bar A$ 
 * Infinitive Absolute is $\bar E$ as expected (but there are only 6 HpA in the Bible)
 
-## Hophal Perfect Strong
+## Hophal Perfect Strong Paradigm
 
 * The standard Perfect sufformatives
 * $V_S = A$
@@ -20868,7 +22380,7 @@ QAMETS HATUF OR QAMETS?
 </figure>
 
 
-## Hophal Imperfect Strong
+## Hophal Imperfect Strong Paradigm
 
 * The standard Imperfect preformatives and sufformatives
 * $V_S = A$
@@ -20893,7 +22405,7 @@ QAMETS HATUF OR QAMETS?
 </figure>
 
 
-## Hophal Participle Strong
+## Hophal Participle Strong Paradigm
 
 * The standard Participle prefix (מ)
 * The standard $V_S = \bar A$ - lengthening of P3ms
@@ -20917,12 +22429,28 @@ Pual | מְ
 Hiphil | ַמ
 HOPHAL (u-class) | <span class="he">מֻ</span>
 HOPHAL (o-class) | ָ<span class="he">מ</span>
-Hithpael | תִמְ
+Hitpael | מִתְ
 
 
-## Hophal Strong Summary
+## What to memorize: Hophal
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Like $V_1$ in the Pual, the Hophal has a distinguishing O or U class $V_P$
+* Think "Houûphal"
 * $V_S$ is almost always Patach
     * There is expected lengthening to Qamets in the Participle
     * The rare Infinitive Absolute has the expected Tsere (see `Ruth Pursuit` below)
@@ -20967,7 +22495,7 @@ There are no Hophal verbs in Ruth 1, so there will be no `Ruth Pursuit` for Less
     * There are only six HpA forms in all of the Hebrew Bible (and some sources say there are only five).  One of those forms is in Ruth 2:11.  Note how $V_S$ is Tsere for the HpA verb, and how $V_S$ is Qamets in the HpP3ms verb that follows.
     * The verb root is נגד
     * The Daghesh Forte in the Gimmel represents the assimilated 1נ
-* Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word <span class="he">כֹּל</span>, it seems more likely that he is referring to the completeness of the report that he has received."<small>^[<small>Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf </small>]</small>
+* Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word <span class="he">כֹּל</span>, it seems more likely that he is referring to the completeness of the report that he has received."^[Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf ]
 
 
 ## Ruth Pursuit Analysis {-}
@@ -20988,7 +22516,7 @@ YOUR QUEST
 
 
 
-## OPTIONAL Hebrew Quest Study Passage: 1 Samuel 17 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: 1 Samuel 17 {-}
 
 
 ::: {.box .map}
@@ -21009,10 +22537,34 @@ YOUR HEBREW QUEST
 :::
 
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/CeGTW1NOmrc){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/32-33_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-32.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_32.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz](https://hebrewsyntax.org/bbh2new/32_quiz_new.pdf){target=“_blank”} 
+
 
 <!--chapter:end:32-Hophal_Strong.Rmd-->
 
-# The Hophal Stem - Weak Verbs {.Hp-w}
+# The Hophal Stem - Weak {.Hp-w}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Most of the Hopal verbs in the Bible are weak.  As with all the forms, we start with the strong verb diagnostics.  This makes it easier to understand the spelling changes that occur with weak verbs.  By now, you should be well-acquainted with the concepts discussed in this lesson.
 
@@ -21033,28 +22585,30 @@ Before continuing, be sure you can identify Hophal Perfect, Imperfect, and Parti
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33-7.Isaiah24.12.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ### <span class="he">נִשְׁאַ֥ר בָּעִ֖יר שַׁמָּ֑ה וּשְׁאִיָּ֖ה יֻכַּת־שָֽׁעַר׃ </span> {-}
 
 *Desolation is left in the city; and the gate is battered to ruins. (Isaiah 24:12)*
 
 As people of God, we are sometimes faced with situations where we are tempted to ask, "How could He let this happen?" The people of Isaiah's time who witnessed the destruction of Jerusalem indeed had similar questions. Most of the time, we can not provide a satisfactory answer. The only right choice is to relinquish any notion that we can control the situation and, like Job, trust in Him no matter what the outcome.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/33-7.Isaiah24.12.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
-
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-117)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-118)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21064,13 +22618,44 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 ## 1G and 3ה Verbs prefer Qamets Hatuf as $V_P$
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * $V_P = O$ 
-* $V_1 = \breve O$ (Hateph Qamets Hatuf)
+* $V_1 = \breve O$ (Hateph Qamets Hatuf) when 1G
 * $V_S = A$, which follows the strong paradigm
+* 3ה verbs behave as expected
 
 
 
 ## 1נ assimilates as expected
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Since $V_1$ is a Sheva, 1נ assimilates just as it does with QI and NP
 * $R_2$ will take a Daghesh Forte, if allowed
@@ -21081,7 +22666,22 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 
 
-## Geminate/Biconsonant prefer Shureq as $V_P$
+## Geminate/Biconsonantal prefer Shureq as $V_P$
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * The medial letter of the biconsonantal verb is dropped
 * Only one geminate consonant is preserved - where possible, a Daghesh Forte will appear in the remaining consonant
@@ -21120,7 +22720,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Psalms 45 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Psalms 45 {-}
 
 
 ::: {.box .map}
@@ -21140,14 +22740,40 @@ YOUR HEBREW QUEST
 
 :::
 
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/CeGTW1NOmrc){target=“_blank”} - combined with Lesson 32
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/32-33_overheads_bw.pdf){target=“_blank”} - combined with lesson 32
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-33.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_33.pdf){target=“_blank”}
+* [Dr. Beckman additional parsing practice video](http://youtu.be/gasuAqRqp_o){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz](https://hebrewsyntax.org/bbh2new/33_quiz_practice.pdf){target=“_blank”} 
+    
+
 <!--chapter:end:33-Hophal_weak.Rmd-->
 
-# The Hithpael Stem - Strong Verbs {.HT-s}
+# The Hitpael Stem - Strong {.HT-s}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
-This is one of the shortest and easiest chapters in Hebrew GRAMMAR Quest.
+Welcome to our final Hebrew stem, the Hitpael^[Just as with "PATH-ac" versus "pa-TOCK" referring to the short-A vowel, this stem tends to be called "HITHpael" in academic circles and HEETpael in non-academic settings.].
 
-If you've made it this far, you've earned it!
+This is probably the easiest stem to identify because of the distinctive "HEET" (or "Hith) prefix.
 
 There are just under 1000 instances of the Hitpael stem:
 
@@ -21158,8 +22784,37 @@ There are just under 1000 instances of the Hitpael stem:
 * tDA - 3
 * tDPt - 147
 
+::: {.box .map}
+LESSON ITINERARY
+
+1. Meaning of the Hitpael Stem
+1. Parsing Clues
+1. Strong paradigms
+:::
+
+::: {.box .stop}
+EQUIPMENT CHECK
+
+Before continuing, make sure you understand the Piel stem, as the Hitpael stem is closely related
+
+:::
 
 ##  First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34-7.Isaiah38.2.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ###  <span class="he"> וַיַּסֵּ֧ב חִזְקִיָּ֛הוּ פָּנָ֖יו אֶל־הַקִּ֑יר וַיִּתְפַּלֵּ֖ל אֶל־יְהוָֽה׃ </span> {-}
 
@@ -21171,33 +22826,36 @@ Many of us may be physically removed from Jerusalem and the Western Wall.  Like 
 
 Why don't you stop what you're doing and pray towards Jerusalem right now?
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/34-7.Isaiah38.2.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-119)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
 
 
-## Meaning of Hitpael
+## Hitpael Verb Stem Table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
 Simple Action	| Qal | Niphal | (Niphal)
-Intensive	| Piel | Pual | __HITPAEL__
+Cause a State	| Piel | Pual | __HITPAEL__
 Cause an Action	|Hiphil | Hophal
 
 Meanings:
@@ -21214,49 +22872,60 @@ Meanings:
     * Q - to walk
     * tD - to walk back and forth, or to walk (as a way of life)
 * Simple active - <span class="he">פלל</span>
-    * tD - to pray
+    * tD - to pray^[Perhaps there is a spiritual insight here.  Do we truly enter into a reflexive state of prayer when we pray?]
 
-## Parsing Clues - _Pre_: a distinctive "_h_IT" prefix
 
-The Hitpael is probably the easiest stem to identify:
+
+## Parsing Clues - _Pre_: a distinctive הִתְ prefix
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+The Hitpael is the easiest stem to identify:
 
 * All conjugations have a distinctive prefix:
-    * <span class="he">הִתְקַטֶּל</span> - tDP3ms, tDM2ms, tD∞, or tDA
-    * <span class="he">יִתְקַטֶּל</span> - tDI3ms, and so forth for the remaining imperfect stems. 
+    * <span class="he">הִתְקַטֵּל</span> - tDP3ms, tDM2ms, tD∞, or tDA
+    * <span class="he">יִתְקַטֵּל</span> - tDI3ms, and so forth for the remaining imperfect stems. 
         * tDI1cs preformative is <span class="he">אֶתְ</span>
-    * <span class="he">מִתְקַטֶּל</span> - tDPtms
-    * The preformative always has <span class="he"> תְ ִ </span> (except for I1cs)
-        * So, if a verb begins with "hIT", "yIT", "mIT", etc., (and $R_1$ is not ת or ט) it's probably Hitpael
+    * <span class="he">מִתְקַטֵּל</span> - tDPtms
+    * So, if a verb begins with "hIT", "yIT", "mIT", etc., it's probably Hitpael
         
 Also:
 
 * $R_2$ takes Daghesh Forte
 * $V_1$ is Patach
-
-
-## Parsing Clues - $V_S = \bar E[A] \sim \bar E$
-
-
-
-* tDP2ms and tDP1cs have $V_S = A$, otherwise it's very consistent
+* $V_S = \bar E[A] \sim \bar E$
+    * tDP2ms and tDP1cs have $V_S = A$, otherwise it's very consistently $\bar E$
 
 ::: {.box .light}
 The preformative alone is sufficient to identify the Hitpael stem  
 :::
 
-## Perfect Strong
+## Hitpael Perfect Strong Paradigm
 
 * The standard Perfect sufformatives
-* $V_S =$ Patach
+* $V_S =$ Patach in 2nd/1st person
 * "Signature" tD Prefix: <span class="he">הִתְ</span>
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 3ms | <span class="he">הִתְקַטֵּל</span>  | 3cp | <span class="he"> הִתְקַטְּלוּ</span
+| 3ms | <span class="he">הִתְקַטֵּל</span>  | 3cp | <span class="he"> הִתְקַטְּלוּ</span>
 | 3fs | <span class="he">הִתְקַטְּלָה</span> | |
-| 2ms | <span class="he">הִתְקַטַּ֫לְתָּ</span> | 2ms | <span class="he">הִתְקַטַּלְתֶּם</span>
-| 2fs | <span class="he">הִתְקַטַּלְתְּ</span> | 2fs | <span class="he">הִתְקַטַּלְתֶּן</span>
-| 1cs | <span class="he">הִתְקַטַּ֫לְתִּי</span> | 1cs | <span class="he">הִתְקַטַּ֫לְנוּ</span>
+| 2ms | <span class="he">הִתְקַטַּ֫לְתָּ</span> | 2mp | <span class="he">הִתְקַטַּלְתֶּם</span>
+| 2fs | <span class="he">הִתְקַטַּלְתְּ</span> | 2fp | <span class="he">הִתְקַטַּלְתֶּן</span>
+| 1cs | <span class="he">הִתְקַטַּ֫לְתִּי</span> | 1cp | <span class="he">הִתְקַטַּ֫לְנוּ</span>
 
 <figure>
     <figcaption>Hitpael Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
@@ -21269,10 +22938,10 @@ The preformative alone is sufficient to identify the Hitpael stem
 </figure>
 
 
-## Imperfect Strong
+## Hitpael Imerfect Strong Paradigm
 
 * The standard Imperfect preformatives and sufformatives
-* $V_S =$ Patach
+* $V_S =$ Tsere unless reduced
 * "Signature" tD Prefix: <span class="he">יִתְ</span> (or the applicable Imperfect preformative)
 
 | Sing | Paradigm | Plural | Paradigm
@@ -21295,14 +22964,14 @@ The preformative alone is sufficient to identify the Hitpael stem
     </audio>
 </figure>
 
-## Imperative Strong
+## Hitpael Imperative Strong Paradigm
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">הִתְקַטֵּל</span> | 2mp | <span class="he">הִתְקַטְּלוּ</span>
 | 2fs | <span class="he">הִתְקַטְּלִי</span> | 2fp | <span class="he">הִתְקַטֵּ֫לְנָה</span>
 
-## Infinitives Strong
+## Hitpael Infinitives Strong Paradigm
 
 
 | Type | Paradigm 
@@ -21312,7 +22981,7 @@ The preformative alone is sufficient to identify the Hitpael stem
 
 Although these forms are identical to tDP3ms and tDM2ms, the infinitive forms are infrequent.  The tDA only appears three times in the Hebrew Bible.
 
-## Participle Strong
+## Hitpael Participle Strong Paradigm
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -21333,8 +23002,27 @@ Pual | מְ
 Hiphil | ַמ
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
-HITPAEL | <span class="he">תִמְ</span>
+HITPAEL | <span class="he">מִתְ</span>
 
+## What to memorize: Hitpael
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.8.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* "Signature" tD Prefix: <span class="he">הִתְ</span> (and so forth for the other conjugations)
+* $R_2$ takes Daghesh Forte
 
 ## Stem Comparison Table
 
@@ -21383,14 +23071,14 @@ YOUR QUEST
 
 <!-- Lesson 34 Tribe Badge 12 = ZEBULUN -->
 
-Once you have completed <span class="he">all activities<span class="he"> through this lesson, fill out the form below, and receive your next badge!
+Once you have completed **all activities** through this lesson, fill out the form below, and receive your next badge!
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ejQEQDRGZJT1v8jE6" frameborder="0"></iframe>
 </div>
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Leviticus 23 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Leviticus 23 {-}
 
 
 ::: {.box .map}
@@ -21412,9 +23100,34 @@ YOUR HEBREW QUEST
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/nyO8SUVgsPY){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/34-35_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-34.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_34.pdf){target=“_blank”}
+* [Dr Beckman Parsing video for Chapter 34](http://youtu.be/RAyIxdXxZ6k){target=“_blank”} 
+* [Quiz for Chapter 34](https://hebrewsyntax.org/bbh2new/34_quiz_new.pdf){target=“_blank”} 
+
 <!--chapter:end:34-Hitpael_Strong.Rmd-->
 
-# The Hitpael Stem - Weak Verbs {.Ht-w}
+# The Hitpael Stem - Weak {.Ht-w}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 > CONGRATULATIONS ON REACHING THE FINAL CHAPTER OF HEBREW GRAMMAR QUEST!
 
@@ -21437,6 +23150,22 @@ Before continuing, be sure you can identify the Hitpael preformatives in all con
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35-4.Micah1.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 ###  <span class="he">וְנָמַ֤סּוּ הֶֽהָרִים֙ תַּחְתָּ֔יו וְהָעֲמָקִ֖ים יִתְבַּקָּ֑עוּ כַּדּוֹנַג֙ מִפְּנֵ֣י הָאֵ֔שׁ כְּמַ֖יִם מֻגָּרִ֥ים בְּמוֹרָֽד׃ </span> {-}
 
 *The mountains will melt under Him, and the valleys will be split, like wax before the fire (Micah 1:4)*
@@ -21445,22 +23174,10 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 
 The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel in 1 Kings 18. HaShem did precisely that. May we always be reminded that we do all things through Yeshua, who gives us strength.
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/35-4.Micah1.4.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
-
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-121)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21468,18 +23185,49 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 ## $R_2$ can lose Daghesh Forte
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * By now, you are very familiar with this concept
-* The Hitpael verb MAY lose if  $R_2$ is SQiN eM LeVY consonant with a Sheva
-* The Hitpael verb WILL lose if $R_2$ is Guttural or Resh
+* The Hitpael verb MAY lose the Daghesh Forte if  $R_2$ is SQiN eM LeVY consonant with a Sheva
+* The Hitpael verb WILL lose the Daghesh Forte if $R_2$ is Guttural or Resh
     * With ע, ה,  and ח there is usually no compensatory lengthening
     * With א and ר $V_1$ will lengthen from Patach to Qamets
-        * <span>הִתְבָּרֵךְ</span> tDP3ms of ברך, "he blessed himself"
+        * <span class="he">הִתְבָּרֵךְ</span> tDP3ms of ברך, "he blessed himself"
+* Review the Piel lessons if you need a refresher on any of these concepts.
 
 
 ## Transposition of ת and $R_1$ when $R_1$ is sibilant
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * The sibilants are the same letters as the "S" SQiN eM LeVY letters
-* The ancients found it easier to pronounce <span>הִשְׁתַּמֵּר</span>* instead of <span class="he">הִתְשַׁמֵּר</span>
+* The ancients found it easier to pronounce <span class="he">הִשְׁתַּמֵּר</span>* instead of <span class="he">הִתְשַׁמֵּר</span>
     * English has this too: we find it more "comfterble" to pronounce "comfortable" as "comfterble" - we transpose the "r" and "t"
     * Hebrew transposes the "ת" of the Hitpael preformative with the s-sound of $R_1$
 * This can be an initial challenge since the <span class="he">ְ הִ</span> looks like Hiphil
@@ -21488,10 +23236,25 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 * The vowels of the Hitpael strong are the same
 * Examples:
     * <span class="he">הִסְתַּתֵּר</span> - he hid himself
-    * <span class="he">הִשְׂתַּכֵּר</span> - he earned wages for (hired) himself<small>^[<small>BBH mentions that there are three times n the Bible when $R_1$ = <span class="he">צ</span>, not only will the <span class="he">ת</span> switch places, it will change to <span class="he">ט</span>.</small>]</small>
+    * <span class="he">הִשְׂתַּכֵּר</span> - he earned wages for (hired) himself^[BBH mentions that there are three times n the Bible when $R_1$ = <span class="he">צ</span>, not only will the <span class="he">ת</span> switch places, it will change to <span class="he">ט</span>.]
 
 
 ## Preformative תְ assimilates when $R_1$ is ז ד ט ת,
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * If $R_1$ is ז ד ט ת (i.e., the "dental" letters) the ת of the Hithpael preformative will assimilate into $R_1$ and remain as a Daghesh Forte
 * This can present a potential ambiguity with Niphal; however, note $V_1$ is _QAMETS_ in Niphal compared to _PATACH_ in Hitpael, and $R_2$ will have a Daghesh Forte in Hitpael:
@@ -21500,8 +23263,24 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 
 
-## Hitpolel is tD of some Biconsonantal and Geminate Verbs
+## Hitpolel minor stem
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Hitpolel is the Hitpael form of some Biconsonantal and Geminate Verbs
 * $R_3$ is doubled
 * $V_1$ is <span class="he">וֹ</span>
 * This is an irregular form, but these words maintain diagnostic Hitpael preformative       
@@ -21510,9 +23289,25 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 * Same meaning as a normal Hitpael
 
 
-## <span class="he">חָוָה </span> - Hishtapel Stem
+## Hishtapel minor stem
 
-*  <span class="he">חָוָה </span> gets its own stem: Hishtapel
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* There is one verb that is so important it gets it's own stem
+* The verb is <span class="he">חָוָה </span>, and the stem's name is Hishtapel
 *  <span class="he">חָוָה </span> occurs 173 times in the Bible, only in Hishtapel
 *  <span class="he">חוה</span> means: to prostrate oneself in worship (as to God, or another deity) or submission (as to a king)
 
@@ -21576,14 +23371,8 @@ Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael v
 * [Ruth Pursuit Answer Key #35](./images/35_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## You did it!  Claim your Diploma! {-}
 
-Once all Anki cards are `Mature`, please complete the attached form to begin the Graduation process and earn your Hebrew GRAMMAR Quest Diploma!      
-
-<div class="containerLet">
-<iframe class ="responsive-iframe" src="https://forms.gle/eyX82mzkCjoh9oM56" frameborder="0"></iframe>
-</div>
-## OPTIONAL _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
 
 
 ::: {.box .map}
@@ -21603,25 +23392,54 @@ YOUR HEBREW QUEST
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/nyO8SUVgsPY){target=“_blank”} - combined with Lesson 34
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/34-35_overheads_bw.pdf){target=“_blank”} - combined with Lesson 34
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-35.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_35.pdf){target=“_blank”}
+* [Dr Beckman Parsing video for Chapter 35](http://youtu.be/s1Tr73N82e8){target=“_blank”} 
+* Quizes for Chapter 35
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/35_quiz_new.pdf){target=“_blank”} 
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/35_quiz_practice.pdf){target=“_blank”}
+
+
 <!--chapter:end:35-Hitpael_Weak.Rmd-->
 
 # Conclusion {-}
 
-We would like to take a moment and recap all that you have accomplished in His strength.  Each section will also have tips and references on where you can go next.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/36.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+We would like to take a moment and recap all that you have accomplished in His strength.  Each section will also have tips and references on where you can go next.^[Of note, for Chapter 36, the _Basics of Biblical Hebrew_ textbook discusses several historical and textual matters regarding the Masoretic text and the _Biblia Hebraica Stuttgartensia_, often abbreviated BHS. While interesting, we believe most of this information is beyond what the majority of Holy Language students want or need. We are going to conclude our course with a celebration and recommendations for next steps. If you are interested in the BHS topic, a link to Dr. Beckman's lecture video is included in the `Lesson Extras` section.]
 
 * Vocabulary
-    * What you have accomplished: 570 of the most common Biblical Hebrew words committed to memory!
-    * Where you can go next: Continue to grow your vocabulary, both by isolated word memorization, such as by learning the top 1000 (or more) Biblical Hebrew words and, of course, by continuing to read your Hebrew Bible.  For word memorization, there are modules on Memrise and Anki that are free (these are not affiliated with Holy Language Institute)
+    * _What you have accomplished_: 570 of the most common Biblical Hebrew words committed to memory!
+    * _Where you can go next_: Continue to grow your vocabulary, both by isolated word memorization, such as by learning the top 1000 (or more) Biblical Hebrew words and, of course, by continuing to read your Hebrew Bible.  For word memorization, there are modules on Memrise and Anki that are free (these are not affiliated with Holy Language Institute)
 * Bible Verses
-    * _What you have accomplished_:
-    * _Where you can go next_:
-* Hebrew Quest Study Passages (optional track)
+    * _What you have accomplished_: Over 500 Bible verses in Hebrew, including many grammatically challenging concepts
+    * _Where you can go next_: 
+        * Grab a Tanach and a study guide and dig in!
+        * If you haven't already done so, check out Dr. Beckman's lecture on [How to prepare a passage](https://www.youtube.com/watch?v=5v8KvmEtZy0&t=2918s){target="_blank"}
+* Hebrew Quest Study Passages ("Honors" track)
     * _What you have accomplished_: You have studied 20 distinct passages, most of which were full chapters of the Hebrew Bible or passages from the Delitsch Hebrew New Testament.  You have also completed the 17-lesson "Premium Proverbs" study.
     * _Where you can go next_:
         * Complete _Hebrew Quest_ if you have not already done so!
         * After _Hebrew Quest_, review Izzy's [Hebrew Verses](https://holylanguage.com/verses.html) studies.  Hebrew Verses picks up where Hebrew Quest left off.
-* Ruth
-    * _What you have accomplished_: You have skimmed, if not read entirely through, Ruth Chapter one at least 35 times and written your own translations.
+* Ruth Pursuit
+    * _What you have accomplished_: You have skimmed, if not read entirely through, Ruth Chapter one at least 30 times.  The `Ruth Pursuit Analysis` was your introduction to intermediate Hebrew, where you took the first-year grammar concepts and applied them to a passage of Scripture to compose your own translation.
     * _Where you can go next_: INTERMEDIATE HEBREW!
         * You can review [Dr. Beckman's Notes on Ruth](./images/00_Ruth_notes.pdf){target="_blank"}
     * We can recommend two Intermediate Hebrew books:
@@ -21629,13 +23447,30 @@ We would like to take a moment and recap all that you have accomplished in His s
         * The same author has [From Exegesis to Exposition: A Practical Guide to Using Biblical Hebrew](https://www.amazon.com/gp/product/B009UOG4N4/&tag=holylanginst-20){target="_blank"}
 
 
+### Overall Next steps {-}
+
+* Praise HaShem for the work He is doing in you
+* Continue with Intermediate Hebrew
+* Volunteer with Holy Language Institute
+* Help someone else learn Hebrew - "pay it forward"
+
+>Congratulations again.  We are proud of you!
+
+Izzy Avraham and Chris Flanagan
 
 
-**Next steps**: Continue with Intermediate Hebrew!
+## Lesson Extras
 
+* [Dr. Beckman Lecture Video](http://youtu.be/5v8KvmEtZy0){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/36_overheads_bw4.pdf){target=“_blank”}
 
+## You did it!  Claim your Diploma! {-}
 
+Once all Anki cards are `Mature`, please complete the attached form to begin the Graduation process and earn your Hebrew GRAMMAR Quest Diploma!      
 
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://forms.gle/eyX82mzkCjoh9oM56" frameborder="0"></iframe>
+</div>
 
 <!--chapter:end:36-Conclusion.Rmd-->
 
@@ -21685,9 +23520,8 @@ The men and women who followed Yeshua became a safe and loving community.  Same 
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-123)Chris Flanagan</p>
 </div>
-## References {-}
 
 <!--chapter:end:65-abouttheauthor.Rmd-->
 

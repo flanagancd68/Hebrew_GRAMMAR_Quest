@@ -680,6 +680,7 @@ function x25() {
 * Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
     * You may need to sign in with a Google account
     * You may wish to rename the document with the applicable lesson # as you will be reusing the blank document multiple times
+      * In fact, instead of downloading from the above link each time, we recommend you save a blank copy to your personal Google Drive, then select `File` then `Make a Copy` whenever you wish to begin a new `Ruth Pursuit`.
 * We strongly encourage you to go line by line through the passage and do not use the "Find" function in your word processor
     * Line by line will take longer, but you will learn more (even though you may think it's a waste of time because at this point you may not know much, if any, Hebrew.  Just go through the passage as best as you can; you may be surprised what sinks in!)
 
@@ -798,3 +799,14 @@ In other words after you have completed `Anki` so that all the lesson's cards ar
 </div>
 
 [Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/edv-QEGJI3k){target="_blank"}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target=“_blank”}
+* [Additional Drills/Worksheets- Quiz](https://hebrewsyntax.org/bbh2new/01_quiz.pdf){target="_blank"}
+* Additional אב song versions (© John Walton):
+  * [Audio](https://hebrewsyntax.org/bbh2new/01_alef_bet_song.mp3){target="_blank"}
+  * [Video with names](http://youtu.be/xl_11xvc3Bw){target="_blank"}
+  * [Video letters only](http://youtu.be/mwWznK3dAS4){target="_blank"}

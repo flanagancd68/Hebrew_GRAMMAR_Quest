@@ -69,7 +69,7 @@ We wanted to let you know of some changes:
     2. Study Verses
         * Cantillation marks added to study verses
         * Verses in `Anki` will be taken as a whole, not split into smaller components
-    3. OPTIONAL _Hebrew Quest_ Study Passage Translation
+    3. Honors Track: _Hebrew Quest_ Study Passage Translation
     
 
 The next few pages will describe these changes in greater detail.
@@ -242,7 +242,7 @@ function setPlaySpeed25() {
 * At this stage of the course, we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
 * The overload workload is steadily increasing, and of course, the Anki reviews are growing (so be sure to keep up with daily reviews!)
 
-## Changes for Unit 3: Changes to `Anki Study Verses` {-}
+## Changes for Unit 3: Changes to `Anki Study Verses` and Cantilation Marks {-}
 
 ::: {.infobox .sound}
 <figure>
@@ -328,6 +328,18 @@ Trying to read with these marks can be visually distracting and overwhelming at 
 
 :::
 
+::: {.box .caution}
+Pausal Forms
+
+* In Lesson 3, we briefly mentioned "pausal forms"
+* Pausal forms may change the spelling
+    * A Patach, Seghol, or sheva may change to Qamets
+        * Example קָטַל becomes קָטָל
+    * A sheva may changed to a Seghol in the 2ms pronominal suffix (Lesson 19)
+        * סוּסְךָ to סוּסֶ֫ךָ
+    * Words that are normally accented on the ultima may undergo an accent shift to the penultima with resulting vowel change, for example אֲנִי can become אָ֫נִי
+:::
+
 ## Changes for Unit 3: Optional Honors Track: _Hebrew Quest_ Study Passages {-}
 
 ::: {.infobox .sound}
@@ -391,6 +403,7 @@ function setPlaySpeed25() {
     3. Read again, but this time, compose a translation
         1. First, see how much you can do without a reference
         2. Then, look up any words you don't know in a lexicon
+        3. Parts of this are meant for students who have finished the course but you may wish to review Dr. Beckman's lecture on [How to prepare a passage](https://www.youtube.com/watch?v=5v8KvmEtZy0&t=2918s){target="_blank"}
     4. Watch the _Hebrew Quest_ video where Izzy reads and breaks down the passage, often with spiritual insights^[Note: Izzy intentionally speaks very slowly, so as you advance in Hebrew, you may wish to increase the speed of the YouTube video].
         * As you are watching, compare your translation with Izzy's explanation
         * How did you do?  Can you see how much you are learning?

@@ -976,3 +976,11 @@ Use the form below to claim your Asher badge!
 <div class="containerLet">
 <iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/FtGZBq6QVsI){target="_blank"}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/02_overheads_bw.pdf){target="_blank"}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-02.pdf){target=“_blank”}
+* [Additional Drills/Worksheets- Quiz](https://hebrewsyntax.org/bbh2new/02_quiz_practice.pdf){target="_blank"}
+

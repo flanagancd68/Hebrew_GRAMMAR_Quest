@@ -1,4 +1,4 @@
-# Pronominal Suffixes on Verbs {.VerbSuffix}
+# Pronominal Suffixes {.VerbSuffix}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.intro.m4a">
@@ -23,7 +23,7 @@ The verbal pronominal suffixes are the same suffixes we learned from Lesson 9.  
 
 The more challenging aspects can include significant spelling and accent changes.  This can result in words that are identically spelled but have different meanings.  
 
-One of the first vocabulary words in _Hebrew Quest_ was <span class="he">וּכְתַטְתָּם</span>.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
+One of the first vocabulary words in _Hebrew Quest_ was <span class="he">וּכְתְַבְתָּם</span>.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
 
 In Lesson 19, we will explore these pronominal suffixes from Lesson 9 and apply them to verbs.
 
@@ -313,3 +313,14 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/vjW8D2NjmKs){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/19_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-19.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_19.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/19_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/19_quiz_practice.pdf){target=“_blank”}
+    * [Quiz Paradigm](https://hebrewsyntax.org/bbh2new/19_quiz_Qal-paradigm.pdf){target=“_blank”}

@@ -157,7 +157,11 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 1. Change `USER1` Name to your name
     1. In Anki, click `File`, then `Switch Profile`  
     2. Select `User 1`, then `Rename` and type your name
-2. To change learning settings, click `Tools,` then `Preferences.` Make sure your settings match the images below:
+2. To change learning settings, click the gear button next to "Hebrew Grammar Quest", then click `Options`
+```{r, out.width = "250pt", fig.align='center', fig.cap="Anki Deck Options"}
+knitr::include_graphics("images/00.anki_options.png")
+```
+3. Make sure your settings match the images below:
 
 ### Daily limits and New Cards {-}
 
@@ -166,9 +170,8 @@ knitr::include_graphics("images/00.ankisettings01.png")
 ```
 
 ::: {.box .info}
-INSERTION ORDER
-
-If you find `Sequential` is too easy, you might try to switch to `Random`.
+* NEW CARDS/DAY: You are welcome to enter any number you wish, but lower numbers mean it will take longer to get through the entire deck.  `200` is recommended, but this does not mean you have to do 200 new cards in one day or the next day you will have 400 new cards.  You will never have more new cards than the number entered here. 
+* INSERTION ORDER: If you find `Sequential` is too easy, you might try to switch to `Random`.
 
 :::
 
@@ -624,10 +627,7 @@ OPTIONAL:
 Below are additional resources, some of which are free and some paid:
 
 * Free of charge
-  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to his videos and handouts.  Everything on [his site](https://hebrewsyntax.org/bbh2new/){target="_blank"} is free.
-  * Dr. Bill Mounce has study guides available for each Chapter of _Basics of Biblical Hebrew_
-    * In most cases, these will not add much to the lessons in Hebrew GRAMMAR Quest, but some students might find them valuable
-    * For Chapter 1, click [http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target="_blank"}; for other chapters, change the `01` in the URL to the chapter number you are seeking^[Except Chapter 4, which for some reason, is not available.]
+  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to his videos and handouts.  Everything on [his site](https://hebrewsyntax.org/bbh2new/){target="_blank"} is free.  We have included most of these resources in our `Lesson Extras` sections.
   * [The Basics of Biblical Hebrew Lexicon](./images/BBH_Lexicon.pdf){target="_blank"}
     * A `lexicon` and a `dictionary` are virtually synonymous terms - academians tend to use the term `lexicon`
     * The authors of <u>Basics of Biblical Hebrew</u> have created an abridged lexicon to accompany this course

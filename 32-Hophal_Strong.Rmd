@@ -1,22 +1,52 @@
-# The Hophal Stem - Strong Verbs {.Hp-s}
+# The Hophal Stem - Strong {.Hp-s}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 Of the seven major stems, the Hophal occurs with the least frequency (396 times, roughly split between the Perfect, Imperfect, and Participle). Like the Pual, the Hophal has some distinctive characteristics making it straightforward to identify.
 
 ::: {.box .map}
-<span class="he">LESSON ITINERARY<span class="he">
+LESSON ITINERARY
 
 1. Meaning of the Hophal Stem
 1. Hophal Strong paradigms
 :::
 
 ::: {.box .stop}
-<span class="he">EQUIPMENT CHECK<span class="he">
+EQUIPMENT CHECK
 
 Before continuing, make sure you understand the meaning of the Hiphil stem
 
 :::
 
 ## First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32-8.1Samuel 25.15.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ### <span class="he">וְהָ֣אֲנָשִׁ֔ים טֹבִ֥ים לָ֖נוּ מְאֹ֑ד וְלֹ֤א הָכְלַ֙מְנוּ֙ וְלֹֽא־פָקַ֣דְנוּ מְא֔וּמָה כָּל־יְמֵי֙ הִתְהַלַּ֣כְנוּ אִתָּ֔ם בִּֽהְיוֹתֵ֖נוּ בַּשָּׂדֶֽה׃</span> {-}
 
@@ -25,18 +55,6 @@ Before continuing, make sure you understand the meaning of the Hiphil stem
 The _Hebrew Quest_ Study Passage for this lesson is David and Goliath from 1st Samuel 17.  The passage's geographic detail reminds us that the events involved real people and real places.  This is true even though these events took place thousands of years ago and thousands of miles away. 
 
 HaShem had these details recorded for a reason. Through our study of Hebrew, we can connect with these great stories in a more intimate way.  Praise Him for that!
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/32-8.1Samuel 25.15.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
-
 
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
@@ -47,12 +65,27 @@ knitr::include_graphics("images/32-Elah brook with students picking smooth stone
 
 
 
-## Meaning of the Hophal
+## Hophal Verb Stem Table
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
 Simple Action	| Qal | Niphal | (Niphal)
-Intensive	| Piel | Pual | Hitpael
+Cause a State	| Piel | Pual | Hitpael
 Cause an Action	|Hiphil | __HOPHAL__
 
 Meanings:
@@ -66,14 +99,29 @@ Meanings:
     * Q - to give
     * Hp - to be given
 
-Parsing Code: Hp (`p`assive of `H`iphil)
+Parsing Code: Hp (_P_assive of _H_iphil)
 
 ## Hophal Strong Parsing Clues - $Pre$: Think "Houûphal"
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Preformatives
     * Hophal verbs have preformative ה like the Hiphil
     * Imperfects and Participles have the usual preformatives
-* $V_P = \ O, \ U, \ or \ \hat U $, indicates Hophal 
+* $V_P = O$, $U$, or $\hat U$, indicates Hophal 
     * So a mnemonic for this stem might be: "<u>houûphal</u>"
     * The Hophal occurs with either u-class or o-class
     * O - Qamets Hatuf <span class="he">הָקְטַל</span>  
@@ -82,11 +130,11 @@ Parsing Code: Hp (`p`assive of `H`iphil)
         * <span class="he">הוּרַד</span> (Iי)
         * <span class="he">הוּשַׁט</span> (Biconsonantal)
         * <span class="he">הוּחַל</span> (Geminate)
-    * HŌ or HȎ almost always HIPHIL 1-Yod
+    * HIPHIL 1-Yod will have $\bar O$ or $\hat O$ (see Lesson 31)
 * Hophal Strong $Pre$ sequences are:
     * <span class="he">הָקְ</span> or <span class="he">הֻקְ</span> - HpP
     * <span class="he">יָקְ</span> or <span class="he">יֻקְ</span> - (etc.) HpI
-    * <span class="he">מָקְ</span> or <span class="he">מֻקְ</span> - HpPt<small>^[<small>The remaining conjugations are rare in the Hebrew Bible, so we will skip them.</small>]</small>
+    * <span class="he">מָקְ</span> or <span class="he">מֻקְ</span> - HpPt^[The remaining conjugations are rare in the Hebrew Bible, so we will skip them.]
 * Given that $V_1 = ə$, we expect 1נ to assimilate (as it does in QI and NP)
 
 ::: {.box .caution}
@@ -101,11 +149,26 @@ QAMETS HATUF OR QAMETS?
 
 ## Hophal Strong Parsing Clues - $V_S$ = A
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * P,I,M,∞ is $A$, just like the Pual stem
 * Particle stem is lengthened P3ms as expected - HpP3ms uses $A$, so HpPt use $\bar A$ 
 * Infinitive Absolute is $\bar E$ as expected (but there are only 6 HpA in the Bible)
 
-## Hophal Perfect Strong
+## Hophal Perfect Strong Paradigm
 
 * The standard Perfect sufformatives
 * $V_S = A$
@@ -131,7 +194,7 @@ QAMETS HATUF OR QAMETS?
 </figure>
 
 
-## Hophal Imperfect Strong
+## Hophal Imperfect Strong Paradigm
 
 * The standard Imperfect preformatives and sufformatives
 * $V_S = A$
@@ -156,7 +219,7 @@ QAMETS HATUF OR QAMETS?
 </figure>
 
 
-## Hophal Participle Strong
+## Hophal Participle Strong Paradigm
 
 * The standard Participle prefix (מ)
 * The standard $V_S = \bar A$ - lengthening of P3ms
@@ -180,12 +243,28 @@ Pual | מְ
 Hiphil | ַמ
 HOPHAL (u-class) | <span class="he">מֻ</span>
 HOPHAL (o-class) | ָ<span class="he">מ</span>
-Hithpael | תִמְ
+Hitpael | מִתְ
 
 
-## Hophal Strong Summary
+## What to memorize: Hophal
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.7.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Like $V_1$ in the Pual, the Hophal has a distinguishing O or U class $V_P$
+* Think "Houûphal"
 * $V_S$ is almost always Patach
     * There is expected lengthening to Qamets in the Participle
     * The rare Infinitive Absolute has the expected Tsere (see `Ruth Pursuit` below)
@@ -233,7 +312,7 @@ There are no Hophal verbs in Ruth 1, so there will be no `Ruth Pursuit` for Less
     * There are only six HpA forms in all of the Hebrew Bible (and some sources say there are only five).  One of those forms is in Ruth 2:11.  Note how $V_S$ is Tsere for the HpA verb, and how $V_S$ is Qamets in the HpP3ms verb that follows.
     * The verb root is נגד
     * The Daghesh Forte in the Gimmel represents the assimilated 1נ
-* Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word <span class="he">כֹּל</span>, it seems more likely that he is referring to the completeness of the report that he has received."<small>^[<small>Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf </small>]</small>
+* Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word <span class="he">כֹּל</span>, it seems more likely that he is referring to the completeness of the report that he has received."^[Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf ]
 
 
 ## Ruth Pursuit Analysis {-}
@@ -254,7 +333,7 @@ YOUR QUEST
 
 
 
-## OPTIONAL Hebrew Quest Study Passage: 1 Samuel 17 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: 1 Samuel 17 {-}
 
 
 ::: {.box .map}
@@ -274,4 +353,13 @@ YOUR HEBREW QUEST
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
 
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/CeGTW1NOmrc){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/32-33_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-32.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_32.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz](https://hebrewsyntax.org/bbh2new/32_quiz_new.pdf){target=“_blank”} 
 

@@ -1,4 +1,4 @@
-# Qal Perfect - Weak Verbs {.QP-w}
+# Qal Perfect - Weak {.QP-w}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/14.intro.m4a">
@@ -763,3 +763,15 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/ssee8-uHw_s){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/14_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-14.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_14.pdf){target=“_blank”}
+* [3-ה verbs](https://hebrewsyntax.org/bbh2new/00_3He_verbs.pdf){target=“_blank”}
+* [Dr. Beckman additional practice video](http://youtu.be/ay_JLbEIsVs){target=“_blank”}
+* Additional Drills/Worksheets 
+  * [Quiz a](https://hebrewsyntax.org/bbh2new/14_quiz_new.pdf){target=“_blank”}
+  * [Quiz b](https://hebrewsyntax.org/bbh2new/14_quiz_practice.pdf){target=“_blank”}

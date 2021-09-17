@@ -656,7 +656,7 @@ YOUR QUEST
 As always, words may have prefixes or suffixes.  Try to identify whether the construct is definite or indefinite based on the absolute noun.  
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #10](./images/10_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
@@ -679,3 +679,16 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/7X1tmBcU5WtGT46A7" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/IqD25wwKgWc){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/10_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-10.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_10.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Practice of vocabulary words in the construct state](https://hebrewsyntax.org/bbh2new/10_construct_vocab.pdf){target=“_blank”} 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/10_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/10_quiz_practice.pdf){target=“_blank”}
+
+

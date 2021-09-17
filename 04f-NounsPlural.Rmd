@@ -1265,5 +1265,16 @@ YOUR QUEST
     </iframe>
 </div>
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/9LxaKsDifCo){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/04_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](./images/BasicsBiblicalHebrew-04.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_04.pdf){target=“_blank”}
+* [Dr. Beckman additional practice video](http://youtu.be/xiwNrZaNtCg){target=“_blank”}
+* Additional Drills/Worksheets
+    * [a](https://hebrewsyntax.org/bbh2new/04_quiz_new.pdf){target=“_blank”}
+    * [b](https://hebrewsyntax.org/bbh2new/04_quiz_practice.pdf){target=“_blank”}
+
 
 

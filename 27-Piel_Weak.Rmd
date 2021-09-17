@@ -1,6 +1,21 @@
-# The Piel Stem - Weak Verbs {.D-w}
+# The Piel Stem - Weak {.D-w}
 
-This lesson will continue our overview of the Piel stem by looking at the week verbs.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+This lesson will continue our overview of the Piel stem by looking at the week verbs.  Most verbs that are weak in $R_1$ are not a problem because the Piel never tries to reduce $R_1$ or put a Dagesh Forte in $R_1$.  The only one of minor interest is 1-נ.
 
 ::: {.box .map}
 __LESSON ITINERARY__
@@ -12,11 +27,26 @@ __LESSON ITINERARY__
 ::: {.box .stop)  
 EQUIPMENT CHECK
 
-Before continuing, be sure you are familiar with the diagnostics of the Piel strong forms across the six primary conjugations
-
+Before continuing, be sure you are familiar with the diagnostics of the Piel strong forms (Piēl - Paēl)
 :::
 
 ## First Thought {-}
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27-16.Psalms100.4.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 ### <span class="he">בֹּ֤אוּ שְׁעָרָ֨יו ׀ בְּתוֹדָ֗ה חֲצֵרֹתָ֥יו בִּתְהִלָּ֑ה הֽוֹדוּ־ל֝֗וֹ בָּרֲכ֥וּ שְׁמֽוֹ׃</span> {-}
 
@@ -30,15 +60,7 @@ Many people who travel to Israel rightly look back on Jerusalem as the pinnacle 
 
 You are nearing the end of your journey! Keep focusing on Him!  Make sure each day you are entering into His presence with thanksgiving and praise!
 
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/27-16.Psalms100.4.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 
 
@@ -52,6 +74,21 @@ knitr::include_graphics("./images/27_Golden menorah for third temple, tb12319920
 
 
 ## Third Guttural (all variants)
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ::: {.box .light}
 * All third guttural verbs will change the Stem Vowel
@@ -75,8 +112,22 @@ knitr::include_graphics("./images/27_Golden menorah for third temple, tb12319920
 
 
 
-## 2-Guttural Reject Sheva 
+## 2-Guttural Reject Sheva
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Going way back to the very first lessons of Hebrew GRAMMAR Course, we studied the different behavior of Gutturals and Resh
 * 2-G verbs will take Hateph vowel instead of Vocal Sheva
@@ -84,13 +135,28 @@ knitr::include_graphics("./images/27_Golden menorah for third temple, tb12319920
     * DP3cp - <span class="he">קִטְּלוּ</span> (strong) is <span class="he">נִחֲלוּ</span> 
     * Review Lesson 26 Paradigms for the forms where $V_2 = ə$
 
-## 2-Guttural and 2ר Reject Dagesh Forte
+## 2G/2ר Reject Dagesh Forte
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * As we learned in Lesson 26, the Dagesh Forte in $R_2$ is a key distinctive of the Piel (as well as the Pual and Hitpael) stems
 * 2-G and 2-ר will reject that Dagesh Forte
     * 2-ר/א will almost always have Compensatory Lengthening
-        * DP2ms, Not <span class="he">בִרַּ֫כְתָּ</span>*, but <span class="he">יְבֶרַ֫כְתָּ</span> (Hireq lengthens to Tsere)
-        * DI3ms, Not <span class="he">תְּבַרֵךְ</span>*, but <span class="he">תְּבָרֵךְ</span>(Patach lengthens to Qamets) 
+        * DP2ms, Not <span class="he">בִרַּ֫כְתָּ</span>*, but <span class="he">בֶרַ֫כְתָּ</span> (Hireq + Daghesh lengthens to Tsere and no Daghesh)
+        * DI3ms, Not <span class="he">תְּבַרֵּךְ</span>*, but <span class="he">תְּבָרֵךְ</span> (Patach + Daghesh lengthens to Qamets and no Daghesh) 
     * 2-ה/ח/ע usually do NOT have compensatory lengthening in Piel
         * DP3cp - Not <span class="he">נִחֲּמוּ</span>*, but <span class="he">נִחֲמוּ</span>
         * Often $V_2$ changes, but do not be concerned about this; the Diagnostic Piel $Pre$ (minus the Dagesh Forte) is still intact
@@ -103,9 +169,24 @@ However, some verbs may exhibit either pattern.
 
 ## 1נ
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * As we know, what makes a 1-nun verb weak is the tendency to assimilate when the nun has a Sheva
-* $V_1$ is NEVER a Sheva in the Piel<small>^[<small>To "connect the dots", if $V_2$ MUST be a Dagesh Forte, than $V_1$ MUST be a vowel that is not a Sheva.</small>]</small> so 1-Nuns are actually strong in the Piel (meaning there are no spelling changes compared to the Piel Strong Verb Paradigms)
-* The challenge is that the $Pre$ of a 1-nun Piel Perfect verb is identical to the $Pre$ of a Niphal Perfect verb
+* $V_1$ is NEVER a Sheva in the Piel^[To "connect the dots", if $V_2$ MUST be a Dagesh Forte, than $V_1$ MUST be a vowel that is not a Sheva.] so 1-Nuns are actually strong in the Piel (meaning there are no spelling changes compared to the Piel Strong Verb Paradigms)
+* The challenge is that the $Pre$ of a 1-nun Piel Perfect verb CAN BE identical to the $Pre$ of a Niphal Perfect verb
 * To demonstrate, consider <span class="he">נִגַּ֫שְׁתָּ</span>, which is either DP2ms or NP2ms:
     * We do not know whether the <span class="he">נִ</span> is the nun of the Niphal prefix, or whether it is the 1-nun of the root in the Piel
     * We also do not know whether the Dagesh in <span class="he">גּ</span> represents the assimilated 1-Nun in the Niphal, or the Doubled $R_2$ in Piel
@@ -115,10 +196,25 @@ However, some verbs may exhibit either pattern.
     * You may need to consult a reference for these
     
 ::: {.box .info}
-The good news is that the P3ms $V_S$ are not the same in Piel ($\bar E$, as in <span class="he">נִצֵּל</span>) and Niphal ($A$, as in <span class="he">נִַצָּל</span>), so the far more common P3ms forms can be differentiated.
+The good news is that the P3ms $V_S$ are not the same in Piel ($\bar E$) and Niphal ($A$), so the far more common P3ms forms can be differentiated.
 :::
 
-## Biconsonantal: the Polel minor stem
+## Biconsonantal and Geminate: the Polel minor stem
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Biconsonantal verbs lack $R_2$ so there will be no Dagesh
 * What happens is that $R_3$ is doubled (as if it were a Geminate) and there is a Holem Vav (sometimes written as a defective Holem) at $V_1$
@@ -128,28 +224,46 @@ The good news is that the P3ms $V_S$ are not the same in Piel ($\bar E$, as in <
 
 ::: {.box .info}
 * Because of the vowel sequence, Biconsonantal Piel is sometimes referred to by the mnemonic, pôlēl
-    * While there are seven major Hebrew verb stems, many grammars classify many additional minor stems
+    * While there are seven major Hebrew verb stems, many grammars classify several additional minor stems
     * Polel would be considered a minor stem
-* Take note that pôlēl is also the vowel sequence for the QPt 
+* Take note that pôlēl is also the vowel sequence for the QPt
 :::
-
-## Geminate
 
 * Geminate verbs are sometimes strong
     * <span class="he">הִלֵּל</span> or <span class="he">יְהַלֵּל</span>
 * Sometimes they are like pôlēl
     * <span class="he">פּוֹרֵר</span> or <span class="he">יְפוֹלֵל</span>
 
-## Other weak $R_1$ forms
+::: {.box .light}
+* A robust vocabulary helps to identify Biconsonantal and Geminate verbal roots
+:::
 
-Generally, these are not a problem because we are not trying to reduce $R_1$ or put a Dagesh Forte in $R_1$
+
+
+
+
 
 ## What to Memorize for Piel Weak
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * 3-ה verb endings in all stems
 * 2-G/2-ר verbs lack the Dagesh in $R_2$ - may have Compensatory Lengthening
 * 1-נ verbs in DP = NP (except for 3ms)
-* The mnemonic, pôlēl, to remind you of Biconsonantal or Gemininate
+* The mnemonic, pôlēl, to remind you of Biconsonantal or Gemininate vowel patterns
 
 ::: {.box .info}
 For most weak verbs, the strong diagnostics of the Piel are retained: 
@@ -160,6 +274,7 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 :::
 
 ## Piel Weak Parsing Examples
+
 
 * Word: <span class="he">כַּלּוּ </span>
     * $Pre =$ כַּלּ 
@@ -233,12 +348,12 @@ Identify, parse, and translate the two Piel verbs in Ruth 1
 Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Daghesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
 :::
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #27](./images/27_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 
-## Hebrew Quest Study Passages: Psalms 1 and 27 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Psalms 1 and 27 {-}
 
 
 ::: {.box .map}
@@ -254,3 +369,15 @@ YOUR HEBREW QUEST
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/2jzhf9MUhGs){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/27_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-27.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_27.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/27_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/27_quiz_practice.pdf){target=“_blank”}
+    * [Quiz c](https://hebrewsyntax.org/bbh2new/27_quiz_principles.pdf){target=“_blank”}
+

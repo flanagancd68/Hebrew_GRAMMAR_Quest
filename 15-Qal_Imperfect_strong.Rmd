@@ -1,4 +1,4 @@
-# Qal Imperfect - Strong Verbs {.QI-s}
+# Qal Imperfect - Strong {.QI-s}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.intro.m4a">
@@ -483,3 +483,16 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/yuIwYku3J14){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/15_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-15.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_15.pdf){target=“_blank”}
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/15_qal_imperfect_strong_paradigm.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/15_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/15_quiz_practice.pdf){target=“_blank”}
+    * [Quiz Paradigms](https://hebrewsyntax.org/bbh2new/15_quiz_paradigms_7_8_9_13_15.pdf){target=“_blank”}
+

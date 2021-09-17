@@ -418,4 +418,11 @@ YOUR HEBREW QUEST:
 
 :::
 
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/VKz33Fb0z78){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/23_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary and Study Verses](http://hebrew.billmounce.com/BasicsBiblicalHebrew-23.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz](https://hebrewsyntax.org/bbh2new/23_quiz_new.pdf){target=“_blank”}
 

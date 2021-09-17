@@ -1,4 +1,4 @@
-# Definite Article and Conjunction Vav {.Article}
+# Article and Conjunction {.Article}
 
 ::: {.infobox .sound}
 <figure>
@@ -987,7 +987,7 @@ YOUR QUEST
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #05](./images/05_Ruth_Pursuit_KEY.pdf){target="_blank"}
 * Update your `Ruth Pursuit Translation` worksheet.
 
@@ -1010,3 +1010,14 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdUEWHBbR9iuUrUMSJ76Fucn0qyqIPxILQpfh3Ss6Hmz8bPZA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/CgktePAFbF8){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/05_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-05.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_05.pdf){target=“_blank”}
+*[SQiN eM Levy sheet](https://hebrewsyntax.org/bbh2new/05_sqin_em_levy.pdf){target=“_blank”}
+* Additional Drills/Worksheets
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/05_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/05_quiz_practice.pdf){target=“_blank”}

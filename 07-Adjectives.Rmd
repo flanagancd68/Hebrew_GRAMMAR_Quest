@@ -501,7 +501,7 @@ Be sure to update your `Ruth Pursuit Translation Worksheet` with the findings fr
 :::
 
 
-* [Blank copy of Ruth 1](https://drive.google.com/file/d/1qcfTKAlTJGChC2eYCMhSbY2w-ibzCcDV/copy){target="_blank"}
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #7](./images/07_Ruth_Pursuit_KEY.pdf){target="_blank"}
 * Don't forget to update your `Ruth Pursuit Translation` worksheet with new words identified through lesson 7.
 
@@ -523,3 +523,13 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://forms.gle/u7NiyG7MzE4inxj86" frameborder="0"></iframe>
 </div>
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/ykGSHhZulhU){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/07_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-07.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_07.pdf){target=“_blank”}
+* Additional Drills/Worksheets
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/07_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/07_quiz_practice.pdf){target=“_blank”}

@@ -1,6 +1,22 @@
-# The Hiphil Stem - Strong Verbs {.H-s}
+# The Hiphil Stem - Strong {.H-s}
 
-With the Hiphil stem, we move into the bottom row of our verb table.  There are approximately 10,000 occurrences of the Hiphil stem in the Bible. The Hiphil stem has the nuance of causing an action, entering into a state, or declaring a state.  Activities for this lesson include identifying Hiphil verbs in Ruth chapter one and, for those doing the _Hebrew Quest_ Study Passage track, reading verse by verse through Exodus 19.
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.intro.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+There are approximately 10,000 occurrences of the Hiphil stem in the Bible. The Hiphil stem has the nuance of causing an action, entering into a state, or declaring a state.  Activities for this lesson include identifying Hiphil verbs in Ruth chapter one and, for those doing the _Hebrew Quest_ Study Passage track, reading verse by verse through Exodus 19.
 
 
 ::: {.box .map}
@@ -15,6 +31,20 @@ LESSON ITINERARY
 
 ## First Thought {-}
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload"  src="./images/30-10.Isaiah1.18.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 ### <span class="he">לְכוּ־נָ֛א וְנִוָּֽכְחָ֖ה יֹאמַ֣ר יְהוָ֑ה אִם־יִֽהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג יַלְבִּ֔ינוּ אִם־יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִהְיֽוּ׃</span> {-}
 
 *"Come now, and let us reason together," Says Adonai, "Though your sins are as scarlet, They will be as white as snow; Though they are red like crimson, They will be like wool. (Isaiah 1:18)*
@@ -22,17 +52,6 @@ LESSON ITINERARY
 This is a famous memory verse for traditional Jews and Christians/Believers in Messiah alike.  How beautiful to be able to read and hear in the original Hebrew!  Meditate on it!
 
 <span class="he">יַאְדִּ֥ימוּ</span> is Hiphil Imperfect 3ms
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/30-10.Isaiah1.18.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 
 
@@ -45,7 +64,22 @@ knitr::include_graphics("images/30.Western Wall with chairs and snow, tb02250320
 
 
 
-## Meaning of the Hiphil
+## Verb Stem Table: Hiphil
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -59,21 +93,37 @@ Meanings:
     * <span class="he">יצא</span>
         * Q - to go out
         * H - to cause something to go out, i.e., to bring out
-    * Sometimes passive of Qal - <span class="he">אכל</span>
+* Sometimes passive of Qal - 
+    * <span class="he">אכל</span>
         * Q - to eat
         * H - to cause to eat, i.e., to feed 
 * Enter into or declare the state expressed by Qal
     * <span class="he">זקן</span>
         * Q - to be old
-        * H - to grow old
+        * H - to enter into the state of being old, i.e., to grow old
     * <span class="he">רשׁע</span>
         * Q - to be guilty/wicked
         * H - to declare guilty
 * Simple action, like the Qal
 
-Parsing Code: H (`H`iphil)
+Parsing Code: H (_H_iphil)
 
-## Hiphil Strong Word Initial Combinations - Think "HIphil-HAphil"
+## Hiphil tip: Think "hIphil-hAphil"
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Preformatives
     * Hiphil verbs have preformative ה
@@ -81,11 +131,11 @@ Parsing Code: H (`H`iphil)
 * $V_P$
     * Remember "Hiphil-Haphil" (like "Piel-Pael")
     * $V_P = I$ in the PERFECT ("Hiphil")
-    * $V_P = A$ EVERYWHERE ELSE ("Haphil")
+    * $V_P = A$ EVERYWHERE ELSE ("Haphil") 
 * $V_1 = :$ 
 * $Pre$ combinations are:
     * <span class="he">הִקְ</span> - HP
-    * <span class="he">יַקְ</span> - HI, and so forth for the other Imperfect forms
+    * <span class="he">יַקְ</span> - HI, and so forth for the other Imperfect forms, inclidng HI1cs
     * <span class="he">הַקְ</span> - HM/H∞/HA
     * <span class="he">מַקְ</span> - Pt
 
@@ -96,9 +146,24 @@ Parsing Code: H (`H`iphil)
 
 ## Hiphil $V_S = Î[A] \sim Î(Ē)$
 
-* $V_S(HPt) = \hat I$ 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+* Participle $V_S = \hat I$ 
     * The Participle is usually the Perfect $V_S$ lengthened. In this case, Hireq+Yod is already long, so there is no change from the Perfect
-* $V_S(HA) = \bar E$ as expected.
+* Infinitive Absolute (A) $V_S = \bar E$ as expected.
 
 ::: {.box .caution}
 Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never reduces because it is an unchangeable long vowel, even when it is written as Hireq.
@@ -107,12 +172,27 @@ Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never redu
 ### Exception to $V_S$ pattern {-}
 
 * HM2ms: $V_S = \bar E$
-* Hiwc---: $V_S$ is often $\bar E$ instead of $\hat I$ (Hireq+Yod) when there is no pronominal suffix
-    * <span class="he">הַקְטֵל</span>
-    * <span class="he">וַיַּקְטֵל</span>
+* HIwc---: $V_S$ is often $\bar E$ instead of $\hat I$ (Hireq+Yod) when there is no pronominal suffix
+    * HM2ms: <span class="he">הַקְטֵל</span>
+    * HIwc3ms: <span class="he">וַיַּקְטֵל</span>
 
 
-## Don’t confuse  <span class="he">ְ הִ</span> with Niphal Preformative  <span class="he">ָּּ הִ</span>
+## Don’t confuse Hiphil <span class="he">ְ הִ</span> with Niphal Imperative Preformative  <span class="he">ָּּ הִ</span>
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.4.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * Hiphil  - <span class="he">הִקְטִיל</span>
     * No Daghesh Forte in $R_1$
@@ -122,9 +202,24 @@ Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never redu
 
 ## Don't confuse Hiphil Imperfect  <span class="he">ְ יַ</span> with Qal Imperfect  <span class="he">ְ יִ</span>
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 * Remember "Hiphil" = Perfect; "Haphil" everywhere else
 * Imperfect $V_P$ of Hireq is NOT Hiphil
-* Ambiguity arises with 1G verbs because of the Rule of Sheva ("Hateph copy-cat")
+* Ambiguity arises with 1G verbs because of the Rule of Sheva 
 * As we've discussed, in 1G situations, we can't necessarily rely on the stem's $Pre$ sequence to determine the stem
     * $V_P$ and $V_1$ will be Patach and Hateph Patach in both Hiphil and Qal
     * The Hiphil $V_S$ will be Hireq+Yod
@@ -137,6 +232,8 @@ Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never redu
 ## Hiphil Perfect Strong Paradigm
 
 As with the other stems, we list these paradigms to aid in your recognition of these forms.  It is not necessary to memorize these like you had to do with the Qal paradigms.
+
+Note $V_P = I$
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -161,6 +258,8 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 ## Hiphil Imperfect Strong Paradigm
 
+Note $V_P = A$
+
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">יַקְטִיל</span>  | 3mp | <span class="he">יַקְטִ֫ילוּ</span> 
@@ -181,6 +280,9 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 ## Hiphil Imperative Strong Paradigm
 
+Note $V_P = A$
+
+
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">הַקְטֵל</span> | 2mp | <span class="he">הַקְטִ֫ילוּ</span>
@@ -200,6 +302,7 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 
 ## Hiphil Infinitives Strong
 
+Note $V_P = A$
 
 | Type | Paradigm 
 | :-  | :- 
@@ -209,7 +312,9 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 * $V_S$ will distinguish the two Infinitive forms.  HA has a Tsere.
 * Note that HM2ms and HA are identical (the context will distinguish)
 
-## Participle Strong
+## Hiphil Participle Strong Paradigm
+
+Note $V_P = A$
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -217,7 +322,7 @@ As with the other stems, we list these paradigms to aid in your recognition of t
 | fs | <span class="he">מַקְטֶ֫לֶת</span> or <span class="he">מַקְטִילָה</span> | fp | <span class="he">מַקְטִילוֹת</span>
 
 
-* The מ prefix, which characterizes the Participle in the Piel, Pual, Hiphil, and Hophal stems
+* Mote again, the מ prefix, which characterizes the Participle in the Piel, Pual, Hiphil, and Hophal stems
 * $V_S$ = Hireq+Yod throughout (except for one of the FS forms)
 
 ### Participle Prefixes in the Derived Stems {-}
@@ -227,23 +332,38 @@ Stem | Prefix
 Niphal | נִ |
 Piel | מְ
 Pual | מְ
-HIPHIL | <span class="he">ַמ</span>
+HIPHIL | <span class="he">ַמַ</span>
 Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 Hithpael | תִמְ
 
 
-## Strong Summary
+## What to Memorize: Hiphil
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 * In most cases, the "H<u>i</u>phil-H<u>a</u>phil" mnemonic for $V_P$ is sufficient to identify the Hiphil stem - $V_P = I$ (Hireq) in the PERFECT, and $V_P= A$ (Pathach) in ALL OTHER CONJUGATIONS
 * The exceptions come when $R_1$ is a weak letter (discussed in Lesson 31)
-* Hiphil Beginning Combination:
-    * <span class="he">ְ הִ</span> - HP
-    * <span class="he">ְ יַ</span> - (etc.) HI
-    * <span class="he">ְ הַ</span> - HM/H∞/HA
-    * <span class="he">ְ מַ</span> - HPt
+* Hiphil $Pre$ Combination:
+    * <span class="he">הִקְ</span> - HP
+    * <span class="he">יַקְ</span> - (etc.) HI
+    * <span class="he">הַקְ</span> - HM/H∞/HA
+    * <span class="he">מַקְ</span> - HPt
 * $V_S = Î[A] \sim Î(Ē)$
-    * It's essential to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the beginning combination
+    * It's essential to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the $Pre$ combination
     
 ## Stem Comparison Table
 
@@ -300,7 +420,7 @@ YOUR QUEST
 
 
 
-## OPTIONAL _Hebrew Quest_ Study Passage: Exodus 19 {-}
+## Honors Track: _Hebrew Quest_ Study Passage: Exodus 19 {-}
 
 
 ::: {.box .map}
@@ -314,4 +434,15 @@ YOUR HEBREW QUEST
     * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
 5. How did the Ruach HaKodesh speak to you through the passage?
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/mOOtL2OTOAo){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/30_overheads_bw.pdf){target=“_blank”}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-30.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_30.pdf){target=“_blank”}
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/30_hiphil_strong_paradigms.pdf){target=“_blank”}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/30_quiz_new.pdf){target=“_blank”}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/30_quiz_practice.pdf){target=“_blank”}
 

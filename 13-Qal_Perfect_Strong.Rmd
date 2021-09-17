@@ -1,4 +1,4 @@
-# Qal Perfect - Strong Verbs {.QP-s}
+# Qal Perfect - Strong {.QP-s}
 
 ::: {.infobox .sound}
 <figure>
@@ -1372,3 +1372,16 @@ YOUR HEBREW QUEST:
 5. How did the Ruach HaKodesh speak to you through the passage?
 
 :::
+
+## Lesson Extras {-}
+
+* [Dr. Beckman Lecture Video](http://youtu.be/LooAb_a3T-s){target="_blank"}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/13_overheads_bw.pdf){target="_blank"}
+* [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-13.pdf){target=“_blank”}
+* [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_13.pdf){target=“_blank”}
+
+* [Paradigm PDF](https://hebrewsyntax.org/bbh2new/13_qal_perfect_strong_paradigm.pdf){target="_blank"}
+* Additional Drills/Worksheets 
+    * [Quiz a](https://hebrewsyntax.org/bbh2new/13_quiz_new.pdf){target="_blank"}
+    * [Quiz b](https://hebrewsyntax.org/bbh2new/13_quiz_practice.pdf){target="_blank"}
+    * [Quiz c Paradigms](https://hebrewsyntax.org/bbh2new/13_quiz_paradigms_7_8_9_13.pdf)
