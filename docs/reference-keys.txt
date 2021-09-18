@@ -47,7 +47,6 @@ fig:unnamed-chunk-120
 fig:unnamed-chunk-121
 fig:unnamed-chunk-122
 fig:unnamed-chunk-123
-see-the-appendix-for-other-important-information-and-faq
 alephbet
 consonants
 aleph-bet-memory-song

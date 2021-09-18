@@ -100,7 +100,7 @@ All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה
 
 <!--chapter:end:index.Rmd-->
 
-# Anki and Course Setup {-}
+# Course and Anki Setup {-}
 
 ::: {.box .stop}
 * You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
@@ -139,10 +139,8 @@ function x25() {
 ::: {.box .light}
 * The Hebrew GRAMMAR Quest Guidebook is where you will get introduced to the material
 * Anki (along with the other activities) is where you will LEARN the material
-* This section will get you up and running with Anki and will get your Hebrew GRAMMAR Quest headed in the right direction
+* This section will get you up and running with Anki and the other components of the course so your Hebrew GRAMMAR Quest is headed in the right direction
 :::
-
-
 
 
 <img src="images/weight.png" width="150pt" style="display: block; margin: auto;" /><img src="images/treadmill.png" width="150pt" style="display: block; margin: auto;" />
@@ -157,7 +155,7 @@ As you work through this course, set aside time to review Anki on a DAILY basis
 The sections that will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Unit 1 Anki deck with additional how-to information.
 
 
-## How do I get started with Anki/Hebrew Grammar Quest? {- #quickstart}
+## COURSE QUICK START INSTRUCTIONS {- #quickstart}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -193,17 +191,19 @@ function x25() {
 
 ::: {.box .caution}
 Failure to follow the steps below could lead to Anki frustration!^[The first two steps aren't directly related to Anki, but since you'll need them for the course, we'll include them here.]
+
+These steps should take around 10 minutes depending on your internet speed.
 :::
 
 
 | Step | Comments | Link to How-to Video
 | :-- | :-- | :--
-|1. Get Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course. Creating a Google account is free. | [YouTube: Step 1](https://youtu.be/MvDQTpuFKgI){target="_blank"}
+|1. If needed, get a Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course. Creating a Google account is free. | [YouTube: Step 1](https://youtu.be/MvDQTpuFKgI){target="_blank"}
 |2. Copy the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} to your personal Google Drive Folder | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`! | [YouTube: Step 2](https://youtu.be/Aby8Th13hHU){target="_blank"}
 3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards. After downloading, extract the zip file to a location of your choice. Then double-click on `SILEOT.ttf`, which should give you the option to install the font. | [YouTube: Step 3](https://youtu.be/Dt-DVA0ekxQ){target="_blank"}
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](https://youtu.be/lBKbLFw3Ouo){target="_blank"}
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | On the website, click the `Download` button, then select the tab with your operating system^[The version numbers will change with the passage of time.  Unless instructed otherwise, download the curent version of the Anki desktop program on their website].  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}
-6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone.  . After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
+6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone. After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
 |Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
 | | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
@@ -316,7 +316,7 @@ Anki Add-ons
 </div>
 
 
-## See the Appendix for other important information and FAQ
+## See the Appendix for other important information and FAQ {-}
 
 FAQs about the Course
 
