@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-09-17"
+#date: "2021-09-18"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -27,7 +27,7 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
-<small>*Updated*: 2021-09-17</small>
+<small>*Updated*: 2021-09-18</small>
 
 <small>
 
@@ -100,207 +100,14 @@ All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה
 
 <!--chapter:end:index.Rmd-->
 
-# About this course {-}
-
-* [Why is Holy Language Institute offering a Hebrew grammar course?](#motivation)
-* [What makes our course distinct?](#our_course)
-* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
-* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
-
-
-## Why is Holy Language offering a Hebrew grammar course? {- #motivation}
-
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.whyhebrewgrammar.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-
-If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
-
-***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful.  We noticed that many other students started to drop off between lessons 12 and 16, after the Aleph-Bet lectures. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.  
-
-As a result, several of our students have asked us for a grammar resource to supplement _Hebrew Quest_.  
-
-As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
-
-1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u> 
-2. <u>Academic/Seminary level textbooks and courses</u>
-
-These two are often opposite extremes.  Self-paced courses can have too little structure and often provide only a superficial review of Hebrew.  In the end, the student may only be slightly more prepared to read the Hebrew Bible than if they had not done the course.  There are also limited feedback opportunities as these courses are designed for independent learning.  On the other hand, seminary courses and seminary-level textbooks are usually incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures, and exams. Academic courses are fast-paced and high-stress ^[For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.]. Seminary textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)^[For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible, especially from a spiritual or devotional perspective.]
-   
-Additionally, with either option, our Holy Language students would incur additional fees to purchase these materials.  Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for the majority of our students.
-
-See the next section to learn how Hebrew GRAMMAR Quest is distinct.
-
-## How is Hebrew GRAMMAR Quest distinct? {- #our_course}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-Our Holy Language goals for a Hebrew grammar course are the following:
-
-* Academically CHALLENGING, but with a LOW-STRESS level
-* Primary emphasis on READING and UNDERSTANDING God's Word
-    * We use grammar rules, paradigms, and memorization as a means to achieve this goal
-    * The "final exam" should be whether you can understand the Bible, not whether you can conjugate a a particular Hebrew verb
-    * We do not prioritize writing or speaking in Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
-    * We are not addressing Modern Hebrew
-* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
-* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
-* COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_, but does not replace it; Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_
-* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward for the ministry to develop, deliver, and maintain
-* FREE of charge for our students
-* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
-
-We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
-
-### Holy Language Learning Philosophy {-}
-
-We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this in greater detail in the clip below from **Hebrew Quest** Lesson 1.  As a reminder, you can increase the speed of YouTube videos by clicking "Settings", then adjusting the "Playback Speed" to your liking.
-
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
-</div>
-
-
-
-## What is the Relationship to _Hebrew Quest_? {- #hgq_and_hq}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.relationtohq.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-We've said that Hebrew GRAMMAR Quest does not replace _Hebrew Quest_.  Instead, we believe Hebrew GRAMMAR Quest supports and extends _Hebrew Quest_.  In fact, one way to think of Hebrew GRAMMAR Quest could be as "Hebrew Quest: Extended Edition"!  
-
-Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs, and other grammar topics.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
-
-<img src="images/i.hq_hgq.png" width="800pt" style="display: block; margin: auto;" />
-
-* Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12
-* Then we begin our deep dive into core grammar topics touched upon in _Hebrew Quest_ Lessons 13-15
-* Additionally, starting with Hebrew GRAMMAR Quest Lesson 12, students can elect to complete a "_Hebrew Quest_ Study Passage Track"
-    * Primary geared for students who have not yet completed all of _Hebrew Quest_, this will incorporate the Proverbs study and the Bible reading sections from _Hebrew Quest_
-    * Students will read through the passage and compose a translation
-    * They will then watch Izzy's _Hebrew Quest_ teaching video explaining the passage
-    * Students who complete all of the _Hebrew Quest_ Study Passage Tracks will receive extra special recognition upon completion of the course.  It our way of saying you have graduated "with honors"!
-
-## Is completion of _Hebrew Quest_ is a prerequisite? {- #finish_hq}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.hqprerequisite.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-Emphatically NO!
-
-If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step to go deeper.
-
-On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
-
-It's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
-
-As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest_.  _Hebrew Quest_ [videos are here](https://holylanguage.com/quest.html){target="_blank"}, and the accompanying [Memrise module is here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}.
-
-To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
-
-* The more _Hebrew Quest_ you have completed, the more you will get out of Hebrew GRAMMAR Quest, and . . .
-* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of _Hebrew Quest_ (especially _Hebrew Quest_ Lessons 13-40)
-* Either way, you can't go wrong!  The most important thing is to start and ultimately complete both.  Again, the _Hebrew Quest_ study passage track within Hebrew Grammar Quest will get you on your way to this lofty goal of completing both courses.
-
-
-::: {.box .map}
-Let's get started!
-:::
-
-The next section on Anki and course setup will get your Hebrew GRAMMAR Quest outfitted properly.
-
-<!--chapter:end:00b-introduction.Rmd-->
-
 # Anki and Course Setup {-}
 
+::: {.box .stop}
+* You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
+* If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes
+  * Then you wouldn't want to wear those new shoes for the first time on your hike; you would want to break them in first (or your feet would not be very happy with you)
+* Consider `Anki and Course Setup` as your trip to the store to get the right equipment then get comfortable with it _before_ you begin your quest!
+:::
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -335,12 +142,7 @@ function x25() {
 * This section will get you up and running with Anki and will get your Hebrew GRAMMAR Quest headed in the right direction
 :::
 
-::: {.box .stop}
-* You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
-* If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes
-  * Then you wouldn't want to wear those new shoes for the first time on your hike; you would want to break them in first (or your feet would not be very happy with you)
-* Consider `Anki and Course Setup` as your trip to the store to get the right equipment then get comfortable with it _before_ you begin your quest!
-:::
+
 
 
 <img src="images/weight.png" width="150pt" style="display: block; margin: auto;" /><img src="images/treadmill.png" width="150pt" style="display: block; margin: auto;" />
@@ -355,9 +157,7 @@ As you work through this course, set aside time to review Anki on a DAILY basis
 The sections that will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Unit 1 Anki deck with additional how-to information.
 
 
-## How do I get started with Anki/Hebrew Grammar Quest? {-}
-
-<large>QUICK START INSTRUCTIONS</large>
+## How do I get started with Anki/Hebrew Grammar Quest? {- #quickstart}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -409,13 +209,13 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  See `HGQ Custom Words` section for more information.
-7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
+7. Tweak a few Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
 10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction | [YouTube: Step 10](https://youtu.be/rfKKzKX-CNg){target="_blank"}
-11. Read the `Introduction` sections: `About This Course`, `Anki and Course Setup`, and `Get Help`. |
+11. Know that you can [get help or give feedback](#get_help) |
+12. As desired, read the [About this Course FAQs](#about_this_course) in the appendix |
  
-
 
 ## Customize Anki Settings {- #anki_settings}
 
@@ -457,7 +257,7 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 2. To change learning settings, click the gear button next to "Hebrew Grammar Quest", then click `Options`
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_options.png" alt="Anki Deck Options" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-4)Anki Deck Options</p>
+<p class="caption">(\#fig:unnamed-chunk-3)Anki Deck Options</p>
 </div>
 3. Make sure your settings match the images below:
 
@@ -465,7 +265,7 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings01.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-4)Settings</p>
 </div>
 
 ::: {.box .info}
@@ -479,7 +279,7 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 `Show answer timer` is optional.
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings02.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
 </div>
 
 
@@ -488,14 +288,14 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings03.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-7)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
 </div>
 
 ### Advanced {-}
  
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings04.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-8)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-7)Settings</p>
 </div>
 
 ::: {.box .info}
@@ -512,457 +312,28 @@ Anki Add-ons
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_more_stats.png" alt="Settings" width="500pt" />
-<p class="caption">(\#fig:unnamed-chunk-9)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-8)Settings</p>
 </div>
 
-## `HGQ Custom Words` Deck {-}
 
-<div class="figure" style="text-align: center">
-<img src="images/00.anki_custom.png" alt="Settings" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-10)Settings</p>
-</div>
+## See the Appendix for other important information and FAQ
 
-* On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
-* This is an optional deck for you to add additional cards for words or concepts that you would like extra focus or to expand your Hebrew vocabulary
-* Steps in Anki:
-  1. Copy the Hebrew word from one of the main Hebrew GRAMMAR Quest decks
-  2. Click `Decks`
-  3. Select `HGQ Custom Words` deck
-  4. Click `Add`
-  5. Make sure `type = Grammar Cloze`; if not, change type to `Grammar Cloze` by clicking on the type field
-  6. Paste your Hebrew word, and type the English meaning next to the Hebrew word
-  7. Select/highlight the English text then click the `Cloze` button: `[...]`
-  8. Add any notes you want in the remaining fields, including any hints or mnemonics that will help you remember the word
-  9. Click `Add`
-* The video below walks through these steps:
+FAQs about the Course
 
+* [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
+* [What makes our course distinct?](#our_course)
+* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
+* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
+* [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
+* [What are the required/optional course resources?](#optional_resources)
+* [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-7jp8rhufAMU?start=0&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="0"></iframe>
-</div>
+FAQs about Anki
 
-[Click to open video in a new tab](https://youtu.be/7jp8rhufAMU){target="_blank"}
-
-::: {.box .info}
-* We will learn the "parsing code" shown in the image in Unit 3
-* [This site](https://scholarsgateway.com/search/WLC-ESV/Exodus/16:25) is extremely helpful with identifying parts of speech in the Tanach.
-:::
-
-## How do I navigate within Anki? {-}
-
-<div class="figure" style="text-align: center">
-<img src="images/00.ankinavigate.png" alt="Settings" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-11)Settings</p>
-</div>
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.ankinavigate.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-
-::: {.box .map}  
-* We have created a brief tutorial within our Hebrew GRAMMAR Quest Unit 1 `Anki` deck
-* This is contained in the `0.Introduction` folder
-* Click on this deck for an introduction and helpful hints
-* When you are finished you may `Suspend` the cards in the this folder only so you don't see them again (these are the only cards in the deck you should `Suspend`!)
-
-:::
-
-* Click the +/- buttons to expand/collapse the folders within the Anki deck [(click to see example)](./images/00.ankifolders.png){target="_blank"}
-    * To start with Lesson 01 Vocabulary, click on the plus buttons within Unit 1, until you see `Lesson 01 Vocabulary` and click the `STUDY NOW` button
-    * In your initial learning, start with the `module` level, i.e. `Lesson 01 Vocabulary` - do this untill all cards reach the `mature` stage
-    * Once you have learned all cards in all modules, REVIEW at the Lesson level, e.g. `Lesson 01`
-    * Once you have learned all cards in all Lessons in a unit, then REVIEW at the Unit level, e.g. `1. Lessons 1-3`
-* Many cards have "hints" - click on the `hint` button to reveal [(click to see example)](./images/a.anki_hint.gif){target="_blank"}
-    * If you needed a hint, be sure to select `Again` on the answer side
-* When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
-
-::: {.box .info}
-Hints/Mnemonics
-
-Several of the cards have silly mnemonics.  As we borrowed and reformatted the `Vocab` and `Grammar` cards from Dr. Beckman, most of the mnemonics were created by his students.  In most cases, we retained these but feel free to delete these from your deck (or simply ignore them)
-:::
-
-## How do I know when to hit the `Good` button on an Anki card? {-}
-
-<div class="figure" style="text-align: center">
-<img src="images/00.anki_good.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-12)Settings</p>
-</div>
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_good.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-We suggest using the following guidelines:
-
-* `Again`
-  * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
-  * Your answer was correct, but you required a hint
-* `Hard` 
-  * You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
-  * If you believe your correct answer had more to do with short-term recall instead of a firm grasp of the concept (e.g. you just saw the right answer a few minutes earlier and remembered what it was), you should select `Hard`.  This will present the card to you sooner (usually about 12 hours later) to make sure you really understand
-  * Similarly for `Study Verses`, if you got the correct answer for any other reason than you were able to read the verse in Hebrew (for example, you happen to have that verse memoried in English), select `Hard`
-* `Good`
-  * All parts of the answer are correct; no hints
-  * For Bible Verses, mark `Good` when:
-    * you can read and understand the verse in Hebrew
-    * Your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse
-    * Your verb tense is correct (even though we won't study verbs until Unit 3)
-    * You do NOT need to have the passage and its meaning memorized to mark `Good`
-  * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
-* `Easy`
-  * We do not recommend selecting `Easy.` 
-  * An exception might be when you are confident that you already have the word, rule, or passage memorized
-
-
-::: {.box .info}
-Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
-
-:::
-
-## How do I get help with Anki? {-}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_help.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-
-* We do have [help](#feedback_forms) forms to assist you with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`. 
-  * Use the ["Report an Issue" form](#report_issue) to report an error (e.g. a typo) with the Hebrew GRAMMAR Quest Anki decks
-  * Use the ["Get Help" form](#get_help) to ask a question related to the Hebrew GRAMMAR Quest Anki decks
-* Unfortunately, it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  
-* The good news is that there is a LARGE Anki user community across the globe
-    * We encourage you to check out the numerous articles and tutorial videos posted by the Anki community
-    * Generally, if you type your question or issue in a web search, you will find exactly the answer you are seeking
-* The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
-
-
-Let's now turn our attention to other non-Anki aspects of the course.
-
-## Navigating the Hebrew GRAMMAR Quest guidebook {- #navigating}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.navigate.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-In the upper-left corner of this page, you will see a series of icons.  
-
-<img src="images/toolbar.png" width="300pt" style="display: block; margin: auto;" />
-
-These do the following tasks:
-
-* the file drawer expands/collapses the sidebar table of contents; you can also click `s`
-* the magnifying glass toggles search input; you can also click `f`
-* the big `A` allows you to change the font size and theme
-* the little `i` shows you available keyboard shortcuts
-
-
-There are several ways to navigate from page to page within this guidebook:
-
-* Use the left-navigation sidebar (type `s` to reveal/hide)
-* Click the left or right arrow on each page to go forward or back
-* Use the left or right arrow keys on your keyboard to move forward or back
-* Use hyperlinks on selected pages, like this one: [Continue to "A Typical Lesson" section](#features)
-
-### Information Boxes {-}
-
-As you work though the Hebrew GRAMMAR Quest guidebook, you will notice several different information boxes uses to call out various topics.
-
-::: {.infobox .map}
-QUEST BOX
-
-* The Lesson Itinerary - learning objectives
-* Ruth Pursuit, Hebrew Quest Study Passages, and other "Quest" related topics
-:::
-
-::: {.infobox .stop}
-STOP BOX
-
-* Equipment Check - concepts from previous lessons you must know before starting the next lesson
-* Other "Dont's"
-:::
-
-::: {.infobox .light}
-LIGHT  BOX
-
-* A critical point not to be missed
-* Other "Do's"
-* You will often want to MEMORIZE the concepts in a LIGHT box (but note the memory work will be done in Anki)
-:::
-
-::: {.infobox .info}
-INFO  BOX
-
-
-Additional information that is good to know
-:::
-
-::: {.infobox .caution}
-CAUTION  BOX
-
-A potential pitfall, such as a concept that could be easily confused with another
-:::
-
-::: {.infobox .sound}
-AUDIO BOX
-
-Either the section narration, read by Chris Flanagan, or the "First Thought" Hebrew verse, read by Izzy Avraham.
-
-* Press the play button to start the audio and make sure your device's volume is at a comfortable level
-* You can press one of the speed buttons to play the audio at that speed (2.5x - 0.5x) 
-:::
-
-We also have footnotes^[Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.]
-
-
-
-
-## A Typical Lesson {- #typical-lesson}
-
-<img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.typicallesson.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
-
-::: {.box .caution}
-A general comment about the guidebook
-
-* At times, you may feel like information is being shot at you from a firehose and nothing is sinking in
-* Often, this is just how it is when learning a new language
-* You may be absorbing more than you think you are
-* This is why we emphasize reinforcement of these concepts through activities
-    * Notice the root word "active" in activities
-* You will get introduced to the material via the Lesson Points, but don't expect to learn everything on the first pass (or from simply reading alone) 
-* You will LEARN the material through the activities
-::: 
-
-**Title**|**Description**|**Estimated Minutes**
-:-----|:----- | :---
-  READING | 
-Lesson Itinerary | Introduction and the lesson's learning objectives | <1
-Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
-First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
-Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
- ACTIVITIES|
- `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
- `Anki`^[See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.]| This is where the majority of your learning will take place.  There will be four modules to each Anki Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
-`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
- `B. Grammar`|Here, you will work through the main grammar concepts discussed in the lesson. Also, from time to time, Anki cards will contain material not covered in the Hebrew GRAMMAR Quest lessons.
- `C. Workbook/Parsing`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
- `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
-`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
-`Ruth Pursuit`|Similar to the "bag the letter" activity in the early lessons of  _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
-`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
-`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
-TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
-
-Of course, some lessons will be more involved than others, and each of us works at a different pace. One of the beautiful things about a self-paced class is the speed and due dates are not set by a course syllabus.   With a self-paced class, YOU are in control!
-
-::: {.box .light}
-DON'T BE OVERWHELMED!  YOU GOT THIS!
-
-Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this are on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
-:::
-
-Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL "Honors Track", _Hebrew Quest_ Study Passages."  These will begin with Lesson 12.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
-
-Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
-
-
-  
-## Course Resources {- #optional_resources}
-
-<img src="images/lexicon.jpg" width="600pt" style="display: block; margin: auto;" />
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.resources.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-REQUIRED: 
-
-* Other than being a subscriber to Holy Language Institute, you will not need to purchase or obtain anything for this course (unless you want to)
-* You will need a computer with internet access, a free Google account to open and complete documents and exercises, the free Anki desktop software to do the flashcard activities, and a pen or a pencil to complete writing worksheets
-
-OPTIONAL:
-
-Below are additional resources, some of which are free and some paid:
-
-* Free of charge
-  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to his videos and handouts.  Everything on [his site](https://hebrewsyntax.org/bbh2new/){target="_blank"} is free.  We have included most of these resources in our `Lesson Extras` sections.
-  * [The Basics of Biblical Hebrew Lexicon](./images/BBH_Lexicon.pdf){target="_blank"}
-    * A `lexicon` and a `dictionary` are virtually synonymous terms - academians tend to use the term `lexicon`
-    * The authors of <u>Basics of Biblical Hebrew</u> have created an abridged lexicon to accompany this course
-    * This document is beneficial as vocabulary words are indexed to the Lesson #, and irregular plural forms and selected construct forms are also included^[Students are also encouraged to review the Lexicon resources in the [Holy Language Heritage Library](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.  These dictionaries are much more exhaustive.]
-* Paid
-  * Anki's iOS app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensive investment in your Hebrew journey, but the decision to purchase is entirely up to you.  You would be able to complete the course without purchase of the app.
-  * To further supplement your studies, you may wish to purchase the _Basics of Biblical Hebrew_ textbook or any of the accompanying resources
-    * [Basics of Biblical Hebrew Textbook](https://www.amazon.com/gp/product/031053349X/&tag=holylanginst-20)
-    * [Basics of Biblical Hebrew Workbook](https://www.amazon.com/gp/product/0310533554/&tag=holylanginst-20)
-    * [Basics of Biblical Hebrew Laminated Reference Card](https://www.amazon.com/gp/product/031026295X/&tag=holylanginst-20)
-    * We would appreciate it if you would use one of the affiliate links, which allows Holy Language Institute to receive a small commission
-    
-    
-::: {.box .caution}
-You might want wait and see how you are doing with Hebrew GRAMMAR Quest through about Lesson 7 or 8 before deciding to purchase the iOS app or any of the books
-:::
-
-<!-- deleted anki cards: -->
-<!-- Introduction: -->
-<!-- front: I want to test English to Hebrew. How can I set the deck to do this? -->
-<!-- back: Our primary goal with Hebrew Grammar Quest is to translate from Hebrew to English.   -->
-
-<!-- Most of our students studying Biblical Hebrew are not going to need to translate from English to Hebrew, although that is certainly a worthy pursuit.   -->
-
-
-<!-- If you would like to add a reverse direction to your vocabularly words (Prompt with English - Answer with Hebrew) this is can be done in Anki. We have added "Note Types" to accomodate this. -->
-
-<!-- Click "Browse" -->
-<!-- From the Left Navigation, scroll down to "Vocab Basic Hebrew" -->
-<!-- Select the card(s) you wish to change and add the additional options (To change ALL cards click CTRL+A to select all cards) -->
-<!-- Click CTRL+SHIFT+M to change the note type to one of the following: -->
-<!-- If you want to be tested on both Hebrew-to-English and reverse, English-to-Hebrew, select note type "Vocab Basic Hebrew/English" -->
-<!-- If you have added images and want to be tested on Hebrew-to-English, English-to-Hebrew, and Image-to-Hebrew, select note type "Vocab Basic Hebrew/English/Image" -->
-<!-- If you have added images and only want to be tested on Hebrew-to-English and Image-to-Hebrew, select note type "Vocab Basic Hebrew/Image" -->
-<!-- Just be aware that changing to one of these optional note types, will literally double (or triple if you chose Hebrew/English/Image) the number of vocabularly cards.  If you decide you want to go back to just Hebrew-to-English, repeat steps 1-4 and select Note Type "Vocab Basic Hebrew." -->
-
-<!-- Type ! (exclamation point) to dismiss this card. -->
+* [How do I navigate within Anki?](#anki_navigate)
+* [How do I know which button to select on an Anki card?](#anki_buttons)
+* [How do I get help with Anki?](#anki_help)
+* [What is the `HGQ Custom Words` Deck?](#anki_custom_words)
 
 <!--chapter:end:00c-Anki.Rmd-->
 
@@ -1146,10 +517,10 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 
 <div class="figure" style="text-align: center">
 <img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-17)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-10)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
-<small>Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
+Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.
 
 
 ## The Hebrew Aleph-Bet {#consonants}
@@ -1373,7 +744,7 @@ Depending on your existing familiarity with the Aleph-bet, you may wish to revie
 YOUR QUEST (aka, instructions for the activity):
 
 1. Practice writing the letters individually (letter by letter) using the [Letter Writing worksheet](./images/01_Letter_Writing_Worksheet.pdf){target="_blank"}
-    * If you would like some tips on how to write the letters, you can use [this guide](01_Letter_Writing_Guide.pdf){target="_blank"} from Dr. Beckman.
+    * If you would like some tips on how to write the letters, you can use [this guide](./images/01_Letter_Writing_Guide.pdf){target="_blank"} from Dr. Beckman.
     * As we've said before, we strongly encourage everyone to watch (or re-watch) the [_Hebrew Quest_ lessons on the Aleph-Bet](https://holylanguage.com/letters.html){target="_blank"}
     
 2. On the reverse side of the worksheet (or on a separate piece of paper), practice writing the entire AlephBet, including the final/sofit forms, until you can do it at least ONCE entirely from memory. Be sure to cover up your previous attempts and any other reference materials.  
@@ -1691,7 +1062,7 @@ YOUR QUEST
     2. Identify the one half-guttural (red)
     3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
     4. Identify the five final/sofit forms (blue)
-    5. Identify the 12 remaining consonants not included in the above categories (including both forms of ש)(yellow)
+    5. Identify the 12 remaining consonants not included in the above categories (including both forms of ש) (yellow)
 2. Find ALL examples of the names listed below (grey)
     * Ruth - spelled <span class="he">רוּת</span>; also "and Ruth" - <span class="he">וְרוּת</span>
     * Naomi - spelled <span class="he">נָעֳמִי</span> 
@@ -1919,7 +1290,7 @@ Reflect on the works of HaShem that you have seen!
 
 <div class="figure" style="text-align: center">
 <img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-28)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-21)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 <!-- 2.1 -->
@@ -2523,7 +1894,7 @@ function x25() {
 
 <div class="figure" style="text-align: center">
 <img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="500pt" />
-<p class="caption">(\#fig:unnamed-chunk-34)That's no moon.  That's a Guttural!</p>
+<p class="caption">(\#fig:unnamed-chunk-27)That's no moon.  That's a Guttural!</p>
 </div>
 
 * A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements
@@ -2936,7 +2307,7 @@ Thank God for his blessings and meditate upon them.
 
 <div class="figure" style="text-align: center">
 <img src="images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg" alt="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-35)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-28)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Hebrew Syllables {#syllables}
@@ -4167,7 +3538,7 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-50)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-43)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5446,7 +4817,7 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 <div class="figure" style="text-align: center">
 <img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-51)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-44)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Vav Lecture (from HQ Lesson 5)
@@ -6426,7 +5797,7 @@ The בּ in <span class="he">בְּיוֹם</span> is an example of an "insepara
 
 <div class="figure" style="text-align: center">
 <img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-54)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-47)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7087,7 +6458,7 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-58)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-51)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Adjectives Lecture
@@ -7635,7 +7006,7 @@ The first word in the passage above is an example of a "demonstrative pronoun". 
 
 <div class="figure" style="text-align: center">
 <img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-60)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-53)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Independent Pronouns Lecture
@@ -8091,7 +7462,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 <div class="figure" style="text-align: center">
 <img src="images/08-manna-ko-hiking-en-gedi.jpg" alt="Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission." width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-61)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
+<p class="caption">(\#fig:unnamed-chunk-54)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
 </div>
 :::
 
@@ -8342,7 +7713,7 @@ In addition to offering up our petitions, let us be sure to hear God's questions
 
 <div class="figure" style="text-align: center">
 <img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-62)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-55)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Possessive Pronominal Suffixes Lecture
@@ -9186,7 +8557,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-68)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-61)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9857,7 +9228,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-70)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-63)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10761,7 +10132,7 @@ Lessons 13-16 are critical!
 
 <div class="figure" style="text-align: center">
 <img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-73)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
+<p class="caption">(\#fig:unnamed-chunk-66)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
 </div>
 
 
@@ -10982,7 +10353,7 @@ In these times, we must depend on God to sustain us.  It is times like these whe
 
 <div class="figure" style="text-align: center">
 <img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-74)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-67)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -12364,7 +11735,7 @@ Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ
 
 <div class="figure" style="text-align: center">
 <img src="images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg" alt="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-77)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-70)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13707,7 +13078,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-81)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14012,7 +13383,7 @@ Below is a summary table showing the verb <span class="he">בָנָה</span> in 
 
 <div class="figure" style="text-align: center">
 <img src="images/14.3heiparadigm.png" alt="3-Hei Qal Perfect" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)3-Hei Qal Perfect</p>
+<p class="caption">(\#fig:unnamed-chunk-82)3-Hei Qal Perfect</p>
 </div>
 
 ::: {.box .info}
@@ -14462,7 +13833,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-90)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-83)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14958,7 +14329,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-86)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15722,7 +15093,7 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-87)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
@@ -16208,7 +15579,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-89)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16827,7 +16198,7 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17134,7 +16505,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-91)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -17584,7 +16955,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
@@ -17895,7 +17266,7 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-100)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-93)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -18293,7 +17664,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-95)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18860,7 +18231,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19519,7 +18890,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19931,7 +19302,7 @@ We must practice the disciplines of worship, service, and study (and teaching if
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-100)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20524,7 +19895,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-102)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20908,7 +20279,7 @@ How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and 
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21249,7 +20620,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21409,7 +20780,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21868,7 +21239,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-115)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22245,7 +21616,7 @@ HaShem had these details recorded for a reason. Through our study of Hebrew, we 
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-116)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22608,7 +21979,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-118)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22829,7 +22200,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-119)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -23177,7 +22548,7 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-114)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -23507,6 +22878,689 @@ The men and women who followed Yeshua became a safe and loving community.  Same 
 [Become a member](https://holylanguage.com/subscribe.html) to access the full Hebrew GRAMMAR Quest course, as well as our complete library of teaching materials.
 
 <!--chapter:end:60-About_HLI.Rmd-->
+
+# About this course {- #about_this_course}
+
+FAQs about the Course
+
+* [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
+* [What makes our course distinct?](#our_course)
+* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
+* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
+* [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
+* [What are the required/optional course resources?](#optional_resources)
+* [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
+
+
+FAQs about Anki
+
+* [How do I navigate within Anki?](#anki_navigate)
+* [How do I know which button to select on an Anki card?](#anki_buttons)
+* [How do I get help with Anki?](#anki_help)
+* [What is the `HGQ Custom Words` Deck?](#anki_custom_words)
+## Why is Holy Language offering a Hebrew grammar course? {- #why_grammar}
+
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.whyhebrewgrammar.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
+If you are familiar with our ministry, you know our flagship course ***Hebrew Quest***, which introduces our students to Yeshua and our Jewish Bible.
+
+***Hebrew Quest*** was designed to get students into the Hebrew text as quickly as possible, with minimal focus on learning rules. For many of our students, this approach is quite successful.  We noticed that many other students started to drop off between lessons 12 and 16, after the Aleph-Bet lectures. For some students, these lessons were too much Hebrew grammar too fast, and for others, it was not enough Hebrew grammar.  
+
+As a result, several of our students have asked us for a grammar resource to supplement _Hebrew Quest_.  
+
+As we searched for a resource to recommend to these students, we noticed that they tended to fall into one of two camps:
+
+1. <u>A workbook or a series of videos that are entirely self-paced/self-directed</u> 
+2. <u>Academic/Seminary level textbooks and courses</u>
+
+These two are often opposite extremes.  Self-paced courses can have too little structure and often provide only a superficial review of Hebrew.  In the end, the student may only be slightly more prepared to read the Hebrew Bible than if they had not done the course.  There are also limited feedback opportunities as these courses are designed for independent learning.  On the other hand, seminary courses and seminary-level textbooks are usually incredibly rigorous with copious amounts of reading, rote memorization of paradigms, lectures, and exams. Academic courses are fast-paced and high-stress ^[For example, in a seminary course, the 36 lessons in <u>Basics of Biblical Hebrew</u> are usually completed in 16 weeks.]. Seminary textbooks generally are much more detailed and advanced than most of our students need (or would enjoy)^[For example, there is usually an emphasis on writing Hebrew and conducting English-to-Hebrew translations.  While these may be important skills to become fluent in Hebrew, one does not need these skills to read and understand the Bible, especially from a spiritual or devotional perspective.]
+   
+Additionally, with either option, our Holy Language students would incur additional fees to purchase these materials.  Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for the majority of our students.
+
+See the next section to learn how Hebrew GRAMMAR Quest is distinct.
+
+## How is Hebrew GRAMMAR Quest distinct? {- #our_course}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+Our Holy Language goals for a Hebrew grammar course are the following:
+
+* Academically CHALLENGING, but with a LOW-STRESS level
+* Primary emphasis on READING and UNDERSTANDING God's Word
+    * We use grammar rules, paradigms, and memorization as a means to achieve this goal
+    * The "final exam" should be whether you can understand the Bible, not whether you can conjugate a a particular Hebrew verb
+    * We do not prioritize writing or speaking in Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
+    * We are not addressing Modern Hebrew
+* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
+* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
+* COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_, but does not replace it; Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_
+* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward for the ministry to develop, deliver, and maintain
+* FREE of charge for our students
+* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+
+We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
+
+### Holy Language Learning Philosophy {-}
+
+We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this in greater detail in the clip below from **Hebrew Quest** Lesson 1.  As a reminder, you can increase the speed of YouTube videos by clicking "Settings", then adjusting the "Playback Speed" to your liking.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
+</div>
+
+
+
+## What is the Relationship to _Hebrew Quest_? {- #hgq_and_hq}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.relationtohq.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+We've said that Hebrew GRAMMAR Quest does not replace _Hebrew Quest_.  Instead, we believe Hebrew GRAMMAR Quest supports and extends _Hebrew Quest_.  In fact, one way to think of Hebrew GRAMMAR Quest could be as "Hebrew Quest: Extended Edition"!  
+
+Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs, and other grammar topics.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
+
+<img src="images/i.hq_hgq.png" width="800pt" style="display: block; margin: auto;" />
+
+* Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12
+* Then we begin our deep dive into core grammar topics touched upon in _Hebrew Quest_ Lessons 13-15
+* Additionally, starting with Hebrew GRAMMAR Quest Lesson 12, students can elect to complete a "_Hebrew Quest_ Study Passage Track"
+    * Primary geared for students who have not yet completed all of _Hebrew Quest_, this will incorporate the Proverbs study and the Bible reading sections from _Hebrew Quest_
+    * Students will read through the passage and compose a translation
+    * They will then watch Izzy's _Hebrew Quest_ teaching video explaining the passage
+    * Students who complete all of the _Hebrew Quest_ Study Passage Tracks will receive extra special recognition upon completion of the course.  It our way of saying you have graduated "with honors"!
+
+## Is completion of _Hebrew Quest_ is a prerequisite? {- #finish_hq}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.hqprerequisite.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+Emphatically NO!
+
+If you _have_ finished _Hebrew Quest_, Hebrew GRAMMAR Quest might be a logical next step to go deeper.
+
+On the other hand, maybe you started _Hebrew Quest_ but hit some roadblocks.  In that case, Hebrew GRAMMAR Quest can provide you with important underlying grammatical concepts so, eventually, you can return to _Hebrew Quest_ and finish up. 
+
+It's important to know that Hebrew GRAMMAR Quest is an _extension_ of Hebrew Quest, not a substitute.  
+
+As a best-case, we recommend you complete _Hebrew Quest_ Lessons 1-12 before starting Hebrew GRAMMAR Quest.  So, if you haven't started either course, go ahead and start with the first part of _Hebrew Quest_.  _Hebrew Quest_ [videos are here](https://holylanguage.com/quest.html){target="_blank"}, and the accompanying [Memrise module is here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}.
+
+To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one another in a circular (and maybe slightly paradoxical!) form:
+
+* The more _Hebrew Quest_ you have completed, the more you will get out of Hebrew GRAMMAR Quest, and . . .
+* The more Hebrew GRAMMAR Quest you have completed, the more you will get out of _Hebrew Quest_ (especially _Hebrew Quest_ Lessons 13-40)
+* Either way, you can't go wrong!  The most important thing is to start and ultimately complete both.  Again, the _Hebrew Quest_ study passage track within Hebrew Grammar Quest will get you on your way to this lofty goal of completing both courses.
+
+
+::: {.box .map}
+Let's get started!
+:::
+
+Refer to the section on Anki and course setup to get your Hebrew GRAMMAR Quest outfitted properly.
+
+## Navigating the Hebrew GRAMMAR Quest guidebook {- #navigating}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.navigate.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+In the upper-left corner of this page, you will see a series of icons.  
+
+<img src="images/toolbar.png" width="300pt" style="display: block; margin: auto;" />
+
+These do the following tasks:
+
+* the file drawer expands/collapses the sidebar table of contents; you can also click `s`
+* the magnifying glass toggles search input; you can also click `f`
+* the big `A` allows you to change the font size and theme
+* the little `i` shows you available keyboard shortcuts
+
+
+There are several ways to navigate from page to page within this guidebook:
+
+* Use the left-navigation sidebar (type `s` to reveal/hide)
+* Click the left or right arrow on each page to go forward or back
+* Use the left or right arrow keys on your keyboard to move forward or back
+* Use hyperlinks on selected pages, like this one: [Continue to "A Typical Lesson" section](#features)
+
+### Information Boxes {-}
+
+As you work though the Hebrew GRAMMAR Quest guidebook, you will notice several different information boxes uses to call out various topics.
+
+::: {.infobox .map}
+QUEST BOX
+
+* The Lesson Itinerary - learning objectives
+* Ruth Pursuit, Hebrew Quest Study Passages, and other "Quest" related topics
+:::
+
+::: {.infobox .stop}
+STOP BOX
+
+* Equipment Check - concepts from previous lessons you must know before starting the next lesson
+* Other "Dont's"
+:::
+
+::: {.infobox .light}
+LIGHT  BOX
+
+* A critical point not to be missed
+* Other "Do's"
+* You will often want to MEMORIZE the concepts in a LIGHT box (but note the memory work will be done in Anki)
+:::
+
+::: {.infobox .info}
+INFO  BOX
+
+
+Additional information that is good to know
+:::
+
+::: {.infobox .caution}
+CAUTION  BOX
+
+A potential pitfall, such as a concept that could be easily confused with another
+:::
+
+::: {.infobox .sound}
+AUDIO BOX
+
+Either the section narration, read by Chris Flanagan, or the "First Thought" Hebrew verse, read by Izzy Avraham.
+
+* Press the play button to start the audio and make sure your device's volume is at a comfortable level
+* You can press one of the speed buttons to play the audio at that speed (2.5x - 0.5x) 
+:::
+
+We also have footnotes^[Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.]
+
+
+
+
+
+## What is a Typical Lesson? {- #typical_lesson}
+
+<img src="images/checklist.png" width="400pt" style="display: block; margin: auto;" />
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.typicallesson.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
+
+::: {.box .caution}
+A general comment about the guidebook
+
+* At times, you may feel like information is being shot at you from a firehose and nothing is sinking in
+* Often, this is just how it is when learning a new language
+* You may be absorbing more than you think you are
+* This is why we emphasize reinforcement of these concepts through activities
+    * Notice the root word "active" in activities
+* You will get introduced to the material via the Lesson Points, but don't expect to learn everything on the first pass (or from simply reading alone) 
+* You will LEARN the material through the activities
+::: 
+
+**Title**|**Description**|**Estimated Minutes**
+:-----|:----- | :---
+  READING | 
+Lesson Itinerary | Introduction and the lesson's learning objectives | <1
+Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
+First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
+Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
+ ACTIVITIES|
+ `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
+ `Anki`^[See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.]| This is where the majority of your learning will take place.  There will be four modules to each Anki Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
+`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
+ `B. Grammar`|Here, you will work through the main grammar concepts discussed in the lesson. Also, from time to time, Anki cards will contain material not covered in the Hebrew GRAMMAR Quest lessons.
+ `C. Workbook/Parsing`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
+ `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
+`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
+`Ruth Pursuit`|Similar to the "bag the letter" activity in the early lessons of  _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
+`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
+`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
+TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
+
+Of course, some lessons will be more involved than others, and each of us works at a different pace. One of the beautiful things about a self-paced class is the speed and due dates are not set by a course syllabus.   With a self-paced class, YOU are in control!
+
+::: {.box .light}
+DON'T BE OVERWHELMED!  YOU GOT THIS!
+
+Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this are on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
+:::
+
+Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL "Honors Track", _Hebrew Quest_ Study Passages."  These will begin with Lesson 12.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
+
+Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
+
+
+  
+## Course Resources {- #optional_resources}
+
+<img src="images/lexicon.jpg" width="600pt" style="display: block; margin: auto;" />
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.resources.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+REQUIRED: 
+
+* Other than being a subscriber to Holy Language Institute, you will not need to purchase or obtain anything for this course (unless you want to)
+* You will need a computer with internet access, a free Google account to open and complete documents and exercises, the free Anki desktop software to do the flashcard activities, and a pen or a pencil to complete writing worksheets
+
+OPTIONAL:
+
+Below are additional resources, some of which are free and some paid:
+
+* Free of charge
+  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to his videos and handouts.  Everything on [his site](https://hebrewsyntax.org/bbh2new/){target="_blank"} is free.  We have included most of these resources in our `Lesson Extras` sections.
+  * [The Basics of Biblical Hebrew Lexicon](./images/BBH_Lexicon.pdf){target="_blank"}
+    * A `lexicon` and a `dictionary` are virtually synonymous terms - academians tend to use the term `lexicon`
+    * The authors of <u>Basics of Biblical Hebrew</u> have created an abridged lexicon to accompany this course
+    * This document is beneficial as vocabulary words are indexed to the Lesson #, and irregular plural forms and selected construct forms are also included^[Students are also encouraged to review the Lexicon resources in the [Holy Language Heritage Library](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.  These dictionaries are much more exhaustive.]
+* Paid
+  * Anki's iOS app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensive investment in your Hebrew journey, but the decision to purchase is entirely up to you.  You would be able to complete the course without purchase of the app.
+  * To further supplement your studies, you may wish to purchase the _Basics of Biblical Hebrew_ textbook or any of the accompanying resources
+    * [Basics of Biblical Hebrew Textbook](https://www.amazon.com/gp/product/031053349X/&tag=holylanginst-20)
+    * [Basics of Biblical Hebrew Workbook](https://www.amazon.com/gp/product/0310533554/&tag=holylanginst-20)
+    * [Basics of Biblical Hebrew Laminated Reference Card](https://www.amazon.com/gp/product/031026295X/&tag=holylanginst-20)
+    * We would appreciate it if you would use one of the affiliate links, which allows Holy Language Institute to receive a small commission
+    
+    
+::: {.box .caution}
+You might want wait and see how you are doing with Hebrew GRAMMAR Quest through about Lesson 7 or 8 before deciding to purchase the iOS app or any of the books
+:::
+
+
+
+
+## How do I navigate within Anki? {- #anki_navigate}
+
+<div class="figure" style="text-align: center">
+<img src="images/00.ankinavigate.png" alt="Settings" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-120)Settings</p>
+</div>
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.ankinavigate.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
+::: {.box .map}  
+* We have created a brief tutorial within our Hebrew GRAMMAR Quest Unit 1 `Anki` deck
+* This is contained in the `0.Introduction` folder
+* Click on this deck for an introduction and helpful hints
+* When you are finished you may `Suspend` the cards in the this folder only so you don't see them again (these are the only cards in the deck you should `Suspend`!)
+
+:::
+
+* Click the +/- buttons to expand/collapse the folders within the Anki deck [(click to see example)](./images/00.ankifolders.png){target="_blank"}
+    * To start with Lesson 01 Vocabulary, click on the plus buttons within Unit 1, until you see `Lesson 01 Vocabulary` and click the `STUDY NOW` button
+    * In your initial learning, start with the `module` level, i.e. `Lesson 01 Vocabulary` - do this untill all cards reach the `mature` stage
+    * Once you have learned all cards in all modules, REVIEW at the Lesson level, e.g. `Lesson 01`
+    * Once you have learned all cards in all Lessons in a unit, then REVIEW at the Unit level, e.g. `1. Lessons 1-3`
+* Many cards have "hints" - click on the `hint` button to reveal [(click to see example)](./images/a.anki_hint.gif){target="_blank"}
+    * If you needed a hint, be sure to select `Again` on the answer side
+* When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
+
+::: {.box .info}
+Hints/Mnemonics
+
+Several of the cards have silly mnemonics.  As we borrowed and reformatted the `Vocab` and `Grammar` cards from Dr. Beckman, most of the mnemonics were created by his students.  In most cases, we retained these but feel free to delete these from your deck (or simply ignore them)
+:::
+
+## How do I know which button to select on an Anki card? {- #anki_buttons}
+
+<div class="figure" style="text-align: center">
+<img src="images/00.anki_good.png" alt="Settings" width="700pt" />
+<p class="caption">(\#fig:unnamed-chunk-121)Settings</p>
+</div>
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.anki_good.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+We suggest using the following guidelines:
+
+* `Again`
+  * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
+  * Your answer was correct, but you required a hint
+* `Hard` 
+  * You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
+  * If you believe your correct answer had more to do with short-term recall instead of a firm grasp of the concept (e.g. you just saw the right answer a few minutes earlier and remembered what it was), you should select `Hard`.  This will present the card to you sooner (usually about 12 hours later) to make sure you really understand
+  * Similarly for `Study Verses`, if you got the correct answer for any other reason than you were able to read the verse in Hebrew (for example, you happen to have that verse memoried in English), select `Hard`
+* `Good`
+  * All parts of the answer are correct; no hints
+  * For Bible Verses, mark `Good` when:
+    * you can read and understand the verse in Hebrew
+    * Your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse
+    * Your verb tense is correct (even though we won't study verbs until Unit 3)
+    * You do NOT need to have the passage and its meaning memorized to mark `Good`
+  * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
+* `Easy`
+  * We do not recommend selecting `Easy.` 
+  * An exception might be when you are confident that you already have the word, rule, or passage memorized
+
+
+::: {.box .info}
+Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
+
+:::
+
+## How do I get help with Anki? {- #anki_help}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.anki_help.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
+* We do have [help](#feedback_forms) forms to assist you with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`. 
+  * Use the ["Get Help/Give Feedback" form](#get_help) to ask a question or report an error related to the Hebrew GRAMMAR Quest Anki decks
+* Unfortunately, it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  
+* The good news is that there is a LARGE Anki user community across the globe
+    * We encourage you to check out the numerous articles and tutorial videos posted by the Anki community
+    * Generally, if you type your question or issue in a web search, you will find exactly the answer you are seeking
+* The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
+
+
+
+
+<!-- deleted anki cards: -->
+<!-- Introduction: -->
+<!-- front: I want to test English to Hebrew. How can I set the deck to do this? -->
+<!-- back: Our primary goal with Hebrew Grammar Quest is to translate from Hebrew to English.   -->
+
+<!-- Most of our students studying Biblical Hebrew are not going to need to translate from English to Hebrew, although that is certainly a worthy pursuit.   -->
+
+
+<!-- If you would like to add a reverse direction to your vocabularly words (Prompt with English - Answer with Hebrew) this is can be done in Anki. We have added "Note Types" to accomodate this. -->
+
+<!-- Click "Browse" -->
+<!-- From the Left Navigation, scroll down to "Vocab Basic Hebrew" -->
+<!-- Select the card(s) you wish to change and add the additional options (To change ALL cards click CTRL+A to select all cards) -->
+<!-- Click CTRL+SHIFT+M to change the note type to one of the following: -->
+<!-- If you want to be tested on both Hebrew-to-English and reverse, English-to-Hebrew, select note type "Vocab Basic Hebrew/English" -->
+<!-- If you have added images and want to be tested on Hebrew-to-English, English-to-Hebrew, and Image-to-Hebrew, select note type "Vocab Basic Hebrew/English/Image" -->
+<!-- If you have added images and only want to be tested on Hebrew-to-English and Image-to-Hebrew, select note type "Vocab Basic Hebrew/Image" -->
+<!-- Just be aware that changing to one of these optional note types, will literally double (or triple if you chose Hebrew/English/Image) the number of vocabularly cards.  If you decide you want to go back to just Hebrew-to-English, repeat steps 1-4 and select Note Type "Vocab Basic Hebrew." -->
+
+<!-- Type ! (exclamation point) to dismiss this card. -->
+
+## What is the `HGQ Custom Words` Deck? {- #anki_custom_words}
+
+
+::: {.infobox .sound}
+<figure> Note: this is the audio from the step 7 "how to" video on the start-up page: <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.anki_cust_words.mp3"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+ 
+<div class="figure" style="text-align: center">
+<img src="images/00.anki_custom.png" alt="Settings" width="300pt" />
+<p class="caption">(\#fig:unnamed-chunk-122)Settings</p>
+</div>
+
+* On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
+* This is an OPTIONAL deck for you to add additional cards for words or concepts that you would like extra focus or to expand your Hebrew vocabulary
+* Steps in Anki:
+  1. Copy the Hebrew word from one of the main Hebrew GRAMMAR Quest decks
+  2. Click `Decks`
+  3. Select `HGQ Custom Words` deck
+  4. Click `Add`
+  5. Make sure `type = Grammar Cloze`; if not, change type to `Grammar Cloze` by clicking on the type field
+  6. Paste your Hebrew word, and type the English meaning next to the Hebrew word
+  7. Select/highlight the English text then click the `Cloze` button: `[...]`
+  8. Add any notes you want in the remaining fields, including any hints or mnemonics that will help you remember the word
+  9. Click `Add`
+* The video link walks through these steps:  [YouTube: About Custom Words Deck](ttps://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
+
+
+::: {.box .info}
+* We will learn the "parsing code" shown in the image in Unit 3
+* [This site](https://scholarsgateway.com/search/WLC-ESV/Exodus/16:25) is extremely helpful with identifying parts of speech in the Tanach.
+:::
+
+<!--chapter:end:61-introduction.Rmd-->
 
 # About the designer of this book {-}
 

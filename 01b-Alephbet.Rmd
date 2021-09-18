@@ -131,7 +131,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
 ``` 
 
-<small>Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.</small>
+Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.
 
 
 ## The Hebrew Aleph-Bet {#consonants}
@@ -364,7 +364,7 @@ Depending on your existing familiarity with the Aleph-bet, you may wish to revie
 YOUR QUEST (aka, instructions for the activity):
 
 1. Practice writing the letters individually (letter by letter) using the [Letter Writing worksheet](./images/01_Letter_Writing_Worksheet.pdf){target="_blank"}
-    * If you would like some tips on how to write the letters, you can use [this guide](01_Letter_Writing_Guide.pdf){target="_blank"} from Dr. Beckman.
+    * If you would like some tips on how to write the letters, you can use [this guide](./images/01_Letter_Writing_Guide.pdf){target="_blank"} from Dr. Beckman.
     * As we've said before, we strongly encourage everyone to watch (or re-watch) the [_Hebrew Quest_ lessons on the Aleph-Bet](https://holylanguage.com/letters.html){target="_blank"}
     
 2. On the reverse side of the worksheet (or on a separate piece of paper), practice writing the entire AlephBet, including the final/sofit forms, until you can do it at least ONCE entirely from memory. Be sure to cover up your previous attempts and any other reference materials.  
@@ -692,7 +692,7 @@ YOUR QUEST
     2. Identify the one half-guttural (red)
     3. Identify the six BeGaD KePHaT letters, both with and without the Daghesh Lene, for a total of 12 letters (green)
     4. Identify the five final/sofit forms (blue)
-    5. Identify the 12 remaining consonants not included in the above categories (including both forms of ש)(yellow)
+    5. Identify the 12 remaining consonants not included in the above categories (including both forms of ש) (yellow)
 2. Find ALL examples of the names listed below (grey)
     * Ruth - spelled <span class="he">רוּת</span>; also "and Ruth" - <span class="he">וְרוּת</span>
     * Naomi - spelled <span class="he">נָעֳמִי</span> 

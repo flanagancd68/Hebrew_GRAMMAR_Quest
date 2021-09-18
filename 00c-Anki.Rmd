@@ -1,5 +1,11 @@
 # Anki and Course Setup {-}
 
+::: {.box .stop}
+* You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
+* If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes
+  * Then you wouldn't want to wear those new shoes for the first time on your hike; you would want to break them in first (or your feet would not be very happy with you)
+* Consider `Anki and Course Setup` as your trip to the store to get the right equipment then get comfortable with it _before_ you begin your quest!
+:::
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -34,12 +40,7 @@ function x25() {
 * This section will get you up and running with Anki and will get your Hebrew GRAMMAR Quest headed in the right direction
 :::
 
-::: {.box .stop}
-* You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
-* If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes
-  * Then you wouldn't want to wear those new shoes for the first time on your hike; you would want to break them in first (or your feet would not be very happy with you)
-* Consider `Anki and Course Setup` as your trip to the store to get the right equipment then get comfortable with it _before_ you begin your quest!
-:::
+
 
 
 ```{r, fig.show="hold", out.width = "150pt", fig.align='center'}
@@ -58,9 +59,7 @@ As you work through this course, set aside time to review Anki on a DAILY basis
 The sections that will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Unit 1 Anki deck with additional how-to information.
 
 
-## How do I get started with Anki/Hebrew Grammar Quest? {-}
-
-<large>QUICK START INSTRUCTIONS</large>
+## How do I get started with Anki/Hebrew Grammar Quest? {- #quickstart}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -112,13 +111,13 @@ Failure to follow the steps below could lead to Anki frustration!^[The first two
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  See `HGQ Custom Words` section for more information.
-7. Change the Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
+7. Tweak a few Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
 10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time and be careful when you select `upload to` or `download from` to make sure your information is flowing in the correct direction | [YouTube: Step 10](https://youtu.be/rfKKzKX-CNg){target="_blank"}
-11. Read the `Introduction` sections: `About This Course`, `Anki and Course Setup`, and `Get Help`. |
+11. Know that you can [get help or give feedback](#get_help) |
+12. As desired, read the [About this Course FAQs](#about_this_course) in the appendix |
  
-
 
 ## Customize Anki Settings {- #anki_settings}
 
@@ -212,456 +211,22 @@ Anki Add-ons
 knitr::include_graphics("images/00.anki_more_stats.png")
 ```
 
-## `HGQ Custom Words` Deck {-}
 
-```{r, out.width = "300pt", fig.align='center', fig.cap="Settings"}
-knitr::include_graphics("images/00.anki_custom.png")
-```
+## See the Appendix for other important information and FAQ
 
-* On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
-* This is an optional deck for you to add additional cards for words or concepts that you would like extra focus or to expand your Hebrew vocabulary
-* Steps in Anki:
-  1. Copy the Hebrew word from one of the main Hebrew GRAMMAR Quest decks
-  2. Click `Decks`
-  3. Select `HGQ Custom Words` deck
-  4. Click `Add`
-  5. Make sure `type = Grammar Cloze`; if not, change type to `Grammar Cloze` by clicking on the type field
-  6. Paste your Hebrew word, and type the English meaning next to the Hebrew word
-  7. Select/highlight the English text then click the `Cloze` button: `[...]`
-  8. Add any notes you want in the remaining fields, including any hints or mnemonics that will help you remember the word
-  9. Click `Add`
-* The video below walks through these steps:
+FAQs about the Course
 
+* [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
+* [What makes our course distinct?](#our_course)
+* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
+* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
+* [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
+* [What are the required/optional course resources?](#optional_resources)
+* [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
 
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-7jp8rhufAMU?start=0&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="0"></iframe>
-</div>
+FAQs about Anki
 
-[Click to open video in a new tab](https://youtu.be/7jp8rhufAMU){target="_blank"}
-
-::: {.box .info}
-* We will learn the "parsing code" shown in the image in Unit 3
-* [This site](https://scholarsgateway.com/search/WLC-ESV/Exodus/16:25) is extremely helpful with identifying parts of speech in the Tanach.
-:::
-
-## How do I navigate within Anki? {-}
-
-```{r, out.width = "400pt", fig.align='center', fig.cap="Settings"}
-knitr::include_graphics("images/00.ankinavigate.png")
-```
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.ankinavigate.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-
-::: {.box .map}  
-* We have created a brief tutorial within our Hebrew GRAMMAR Quest Unit 1 `Anki` deck
-* This is contained in the `0.Introduction` folder
-* Click on this deck for an introduction and helpful hints
-* When you are finished you may `Suspend` the cards in the this folder only so you don't see them again (these are the only cards in the deck you should `Suspend`!)
-
-:::
-
-* Click the +/- buttons to expand/collapse the folders within the Anki deck [(click to see example)](./images/00.ankifolders.png){target="_blank"}
-    * To start with Lesson 01 Vocabulary, click on the plus buttons within Unit 1, until you see `Lesson 01 Vocabulary` and click the `STUDY NOW` button
-    * In your initial learning, start with the `module` level, i.e. `Lesson 01 Vocabulary` - do this untill all cards reach the `mature` stage
-    * Once you have learned all cards in all modules, REVIEW at the Lesson level, e.g. `Lesson 01`
-    * Once you have learned all cards in all Lessons in a unit, then REVIEW at the Unit level, e.g. `1. Lessons 1-3`
-* Many cards have "hints" - click on the `hint` button to reveal [(click to see example)](./images/a.anki_hint.gif){target="_blank"}
-    * If you needed a hint, be sure to select `Again` on the answer side
-* When you are ready to see the answer, click Spacebar, Enter, or the `Show Answer` button
-
-::: {.box .info}
-Hints/Mnemonics
-
-Several of the cards have silly mnemonics.  As we borrowed and reformatted the `Vocab` and `Grammar` cards from Dr. Beckman, most of the mnemonics were created by his students.  In most cases, we retained these but feel free to delete these from your deck (or simply ignore them)
-:::
-
-## How do I know when to hit the `Good` button on an Anki card? {-}
-
-```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
-knitr::include_graphics("images/00.anki_good.png")
-```
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_good.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-We suggest using the following guidelines:
-
-* `Again`
-  * Your answer was incorrect, or a mixture of correct and incorrect on a multi-part answer
-  * Your answer was correct, but you required a hint
-* `Hard` 
-  * You otherwise met the requirements for `Good`, but you struggled to produce the correct answer or guessed. 
-  * If you believe your correct answer had more to do with short-term recall instead of a firm grasp of the concept (e.g. you just saw the right answer a few minutes earlier and remembered what it was), you should select `Hard`.  This will present the card to you sooner (usually about 12 hours later) to make sure you really understand
-  * Similarly for `Study Verses`, if you got the correct answer for any other reason than you were able to read the verse in Hebrew (for example, you happen to have that verse memoried in English), select `Hard`
-* `Good`
-  * All parts of the answer are correct; no hints
-  * For Bible Verses, mark `Good` when:
-    * you can read and understand the verse in Hebrew
-    * Your translation is roughly similar to the English answer, even if you need to take a few moments to work through the verse
-    * Your verb tense is correct (even though we won't study verbs until Unit 3)
-    * You do NOT need to have the passage and its meaning memorized to mark `Good`
-  * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
-* `Easy`
-  * We do not recommend selecting `Easy.` 
-  * An exception might be when you are confident that you already have the word, rule, or passage memorized
-
-
-::: {.box .info}
-Be patient with yourself.  It may take you _many_ tries in the early going before you can hit `Good.`
-
-:::
-
-## How do I get help with Anki? {-}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_help.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-
-* We do have [help](#feedback_forms) forms to assist you with any issues related to the course, including our `Hebrew Grammar Quest Anki Deck`. 
-  * Use the ["Report an Issue" form](#report_issue) to report an error (e.g. a typo) with the Hebrew GRAMMAR Quest Anki decks
-  * Use the ["Get Help" form](#get_help) to ask a question related to the Hebrew GRAMMAR Quest Anki decks
-* Unfortunately, it is beyond our scope to give you a complete tutorial _or offer any technical support with the Anki software or mobile app_.  
-* The good news is that there is a LARGE Anki user community across the globe
-    * We encourage you to check out the numerous articles and tutorial videos posted by the Anki community
-    * Generally, if you type your question or issue in a web search, you will find exactly the answer you are seeking
-* The official Anki documentation is available [here](https://docs.ankiweb.net/#/){target="_blank"}.
-
-
-Let's now turn our attention to other non-Anki aspects of the course.
-
-## Navigating the Hebrew GRAMMAR Quest guidebook {- #navigating}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.navigate.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-In the upper-left corner of this page, you will see a series of icons.  
-
-```{r, out.width = "300pt", fig.align='center'}
-
-knitr::include_graphics("images/toolbar.png")
-``` 
-
-These do the following tasks:
-
-* the file drawer expands/collapses the sidebar table of contents; you can also click `s`
-* the magnifying glass toggles search input; you can also click `f`
-* the big `A` allows you to change the font size and theme
-* the little `i` shows you available keyboard shortcuts
-
-
-There are several ways to navigate from page to page within this guidebook:
-
-* Use the left-navigation sidebar (type `s` to reveal/hide)
-* Click the left or right arrow on each page to go forward or back
-* Use the left or right arrow keys on your keyboard to move forward or back
-* Use hyperlinks on selected pages, like this one: [Continue to "A Typical Lesson" section](#features)
-
-### Information Boxes {-}
-
-As you work though the Hebrew GRAMMAR Quest guidebook, you will notice several different information boxes uses to call out various topics.
-
-::: {.infobox .map}
-QUEST BOX
-
-* The Lesson Itinerary - learning objectives
-* Ruth Pursuit, Hebrew Quest Study Passages, and other "Quest" related topics
-:::
-
-::: {.infobox .stop}
-STOP BOX
-
-* Equipment Check - concepts from previous lessons you must know before starting the next lesson
-* Other "Dont's"
-:::
-
-::: {.infobox .light}
-LIGHT  BOX
-
-* A critical point not to be missed
-* Other "Do's"
-* You will often want to MEMORIZE the concepts in a LIGHT box (but note the memory work will be done in Anki)
-:::
-
-::: {.infobox .info}
-INFO  BOX
-
-
-Additional information that is good to know
-:::
-
-::: {.infobox .caution}
-CAUTION  BOX
-
-A potential pitfall, such as a concept that could be easily confused with another
-:::
-
-::: {.infobox .sound}
-AUDIO BOX
-
-Either the section narration, read by Chris Flanagan, or the "First Thought" Hebrew verse, read by Izzy Avraham.
-
-* Press the play button to start the audio and make sure your device's volume is at a comfortable level
-* You can press one of the speed buttons to play the audio at that speed (2.5x - 0.5x) 
-:::
-
-We also have footnotes^[Citations and parenthetical/non-essential points will be included as footnotes throughout each lesson, if indicated.]
-
-
-
-
-## A Typical Lesson {- #typical-lesson}
-
-```{r, out.width = "400pt", fig.align='center'}
-knitr::include_graphics("images/checklist.png")
-```
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.typicallesson.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
-
-::: {.box .caution}
-A general comment about the guidebook
-
-* At times, you may feel like information is being shot at you from a firehose and nothing is sinking in
-* Often, this is just how it is when learning a new language
-* You may be absorbing more than you think you are
-* This is why we emphasize reinforcement of these concepts through activities
-    * Notice the root word "active" in activities
-* You will get introduced to the material via the Lesson Points, but don't expect to learn everything on the first pass (or from simply reading alone) 
-* You will LEARN the material through the activities
-::: 
-
-**Title**|**Description**|**Estimated Minutes**
-:-----|:----- | :---
-  READING | 
-Lesson Itinerary | Introduction and the lesson's learning objectives | <1
-Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
-First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
-Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
- ACTIVITIES|
- `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
- `Anki`^[See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.]| This is where the majority of your learning will take place.  There will be four modules to each Anki Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
-`A. Vocab`|By the end of the course, you will have around 500 Hebrew words memorized
- `B. Grammar`|Here, you will work through the main grammar concepts discussed in the lesson. Also, from time to time, Anki cards will contain material not covered in the Hebrew GRAMMAR Quest lessons.
- `C. Workbook/Parsing`| Brief Hebrew word activities to reinforce the grammar concepts.  In Unit 3, the focus shifts to what is called "parsing" of verbs.  Verb parsing means identifying the root, stem, person, gender, number, and meaning of a verb.
- `D. Study Verses`| You will begin to translate from Hebrew to English. This component may not be easy at first but stick with it!  Although these verses are similar to the _Hebrew Quest_ Memrise modules, our goal for the `Study Verses` is translation and comprehension, not rote memorization.
-`Worksheets`|Additional activities to reinforce learning (selected lessons) | 30-45
-`Ruth Pursuit`|Similar to the "bag the letter" activity in the early lessons of  _Hebrew Quest_. You will identify examples of grammar concepts in Ruth Chapter 1 | 15-60
-`Quest Quiz`|Self-assessment activity to measure your familiarity with the material for YOU to assess whether you are ready to advance in your quest to the next lesson.  No grades are recorded or granted in this course. There are no quizzes after Lesson 11. | 15-30
-`Twelve Tribes Badges`, Unit Completion `Certificates`, and `Graduation`| Fun things to mark and celebrate the completion of various stages of your GRAMMAR Quest | 3-5
-TOTAL |Depending on how fast you work:|2.5-6 hours per Lesson
-
-Of course, some lessons will be more involved than others, and each of us works at a different pace. One of the beautiful things about a self-paced class is the speed and due dates are not set by a course syllabus.   With a self-paced class, YOU are in control!
-
-::: {.box .light}
-DON'T BE OVERWHELMED!  YOU GOT THIS!
-
-Use the `Course Checklist` to help keep you organized and do a little bit at a time. Instructions for accessing this are on the Quick Start page. If you haven't already downloaded it, you can get it [here](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} 
-:::
-
-Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL "Honors Track", _Hebrew Quest_ Study Passages."  These will begin with Lesson 12.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
-
-Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
-
-
-  
-## Course Resources {- #optional_resources}
-
-```{r, out.width = "600pt", fig.align='center'}
-library(knitr)
-include_graphics("images/lexicon.jpg")
-```
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.resources.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-REQUIRED: 
-
-* Other than being a subscriber to Holy Language Institute, you will not need to purchase or obtain anything for this course (unless you want to)
-* You will need a computer with internet access, a free Google account to open and complete documents and exercises, the free Anki desktop software to do the flashcard activities, and a pen or a pencil to complete writing worksheets
-
-OPTIONAL:
-
-Below are additional resources, some of which are free and some paid:
-
-* Free of charge
-  * Thanks to his extremely generous reuse license, we have leveraged many of the worksheets and content from [Dr. John Beckman](https://hebrewsyntax.org/bbh2new/){target="_blank"}.  If you want more detail into any lesson, you may wish to refer to his videos and handouts.  Everything on [his site](https://hebrewsyntax.org/bbh2new/){target="_blank"} is free.  We have included most of these resources in our `Lesson Extras` sections.
-  * [The Basics of Biblical Hebrew Lexicon](./images/BBH_Lexicon.pdf){target="_blank"}
-    * A `lexicon` and a `dictionary` are virtually synonymous terms - academians tend to use the term `lexicon`
-    * The authors of <u>Basics of Biblical Hebrew</u> have created an abridged lexicon to accompany this course
-    * This document is beneficial as vocabulary words are indexed to the Lesson #, and irregular plural forms and selected construct forms are also included^[Students are also encouraged to review the Lexicon resources in the [Holy Language Heritage Library](https://holylanguage.com/resources-dictionaries.php){target="_blank"}.  These dictionaries are much more exhaustive.]
-* Paid
-  * Anki's iOS app requires a one-time purchase through the Apple store of $25.  If you have an iPhone, we believe this is a relatively inexpensive investment in your Hebrew journey, but the decision to purchase is entirely up to you.  You would be able to complete the course without purchase of the app.
-  * To further supplement your studies, you may wish to purchase the _Basics of Biblical Hebrew_ textbook or any of the accompanying resources
-    * [Basics of Biblical Hebrew Textbook](https://www.amazon.com/gp/product/031053349X/&tag=holylanginst-20)
-    * [Basics of Biblical Hebrew Workbook](https://www.amazon.com/gp/product/0310533554/&tag=holylanginst-20)
-    * [Basics of Biblical Hebrew Laminated Reference Card](https://www.amazon.com/gp/product/031026295X/&tag=holylanginst-20)
-    * We would appreciate it if you would use one of the affiliate links, which allows Holy Language Institute to receive a small commission
-    
-    
-::: {.box .caution}
-You might want wait and see how you are doing with Hebrew GRAMMAR Quest through about Lesson 7 or 8 before deciding to purchase the iOS app or any of the books
-:::
-
-<!-- deleted anki cards: -->
-<!-- Introduction: -->
-<!-- front: I want to test English to Hebrew. How can I set the deck to do this? -->
-<!-- back: Our primary goal with Hebrew Grammar Quest is to translate from Hebrew to English.   -->
-
-<!-- Most of our students studying Biblical Hebrew are not going to need to translate from English to Hebrew, although that is certainly a worthy pursuit.   -->
-
-
-<!-- If you would like to add a reverse direction to your vocabularly words (Prompt with English - Answer with Hebrew) this is can be done in Anki. We have added "Note Types" to accomodate this. -->
-
-<!-- Click "Browse" -->
-<!-- From the Left Navigation, scroll down to "Vocab Basic Hebrew" -->
-<!-- Select the card(s) you wish to change and add the additional options (To change ALL cards click CTRL+A to select all cards) -->
-<!-- Click CTRL+SHIFT+M to change the note type to one of the following: -->
-<!-- If you want to be tested on both Hebrew-to-English and reverse, English-to-Hebrew, select note type "Vocab Basic Hebrew/English" -->
-<!-- If you have added images and want to be tested on Hebrew-to-English, English-to-Hebrew, and Image-to-Hebrew, select note type "Vocab Basic Hebrew/English/Image" -->
-<!-- If you have added images and only want to be tested on Hebrew-to-English and Image-to-Hebrew, select note type "Vocab Basic Hebrew/Image" -->
-<!-- Just be aware that changing to one of these optional note types, will literally double (or triple if you chose Hebrew/English/Image) the number of vocabularly cards.  If you decide you want to go back to just Hebrew-to-English, repeat steps 1-4 and select Note Type "Vocab Basic Hebrew." -->
-
-<!-- Type ! (exclamation point) to dismiss this card. -->
+* [How do I navigate within Anki?](#anki_navigate)
+* [How do I know which button to select on an Anki card?](#anki_buttons)
+* [How do I get help with Anki?](#anki_help)
+* [What is the `HGQ Custom Words` Deck?](#anki_custom_words)
