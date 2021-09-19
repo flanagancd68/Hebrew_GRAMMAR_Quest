@@ -3,7 +3,6 @@
 FAQs about the Course
 
 * [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
-* [What makes our course distinct?](#our_course)
 * [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
 * [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
@@ -17,6 +16,7 @@ FAQs about Anki
 * [How do I know which button to select on an Anki card?](#anki_buttons)
 * [How do I get help with Anki?](#anki_help)
 * [What is the `HGQ Custom Words` Deck?](#anki_custom_words)
+
 ## Why is Holy Language offering a Hebrew grammar course? {- #why_grammar}
 
 
@@ -61,59 +61,6 @@ These two are often opposite extremes.  Self-paced courses can have too little s
 Additionally, with either option, our Holy Language students would incur additional fees to purchase these materials.  Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for the majority of our students.
 
 See the next section to learn how Hebrew GRAMMAR Quest is distinct.
-
-## How is Hebrew GRAMMAR Quest distinct? {- #our_course}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-Our Holy Language goals for a Hebrew grammar course are the following:
-
-* Academically CHALLENGING, but with a LOW-STRESS level
-* Primary emphasis on READING and UNDERSTANDING God's Word
-    * We use grammar rules, paradigms, and memorization as a means to achieve this goal
-    * The "final exam" should be whether you can understand the Bible, not whether you can conjugate a a particular Hebrew verb
-    * We do not prioritize writing or speaking in Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
-    * We are not addressing Modern Hebrew
-* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
-* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
-* COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_, but does not replace it; Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_
-* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward for the ministry to develop, deliver, and maintain
-* FREE of charge for our students
-* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
-
-We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
-
-### Holy Language Learning Philosophy {-}
-
-We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this in greater detail in the clip below from **Hebrew Quest** Lesson 1.  As a reminder, you can increase the speed of YouTube videos by clicking "Settings", then adjusting the "Playback Speed" to your liking.
-
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
-</div>
-
-
 
 ## What is the Relationship to _Hebrew Quest_? {- #hgq_and_hq}
 

@@ -34,12 +34,13 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("images/HGQ_book_cover_draft.png")
 ```
 
+
 <small>*Updated*: `r Sys.Date()`</small>
 
-<small>
-
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.cover.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/00.cover.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
     x.playbackRate = 0.5;
@@ -62,45 +63,19 @@ function x25() {
 </script></figure>
 :::
 
+Welcome to Hebrew GRAMMAR Quest, from Holy Language Institute. 
 
-**LICENSE**
+The journey into the world of Biblical Hebrew grammar is a peek inside the mind of HaShem. By increased understanding of the Bible, we can better experience part of the culture of Bible authors such as Moses, David, and the prophets.  With some narratives, reading them in Hebrew almost places us right there in the middle of the action.  That's pretty cool!
 
-© 2021 Holy Language Institute. All rights reserved.
+Most importantly, learning the original language draws us closer to Yeshua and the world to which He ministered.  
 
-![Creative Commons](images/by-nc-sa.png)
+It is for these reasons that we like to say this is not just a course, but a quest.  Hebrew GRAMMAR Quest is a journey into a deeper love your Bible and its primary Author.
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+On the next few pages, we will tell you a little about our program and give you some preliminary action steps so you can get your gear in order before you begin your quest with Lesson 1.
 
-This license is for personal use only.  This publication may not be downloaded, redistributed, re-uploaded, published, or used for any other purposes without explicit permission from the copyright holder.
-
-If you received this book but are not a Holy Language Institute member, [become a member today](https://holylanguage.com/subscribe.html)!  Subscribing will give you access to the full Hebrew GRAMMAR Quest course materials, as well as access to Izzy Avraham's complete library of teaching materials.
-
-
-**CREDITS AND ACKNOWLEDGMENTS**
-
-Unless otherwise noted, English Scripture quotations taken from the NASB. Copyright Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation. Used by permission.
-
-Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version, copyright © 2001 by Good News Publishers. Used by permission. All rights reserved.
-
-Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the **Hebrew GRAMMAR Quest** format.  We encourage any of our students who wish to go further with Hebrew grammar to [purchase the book or any related materials](#optional_resources){target="_blank"}.
-
-Additionally, MASSIVE thanks to Dr. John Beckman for making his [extensive library of materials](https://hebrewsyntax.org/bbh2new){target="_blank"} to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
-
-As applicable:
-
-* This books' vocabulary portions and accompanying Anki deck are derivatives of [00_vocabulary.pdf](https://hebrewsyntax.org/bbh2new/00_vocabulary.pdf) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/){target="_blank"}.
-* Grammar portions of this book and accompanying Anki deck are derivatives of [00_study_guide.pdf](https://hebrewsyntax.org/bbh2new/00_study_guide.pdf){target="_blank"} and the "overhead" files for each chapter (for example, [Chapter 1-The Hebrew Alphabet](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}, and so forth for each successive chapter) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/){target="_blank"}
-
-The photographs of Israel to begin each lesson are courtesy of the [Pictorial Library of Bible Lands](www.bibleplaces.com){target="_blank"}. Used by permission.
-
-Biblical Hebrew text is courtesy of tanach.us (version 26.0). 
-
-Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/){target="_blank"} tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have achieved those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free while maintaining a professional look.
-
-We believe we have made reasonable attempts to acknowledge our sources where indicated. Notwithstanding these attempts, this work, including related materials and videos, may contain certain copyrighted works that we nonetheless believe in good faith are protected by United States federal law and the fair use doctrine.  Section 107 of the U.S. Copyright Act allows for reproduction for purposes such as teaching, scholarship, or research.   Concerns related to a citation/copyright matter may be directed to "contact at holylanguage dot com" for review and, as needed, acknowledgment.
-
-</small>
+Let's get started!
 
 
-All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה אֶקְרָא</span>
+
+
 

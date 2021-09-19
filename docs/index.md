@@ -27,91 +27,12 @@ lof: no
 
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
+
 <small>*Updated*: 2021-09-18</small>
-
-<small>
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.cover.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-
-**LICENSE**
-
-© 2021 Holy Language Institute. All rights reserved.
-
-![Creative Commons](images/by-nc-sa.png)
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
-
-This license is for personal use only.  This publication may not be downloaded, redistributed, re-uploaded, published, or used for any other purposes without explicit permission from the copyright holder.
-
-If you received this book but are not a Holy Language Institute member, [become a member today](https://holylanguage.com/subscribe.html)!  Subscribing will give you access to the full Hebrew GRAMMAR Quest course materials, as well as access to Izzy Avraham's complete library of teaching materials.
-
-
-**CREDITS AND ACKNOWLEDGMENTS**
-
-Unless otherwise noted, English Scripture quotations taken from the NASB. Copyright Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation. Used by permission.
-
-Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version, copyright © 2001 by Good News Publishers. Used by permission. All rights reserved.
-
-Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the **Hebrew GRAMMAR Quest** format.  We encourage any of our students who wish to go further with Hebrew grammar to [purchase the book or any related materials](#optional_resources){target="_blank"}.
-
-Additionally, MASSIVE thanks to Dr. John Beckman for making his [extensive library of materials](https://hebrewsyntax.org/bbh2new){target="_blank"} to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
-
-As applicable:
-
-* This books' vocabulary portions and accompanying Anki deck are derivatives of [00_vocabulary.pdf](https://hebrewsyntax.org/bbh2new/00_vocabulary.pdf) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/){target="_blank"}.
-* Grammar portions of this book and accompanying Anki deck are derivatives of [00_study_guide.pdf](https://hebrewsyntax.org/bbh2new/00_study_guide.pdf){target="_blank"} and the "overhead" files for each chapter (for example, [Chapter 1-The Hebrew Alphabet](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}, and so forth for each successive chapter) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/){target="_blank"}
-
-The photographs of Israel to begin each lesson are courtesy of the [Pictorial Library of Bible Lands](www.bibleplaces.com){target="_blank"}. Used by permission.
-
-Biblical Hebrew text is courtesy of tanach.us (version 26.0). 
-
-Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/){target="_blank"} tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have achieved those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free while maintaining a professional look.
-
-We believe we have made reasonable attempts to acknowledge our sources where indicated. Notwithstanding these attempts, this work, including related materials and videos, may contain certain copyrighted works that we nonetheless believe in good faith are protected by United States federal law and the fair use doctrine.  Section 107 of the U.S. Copyright Act allows for reproduction for purposes such as teaching, scholarship, or research.   Concerns related to a citation/copyright matter may be directed to "contact at holylanguage dot com" for review and, as needed, acknowledgment.
-
-</small>
-
-
-All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה אֶקְרָא</span>
-
-
-<!--chapter:end:index.Rmd-->
-
-# Course and Anki Setup {-}
-
-::: {.box .stop}
-* You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
-* If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes
-  * Then you wouldn't want to wear those new shoes for the first time on your hike; you would want to break them in first (or your feet would not be very happy with you)
-* Consider `Anki and Course Setup` as your trip to the store to get the right equipment then get comfortable with it _before_ you begin your quest!
-:::
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_intro.m4a"> 
+src="./images/00.cover.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -135,27 +56,76 @@ function x25() {
 </script></figure>
 :::
 
+Welcome to Hebrew GRAMMAR Quest, from Holy Language Institute. 
 
-::: {.box .light}
-* The Hebrew GRAMMAR Quest Guidebook is where you will get introduced to the material
-* Anki (along with the other activities) is where you will LEARN the material
-* This section will get you up and running with Anki and the other components of the course so your Hebrew GRAMMAR Quest is headed in the right direction
+The journey into the world of Biblical Hebrew grammar is a peek inside the mind of HaShem. By increased understanding of the Bible, we can better experience part of the culture of Bible authors such as Moses, David, and the prophets.  With some narratives, reading them in Hebrew almost places us right there in the middle of the action.  That's pretty cool!
+
+Most importantly, learning the original language draws us closer to Yeshua and the world to which He ministered.  
+
+It is for these reasons that we like to say this is not just a course, but a quest.  Hebrew GRAMMAR Quest is a journey into a deeper love your Bible and its primary Author.
+
+On the next few pages, we will tell you a little about our program and give you some preliminary action steps so you can get your gear in order before you begin your quest with Lesson 1.
+
+Let's get started!
+
+
+
+
+
+
+<!--chapter:end:index.Rmd-->
+
+# Quest Introduction {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
 :::
 
+As we begin,  we wanted to let you know our purposes for our course, and what, we believe, makes our course distinct from the many other Hebrew learning options available.
 
-<img src="images/weight.png" width="150pt" style="display: block; margin: auto;" /><img src="images/treadmill.png" width="150pt" style="display: block; margin: auto;" />
+Our Holy Language goals for a Hebrew grammar course are the following:
+
+* Academically CHALLENGING, but with a LOW-STRESS level
+* Primary emphasis on READING and UNDERSTANDING God's Word
+    * We approach learning Hebrew from a _devotional_ level, more than an academic one
+    * We use grammar rules, paradigms, and memorization as a means to achieve this goal
+    * The "final exam" should be whether you can understand the Bible, not whether you can conjugate a a particular Hebrew verb
+    * We do not prioritize writing or speaking in Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
+    * We are not addressing Modern Hebrew
+* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
+* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
+    * This guidebook is designed to introduce you to the material, but only about 20% of learning (if that) comes from a passive activity such as reading.  This is why we have added audio narration to help with retention.
+    * The activities such as Anki, is truly where you will LEARN the material - note the root word ACTIVE in the word "activities"
+* COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_, but does not replace it; **Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_**
+    * See the Appendix FAQs for additional discussion on how _Hebrew Quest_ and Hebrew GRAMMAR Quest relate to one another
+* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward for the ministry to develop, deliver, and maintain
+* FREE of charge for our students
+* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+
+We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
 
 
-If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free^[All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.] flashcard application that helps you build both Hebrew strength and Hebrew endurance!
-
-::: {.box .info}
-As you work through this course, set aside time to review Anki on a DAILY basis
-:::
-
-The sections that will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Unit 1 Anki deck with additional how-to information.
-
-
-## COURSE QUICK START INSTRUCTIONS {- #quickstart}
+## Getting Started (IMPORTANT!) {-}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -183,17 +153,26 @@ function x25() {
 </script></figure>
 :::
 
-::: {.box .info}
-* It is possible to load and configure Anki from a mobile device
-  * For best results, we recommend setting Anki up a desktop version first
-  * Then you can `sync` to the mobile Anki app.
+
+::: {.box .stop}
+* You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
+* If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes!
+* Consider this section as your trip to the store to get the right equipment _before_ you begin your quest!
 :::
+
+::: {.box .light}
+* As we noted previously, the Hebrew GRAMMAR Quest Guidebook is where you will get _introduced_ to the material
+* Anki (along with the other activities) is where you will __LEARN__ the material
+* If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free^[All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.] flashcard application that helps you build both Hebrew strength and Hebrew endurance!
+* As you work through this course, set aside time to review Anki on a DAILY basis
+:::
+
+The table below shows the steps necessary to get properly fitted before you begin your quest.  They should take about 10 or 15 minutes depending on your internet speed.  Please do these steps from a desktop computer (not a mobile device) for best results.
 
 ::: {.box .caution}
-Failure to follow the steps below could lead to Anki frustration!^[The first two steps aren't directly related to Anki, but since you'll need them for the course, we'll include them here.]
-
-These steps should take around 10 minutes depending on your internet speed.
+Failure to follow these steps could lead to Anki frustration!
 :::
+
 
 
 | Step | Comments | Link to How-to Video
@@ -249,6 +228,8 @@ function x25() {
 These settings will optimize your Anki experience.  
 
 The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
+
+[YouTube video showing these steps](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 :::
 
 1. Change `USER1` Name to your name
@@ -257,7 +238,7 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 2. To change learning settings, click the gear button next to "Hebrew Grammar Quest", then click `Options`
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_options.png" alt="Anki Deck Options" width="250pt" />
-<p class="caption">(\#fig:unnamed-chunk-3)Anki Deck Options</p>
+<p class="caption">(\#fig:unnamed-chunk-2)Anki Deck Options</p>
 </div>
 3. Make sure your settings match the images below:
 
@@ -265,7 +246,7 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings01.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-4)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-3)Settings</p>
 </div>
 
 ::: {.box .info}
@@ -279,7 +260,7 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 `Show answer timer` is optional.
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings02.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-4)Settings</p>
 </div>
 
 
@@ -288,14 +269,14 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings03.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
 </div>
 
 ### Advanced {-}
  
 <div class="figure" style="text-align: center">
 <img src="images/00.ankisettings04.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-7)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
 </div>
 
 ::: {.box .info}
@@ -312,16 +293,15 @@ Anki Add-ons
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_more_stats.png" alt="Settings" width="500pt" />
-<p class="caption">(\#fig:unnamed-chunk-8)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-7)Settings</p>
 </div>
 
 
-## See the Appendix for other important information and FAQ {-}
+## Other course information {-}
 
 FAQs about the Course
 
 * [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
-* [What makes our course distinct?](#our_course)
 * [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
 * [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
@@ -517,7 +497,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 
 <div class="figure" style="text-align: center">
 <img src="images/01_Cove of the Sower from top, tbs76029303.jpg" alt="Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-10)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-9)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.
@@ -1290,7 +1270,7 @@ Reflect on the works of HaShem that you have seen!
 
 <div class="figure" style="text-align: center">
 <img src="images/02-Plain of Bethsaida with green grass, tb110206630.jpg" alt="Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-21)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-20)Plain of Bethsaida - suggested location where 5000 saw the works of Yeshua and were fed (Mark 6). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 <!-- 2.1 -->
@@ -1894,7 +1874,7 @@ function x25() {
 
 <div class="figure" style="text-align: center">
 <img src="images/02.reject.gif" alt="That's no moon.  That's a Guttural!" width="500pt" />
-<p class="caption">(\#fig:unnamed-chunk-27)That's no moon.  That's a Guttural!</p>
+<p class="caption">(\#fig:unnamed-chunk-26)That's no moon.  That's a Guttural!</p>
 </div>
 
 * A large chunk of any Hebrew grammar course involves learning to resolve these guttural entanglements
@@ -2307,7 +2287,7 @@ Thank God for his blessings and meditate upon them.
 
 <div class="figure" style="text-align: center">
 <img src="images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg" alt="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-28)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-27)Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## Hebrew Syllables {#syllables}
@@ -3538,7 +3518,7 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-43)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-42)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -4817,7 +4797,7 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 <div class="figure" style="text-align: center">
 <img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-44)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-43)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Vav Lecture (from HQ Lesson 5)
@@ -5797,7 +5777,7 @@ The בּ in <span class="he">בְּיוֹם</span> is an example of an "insepara
 
 <div class="figure" style="text-align: center">
 <img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-47)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-46)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -6458,7 +6438,7 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-51)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-50)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Adjectives Lecture
@@ -7006,7 +6986,7 @@ The first word in the passage above is an example of a "demonstrative pronoun". 
 
 <div class="figure" style="text-align: center">
 <img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-53)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-52)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Independent Pronouns Lecture
@@ -7462,7 +7442,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 <div class="figure" style="text-align: center">
 <img src="images/08-manna-ko-hiking-en-gedi.jpg" alt="Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission." width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-54)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
+<p class="caption">(\#fig:unnamed-chunk-53)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
 </div>
 :::
 
@@ -7713,7 +7693,7 @@ In addition to offering up our petitions, let us be sure to hear God's questions
 
 <div class="figure" style="text-align: center">
 <img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-55)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-54)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Possessive Pronominal Suffixes Lecture
@@ -8557,7 +8537,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-61)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-60)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -9228,7 +9208,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-63)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-62)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10132,7 +10112,7 @@ Lessons 13-16 are critical!
 
 <div class="figure" style="text-align: center">
 <img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-66)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
+<p class="caption">(\#fig:unnamed-chunk-65)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
 </div>
 
 
@@ -10353,7 +10333,7 @@ In these times, we must depend on God to sustain us.  It is times like these whe
 
 <div class="figure" style="text-align: center">
 <img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-67)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-66)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -11735,7 +11715,7 @@ Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ
 
 <div class="figure" style="text-align: center">
 <img src="images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg" alt="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-70)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-69)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13078,7 +13058,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-81)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-80)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13383,7 +13363,7 @@ Below is a summary table showing the verb <span class="he">בָנָה</span> in 
 
 <div class="figure" style="text-align: center">
 <img src="images/14.3heiparadigm.png" alt="3-Hei Qal Perfect" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)3-Hei Qal Perfect</p>
+<p class="caption">(\#fig:unnamed-chunk-81)3-Hei Qal Perfect</p>
 </div>
 
 ::: {.box .info}
@@ -13833,7 +13813,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-83)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-82)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14329,7 +14309,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-86)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-85)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -15093,7 +15073,7 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-87)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-86)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
@@ -15579,7 +15559,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-88)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16198,7 +16178,7 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-90)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-89)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16505,7 +16485,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -16955,7 +16935,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-91)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
@@ -17266,7 +17246,7 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-93)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -17664,7 +17644,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-94)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18231,7 +18211,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18890,7 +18870,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19302,7 +19282,7 @@ We must practice the disciplines of worship, service, and study (and teaching if
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-100)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19895,7 +19875,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-101)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20279,7 +20259,7 @@ How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and 
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-103)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-102)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20620,7 +20600,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-104)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20780,7 +20760,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21239,7 +21219,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-107)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21616,7 +21596,7 @@ HaShem had these details recorded for a reason. Through our study of Hebrew, we 
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21979,7 +21959,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22200,7 +22180,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22548,7 +22528,7 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-114)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22884,7 +22864,6 @@ The men and women who followed Yeshua became a safe and loving community.  Same 
 FAQs about the Course
 
 * [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
-* [What makes our course distinct?](#our_course)
 * [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
 * [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
@@ -22898,6 +22877,7 @@ FAQs about Anki
 * [How do I know which button to select on an Anki card?](#anki_buttons)
 * [How do I get help with Anki?](#anki_help)
 * [What is the `HGQ Custom Words` Deck?](#anki_custom_words)
+
 ## Why is Holy Language offering a Hebrew grammar course? {- #why_grammar}
 
 
@@ -22942,59 +22922,6 @@ These two are often opposite extremes.  Self-paced courses can have too little s
 Additionally, with either option, our Holy Language students would incur additional fees to purchase these materials.  Many of the resources we researched are top-notch.  Depending on a student's goals, we would not hesitate to recommend them.  It's just that they were not quite what we were seeking for the majority of our students.
 
 See the next section to learn how Hebrew GRAMMAR Quest is distinct.
-
-## How is Hebrew GRAMMAR Quest distinct? {- #our_course}
-
-::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function x05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function x075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function x1() { 
-    x.playbackRate = 1;
-     x.play();}
-function x15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function x2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function x25() { 
-    x.playbackRate = 2.5;
-     x.play(); } 
-</script></figure>
-:::
-
-Our Holy Language goals for a Hebrew grammar course are the following:
-
-* Academically CHALLENGING, but with a LOW-STRESS level
-* Primary emphasis on READING and UNDERSTANDING God's Word
-    * We use grammar rules, paradigms, and memorization as a means to achieve this goal
-    * The "final exam" should be whether you can understand the Bible, not whether you can conjugate a a particular Hebrew verb
-    * We do not prioritize writing or speaking in Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
-    * We are not addressing Modern Hebrew
-* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
-* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
-* COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_, but does not replace it; Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_
-* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward for the ministry to develop, deliver, and maintain
-* FREE of charge for our students
-* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
-
-We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
-
-### Holy Language Learning Philosophy {-}
-
-We have talked a bit about our Holy Language Learning Philosophy.  Our belief is you learn best by doing.  Izzy discusses this in greater detail in the clip below from **Hebrew Quest** Lesson 1.  As a reminder, you can increase the speed of YouTube videos by clicking "Settings", then adjusting the "Playback Speed" to your liking.
-
-<div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ex9mBMAqWhI?start=2823" frameborder="0"></iframe>
-</div>
-
-
 
 ## What is the Relationship to _Hebrew Quest_? {- #hgq_and_hq}
 
@@ -23331,7 +23258,7 @@ You might want wait and see how you are doing with Hebrew GRAMMAR Quest through 
 
 <div class="figure" style="text-align: center">
 <img src="images/00.ankinavigate.png" alt="Settings" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-119)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -23388,7 +23315,7 @@ Several of the cards have silly mnemonics.  As we borrowed and reformatted the `
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_good.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-120)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -23537,7 +23464,7 @@ function x25() {
  
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_custom.png" alt="Settings" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-121)Settings</p>
 </div>
 
 * On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
@@ -23574,10 +23501,81 @@ function x25() {
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-123)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-122)Chris Flanagan</p>
 </div>
 
 <!--chapter:end:65-abouttheauthor.Rmd-->
+
+# Credits and Acknowledgments
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.cover.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
+**LICENSE**
+
+© 2021 Holy Language Institute. All rights reserved.
+
+![Creative Commons](images/by-nc-sa.png)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+
+This license is for personal use only.  This publication may not be downloaded, redistributed, re-uploaded, published, or used for any other purposes without explicit permission from the copyright holder.
+
+If you received this book but are not a Holy Language Institute member, [become a member today](https://holylanguage.com/subscribe.html)!  Subscribing will give you access to the full Hebrew GRAMMAR Quest course materials, as well as access to Izzy Avraham's complete library of teaching materials.
+
+
+**CREDITS AND ACKNOWLEDGMENTS**
+
+Unless otherwise noted, English Scripture quotations taken from the NASB. Copyright Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation. Used by permission.
+
+Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version, copyright © 2001 by Good News Publishers. Used by permission. All rights reserved.
+
+Our thanks to Dr. Gary Pratico and Dr. Myles Van Pelt for <u>Basics of Biblical Hebrew</u>, the seminary textbook that inspired the **Hebrew GRAMMAR Quest** format.  We encourage any of our students who wish to go further with Hebrew grammar to [purchase the book or any related materials](#optional_resources){target="_blank"}.
+
+Additionally, MASSIVE thanks to Dr. John Beckman for making his [extensive library of materials](https://hebrewsyntax.org/bbh2new){target="_blank"} to accompany <u>Basics of Biblical Hebrew</u> freely available for reuse under CC-BY-SA.
+
+As applicable:
+
+* This books' vocabulary portions and accompanying Anki deck are derivatives of [00_vocabulary.pdf](https://hebrewsyntax.org/bbh2new/00_vocabulary.pdf) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/){target="_blank"}.
+* Grammar portions of this book and accompanying Anki deck are derivatives of [00_study_guide.pdf](https://hebrewsyntax.org/bbh2new/00_study_guide.pdf){target="_blank"} and the "overhead" files for each chapter (for example, [Chapter 1-The Hebrew Alphabet](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}, and so forth for each successive chapter) by John Beckman, used under [CC-BY-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/){target="_blank"}
+
+The photographs of Israel to begin each lesson are courtesy of the [Pictorial Library of Bible Lands](www.bibleplaces.com){target="_blank"}. Used by permission.
+
+Biblical Hebrew text is courtesy of tanach.us (version 26.0). 
+
+Yihui Xie is the genius who developed the [Bookdown](https://bookdown.org/){target="_blank"} tool, which is the engine behind publishing this interactive book.  Without Bookdown, we would not have achieved those bullet points listed on the [What we wanted in our course](#our_course) page related to the ease of lifting the project and making it available to our subscribers for free while maintaining a professional look.
+
+We believe we have made reasonable attempts to acknowledge our sources where indicated. Notwithstanding these attempts, this work, including related materials and videos, may contain certain copyrighted works that we nonetheless believe in good faith are protected by United States federal law and the fair use doctrine.  Section 107 of the U.S. Copyright Act allows for reproduction for purposes such as teaching, scholarship, or research.   Concerns related to a citation/copyright matter may be directed to "contact at holylanguage dot com" for review and, as needed, acknowledgment.
+
+</small>
+
+
+All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה אֶקְרָא</span>
+
+
+<!--chapter:end:70-credits.Rmd-->
 
 
 # References {-}

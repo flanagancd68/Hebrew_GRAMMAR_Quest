@@ -1,16 +1,7 @@
-# Course and Anki Setup {-}
-
-::: {.box .stop}
-* You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
-* If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes
-  * Then you wouldn't want to wear those new shoes for the first time on your hike; you would want to break them in first (or your feet would not be very happy with you)
-* Consider `Anki and Course Setup` as your trip to the store to get the right equipment then get comfortable with it _before_ you begin your quest!
-:::
+# Quest Introduction {-}
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_intro.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
     x.playbackRate = 0.5;
@@ -33,31 +24,31 @@ function x25() {
 </script></figure>
 :::
 
+As we begin,  we wanted to let you know our purposes for our course, and what, we believe, makes our course distinct from the many other Hebrew learning options available.
 
-::: {.box .light}
-* The Hebrew GRAMMAR Quest Guidebook is where you will get introduced to the material
-* Anki (along with the other activities) is where you will LEARN the material
-* This section will get you up and running with Anki and the other components of the course so your Hebrew GRAMMAR Quest is headed in the right direction
-:::
+Our Holy Language goals for a Hebrew grammar course are the following:
+
+* Academically CHALLENGING, but with a LOW-STRESS level
+* Primary emphasis on READING and UNDERSTANDING God's Word
+    * We approach learning Hebrew from a _devotional_ level, more than an academic one
+    * We use grammar rules, paradigms, and memorization as a means to achieve this goal
+    * The "final exam" should be whether you can understand the Bible, not whether you can conjugate a a particular Hebrew verb
+    * We do not prioritize writing or speaking in Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
+    * We are not addressing Modern Hebrew
+* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
+* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
+    * This guidebook is designed to introduce you to the material, but only about 20% of learning (if that) comes from a passive activity such as reading.  This is why we have added audio narration to help with retention.
+    * The activities such as Anki, is truly where you will LEARN the material - note the root word ACTIVE in the word "activities"
+* COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_, but does not replace it; **Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_**
+    * See the Appendix FAQs for additional discussion on how _Hebrew Quest_ and Hebrew GRAMMAR Quest relate to one another
+* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward for the ministry to develop, deliver, and maintain
+* FREE of charge for our students
+* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
+
+We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
 
 
-```{r, fig.show="hold", out.width = "150pt", fig.align='center'}
-
-knitr::include_graphics("images/weight.png")
-knitr::include_graphics("images/treadmill.png")
-```
-
-
-If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free^[All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.] flashcard application that helps you build both Hebrew strength and Hebrew endurance!
-
-::: {.box .info}
-As you work through this course, set aside time to review Anki on a DAILY basis
-:::
-
-The sections that will help you get started with Anki. There is also an `0. Introduction` section within the Hebrew GRAMMAR Quest Unit 1 Anki deck with additional how-to information.
-
-
-## COURSE QUICK START INSTRUCTIONS {- #quickstart}
+## Getting Started (IMPORTANT!) {-}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -85,17 +76,26 @@ function x25() {
 </script></figure>
 :::
 
-::: {.box .info}
-* It is possible to load and configure Anki from a mobile device
-  * For best results, we recommend setting Anki up a desktop version first
-  * Then you can `sync` to the mobile Anki app.
+
+::: {.box .stop}
+* You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
+* If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes!
+* Consider this section as your trip to the store to get the right equipment _before_ you begin your quest!
 :::
+
+::: {.box .light}
+* As we noted previously, the Hebrew GRAMMAR Quest Guidebook is where you will get _introduced_ to the material
+* Anki (along with the other activities) is where you will __LEARN__ the material
+* If one wants to build strength and endurance, it's essential to use the right machines.  Anki is a free^[All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.] flashcard application that helps you build both Hebrew strength and Hebrew endurance!
+* As you work through this course, set aside time to review Anki on a DAILY basis
+:::
+
+The table below shows the steps necessary to get properly fitted before you begin your quest.  They should take about 10 or 15 minutes depending on your internet speed.  Please do these steps from a desktop computer (not a mobile device) for best results.
 
 ::: {.box .caution}
-Failure to follow the steps below could lead to Anki frustration!^[The first two steps aren't directly related to Anki, but since you'll need them for the course, we'll include them here.]
-
-These steps should take around 10 minutes depending on your internet speed.
+Failure to follow these steps could lead to Anki frustration!
 :::
+
 
 
 | Step | Comments | Link to How-to Video
@@ -151,6 +151,8 @@ function x25() {
 These settings will optimize your Anki experience.  
 
 The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
+
+[YouTube video showing these steps](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 :::
 
 1. Change `USER1` Name to your name
@@ -212,12 +214,11 @@ knitr::include_graphics("images/00.anki_more_stats.png")
 ```
 
 
-## See the Appendix for other important information and FAQ {-}
+## Other course information {-}
 
 FAQs about the Course
 
 * [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
-* [What makes our course distinct?](#our_course)
 * [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
 * [What if I haven't finished _Hebrew Quest_?](#finish_hq)
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
