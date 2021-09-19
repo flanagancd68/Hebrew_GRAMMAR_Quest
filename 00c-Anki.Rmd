@@ -45,7 +45,7 @@ Our Holy Language goals for a Hebrew grammar course are the following:
 * FREE of charge for our students
 * Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
 
-We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
+We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course, all in a way that reflects the heart of the Holy Language Institute!  We believe that result is Hebrew GRAMMAR Quest!
 
 
 ## Getting Started (IMPORTANT!) {-}
@@ -110,7 +110,7 @@ Failure to follow these steps could lead to Anki frustration!
 | | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  See `HGQ Custom Words` section for more information.
+| | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
 7. Tweak a few Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
@@ -216,6 +216,8 @@ knitr::include_graphics("images/00.anki_more_stats.png")
 
 ## Other course information {-}
 
+These articles are contained in the Appendix.
+
 FAQs about the Course
 
 * [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
@@ -224,6 +226,7 @@ FAQs about the Course
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
 * [What are the required/optional course resources?](#optional_resources)
 * [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
+* [Why is it called "Hebrew GRAMMAR Quest"?](#whygrammarquest)
 
 FAQs about Anki
 

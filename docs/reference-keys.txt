@@ -437,7 +437,6 @@ hitpael-infinitives-strong-paradigm
 hitpael-participle-strong-paradigm
 what-to-memorize-hitpael
 stem-comparison-table-6
-ruth-pursuit-analysis-4
 the-hitpael-stem---weak
 r_2-can-lose-daghesh-forte
 transposition-of-ת-and-r_1-when-r_1-is-sibilant
@@ -445,5 +444,3 @@ preformative-תְ-assimilates-when-r_1-is-ז-ד-ט-ת
 hitpolel-minor-stem
 hishtapel-minor-stem
 top-10-hitpael-verbs
-lesson-extras-35
-credits-and-acknowledgments

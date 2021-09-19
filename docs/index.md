@@ -62,7 +62,7 @@ The journey into the world of Biblical Hebrew grammar is a peek inside the mind 
 
 Most importantly, learning the original language draws us closer to Yeshua and the world to which He ministered.  
 
-It is for these reasons that we like to say this is not just a course, but a quest.  Hebrew GRAMMAR Quest is a journey into a deeper love your Bible and its primary Author.
+It is for these reasons that we like to say this is not just a course, but a __QUEST__.  Hebrew GRAMMAR Quest is a journey into a deeper love your Bible and its primary Author.
 
 On the next few pages, we will tell you a little about our program and give you some preliminary action steps so you can get your gear in order before you begin your quest with Lesson 1.
 
@@ -122,7 +122,7 @@ Our Holy Language goals for a Hebrew grammar course are the following:
 * FREE of charge for our students
 * Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
 
-We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course!  We believe that result is Hebrew GRAMMAR Quest!
+We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course, all in a way that reflects the heart of the Holy Language Institute!  We believe that result is Hebrew GRAMMAR Quest!
 
 
 ## Getting Started (IMPORTANT!) {-}
@@ -187,7 +187,7 @@ Failure to follow these steps could lead to Anki frustration!
 | | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  See `HGQ Custom Words` section for more information.
+| | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
 7. Tweak a few Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | While the Android version is free, the iOS version has a one-time fee of $25. Apple users might consider using the [web version](https://ankiweb.net/account/login){target="_blank"} for the first few lessons while you assess whether the cost is justified | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
@@ -299,6 +299,8 @@ Anki Add-ons
 
 ## Other course information {-}
 
+These articles are contained in the Appendix.
+
 FAQs about the Course
 
 * [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
@@ -307,6 +309,7 @@ FAQs about the Course
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
 * [What are the required/optional course resources?](#optional_resources)
 * [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
+* [Why is it called "Hebrew GRAMMAR Quest"?](#whygrammarquest)
 
 FAQs about Anki
 
@@ -1151,6 +1154,32 @@ In other words after you have completed `Anki` so that all the lesson's cards ar
 [Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 
 ## Lesson Extras {-}
+
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/01.lesson_extras.m4a"> 
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 * [Dr. Beckman Lecture Video](http://youtu.be/edv-QEGJI3k){target="_blank"}
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}
@@ -22403,7 +22432,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 If you desire additional paradigm practice, you may use this [Hitpael parsing worksheet](./images/34_hithpael_strong_paradigms.pdf){target="_blank"}
 
-## Ruth Pursuit Analysis
+## Ruth Pursuit Analysis {-}
 
 It's time for the Final segment of translating Ruth.  We'll move on to "Scene 3" which concludes "Act 1": Ruth 1:19b-22
 
@@ -22810,7 +22839,7 @@ We would like to take a moment and recap all that you have accomplished in His s
 Izzy Avraham and Chris Flanagan
 
 
-## Lesson Extras
+## Lesson Extras {-}
 
 * [Dr. Beckman Lecture Video](http://youtu.be/5v8KvmEtZy0){target=“_blank”}
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/36_overheads_bw4.pdf){target=“_blank”}
@@ -22869,6 +22898,7 @@ FAQs about the Course
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
 * [What are the required/optional course resources?](#optional_resources)
 * [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
+* [Why is it called "Hebrew GRAMMAR Quest"?](#whygrammarquest)
 
 
 FAQs about Anki
@@ -23013,6 +23043,15 @@ Let's get started!
 :::
 
 Refer to the section on Anki and course setup to get your Hebrew GRAMMAR Quest outfitted properly.
+
+
+## Why is the course called "Hebrew GRAMMAR Quest"? {- #whygrammarquest}
+
+* The word "GRAMMAR" in all caps emphasizes its distinctness from _Hebrew Quest_; yet by placing the word "GRAMMAR* in the middle of _Hebrew Quest_ is a nod to the course's roots and integration with the original _Hebrew Quest_
+  * And obviously the course is about Hebrew grammar as opposed to some other kind of grammar!
+* Calling the course a "Quest" means there is joy and reward in the journey as well as treasure once the mission is completed
+
+  
 
 ## Navigating the Hebrew GRAMMAR Quest guidebook {- #navigating}
 
@@ -23436,7 +23475,7 @@ function x25() {
 
 
 ::: {.infobox .sound}
-<figure> Note: this is the audio from the step 7 "how to" video on the start-up page: <audio id="myAudio" controls controlsList="nodownload" 
+<figure> Note: this is the audio from the YouTube video: <audio id="myAudio" controls controlsList="nodownload" 
 src="./images/00.anki_cust_words.mp3"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
@@ -23479,7 +23518,7 @@ function x25() {
   7. Select/highlight the English text then click the `Cloze` button: `[...]`
   8. Add any notes you want in the remaining fields, including any hints or mnemonics that will help you remember the word
   9. Click `Add`
-* The video link walks through these steps:  [YouTube: About Custom Words Deck](ttps://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
+* The video link walks through these steps:  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
 
 
 ::: {.box .info}
@@ -23506,10 +23545,10 @@ function x25() {
 
 <!--chapter:end:65-abouttheauthor.Rmd-->
 
-# Credits and Acknowledgments
+# Credits and Acknowledgments {-}
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.cover.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.acknowledgements.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
     x.playbackRate = 0.5;

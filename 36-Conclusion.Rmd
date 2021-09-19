@@ -51,7 +51,7 @@ We would like to take a moment and recap all that you have accomplished in His s
 Izzy Avraham and Chris Flanagan
 
 
-## Lesson Extras
+## Lesson Extras {-}
 
 * [Dr. Beckman Lecture Video](http://youtu.be/5v8KvmEtZy0){target=“_blank”}
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/36_overheads_bw4.pdf){target=“_blank”}

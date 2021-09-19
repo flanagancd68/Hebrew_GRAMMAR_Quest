@@ -299,7 +299,7 @@ include_graphics("images/34_stemcomp.png")
 
 If you desire additional paradigm practice, you may use this [Hitpael parsing worksheet](./images/34_hithpael_strong_paradigms.pdf){target="_blank"}
 
-## Ruth Pursuit Analysis
+## Ruth Pursuit Analysis {-}
 
 It's time for the Final segment of translating Ruth.  We'll move on to "Scene 3" which concludes "Act 1": Ruth 1:19b-22
 
