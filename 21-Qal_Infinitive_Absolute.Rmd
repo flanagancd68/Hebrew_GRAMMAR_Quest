@@ -82,7 +82,7 @@ knitr::include_graphics("images/21_Ketef Hinnom with Gabriel Barkay, tb042705895
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
 
-As needed, review this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs.
+As needed, re-review this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs.
 
 
 <div class="container">

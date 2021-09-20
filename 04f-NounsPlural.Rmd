@@ -199,6 +199,16 @@ yY3O8ByYNwI?start=0&end=637&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Grammatical Gender and Plural Endings Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/04.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 * Start: 00:00
 * End: 10:37
 

@@ -151,6 +151,16 @@ MlfwNNuWgto?start=0&end=1675&rel=0&showinfo=0autohide=1&autoplay=1" frameborder=
 
 [Click to open video in a new tab](https://youtu.be/MlfwNNuWgto){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 12 Vowels Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/02.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 * Start: 00:00
 * End: 27:55
 

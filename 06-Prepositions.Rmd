@@ -102,6 +102,32 @@ knitr::include_graphics("images/06-Nazareth Mount of Precipitation from west pan
 
 ## _Hebrew Quest_ Prepositions Lecture
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 8-minute video from _Hebrew Quest_ introducing prepositions.  We will dig into the concepts in greater detail as we progress through the lesson. 
 
 <div class="container">
@@ -109,6 +135,16 @@ View this 8-minute video from _Hebrew Quest_ introducing prepositions.  We will 
 yY3O8ByYNwI?start=1839&end=2303
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
+
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Prepositions Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/06.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1839){target="_blank"}
 
@@ -275,6 +311,32 @@ function x25() {
 
 ## _Hebrew Quest_ Preposition with Definite Article Lecture
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 2-minute video from _Hebrew Quest_. You can ignore the references to Essentials of Biblical Hebrew. We will dig into the concepts in greater detail as we progress through the lesson. 
 
 <div class="container">
@@ -285,6 +347,15 @@ yY3O8ByYNwI?start=2303&end=2460
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=2303){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Preposition with Definite Article Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/06.5.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 Start: 38:23
 End: 41:00
 
@@ -292,7 +363,7 @@ End: 41:00
 ## The Article and Inseparable Prepositions
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
+<figure> <figcaption>Audio from _Hebrew Quest_ Lesson 13 Preposition with Definite Article Lecture</figcaption><audio id="myAudio" controls controlsList="nodownload" 
 src="./images/06.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
@@ -516,6 +587,33 @@ We see the DDO twice in the first verse of the Bible:
 
 ## _Hebrew Quest_ discussion of Genesis 1:1 
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 * As a conclusion to this lesson, please watch the video below where Izzy discusses how to read a passage using Genesis 1:1
 * Genesis 1:1 contains examples of the Article, the conjunction, an inseparable preposition and the DDO marker (Izzy also discusses how the DDO speaks of Messiah!)
 * We encourage you to take notes using [a blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}^[In Unit 3, you will have the option of completing our "_Hebrew Quest_ Study Passage Track".  In Lesson 17, we will study Genesis 1:1-5, which is why this document has verses 1-5.]
@@ -525,7 +623,15 @@ We see the DDO twice in the first verse of the Bible:
 </div>
 
 [Click to open video in a new tab](https://youtu.be/sQKorif_GBk?t=732){target="_blank"}
-
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 17 Discussion of Genesis 1:1</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/06.11.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 Start: 12:12
 End: 46:55
 

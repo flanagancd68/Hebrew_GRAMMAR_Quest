@@ -1,4 +1,4 @@
-# Qal Participle {.QPt}
+# Qal Participle and Qal Summary {.QPt}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.intro.m4a">
@@ -79,14 +79,44 @@ knitr::include_graphics("images/22_Cove of the Sower from east, tb112000201.jpg"
 
 ## _Hebrew Quest_ Qal Participles Lecture
 
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/22.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 1-minute overview video from _Hebrew Quest_ on Hebrew Qal Participle Verbs. 
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-hfu4gjNo2K4?start=3664&end=3737&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+hfu4gjNo2K4?start=3668&end=3737&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
-[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3664){target="_blank"}
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3668){target="_blank"}
+
+* Start 1:01:08
+* End 1:02:04
 
 ## Participles are Verbal Adjectives
 
@@ -317,6 +347,32 @@ include_graphics("images/22_stemcomp.png")
 
 ## _Hebrew Quest_ Qal Summary Lecture
 
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/22.9.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 As a conclusion to our study of Qal verbs, view this 5-minute summary of the Qal stem from _Hebrew Quest_. 
 
 <div class="container">
@@ -325,6 +381,21 @@ hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3737){target="_blank"}
+
+* Start: 1:02:17
+* End: 1:07:49
+
+```{r, out.width = "800pt",fig.cap="Qal Verb Summary from the _Hebrew Quest_ Student Manual", fig.align='center'}
+library(knitr)
+include_graphics("images/22.9_qal_summary.png")
+```
+
+## Worksheet: All Qal Paradigms {-}
+
+The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
+
+[All Qal paradigms worksheet](./images/22_qal_paradigms_strong_verbs.pdf){target="_blank"}
+
 
 ## Word Warm-up {-}
 
@@ -345,11 +416,6 @@ hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/uCkJD0fhT74){target="_blank"}
 
-## Worksheet: All Qal Paradigms {-}
-
-The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
-
-[All Qal paradigms worksheet](./images/22_qal_paradigms_strong_verbs.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}        
 

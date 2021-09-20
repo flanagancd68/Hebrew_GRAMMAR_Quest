@@ -195,6 +195,16 @@ oZ1VbPCpMvw?start=729&end=900
 
 [Click to open video in a new tab](https://youtu.be/oZ1VbPCpMvw?t=729){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 5 Vav Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/05.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 Start: 12:09
 End: 15:00
 
@@ -256,6 +266,16 @@ yY3O8ByYNwI?start=2460&end=2671
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI&t=2460){target="_blank"}
+
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Conjunction Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/05.2.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 Start: 41:00
 End: 44:31
@@ -595,6 +615,16 @@ yY3O8ByYNwI?start=1650&end=1835
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI&t=1650){target="_blank"}
+
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Article Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/05.7.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 Start: 27:30
 End: 29:18

@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-09-18"
+#date: "2021-09-20"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
 
-<small>*Updated*: 2021-09-18</small>
+<small>*Updated*: 2021-09-20</small>
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -1341,6 +1341,16 @@ MlfwNNuWgto?start=0&end=1675&rel=0&showinfo=0autohide=1&autoplay=1" frameborder=
 </div>
 
 [Click to open video in a new tab](https://youtu.be/MlfwNNuWgto){target="_blank"}
+
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 12 Vowels Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/02.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 * Start: 00:00
 * End: 27:55
@@ -3607,6 +3617,16 @@ yY3O8ByYNwI?start=0&end=637&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Grammatical Gender and Plural Endings Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/04.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 * Start: 00:00
 * End: 10:37
 
@@ -4886,6 +4906,16 @@ oZ1VbPCpMvw?start=729&end=900
 
 [Click to open video in a new tab](https://youtu.be/oZ1VbPCpMvw?t=729){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 5 Vav Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/05.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 Start: 12:09
 End: 15:00
 
@@ -4947,6 +4977,16 @@ yY3O8ByYNwI?start=2460&end=2671
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI&t=2460){target="_blank"}
+
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Conjunction Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/05.2.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 Start: 41:00
 End: 44:31
@@ -5283,6 +5323,16 @@ yY3O8ByYNwI?start=1650&end=1835
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI&t=1650){target="_blank"}
+
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Article Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/05.7.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 Start: 27:30
 End: 29:18
@@ -5813,6 +5863,32 @@ The בּ in <span class="he">בְּיוֹם</span> is an example of an "insepara
 
 ## _Hebrew Quest_ Prepositions Lecture
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 8-minute video from _Hebrew Quest_ introducing prepositions.  We will dig into the concepts in greater detail as we progress through the lesson. 
 
 <div class="container">
@@ -5820,6 +5896,16 @@ View this 8-minute video from _Hebrew Quest_ introducing prepositions.  We will 
 yY3O8ByYNwI?start=1839&end=2303
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
+
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Prepositions Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/06.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1839){target="_blank"}
 
@@ -5983,6 +6069,32 @@ function x25() {
 
 ## _Hebrew Quest_ Preposition with Definite Article Lecture
 
+::: {.infobox .sound}
+<figure> <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.5.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 2-minute video from _Hebrew Quest_. You can ignore the references to Essentials of Biblical Hebrew. We will dig into the concepts in greater detail as we progress through the lesson. 
 
 <div class="container">
@@ -5993,6 +6105,15 @@ yY3O8ByYNwI?start=2303&end=2460
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=2303){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Preposition with Definite Article Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/06.5.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 Start: 38:23
 End: 41:00
 
@@ -6000,7 +6121,7 @@ End: 41:00
 ## The Article and Inseparable Prepositions
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
+<figure> <figcaption>Audio from _Hebrew Quest_ Lesson 13 Preposition with Definite Article Lecture</figcaption><audio id="myAudio" controls controlsList="nodownload" 
 src="./images/06.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
@@ -6218,6 +6339,33 @@ We see the DDO twice in the first verse of the Bible:
 
 ## _Hebrew Quest_ discussion of Genesis 1:1 
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.11.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 * As a conclusion to this lesson, please watch the video below where Izzy discusses how to read a passage using Genesis 1:1
 * Genesis 1:1 contains examples of the Article, the conjunction, an inseparable preposition and the DDO marker (Izzy also discusses how the DDO speaks of Messiah!)
 * We encourage you to take notes using [a blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}^[In Unit 3, you will have the option of completing our "_Hebrew Quest_ Study Passage Track".  In Lesson 17, we will study Genesis 1:1-5, which is why this document has verses 1-5.]
@@ -6227,7 +6375,15 @@ We see the DDO twice in the first verse of the Bible:
 </div>
 
 [Click to open video in a new tab](https://youtu.be/sQKorif_GBk?t=732){target="_blank"}
-
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 17 Discussion of Genesis 1:1</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/06.11.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 Start: 12:12
 End: 46:55
 
@@ -6472,6 +6628,33 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 ## _Hebrew Quest_ Adjectives Lecture
 
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" 
+src="./images/07.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 View this 5-minute overview video from _Hebrew Quest_ Lesson 13.  If you looked at the Lesson Itinerary, you may not have been previously familiar with the terms "attributive" and "predicative" in terms of adjectives. In the video, when Izzy says, "the good trees", this is called the ATTRIBUTIVE use. When he says, "the trees are good", this is the PREDICATIVE use.
 
 
@@ -6484,6 +6667,16 @@ yY3O8ByYNwI?start=2671&end=2978
 
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=2671){target="_blank"}
+
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 13: Adjectives Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/07.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 Start: 44:30
 End: 49:38
@@ -7020,6 +7213,33 @@ The first word in the passage above is an example of a "demonstrative pronoun". 
 
 ## _Hebrew Quest_ Independent Pronouns Lecture
 
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 5-minute overview video from _Hebrew Quest_.  The first table Izzy reviews is reproduced in the next section. Pronominimal suffixes will be discussed in the next lesson.
 
 <div class="container">
@@ -7200,6 +7420,32 @@ Usually, interrogative pronouns will appear at the beginning of a clause
 
 ## _Hebrew Quest_ Interrogative Particle Lecture
 
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.6.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 2-minute  video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. 
 
 <div class="container">
@@ -7287,6 +7533,31 @@ function x25() {
 
 ## _Hebrew Quest_ Demonstratives Lecture
 
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/08.9.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 View this brief overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson. 
 
@@ -7297,6 +7568,9 @@ yY3O8ByYNwI?start=1160&end=1232
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1160){target="_blank"}
+
+Start: 19:20
+End: 20:32
 
 ## Near and Far Demonstratives
 
@@ -7727,20 +8001,74 @@ In addition to offering up our petitions, let us be sure to hear God's questions
 
 ## _Hebrew Quest_ Possessive Pronominal Suffixes Lecture
 
-View this overview video from _Hebrew Quest_ on possessive suffixes.  Don't fret if you don't fully understand this material on the first pass through the video.  We will break down these concepts as we progress through the lesson.   We will discuss Construct forms in Lesson 10.
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/09.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
+View this four minute video from _Hebrew Quest_ on possessive suffixes.  Don't fret if you don't fully understand this material on the first pass through the video.  We will break down these concepts as we progress through the lesson.   We will discuss Construct forms in Lesson 10.
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-yY3O8ByYNwI?start=912&end=1647
+yY3O8ByYNwI?start=912&end=1161
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=912){target="_blank"}
 
 Start: 15:12
-End: 27:27
+End: 19:21
 
 ## _Hebrew Quest_ Pronominal Suffixes
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/09.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 Although this 10-minute video is from the "Complex Verbs" section of _Hebrew Quest_, the concepts Izzy discusses apply to Lesson 9 of Hebrew GRAMMAR Quest.  At this time, don't worry about any references to verb stems. We will study _verbal_ pronominal suffixes in Lesson 19.
 
@@ -9243,6 +9571,31 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 ## _Hebrew Quest_ Numerals Lecture
 
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/11.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 View this 17-minute overview video from _Hebrew Quest_ on Hebrew Numerals.  Don't fret if you don't understand this material completely.  
 
 <div class="container">
@@ -10210,6 +10563,16 @@ Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy'
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=3343){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Summary Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/12.unit3HQsummary.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 Start: 55:43  
 End:  58:32
 
@@ -10406,7 +10769,15 @@ hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2344){target="_blank"}
-
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Introduction Lecture</figcaption>
+    <audio
+        controls src="./images/12.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+    
 Start: 39:04
 End: 47:26
 
@@ -10942,6 +11313,14 @@ View this 8-minute overview video from _Hebrew Quest_ where Izzy summarizes the 
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=827){target="_blank"}
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Stems Lecture</figcaption>
+    <audio
+        controls src="./images/12.10.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 Start: 13:47  
 End: 21:08
@@ -11003,15 +11382,15 @@ function setPlaySpeed25() {
     * Interestingly in English, many translations of Niphal verbs are still active voice
     * For example, a fair translation of "he was seen" might be "he appeared"
     * Parsing code: N
-3. _Piel_ - Active/intensive - “he shattered the vase”
+3. _Piel_ - Active/Cause a state (or intensive^[Whether Piel is "intensive" is a matter of debate among Hebrew scholars.] - “he shattered the vase”
     * Parsing code: D (the Piel paradigm has a Daghesh Forte in $R_2$ - the D stands for "doubling Daghesh")
-4. _Pual_ - Passive/intensive - “the vase was shattered”
+4. _Pual_ - Passive/Cause a state (or intensive) - “the vase was shattered”
     * Parsing code: Dp (passive of the Piel (D))
-5. _Hiphil_ - Active/Causative - “he caused the vase to be broken”
+5. _Hiphil_ - Active/Cause an action - “he caused the vase to be broken”
     * Parsing code: H
-6. _Hophal_ - Passive/Causative - “the vase was caused to be broken”
+6. _Hophal_ - Passive/Cause an action - “the vase was caused to be broken”
     * Parsing code: Hp (passive of the Hiphil (H))
-7. _Hitpael_ - Reflexive/Intensive - “he caused himself to be holy"
+7. _Hitpael_ - Reflexive/Cause a state (or intensive) - “he caused himself to be holy"
     * Parsing code: tD (very similar to Piel (D) and has a ת in every preformative form)
 
 We'll explain the "Parsing codes" in a few sections 
@@ -11751,6 +12130,33 @@ Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ
 
 
 ## _Hebrew Quest_ Qal Perfect Lecture
+
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/13.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 View this 3-minute overview video from _Hebrew Quest_ on Hebrew Verbs.  We will break down the concepts Izzy discusses as we progress through this lesson.  Note: the terms "afformatives" used by Izzy, and "sufformatives" used by <u>Basics of Biblical Hebrew</u> are synonymous.
 
@@ -13849,6 +14255,32 @@ Let that sink in as you study Biblical Hebrew.
 ## _Hebrew Quest_ Qal Imperfect Lecture
 
 
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/15.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 4-minute overview video from _Hebrew Quest_ on Hebrew Qal Imperfect Verbs.  We will break down the concepts Izzy discusses as we progress through this lesson.  
 
 
@@ -13858,6 +14290,9 @@ hfu4gjNo2K4?start=3044&end=3308&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3044){target="_blank"}
+
+Start: 50:44
+End: 55:08
 
 ## Translating the Imperfect
 
@@ -15107,6 +15542,33 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
 
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/17.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 2-minute overview video from _Hebrew Quest_ Lesson 14 on Hebrew Qal Vav Consecutive Verbs.  We will break down the concepts Izzy discusses as we progress through this lesson.  
 
 
@@ -15117,9 +15579,39 @@ hfu4gjNo2K4?start=3308&end=3425&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3308){target="_blank"}
 
+Start: 55:08
+End: 57:05
+
 ## _Hebrew Quest_  Vav Consecutive Lecture (from Lesson 5)
 
-View this 2-minute overview video from _Hebrew Quest_ Lesson 5 on the letter Vav's grammatical function as a consecutive/conversive; that is, changing an imperfect verb to perfect and a perfect verb to imperfect.  
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/17.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+View this 5-minute  video from _Hebrew Quest_ Lesson 5 on the letter Vav's grammatical function as a consecutive/conversive; that is, changing an imperfect verb to perfect and a perfect verb to imperfect.  
 
 
 <div class="container">
@@ -15129,6 +15621,8 @@ oZ1VbPCpMvw?start=1508&end=1811&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 [Click to open video in a new tab](https://youtu.be/oZ1VbPCpMvw?start=1508){target="_blank"}
 
+Start: 25:08
+End: 30:11
 
 
 ## Review of the Conjunction Vav from Lesson 5
@@ -15594,6 +16088,32 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 ## _Hebrew Quest_ Qal Imperative Lecture
 
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/18.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 1-minute overview video from _Hebrew Quest_ on Hebrew Qal Imperative Verbs.
 
 
@@ -15604,6 +16124,8 @@ hfu4gjNo2K4?start=3425&end=3505&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3425){target="_blank"}
 
+Start: 57:05
+End: 58:25
 
 ## Volitional Forms Introduction
 
@@ -16213,7 +16735,35 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 
 
-## _Hebrew Quest_ Pronominal Suffixes
+## _Hebrew Quest_ Pronominal Suffixes on Verbs
+
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/09.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the concepts Izzy discusses will apply to both Lesson 9 and 19. Since it may have been several weeks since you viewed this previously, we encourage you to review the video before starting this lesson.
 
@@ -16223,6 +16773,7 @@ Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the co
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=2731){target="_blank"}
 
+Start: 45:31 End: 55:41
 
 ## Hebrew Direct Object Pronouns
 
@@ -16519,6 +17070,34 @@ Ponder these things as you work through this Lesson and the study passage.
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
 
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/20.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
+
 View this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs. Izzy spends the bulk of the lecture discussing the Qal Infinitive Absolute form, which we will study in Lesson 21.
 
 
@@ -16528,6 +17107,9 @@ hfu4gjNo2K4?start=3505&end=3664&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3505){target="_blank"}
+
+* Start 58:25
+* End 1:01:04
 
 ## Two types of Infinitives
 
@@ -16969,7 +17551,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
 
-As needed, review this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs.
+As needed, re-review this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs.
 
 
 <div class="container">
@@ -17199,7 +17781,7 @@ YOUR HEBREW QUEST:
 
 <!--chapter:end:21-Qal_Infinitive_Absolute.Rmd-->
 
-# Qal Participle {.QPt}
+# Qal Participle and Qal Summary {.QPt}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.intro.m4a">
@@ -17280,14 +17862,44 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 ## _Hebrew Quest_ Qal Participles Lecture
 
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/22.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 View this 1-minute overview video from _Hebrew Quest_ on Hebrew Qal Participle Verbs. 
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
-hfu4gjNo2K4?start=3664&end=3737&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+hfu4gjNo2K4?start=3668&end=3737&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
-[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3664){target="_blank"}
+[Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3668){target="_blank"}
+
+* Start 1:01:08
+* End 1:02:04
 
 ## Participles are Verbal Adjectives
 
@@ -17515,6 +18127,32 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## _Hebrew Quest_ Qal Summary Lecture
 
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/22.9.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 As a conclusion to our study of Qal verbs, view this 5-minute summary of the Qal stem from _Hebrew Quest_. 
 
 <div class="container">
@@ -17523,6 +18161,21 @@ hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=3737){target="_blank"}
+
+* Start: 1:02:17
+* End: 1:07:49
+
+<div class="figure" style="text-align: center">
+<img src="images/22.9_qal_summary.png" alt="Qal Verb Summary from the _Hebrew Quest_ Student Manual" width="800pt" />
+<p class="caption">(\#fig:unnamed-chunk-94)Qal Verb Summary from the _Hebrew Quest_ Student Manual</p>
+</div>
+
+## Worksheet: All Qal Paradigms {-}
+
+The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
+
+[All Qal paradigms worksheet](./images/22_qal_paradigms_strong_verbs.pdf){target="_blank"}
+
 
 ## Word Warm-up {-}
 
@@ -17543,11 +18196,6 @@ hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/uCkJD0fhT74){target="_blank"}
 
-## Worksheet: All Qal Paradigms {-}
-
-The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
-
-[All Qal paradigms worksheet](./images/22_qal_paradigms_strong_verbs.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}        
 
@@ -17673,7 +18321,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-95)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18240,7 +18888,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-96)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-97)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18899,7 +19547,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-98)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-99)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19311,7 +19959,7 @@ We must practice the disciplines of worship, service, and study (and teaching if
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-100)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -19904,7 +20552,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-101)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-102)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20288,7 +20936,7 @@ How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and 
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20629,7 +21277,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-104)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-105)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -20789,7 +21437,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21248,7 +21896,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-107)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-108)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21625,7 +22273,7 @@ HaShem had these details recorded for a reason. Through our study of Hebrew, we 
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21988,7 +22636,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-110)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-111)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22209,7 +22857,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22557,7 +23205,7 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-113)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-114)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -23297,7 +23945,7 @@ You might want wait and see how you are doing with Hebrew GRAMMAR Quest through 
 
 <div class="figure" style="text-align: center">
 <img src="images/00.ankinavigate.png" alt="Settings" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-119)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-120)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -23354,7 +24002,7 @@ Several of the cards have silly mnemonics.  As we borrowed and reformatted the `
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_good.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-121)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -23503,7 +24151,7 @@ function x25() {
  
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_custom.png" alt="Settings" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-122)Settings</p>
 </div>
 
 * On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
@@ -23540,7 +24188,7 @@ function x25() {
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-123)Chris Flanagan</p>
 </div>
 
 <!--chapter:end:65-abouttheauthor.Rmd-->

@@ -532,6 +532,16 @@ Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy'
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=3343){target="_blank"}
 
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Summary Lecture</figcaption>
+    <audio
+        controls controlsList="nodownload"
+        src="./images/12.unit3HQsummary.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 Start: 55:43  
 End:  58:32
 

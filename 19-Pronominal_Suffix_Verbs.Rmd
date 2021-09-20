@@ -88,7 +88,35 @@ knitr::include_graphics("images/19_Mount of Beatitudes path through olive grove,
 
 
 
-## _Hebrew Quest_ Pronominal Suffixes
+## _Hebrew Quest_ Pronominal Suffixes on Verbs
+
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/09.2.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+
 
 Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the concepts Izzy discusses will apply to both Lesson 9 and 19. Since it may have been several weeks since you viewed this previously, we encourage you to review the video before starting this lesson.
 
@@ -98,6 +126,7 @@ Although we watched this 10-minute _Hebrew Quest_ video back in Lesson 9, the co
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=2731){target="_blank"}
 
+Start: 45:31 End: 55:41
 
 ## Hebrew Direct Object Pronouns
 

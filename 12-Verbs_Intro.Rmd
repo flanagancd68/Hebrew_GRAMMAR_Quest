@@ -180,7 +180,15 @@ hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2344){target="_blank"}
-
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Introduction Lecture</figcaption>
+    <audio
+        controls src="./images/12.1.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+    
 Start: 39:04
 End: 47:26
 
@@ -719,6 +727,14 @@ View this 8-minute overview video from _Hebrew Quest_ where Izzy summarizes the 
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=827){target="_blank"}
+<figure>
+    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Stems Lecture</figcaption>
+    <audio
+        controls src="./images/12.10.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 Start: 13:47  
 End: 21:08
@@ -780,15 +796,15 @@ function setPlaySpeed25() {
     * Interestingly in English, many translations of Niphal verbs are still active voice
     * For example, a fair translation of "he was seen" might be "he appeared"
     * Parsing code: N
-3. _Piel_ - Active/intensive - “he shattered the vase”
+3. _Piel_ - Active/Cause a state (or intensive^[Whether Piel is "intensive" is a matter of debate among Hebrew scholars.] - “he shattered the vase”
     * Parsing code: D (the Piel paradigm has a Daghesh Forte in $R_2$ - the D stands for "doubling Daghesh")
-4. _Pual_ - Passive/intensive - “the vase was shattered”
+4. _Pual_ - Passive/Cause a state (or intensive) - “the vase was shattered”
     * Parsing code: Dp (passive of the Piel (D))
-5. _Hiphil_ - Active/Causative - “he caused the vase to be broken”
+5. _Hiphil_ - Active/Cause an action - “he caused the vase to be broken”
     * Parsing code: H
-6. _Hophal_ - Passive/Causative - “the vase was caused to be broken”
+6. _Hophal_ - Passive/Cause an action - “the vase was caused to be broken”
     * Parsing code: Hp (passive of the Hiphil (H))
-7. _Hitpael_ - Reflexive/Intensive - “he caused himself to be holy"
+7. _Hitpael_ - Reflexive/Cause a state (or intensive) - “he caused himself to be holy"
     * Parsing code: tD (very similar to Piel (D) and has a ת in every preformative form)
 
 We'll explain the "Parsing codes" in a few sections 
