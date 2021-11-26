@@ -339,7 +339,7 @@ function setPlaySpeed25() {
 * As you advance in Hebrew, you will enjoy seeing how the Bible authors employ the Vav at the beginning of a sentence or clause to evoke different meanings
     * For example, when added to a verb, it usually serves to continue or advance the narrative
     * When added to a non-verb, it is often those stage directions we mentioned: a contrast, a scene shift, or a parenthetical comment
-* It's safe to say, there is a LOT packed in to this little letter ו!
+* It's safe to say, there is a LOT packed in to this little letter <span class="he">ו</span>!
 
 
 ::: {.box .info}
@@ -748,7 +748,7 @@ include_graphics("images/05.def_art.png")
     * Virtual Doubling
         * <span class="he">ּ הַ</span> becomes simply <span class="he">הַ</span> (no Dagesh Forte):
         * Before SQiN eM LeVY with a Sheva
-        * Before a ח or another <span class="he">ה</span> (see הֶ note below)
+        * Before a <span class="he">ח </span>or another <span class="he">ה</span> (see <span class="he">הֶ </span> note below)
     * Compensatory Lengthening
         * Becomes <span class="he">הָ</span> (no Dagesh Forte and the Patach lengthens to Qamets):
         * Before <span class="he">א ע ר or הָ֫ </span>
@@ -1047,7 +1047,7 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/05_overheads_bw.pdf){target=“_blank”}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-05.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_05.pdf){target=“_blank”}
-*[SQiN eM Levy sheet](https://hebrewsyntax.org/bbh2new/05_sqin_em_levy.pdf){target=“_blank”}
+* [SQiN eM Levy sheet](https://hebrewsyntax.org/bbh2new/05_sqin_em_levy.pdf){target=“_blank”}
 * Additional Drills/Worksheets
     * [Quiz a](https://hebrewsyntax.org/bbh2new/05_quiz_new.pdf){target=“_blank”}
     * [Quiz b](https://hebrewsyntax.org/bbh2new/05_quiz_practice.pdf){target=“_blank”}

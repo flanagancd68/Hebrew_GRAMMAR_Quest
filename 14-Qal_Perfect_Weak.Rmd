@@ -86,7 +86,7 @@ function setPlaySpeed25() {
 
 ### <span class="he"><rtl>בָ֤אָה נַחֲלָתֵ֙נוּ֙ אֵלֵ֔ינוּ מֵעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרָֽחָה׃</rtl></span> {-}
 
-*our inheritance has fallen to us on this side of the Jordan toward the east (Numbers 32:19)*
+*Our inheritance has fallen to us on this side of the Jordan toward the east (Numbers 32:19)*
 
 Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock."  They followed their eyes, which saw profit. They took the easy path, which caused tension between the tribes. Students of history know that these lands to the east were often easily invaded. The lesson for us is to make sure we seek what the Lord wants for us and not our own desires.
 
@@ -116,8 +116,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Strong verbs always follow the קטל strong-verb paradigm we learned in Lesson 13
-    * The literal meaning of קטל is not material to our study
+* Strong verbs always follow the <span class="he">קטל</span> strong-verb paradigm we learned in Lesson 13
+    * The literal meaning of <span class="he">קטל</span> is not material to our study
     * Like a math formula, these three letters are placeholders represent any verbal root containing three strong letters
 * A weak letter behaves differently in some fashion
     * It could reject a dagesh forte, prefer a different vowel, or disappear entirely under certain situations
@@ -158,7 +158,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * This occurs in all Qal Perfect 1st and 2nd Person forms
         * NOT <span class="he">נַתַ֫נְתָּ</span>*, BUT <span class="he">נַתַ֫תָּ</span> 
         * NOT <span class="he">נָתַנְנוּ</span>*, BUT <span class="he">נַתַ֫נּוֹ</span>
-* The Dagesh mark in the 2MS ending is usually a Lene, but when preceded by נ or ת it becomes a Forte (Why?^[A Dagesh is a Forte if it is preceded by a vowel that is not a Sheva.])
+* The Dagesh mark in the 2MS ending is usually a Lene, but when preceded by <span class="he">נ</span> or <span class="he">ת</span> it becomes a Forte (Why?^[A Dagesh is a Forte if it is preceded by a vowel that is not a Sheva.])
 
 ::: {.box .info}
 DAGESH FORTE
@@ -224,12 +224,11 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * In 2G, $V_1 = \bar A$ (unless reduced in 2mp/2fp) as is diagnostic of the QP conjugation
 
 ::: {.box .light}
-To get back to the strong verb paradigm, substitute Sheva for the Hateph vowels
+To get back to the strong verb paradigm with a guttural, substitute Sheva for the Hateph vowels
 ::::
 
     
-## 3-ע/ח
-
+## 3עח
 ::: {.infobox .sound}
 <figure>
 <audio id="myAudio" controls controlsList="nodownload" src="./images/14.5.m4a">
@@ -278,7 +277,7 @@ function setPlaySpeed25() {
 * In all 3G, $V_1 = \bar A$ (unless reduced in 2mp/2fp) as is diagnostic of the QP conjugation - in other words, no matter what happens to $V_S$, you will usually be able to diagnose Qal Perfect by the regular Qamets in $V_1$
 
     
-## א-3 
+## 3א
 
 ::: {.infobox .sound}
 <figure>
@@ -321,9 +320,9 @@ function setPlaySpeed25() {
     * $V_2 = \bar A$ (Qamets) unless reduced by the perfect sufformative
     * QP2ms: NOT <span class="he">מָצַ֫אְתָּ</span>*, BUT <span class="he">מָצָ֫אתָּ</span>
     * QP3ms, the Aleph is already quiescent (CL): NOT <span class="he">מָצַא</span>*, BUT <span class="he">מָצָא</span>
-    * בגד כפת have Dagesh Lene only if not after a vowel
+    * <span class="he">בגד כפת</span> have Dagesh Lene only if not after a vowel
         * In other words, the Quiescent Aleph is ignored - it is neither a consonant, nor a vowel and does not affect syllabification
-        * Note how the 2fs forms drop the Dagesh Lene and final Silent Sheva - this is because a vowel is before the בגד כפת letter
+        * Note how the 2fs forms drop the Dagesh Lene and final Silent Sheva - this is because a vowel is before the <span class="he">בגד כפת</span> letter
         * NOT <span class="he">מָצַאְתְּ</span>*, BUT <span class="he">מָצָאת</span>
 * As mentioned, in 3G, $V_1 = \bar A$ (unless reduced in 2mp/2fp) as is diagnostic of the QP conjugation - (are you beginning to see the pattern?)
 
@@ -594,7 +593,7 @@ function setPlaySpeed25() {
 * What appears to be $R_2$ is actually an unchangeable long vowel, Holem+Vav, Shuruq, or Hireq+Yod
     * This vowel is called the __LEXICAL VOWEL__
     * It will be important to memorize the Lexical Vowel
-        * For example, NOT <span class="he">קִים</span>**, NOT <span class="he">קוֹם</span>**, BUT <span class="he">קוּם</span>
+        * For example, NOT <span class="he">*קִים</span>, NOT <span class="he">*קוֹם</span>, BUT <span class="he">קוּם</span>
     * The word with the Lexical Vowel is the Lexical Form (the version that is in the dictionary)
     * This is an exception to the rule that the Lexical Form = QP3ms
 * $V_S$ and its accent move to $V_1$ and do not reduce
@@ -670,7 +669,7 @@ function setPlaySpeed25() {
 :::
 
 1. No preformative
-2. Perfect sufformative
+2. Perfect sufformative (except 3ms)
 3. $V_1 = \bar A$ (Qamets)
     * $V_1$ will be reduced if 2mp/2fp
     * $V_1 =A$ (Patach) if Biconsonantal or Geminate 1st or 2nd Person

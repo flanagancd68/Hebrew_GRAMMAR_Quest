@@ -322,7 +322,7 @@ A general comment about the guidebook
 Lesson Itinerary | Introduction and the lesson's learning objectives | <1
 Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
 First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
-Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc. | 15-45
+Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc.  Following each lesson, there will be a `BBH Lesson Summary` available from the `Lesson Extras` pages | 15-45
  ACTIVITIES|
  `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
  `Anki`^[See [appendix](#anki_faq) for more information on Anki if you are not familiar with it.]| This is where the majority of your learning will take place.  There will be four modules to each Anki Lesson: `A. Vocab`, `B. Grammar`, `C. Workbook/Parsing`, and `D. Study Verses` | 60-180 total (Anki is meant to do a little each day as driven by the software's algorithm)
@@ -346,7 +346,6 @@ Use the `Course Checklist` to help keep you organized and do a little bit at a t
 
 Also, for those seeking additional translation practice and exposure to the Hebrew Bible, we have an OPTIONAL "Honors Track", _Hebrew Quest_ Study Passages."  These will begin with Lesson 12.  You will read through the passage, compose a translation, then watch (or re-watch) the _Hebrew Quest_ video where Izzy walks us through the passage.  There is more information on this in the Unit 3 introduction.
 
-Lastly, you might be encouraged by this article on [conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
 
 
   
@@ -520,8 +519,9 @@ We suggest using the following guidelines:
     * You do NOT need to have the passage and its meaning memorized to mark `Good`
   * Be patient and honest with yourself.  If you are unsure between `Again` and `Good,` then select `Again.`
 * `Easy`
-  * We do not recommend selecting `Easy.` 
-  * An exception might be when you are confident that you already have the word, rule, or passage memorized
+  * We recommend limiting `Easy` to those instances where you are confident that you already have the word, rule, or passage memorized
+    * If someone asked you in 60 days, would you be positive you'd remember the answer?
+  * It would be too `easy` to circumvent the learning algorhithm in Anki by clicking `Easy` instead of `Good`
 
 
 ::: {.box .info}

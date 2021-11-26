@@ -19,7 +19,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 Way back from Lesson 2 of _Hebrew Quest_, there was a vocabulary word that illustrates the Vav Consecutive: <span class="he">וּכְתְַבְתָּם</span>.
 
-The initial ו means "and", so we might want to say that this word simply means "and you wrote them." In Hebrew, the Vav Consecutive also has a grammatical purpose of changing the verb's meaning from Perfect to Imperfect.  This is true even though it is affixed to a Perfect verb, <span class="he">כָּתַבְתָּ</span> means "you (ms) wrote" (perfect), but putting a ו as prefix changes the meaning to "and you will write" (imperfect).  The opposite happens when the Vav Consecutive is affixed to an Imperfect verb: the resulting word is Perfect (past tense). Less frequently, there are times with the Vav is just a Vav and is not acting as a Consecutive.  We'll learn more about these changes in this Lesson.
+The initial ו means "and", so we might want to say that this word simply means "and you wrote them." In Hebrew, the Vav Consecutive also has a grammatical purpose of changing the verb's meaning from Perfect to Imperfect.  This is true even though it is affixed to a Perfect verb, <span class="he">כָּתַבְתָּ</span> means "you (ms) wrote them" (perfect), but putting a ו as prefix changes the meaning to "and you will write them" (imperfect).  The opposite happens when the Vav Consecutive is affixed to an Imperfect verb: the resulting word is Perfect (past tense). Less frequently, there are times with the Vav is just a Vav and is not acting as a Consecutive.  We'll learn more about these changes in this Lesson.
 
 The terminology on this topic is a bit fluid. The term "Waw Consecutive" is significantly more prevalent than "Vav Consecutive" in academic circles, so we will still encounter the "w" references frequently in Hebrew grammar materials.
 
@@ -145,7 +145,7 @@ function x25() {
 </script></figure>
 :::
 
-View this 5-minute  video from _Hebrew Quest_ Lesson 5 on the letter Vav's grammatical function as a consecutive/conversive; that is, changing an imperfect verb to perfect and a perfect verb to imperfect.  
+View this 5-minute  video from _Hebrew Quest_ Lesson 5 on the letter Vav's grammatical function as a consecutive/conversive; that is, changing an imperfect verb to perfect and a perfect verb to imperfect. 
 
 
 <div class="container">
@@ -236,7 +236,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * Often used for the next event in a future narrative
 * Usually translated as IMPERFECT
     * Future: And I will study
-    * Modal: And I would/could/should study
+    * Modal: And I would/could/should study or Let me study
     * Imperfective: And I am/was/will be studying
 * After an imperative, we usually will translate as another imperative:
     * Go _and_ _study_!

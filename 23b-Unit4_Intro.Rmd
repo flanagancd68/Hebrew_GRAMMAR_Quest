@@ -17,6 +17,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+::: {.box .light}
+Remember to download [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 1)](./images/HGQ_Anki_Unit4_V01.0.apkg){target="_blank"} if you haven't already done so
+:::
+
 Congratulations!  You now have the hardest work of a first-year Hebrew grammar course behind you.  From here on out, we will be studying the six major derived Hebrew Verb stems Niphal, Piel, Pual, Hiphil, Hophal, and Hitpael.
 
 The reason we spent so much time on the Qal stem is not only because it's the most frequently occurring stem, but everything from this point forward is based on what you learned in Unit 3.  This means, for the most part, the lessons that follow will be shorter and much more methodical.
@@ -43,6 +47,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * You will note that 12 lessons remain in the course
+    * Lesson 36 is a wrap-up
 * Each of the six derived stems will have two lessons: 
 * The first (even number) will cover the "Strong" Verb paradigm
     * The meaning of the stem

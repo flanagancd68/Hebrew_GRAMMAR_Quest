@@ -341,7 +341,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * There are 6595 ∞ in the Bible
-    * Only 896 do not have a prefixed preposition
+    * Only 896 (13.6%) do _not_ have a prefixed preposition
     * 68% have <span class="he">ל</span>
 
 ::: {.box .info}

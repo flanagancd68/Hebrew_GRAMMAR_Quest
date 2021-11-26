@@ -680,6 +680,8 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <iframe class="responsive-iframe" src="https://forms.gle/7X1tmBcU5WtGT46A7" frameborder="0"></iframe>
 </div>
 
+[Open Badge form in a new window](https://forms.gle/7X1tmBcU5WtGT46A7){target="_blank"}
+
 ## Lesson Extras {-}
 
 * [Dr. Beckman Lecture Video](http://youtu.be/IqD25wwKgWc){target=“_blank”}

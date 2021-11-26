@@ -89,7 +89,7 @@ _In the day of my trouble, I sought the Lord  (Psalms 77:3)_
 
 Meditate and celebrate that the Lord is in the midst of our problems.
 
-The בּ in <span class="he">בְּיוֹם</span> is an example of an "inseparable preposition" that means "in."  We will study various types of prepositions in this lesson.
+The  <span class="he">בּ </span> in <span class="he">בְּיוֹם</span> is an example of an "inseparable preposition" that means "in."  We will study various types of prepositions in this lesson.
 
 *****
 
@@ -189,16 +189,16 @@ knitr::include_graphics("images/06.nun-assimilation.gif")
 * One such scenario is when the nun appears with a SILENT Sheva <span class="he">נְ</span> (or no vowel at all)
 * When then nun drops, whenever possible, it will be replaced with a Dagesh Forte
 * The technical term for this is called "assimilation"
-    * So grammarians say, "the נ has assimilated into a Dagesh Forte"
+    * So grammarians say, "the  <span class="he">נ </span> has assimilated into a Dagesh Forte"
 * To get back to the original/lexical form, we would substitute the Dagesh Forte for the Nun+Sheva
 
 ::: {.box .light}
 ASSIMILATED NUN
 
-A Dagesh Forte frequently indicates an assimilated נ
+A Dagesh Forte frequently indicates an assimilated <span class="he"> נ</span>
 :::
 
-* When the Dagesh Forte is rejected, we have lost our big clue that a letter like נ has gone missing
+* When the Dagesh Forte is rejected, we have lost our big clue that a letter like  <span class="he">נ</span> has gone missing
     * We've said before that the Daghesh Forte is our friend; it alerts us that something unusual is going on
     * When the Daghesh Forte is rejected, we run the risk of missing out on something the language is trying to tell us
     * Occasionally, but not always, we will have Compensatory Lengthening to help us out
@@ -237,7 +237,7 @@ function x25() {
     * The preposition comes first, followed by its object (just like English). E.g.,  <span class="he">תַּחַת אֹתוֹ</span> (under it)
 * _Maqqef_ is a mark like the English hyphen
     * The two marks are nearly identical in meaning and appearance
-        * the Hebrew Maqqef is raised: א־בּ 
+        * the Hebrew Maqqef is raised:  <span class="he">א־בּ</span> 
         * the English hyphen is midline: a-b  
     * Like the hyphen used to join two English words, the Maqqef lets us know that two Hebrew words are closely connected grammatically
 * In a _Maqqef preposition_, the Maqqef connects a preposition to its object
@@ -291,8 +291,10 @@ function x25() {
         * <span class="he">לְמֶ֫לֶךְ</span> - To/towards a king
 
 ::: {.box .info}
+
 * A mnemonic to remember these three inseparable prepositions is "BucKLe"
 * The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning"
+
 :::
 
 * In the lexical form of these prepositions, there is a Vocal Sheva vowel under the "buckle" consonant
@@ -300,14 +302,15 @@ function x25() {
     * Before another Vocal Sheva, the preposition usually takes a Hireq
     * Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
     * Note the names of God again receive special treatment: <span class="he">לֵאלֹהִים</span> and <span class="he">לַיהוָה</span>
-:::
 
 
-* Finally, the ב and כ when they are the first letter of a word (as they usually will be), will take a Dagehsh Lene giving them the "hard" pronunciation
+* Finally, the  <span class="he">ב</span> and  <span class="he">כ</span> when they are the first letter of a word (as they usually will be), will take a Dagehsh Lene giving them the "hard" pronunciation
     * We actually saw this last lesson, but in a different context
     * It's <span class="he">בֵּן</span>, (between), but it's <span class="he">וּבֵן</span> (and between)
-        * The conjunction ו becomes a וּּ before a BuMP letter
+        * The conjunction  <span class="he">ו</span> becomes a  <span class="he">וּּ</span> before a BuMP letter
         * In this same example, you can see that <span class="he">בֵּן</span> (between) HAS the Dagesh Lene, but<span class="he">וּבֵן</span> (and between) does not and is pronounced with a "v" sound 
+        
+
 
 ## _Hebrew Quest_ Preposition with Definite Article Lecture
 
@@ -456,8 +459,8 @@ knitr::include_graphics("images/06.preposition_min.jpg")
     * <span class="he">ח</span> has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the <span class="he">מ</span> remains a Hireq
 * SQiN eM LeVY with a Sheva may reject the Dagesh
     * As we know, there will never be any Compensatory Lengthening with a SQiN eM LeVY scenario
-    * When we see מִקְ, מִיְ or Mem+Hireq followed by a SQiN eM LeVY letter and there is no Dagesh Forte, this may be a clue
-    * We should say to ourselves, "I don't see a Dagesh Forte, but that's a `SQiN eM LeVY` letter. This may still be מִן."
+    * When we see  <span class="he">מִקְ, מִיְ</span> or `Mem+Hireq followed by a SQiN eM LeVY` letter and there is no Dagesh Forte, this may be a clue
+    * We should say to ourselves, "I don't see a Dagesh Forte, but that's a `SQiN eM LeVY` letter. This may still be <span class="he"> מִן</span>."
 
 ## The Article and מִן
 
@@ -489,7 +492,7 @@ function x25() {
 
 Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is ALWAYS RETAINED with <span class="he">מִן</span>
 
-* <span class="he">מֵהָאָ֫רֶץ</sp = from the land.
+* <span class="he">מֵהָאָ֫רֶץ</span> = from the land.
 
 <!-- 6.9 -->
 ## The flexible מִן: meanings 
@@ -575,6 +578,7 @@ function x25() {
 * Spelling:
     * <span class="he">אֵת</span> (independent) 
     * <span class="he">אֶת־</span> (Maqqef)
+    * The independent spelling of the DDO tends to be pronounced the same as the Maqqef spelling (like "et" versus "ate")
 * The challenge can be that this is the same spelling as the preposition "with" 
 * As both the DDO and preposition can take pronominal suffixes, we will save a discussion of differentiating between the two words for Lesson 9 
 
@@ -667,6 +671,12 @@ How are you feeling so far?  Is any component of "the fog" refusing to dissipate
 To help with this, we've gone a little bit lighter on the Grammar cards and the Ruth Pursuit for Lesson 6.  While there are some differences, prepositions are used much the same way in Hebrew as they are in English.  There is no sense in creating a lot of busy work.
 
 We recommend using the time between now and starting Lesson 7 to get caught up and make sure the new concepts begin to take hold.  You might notice the intensity pick up with the next few lessons as we get into some ways Hebrew handles adjectives and pronouns.  Until then, enjoy learning some more of God's word with Izzy in the `Word warm-up` and `Verse warm-up`.
+
+::: {.box .info}
+
+A list of the most common prepositions is availble in the `BBH Lesson Summary` which you can access from the `Lesson Extras` page
+
+:::
 
 ### Anki {-}
 
@@ -771,7 +781,7 @@ YOUR QUEST
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/06_overheads_bw.pdf){target=“_blank”}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-06.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_06.pdf){target=“_blank”}
-*[Preposition video](http://youtu.be/byszemY8Pl8){target=“_blank”} by The Bazillions
+* [Preposition video](http://youtu.be/byszemY8Pl8){target=“_blank”} by The Bazillions
 * Additional Drills/Worksheets
     * [Quiz a](https://hebrewsyntax.org/bbh2new/06_quiz_new.pdf){target=“_blank”}
     * [Quiz b](https://hebrewsyntax.org/bbh2new/06_quiz_practice.pdf){target=“_blank”}

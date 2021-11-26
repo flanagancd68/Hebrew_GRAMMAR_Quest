@@ -533,7 +533,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ::: {.box .info}
 * In this section, we will disect words taken from the lesson's study verses, and identify the parsing code for the word (Stem, conjugation, PGN)
 * If you desire additional guided practice with parsing, Dr. Beckman usually has several pages of words that he parses in his videos.
-* Our lesson numbers correspond with his - so if you are looking for Lesson 24 practice, you can visit [his _Basics of Biblical Hebrew_ resources page](https://hebrewsyntax.org/bbh2new/) and click the video for chapter 24.  His parsing activities are usually toward the end of his lecture.
+* Our lesson numbers correspond with his - so if you are looking for Lesson 24 practice, you can visit [his _Basics of Biblical Hebrew_ resources page](https://hebrewsyntax.org/bbh2new/) and click the video for chapter 24.  His parsing activities are usually toward the end of his lecture.  See "Lesson Extras" section.
 :::
 
 * Word: <span class="he">נִכְרָֽת</span>

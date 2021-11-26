@@ -56,7 +56,7 @@ CONGRATULATIONS ON FINISHING THE FIRST TWO UNITS OF HEBREW GRAMMMAR QUEST!
 
 
 ::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} if you haven't already done so
+Remember to download [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 1)](./images/HGQ_Anki_Unit3_V01.0.apkg){target="_blank"} if you haven't already done so
 :::
 
 We wanted to let you know of some changes:
@@ -130,7 +130,7 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 * Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
 * Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
 * Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod since it is more common.], $\hat I$ = Hireq+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
-* Additionally, we have the ending Qamets+Hei = $\hat A$^[Qamets+Hei is not technically an "unchangeable long vowel", but, since as a vowel it can only occur at the end of a word, it will never reduce.], Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva (as well as the Hateph vowels) has a "hurried" pronunciation, like the _a_ in _amuse_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation transliteration value.]
+* Additionally, we have the ending Qamets+Hei = $\hat A$^[Qamets+Hei is not technically an "unchangeable long vowel", but, since as a vowel it can only occur at the end of a word, it will never reduce.], Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva (as well as the Hateph vowels) has a "hurried" pronunciation, like the _a_ in _amuse_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation or transliteration value.]
 
 :::
 
@@ -315,11 +315,12 @@ include_graphics("images/02.Gen0109.png")
         * Remember, a primary Hebrew accent can ONLY be on the LAST or SECOND-TO-LAST syllable
 * The vertical line | that can appear between two words can be ignored
 * When in doubt, listen to Izzy's audio carefully as he reads each verse to determine where the accent goes
+* In `Lesson Extras` we are including blank worksheets, without English translation, where you can practice parsing and working on your own translation before attempting the `Anki` modules
 
 ::: {.box .caution}
 Many cantillation marks look like a vowel in the wrong place
 
-* If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot above a consonant instead of inside or below) it is a cantillation mark.
+* If you see a mark that is not a vowel you recognize (such as an upside-down wishbone) or in the wrong place (such as a dot directly above a consonant instead of the upper-left, inside or below) it is a cantillation mark.
 * You already know your vowels, so don't let these marks trick you!
 :::
 

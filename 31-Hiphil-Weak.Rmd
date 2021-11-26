@@ -296,6 +296,14 @@ POTENTIAL LOOK-ALIKES
     * <span class="he">יָשִֹים</span> could either be QI3ms or HI3ms
 :::
 
+::: {.box .info}
+
+* We saw an example of a biconsonantal Hiphil way back in the Lesson 3 `Study Verses`
+* <span class="he">**הֲרִימֹ֨תִי** יָדִ֤י אֶל־יְהוָה֙ אֵ֣ל עֶלְי֔וֹן </span>
+* HP3cs רוּם  I caused to be lifted up
+
+:::
+
 ## Top 10 Hiphil Verbs
 
 1. <span class="he">בּוֺא</span> - (Q) to go in, enter, come to; (H) bring (in), come (in) (557x in the Hiphil)
@@ -354,6 +362,8 @@ Once you have completed all activities through this lesson, fill out the form be
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/gD1doxWveXuijHUF6" frameborder="0"></iframe>
 </div>
+
+[Open Badge form in a new window](https://forms.gle/gD1doxWveXuijHUF6){target="_blank"}
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Exodus 20 {-}
 

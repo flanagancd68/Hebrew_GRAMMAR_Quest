@@ -42,7 +42,7 @@ While our focus is not on writing Biblical Hebrew, we need to be able to write t
 ::: {.box .map}
 LESSON ITINERARY
 
-1. Qal is simple action, active voice; Perfect is completed action or state
+1. _Qal_ is simple action, active voice; _Perfect_ is completed action or state
 1. Components of the Qal Perfect Strong Paradigm
     1. $V_S$ is accented in Finite verbs
     1. A Sheva precedes a Finite verb sufformative 
@@ -199,14 +199,14 @@ function setPlaySpeed25() {
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
 Simple Action	| __QAL__ | Niphal | (Niphal)
-Intensive	| Piel | Pual | Hitpael
+Cause a State	| Piel | Pual | Hitpael
 Cause an Action	|Hiphil | Hophal
 
 *  Remember this table is very high-level and perhaps over-simplified; but, it is a good starting place for understanding the meaning each stem
 *  Qal is the primary Hebrew stem
 *  The other six major stems are said to be "derived" from the Qal stem, hence the name "derived stems"
 
-## The Perfect Conjugation is completed action or a state as a whole
+## The Perfect Conjugation is completed action or a state of being as a whole
 
 ::: {.infobox .sound}
 <figure>
@@ -963,7 +963,7 @@ function setPlaySpeed25() {
 knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
 ``` 
 
-1. Add the perfect sufformatives 
+1. Add the perfect sufformatives (unless 3MS)
 2. Put a Sheva before the sufformative 
     * 3fs/3cp - the Sheva can't go under $R_3$ because $R_3$ already has a vowel
         * A consonant can't have more than one vowel
@@ -974,7 +974,7 @@ knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
     * UNLESS $V_2$ is already a Sheva from step two
 5. Accent $V_S$ 
     * Exception 1 - $V_2$ is reduced/Sheva
-    * Exception 2 - there is a "heavy sufformative" that draws the accent
+    * Exception 2 - there is a "heavy sufformative" that draws the accent (2MP/2FP)
 6. $V_1 = \bar A$ (Qamets)
     * 2mp/2fp - the Qamets is then reduced to a Vocal Sheva because of propretonic reduction
 7. OPTIONAL - Add a Metheg mark to $V_1$ 3fs/3cp 
@@ -1382,6 +1382,8 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <iframe class="responsive-iframe" src="https://forms.gle/ywRYeNmuKkK441Pj9" frameborder="0"></iframe>
 </div>
 
+[Open Badge form in a new window](https://forms.gle/ywRYeNmuKkK441Pj9){target="_blank"}
+
 ## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #5-7 {-}
 
 ::: {.box .map}
@@ -1406,7 +1408,7 @@ YOUR HEBREW QUEST:
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/13_overheads_bw.pdf){target="_blank"}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-13.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_13.pdf){target=“_blank”}
-
+    * [Lesson Study Verses Parsing/Translation Worksheet](https://docs.google.com/document/d/1A7ND5PE0H1vwnSkwsfii_9ekjwxqExVlCpEqR3eTYuo/copy){target="_blank"}
 * [Paradigm PDF](https://hebrewsyntax.org/bbh2new/13_qal_perfect_strong_paradigm.pdf){target="_blank"}
 * Additional Drills/Worksheets 
     * [Quiz a](https://hebrewsyntax.org/bbh2new/13_quiz_new.pdf){target="_blank"}

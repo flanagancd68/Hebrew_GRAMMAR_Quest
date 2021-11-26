@@ -122,7 +122,7 @@ function setPlaySpeed25() {
 
 ### <span class="he">וַיֹּאמְרוּ שָׁאוֹל שָׁאַל־הָאִישׁ לָנוּ וּלְמוֹלַדְתֵּנוּ </span> {-}
 
-*This man heavily questioned us and our kindred. (Genesis 43:7)*
+*And they said, "This man heavily questioned us and our kindred." (Genesis 43:7)*
 
 In addition to offering up our petitions, let us be sure to hear God's questions.  What is He asking you (or asking of you) today?  Take a moment.
 
@@ -374,9 +374,9 @@ library(knitr)
 knitr::include_graphics("images/09.ps_sing_tbl.png")
 ```
 
-* 1CS end with י
-* 2MS/2FS end with ך
-* Not all 3M/3F have ה, but every ה is 3M/3F
+* 1CS end with <span class="he">י</span>
+* 2MS/2FS end with <span class="he">ך</span>
+* Not all 3M/3F have <span class="he">ה</span>, but every <span class="he">ה</span> is 3M/3F
 
 ## Plural Suffixes
 
@@ -419,11 +419,11 @@ library(knitr)
 knitr::include_graphics("images/09.ps_plrl_tbl.png")
 ```
 
-* 1CP ends with נוּ
-* 2MP/2FP have כ
-* Not all 3M/3F have ה, but every ה is 3M/3F
-* 2MP/3MP has ם ('monks')
-* 2FP/3FP has ן ('nuns')
+* 1CP ends with <span class="he">נוּ</span>
+* 2MP/2FP have <span class="he">כ</span>
+* Not all 3M/3F have <span class="he">ה</span>, but every <span class="he">ה</span> is 3M/3F
+* 2MP/3MP has <span class="he">ם</span> ('monks')
+* 2FP/3FP has <span class="he">ן</span> ('nuns')
 
 ## Distinguish Type 1 from Type 2
 
@@ -462,14 +462,14 @@ function setPlaySpeed25() {
 Look at the chart below with the two types side-by-side.
 
 ::: {.box .light}
-Type 2 **always** contains vowel + yod, but **not** hiriq + yod  
-Type 1 **never** contains yod, *unless* it's hiriq+yod
+Type 2 **always** contains `vowel + yod`, but **not** `hiriq + yod`  
+Type 1 **never** contains yod, *unless* it's `hiriq+yod`
 :::
 
 * This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
-* When you encounter a word with a suffix, always start by asking, "is there a vowel + yod, that is not hiriq + yod?"
+* When you encounter a word with a suffix, always start by asking, "is there a `vowel + yod`, that is not `hiriq + yod`?"
 * If yes, then we have a Type 2 suffix, which indicates the noun is plural
-    * And if Tsere + Yod then both the noun and the person are plural
+    * And if `Tsere + Yod` then both the noun and the person are plural
 
 
 ```{r, out.width = "600pt", fig.align='center'}
@@ -515,17 +515,17 @@ function setPlaySpeed25() {
 Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamiliar to you than a preposition, so we'll focus on nouns.  Below is a procedure you may follow that should help with this.  The steps for a Type 1 suffix are on this page, and the steps for Type 2 are in the next section.
 
 1. Remove the pronominal suffix
-    * With שִׁיר, we are done at step 1
+    * With <span class="he">שִׁיר</span>, we are done at step 1
 2. Remembering that type one suffixes can *only* go with SINGULAR nouns, the next step is to fix the singular ending as needed 
     * If the remaining word has a word-final <span class="he">ת</span>, it is likely feminine. Replace <span class="he">ת ַ</span> or <span class="he">ת ָ</span>  with<span class="he"> ה ָ</span> (usually)
-        * See תּוֺרָתָם as an example
-        * Note בֵּית does not have a feminine ending; we will recognize this word from our vocabulary memory
+        * See <span class="he">תּוֺרָתָם</span> as an example
+        * Note <span class="he">בֵּית</span> does not have a feminine ending; we will recognize this word from our vocabulary memory
     * If the remaining word does not end with a <span class="he">ת</span>, it is likely masculine.  Most often, masculine words are endingless, but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
-        * See שָֹדֶה, which is another word that should be memorized
-3. If there is a word-internal tsere + yod (i.e. in the middle of the word), replace with the diphthong <span class="he">יִ ַ֫</span>
-    * See word בֵּיתְךָ
+        * See <span class="he">שָֹדֶה</span>, which is another word that should be memorized
+3. If there is a word-internal `tsere+yod` (i.e. in the middle of the word), replace with the diphthong <span class="he">יִ ַ֫</span>
+    * See word <span class="he">בֵּיתְךָ</span>
 4. Change other vowels as needed according to the vowel preference table we studied several lessons ago
-    * See word דָּבָר
+    * See word <span class="he">דָּבָר</span>
  
 Here is Dr. Beckman's example of the four steps using five example words with Type 1 suffixes.  Note that words do not always need all four steps.
 
@@ -576,11 +576,11 @@ function setPlaySpeed25() {
 
 1. Remove the pronominal suffix
 2. Remove the <span class="he">וֹת</span> ending if there is one
-        * Keep in mind that the word could exhibit defective spelling as with <span class="he">שְֹדֹת</span> below
+    * Keep in mind that the word could exhibit defective spelling as with <span class="he">שְֹדֹת</span> below
 3. Add the appropriate singular ending, if needed
     * If the word ended with a <span class="he">וֹת</span>, it is Feminine. Replace with <span class="he">ה</span> ָ (usually)
     * If the remaining word does not end with <span class="he">וֹת</span>, it is likely masculine.  Most often, masculine words are endingless, but sometimes you may need to add the masculine singular ending <span class="he">ה ֶ</span>
-4. If there is a word-internal tsere + yod (i.e. in the middle of the word), replace with the diphthong <span class="he">יִ ַ֫</span>
+4. If there is a word-internal `tsere+yod` (i.e. in the middle of the word), replace with the diphthong <span class="he">יִ ַ֫</span>
 5. Change other vowels as needed according to the vowel preference table we studied several lessons ago.
 
 Here is Dr. Beckman's example of the five steps.  Note that words do not always need all five iterations.
@@ -680,7 +680,7 @@ function setPlaySpeed25() {
 * <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DDO when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
     * 3MS: <span class="he">אֹתוֹ</span>
     * 2FP: <span class="he">אֶתְכֶן</span>
-* When then author intends to communicate the preposition with, as in "with him", the א will take a Hireq in all forms
+* When then author intends to communicate the preposition with, as in "with him", the <span class="he">א</span> will take a Hireq in all forms
     * With me (1CS): <span class="he">אִתִּי</span>
     * With them (3FP): <span class="he">אִתָּן</span>
 
@@ -718,9 +718,9 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
-These two words frequently take pronouns.  It could be easy to get them confused.  The trick is to pay close attention to the vowel under the ע.
+These two words frequently take pronouns.  It could be easy to get them confused.  The trick is to pay close attention to the vowel under the <span class="he">ע</span>.
 
-* <span class="he">עִם</span> , with, will always have Ayin+Hireq, whereas <span class="he">עַם</span>, people, will always have Ayin+Patach
+* <span class="he">עִם</span> , with, will always have `Ayin+Hireq`, whereas <span class="he">עַם</span>, people, will always have Ayin+Patach
     * With Me (1CS): <span class="he">עִמִּי</span>
     * My People (1CS): <span class="he">עַמִּי</span>
     * With them (3MP):  <span class="he">עִמָּם</span>

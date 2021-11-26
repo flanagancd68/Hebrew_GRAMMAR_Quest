@@ -257,6 +257,22 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Piel Imperfect Strong Paradigm
 
+::: {.infobox .sound}
+<figure>Piel Imperfect Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls controlsList="nodownload" src="./images/26_Piel_Imperfect.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">יְקַטֵּל</span>  | 3mp | <span class="he">יְקַטְּלוּ</span> 
@@ -271,17 +287,23 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * Compare to Qal Imperfect $Pre$ of Hireq+Sheva+Holem
 * Again, note the Daghesh Forte in $R_2$
     
-<figure>
-    <figcaption>Piel Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/26_Piel_Imperfect.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 ## Piel Imperative Strong Paradigm
+
+::: {.infobox .sound}
+<figure>Piel Imperative Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls controlsList="nodownload" src="./images/26_Piel_Imperative.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -291,21 +313,27 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * As usual, the Imperative = the Imperfect without the preformative.
 * Again, a Daghesh Forte in $R_2$
 
-<figure>
-    <figcaption>Piel Imperative Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/26_Piel_Imperative.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 
 
 ## Piel Infinitives Strong Paradigm
 
+
+::: {.infobox .sound}
+<figure>Piel Infinitives Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls controlsList="nodownload" src="./images/26_Piel_infinitive.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 | Type | Paradigm 
 | :-  | :- 
@@ -314,18 +342,26 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * Same as DM2ms
 
-<figure>
-    <figcaption>Piel Infinitives Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/26_Piel_infinitive.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 ## Piel Participle Strong Paradigm
+
+
+::: {.infobox .sound}
+<figure>Piel Participle Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls controlsList="nodownload" src="./images/26_Piel_infinitive.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-

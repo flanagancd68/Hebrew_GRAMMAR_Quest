@@ -23,7 +23,7 @@ The verbal pronominal suffixes are the same suffixes we learned from Lesson 9.  
 
 The more challenging aspects can include significant spelling and accent changes.  This can result in words that are identically spelled but have different meanings.  
 
-One of the first vocabulary words in _Hebrew Quest_ was <span class="he">וּכְתְַבְתָּם</span>.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will write them).  It also has a 3mp pronominal suffix (and you will write THEM).
+One of the first vocabulary words in _Hebrew Quest_ was <span class="he">וּכְתְַבְתָּם</span>.  We mentioned in Lesson 17 how this word has the Vav Consecutive (AND you will WRITE them).  It also has a 3mp pronominal suffix (and you will write THEM).
 
 In Lesson 19, we will explore these pronominal suffixes from Lesson 9 and apply them to verbs.
 
@@ -176,6 +176,12 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * _IF_ SHEVA, _THEN_ the <span class="he">נוּ</span> is the is P1cp sufformative
         * A Sheva precedes a finite sufformative
     * _IF_ Vowel that is not a Sheva, _THEN_ <span class="he">נוּ</span> is the pronominal suffix
+    
+::: {.box .info}
+
+Review Type 1 suffixes in Chapter 9
+
+:::
 
 ## Qal Perfect Vowel and Accent Changes When a Pronominal Suffix is added
 
@@ -324,19 +330,22 @@ Most verbal pronominal suffixes in Ruth 1 are in the Qal Infinitive Construct co
 
 <!-- Lesson 19 Tribe Badge 7 = Judah -->
 
-Once you have completed <span class="he">all activities<span class="he"> through this lesson, you are eligible for your next `Twelve Tribes Badge`.  Fill out the form below!
+Once you have completed __all activities__ through this lesson, you are eligible for your next `Twelve Tribes Badge`.  Fill out the form below!
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/4Q8STELkBPRy6mEw8" frameborder="0"></iframe>
 </div>
+
+[Open Badge form in a new window](https://forms.gle/4Q8STELkBPRy6mEw8){target="_blank"}
+
 
 ## Honors Track: _Hebrew Quest_ Study Passage:  Matthew 6 {-}
 
 ::: {.box .map}
 YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/edit?usp=sharing){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
+1. Read through the passage - [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/copy){target="_blank"}
+2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}) and translating (you will need to parse verbs to translate)
 3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
 4. After the video, assess your translation.  How close was it?
 5. How did the Ruach HaKodesh speak to you through the passage?

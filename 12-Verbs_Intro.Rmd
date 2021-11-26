@@ -199,6 +199,7 @@ End: 47:26
 -Judah Monis, on the back of the title page of his Hebrew Grammar, published in 1735. 
 
 :::
+
 ## A note on the paradigm strong verb קטל
 
 ::: {.infobox .sound}
@@ -367,7 +368,7 @@ function setPlaySpeed25() {
 * Parsing can be thought of as going in the reverse direction
     * Say you encounter a verb such as "<span class="he">מָלַכְתִּי</span>"
     * In time, you will be able to determine that <span class="he">מָלַכְתִּי</span> is the QP1cs form of <span class="he">מלך</span>, and means "I ruled" or "I was king"
-* To accurately translate the Hebrew you read in Scripture, you will be doing a lot of parsing
+* To accurately translate the Hebrew you read in Scripture, you **will** be doing a lot of parsing
 
 ## Person, Gender, Number
 
@@ -604,6 +605,8 @@ function setPlaySpeed25() {
     * The preformative is <span class="he">יִ</span>
     * The sufformative is <span class="he">וּ</span>
     * The pronominal suffix is <span class="he">הָ</span>
+* The **root** for all three words is <span class="he">מלך</span>, or sometimes styled <span class="he">מ.ל.ך.</span>
+* The **lexical form** for all three is <span class="he">מָלַך</span>, which in this case, is the QP3ms of מלך
 
 ::: {.box .map}
 
@@ -660,7 +663,7 @@ function setPlaySpeed25() {
 
 * Identifying a verbal vowel's position is necessary to determine the Verbal Root and the Stem
 * Similar to our shorthand for the root consonants, we use $V_P$ (the vowel with the prefix or preformative immediately before $R_1$), $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the _stem_ vowel
-    * The $V_S$ vowel is usually the same as the $V_2$ vowel
+    * The $V_S$ vowel is usually the same as the $V_2$ vowel, but can be the $V_1$ vowel in certain situations
     * The vowel associated with $R_3$ turns out to be less important, so we do not need to identify this
 * For the verb <span class="he">יִקְטְל֫וּהָ</span>
     * $V_P = I$ (remember I is shorthand for Hireq)
@@ -738,6 +741,15 @@ View this 8-minute overview video from _Hebrew Quest_ where Izzy summarizes the 
 
 Start: 13:47  
 End: 21:08
+
+In English, using the verb "To Love":
+
+| |Active Voice| Passive Voice | Reflexive Voice
+|:- |:- |:- |:-
+Simple Action	| To Love | To Be Loved | To Love Oneself
+Cause a State	| To Love Passionately | To Be Loved Passionately | To Cause Oneself To Be Loved Passionately
+Cause an Action	| To Cause to Love | To Be Caused to Love
+
 
 ## The Seven Hebrew Verb Stems
 
@@ -1095,7 +1107,7 @@ function setPlaySpeed25() {
 * As we get into each stem, there will be separate chapters devoted to strong and week verbs
 * Therefore, it will be useful for you to know what we mean by these terms
 * Each conjugation will have a basic paradigm that prescribes vowels, accents, preformatives, and sufformatives for each PGN
-* Strong verbs will follow this paradigm, so we will call this the "strong verb paradigm"
+* Strong verbs will follow this paradigm, so we will call this the "**strong verb paradigm**"
 * Weak verbs will have one or more weak letters that result in some deviation from the paradigm
     * For example the first video by Izzy, he mentioned how the נ in <span class="he">נתן</span> can disappear in certain forms
     * This is because נ is a weak letter
@@ -1130,7 +1142,7 @@ function setPlaySpeed25() {
 </script></figure>
 :::
 
-* A weak verb has a root consonant that causes it to deviate from the strong-verb paradigm
+* A weak verb has a root consonant that causes it to deviate from the **strong-verb paradigm**
 * A verb may have one such letter that causes deviation in one stem or conjugations but not in others
     * ר is only weak in forms that try to put a Dagesh Forte in it
     * 1נ (a verb with $R_1 = נ$ ) wants to assimilate whenever it has a Silent Sheva
@@ -1170,10 +1182,10 @@ function setPlaySpeed25() {
     * 3ת, "third Tav," means that $R_3$ is ת, as in <span class="he">ברת</span>
     * 1G, "first guttural," means that $R_1$ is a guttural, as in <span class="he">אמר</span>
     * 2G, "second guttural," means that $R_2$ is a guttural, as in <span class="he">בחר</span>
-* We can't simply say "3G" for any $R_3$ guttural because it turns out that א and ה each behave differently
-    * 3עח, "third Chet/Ayin," means that $R_3$ is ע or ח, as in <span class="he">מנע</span> <span class="he">לקח</span>
-    * 3א, "third Aleph," means that $R_3$ is א, as in <span class="he">מצא</span>
-    * 3ה, "third Hei," means that $R_3$ is the vowel Qamets+Hei, as in <span class="he">בנה</span>
+    * We can't simply say "3G" for any $R_3$ guttural because it turns out that א and ה each behave differently
+        * 3עח, "third Chet/Ayin," means that $R_3$ is ע or ח, as in <span class="he">מנע</span> <span class="he">לקח</span>
+        * 3א, "third Aleph," means that $R_3$ is א, as in <span class="he">מצא</span>
+        * 3ה, "third Hei," means that $R_3$ is the vowel Qamets+Hei, as in <span class="he">בנה</span>
     * Geminate - $R_2$ = $R_3$ <span class="he">סבב</span>
     * Biconsonantal (also called Hollow) - $R_2$ is a vowel letter <span class="he">בוֹא</span> <span class="he">שִֹים</span> <span class="he">קוּם</span>
         * Biconsonantal verbs are the exception to Lexical form = QP3ms - we'll discuss in Section 14.13
@@ -1256,8 +1268,8 @@ function setPlaySpeed25() {
     * For example, consider the formula for the area of a square: $Area = S^2$ - the length of one of its sides multiplied by itself
     * Studying Hebrew the old way would require you to memorize the areas of hundreds of different squares
     * It is much simpler to memorize the formula
-        * Then when you encounter a square that has a side $S = 5$, you can use the formula: $5^2$ to get the answer of $Area = 25$
-        * If the next square you encounter has $S = 3$, you can use the same formula to get the answer $9$.
+    * Then when you encounter a square that has a side $S = 5$, you can use the formula: $5^2$ to get the answer of $Area = 25$
+    * If the next square you encounter has $S = 3$, you can use the same formula to get the answer $9$.
 * You will begin to see things in a special $formula font$ - we will use $this font$ when there are consistent patterns
     * For example, whenever you see $Pre =$, this tells you that the verb has a specific combination of prefixes/preformative letters, vowels, and possibly Dagesh Forte marks that are characteristic of that verb class
 
@@ -1420,6 +1432,7 @@ YOUR HEBREW QUEST!
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/12_overheads_bw.pdf){target="_blank"}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-12.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_12.pdf){target=“_blank”}
+    * [Lesson Study Verses Parsing/Translation Worksheet](https://docs.google.com/document/d/1NTcFPigxid8nZUUBmfWjttf2azn0Yg-JfQAD33jbuoU/copy){target="_blank"}
 * Additional Drills/Worksheets 
     * [Quiz a](https://hebrewsyntax.org/bbh2new/12_quiz_new.pdf){target="_blank"}
     * [Quiz b](https://hebrewsyntax.org/bbh2new/12_quiz_practice.pdf){target="_blank"}

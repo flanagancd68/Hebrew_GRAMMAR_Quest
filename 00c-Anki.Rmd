@@ -213,6 +213,22 @@ Anki Add-ons
 knitr::include_graphics("images/00.anki_more_stats.png")
 ```
 
+## The Fog {-}
+
+The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
+
+
+Mounce states, "The fog means you will have read a chapter and think you understand it—and perhaps you do—but it will seem foggy. That’s okay. If living in the fog becomes discouraging, look two chapters back and you should understand that chapter clearly. In two more chapters the presently foggy chapter will be clear, assuming you keep studying."
+
+Here is an article on the subject you may find encouraging: [Conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  
+
+::: {.box .light}
+Keep pressing on!
+
+* Review a chapter, do the activities, then try the Anki work
+* If Anki is proving difficult, go back and review the chapter, or perhaps view the full-length Lecture or complete the additional worksheets provided by Dr. Beckman.  You can find a link to these in `Lesson Extras`
+
+:::
 
 ## Other course information {-}
 

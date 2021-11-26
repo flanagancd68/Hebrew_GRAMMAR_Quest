@@ -269,7 +269,7 @@ function setPlaySpeed25() {
     * A noun is either singular (S), plural (P), or less frequently, dual (D)
         * Dual is precisely two of something
         * Apart from the words "pair" or "both", English doesn't have too many dual forms
-        * In Hebrew, typically paired body parts are in the dual form (eyes, ears)
+        * In Hebrew, typically paired body parts are in the dual form (eyes, ears)^[Only a limited number of words are dual.  Just because there may only be two of something does not necessarily mean we use the dual form.]
     * The number of a noun CAN change
 * A word's ending can indicate both the NUMBER and the GENDER - we will learn the endings later in this lesson
     
@@ -456,10 +456,10 @@ A noun's ending, or lack of one, indicates NUMBER and (usually) GENDER
     * MS are usually "endingless" 
         * This means, most often, there is no special identifying ending to let you know it is a masculine singular word
         * Usually the absence of a Feminine, Dual, or Plural ending is enough to let you know you are looking at an MS word
-    * Occasionally an MS noun may end in (accented) <span class="he">ה ֶ֫</span> - for example <span class="he">שָֹדֶה</span> means "field"
+    * Occasionally an MS noun may end in (accented) <span class="he">ה ֶ֫  </span> - for example <span class="he">שָֹדֶה</span> means "field"
 * Feminine Singular (FS):
     * <span class="he">תּוֹרָה</span> (the (accented) Qamets+Hei ending is most typical)
-    * Nouns that end in ($E$, $A$, $\bar A$, or $\hat U$)^[Remember this is shorthand for Tsere, Pathach, Qamets and Shurek respectively. When we say something like "Qamets+Hei, we mean a Qamets under the preceding consonant followed by ה] + <span class="he">ת</span> are _usually_ FS
+    * Nouns that end in ($E$ $A$ $\bar A$ or $\hat U$)^[Remember this is shorthand for Tsere, Pathach, Qamets and Shurek respectively. When we say something like "Qamets+Hei, we mean a Qamets under the preceding consonant followed by ה] + <span class="he">ת</span> are _usually_ FS
         * <span class="he">בַּת</span> (daughter)
         * <span class="he">תִּפְאֶ֫רֶת</span>  (glory)
         * <span class="he">בְּרִית</span> (covenant)

@@ -136,6 +136,14 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * Only one geminate consonant is preserved - where possible, a Daghesh Forte will appear in the remaining consonant
 * The Holem+Vav as connecting vowel in some forms of the Perfect is another indicator of the geminate verb
 
+::: {.box .info}
+
+* We saw an example of a biconsonantal Hophal participle back in the Lesson 3 `Study Verses`
+* <span class="he">ס֗וּס **מ֭וּכָן** לְי֣וֹם מִלְחָמָ֑ה</span>
+* HpPt כוּן to be established (prepared)
+
+:::
+
 ## Top 10 Hophal Verbs
 
 1. <span class="he">מוּת</span> - (Q) to die; (H) kill, put to death; (Hp) be killed, suffer death (69x in the Hp)

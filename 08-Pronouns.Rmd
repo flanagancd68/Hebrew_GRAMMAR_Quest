@@ -183,7 +183,7 @@ P/G | S | P
 3F  | <span class="he">הִיא ,הִוא</span> | <span class="he">הֵן ,הֵ֫נָּה</span>  
 
 * You will work on memorizing these in `Anki`
-* The 3FS form הִוא is found only in the Torah
+* The 3FS form </span class="he">הִוא</span> is found only in the Torah
 
 ::: {.box .info}
 PRONOUN TIPS
@@ -267,7 +267,7 @@ function x25() {
 * Hebrew has one general-purpose relative pronoun
 * <span class="he">אֲשֶׁר</span> is a vocabulary word for this lesson
 * This word does not inflect/the spelling never changes
-* It can refer to people (who) or things (that), subjectively (who) or objectively (whom)
+* It can refer to people (who) or things (that or which)^[As an aside, "that" vs. "which" is commonly misused in English. Saying, "my car that is brown..." implies I have more than one car and I'm talking about the one that is brown.  Saying, "my car, which is brown, ..." implies I have only one car; an incidental comment is that it happens to be brown. This is something to keep in mind when writing an English translation of <span class="he">אֲשֶׁר</span>.  See https://owl.purdue.edu/owl/general_writing/grammar/that_vs_which.html], subjectively (who) or objectively (whom)
 * <span class="he">אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה</span>
     * _These are the words *that* Moses spoke (Deuteronomy 1:1)_
 
@@ -301,7 +301,7 @@ function x25() {
 </script></figure>
 :::
 * <span class="he">מִי</span> = who
-* <span class="he">מָה</span> = wha
+* <span class="he">מָה</span> = what
     * Can also be written as Maqqef - note the vowel shortens <span class="he">מַה־</span>
 *   <span class="he">לָמָה</span> = why
     * <span class="he">אֵלִ֣י אֵ֖לִי לָמָ֣ה עֲזַבְתָּ֑נִי</span>
@@ -421,8 +421,15 @@ function x25() {
     * 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = both are <span class="he">הַ</span>
     * In these situations we will need to let context determine whether a question is being asked
 * With lots of reading practice, this will get easier
-* Additionally, the Definite Article is about **300X more common**
 
+::: {.box .map}
+
+ADDITIONAL DISTINCTIONS
+
+* Interrogative pronouns are more often on verbs, and verbs do not take the Article
+* The Article is about **300X more common**
+
+:::
 
 
 
@@ -632,7 +639,7 @@ function x25() {
     * After you finish the stack in `Anki,` we have two pronoun worksheets for you to test your memory
 * Know the gender, number, and, where necessary, the person of each pronoun
     * For learning purposes, get in the habit of providing the PGN whenever translating "you"
-        * For example, אַתֵּ֫נָה = "you" (2FP)
+        * For example, <span class="he">אַתֵּ֫נָה</span> = "you" (2FP)
 
 ::: {.box .map}
 
@@ -747,7 +754,7 @@ Identify each occurrence of the following:
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-08.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_08.pdf){target=“_blank”}
 * Paradigm PDF
-    *[Subject](https://hebrewsyntax.org/bbh2new/08_subject_paradigm.pdf){target=“_blank”}
+    * [Subject](https://hebrewsyntax.org/bbh2new/08_subject_paradigm.pdf){target=“_blank”}
     * [Demonstrative](https://hebrewsyntax.org/bbh2new/08_demonstrative_paradigm.pdf){target=“_blank”}
 * Additional Drills/Worksheets
     * [Quiz a](https://hebrewsyntax.org/bbh2new/08_quiz_new.pdf){target=“_blank”} 

@@ -38,7 +38,7 @@ function x25() {
 1. Define and identify Predicative use
 1. Determine the appropriate adjectival use in a passage
 1. Define the function of the Mappiq and differentiate it from Daghesh marks
-1. Recognize the Directional Ending and differentiate it from the vowel ה ָ
+1. Recognize the Directional Ending and differentiate it from the vowel <span class="he">ה ָ  </span>
 :::
 
 ::: {.box .stop}
@@ -47,7 +47,7 @@ EQUIPMENT CHECK
 Before continuing, can you describe the following concepts?
 
 * Inseparable prepositions with and without the definite article
-* Construction and meaning of מִן, including assimilation of the נ
+* Construction and meaning of <span class="he">מִן</span>, including assimilation of the <span class="he"> נ</span>
 
 :::
 
@@ -450,7 +450,7 @@ function x25() {
 </script></figure>
 :::
 
-* We've studied the fact that the <span class="he">ה ָ</span>  is the Feminine Singular ending
+* We've studied the fact that the <span class="he">ה ָ</span  is the Feminine Singular ending
 * We now need to refine this definition slightly: it is USUALLY the Feminine Singular ending
     * An ACCENTED <span class="he">ה ָ</span>  is the FS ending
     * However, an UNACCENTED <span class="he">ה ָ</span>  is known as a "directional ending"
@@ -491,7 +491,7 @@ function x25() {
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.rutn.m4a">
+src="./images/07.ruth.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -560,6 +560,8 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://forms.gle/u7NiyG7MzE4inxj86" frameborder="0"></iframe>
 </div>
+
+[Open Form in a new window](https://forms.gle/u7NiyG7MzE4inxj86){target="_blank"}
 
 ## Lesson Extras {-}
 

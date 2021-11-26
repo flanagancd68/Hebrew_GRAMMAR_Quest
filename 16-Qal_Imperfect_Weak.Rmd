@@ -98,7 +98,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * When $V_2$ reduces, it will be a Hateph Vowel instead of Vocal Sheva
 * Gutturals prefer Patach
-    * When NOT reduced, $V_S = A$ instead of $\bar O$ 
+    * When NOT reduced, $V_S = A$ instead of the strong QI $V_S = \bar O$ 
 
 ::: {.box .light}
 Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained
@@ -308,16 +308,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * There is a special class of  1א verbs that are irregular ONLY in the QI
 * They are given the mnemonic "angry baker":
-    * "I said אמר,
-    * I want אטה you
-    * To eat אכל what
-    * I bake אפה, or
-    * I _may_ seize אחז you^["MAY seize" here is intentional. Sometimes אחז is regular and sometimes it is "angry."], and you
+    * "I said <span class="he">אמר</span>,
+    * I want <span class="he">אטה</span> you
+    * To eat <span class="he">אכל</span> what
+    * I bake <span class="he">אפה</span>, or
+    * I _may_ seize <span class="he">אחז</span> you^["MAY seize" here is intentional. Sometimes אחז is regular and sometimes it is "angry."], and you
     * will perish אבד."
 * $V_P = O$ and the א in $R_1$ is quiescent  (usually $V_S = A$)
     * QI1cs: NOT <span class="he">אֹא</span>, BUT <span class="he">אֹ</span>
 * Although only a few verbs undergo this change, these verbs frequently appear in the Bible
-    * אמר occurs 2,973 times
+    * <span class="he">אמר</span> occurs 2,973 times
 
 
 |  | Reg. 1א | Angry 1א | Strong 
@@ -327,8 +327,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 3mp | <span class="he">יַאַסְפוּ</span> | <span class="he">יֹאמְרוּ</span> | <span class="he">יִקְטְלוּ</span>
 
 ::: {.box .info}
-* You saw this already with an earlier `Ruth Pursuit`.  וַתֹּאמֶר is an "angry baker" verb.
-* When prefixed with the Vav Consecutive (Lesson 17), the penult is usually accented (וַיֹּ֣אמֶר is not va-yo-MER, but va-YO-mer)
+* You saw this already with an earlier `Ruth Pursuit`.  <span class="he">וַתֹּאמֶר</span> is an "angry baker" verb.
+* When prefixed with the Vav Consecutive (Lesson 17), the penult is usually accented (<span class="he">וַיֹּ֣אמֶר</span> is not va-yo-MER, but va-YO-mer)
 :::
 
 ## Geminate
@@ -405,7 +405,7 @@ The retention of the Lexical Vowel, $V_P = \bar A$ and the Imperfect preformativ
 | 3ms | <span class="he">יָקוּם</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יָק֫וּמוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-## 1-Yod 
+## 1י
 
 
 ::: {.infobox .sound}
@@ -424,7 +424,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-* ALWAYS drops 1-yod $R_1$
+* ALWAYS drops <span class="he">י</span> when it is $R_1$
     * $V_P =\bar E$ or $V_P = \hat I$ (Hireq+Yod) - not the consonant Yod but the vowel letter
     * $V_S = \bar E$ or $V_S = A$
     * See examples
@@ -440,7 +440,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-## הלך 
+## הלך behaves as 1י
 
 
 ::: {.infobox .sound}
@@ -459,7 +459,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-* הלך is an irregular verb that acts like 1-Yod in the Qal Imperfect
+* <span class="he">הלך</span> is an irregular verb that acts like 1י in the Qal Imperfect
 * The ה drops and $V_P = \bar E$
 * $V_S = \bar E (A)$
     * The (A) means in the Feminine Plural forms, we will see Patach instead of Tsere
@@ -512,8 +512,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* If guttural or Resh after the נ, the נ usually remains
-* Dagesh Forte in $R_2$ when נ assimilates
+* If guttural or Resh after the <span class="he">נ</span>, the <span class="he">נ</span> usually remains
+* Dagesh Forte in $R_2$ when <span class="he">נ</span> assimilates
     * SQiN eM LeVY + Sheva may drop the Dagesh
 
 ::: {.box .info}
@@ -525,7 +525,7 @@ To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="
 | 3ms | <span class="he">יִפֹּל</span> | <span class="he">יִקְטֹל</span>
 | 3mp | <span class="he">יִפְּלוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-## לקח
+## לקח behaves as 1נ
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.14.m4a">
@@ -610,7 +610,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">יִפֹּל</span> |  <span class="he">יִתֵּן</span> | <span class="he">יִקְטֹל</span>
 | 3mp | <span class="he">יִפְּלוּ</span> |  <span class="he">יִתְּנוּ</span> | <span class="he">יִקְטְלוּ</span>
-| 3fp | <span class="he">תִּפֹּ֫לְנָה</span> | <span class="he">תִּתֵּ֫נָּה</span> | <span class="he">תִּקְטְלוּ</span>
+| 3fp | <span class="he">תִּפֹּ֫לְנָה</span> | <span class="he">תִּתֵּ֫נָּה</span> | <span class="he">תִּקְטֹ֫לְנָה</span>
 
 
 ## ראה vs. ירא
@@ -631,10 +631,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* ירא is 1-yod and 3-aleph
+* <span class="he">ירא</span> is 1-yod and 3-aleph
     * $V_P = \hat I$ like 1י
     * 3א quiesces with Sheva (FP forms)
-* ראה is  2-guttural and 3-hei
+* <span class="he">ראה</span> is  2-guttural and 3-hei
     * Follows normal 3ה patterns - no $R_3$
 
 |  | ראה | ירא | Strong 
@@ -662,7 +662,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 This is the densest chapter in _Basics of Biblical Hebrew_ yet also one of the most important.  
 
-Once you get comfortable with this chapter's changes, the rest of the course WILL get easier.
+Once you get comfortable with this chapter's changes, the rest of the course WILL get easier. 
 
 Our goal was to give you enough of an overview to get you started on the Anki exercises. Take your time working through `Anki`, and be sure you keep up with your reviews each day.  What may seem foggy now will begin to make sense soon!  
 
@@ -729,6 +729,8 @@ Once you have completed **all activities** through this lesson, you can fill out
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/y2JPkZAxVGEsmACr6" frameborder="0"></iframe>
 </div>
+
+[Open Badge form in a new window](https://forms.gle/y2JPkZAxVGEsmACr6){target="_blank"}
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
 

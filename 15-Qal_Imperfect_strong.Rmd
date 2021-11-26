@@ -17,7 +17,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 > To comprehend Biblical Hebrew, we must be able to parse and translate Qal imperfect verbs
 
-In a few lessons, we will learn about the Vav Conjunction.  The Qal imperfect + Vav Conjunction (abbreviated QIwc)^[The nomenclature comes from academia where the Vav is pronounced Waw] is the most frequent verb form in the Hebrew Bible, so understanding the imperfect is essential.  Like the Qal Perfect Strong paradigm, we must have a robotic-like recall of the Qal Imperfect Strong Paradigm.
+In a few lessons, we will learn about the Vav Conjunction.  The Qal imperfect + Vav Conjunction (abbreviated QIwc)^[The nomenclature comes from academia where the Vav is pronounced Waw] is one of the most frequent verb forms in the Hebrew Bible, so understanding the imperfect is essential.  Like the Qal Perfect Strong paradigm, we must have a robotic-like recall of the Qal Imperfect Strong Paradigm.
 
 <span class="he">וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר׃</span>
 
@@ -134,7 +134,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * The Imperfect has many potential translations
-* If you don't have any context, translate Imperfect as future
+* If you don't have any context then translate Imperfect as future
 * In context, watch to see whether the imperfect verb begins a clause as this is a clue
 * When the Imperfect does not begin a clause: future, "I will run", or imperfective, "I am running" or "I was running"
 * When the Imperfect begins a clause and does not have a Vav Consecutive prefix, the use is what is called _modal_.  We'll study modal forms in Lesson 18.
@@ -244,7 +244,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * The <span class="he">ְ תִּ</span> preformative with the <span class="he">י ִ</span> sufformative is diagnostic of the QI2fs
 * Of the plural forms, only 1cp does NOT have a sufformative
     * 2mp/3mp sufformative - <span class="he">וּ</span>
-        * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>^[ The ן sometimes causes the shuruk to shorten to a Qubbutz. In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp]
+        * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>^[ The ן sometimes causes the Shuruk to shorten to a Qubbuts. In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp]
         * You will be able to tell 2mp from 3mp by the preformative
     * 2fp/3fp sufformative - <span class="he">נָה</span>
         * You'll note that QI2fp and QI3fp are identical.   
@@ -448,7 +448,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 ::: 
 
-* The Qal Imperfect is a critically important form in the Bible so way to go for getting through this lesson
+* The Qal Imperfect is a critically important form in the Bible, so way to go for getting through this lesson
 * As we said in the intro to Lesson 14, weak verbs are much more common than strong verbs; this is true for Imperfect as well as perfect
 * The authors of _Basics of Biblical Hebrew_ believe Lesson 16 is the high water mark of the course
 * Once you master the material in the next lesson, many students find that the rest of the course fits together nicely

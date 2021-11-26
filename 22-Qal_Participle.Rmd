@@ -440,6 +440,7 @@ Once you have completed all activities through this lesson, complete the form be
 <iframe class="responsive-iframe" src="https://forms.gle/ncXmf7QRuoYCL3hz8" frameborder="0"></iframe>
 </div>
 
+[Open Badge form in a new window](https://forms.gle/ncXmf7QRuoYCL3hz8){target="_blank"}
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Matthew 13 {-}
 

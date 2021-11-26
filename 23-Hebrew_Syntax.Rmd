@@ -260,7 +260,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-A conditional phrase is made up of two clauses.  You might want to think of this as an "if-then" statement.  The first gives the "if" condition, and the second states the "then" consequence if the condition is met<small>^[<small>The technical term for the first statement is the _protasis_, and the second statement is called the _apodosis_.</small>]</small> 
+A conditional phrase is made up of two clauses.  You might want to think of this as an "if-then" statement.  The first gives the "if" condition, and the second states the "then" consequence if the condition is met^[The technical term for the first statement is the _protasis_, and the second statement is called the _apodosis_.] 
 
 * <span class="he">וַיֹּאמֶר אֵלֶיהָ בָּרָק *אִם*־תֵּלְכִי עִמִּי *וְהָלָכְתִּי* *וְאִם*־לֹא תֵלְכִי עִמִּי לֹא אֵלֵךְ</span>
     * <figure><figcaption>Then Barak said to her, "*If* you will go with me, *then I will go*; but *if* you will not go with me, (*then*) I will not go." (Judg 4:8)</figcaption> <audio controls controlsList="nodownload" src="./images/23Judg0408.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
@@ -381,17 +381,17 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ::: {.box .map} 
 
-There is no formal quest for this lesson but consider the following points based on the material in Lesson 23<small>^[<small>These concepts are contained in the book, [_A Workbook for Intermediate Hebrew: Grammar, Exegesis, and Commentary on Jonah and Ruth_](https://www.amazon.com/gp/product/0825423902/&tag=holylanginst-20), by Robert B. Chisolm</small>]</small> :
+There is no formal quest for this lesson but consider the following points based on the material in Lesson 23^[These concepts are contained in the book, [_A Workbook for Intermediate Hebrew: Grammar, Exegesis, and Commentary on Jonah and Ruth_](https://www.amazon.com/gp/product/0825423902/&tag=holylanginst-20), by Robert B. Chisolm] :
 
 * Note the Disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is providing supplemental background information. 
 * The Conjunctive Vav in Ruth 1:7 serves to begin a more detailed, focused narrative account of Naomi's return
 * Note how the Disjunctive Vav in the final clause of 1:14 - Vav + non-verb (subject) + predicate - introduces a CONTRAST of Ruth's attitude of clinging, signaling deep loyalty and attachment to Naomi (see the דבק + בְּ note in Lesson 13 answer key), compared to Orpah's goodbye kiss
-* In 1:16, כִּי introduces a subordinate clause that has an explanatory function.  "Ruth tells Naomi to stop urging her to go back because she has determined that she will follow Naomi wherever her mother-in-law goes."<small>^[<small>Chisholm. _A Workbook for Intermediate Hebrew_, page 286.</small>]</small>
+* In 1:16, כִּי introduces a subordinate clause that has an explanatory function.  "Ruth tells Naomi to stop urging her to go back because she has determined that she will follow Naomi wherever her mother-in-law goes."^[Chisholm. _A Workbook for Intermediate Hebrew_, page 286.]
 * 1:17 has what some scholars refer to as an "oath formula".  <span class="he">כֹּה</span> gives the punishment for breaking the promise, and <span class="he">כִּי</span> gives the condition. The specifics appear to be implied rather than stated. This makes a literal translation awkward.  At the same time, any other translation becomes somewhat speculative and dependent on what the translator believes is the context.  NET renders the first clause as "The LORD will punish me severely."
     * Other oaths of this type appear in 1 Samuel 14:44, 1 Samuel 20:13, 2 Samuel 3:9, 1 Kings 2:23, and 1 Kings 19:2
 * In 1:20, כִּי introduces a subordinate clause that has an explanatory function. Naomi is elaborating on why she wants a new name.
 * We have noted that most Hebrew clauses begin with a verb, but 1:21 begins with "I".  Naomi is drawing attention to her condition: full when she left, but now returning empty.  Curiously, Ruth evidently counts for nothing.  Naomi's attitude will definitely change by the end of the book!
-    * Also, note in 1:21 the Disjunctive Vav clauses, "And Adonai" followed by "And Shaddai."  Chisholm notes that the use may be "semi-poetic": "Adonai has testified about me; Shaddai has afflicted me"<small>^[<small>ibid. p. 133</small>]</small>.
+    * Also, note in 1:21 the Disjunctive Vav clauses, "And Adonai" followed by "And Shaddai."  Chisholm notes that the use may be "semi-poetic": "Adonai has testified about me; Shaddai has afflicted me"^[ibid. p. 133].
 * Finally, the Iwc in 1:22 begins a summarizing, concluding statement bringing the "first act" of the drama to a close.
 
 :::
