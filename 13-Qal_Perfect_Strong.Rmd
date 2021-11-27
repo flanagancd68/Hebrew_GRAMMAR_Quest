@@ -103,7 +103,7 @@ function setPlaySpeed25() {
 
 <span class="he">שָׁמַר</span> means to guard or keep, in the sense of obeying.  It is a verb that frequently occurs in the Hebrew Bible. 
 
-In <span class="he">לֹא־שָׁמְרוּ</span>, the word לֹא serves to negate the verb it precedes.  Literally, this might be "not they kept", but we would say "they did not keep" in English.
+In <span class="he">לֹא־שָׁמְרוּ</span>, the word <span class="he">לֹא</span> serves to negate the verb it precedes.  Literally, this might be "not they kept", but we would say "they did not keep" in English.
 
 Every day, and frequently throughout each day, we have two choices.  We can keep His word, or we can ignore His word.  
 
@@ -399,7 +399,7 @@ function setPlaySpeed25() {
 :::
 1. Add perfect sufformative
 2. Put a Sheva before the sufformative
-3. Add a Daghesh Lene to ת , since it is a בגד כפת letter, when it follows a Sheva
+3. Add a Daghesh Lene to <span class="he">ת</span> , since it is a <span class="he">בגד כפת</span> letter, when it follows a Sheva
 4. \(V_S = A\) (Patach) in the Qal Perfect Strong paradigm
 5. Accent $V_S$, if possible
 6. $V _1 = \bar A$ in the Qal Perfect Strong Paradigm
@@ -517,7 +517,7 @@ function setPlaySpeed25() {
 * Take a look at the Qal Perfect Paradigm table again and note how there is a sheva next to the sufformative
 * 3MS has no sufformative so it has no sheva
 * 3CP and 3FS looks a little different because those sufformatives both start with a vowel
-    * The ל already has an associated vowel, Shureq (3CP)and Qamets+Hei (3FS)
+    * The <span class="he">ל</span> already has an associated vowel, Shureq (3CP)and Qamets+Hei (3FS)
     * A consonant cannot have more than one vowel
     * For these two PGN forms, since the Sheva can't go under $R_3$, it shifts to $R_2$ (and displaces the Patach in $V_2$)
     
@@ -531,7 +531,7 @@ The Sheva is rejected in the following circumstances:
 
 * A Sheva does not replace an unchangeable long vowel
 * A Sheva does not replace $V_1$ of the Qal Perfect (and only the Qal Perfect)
-* When $R_3$ is <span class="he">א</span>, the א quiesces (generally resulting in Compensatory Lengthening of $V_2$)
+* When $R_3$ is <span class="he">א</span>, the <span class="he">א</span> quiesces (generally resulting in Compensatory Lengthening of $V_2$)
 
 The Sheva may either be silent or vocal, depending on the rules we learned in Lesson 3
 :::
@@ -573,8 +573,8 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Whenever there is a  בגדכפת letter following a Sheva, that letter will usually take a Daghesh Lene
-* Because of Step 2, when we added the sheva, we must add a Daghesh Lene to the sufformatives that have a ת
+* Whenever there is a  <span class="he">בגד כפת</span> letter following a Sheva, that letter will usually take a Daghesh Lene
+* Because of Step 2, when we added the sheva, we must add a Daghesh Lene to the sufformatives that have a <span class="he">ת</span>
 * Look again at our table of sufformatives and note the 2nd person forms as well as 1CS
 ```{r, out.width = "700pt", fig.align='center'}
 
@@ -858,11 +858,13 @@ function setPlaySpeed25() {
 * We will call this diagnostic sequence "$Pre$"
     * Saying "diagnostic word-initial sequence of consonants and vowels" would get tiresome!
 * For Qal Perfect (QP), $Pre =$ <span class="he">קָ</span>
-    * ק represents any strong letter in $R_1$ 
+    * <span class="he">ק</span> represents any strong letter as $R_1$ in a strong verb
     * This means the distinctive word-initial sequence of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
     
 ::: {.box .map}
-Qal Perfect Strong $Pre =$ <span class="he">קָ</span>
+* Qal Perfect Strong $Pre =$ <span class="he">קָ</span>
+* In other words, when a strong verb has no prefix/preformative, $R_1$ is any strong letter, AND $V_1 = \bar A$ (Qamets), it is nearly always a Qal Perfect conjugation
+* We will discuss weak letter deviations and how to work our way back to the strong verb paradigm in the next lesson
 :::
 
 ## Step 7: OPTIONAL - Add a Metheg mark to $V_1$ 3FS and 3CP 
@@ -912,7 +914,7 @@ knitr::include_graphics("images/13.qptablev1.png")
 
 ::: {.box .caution}
 * Most Hebrew Bibles do not employ a Metheg
-* The vertical line you will see is an accent/cantillation mark
+* The vertical line you may see in a Tanak is an accent/cantillation mark
 :::
 
 
@@ -968,7 +970,7 @@ knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
     * 3fs/3cp - the Sheva can't go under $R_3$ because $R_3$ already has a vowel
         * A consonant can't have more than one vowel
         * For these forms, the Sheva goes under $R_2$
-3. Add Dagesh Lene to תּ that comes after any Sheva (as we would need to do for any בגד כפת letter)
+3. Add Dagesh Lene to <span class="he">תּ</span> that comes after any Sheva (as we would need to do for any <span class="he">בגד כפת</span> letter)
     * all 2nd person forms and 1cs
 4. $V_S = A$ (Patach) in the Qal Perfect Strong paradigm
     * UNLESS $V_2$ is already a Sheva from step two
@@ -1132,11 +1134,11 @@ function setPlaySpeed25() {
 * <span class="he">יָדַ֥ע</span>
     * <span class="he">י</span> is an extremely common preformative consonant (but we haven't learned any preformatives yet)
     * This is why we also spend time on vocabulary - in this case, we will learn to recognize <span class="he">ידע</span> as a three-letter root
-    * We remember that for the Qal Perfect, the $Pre$ combination <span class="he">קָ</span> (where ק is $R_1$ of any strong verb)
+    * We remember that for the Qal Perfect, the $Pre$ combination <span class="he">קָ</span> (where <span class="he">ק</span> is $R_1$ of any strong verb)
     * In <span class="he">יָדַ֥ע</span> , the $Pre$ combination is <span class="he">שָׁ</span>, so that fits Qal Perfect!
     * This word has no sufformative, which indicated 3MS
     * Based on this alone, we are almost assured this is QP3MS 
-        * The lack of a preformative and a sufformative could be other Qal conjugations
+        * The lack of a preformative and a sufformative *could* be other Qal conjugations
             * The other conjugations will have different vowels
             * $V_1 = \bar A$ is diagnostic of Qal Perfect
         * Let's look for an additional confirmation
@@ -1149,12 +1151,12 @@ function setPlaySpeed25() {
 * <span class="he">שָׁמְר֤וּ</span>
     * $Pre =$ <span class="he">קָ</span> is diagnostic of Qal stem
     * <span class="he">שָׁמְר֤וּ</span> has <span class="he">שָׁ</span>
-    * וּ perfect sufformative = $P3cp$ conjugation
+    * <span class="he">וּ</span> perfect sufformative = $P3cp$ conjugation
     * In <span class="he">שָׁמְר֤וּ</span>, $V_2 = ə$
         * We're typically expecting $V_S = A$ in the Qal
         * We know one of our rules is that the Perfect sufformative is preceded by a Sheva, but in the P3cp (and P3fs), the Sheva of the sufformative displaces $V_2$
     * If we know our vocab, we also understand that the Lexical form is <span class="he">שָׁמַר</span>.
-    * שָׁמְר֤וּ is Qal Perfect 3cp (QP3cp) - they guarded/observed/kept
+    * <span class="he">שָׁמְר֤וּ</span> is Qal Perfect 3cp (QP3cp) - they guarded/observed/kept/watched over
 
 ::: {.box .map}
 NAVIGATION TIP
@@ -1166,7 +1168,7 @@ NAVIGATION TIP
 
 :::
 
-## Deviations from the Paradigm
+## Weak Verbs are Deviations from the Strong Verb Paradigm
 
 ::: {.infobox .sound}
 <figure>
@@ -1206,13 +1208,15 @@ function setPlaySpeed25() {
 
 * As we talked about in Lesson 12, what makes a verb "weak" versus "strong" is when one or more letters cause a deviation from the strong verb paradigm
 * While the bulk of the discussion on weak verbs will be in Lesson 14, there are three weak forms we will introduce in this lesson: 
-    * Words where $R_3$ = <span class="he">נ</span>, which we abbreviate as  or sometimes III-נ (pronounced as, "third nun")
-    * Words where $R_3$ = <span class="he">ת</span>, called  or 3ת
-    * Stative verbs where $V_2 \not = A$
+    * Words where $R_3$ = <span class="he">נ</span>, which we abbreviate as  or sometimes "3נ" (pronounced as, "third nun")
+    * Words where $R_3$ = <span class="he">ת</span>, are "3ת"
+* Additionally, there is a class called "Stative verbs" that describe a state of being as opposed to an action
+    * In Hebrew, stative verbs are not necessarily considers "weak" unless they have a weak letter
+    * Nonetheless, in the Qal stem, since stative verbs have $V_2 \not = A$, they do represent deviations from the strong verb paradigm; as such, they warrant additional discussion
 
-> In most cases, you already know the behaviors of "weak" letters!  
+> As we said in the last lesson, in most cases, you already know the behaviors of "weak" letters!  
 
-While "stative" verbs may be a new concept, we have already discussed the tendency of ת and נ to assimilate under certain circumstances.  This is what happens when we encounter 3ת and 3נ verbs.
+While "stative" verbs may be a new concept, we have already discussed the tendency of <span class="he">ת</span> and <span class="he">נ</span> to assimilate under certain circumstances.  This is what happens when we encounter 3ת and 3נ verbs.
 
 ## 3נ and 3ת Verbs
 ::: {.infobox .sound}
@@ -1252,15 +1256,15 @@ function setPlaySpeed25() {
 
 
 * We mentioned above how a Sheva will be placed before a Finite sufformative (if possible)
-* When ת and נ have a Silent Sheva, each may assimilate depending on the letter that follows
+* When <span class="he">ת</span> and <span class="he">נ</span> have a Silent Sheva, each may assimilate depending on the letter that follows
     * In other words, the verb will lose $R_3$ and a Daghesh Forte will be placed into the first letter of the sufformative
-    * An $R_3$ of ת with a Silent Sheva will only assimilate when the sufformative begins with ת
+    * An $R_3$ of <span class="he">ת</span> with a Silent Sheva will only assimilate when the sufformative begins with ת
         * Not <span class="he">כָּרַ֫תְתָּ</span>*<small>^[<small>Remember, the * means the Hebrew word is an impossibility, but is shown for illustrative purposes</small>]</small> but <span class="he">כָּרַ֫תָּ</span>
         * Not <span class="he">כְּרַתְתֶּם</span>*, but <span class="he">כְּרַתֶּ֫ם</span>
-        * IMPORTANT: Note how the Daghesh in the ת shifts from a Lene to a Forte (because the Daghesh is now preceded by a vowel that is not a Sheva)
+        * IMPORTANT: Note how the Daghesh in the <span class="he">ת</span> shifts from a Lene to a Forte (because the Daghesh is now preceded by a vowel that is not a Sheva)
             * This is your cue that something has changed, usually that a letter is missing
-            * In theory, the root could be either <span class="he">כרן</span> or <span class="he">כרת</span>, but you already know כרת from your vocabulary work (and there is no verb root <span class="he">כרן)
-    * An $R_3$ of נ with a Silent Sheva will tend to assimilate to either נ or ת
+            * In theory, the root could be either <span class="he">כרן</span> or <span class="he">כרת</span>, but you already know <span class="he">כרת</span> from your vocabulary work (and there is no verb root <span class="he">כרן</span>)
+    * An $R_3$ of <span class="he">נ</span> with a Silent Sheva will tend to assimilate to either <span class="he">נ</span> or <span class="he">ת</span>
         * <span class="he">נַתַן</span> is an extremely common 3נ verb meaning "to give"
         * Not <span class="he">נָתַ֫נְנוּ</span>*, but <span class="he">נָתַ֫נּוּ</span>
         * Not <span class="he">נָתַ֫נְתָּ</span>*, but <span class="he">נָתַ֫תָּ</span>
@@ -1315,7 +1319,7 @@ function setPlaySpeed25() {
         * Holem Statives are relatively rare and do not even appear in the Bible as P2fs or any of the plural forms other than P1cp
         * <span class="he">יַכֹ֫ל</span> = "he is able to" or "he can"
         * <span class="he">קָטֹ֫נְתִּי</span> = "I am small"
-            * Note the נְ DOES NOT assimilate - Hebrew likes to keep you guessing!
+            * Note the <span class="he">נְ</span> DOES NOT assimilate - Hebrew likes to keep you guessing!
 
 
 ## Word Warm-up {-}
@@ -1378,11 +1382,11 @@ YOUR QUEST:
 
 When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
+[Open Badge form in a new window](https://forms.gle/ywRYeNmuKkK441Pj9){target="_blank"}
+
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ywRYeNmuKkK441Pj9" frameborder="0"></iframe>
 </div>
-
-[Open Badge form in a new window](https://forms.gle/ywRYeNmuKkK441Pj9){target="_blank"}
 
 ## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #5-7 {-}
 
@@ -1408,7 +1412,6 @@ YOUR HEBREW QUEST:
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/13_overheads_bw.pdf){target="_blank"}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-13.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_13.pdf){target=“_blank”}
-    * [Lesson Study Verses Parsing/Translation Worksheet](https://docs.google.com/document/d/1A7ND5PE0H1vwnSkwsfii_9ekjwxqExVlCpEqR3eTYuo/copy){target="_blank"}
 * [Paradigm PDF](https://hebrewsyntax.org/bbh2new/13_qal_perfect_strong_paradigm.pdf){target="_blank"}
 * Additional Drills/Worksheets 
     * [Quiz a](https://hebrewsyntax.org/bbh2new/13_quiz_new.pdf){target="_blank"}

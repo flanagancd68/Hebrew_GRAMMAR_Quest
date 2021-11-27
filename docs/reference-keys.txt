@@ -193,7 +193,7 @@ finite-vs.-non-finite-conjugations
 parsing
 parsing-codes
 strong-and-weak-verbs
-weak-verbs
+weak-verbs-contain-at-least-one-weak-letter
 weak-class
 weak-verbs-are-usually-predictable
 hebrew-grammar-quest-is-a-quest-for-recognition-not-recall
@@ -214,7 +214,7 @@ step-7-optional---add-a-metheg-mark-to-v_1-3fs-and-3cp
 building-the-qal-perfect-strong-paradigm
 memorize-the-qal-perfect-strong-paradigm
 qal-perfect-strong-examples
-deviations-from-the-paradigm
+weak-verbs-are-deviations-from-the-strong-verb-paradigm
 נ-and-3ת-verbs
 stative-verbs-may-have-a-different-v_s
 qal-perfect---weak

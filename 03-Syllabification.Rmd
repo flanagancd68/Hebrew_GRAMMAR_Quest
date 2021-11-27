@@ -1027,6 +1027,7 @@ Then after watching these, go ahead and jump into `Anki`.
 ::: {.box .info}
 * Your vocabulary and understanding will grow if you COPY each of the `study verses` by hand
 * A PDF of the verses is contained in the `Lesson Extras` folder - note this is provided by the authors of _Basics of Biblical Hebrew_ and not Holy Language Institute
+* Note that not every verse in the Verse Warm-up activities will be included in the `Anki Study Verses` deck
 
 :::
 
