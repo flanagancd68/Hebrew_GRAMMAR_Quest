@@ -243,7 +243,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * QI3fp/QI2fp - $\nexists$
 
 
-|  | QI | QI + Pron.
+|  | QI | QI + Pron.*
 | :- | :- | :-
 | 3ms | <span class="he">יִקְטֹל</span> | <span class="he">יִקְטְל</span>
 | 3fs | <span class="he">תִּקְטֹל</span> | <span class="he">תִּקְטְל</span>
@@ -281,7 +281,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * QM2ms is Qamets Hatuf + Silent Sheva
 * QM2fs/QM2fp - $\nexists$
 
-|  | QM | QM + Pron.
+|  | QM | QM + Pron.*
 | :- | :- | :-
 | 2ms | <span class="he">קְטֹל</span> | <span class="he">קָטְל</span>
 | 2mp | <span class="he">קִטְלוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
@@ -332,25 +332,25 @@ Most verbal pronominal suffixes in Ruth 1 are in the Qal Infinitive Construct co
 
 Once you have completed __all activities__ through this lesson, you are eligible for your next `Twelve Tribes Badge`.  Fill out the form below!
 
+[Open Badge form in a new window](https://forms.gle/4Q8STELkBPRy6mEw8){target="_blank"}
+
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/4Q8STELkBPRy6mEw8" frameborder="0"></iframe>
 </div>
 
-[Open Badge form in a new window](https://forms.gle/4Q8STELkBPRy6mEw8){target="_blank"}
 
 
 ## Honors Track: _Hebrew Quest_ Study Passage:  Matthew 6 {-}
 
-::: {.box .map}
-YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}) and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
+| *Revise* | Refine your translation using any reliable English Bible version
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
 
-:::
 
 ## Lesson Extras {-}
 

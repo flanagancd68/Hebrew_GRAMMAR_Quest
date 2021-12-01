@@ -37,10 +37,10 @@ Additionally, please do not hesitate to report any errors, omissions, or improve
 
 :::
 
+[Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
+
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdWJc7ri0andmyu70D1USeDRtbsrHLaYLNrs0rvI2qBJx-yEg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-
-[Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
 

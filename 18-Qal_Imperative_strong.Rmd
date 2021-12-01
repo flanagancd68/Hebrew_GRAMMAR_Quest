@@ -168,11 +168,13 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Negative commands never use the imperative
-* לֹא + imperfect
+* <span class="he">לֹא</span> + imperfect
     * An absolute, permanent, blanket prohibition
+    * <span class="he">לֹ֥֖א תִּֿרְצָֽ֖ח</span>
     * You shall not murder (Ex 20:13)
-* אַל + jussive or cohortative
+* <span class="he">אַל</span> + jussive or cohortative
     * An immediate, circumstance-specific prohibition
+    * <span class="he">אַל־תִּשְׁמְע֨וּ אֶל־נְבִיאֵיכֶ֜ם</span>
     * "Do not listen to your prophets!" (Jer 27:9)
     * In this context, Jeremiah is prohibiting the people from listening to FALSE, misguided prophets, not a blanket prohibition of ANY and ALL prophets
     * 2nd person jussives are used for negative commands
@@ -259,7 +261,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * Scholars debate what this means or whether it means anything
     * "Please" or "now" have been suggested ("prithee" in KJV)
     * <span class="he">וַיֹּ֡אמֶר קַח־נָ֠א אֶת־בִּנְךָ֨ אֶת־יְחִֽידְךָ֤ אֲשֶׁר־אָהַ֙בְתָּ֙ אֶת־יִצְחָ֔ק</span> (Genesis 22:2)
-        * Remember from Lesson 16, the verb לקח thinks it’s 1נ, therefore the initial ל frequently assimilates just as a נ would.
+        * Remember from Lesson 16, the verb <span class="he">לקח</span> thinks it’s 1נ, therefore the initial <span class="he">ל</span> frequently assimilates just as a <span class="he">נ</span> would.
 * We may elect to leave <span class="he">נָה</span> untranslated depending on the context
 
 ::: {.box .info}
@@ -310,13 +312,13 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Paragogic ה is an extra ה appended to  M2ms^[Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."]
+* Paragogic <span class="he">ה</span> is an extra <span class="he">ה</span> appended to  M2ms^[Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."]
 * It occurs 311 times on M2ms forms
     * <span class="he">קְטֹל</span> - regular QM2ms
-    * <span class="he">קָטְלָה</span> (Qamets Hatuf) - QM2ms with paragogic ה OR pronominal suffix (Lesson 19) 
+    * <span class="he">קָטְלָה</span> (Qamets Hatuf) - QM2ms with paragogic <span class="he">ה</span> OR pronominal suffix (Lesson 19) 
         * Note how $V_S = O$ (Qamets Hatuf)
 * We will need to determine from the context whether the Qamets+Hei is paragogic or a pronominal suffix
-* We will NEVER see the directional ה on verbs, so we can rule that out
+* We will NEVER see the directional <span class="he">ה</span> on verbs, so we can rule that out
 
 
 ## 3ה Verbs
@@ -338,9 +340,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-3rd ה verbs undergo the usual changes we have been studying. Now, we are adding a new (vowel) + ה ending for the Imperative:
+3rd ה verbs undergo the usual changes we have been studying. Now, we are adding a new (vowel) + <span class="he">ה</span> ending for the Imperative:
 
-* No sufformative = Add ה vowel letter
+* No sufformative = Add <span class="he">ה</span> vowel letter
     * Perfect - <span class="he">ה ָ </span> (Qamets+Hei)
     * Imperfect - <span class="he">ה ֶ </span> (Seghol+Hei)
     * Imperative - <span class="he">ה ֵ </span> (Tsere+Hei)
@@ -408,7 +410,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * 1י drops in the QM
 * 1נ _sometimes_ drops in the QM
-    * For example, נסע, נתן do; נפל does not
+    * For example, <span class="he">נסע, נתן</span> do; <span class="he">נפל</span> does not
 * These have the Imperfect $V_S$, unless it has reduced
 
 ::: {.box .light}
@@ -594,13 +596,27 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 Write the Qal Volitional paradigm until you can complete it correctly at least once.  Focus on using the rules we have studied rather than forced memorization of the paradigm.
 
 * Jussive = 3rd person
-* Imperative = 2nd person ]
+* Imperative = 2nd person 
 * Cohortative = 1st person
 
 
 [Qal Volitional Forms](./images/18_qal_volitive_paradigm.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}   
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ::: {.box .map} 
 YOUR QUEST
@@ -615,17 +631,31 @@ YOUR QUEST
 
 ## Honors Track: _Hebrew Quest_ Study Passage: The Shema {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST:
-
-1. Read  the passage - [Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}) and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
-
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0506.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Deuteronomy/6:4-9){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+
 
 ## Lesson Extras {-}
 

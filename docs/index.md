@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-11-26"
+#date: "2021-11-30"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
 
-<small>*Updated*: 2021-11-26</small>
+<small>*Updated*: 2021-11-30</small>
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -183,10 +183,10 @@ Failure to follow these steps could lead to Anki frustration!
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](https://youtu.be/lBKbLFw3Ouo){target="_blank"}
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | On the website, click the `Download` button, then select the tab with your operating system^[The version numbers will change with the passage of time.  Unless instructed otherwise, download the curent version of the Anki desktop program on their website].  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}
 6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone. After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
-|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
-| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
+|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
+| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
+| | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 1)](./images/HGQ_Anki_Unit3_V01.0.apkg){target="_blank"} |
+| | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 1)](./images/HGQ_Anki_Unit4_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
 7. Tweak a few Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
@@ -245,38 +245,38 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
 ### Daily limits and New Cards {-}
 
 <div class="figure" style="text-align: center">
-<img src="images/00.ankisettings01.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-3)Settings</p>
+<img src="images/00.ankisettings01.png" alt="Daily Limits and New Cards" width="700pt" />
+<p class="caption">(\#fig:unnamed-chunk-3)Daily Limits and New Cards</p>
 </div>
 
-::: {.box .info}
-* NEW CARDS/DAY: You are welcome to enter any number you wish, but lower numbers mean it will take longer to get through the entire deck.  `200` is recommended, but this does not mean you have to do 200 new cards in one day or the next day you will have 400 new cards.  You will never have more new cards than the number entered here. 
-* INSERTION ORDER: If you find `Sequential` is too easy, you might try to switch to `Random`.
+Notes^[NEW CARDS/DAY: You are welcome to enter any number you wish, but lower numbers mean it will take longer to get through the entire deck.  `200` is recommended, but this does not mean you have to do 200 new cards in one day or the next day you will have 400 new cards.  You will never have more new cards than the number entered here. INSERTION ORDER: If you find `Sequential` is too easy, you might try to switch to `Random`.]
 
-:::
 
 ### Lapses and Timer {-}
 
-`Show answer timer` is optional.
+Note^[`Show answer timer` is optional.]
+
 <div class="figure" style="text-align: center">
-<img src="images/00.ankisettings02.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-4)Settings</p>
+<img src="images/00.ankisettings02.png" alt="Lapses and Timer" width="700pt" />
+<p class="caption">(\#fig:unnamed-chunk-4)Lapses and Timer</p>
 </div>
 
 
 ### Burying and Audio {-}
 
-Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.
 <div class="figure" style="text-align: center">
-<img src="images/00.ankisettings03.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-5)Settings</p>
+<img src="images/00.ankisettings03.png" alt="Burying and Audio" width="700pt" />
+<p class="caption">(\#fig:unnamed-chunk-5)Burying and Audio</p>
 </div>
+
+
+Notes^[Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.]
 
 ### Advanced {-}
  
 <div class="figure" style="text-align: center">
-<img src="images/00.ankisettings04.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-6)Settings</p>
+<img src="images/00.ankisettings04.png" alt="Advanced" width="700pt" />
+<p class="caption">(\#fig:unnamed-chunk-6)Advanced</p>
 </div>
 
 ::: {.box .info}
@@ -286,14 +286,14 @@ Anki Add-ons
 * You might check out [Advanced Review Bottom Bar](https://ankiweb.net/shared/info/1136455830)
   * Or `Tools` / `Addons` / `Get Add-ons` / then enter `1136455830`
   * You can tweak the add-on settings in the `ARBb` menu - try `Button style` = `Wide + Background Color`
-* Another useful add-on is [More Overview Stats 2.1](https://ankiweb.net/shared/info/738807903)
+* Another useful add-on is [More Overview Stats](https://ankiweb.net/shared/info/738807903)
   * This displays your `Young` vs `Mature` cards on the deck's dashboard - see picture ^[1st column is number of cards.  2nd column is percentage of cards.  3rd column is percentage of cards excluding `Suspended` cards (for the `Unit Certificate` your screenshot must reflect 0 suspended cards).]
   * Add-on number: `738807903`
 :::
 
 <div class="figure" style="text-align: center">
-<img src="images/00.anki_more_stats.png" alt="Settings" width="500pt" />
-<p class="caption">(\#fig:unnamed-chunk-7)Settings</p>
+<img src="images/00.anki_more_stats.png" alt="More Overview Stats" width="500pt" />
+<p class="caption">(\#fig:unnamed-chunk-7)More Overview Stats</p>
 </div>
 
 ## The Fog {-}
@@ -375,12 +375,12 @@ Additionally, please do not hesitate to report any errors, omissions, or improve
 
 :::
 
+[Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
+
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdWJc7ri0andmyu70D1USeDRtbsrHLaYLNrs0rvI2qBJx-yEg/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-
-[Open form in new window](https://forms.gle/tNsvwrhci3nGkvvV6){target="_blank"}
 
 
 <!--chapter:end:00d-help.Rmd-->
@@ -3424,7 +3424,7 @@ Congratulations again on completing unit 1!
 * In units 3 and 4, we will transition to verbs
 
 ::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} if you haven't already done so
+Remember to download [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} if you haven't already done so
 :::
 
 <large>Changes for Unit 2</large>:
@@ -12006,6 +12006,20 @@ Notes: See Unit 3 Introduction for a discussion of the cantillation accent marks
 
 ## Ruth Pursuit {-}        
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .map} 
 YOUR QUEST
 
@@ -12058,21 +12072,24 @@ This activity is where your Hebrew GRAMMAR Quest will come to life!
 
 Please review the description of the _Hebrew Quest_ Study Passage activity in the Introduction to Unit III if you haven't already done so.
 
-::: {.box .map}
 YOUR HEBREW QUEST!
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can. [Blank copy of Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #1](https://holylanguage.com/proverbs-1.php){target="_blank"}
-    1. [Proverbs #2](https://holylanguage.com/proverbs-2.php){target="_blank"}
-    1. [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
-    1. [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+::: {.box .stop}
+Important: read the passage on your own __BEFORE__ watching the _Hebrew Quest_ video!
 :::
+
+
+| | |
+|:- |:- |:- 
+| *Read* | Read through the passage on your own straight through one time | [Blank copy of Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/copy){target="_blank"}
+| *Record* | Create a "first-draft" translation. highlight and look-up unfamiliar words | [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+| *Review* | Watch Izzy's _Hebrew Quest_ videos (video opens in a new tab) and assess your translation?  Revise your translation as needed | [Proverbs #1](https://holylanguage.com/proverbs-1.php){target="_blank"}
+| | | [Proverbs #2](https://holylanguage.com/proverbs-2.php){target="_blank"}
+| | | [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
+| | | [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
+| *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs){target="_blank"}
+| *Reflect* | How did the Ruach HaKodesh speak to you? |
+
 
 
 ## Lesson Extras {-}
@@ -13415,6 +13432,20 @@ function setPlaySpeed25() {
 
 ## Ruth Pursuit {-}        
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .map} 
 YOUR QUEST:
 
@@ -13449,22 +13480,21 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 </div>
 
 ## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #5-7 {-}
-
-::: {.box .map}
+ 
 YOUR HEBREW QUEST:
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can - [Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #5](https://holylanguage.com/proverbs-5.php){target="_blank"}
-    1. [Proverbs #6](https://holylanguage.com/proverbs-6.php){target="_blank"}
-    1. [Proverbs #7](https://holylanguage.com/proverbs-7.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+| | |
+|:- |:- |:- 
+| *Read* | Read through the passage on your own straight through one time | [Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/copy){target="_blank"}
+| *Record* | Create a "first-draft" translation. highlight and look-up unfamiliar words | [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+| *Review* | Watch Izzy's _Hebrew Quest_ videos (video opens in a new tab) and assess your translation?  Revise your translation as needed | [Proverbs #5](https://holylanguage.com/proverbs-5.php){target="_blank"}
+| | | [Proverbs #6](https://holylanguage.com/proverbs-6.php){target="_blank"}
+| | | [Proverbs #7](https://holylanguage.com/proverbs-7.php){target="_blank"}
+| *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/12){target="_blank"}
+| *Reflect* | How did the Ruach HaKodesh speak to you? |
 
-:::
+
+
 
 ## Lesson Extras {-}
 
@@ -13500,7 +13530,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 > In the Bible, weak verbs are much more common than strong verbs. To understand Biblical Hebrew, we must be able to translate weak verbs.
 
 
-A weak verb is defined as a verb with one or more letters that cause the word to deviate from the strong verb pattern. We already looked at two of these in the previous lesson:  נ and ת assimilate under certain conditions. 
+A weak verb is defined as a verb with one or more letters that cause the word to deviate from the strong verb pattern. We already looked at two of these in the previous lesson:  <span class="he">נ</span> and <span class="he">ת</span> assimilate under certain conditions. 
 
 Many Hebrew grammar textbooks asked students to memorize _all_ of the differences in each stem and conjugation.  Fortunately, there is an easier way.  
 
@@ -14203,6 +14233,20 @@ You can refer back to these clues if you encounter a word that doesn't seem to f
 
 ## Ruth Pursuit {-}    
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .map} 
 YOUR QUEST
 
@@ -14227,23 +14271,20 @@ Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are v
 
 ## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #8-10 {-}
 
-
-
-::: {.box .map}
 YOUR HEBREW QUEST:
 
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can. [Blank copy of the Proverbs studied in sessions 5-7.](https://docs.google.com/document/d/15D5W-prZoVTGEFa9QzuBCnfW4kQnwXT4TBNYNPhcRW8/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #8](https://holylanguage.com/proverbs-8.php){target="_blank"}
-    1. [Proverbs #9](https://holylanguage.com/proverbs-9.php){target="_blank"}
-    1. [Proverbs #10](https://holylanguage.com/proverbs-10.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+| | |
+|:- |:- |:- 
+| *Read* | Read through the passage on your own straight through one time | [Blank copy of the Proverbs studied in sessions 8-10.](hhttps://docs.google.com/document/d/1UMZwOGhypFbVzAo9OPSdRPUMwAOvSYHmXLL8S4BfIwM/copy){target="_blank"}
+| *Record* | Create a "first-draft" translation. highlight and look-up unfamiliar words | [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+| *Review* | Watch Izzy's _Hebrew Quest_ videos (video opens in a new tab) and assess your translation?  Revise your translation as needed | [Proverbs #8](https://holylanguage.com/proverbs-8.php){target="_blank"}
+| | | [Proverbs #9](https://holylanguage.com/proverbs-9.php){target="_blank"}
+| | | [Proverbs #10](https://holylanguage.com/proverbs-10.php){target="_blank"}
+| *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/15){target="_blank"}
+| *Reflect* | How did the Ruach HaKodesh speak to you? |
 
-:::
+
+
 
 ## Lesson Extras {-}
 
@@ -14427,7 +14468,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * All stems have the same set of preformatives
-* The Imperfect is called the Prefix Conjugation
+* The Imperfect is called the **Prefix Conjugation**
 * <span class="he">י</span> for 3ms, 3mp
 * <span class="he">א</span> for 1cs
 * <span class="he">נ</span> for 1cp
@@ -14463,15 +14504,16 @@ Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ ($Pre$) combination
     * <span class="he">קְ</span> represents any strong letter in $R_1$ with a Silent Sheva
 
 ::: {.box .info}
-The vowels behave as if they were from the Rule of Sheva (they aren't)
+The Imperfect Preformative vowels behave as if they were from the Rule of Sheva
 
 <img src="images/15-rule-of-sheva.png" width="400pt" style="display: block; margin: auto;" />
 :::
 
 ::: {.box .caution}
-* Note, when you see $Pre$ in the special font, this is not the same as the form's prefix and it is not the same as the form's preformative.  
+* As a reminder, when you see $Pre$ in the special font, this is not the same as the form's prefix and it is not the same as the form's preformative.  
 * $Pre$ is a combination of prefix, preformatives, initial vowels and Daghesh marks as indicated that are diagnostic of a given stem and conjugation.
-*For the QI, $Pre =$ <span class="he">יִקְ</span>
+* For the QP, $Pre =$ <span class="he">קָ</span>
+* For the QI, $Pre =$ <span class="he">יִקְ</span>
 :::
 
 * Lastly, for the QI, $V_S = \bar O$
@@ -14501,15 +14543,19 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * It is <span class="he">י ִ</span>
     * The <span class="he">ְ תִּ</span> preformative with the <span class="he">י ִ</span> sufformative is diagnostic of the QI2fs
 * Of the plural forms, only 1cp does NOT have a sufformative
-    * 2mp/3mp sufformative - <span class="he">וּ</span>
-        * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>^[ The ן sometimes causes the Shuruk to shorten to a Qubbuts. In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp]
-        * You will be able to tell 2mp from 3mp by the preformative
-    * 2fp/3fp sufformative - <span class="he">נָה</span>
-        * You'll note that QI2fp and QI3fp are identical.   
-        * The context will determine whether the verb is being used in the 3rd person or the 2nd person.  
-        * These forms are relatively infrequent.
+* 2mp/3mp sufformative - <span class="he">וּ</span>
+    * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>^[ The ן sometimes causes the Shuruk to shorten to a Qubbuts. In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp]
+* You will be able to tell 2mp from 3mp by the preformative
+* 2fp/3fp sufformative - <span class="he">נָה</span>
+
+::: {.box .caution}
+QI2fp/QI3fp and QI3fs/QI2ms forms are identical
+
+* The context will determine whether the verb is being used in the 3rd person or the 2nd person
+* The feminine plural forms are relatively infrequent
+:::
+
 * There are no "heavy sufformatives" in the Imperfect
-    * In fact, the two we studied previously (2mp and 2fp) are the only ones
 * The last point is to remember that the Imperfect is a Finite verb, so a Sheva prefers to go before a finite verb sufformative
 
 
@@ -14609,26 +14655,26 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * <span class="he">תִּזְכְּר֔וּ</span>
-    * $Pre$: Tav+Hireq+Zain+Sheva 
-        * Fits QI $Pre =$ <span class="he">יִקְ</span> - Qal Imperfect
-        * ת = I2xx or I3Fx
-    * Sufformative: וּ = I2mp or I3mp
-    * $Pre$ + sufformative can only be QI2mp
-    * <span class="he">תִּזְכְּר֔וּ</span> = QI2mp, זָכַר, You (all) will remember
+    * $Pre$: `Tav+**Hireq**+Zain+**Sheva** 
+        * This fits our QI $Pre =$ formula of <span class="he">יִקְ</span> = Qal Imperfect
+            * The <span class="he">י</span> represents any of the imperfect preformatives: <span class="he">י ת אֶ נ</span>
+            * The $R_1 =$ <span class="he">ק</span> represents $R_1$ of any strong verb
+        * Preformative <span class="he">ת</span> = I2xx or I3Fx
+        * Sufformative: <span class="he">וּ</span> = I2mp or I3mp
+        * $Pre$ + sufformative can only be QI2mp
+    * <span class="he">תִּזְכְּר֔וּ</span> = QI2mp, <span class="he">זָכַר</span>, You (all) will remember
     * We note that $V_S$ is not $\bar O$, but that's because we have a Sheva before a finite sufformative.  It turns out we do not need the $V_S$ to identify this as QI2mp.
 * <span class="he">יִכְתֹּ֤ב</span>
-    * $Pre$: Yod+Hireq+Kaf+Sheva = QI3mx
+    * $Pre$: Yod+**Hireq**+Kaf+**Sheva** = QI3mx
     * Sufformative: none = QIxxS or QI1CP
-    * $Pre$ + no sufformative can only be QI3ms
-    * He will write
+    * This combination can only be QI3ms, so complete parsing would be: QI3ms, <span class="he">כתב</span>, "he(it) will write"
     * $V_S = \bar O$ is additional confirmation that this is Qal Imperfect
 * <span class="he">תִשְׁבַּ֤ת </span>
-    * Preformative: Tav+Hireq+Shin+Sheva = QI2xx or QI3Fx
+    * $Pre$: Tav+**Hireq**+Shin+**Sheva** = QI2xx or QI3Fx
     * Sufformative: none = QIxxS or QI1CP
-    * Together: QI3fs or QI2ms - context will determine which one
-    * Context: <span class="he">לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙</span> = Lit: why she will stop, the work" or "Why should the work stop" = the verb is modifying "the work" which is a feminine noun.
-    * QI3fs
-    * $V_S = A$ because this is a stative verb - in the imperfect $V_S = A$ for all stative verbs
+    * Together, this combination could only be either QI3fs or QI2ms of <span class="he">שׁבת</span>, "she/it will stop" or "you will stop" - context will determine which one
+    * Context: <span class="he">לָ֣מָּה תִשְׁבַּ֤ת הַמְּלָאכָה֙</span> = Lit: why she will stop, the work" or "Why should the work stop" = the verb is modifying "the work" which is a feminine noun. So this is QI3fs.
+    * $V_S = A$ because this is a stative verb - in the **Imperfect** $V_S = A$ for all stative verbs
 
 
 ## Deviations from the Qal Imperfect Strong Paradigm
@@ -14733,6 +14779,20 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}   
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .map} 
 YOUR QUEST
 
@@ -14750,23 +14810,24 @@ Identify and translate the Qal Verbs below.
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
 
-::: {.box .map}
+
 YOUR HEBREW QUEST:
 
-1. Read the passage - [Blank copy of Proverbs #11-14](https://docs.google.com/document/d/1E1Qbbx3tHw8pOfMSGwQHwD406eHIMd1O5lAS_tDWllE/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
-3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #11](https://holylanguage.com/proverbs-11.php){target="_blank"}
-    1. [Proverbs #12](https://holylanguage.com/proverbs-12.php){target="_blank"}
-    1. [Proverbs #13](https://holylanguage.com/proverbs-13.php){target="_blank"}
-    1. [Proverbs #14](https://holylanguage.com/proverbs-14.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+| | |
+|:- |:- |:- 
+| *Read* | Read through the passage on your own straight through one time | [Blank copy of Proverbs #11-14](https://docs.google.com/document/d/1E1Qbbx3tHw8pOfMSGwQHwD406eHIMd1O5lAS_tDWllE/copy){target="_blank"}
+| *Record* | Create a "first-draft" translation. highlight and look-up unfamiliar words | [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+| *Review* | Watch Izzy's _Hebrew Quest_ videos (video opens in a new tab) and assess your translation?  Revise your translation as needed | [Proverbs #11](https://holylanguage.com/proverbs-11.php){target="_blank"}
+| | | [Proverbs #12](https://holylanguage.com/proverbs-12.php){target="_blank"}
+| | | [Proverbs #13](https://holylanguage.com/proverbs-13.php){target="_blank"}
+| | | [Proverbs #14](https://holylanguage.com/proverbs-14.php){target="_blank"}
+| *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/18){target="_blank"}
+| *Reflect* | How did the Ruach HaKodesh speak to you? |
 
-:::
+
+
+
+
 
 ## Lesson Extras {-}
 
@@ -15190,6 +15251,13 @@ The retention of the Lexical Vowel, $V_P = \bar A$ and the Imperfect preformativ
 | 3ms | <span class="he">יָקוּם</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יָק֫וּמוּ</span> | <span class="he">יִקְטְלוּ</span>
 
+::: {.box .info}
+Biconsonantal and Geminate Verbs
+
+* Focus more on acquiring vocabulary, and less on the many variations within each stem/conjugation
+* Once you can recognize the verbal root, you can use your knowledge of preformatives/sufformatives to infer the conjugation from context
+:::
+
 ## 1י
 
 
@@ -15245,10 +15313,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 
 * <span class="he">הלך</span> is an irregular verb that acts like 1י in the Qal Imperfect
-* The ה drops and $V_P = \bar E$
-* $V_S = \bar E (A)$
-    * The (A) means in the Feminine Plural forms, we will see Patach instead of Tsere
-    * This will be common notation in Unit 4
+* The <span class="he">ה</span> drops and $V_P = \bar E$
+* $V_S = E$ (Tsere) except for the FP forms where it is $A$ (Patach)
 
 | | ישׁב | To walk הלך | Strong
 | :-  | :- | :-  | :-
@@ -15425,7 +15491,11 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 |  | ראה | ירא | Strong 
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">יִרְאֶה</span> | <span class="he">יִירָא</span> | <span class="he">יִקְטֹל</span>  
-| 3mp | <span class="he">יִירְאוּ</span> | <span class="he">יִרְאוּ</span> | <span class="he">יִקְטְלוּ</span>
+| 3mp | <span class="he">יִרְאוּ</span> | <span class="he">יִירְאוּ</span> | <span class="he">יִקְטְלוּ</span>
+
+::: {.box .light}
+$V_P = \hat I$ is <span class="he">ירא</span>, not <span class="he">ראה</span>
+:::
 
 ## Qal Imperfect Weak Summary {-}
 
@@ -15445,9 +15515,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-This is the densest chapter in _Basics of Biblical Hebrew_ yet also one of the most important.  
+This is the densest chapter in _Basics of Biblical Hebrew_ - the lesson "Summary" from the publishers (available in _Lesson Extras_) is 22 pages! - yet also one of the most important.  The Imperfect is extremely common and it is the foundation for other conjugations such as the volitional and the Waw-Imperfect.
 
-Once you get comfortable with this chapter's changes, the rest of the course WILL get easier. 
+Once you get comfortable with this chapter's content, the rest of the course WILL get easier. 
 
 Our goal was to give you enough of an overview to get you started on the Anki exercises. Take your time working through `Anki`, and be sure you keep up with your reviews each day.  What may seem foggy now will begin to make sense soon!  
 
@@ -15477,6 +15547,20 @@ Apart from a few irregular changes, the Qal Imperfect is relatively easy to reco
 
 
 ## Ruth Pursuit {-}   
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ::: {.box .map} 
 YOUR QUEST
@@ -15510,28 +15594,33 @@ Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar wo
 
 Once you have completed **all activities** through this lesson, you can fill out the form below and receive your next badge!
 
+[Open Badge form in a new window](https://forms.gle/y2JPkZAxVGEsmACr6){target="_blank"}
 
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/y2JPkZAxVGEsmACr6" frameborder="0"></iframe>
 </div>
 
-[Open Badge form in a new window](https://forms.gle/y2JPkZAxVGEsmACr6){target="_blank"}
+
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
 
-::: {.box .map}
+
 YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of Proverbs #15-17](https://docs.google.com/document/d/1ZuH8tOF8VEtLYCvAexzt0oScAKlfVEkSecPQ-ZjfuhM/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. Next, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #15](https://holylanguage.com/proverbs-15.php){target="_blank"}
-    1. [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
-    1. [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+| | |
+|:- |:- |:- 
+| *Read* | Read through the passage on your own straight through one time |  [Blank copy of Proverbs #15-17](https://docs.google.com/document/d/1ZuH8tOF8VEtLYCvAexzt0oScAKlfVEkSecPQ-ZjfuhM/copy){target="_blank"}
+| *Record* | Create a "first-draft" translation. highlight and look-up unfamiliar words | [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+| *Review* | Watch Izzy's _Hebrew Quest_ videos (video opens in a new tab) and assess your translation?  Revise your translation as needed | [Proverbs #15](https://holylanguage.com/proverbs-15.php){target="_blank"}
+| | | [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
+| | | [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
+| *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/22){target="_blank"}
+| *Reflect* | How did the Ruach HaKodesh speak to you? |
 
-:::
+
+
+
+
 
 ## Lesson Extras {-}
 
@@ -15730,7 +15819,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 
 * Usually spelled <span class="he">וְ</span>
-* Spelled <span class="he">וּ</span> before פ, מ, ב, or Sheva
+* Spelled <span class="he">וּ</span> before <span class="he">פ, מ, ב</span>, or Sheva
 * Because the normal spelling contains a Vocal Sheva, the rule of Sheva can cause changes, most commonly <span class="he">וִי</span> or, with a guttural, <span class="he">וַעֲ</span>
 
 
@@ -15780,7 +15869,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * More Common: used as Perfect Vav Consecutive
-* Parsing code: Pwc (Perfect Waw Consecutive, also called the `Weqatal` from the 3ms form וְקָטַל)
+* Parsing code: Pwc (Perfect Waw Consecutive, also called the `Weqatal` from the 3ms form <span class="he">וְקָטַל</span>)
 * Often used for the next event in a future narrative
 * Usually translated as IMPERFECT
     * Future: And I will study
@@ -15817,18 +15906,18 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Always first letter
-* Usually spelled וְ
-    * On the Perfect, there is no difference between the spelling of the Conjunction and the Vav Consecutive - both are וְ
-        * Vav+Vocal Sheva
-        * Both forms are also called the `Weqatal` from וְקָטַל
-    * On the Imperfect, the CONJUNCTION is spelled, וְ
-        * Vav+Vocal Sheva
+* Usually spelled <span class="he">וְ</span>
+    * On the Perfect, there is no difference between the spelling of the _Vav Conjunction_ and the _Vav Consecutive_ 
+        * Both are <<span class="he"> וְ</span> - ` Vav+**Vocal Sheva**`
+        * Both forms are also called the `Weqatal` from <span class="he">וְקָטַל</span>
+    * On the Imperfect, the __VAV CONJUNCTION__ is spelled, <span class="he">וְ</span>
+        * `Vav+Vocal Sheva`
         * This is QI+ו
-        * Also called `W_e_yiqtol` from וְיִקְטֹל
-    * The Imperfect Vav CONSECUTIVE is spelled, וַיִּ
-        * Vav + Patach + Dagesh Forte
+        * Also called `W_e_yiqtol` from <span class="he">וְיִקְטֹל</span>
+    * The Imperfect __Vav CONSECUTIVE__ is spelled, וַיִּ
+        * `Vav + **Patach + Dagesh Forte**`
         * This is QIwc
-        * Also called `W_a_yiqtol` from וַיִּקְטֹל
+        * Also called `W_a_yiqtol` from <span class="he">וַיִּקְטֹל</span>
 
 | | QI | + ו 
 | :- | :- | :- 
@@ -15855,8 +15944,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Instead of "and", translate, "so that...may"
-    * "Shall I go call a Hebrew nurse SO THAT she MAY nurse the child for you?" (Ex 2:7)
-    * "Let's make a tower...SO THAT we MAY make a name for ourselves." (Gen 11:4)
+    * <span class="he">וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן הָעִבְרִיֹּ֑ת וְתֵינִ֥ק לָ֖ךְ אֶת־הַיָּֽלֶד</span>
+        * "Shall I go call a Hebrew nurse SO THAT she MAY nurse the child for you?" (Ex 2:7)
+    * <span class="he">נִבְנֶה־לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם</span>
+        * "Let's make a tower...SO THAT we MAY make a name for ourselves." (Gen 11:4)
 * Regular imperfect translations are possible 
 
 ## Imperfect Vav Consecutive: Spelling (Strong)
@@ -15877,10 +15968,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Vav + Patach + Dagesh Forte
+* `Vav + Patach + Dagesh Forte`
     * Similar to the independent preposition with the definite article
     * In the 1cs form, the Aleph preformative rejects the Dagesh, resulting in Compensatory Lengthening
-* This is also called `Wayiqtol` from וַיִּקְטֹל
 
 | | QI | QIwc
 | :- | :- | :- 
@@ -15937,7 +16027,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ### Usually, translate Iwc as PAST TENSE {-}
 
 * Often used for the next event in a past-time narrative
-    * AND GOD SAID (QIwc3ms)...AND THERE WAS (QIwc3ms)
+    * <span class="he">וַיֹּ֣אמֶר אֱלֹהִ֔ים. . . וַֽיְהִי־אֽוֹר</span> Genesis 1:3
+    * AND God SAID (QIwc3ms)...AND THERE WAS Light (QIwc3ms)
 * In a narrative sequence of verbs, the second (and following) verb uses the opposite form from what we might expect:
     * Iwc in a PAST narrative
         * He did X (the first verb will be P), and then he did Y (the next verb is Iwc), and then he did Z (Iwc)
@@ -16004,6 +16095,20 @@ Write the paradigm until you can complete it correctly at least once. Focus on u
 
 ## Ruth Pursuit {-}   
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .map} 
 YOUR QUEST
 
@@ -16033,17 +16138,34 @@ YOUR QUEST
 
 With this lesson, we move away from the selected verses in Proverbs to lengthier study passages.
 
-::: {.box .map}
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0101.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 YOUR HEBREW QUEST:
 
-1. Read the passage - [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}, or you may use your copy from Lesson 6
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}
-    * Though we would encourage viewing the entire segment, since you already reviewed Genesis 1:1 back in Lesson 6, you can start with Genesis 1:2 at the 46:50 mark
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Genesis 1:1-5](https://docs.google.com/document/d/1FIQAtWfWlrWmzX5pKR6esRLzJKFdv5Szx3mb5_zWwLg/copy){target="_blank"}, or you may use your copy from Lesson 6
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}. Though we would encourage viewing the entire segment, since you already reviewed Genesis 1:1 back in Lesson 6, you can start with Genesis 1:2 at the 46:50 mark
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Genesis/1:1-5){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
 
-:::
+
+Audio from Holy Language 
+
 
 ::: {.box .info}
 MEMRISE
@@ -16069,7 +16191,7 @@ MEMRISE
     * [Quiz a](https://hebrewsyntax.org/bbh2new/17_quiz_new.pdf){target=“_blank”}
     * [Quiz b](https://hebrewsyntax.org/bbh2new/17_quiz_practice.pdf){target=“_blank”}
 
-As Lesson 17 marks the end of the 1st semester in a traditional academic course, Dr. Beckman has additional cumulative review materials.
+As Lesson 17 marks the end of the 1st semester in a traditional academic course, Dr. Beckman has additional "final exam" review materials.
 
 [Summary Study Guide](https://hebrewsyntax.org/bbh2new/17x_Hebrew1_summary_study_guide.pdf){target=“_blank”}  (_Note: Most of this material is contained in our Hebrew GRAMMAR Quest `Anki` cards._)
  
@@ -16264,11 +16386,13 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Negative commands never use the imperative
-* לֹא + imperfect
+* <span class="he">לֹא</span> + imperfect
     * An absolute, permanent, blanket prohibition
+    * <span class="he">לֹ֥֖א תִּֿרְצָֽ֖ח</span>
     * You shall not murder (Ex 20:13)
-* אַל + jussive or cohortative
+* <span class="he">אַל</span> + jussive or cohortative
     * An immediate, circumstance-specific prohibition
+    * <span class="he">אַל־תִּשְׁמְע֨וּ אֶל־נְבִיאֵיכֶ֜ם</span>
     * "Do not listen to your prophets!" (Jer 27:9)
     * In this context, Jeremiah is prohibiting the people from listening to FALSE, misguided prophets, not a blanket prohibition of ANY and ALL prophets
     * 2nd person jussives are used for negative commands
@@ -16355,7 +16479,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * Scholars debate what this means or whether it means anything
     * "Please" or "now" have been suggested ("prithee" in KJV)
     * <span class="he">וַיֹּ֡אמֶר קַח־נָ֠א אֶת־בִּנְךָ֨ אֶת־יְחִֽידְךָ֤ אֲשֶׁר־אָהַ֙בְתָּ֙ אֶת־יִצְחָ֔ק</span> (Genesis 22:2)
-        * Remember from Lesson 16, the verb לקח thinks it’s 1נ, therefore the initial ל frequently assimilates just as a נ would.
+        * Remember from Lesson 16, the verb <span class="he">לקח</span> thinks it’s 1נ, therefore the initial <span class="he">ל</span> frequently assimilates just as a <span class="he">נ</span> would.
 * We may elect to leave <span class="he">נָה</span> untranslated depending on the context
 
 ::: {.box .info}
@@ -16406,13 +16530,13 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Paragogic ה is an extra ה appended to  M2ms^[Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."]
+* Paragogic <span class="he">ה</span> is an extra <span class="he">ה</span> appended to  M2ms^[Scholars debate whether this has any meaning.  "Paragogic" is Greek for "dragged along."]
 * It occurs 311 times on M2ms forms
     * <span class="he">קְטֹל</span> - regular QM2ms
-    * <span class="he">קָטְלָה</span> (Qamets Hatuf) - QM2ms with paragogic ה OR pronominal suffix (Lesson 19) 
+    * <span class="he">קָטְלָה</span> (Qamets Hatuf) - QM2ms with paragogic <span class="he">ה</span> OR pronominal suffix (Lesson 19) 
         * Note how $V_S = O$ (Qamets Hatuf)
 * We will need to determine from the context whether the Qamets+Hei is paragogic or a pronominal suffix
-* We will NEVER see the directional ה on verbs, so we can rule that out
+* We will NEVER see the directional <span class="he">ה</span> on verbs, so we can rule that out
 
 
 ## 3ה Verbs
@@ -16434,9 +16558,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-3rd ה verbs undergo the usual changes we have been studying. Now, we are adding a new (vowel) + ה ending for the Imperative:
+3rd ה verbs undergo the usual changes we have been studying. Now, we are adding a new (vowel) + <span class="he">ה</span> ending for the Imperative:
 
-* No sufformative = Add ה vowel letter
+* No sufformative = Add <span class="he">ה</span> vowel letter
     * Perfect - <span class="he">ה ָ </span> (Qamets+Hei)
     * Imperfect - <span class="he">ה ֶ </span> (Seghol+Hei)
     * Imperative - <span class="he">ה ֵ </span> (Tsere+Hei)
@@ -16504,7 +16628,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * 1י drops in the QM
 * 1נ _sometimes_ drops in the QM
-    * For example, נסע, נתן do; נפל does not
+    * For example, <span class="he">נסע, נתן</span> do; <span class="he">נפל</span> does not
 * These have the Imperfect $V_S$, unless it has reduced
 
 ::: {.box .light}
@@ -16690,13 +16814,27 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 Write the Qal Volitional paradigm until you can complete it correctly at least once.  Focus on using the rules we have studied rather than forced memorization of the paradigm.
 
 * Jussive = 3rd person
-* Imperative = 2nd person ]
+* Imperative = 2nd person 
 * Cohortative = 1st person
 
 
 [Qal Volitional Forms](./images/18_qal_volitive_paradigm.pdf){target="_blank"}
 
 ## Ruth Pursuit {-}   
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
 ::: {.box .map} 
 YOUR QUEST
@@ -16711,17 +16849,31 @@ YOUR QUEST
 
 ## Honors Track: _Hebrew Quest_ Study Passage: The Shema {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST:
-
-1. Read  the passage - [Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}) and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
-
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0506.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of The Shema](https://docs.google.com/document/d/1YOCp_Jm-FlLlRlTNHJN1hjNPb0Yh_7xzWDQQFqZ8-6w/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Deuteronomy/6:4-9){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+
 
 ## Lesson Extras {-}
 
@@ -16982,7 +17134,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * QI3fp/QI2fp - $\nexists$
 
 
-|  | QI | QI + Pron.
+|  | QI | QI + Pron.*
 | :- | :- | :-
 | 3ms | <span class="he">יִקְטֹל</span> | <span class="he">יִקְטְל</span>
 | 3fs | <span class="he">תִּקְטֹל</span> | <span class="he">תִּקְטְל</span>
@@ -17020,7 +17172,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * QM2ms is Qamets Hatuf + Silent Sheva
 * QM2fs/QM2fp - $\nexists$
 
-|  | QM | QM + Pron.
+|  | QM | QM + Pron.*
 | :- | :- | :-
 | 2ms | <span class="he">קְטֹל</span> | <span class="he">קָטְל</span>
 | 2mp | <span class="he">קִטְלוּ</span> | <span class="he">קִטְלוּ</span> or <span class="he">קִטְלֻ</span> 
@@ -17071,25 +17223,25 @@ Most verbal pronominal suffixes in Ruth 1 are in the Qal Infinitive Construct co
 
 Once you have completed __all activities__ through this lesson, you are eligible for your next `Twelve Tribes Badge`.  Fill out the form below!
 
+[Open Badge form in a new window](https://forms.gle/4Q8STELkBPRy6mEw8){target="_blank"}
+
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/4Q8STELkBPRy6mEw8" frameborder="0"></iframe>
 </div>
 
-[Open Badge form in a new window](https://forms.gle/4Q8STELkBPRy6mEw8){target="_blank"}
 
 
 ## Honors Track: _Hebrew Quest_ Study Passage:  Matthew 6 {-}
 
-::: {.box .map}
-YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}) and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Matthew 6](https://docs.google.com/document/d/1ICe0FEaE8wRBuKGR4q34drqfEIxQDG_9NRwa-n3Wgd8/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
+| *Revise* | Refine your translation using any reliable English Bible version
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
 
-:::
 
 ## Lesson Extras {-}
 
@@ -17341,7 +17493,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ::: {.box .light}
 <span class="he">נתנ</span> is tricky _and common_
 
-Memorize <span class="he">תֵּת</span> as Q∞ of נתן
+Memorize <span class="he">תֵּת</span> as Q∞ of <span class="he">נתן</span>
 :::
 
 ## Biconsonantal
@@ -17409,7 +17561,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Q∞ and QM2ms with pronominal suffix are usually the same
-* Both shift vowels with $V_1 \ =$ Qamets Hatuf when there is a pronominal suffix
+* Both shift vowels with $V_1 \ = O$ (Qamets Hatuf) when there is a pronominal suffix
 * Nun-type suffixes ONLY occur with imperfects and imperatives
 
 
@@ -17528,6 +17680,20 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}   
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .map} 
 YOUR QUEST
 
@@ -17545,16 +17711,33 @@ YOUR QUEST
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Genesis 22:1-19 {-}
 
-::: {.box .map}
-YOUR HEBREW QUEST:
-
-1. Read through the passage - [Blank copy of Genesis 22:1-19](https://docs.google.com/document/d/1zpIOg9zyDv_qPK9f69QexbIlBhH6wKO74YkPz3xpurI/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}), and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-22.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
-
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0122.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Genesis 22:1-19](https://docs.google.com/document/d/1zpIOg9zyDv_qPK9f69QexbIlBhH6wKO74YkPz3xpurI/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-22.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Genesis/22:1-19){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+
+
+
 
 ## Lesson Extras {-}
 
@@ -17586,7 +17769,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-The Qal Infinitive Absolute (abbreviated QA) is relatively infrequent, occurring 872 times.  It has a unique function, with no direct equivalent in English.  It generally adds emphasis to, or sometimes replaces another Hebrew verb entirely.  We will study a few of these different uses in this lesson.  We will also look at the functions of two articles,  יֵשׁ and אֵין.
+The Qal Infinitive Absolute (abbreviated QA) is relatively infrequent, occurring 872 times.  It has a unique function, with no direct equivalent in English.  It generally adds emphasis to, or sometimes replaces another Hebrew verb entirely.  We will study a few of these different uses in this lesson.  We will also look at the functions of two articles,  <span class="he">יֵשׁ</span> and <span class="he">אֵין</span>.
 
 ::: {.box .map}
 __LESSON ITINERARY__
@@ -17594,7 +17777,7 @@ __LESSON ITINERARY__
 1. Strong and weak verb spelling
 1. Meaning
 1. Compare Infinitive Construct with Infinitive absolute
-1. The articles יֵשׁ and אֵין
+1. The articles <span class="he">יֵשׁ</span> and <span class="he">אֵין</span>
 :::
 
 ::: {.box .stop}
@@ -17631,16 +17814,6 @@ In, <span class="he">אַעַלְךָ גַם־עָלֹה</span>, the literal tra
 The _meaning_ of the phrase is, "I will SURELY bring you up again," as if to say, "Don't worry! I am definitely bringing up out of Egypt. In fact, there is zero chance I will not bring you up!"  
 
 This is an excellent picture of what the LORD means when He says He will "keep" us!
-
-<figure>
-    <figcaption>Listen to the verse in Hebrew:</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/21-5.Gen 46.4.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 
@@ -17807,14 +17980,14 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * These are particles that assert the existence or non-existence of something or someone
 * Mnemonics: 
-    * יֵשׁ sounds like "yes" as in "yes there are"
-    * אֵין sounds like the English slang word "ain't," as in "ain't nothing or nobody"
+    * <span class="he">יֵשׁ</span> sounds like "yes" as in "yes there are"
+    * <span class="he">אֵין</span> sounds like the English slang word "ain't," as in "ain't nothing or nobody"
 * These do not inflect for gender or number 
-    * אֵין could mean "there is not" or "there are not"
+    * <span class="he">אֵין</span> could mean "there is not"/"there are not", or simply negating the word that follows
 * When prefixed with <span class="he">לְ</span>, indicates possession or non-possession
     * We saw this way back in the Lesson 3 `Study Verses`
     * Genesis 44:20 - <span class="he">יֶשׁ־לָנוּ אָב זָקֵן</span> = we have an elderly father (lit: there is to us a father old)
-* Pronominal suffixes occur on יֵשׁ only 9 times, compared with 104 times on אֵין 
+* Pronominal suffixes occur on <span class="he">יֵשׁ</span> only 9 times, compared with 104 times on <span class="he">אֵין</span> 
     * 2 Kings 17:34: <span class="he">אֵינָם יְרֵאִים</span> = they do not fear
 
 
@@ -17841,6 +18014,20 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}   
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 There are no Qal Infinitive Absolutes in Ruth 1 (if you find one, let us know!), but we do have a few words for you to identify
 
 ::: {.box .map} 
@@ -17859,16 +18046,31 @@ YOUR QUEST:
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Aaronic/Priestly Blessing {-}
 
-::: {.box .map}
-YOUR HEBREW QUEST:
-
-1. Read through the passage - [Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
-
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0406.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Numbers 6](https://docs.google.com/document/d/159LEzKxPYHjxibJ3VZylYLbZ_It9zwYZyAg_iotZIwM/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
+| *Revise* | Refine your translation
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+
 
 ## Lesson Extras {-}
 
@@ -18300,6 +18502,20 @@ The attached worksheet has all of the Qal strong forms we have studied in Lesson
 
 ## Ruth Pursuit {-}        
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 :::  {.box .map}
 YOUR QUEST
 
@@ -18317,26 +18533,27 @@ Identify the one Participle in Ruth 1.  You might recall that we discussed this 
 
 Once you have completed all activities through this lesson, complete the form below to receive your next badge!
 
+[Open Badge form in a new window](https://forms.gle/ncXmf7QRuoYCL3hz8){target="_blank"}
+
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ncXmf7QRuoYCL3hz8" frameborder="0"></iframe>
 </div>
 
-[Open Badge form in a new window](https://forms.gle/ncXmf7QRuoYCL3hz8){target="_blank"}
+
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Matthew 13 {-}
 
-::: {.box .map}
-YOUR HEBREW QUEST:
 
-1. Read through the passage - [Blank copy of Matthew 13](https://docs.google.com/document/d/1rl--X01fxApzUiadlxg68F6qVcx_nEsYlJP5LCGSsxo/edit?usp=sharing){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)
-    * [Part 1](https://holylanguage.com/matthew-13.1.php){target="_blank"}
-    * [Part 2](https://holylanguage.com/matthew-13.2.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+YOUR HEBREW QUEST!
 
-:::
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Matthew 13](https://docs.google.com/document/d/1rl--X01fxApzUiadlxg68F6qVcx_nEsYlJP5LCGSsxo/edit?usp=sharing){target="_blank"}
+| *Record* | Write a translation
+| *Review* | Watch Izzy's _Hebrew Quest_ Videos: [Part 1](https://holylanguage.com/matthew-13.1.php){target="_blank"} and [Part 2](https://holylanguage.com/matthew-13.2.php){target="_blank"}
+| *Revise* | Refine your translation
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+
 
 ## Lesson Extras {-}
 
@@ -18560,7 +18777,9 @@ The consecutive Imperfect is the first word in a clause.  This is the most commo
 A volitional imperfect (Cohortative and Jussive, each without the Vav consecutive) is usually the first word in the clause.
 
 * <span class="he">*נַעֲשֶׂה* אָדָם בְּצַלְמֵנוּ </span>
-    * <figure><figcaption>_Let us make_ man in our image (Gen 1:26)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen0126.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <figure><figcaption>_Let us make_ man in our image (Gen 1:26)</figcaption> 
+    <!-- <audio controls controlsList="nodownload" src="./images/23Gen0126.mp3"> Your browser does not support the <code>audio</code> element.</audio> -->
+    </figure>
 
 ::: {.box .info}
 Note without understanding the significance of word placement, these words all follow the Imperfect paradigm.  The key to accurate translation is word order and whether or not there is the <span class="he">ו</span> consecutive prefix.
@@ -18586,7 +18805,9 @@ Hebrew likes to link multiple verbs together. Word order can be a big clue in tr
 
 * Multiple Imperatives (M+M) in succession:
     * <span class="he">*עֲלֵה* *וּקְבֹר* אֶת־אָבִיךָ</span>
-    * <figure><figcaption>_Go up_ and bury your father (Gen 50:6)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen5006.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <figure><figcaption>_Go up_ and bury your father (Gen 50:6)</figcaption> 
+    <!-- <audio controls controlsList="nodownload" src="./images/23Gen5006.mp3"> Your browser does not support the <code>audio</code> element.</audio> -->
+    </figure>
         * This verse would be sequential - go up and (then you can) bury your father
         * The context may indicate a consequential translation - do this **so that** something else will happen
 * An Imperative followed by Perfect with Vav Consecutive (M + Pwc)
@@ -18733,17 +18954,31 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit Syntax Study {-}        
 
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .map} 
 
 There is no formal quest for this lesson but consider the following points based on the material in Lesson 23^[These concepts are contained in the book, [_A Workbook for Intermediate Hebrew: Grammar, Exegesis, and Commentary on Jonah and Ruth_](https://www.amazon.com/gp/product/0825423902/&tag=holylanginst-20), by Robert B. Chisolm] :
 
 * Note the Disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is providing supplemental background information. 
 * The Conjunctive Vav in Ruth 1:7 serves to begin a more detailed, focused narrative account of Naomi's return
-* Note how the Disjunctive Vav in the final clause of 1:14 - Vav + non-verb (subject) + predicate - introduces a CONTRAST of Ruth's attitude of clinging, signaling deep loyalty and attachment to Naomi (see the דבק + בְּ note in Lesson 13 answer key), compared to Orpah's goodbye kiss
+* Note how the Disjunctive Vav in the final clause of 1:14 - Vav + non-verb (subject) + predicate - introduces a CONTRAST of Ruth's attitude of clinging, signaling deep loyalty and attachment to Naomi (see the <span class="he">דבק</span> + <span class="he">בְּ</span> note in Lesson 13 answer key), compared to Orpah's goodbye kiss
 * In 1:16, כִּי introduces a subordinate clause that has an explanatory function.  "Ruth tells Naomi to stop urging her to go back because she has determined that she will follow Naomi wherever her mother-in-law goes."^[Chisholm. _A Workbook for Intermediate Hebrew_, page 286.]
 * 1:17 has what some scholars refer to as an "oath formula".  <span class="he">כֹּה</span> gives the punishment for breaking the promise, and <span class="he">כִּי</span> gives the condition. The specifics appear to be implied rather than stated. This makes a literal translation awkward.  At the same time, any other translation becomes somewhat speculative and dependent on what the translator believes is the context.  NET renders the first clause as "The LORD will punish me severely."
     * Other oaths of this type appear in 1 Samuel 14:44, 1 Samuel 20:13, 2 Samuel 3:9, 1 Kings 2:23, and 1 Kings 19:2
-* In 1:20, כִּי introduces a subordinate clause that has an explanatory function. Naomi is elaborating on why she wants a new name.
+* In 1:20, <span class="he">כִּי</span> introduces a subordinate clause that has an explanatory function. Naomi is elaborating on why she wants a new name.
 * We have noted that most Hebrew clauses begin with a verb, but 1:21 begins with "I".  Naomi is drawing attention to her condition: full when she left, but now returning empty.  Curiously, Ruth evidently counts for nothing.  Naomi's attitude will definitely change by the end of the book!
     * Also, note in 1:21 the Disjunctive Vav clauses, "And Adonai" followed by "And Shaddai."  Chisholm notes that the use may be "semi-poetic": "Adonai has testified about me; Shaddai has afflicted me"^[ibid. p. 133].
 * Finally, the Iwc in 1:22 begins a summarizing, concluding statement bringing the "first act" of the drama to a close.
@@ -18754,23 +18989,40 @@ There is no formal quest for this lesson but consider the following points based
 
 If you have completed **all activities** in Lessons 1-23, you may claim the third `Unit Completion Certificate`.
 
+[Open Certificate form in a new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
+
 <div class="containerLet">
 <iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
 </div>
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Psalm 19 {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST:
-
-1. Read through the passage - [Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/edit?usp=sharing){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-19.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
-
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2619.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-19.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/19){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+
+
 
 ## Lesson Extras {-}
 
@@ -19550,19 +19802,33 @@ Again, you do NOT need to have the Niphal paradigms memorized (although that may
 [Niphal Strong Paradigm](./images/24_niphal_strong_paradigms.pdf){target="_blank"}
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Numbers 15 {-}
+## _Hebrew Quest_ Study Passage: Numbers 15:37-41 {-}
 
-::: {.box .map}
-YOUR HEBREW QUEST:
-
-1. Read the passage - [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15){target="_blank"}
-    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaKodesh speak to you through the passage?
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0415.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* |  [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15:37-41){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
 ## Lesson Extras {-}
 
@@ -19946,6 +20212,21 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 :::  {.box .map}
 YOUR QUEST
 
@@ -19965,24 +20246,28 @@ By now, if you have been completing your `Ruth Pursuit` table along with each le
 
 Once you have completed all activities through this lesson, complete the form below to receive your next badge!
 
+[Open Badge form in a new window](https://forms.gle/ScmbVPvSFGLW9P9p8){target="_blank"}
+
+
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ScmbVPvSFGLW9P9p8" frameborder="0"></iframe>
 </div>
 
-[Open Badge form in a new window](https://forms.gle/ScmbVPvSFGLW9P9p8){target="_blank"}
+
+## _Hebrew Quest_ Study Passage: John 1 {-}
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: John 1 {-}
+YOUR HEBREW QUEST!
 
-::: {.box .map}
-YOUR HEBREW QUEST:
+| | 
+|:- |:-  
+| *Read* | [Blank copy of John 1 in Hebrew](https://docs.google.com/document/d/1jWt3rS5Z5az2X_gCRO4Wg9mS4svUIHa5CrjUoqg-xnk/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/john-1.php){target="_blank"}
+| *Revise* | Refine your translation using any reliable English Bible version
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
-1. Read the passage - [Blank copy of John 1 in Hebrew](https://docs.google.com/document/d/1jWt3rS5Z5az2X_gCRO4Wg9mS4svUIHa5CrjUoqg-xnk/view?usp=sharing){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/john-1.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
-:::
 
 ## Lesson Extras {-}
 
@@ -20600,19 +20885,33 @@ This exercise is for you.  Although you will need to complete this activity in o
 
 :::
 
-## Honors Track: _Hebrew Quest_ Study Passage: Exodus 31 {-}
+## _Hebrew Quest_ Study Passage: Exodus 31:12-17 {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST
-
-1. Read the passage - [Blank copy of Exodus 31](https://docs.google.com/document/d/1uRkk2MNy6-8CqSzXQAadDqhnHqUTI6i7Bd6OOxCbYjQ/edit?usp=sharing){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/exodus-31.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31){target="_blank"}
-5. How did the Ruach HaKodesh speak to you through the passage?
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0231.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Exodus 31](https://docs.google.com/document/d/1uRkk2MNy6-8CqSzXQAadDqhnHqUTI6i7Bd6OOxCbYjQ/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/exodus-31.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31:12-17){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
 ## Lesson Extras {-}
 
@@ -20654,7 +20953,7 @@ __LESSON ITINERARY__
 1. Learn the 10 most frequent verbs in the Piel stem
 :::
 
-::: {.box .stop)  
+::: {.box .stop} 
 EQUIPMENT CHECK
 
 Before continuing, be sure you are familiar with the diagnostics of the Piel strong forms (Piēl - Paēl)
@@ -20971,6 +21270,23 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 
 ## Ruth Pursuit {-}        
 
+
+::: {.infobox .sound}
+<figure>Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
 :::  {.box .map}
 
 Identify, parse, and translate the two Piel verbs in Ruth 1
@@ -20985,20 +21301,48 @@ Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 =
 
 ## Honors Track: _Hebrew Quest_ Study Passage: Psalms 1 and 27 {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST
-
-1. Read the passages
-    * [Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/copy){target="_blank"}
-    * [Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. Watch Izzy's _Hebrew Quest_ videos
-    * [Psalm 1](https://holylanguage.com/psalm-1.php){target="_blank"}
-    * [Psalm 27](https://holylanguage.com/psalm-27.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+::: {.infobox .sound}
+<figure>Psalms 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2601.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+::: {.infobox .sound}
+<figure>Psalms 27 read by Abraham Shmuelof:<audio id="myAudio2" controls controlsList="nodownload" src="./images/t2627.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio2");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/copy){target="_blank"}
+| | [Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | Watch Izzy's _Hebrew Quest_ videos: [Psalm 1](https://holylanguage.com/psalm-1.php){target="_blank"} and [Psalm 27](https://holylanguage.com/psalm-27.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation:  [Psalms 1](https://scholarsgateway.com/search/WLC-ESV/Psalms/1){target="_blank"} and  [Psalms 27](https://scholarsgateway.com/search/WLC-ESV/Psalms/27){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
 
 ## Lesson Extras {-}
 
@@ -21323,24 +21667,27 @@ YOUR QUEST
 
 Once you have completed all activities through this lesson, fill out the form below to receive your next Badge.
 
+[Open Badge form in a new window](https://forms.gle/QC5VgJExb9R89Yde8){target="_blank"}
+
+
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/QC5VgJExb9R89Yde8" frameborder="0"></iframe>
 </div>
 
-[Open Badge form in a new window](https://forms.gle/QC5VgJExb9R89Yde8){target="_blank"}
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Revelation 1 {-}
+## _Hebrew Quest_ Study Passage: Revelation 1 {-}
 
-::: {.box .map}
-YOUR HEBREW QUEST
+YOUR HEBREW QUEST!
 
-1. Read the passage - [Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
-4. After the video, compare your translation with versions such as ESV, NASB, NIV and/or NLT. How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
-:::
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Revelation 1](https://docs.google.com/document/d/1EfxyZpTDzP-eaXgVAx4nWcdETV_fActF8L3l-0QQvGA/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/revelation-1.php){target="_blank"}
+| *Revise* | Refine your translation using any reliable English Bible version
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
 ## Lesson Extras {-}
 
@@ -21500,18 +21847,33 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/YiO_gyPz-nM){target="_blank"}
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Psalms 145 {-}
+## _Hebrew Quest_ Study Passage: Psalms 145 {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST
-
-1. Read the passage - [Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t26e5.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/145){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
 ## Lesson Extras {-}
 
@@ -21944,20 +22306,33 @@ YOUR QUEST
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Exodus 19 {-}
+## _Hebrew Quest_ Study Passage: Exodus 19 {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST
-
-1. Read the passage - [Blank copy of Exodus 19](https://docs.google.com/document/d/1OGYrVxUGGPbwi8ioGi1bnt_vwA4YCNE2XZ2l3GQ8rQM/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-33.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-    * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Exocus/19){target="_blank"}
-    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaKodesh speak to you through the passage?
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0219.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Exodus 19](https://docs.google.com/document/d/1OGYrVxUGGPbwi8ioGi1bnt_vwA4YCNE2XZ2l3GQ8rQM/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-33.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exocus/19){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
 ## Lesson Extras {-}
 
@@ -22334,24 +22709,40 @@ Make sure you can identify the diagnostic indicators of these Hiphil verbs.
 
 Once you have completed all activities through this lesson, fill out the form below to receive your next `12 Tribes Badge`.
 
+[Open Badge form in a new window](https://forms.gle/gD1doxWveXuijHUF6){target="_blank"}
+
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/gD1doxWveXuijHUF6" frameborder="0"></iframe>
 </div>
 
-[Open Badge form in a new window](https://forms.gle/gD1doxWveXuijHUF6){target="_blank"}
 
-## Honors Track: _Hebrew Quest_ Study Passage: Exodus 20 {-}
+## _Hebrew Quest_ Study Passage: Exodus 20 {-}
 
-::: {.box .map}
-YOUR HEBREW QUEST
-
-1. Read the passage - [Blank copy of Exodus 20](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
-2. Now re-read the passage critically, highlighting ([lexicon here](https://holylanguage.com/resources-dictionaries.php){target="_blank"} and translating (you will need to parse verbs to translate)
-3.[Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-34.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
-
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0220.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Exodus 20](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-34.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/20){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
 ## Lesson Extras {-}
 
@@ -22701,26 +23092,33 @@ YOUR QUEST
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: 1 Samuel 17 {-}
+## _Hebrew Quest_ Study Passage: 1 Samuel 17 {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST
-
-1. Read the passage - [Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ video (video opens in a new tab)
-    * [part 1](https://holylanguage.com/samuel-17.1.php){target="_blank"}
-    * [part 2](https://holylanguage.com/samuel-17.2.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
-    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaKodesh speak to you through the passage?
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t08a17.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
 
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of 1 Samuel 17](https://docs.google.com/document/d/1jX0OyJq3--vHWysXkZfXKNDCUFvOf04TalAEQInX6C8/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | Watch Izzy's _Hebrew Quest_ videos (opens in a new tab): [part 1](https://holylanguage.com/samuel-17.1.php){target="_blank"} and [part 2](https://holylanguage.com/samuel-17.2.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
 ## Lesson Extras {-}
 
@@ -22913,22 +23311,39 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Psalms 45 {-}
+## _Hebrew Quest_ Study Passage: Psalms 45 {-}
+
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2645.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Psalms 45](https://docs.google.com/document/d/1Wt1c4OYlK0y2EZnqczRG2U3BhTEzklbHIVg4eNyFhhs/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-45.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/45){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
 
-::: {.box .map}
-YOUR HEBREW QUEST
 
-1. Read through the passage - [Blank copy of Psalms 45](https://docs.google.com/document/d/1Wt1c4OYlK0y2EZnqczRG2U3BhTEzklbHIVg4eNyFhhs/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-45.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-    * You may wish to check your parsing [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/45){target="_blank"}
-    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaKodesh speak to you through the passage?
+
+
+
 6. Complete Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/37/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
 
 :::
@@ -23266,35 +23681,41 @@ YOUR QUEST
 
 Once you have completed **all activities** through this lesson, fill out the form below, and receive your next badge!
 
+[Open Badge form in a new window](https://forms.gle/ejQEQDRGZJT1v8jE6){target="_blank"}
+
 <div class="containerLtr">
 <iframe class="responsive-iframe" src="https://forms.gle/ejQEQDRGZJT1v8jE6" frameborder="0"></iframe>
 </div>
 
-[Open Badge form in a new window](https://forms.gle/ejQEQDRGZJT1v8jE6){target="_blank"}
 
 
+## _Hebrew Quest_ Study Passage: Leviticus 23 {-}
 
-## Honors Track: _Hebrew Quest_ Study Passage: Leviticus 23 {-}
-
-
-::: {.box .map}
-YOUR HEBREW QUEST
-
-1. Read through the passage - [Blank copy of Leviticus 23](https://docs.google.com/document/d/1QlmWYqkD6NNOM0VcJCrJbB_ntpuXnoCCdpqJ0m6xcqU/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)]
-    * [Part 1](https://holylanguage.com/leviticus-23.1.php){target="_blank"}
-    * [Part 2](https://holylanguage.com/leviticus-23.2.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
-    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaKodesh speak to you through the passage?
-6. Complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/38/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0323.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Leviticus 23](https://docs.google.com/document/d/1QlmWYqkD6NNOM0VcJCrJbB_ntpuXnoCCdpqJ0m6xcqU/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | Watch Izzy's _Hebrew Quest_ videos (opens in a new tab): [Part 1](https://holylanguage.com/leviticus-23.1.php){target="_blank"} and [Part 2](https://holylanguage.com/leviticus-23.2.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Leviticus/23){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 ## Lesson Extras {-}
 
@@ -23568,25 +23989,34 @@ Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael v
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
+## _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
 
-
-::: {.box .map}
-YOUR HEBREW QUEST
-
-1. Read through the passage - [Blank copy of 1 Kings 18](https://docs.google.com/document/d/1YmsEP2tiOf2qtI3xSM_HJ0sgTYUtV8Up86UIFotRtNY/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Parse as many verbs as you can
-    3. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, [watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/kings-18.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-    * You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Samuel/17){target="_blank"}
-    * Check the "verbs" box to highlight all of the verbs in the passage, then hover over each verb for parsing information
-5. How did the Ruach HaKodesh speak to you through the passage?
-6. Complete the passage memorization in Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/40/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
+::: {.infobox .sound}
+<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t09b18.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
 :::
+
+YOUR HEBREW QUEST!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of 1 Kings 18](https://docs.google.com/document/d/1YmsEP2tiOf2qtI3xSM_HJ0sgTYUtV8Up86UIFotRtNY/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/kings-18.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/1%20Kings/17){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
+
 
 ## Lesson Extras {-}
 

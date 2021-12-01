@@ -106,10 +106,10 @@ Failure to follow these steps could lead to Anki frustration!
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](https://youtu.be/lBKbLFw3Ouo){target="_blank"}
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | On the website, click the `Download` button, then select the tab with your operating system^[The version numbers will change with the passage of time.  Unless instructed otherwise, download the curent version of the Anki desktop program on their website].  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}
 6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone. After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
-|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
-| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1.0)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit3_V00.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 0.1)](./images/HGQ_Anki_Unit4_V00.apkg){target="_blank"} |
+|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit.  We will have reminders in each unit introduction. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
+| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
+| | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 1)](./images/HGQ_Anki_Unit3_V01.0.apkg){target="_blank"} |
+| | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 1)](./images/HGQ_Anki_Unit4_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
 7. Tweak a few Anki settings (see next section) | `Anki` is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
@@ -166,34 +166,34 @@ knitr::include_graphics("images/00.anki_options.png")
 
 ### Daily limits and New Cards {-}
 
-```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
+```{r, out.width = "700pt", fig.align='center', fig.cap="Daily Limits and New Cards"}
 knitr::include_graphics("images/00.ankisettings01.png")
 ```
 
-::: {.box .info}
-* NEW CARDS/DAY: You are welcome to enter any number you wish, but lower numbers mean it will take longer to get through the entire deck.  `200` is recommended, but this does not mean you have to do 200 new cards in one day or the next day you will have 400 new cards.  You will never have more new cards than the number entered here. 
-* INSERTION ORDER: If you find `Sequential` is too easy, you might try to switch to `Random`.
+Notes^[NEW CARDS/DAY: You are welcome to enter any number you wish, but lower numbers mean it will take longer to get through the entire deck.  `200` is recommended, but this does not mean you have to do 200 new cards in one day or the next day you will have 400 new cards.  You will never have more new cards than the number entered here. INSERTION ORDER: If you find `Sequential` is too easy, you might try to switch to `Random`.]
 
-:::
 
 ### Lapses and Timer {-}
 
-`Show answer timer` is optional.
-```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
+Note^[`Show answer timer` is optional.]
+
+```{r, out.width = "700pt", fig.align='center', fig.cap="Lapses and Timer"}
 knitr::include_graphics("images/00.ankisettings02.png")
 ```
 
 
 ### Burying and Audio {-}
 
-Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.
-```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
+```{r, out.width = "700pt", fig.align='center', fig.cap="Burying and Audio"}
 knitr::include_graphics("images/00.ankisettings03.png")
 ```
 
+
+Notes^[Cards that have multiple answers are called `siblings`.  Turning the sibling settings on is more challenging; leaving these off is less challenging.  We recommend to start with these turned on.]
+
 ### Advanced {-}
  
-```{r, out.width = "700pt", fig.align='center', fig.cap="Settings"}
+```{r, out.width = "700pt", fig.align='center', fig.cap="Advanced"}
 knitr::include_graphics("images/00.ankisettings04.png")
 ```
 
@@ -204,12 +204,12 @@ Anki Add-ons
 * You might check out [Advanced Review Bottom Bar](https://ankiweb.net/shared/info/1136455830)
   * Or `Tools` / `Addons` / `Get Add-ons` / then enter `1136455830`
   * You can tweak the add-on settings in the `ARBb` menu - try `Button style` = `Wide + Background Color`
-* Another useful add-on is [More Overview Stats 2.1](https://ankiweb.net/shared/info/738807903)
+* Another useful add-on is [More Overview Stats](https://ankiweb.net/shared/info/738807903)
   * This displays your `Young` vs `Mature` cards on the deck's dashboard - see picture ^[1st column is number of cards.  2nd column is percentage of cards.  3rd column is percentage of cards excluding `Suspended` cards (for the `Unit Certificate` your screenshot must reflect 0 suspended cards).]
   * Add-on number: `738807903`
 :::
 
-```{r, out.width = "500pt", fig.align='center', fig.cap="Settings"}
+```{r, out.width = "500pt", fig.align='center', fig.cap="More Overview Stats"}
 knitr::include_graphics("images/00.anki_more_stats.png")
 ```
 
