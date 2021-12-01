@@ -1355,6 +1355,7 @@ function setPlaySpeed25() {
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -1402,9 +1403,9 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <iframe class="responsive-iframe" src="https://forms.gle/ywRYeNmuKkK441Pj9" frameborder="0"></iframe>
 </div>
 
-## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #5-7 {-}
+## Honors Track: Hebrew Quest Study Passage - Proverbs #5-7 {-}
  
-YOUR HEBREW QUEST:
+YOUR _HEBREW QUEST_:
 
 | | |
 |:- |:- |:- 
@@ -1414,8 +1415,8 @@ YOUR HEBREW QUEST:
 | | | [Proverbs #6](https://holylanguage.com/proverbs-6.php){target="_blank"}
 | | | [Proverbs #7](https://holylanguage.com/proverbs-7.php){target="_blank"}
 | *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/12){target="_blank"}
-| *Reflect* | How did the Ruach HaKodesh speak to you? |
-
+| *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
+| *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 

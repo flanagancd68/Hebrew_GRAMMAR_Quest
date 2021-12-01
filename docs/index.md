@@ -12038,7 +12038,7 @@ Find the following miscellaneous words:
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## Honors Track: _Hebrew Quest_ Study Passage - Proverbs Studies #1-4 {-}
+## Honors Track: Hebrew Quest Study Passage - Proverbs Studies #1-4 {-}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" 
@@ -12070,12 +12070,12 @@ function setPlaySpeed25() {
 This activity is where your Hebrew GRAMMAR Quest will come to life!
 :::
 
-Please review the description of the _Hebrew Quest_ Study Passage activity in the Introduction to Unit III if you haven't already done so.
+Please review the description of the _Hebrew Quest_ Study Passage activity in the Introduction to Unit III if you haven't already done so. As a reminder this is an optional track to graduate Hebrew GRAMMAR Quest "With Honors".
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 ::: {.box .stop}
-Important: read the passage on your own __BEFORE__ watching the _Hebrew Quest_ video!
+Important: read the passage and compose a translation on your own __BEFORE__ watching the _Hebrew Quest_ video!
 :::
 
 
@@ -12088,7 +12088,9 @@ Important: read the passage on your own __BEFORE__ watching the _Hebrew Quest_ v
 | | | [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
 | | | [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
 | *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs){target="_blank"}
-| *Reflect* | How did the Ruach HaKodesh speak to you? |
+| *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
+| *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
+
 
 
 
@@ -13432,6 +13434,7 @@ function setPlaySpeed25() {
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -13479,9 +13482,9 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <iframe class="responsive-iframe" src="https://forms.gle/ywRYeNmuKkK441Pj9" frameborder="0"></iframe>
 </div>
 
-## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #5-7 {-}
+## Honors Track: Hebrew Quest Study Passage - Proverbs #5-7 {-}
  
-YOUR HEBREW QUEST:
+YOUR _HEBREW QUEST_:
 
 | | |
 |:- |:- |:- 
@@ -13491,8 +13494,8 @@ YOUR HEBREW QUEST:
 | | | [Proverbs #6](https://holylanguage.com/proverbs-6.php){target="_blank"}
 | | | [Proverbs #7](https://holylanguage.com/proverbs-7.php){target="_blank"}
 | *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/12){target="_blank"}
-| *Reflect* | How did the Ruach HaKodesh speak to you? |
-
+| *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
+| *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 
@@ -14233,6 +14236,7 @@ You can refer back to these clues if you encounter a word that doesn't seem to f
 
 ## Ruth Pursuit {-}    
 
+::: {.infobox .sound}
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -14269,9 +14273,9 @@ Identify and translate the Qal Perfect Weak Verbs below.  All verbal roots are v
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #8-10 {-}
+## Honors Track: Hebrew Quest Study Passage - Proverbs #8-10 {-}
 
-YOUR HEBREW QUEST:
+YOUR _HEBREW QUEST_:
 
 | | |
 |:- |:- |:- 
@@ -14281,8 +14285,8 @@ YOUR HEBREW QUEST:
 | | | [Proverbs #9](https://holylanguage.com/proverbs-9.php){target="_blank"}
 | | | [Proverbs #10](https://holylanguage.com/proverbs-10.php){target="_blank"}
 | *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/15){target="_blank"}
-| *Reflect* | How did the Ruach HaKodesh speak to you? |
-
+| *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
+| *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 
@@ -14779,6 +14783,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}   
 
+::: {.infobox .sound}
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -14808,10 +14813,10 @@ Identify and translate the Qal Verbs below.
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
+## Honors Track: Hebrew Quest Study Passage: Proverbs #11-14 {-}
 
 
-YOUR HEBREW QUEST:
+YOUR _HEBREW QUEST_:
 
 | | |
 |:- |:- |:- 
@@ -14822,8 +14827,8 @@ YOUR HEBREW QUEST:
 | | | [Proverbs #13](https://holylanguage.com/proverbs-13.php){target="_blank"}
 | | | [Proverbs #14](https://holylanguage.com/proverbs-14.php){target="_blank"}
 | *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/18){target="_blank"}
-| *Reflect* | How did the Ruach HaKodesh speak to you? |
-
+| *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
+| *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 
@@ -15548,6 +15553,8 @@ Apart from a few irregular changes, the Qal Imperfect is relatively easy to reco
 
 ## Ruth Pursuit {-}   
 
+::: {.infobox .sound}
+
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -15588,7 +15595,7 @@ Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar wo
 
 
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next Twelve Tribes Badge! {-}
 
 <!-- Lesson 16 Tribe Badge 6 = Joseph -->
 
@@ -15602,10 +15609,10 @@ Once you have completed **all activities** through this lesson, you can fill out
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
+## Honors Track: Hebrew Quest Study Passage: Proverbs #15-17 {-}
 
 
-YOUR HEBREW QUEST:
+YOUR _HEBREW QUEST_!
 
 | | |
 |:- |:- |:- 
@@ -15615,9 +15622,8 @@ YOUR HEBREW QUEST:
 | | | [Proverbs #16](https://holylanguage.com/proverbs-16.php){target="_blank"}
 | | | [Proverbs #17](https://holylanguage.com/proverbs-17.php){target="_blank"}
 | *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/22){target="_blank"}
-| *Reflect* | How did the Ruach HaKodesh speak to you? |
-
-
+| *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
+| *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 
@@ -16095,6 +16101,7 @@ Write the paradigm until you can complete it correctly at least once. Focus on u
 
 ## Ruth Pursuit {-}   
 
+::: {.infobox .sound}
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -16134,7 +16141,7 @@ YOUR QUEST
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Genesis 1:1-5 {-}
+## Honors Track: Hebrew Quest Study Passage: Genesis 1:1-5 {-}
 
 With this lesson, we move away from the selected verses in Proverbs to lengthier study passages.
 
@@ -16153,7 +16160,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST:
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -16162,6 +16169,7 @@ YOUR HEBREW QUEST:
 | *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-1.php){target="_blank"}. Though we would encourage viewing the entire segment, since you already reviewed Genesis 1:1 back in Lesson 6, you can start with Genesis 1:2 at the 46:50 mark
 | *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Genesis/1:1-5){target="_blank"}
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 Audio from Holy Language 
@@ -16822,6 +16830,7 @@ Write the Qal Volitional paradigm until you can complete it correctly at least o
 
 ## Ruth Pursuit {-}   
 
+::: {.infobox .sound}
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -16847,7 +16856,7 @@ YOUR QUEST
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #18](./images/18_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## Honors Track: _Hebrew Quest_ Study Passage: The Shema {-}
+## Honors Track: Hebrew Quest Study Passage: The Shema {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0506.m4a">
@@ -16864,7 +16873,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -16873,6 +16882,8 @@ YOUR HEBREW QUEST!
 | *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/deuteronomy-6.php){target="_blank"}
 | *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Deuteronomy/6:4-9){target="_blank"}
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
+
 
 
 ## Lesson Extras {-}
@@ -17231,7 +17242,7 @@ Once you have completed __all activities__ through this lesson, you are eligible
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage:  Matthew 6 {-}
+## Honors Track: Hebrew Quest Study Passage:  Matthew 6 {-}
 
 
 | | 
@@ -17241,6 +17252,7 @@ Once you have completed __all activities__ through this lesson, you are eligible
 | *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/matthew-6.php){target="_blank"}
 | *Revise* | Refine your translation using any reliable English Bible version
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 ## Lesson Extras {-}
@@ -17709,7 +17721,7 @@ YOUR QUEST
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Genesis 22:1-19 {-}
+## Honors Track: Hebrew Quest Study Passage: Genesis 22:1-19 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0122.m4a">
@@ -17726,7 +17738,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -17735,6 +17747,7 @@ YOUR HEBREW QUEST!
 | *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/genesis-22.php){target="_blank"}
 | *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Genesis/22:1-19){target="_blank"}
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 
@@ -18014,6 +18027,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}   
 
+::: {.infobox .sound}
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -18044,7 +18058,7 @@ YOUR QUEST:
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Aaronic/Priestly Blessing {-}
+## Honors Track: Hebrew Quest Study Passage: Aaronic/Priestly Blessing {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0406.m4a">
@@ -18061,7 +18075,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -18070,6 +18084,7 @@ YOUR HEBREW QUEST!
 | *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-6.php){target="_blank"}
 | *Revise* | Refine your translation
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 ## Lesson Extras {-}
@@ -18502,6 +18517,8 @@ The attached worksheet has all of the Qal strong forms we have studied in Lesson
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
+
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -18527,7 +18544,7 @@ Identify the one Participle in Ruth 1.  You might recall that we discussed this 
 * [Ruth Pursuit Answer Key #22](./images/22_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next Twelve Tribes Badge! {-}
 
 <!-- Lesson 22 Tribe Badge 8 = LEVI -->
 
@@ -18541,10 +18558,10 @@ Once you have completed all activities through this lesson, complete the form be
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Matthew 13 {-}
+## Honors Track: Hebrew Quest Study Passage: Matthew 13 {-}
 
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -18553,6 +18570,7 @@ YOUR HEBREW QUEST!
 | *Review* | Watch Izzy's _Hebrew Quest_ Videos: [Part 1](https://holylanguage.com/matthew-13.1.php){target="_blank"} and [Part 2](https://holylanguage.com/matthew-13.2.php){target="_blank"}
 | *Revise* | Refine your translation
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 ## Lesson Extras {-}
@@ -18954,6 +18972,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit Syntax Study {-}        
 
+::: {.infobox .sound}
+
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -18995,7 +19015,7 @@ If you have completed **all activities** in Lessons 1-23, you may claim the thir
 <iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
 </div>
 
-## Honors Track: _Hebrew Quest_ Study Passage: Psalm 19 {-}
+## Honors Track: Hebrew Quest Study Passage: Psalm 19 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2619.m4a">
@@ -19012,7 +19032,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -19021,6 +19041,7 @@ YOUR HEBREW QUEST!
 | *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-19.php){target="_blank"}
 | *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/19){target="_blank"}
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
 
