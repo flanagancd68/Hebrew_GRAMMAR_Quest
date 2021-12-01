@@ -605,7 +605,7 @@ This exercise is for you.  Although you will need to complete this activity in o
 
 :::
 
-## _Hebrew Quest_ Study Passage: Exodus 31:12-17 {-}
+## Hebrew Quest Study Passage: Exodus 31:12-17 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0231.m4a">
@@ -622,7 +622,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  

@@ -340,6 +340,21 @@ POTENTIAL LOOK-ALIKES
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 :::  {.box .map}
 YOUR QUEST
 
@@ -366,7 +381,7 @@ Once you have completed all activities through this lesson, fill out the form be
 </div>
 
 
-## _Hebrew Quest_ Study Passage: Exodus 20 {-}
+## Hebrew Quest Study Passage: Exodus 20 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0220.m4a">
@@ -383,7 +398,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -400,7 +415,7 @@ YOUR HEBREW QUEST!
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/31_overheads_bw.pdf){target=“_blank”}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-31.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_31.pdf){target=“_blank”}
-* [Dr. Beckman additional parsing practice video] (http://youtu.be/jytjiKkTNl8){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet.pdf){target=“_blank”}
+* [Dr. Beckman additional parsing practice video](http://youtu.be/jytjiKkTNl8){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet.pdf){target=“_blank”}
 * [Dr. Beckman parsing review chapters 14-31 video](http://youtu.be/xN72q4R_DWs){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet_14.pdf){target=“_blank”} 
 * Additional Drills/Worksheets 
     * [Quiz a](https://hebrewsyntax.org/bbh2new/31_quiz_new.pdf){target=“_blank”}

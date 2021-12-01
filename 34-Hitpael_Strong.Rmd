@@ -314,7 +314,7 @@ YOUR QUEST
 :::
 
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next Twelve Tribes Badge! {-}
 
 <!-- Lesson 34 Tribe Badge 12 = ZEBULUN -->
 
@@ -328,7 +328,7 @@ Once you have completed **all activities** through this lesson, fill out the for
 
 
 
-## _Hebrew Quest_ Study Passage: Leviticus 23 {-}
+## Hebrew Quest Study Passage: Leviticus 23 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0323.m4a">
@@ -345,7 +345,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  

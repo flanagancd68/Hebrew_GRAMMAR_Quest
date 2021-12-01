@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-11-30"
+#date: "2021-12-01"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -28,7 +28,7 @@ lof: no
 <img src="images/HGQ_book_cover_draft.png" width="800pt" style="display: block; margin: auto;" />
 
 
-<small>*Updated*: 2021-11-30</small>
+<small>*Updated*: 2021-12-01</small>
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -19823,7 +19823,7 @@ Again, you do NOT need to have the Niphal paradigms memorized (although that may
 [Niphal Strong Paradigm](./images/24_niphal_strong_paradigms.pdf){target="_blank"}
 
 
-## _Hebrew Quest_ Study Passage: Numbers 15:37-41 {-}
+## Hebrew Quest Study Passage: Numbers 15:37-41 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0415.m4a">
@@ -19840,7 +19840,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -20275,10 +20275,10 @@ Once you have completed all activities through this lesson, complete the form be
 </div>
 
 
-## _Hebrew Quest_ Study Passage: John 1 {-}
+## Hebrew Quest Study Passage: John 1 {-}
 
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -20906,7 +20906,7 @@ This exercise is for you.  Although you will need to complete this activity in o
 
 :::
 
-## _Hebrew Quest_ Study Passage: Exodus 31:12-17 {-}
+## Hebrew Quest Study Passage: Exodus 31:12-17 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0231.m4a">
@@ -20923,7 +20923,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -21320,7 +21320,7 @@ Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 =
 
 
 
-## Honors Track: _Hebrew Quest_ Study Passage: Psalms 1 and 27 {-}
+## Hebrew Quest Study Passage: Psalms 1 and 27 {-}
 
 ::: {.infobox .sound}
 <figure>Psalms 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2601.m4a">
@@ -21352,7 +21352,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -21697,9 +21697,9 @@ Once you have completed all activities through this lesson, fill out the form be
 
 
 
-## _Hebrew Quest_ Study Passage: Revelation 1 {-}
+## Hebrew Quest Study Passage: Revelation 1 {-}
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -21868,7 +21868,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/YiO_gyPz-nM){target="_blank"}
 
 
-## _Hebrew Quest_ Study Passage: Psalms 145 {-}
+## Hebrew Quest Study Passage: Psalms 145 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t26e5.m4a">
@@ -21885,7 +21885,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -21899,7 +21899,7 @@ YOUR HEBREW QUEST!
 ## Lesson Extras {-}
 
 * [Dr. Beckman Lecture Video](http://youtu.be/36RA9V4cwiE){target=“_blank”}
-* [Dr. Beckman Lecture Notes] (https://hebrewsyntax.org/bbh2new/29_overheads_bw.pdf){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/29_overheads_bw.pdf){target=“_blank”}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-29.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_29.pdf){target=“_blank”}
 * Additional Drills/Worksheets 
@@ -22327,7 +22327,7 @@ YOUR QUEST
 
 
 
-## _Hebrew Quest_ Study Passage: Exodus 19 {-}
+## Hebrew Quest Study Passage: Exodus 19 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0219.m4a">
@@ -22344,7 +22344,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -22711,6 +22711,21 @@ POTENTIAL LOOK-ALIKES
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 :::  {.box .map}
 YOUR QUEST
 
@@ -22737,7 +22752,7 @@ Once you have completed all activities through this lesson, fill out the form be
 </div>
 
 
-## _Hebrew Quest_ Study Passage: Exodus 20 {-}
+## Hebrew Quest Study Passage: Exodus 20 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0220.m4a">
@@ -22754,7 +22769,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -22771,7 +22786,7 @@ YOUR HEBREW QUEST!
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/31_overheads_bw.pdf){target=“_blank”}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-31.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_31.pdf){target=“_blank”}
-* [Dr. Beckman additional parsing practice video] (http://youtu.be/jytjiKkTNl8){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet.pdf){target=“_blank”}
+* [Dr. Beckman additional parsing practice video](http://youtu.be/jytjiKkTNl8){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet.pdf){target=“_blank”}
 * [Dr. Beckman parsing review chapters 14-31 video](http://youtu.be/xN72q4R_DWs){target=“_blank”} for [this worksheet](https://hebrewsyntax.org/bbh2new/31_parsing_worksheet_14.pdf){target=“_blank”} 
 * Additional Drills/Worksheets 
     * [Quiz a](https://hebrewsyntax.org/bbh2new/31_quiz_new.pdf){target=“_blank”}
@@ -23113,7 +23128,7 @@ YOUR QUEST
 
 
 
-## _Hebrew Quest_ Study Passage: 1 Samuel 17 {-}
+## Hebrew Quest Study Passage: 1 Samuel 17 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t08a17.m4a">
@@ -23130,7 +23145,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -23332,7 +23347,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 
 
-## _Hebrew Quest_ Study Passage: Psalms 45 {-}
+## Hebrew Quest Study Passage: Psalms 45 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2645.m4a">
@@ -23360,14 +23375,6 @@ YOUR HEBREW QUEST!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
-
-
-
-
-
-6. Complete Memrise [here](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/37/garden/learn/?source_element=level_details_session&source_screen=level_details){target="_blank}.
-
-:::
 
 
 ## Lesson Extras {-}
@@ -23696,7 +23703,7 @@ YOUR QUEST
 :::
 
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next Twelve Tribes Badge! {-}
 
 <!-- Lesson 34 Tribe Badge 12 = ZEBULUN -->
 
@@ -23710,7 +23717,7 @@ Once you have completed **all activities** through this lesson, fill out the for
 
 
 
-## _Hebrew Quest_ Study Passage: Leviticus 23 {-}
+## Hebrew Quest Study Passage: Leviticus 23 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0323.m4a">
@@ -23727,7 +23734,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -23999,6 +24006,21 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}        
 
+::: {.infobox .sound}
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
 ::: {.box .map}
 YOUR QUEST
 
@@ -24010,7 +24032,7 @@ Identify the lone Hitpael verb in Ruth 1.  In fact, there are no other Hitpael v
 
 
 
-## _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
+## Hebrew Quest Study Passage: 1 Kings 18 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t09b18.m4a">

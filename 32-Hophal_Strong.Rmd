@@ -333,7 +333,7 @@ YOUR QUEST
 
 
 
-## _Hebrew Quest_ Study Passage: 1 Samuel 17 {-}
+## Hebrew Quest Study Passage: 1 Samuel 17 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t08a17.m4a">
@@ -350,7 +350,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  

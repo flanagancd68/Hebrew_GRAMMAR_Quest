@@ -142,7 +142,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 [Click to open `Verses Warm-up` video in a new tab](https://youtu.be/YiO_gyPz-nM){target="_blank"}
 
 
-## _Hebrew Quest_ Study Passage: Psalms 145 {-}
+## Hebrew Quest Study Passage: Psalms 145 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t26e5.m4a">
@@ -159,7 +159,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR HEBREW QUEST!
+YOUR _HEBREW QUEST_!
 
 | | 
 |:- |:-  
@@ -173,7 +173,7 @@ YOUR HEBREW QUEST!
 ## Lesson Extras {-}
 
 * [Dr. Beckman Lecture Video](http://youtu.be/36RA9V4cwiE){target=“_blank”}
-* [Dr. Beckman Lecture Notes] (https://hebrewsyntax.org/bbh2new/29_overheads_bw.pdf){target=“_blank”}
+* [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/29_overheads_bw.pdf){target=“_blank”}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-29.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_29.pdf){target=“_blank”}
 * Additional Drills/Worksheets 
