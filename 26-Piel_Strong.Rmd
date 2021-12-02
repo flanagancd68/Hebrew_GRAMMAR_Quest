@@ -605,7 +605,53 @@ This exercise is for you.  Although you will need to complete this activity in o
 
 :::
 
+### Ruth 1:1-6 {-}
+
+::: {.infobox .sound}
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+<span class="he"><p align="right">
+‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+‫ 
+<span></p>
+
+
+
+
+
+
 ## Hebrew Quest Study Passage: Exodus 31:12-17 {-}
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Exodus 31](https://docs.google.com/document/d/1uRkk2MNy6-8CqSzXQAadDqhnHqUTI6i7Bd6OOxCbYjQ/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/exodus-31.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31:12-17){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+###  Exodus 31:12-17 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0231.m4a">
@@ -622,16 +668,21 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR _HEBREW QUEST_!
+<span class="he"><p align="right">
 
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Exodus 31](https://docs.google.com/document/d/1uRkk2MNy6-8CqSzXQAadDqhnHqUTI6i7Bd6OOxCbYjQ/copy){target="_blank"}
-| *Record* | Write a translation
-| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/exodus-31.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31:12-17){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+‫ 12   וַיֹּ֥אמֶר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ ‬
+
+‫ 13   וְאַתָּ֞ה דַּבֵּ֨ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר אַ֥ךְ אֶת־שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ כִּי֩ א֨וֹת הִ֜וא בֵּינִ֤י וּבֵֽינֵיכֶם֙ לְדֹרֹ֣תֵיכֶ֔ם לָדַ֕עַת כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁכֶֽם׃ ‬
+
+‫ 14   וּשְׁמַרְתֶּם֙ אֶת־הַשַּׁבָּ֔ת כִּ֛י קֹ֥דֶשׁ הִ֖וא לָכֶ֑ם מְחַֽלְלֶ֙יהָ֙ מ֣וֹת יוּמָ֔ת כִּ֗י כָּל־הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ׃ ‬
+
+‫ 15   שֵׁ֣שֶׁת יָמִים֮ יֵעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֧ת שַׁבָּת֛וֹן קֹ֖דֶשׁ לַיהוָ֑ה כָּל־הָעֹשֶׂ֧ה מְלָאכָ֛ה בְּי֥וֹם הַשַּׁבָּ֖ת מ֥וֹת יוּמָֽת׃ ‬
+
+‫ 16   וְשָׁמְר֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל אֶת־הַשַּׁבָּ֑ת לַעֲשׂ֧וֹת אֶת־הַשַּׁבָּ֛ת לְדֹרֹתָ֖ם בְּרִ֥ית עוֹלָֽם׃ ‬
+
+‫ 17   בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי־שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙ אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ׃ ס ‬
+
+</span></p>
 
 ## Lesson Extras {-}
 

@@ -626,6 +626,20 @@ Again, you do NOT need to have the Niphal paradigms memorized (although that may
 
 ## Hebrew Quest Study Passage: Numbers 15:37-41 {-}
 
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* |  [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15:37-41){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+### Numbers 15:37-41 {-}
+
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0415.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
@@ -641,16 +655,19 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR _HEBREW QUEST_!
+<span class="he"><p align="right">
+‬
+‫ 37   וַיֹּ֥אמֶר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ ‬
 
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/copy){target="_blank"}
-| *Record* | Write a translation
-| *Review* |  [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15:37-41){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+‫ 38   דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם וְעָשׂ֨וּ לָהֶ֥ם צִיצִ֛ת עַל־כַּנְפֵ֥י בִגְדֵיהֶ֖ם לְדֹרֹתָ֑ם וְנָֽתְנ֛וּ עַל־צִיצִ֥ת הַכָּנָ֖ף פְּתִ֥יל תְּכֵֽלֶת׃ ‬
+
+‫ 39   וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת־כָּל־מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹֽא־תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם׃ ‬
+
+‫ 40   לְמַ֣עַן תִּזְכְּר֔וּ וַעֲשִׂיתֶ֖ם אֶת־כָּל־מִצְוֺתָ֑י וִהְיִיתֶ֥ם קְדֹשִׁ֖ים לֵֽאלֹהֵיכֶֽם׃ ‬
+
+‫ 41   אֲנִ֞י יְהוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִ֑ים אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃ פ ‬
+
+</span></p>
 
 ## Lesson Extras {-}
 

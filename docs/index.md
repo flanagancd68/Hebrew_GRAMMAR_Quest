@@ -20525,6 +20525,20 @@ If you have completed **all activities** in Lessons 1-23, you may claim the thir
 
 ## Hebrew Quest Study Passage: Psalm 19 {-}
 
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/copy){target="_blank"}
+| *Record* | Parse as many verbs as you can and translate each word
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-19.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/19){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
+
+### Psalms 19 {-}
+
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2619.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
@@ -20539,19 +20553,6 @@ function setPlaySpeed2() {x.playbackRate = 2; x.play();}
 function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
 </script> </figure>
 :::
-
-YOUR _HEBREW QUEST_!
-
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Psalm 19](https://docs.google.com/document/d/1jyLXPdhaGYbyBmc6dZ2XJX1QrYDGgRpWtE6Yuho8B1k/copy){target="_blank"}
-| *Record* | Parse as many verbs as you can and translate each word
-| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-19.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/19){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
-
-### Psalms 19 {-}
 
 <span class="he"><p align="right">
 
@@ -21368,6 +21369,20 @@ Again, you do NOT need to have the Niphal paradigms memorized (although that may
 
 ## Hebrew Quest Study Passage: Numbers 15:37-41 {-}
 
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* |  [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15:37-41){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+### Numbers 15:37-41 {-}
+
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0415.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
@@ -21383,16 +21398,19 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR _HEBREW QUEST_!
+<span class="he"><p align="right">
+‬
+‫ 37   וַיֹּ֥אמֶר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ ‬
 
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Numbers 15](https://docs.google.com/document/d/19Tug4LR7twlNvMA0Gad_JKFsQNm5qugtzEqP_ET8_78/copy){target="_blank"}
-| *Record* | Write a translation
-| *Review* |  [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/numbers-15.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Numbers/15:37-41){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+‫ 38   דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם וְעָשׂ֨וּ לָהֶ֥ם צִיצִ֛ת עַל־כַּנְפֵ֥י בִגְדֵיהֶ֖ם לְדֹרֹתָ֑ם וְנָֽתְנ֛וּ עַל־צִיצִ֥ת הַכָּנָ֖ף פְּתִ֥יל תְּכֵֽלֶת׃ ‬
+
+‫ 39   וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת־כָּל־מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹֽא־תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם׃ ‬
+
+‫ 40   לְמַ֣עַן תִּזְכְּר֔וּ וַעֲשִׂיתֶ֖ם אֶת־כָּל־מִצְוֺתָ֑י וִהְיִיתֶ֥ם קְדֹשִׁ֖ים לֵֽאלֹהֵיכֶֽם׃ ‬
+
+‫ 41   אֲנִ֞י יְהוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִ֑ים אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃ פ ‬
+
+</span></p>
 
 ## Lesson Extras {-}
 
@@ -21776,21 +21794,6 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}        
 
-::: {.infobox .sound}
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
-
 :::  {.box .map}
 YOUR QUEST
 
@@ -21804,7 +21807,71 @@ By now, if you have been completing your `Ruth Pursuit` table along with each le
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #25](./images/25_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## Claim your next `Twelve Tribes Badge`! {-}
+### Ruth 1 {-}
+
+::: {.infobox .sound}
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+<span class="he"><p align="right">
+‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
+‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
+‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
+‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
+‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
+‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
+‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
+‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
+‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
+‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
+‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
+‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
+‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
+‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
+‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
+‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
+‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
+‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
+‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
+‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
+‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
+‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
+</span></p>
+
+
+## Claim your next Twelve Tribes Badge! {-}
 
 <!-- Lesson 25 Tribe Badge 9 = Naftali -->
 
@@ -22449,7 +22516,53 @@ This exercise is for you.  Although you will need to complete this activity in o
 
 :::
 
+### Ruth 1:1-6 {-}
+
+::: {.infobox .sound}
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+<span class="he"><p align="right">
+‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+‫ 
+<span></p>
+
+
+
+
+
+
 ## Hebrew Quest Study Passage: Exodus 31:12-17 {-}
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Exodus 31](https://docs.google.com/document/d/1uRkk2MNy6-8CqSzXQAadDqhnHqUTI6i7Bd6OOxCbYjQ/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/exodus-31.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31:12-17){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+###  Exodus 31:12-17 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0231.m4a">
@@ -22466,16 +22579,21 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR _HEBREW QUEST_!
+<span class="he"><p align="right">
 
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Exodus 31](https://docs.google.com/document/d/1uRkk2MNy6-8CqSzXQAadDqhnHqUTI6i7Bd6OOxCbYjQ/copy){target="_blank"}
-| *Record* | Write a translation
-| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/exodus-31.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/31:12-17){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+‫ 12   וַיֹּ֥אמֶר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ ‬
+
+‫ 13   וְאַתָּ֞ה דַּבֵּ֨ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר אַ֥ךְ אֶת־שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ כִּי֩ א֨וֹת הִ֜וא בֵּינִ֤י וּבֵֽינֵיכֶם֙ לְדֹרֹ֣תֵיכֶ֔ם לָדַ֕עַת כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁכֶֽם׃ ‬
+
+‫ 14   וּשְׁמַרְתֶּם֙ אֶת־הַשַּׁבָּ֔ת כִּ֛י קֹ֥דֶשׁ הִ֖וא לָכֶ֑ם מְחַֽלְלֶ֙יהָ֙ מ֣וֹת יוּמָ֔ת כִּ֗י כָּל־הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ׃ ‬
+
+‫ 15   שֵׁ֣שֶׁת יָמִים֮ יֵעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֧ת שַׁבָּת֛וֹן קֹ֖דֶשׁ לַיהוָ֑ה כָּל־הָעֹשֶׂ֧ה מְלָאכָ֛ה בְּי֥וֹם הַשַּׁבָּ֖ת מ֥וֹת יוּמָֽת׃ ‬
+
+‫ 16   וְשָׁמְר֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל אֶת־הַשַּׁבָּ֑ת לַעֲשׂ֧וֹת אֶת־הַשַּׁבָּ֛ת לְדֹרֹתָ֖ם בְּרִ֥ית עוֹלָֽם׃ ‬
+
+‫ 17   בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי־שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙ אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ׃ ס ‬
+
+</span></p>
 
 ## Lesson Extras {-}
 
@@ -22835,8 +22953,22 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 ## Ruth Pursuit {-}        
 
 
+
+:::  {.box .map}
+
+Identify, parse, and translate the two Piel verbs in Ruth 1
+
+Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Daghesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
+:::
+
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #27](./images/27_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+### Ruth 1 {-}
+
 ::: {.infobox .sound}
-<figure>Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -22850,20 +22982,71 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+<span class="he"><p align="right">
+‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
 
-:::  {.box .map}
+‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
 
-Identify, parse, and translate the two Piel verbs in Ruth 1
+‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
 
-Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Daghesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
-:::
+‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
 
-* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
-* [Ruth Pursuit Answer Key #27](./images/27_Ruth_Pursuit_KEY.pdf){target="_blank"}
+‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
+‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
+‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
+‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
+‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
+‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
+‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
+‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
+‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
+‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
+‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
+‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
+‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
+‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
+‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
+‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
+‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
+‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
+</span></p>
 
 
 
-## Hebrew Quest Study Passage: Psalms 1 and 27 {-}
+## Hebrew Quest Study Passages: Psalms 1 and 27 {-}
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/copy){target="_blank"}
+| | [Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | Watch Izzy's _Hebrew Quest_ videos: [Psalm 1](https://holylanguage.com/psalm-1.php){target="_blank"} and [Psalm 27](https://holylanguage.com/psalm-27.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation:  [Psalms 1](https://scholarsgateway.com/search/WLC-ESV/Psalms/1){target="_blank"} and  [Psalms 27](https://scholarsgateway.com/search/WLC-ESV/Psalms/27){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+
+
+### Psalms 1 {-}
 
 ::: {.infobox .sound}
 <figure>Psalms 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2601.m4a">
@@ -22880,6 +23063,24 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+<span class="he"><p align="right">
+‬
+‫ 1    אַ֥שְֽׁרֵי־הָאִ֗ישׁ אֲשֶׁ֤ר ׀ לֹ֥א הָלַךְ֮ בַּעֲצַ֢ת רְשָׁ֫עִ֥ים וּבְדֶ֣רֶךְ חַ֭טָּאִים לֹ֥א עָמָ֑ד וּבְמוֹשַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב׃ ‬
+
+‫ 2    כִּ֤י אִ֥ם בְּתוֹרַ֥ת יְהוָ֗ה חֶ֫פְצ֥וֹ וּֽבְתוֹרָת֥וֹ יֶהְגֶּ֗ה יוֹמָ֥ם וָלָֽיְלָה׃ ‬
+
+‫ 3    וְֽהָיָ֗ה כְּעֵץ֮ שָׁת֢וּל עַֽל־פַּלְגֵ֫י מָ֥יִם אֲשֶׁ֤ר פִּרְי֨וֹ ׀ יִתֵּ֬ן בְּעִתּ֗וֹ וְעָלֵ֥הוּ לֹֽא־יִבּ֑וֹל וְכֹ֖ל אֲשֶׁר־יַעֲשֶׂ֣ה יַצְלִֽיחַ׃ ‬
+
+‫ 4    לֹא־כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם־כַּ֝מֹּ֗ץ אֲ‍ֽשֶׁר־תִּדְּפֶ֥נּוּ רֽוּחַ׃ ‬
+
+‫ 5    עַל־כֵּ֤ן ׀ לֹא־יָקֻ֣מוּ רְ֭שָׁעִים בַּמִּשְׁפָּ֑ט וְ֝חַטָּאִ֗ים בַּעֲדַ֥ת צַדִּיקִֽים׃ ‬
+
+‫ 6    כִּֽי־יוֹדֵ֣עַ יְ֭הוָה דֶּ֣רֶךְ צַדִּיקִ֑ים וְדֶ֖רֶךְ רְשָׁעִ֣ים תֹּאבֵֽד׃ ‬
+‪
+</span></p>
+
+### Psalms 27 {-}
+
 ::: {.infobox .sound}
 <figure>Psalms 27 read by Abraham Shmuelof:<audio id="myAudio2" controls controlsList="nodownload" src="./images/t2627.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
@@ -22895,17 +23096,36 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR _HEBREW QUEST_!
+<span class="he"><p align="right">
+‫ 1   לְדָוִ֨ד ׀ יְהוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי מִמִּ֣י אִירָ֑א יְהוָ֥ה מָֽעוֹז־חַ֝יַּ֗י מִמִּ֥י אֶפְחָֽד׃ ‬
 
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Psalms 1](https://docs.google.com/document/d/16fIA7dWqvQ-0GFpcwTC-tKwAr1-GgxDxlQN09_kGX3o/copy){target="_blank"}
-| | [Blank copy of Psalms 27](https://docs.google.com/document/d/13erJPTE91FuYRR8OZWlASBpwn_r_x2YSkS2ikFPcAHc/copy){target="_blank"}
-| *Record* | Write a translation
-| *Review* | Watch Izzy's _Hebrew Quest_ videos: [Psalm 1](https://holylanguage.com/psalm-1.php){target="_blank"} and [Psalm 27](https://holylanguage.com/psalm-27.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation:  [Psalms 1](https://scholarsgateway.com/search/WLC-ESV/Psalms/1){target="_blank"} and  [Psalms 27](https://scholarsgateway.com/search/WLC-ESV/Psalms/27){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+‫ 2   בִּקְרֹ֤ב עָלַ֨י ׀ מְרֵעִים֮ לֶאֱכֹ֢ל אֶת־בְּשָׂ֫רִ֥י צָרַ֣י וְאֹיְבַ֣י לִ֑י הֵ֖מָּה כָשְׁל֣וּ וְנָפָֽלוּ׃ ‬
+
+‫ 3   אִם־תַּחֲנֶ֬ה עָלַ֨י ׀ מַחֲנֶה֮ לֹֽא־יִירָ֢א לִ֫בִּ֥י אִם־תָּק֣וּם עָ֭לַי מִלְחָמָ֑ה בְּ֝זֹ֗את אֲנִ֣י בוֹטֵֽחַ׃ ‬
+
+‫ 4   אַחַ֤ת ׀ שָׁאַ֣לְתִּי מֵֽאֵת־יְהוָה֮ אוֹתָ֢הּ אֲבַ֫קֵּ֥שׁ שִׁבְתִּ֣י בְּבֵית־יְ֭הוָה כָּל־יְמֵ֣י חַיַּ֑י לַחֲז֥וֹת בְּנֹֽעַם־יְ֝הוָ֗ה וּלְבַקֵּ֥ר בְּהֵיכָלֽוֹ׃ ‬
+
+‫ 5   כִּ֤י יִצְפְּנֵ֨נִי ׀ בְּסֻכֹּה֮ בְּי֢וֹם רָ֫עָ֥ה יַ֭סְתִּרֵנִי בְּסֵ֣תֶר אָהֳל֑וֹ בְּ֝צ֗וּר יְרוֹמְמֵֽנִי׃ ‬
+
+‫ 6   וְעַתָּ֨ה יָר֪וּם רֹאשִׁ֡י עַ֤ל אֹֽיְבַ֬י סְֽבִיבוֹתַ֗י וְאֶזְבְּחָ֣ה בְ֭אָהֳלוֹ זִבְחֵ֣י תְרוּעָ֑ה אָשִׁ֥ירָה וַ֝אֲזַמְּרָ֗ה לַיהוָֽה׃ ‬
+
+‫ 7   שְׁמַע־יְהוָ֖ה קוֹלִ֥י אֶקְרָ֗א וְחָנֵּ֥נִי וַעֲנֵֽנִי׃ ‬
+
+‫ 8   לְךָ֤ ׀ אָמַ֣ר לִ֭בִּי בַּקְּשׁ֣וּ פָנָ֑י אֶת־פָּנֶ֖יךָ יְהוָ֣ה אֲבַקֵּֽשׁ׃ ‬
+
+‫ 9   אַל־תַּסְתֵּ֬ר פָּנֶ֨יךָ ׀ מִמֶּנִּי֮ אַֽל־תַּט־בְּאַ֗ף עַ֫בְדֶּ֥ךָ עֶזְרָתִ֥י הָיִ֑יתָ אַֽל־תִּטְּשֵׁ֥נִי וְאַל־תַּֽ֝עַזְבֵ֗נִי אֱלֹהֵ֥י יִשְׁעִֽי׃ ‬
+
+‫ 10  כִּי־אָבִ֣י וְאִמִּ֣י עֲזָב֑וּנִי וַֽיהוָ֣ה יַֽאַסְפֵֽנִי׃ ‬
+
+‫ 11  ה֤וֹרֵ֥נִי יְהוָ֗ה דַּ֫רְכֶּ֥ךָ וּ֭נְחֵנִי בְּאֹ֣רַח מִישׁ֑וֹר לְ֝מַ֗עַן שׁוֹרְרָֽי׃ ‬
+
+‫ 12  אַֽל־תִּ֭תְּנֵנִי בְּנֶ֣פֶשׁ צָרָ֑י כִּ֥י קָֽמוּ־בִ֥י עֵֽדֵי־שֶׁ֝֗קֶר וִיפֵ֥חַ חָמָֽס׃ ‬
+
+‫ 13  לׅׄוּלֵׅׄ֗אׅׄ‪ הֶ֭אֱמַנְתִּי לִרְא֥וֹת בְּֽטוּב־יְהוָ֗ה בְּאֶ֣רֶץ חַיִּֽים׃ ‬
+
+‫ 14  קַוֵּ֗ה אֶל־יְה֫וָ֥ה חֲ֭זַק וְיַאֲמֵ֣ץ לִבֶּ֑ךָ וְ֝קַוֵּ֗ה אֶל־יְהוָֽה׃ ‬
+
+</span></p>
 
 
 ## Lesson Extras {-}
@@ -23223,9 +23443,41 @@ YOUR QUEST
 
 :::
 
+### Ruth 1:7-10 {-}
+
+::: {.infobox .sound}
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+<span class="he"><p align="right">
+‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
+‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
+‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
+</span></p>
 
 
-## Claim your next `Twelve Tribes Badge`! {-}
+
+
+
+
+
+## Claim your next Twelve Tribes Badge! {-}
 
 <!-- Lesson 28 Tribe Badge 10 = Reuben -->
 
@@ -23252,6 +23504,94 @@ YOUR _HEBREW QUEST_!
 | *Revise* | Refine your translation using any reliable English Bible version
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+### Revelation 1 {-}
+
+<span class="he"><p align="right">
+חֲזוֹן יֵשׁוּעַ הַמָּשִׁיחַ אֲשֶׁר נָתַן־לוֹ הָאֱלֹהִים לְהַרְאוֹת אֶת־עֲבָדָיו אֵת אֲשֶׁר־יִהְיֶה בִּמְהֵרָה וְהוּא הוֹדִיעַ בְּשָׁלְחוֹ בְּיַד־מַלְאָכוֹ לְעַבְדּוֹ לְיוֹחָנָן׃
+1
+ 
+ 
+אֲשֶׁר הֵעִיד דְּבַר הָאֱלֹהִים וְעֵדוּת יֵשׁוּעַ הַמָּשִׁיחַ וְאֶת־כֹּל אֲשֶׁר רָאָה׃
+2
+ 
+ 
+אַשְׁרֵי הַקּוֹרֵא וְאַשְׁרֵי הַשֹּׁמְעִים אֶת־דִּבְרֵי הַנְּבוּאָה וְשֹׁמְרִים אֶת־הַכָּתוּב בָּהּ כִּי קְרוֹבָה הָעֵת׃
+3
+ 
+ 
+יוֹחָנָן לְשֶׁבַע הַקְּהִלּוֹת אֲשֶׁר בְּאַסְיָא חֶסֶד לָכֶם וְשָׁלוֹם מֵאֵת הַהוֶֹה וְהָיָה וְיָבוֹא וּמֵאֵת שִׁבְעַת הָרוּחוֹת אֲשֶׁר לִפְנֵי כִסְאוֹ׃
+4
+ 
+ 
+וּמֵאֵת־יֵשׁוּעַ הַמָּשִׁיחַ הָעֵד הַנֶּאֱמָן וּבְכוֹר הַמֵּתִים וְעֶלְיוֹן לְמַלְכֵי־אָרֶץ אֲשֶׁר אָהַב אֹתָנוּ וּבְדָמוֹ גְּאָלָנוּ מֵחַטֹּאתֵינוּ׃
+5
+ 
+ 
+וַיַּעַשׂ אֹתָנוּ מְלָכִים וְכֹהֲנִים לֵאלֹהִים אָבִיו לוֹ הַכָּבוֹד וְהָעֹז לְעוֹלְמֵי עוֹלָמִים אָמֵן׃
+6
+ 
+ 
+הִנֵּה הוּא בָא עִם־הָעֲנָנִים וְרָאֲתָה אֹתוֹ כָּל־עַיִן גַּם־הֵמָּה אֲשֶׁר דְּקָרֻהוּ וְסָפְדוּ עָלָיו כָּל־מִשְׁפְּחוֹת הָאָרֶץ כֵּן יִהְיֶה אָמֵן׃
+7
+ 
+ 
+אֲנִי הָאָלֶף וְהַתָּו רֹאשׁ וָסוֹף נְאֻם יְהוָֹה אֱלֹהִים הַהוֶֹה וְהָיָה וְיָבוֹא אֱלֹהֵי צְבָאוֹת׃
+8
+ 
+ 
+אֲנִי יוֹחָנָן אֲחִיכֶם וְגַם־חָבֵר לָכֶם בְּלַחַץ וּבְמַלְכוּת וּבְסַבְלָנוּת לְמַעַן יֵשׁוּעַ הַמָּשִׁיחַ הָיִיתִי בָאִי אֲשֶׁר־שְׁמוֹ פַּטְמוֹס בַּעֲבוּר דְּבַר הָאֱלֹהִים וּבַעֲבוּר עֵדוּת יֵשׁוּעַ הַמָּשִׁיחַ׃
+9
+ 
+ 
+וַתְּהִי עָלַי רוּחַ בְּיוֹם הָאָדוֹן וָאֶשְׁמַע אַחֲרַי קוֹל גָּדוֹל כְּקוֹל שׁוֹפָר׃
+10
+ 
+ 
+וַיֹּאמֶר אֲנִי הָאָלֶף וַאֲנִי הַתָּו הָרִאשׁוֹן וְהָאַחֲרוֹן וְאֵת אֲשֶׁר אַתָּה רֹאֶה כְּתֹב עַל־סֵפֶר וּשְׁלָחֵהוּ אֶל־הַקְּהִלּוֹת אֲשֶׁר בְּאַסְיָא לְאֶפְסוֹס וְלִזְמִירְנָא וּלְפַרְגְּמוֹס וּלְתִיאֲטִירָא וּלְסַרְדִּיס וּלְפִילָדֶלְפִיָּא וּלְלוּדְקְיָא׃
+11
+ 
+ 
+וָאֵפֶן לִרְאוֹת אֶת־הַקּוֹל הַמְדַבֵּר אֵלָי וַיְהִי בִּפְנוֹתִי וָאֵרֶא שֶׁבַע מְנֹרוֹת זָהָב׃
+12
+ 
+ 
+וּבְתוֹךְ שֶׁבַע הַמְּנֹרוֹת דְּמוּת בֶּן־אָדָם לָבוּשׁ מְעִיל וְחָגוּר אֵזוֹר זָהָב עַל־לִבּוֹ׃
+13
+ 
+ 
+וְרֹאשׁוֹ וּשְׂעָרוֹ לְבָנִים כְּצֶמֶר צַחַר כַּשָּׁלֶג וְעֵינָיו כְּלַבַּת אֵשׁ׃
+14
+ 
+ 
+וּמַרְגְּלֹתָיו כְּעֵין נְחשֶׁת קָלָל צְרוּפוֹת בַּכּוּר וְקוֹלוֹ כְּקוֹל מַיִם רַבִּים׃
+15
+ 
+ 
+וּבְיַד־יְמִינוֹ שִׁבְעָה כוֹכָבִים וּמִפִּיו יוֹצֵאת חֶרֶב פִּיפִיּוֹת חַדָּה וּפָנָיו כַּשֶּׁמֶשׁ הַמֵּאִיר בִּגְבוּרָתוֹ׃
+16
+ 
+ 
+וָאֵרֶא אוֹתוֹ וָאֶפֹּל לְרַגְלָיו כְּמֵת וַיָּשֶׁת עָלַי יַד־יְמִינוֹ וַיֹּאמֶר אַל־תִּירָא אֲנִי הָרִאשׁוֹן וְהָאַחֲרוֹן וְהֶחָי׃
+17
+ 
+ 
+וָאֱהִי מֵת וְהִנְנִי חַי לְעוֹלְמֵי עוֹלָמִים (אָמֵן) וּבְיָדִי מַפְתְּחוֹת שְׁאוֹל וָמָוֶת׃
+18
+ 
+ 
+וְעַתָּה כְתֹב אֵת אֲשֶׁר־רָאִיתָ וַאֲשֶׁר־נַעֲשֶׂה עַתָּה וַאֲשֶׁר־עָתִיד לִהְיוֹת אַחֲרֵי־כֵן׃
+19
+ 
+ 
+אֶת־סוֹד שִׁבְעַת הַכּוֹכָבִים אֲשֶׁר רָאִיתָ בִימִינִי וְאֶת־שֶׁבַע מְנֹרוֹת הַזָּהָב שִׁבְעַת הַכּוֹכָבִים הֵם מַלְאֲכֵי שֶׁבַע הַקְּהִלּוֹת וְשֶׁבַע הַמְּנֹרוֹת אֲשֶׁר רָאִיתָ שֶׁבַע קְהִלּוֹת הֵנָּה׃
+20
+ 
+</span></p> 
+
+
+
+
 
 ## Lesson Extras {-}
 
@@ -23413,6 +23753,20 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Hebrew Quest Study Passage: Psalms 145 {-}
 
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/145){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+### Psalms 145 {-}
+
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t26e5.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
@@ -23428,16 +23782,51 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR _HEBREW QUEST_!
+<span class="he"><p align="right">
+‫ 1  תְּהִלָּ֗ה לְדָ֫וִ֥ד אֲרוֹמִמְךָ֣ אֱלוֹהַ֣י הַמֶּ֑לֶךְ וַאֲבָרֲכָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃ ‬
 
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Psalms 145](https://docs.google.com/document/d/1PjBUYB3ws2mdtdbHZsRz3Ji1W2dwyAvon3wJCrsP6qo/copy){target="_blank"}
-| *Record* | Write a translation
-| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/psalm-145.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Psalms/145){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+‫ 2  בְּכָל־י֥וֹם אֲבָרֲכֶ֑ךָּ וַאֲהַלְלָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃ ‬
+
+‫ 3  גָּ֘ד֤וֹל יְהוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד וְ֝לִגְדֻלָּת֗וֹ אֵ֣ין חֵֽקֶר׃ ‬
+
+‫ 4  דּ֣וֹר לְ֭דוֹר יְשַׁבַּ֣ח מַעֲשֶׂ֑יךָ וּגְב֖וּרֹתֶ֣יךָ יַגִּֽידוּ׃ ‬
+
+‫ 5  הֲ֭דַר כְּב֣וֹד הוֹדֶ֑ךָ וְדִבְרֵ֖י נִפְלְאוֹתֶ֣יךָ אָשִֽׂיחָה׃ ‬
+
+‫ 6  וֶעֱז֣וּז נוֹרְאֹתֶ֣יךָ יֹאמֵ֑רוּ *וגדולתיך **וּגְדוּלָּתְךָ֥ אֲסַפְּרֶֽנָּה׃ ‬
+
+‫ 7  זֵ֣כֶר רַב־טוּבְךָ֣ יַבִּ֑יעוּ וְצִדְקָתְךָ֥ יְרַנֵּֽנוּ׃ ‬
+
+‫ 8  חַנּ֣וּן וְרַח֣וּם יְהוָ֑ה אֶ֥רֶךְ אַ֝פַּ֗יִם וּגְדָל־חָֽסֶד׃ ‬
+
+‫ 9  טוֹב־יְהוָ֥ה לַכֹּ֑ל וְ֝רַחֲמָ֗יו עַל־כָּל־מַעֲשָֽׂיו׃ ‬
+
+‫ 10 יוֹד֣וּךָ יְ֭הוָה כָּל־מַעֲשֶׂ֑יךָ וַ֝חֲסִידֶ֗יךָ יְבָרֲכֽוּכָה׃ ‬
+
+‫ 11 כְּב֣וֹד מַלְכוּתְךָ֣ יֹאמֵ֑רוּ וּגְבוּרָתְךָ֥ יְדַבֵּֽרוּ׃ ‬
+
+‫ 12 לְהוֹדִ֤יעַ ׀ לִבְנֵ֣י הָ֭אָדָם גְּבוּרֹתָ֑יו וּ֝כְב֗וֹד הֲדַ֣ר מַלְכוּתֽוֹ׃ ‬
+
+‫ 13 מַֽלְכוּתְךָ֗ מַלְכ֥וּת כָּל־עֹֽלָמִ֑ים וּ֝מֶֽמְשֶׁלְתְּךָ֗ בְּכָל־דּ֥וֹר וָדֽוֹר׃ ‬
+
+‫ 14 סוֹמֵ֣ךְ יְ֭הוָה לְכָל־הַנֹּפְלִ֑ים וְ֝זוֹקֵ֗ף לְכָל־הַכְּפוּפִֽים׃ ‬
+
+‫ 15 עֵֽינֵי־כֹ֭ל אֵלֶ֣יךָ יְשַׂבֵּ֑רוּ וְאַתָּ֤ה נֽוֹתֵן־לָהֶ֖ם אֶת־אָכְלָ֣ם בְּעִתּֽוֹ׃ ‬
+
+‫ 16 פּוֹתֵ֥חַ אֶת־יָדֶ֑ךָ וּמַשְׂבִּ֖יעַ לְכָל־חַ֣י רָצֽוֹן׃ ‬
+
+‫ 17 צַדִּ֣יק יְ֭הוָה בְּכָל־דְּרָכָ֑יו וְ֝חָסִ֗יד בְּכָל־מַעֲשָֽׂיו׃ ‬
+
+‫ 18 קָר֣וֹב יְ֭הוָה לְכָל־קֹרְאָ֑יו לְכֹ֤ל אֲשֶׁ֖ר יִקְרָאֻ֣הוּ בֶאֱמֶֽת׃ ‬
+
+‫ 19 רְצוֹן־יְרֵאָ֥יו יַעֲשֶׂ֑ה וְֽאֶת־שַׁוְעָתָ֥ם יִ֝שְׁמַ֗ע וְיוֹשִׁיעֵֽם׃ ‬
+
+‫ 20 שׁוֹמֵ֣ר יְ֭הוָה אֶת־כָּל־אֹהֲבָ֑יו וְאֵ֖ת כָּל־הָרְשָׁעִ֣ים יַשְׁמִֽיד׃ ‬
+
+‫ 21 תְּהִלַּ֥ת יְהוָ֗ה יְֽדַבֶּ֫ר־פִּ֥י וִיבָרֵ֣ךְ כָּל־בָּ֭שָׂר שֵׁ֥ם קָדְשׁ֗וֹ לְעוֹלָ֥ם וָעֶֽד׃ ‬
+
+
+</span></p>
 
 ## Lesson Extras {-}
 
@@ -23867,10 +24256,56 @@ YOUR QUEST
 
 :::
 
+### Ruth 1:11-14 {-}
+
+::: {.infobox .sound}
+
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+<span class="he"><p align="right">
+‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
+‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
+‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
+‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
+
+</span></p>
+
+
+
+
+
 
 
 
 ## Hebrew Quest Study Passage: Exodus 19 {-}
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Exodus 19](https://docs.google.com/document/d/1OGYrVxUGGPbwi8ioGi1bnt_vwA4YCNE2XZ2l3GQ8rQM/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-33.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exocus/19){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+### Exodus 19 {-}
 
 ::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0219.m4a">
@@ -23887,16 +24322,59 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR _HEBREW QUEST_!
+<span class="he"><p align="right">
+‬
+‫ 1   בַּחֹ֙דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בַּיּ֣וֹם הַזֶּ֔ה בָּ֖אוּ מִדְבַּ֥ר סִינָֽי׃ ‬
 
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Exodus 19](https://docs.google.com/document/d/1OGYrVxUGGPbwi8ioGi1bnt_vwA4YCNE2XZ2l3GQ8rQM/copy){target="_blank"}
-| *Record* | Write a translation
-| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-33.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exocus/19){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+‫ 2   וַיִּסְע֣וּ מֵרְפִידִ֗ים וַיָּבֹ֙אוּ֙ מִדְבַּ֣ר סִינַ֔י וַֽיַּחֲנ֖וּ בַּמִּדְבָּ֑ר וַיִּֽחַן־שָׁ֥ם יִשְׂרָאֵ֖ל נֶ֥גֶד הָהָֽר׃ ‬
+
+‫ 3   וּמֹשֶׁ֥ה עָלָ֖ה אֶל־הָאֱלֹהִ֑ים וַיִּקְרָ֨א אֵלָ֤יו יְהוָה֙ מִן־הָהָ֣ר לֵאמֹ֔ר כֹּ֤ה תֹאמַר֙ לְבֵ֣ית יַעֲקֹ֔ב וְתַגֵּ֖יד לִבְנֵ֥י יִשְׂרָאֵֽל׃ ‬
+
+‫ 4   אַתֶּ֣ם רְאִיתֶ֔ם אֲשֶׁ֥ר עָשִׂ֖יתִי לְמִצְרָ֑יִם וָאֶשָּׂ֤א אֶתְכֶם֙ עַל־כַּנְפֵ֣י נְשָׁרִ֔ים וָאָבִ֥א אֶתְכֶ֖ם אֵלָֽי׃ ‬
+
+‫ 5   וְעַתָּ֗ה אִם־שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת־בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י סְגֻלָּה֙ מִכָּל־הָ֣עַמִּ֔ים כִּי־לִ֖י כָּל־הָאָֽרֶץ׃ ‬
+
+‫ 6   וְאַתֶּ֧ם תִּהְיוּ־לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר אֶל־בְּנֵ֥י יִשְׂרָאֵֽל׃ ‬
+
+‫ 7   וַיָּבֹ֣א מֹשֶׁ֔ה וַיִּקְרָ֖א לְזִקְנֵ֣י הָעָ֑ם וַיָּ֣שֶׂם לִפְנֵיהֶ֗ם אֵ֚ת כָּל־הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר צִוָּ֖הוּ יְהוָֽה׃ ‬
+
+‫ 8   וַיַּעֲנ֨וּ כָל־הָעָ֤ם יַחְדָּו֙ וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֑ה וַיָּ֧שֶׁב מֹשֶׁ֛ה אֶת־דִּבְרֵ֥י הָעָ֖ם אֶל־יְהוָֽה׃ ‬
+
+‫ 9   וַיֹּ֨אמֶר יְהוָ֜ה אֶל־מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י בָּ֣א אֵלֶיךָ֮ בְּעַ֣ב הֶֽעָנָן֒ בַּעֲב֞וּר יִשְׁמַ֤ע הָעָם֙ בְּדַבְּרִ֣י עִמָּ֔ךְ וְגַם־בְּךָ֖ יַאֲמִ֣ינוּ לְעוֹלָ֑ם וַיַּגֵּ֥ד מֹשֶׁ֛ה אֶת־דִּבְרֵ֥י הָעָ֖ם אֶל־יְהוָֽה׃ ‬
+
+‫ 10  וַיֹּ֨אמֶר יְהוָ֤ה אֶל־מֹשֶׁה֙ לֵ֣ךְ אֶל־הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיּ֖וֹם וּמָחָ֑ר וְכִבְּס֖וּ שִׂמְלֹתָֽם׃ ‬
+
+‫ 11  וְהָי֥וּ נְכֹנִ֖ים לַיּ֣וֹם הַשְּׁלִישִׁ֑י כִּ֣י ׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י יֵרֵ֧ד יְהוָ֛ה לְעֵינֵ֥י כָל־הָעָ֖ם עַל־הַ֥ר סִינָֽי׃ ‬
+
+‫ 12  וְהִגְבַּלְתָּ֤ אֶת־הָעָם֙ סָבִ֣יב לֵאמֹ֔ר הִשָּׁמְר֥וּ לָכֶ֛ם עֲל֥וֹת בָּהָ֖ר וּנְגֹ֣עַ בְּקָצֵ֑הוּ כָּל־הַנֹּגֵ֥עַ בָּהָ֖ר מ֥וֹת יוּמָֽת׃ ‬
+
+‫ 13  לֹא־תִגַּ֨ע בּ֜וֹ יָ֗ד כִּֽי־סָק֤וֹל יִסָּקֵל֙ אוֹ־יָרֹ֣ה יִיָּרֶ֔ה אִם־בְּהֵמָ֥ה אִם־אִ֖ישׁ לֹ֣א יִחְיֶ֑ה בִּמְשֹׁךְ֙ הַיֹּבֵ֔ל הֵ֖מָּה יַעֲל֥וּ בָהָֽר׃ ‬
+
+‫ 14  וַיֵּ֧רֶד מֹשֶׁ֛ה מִן־הָהָ֖ר אֶל־הָעָ֑ם וַיְקַדֵּשׁ֙ אֶת־הָעָ֔ם וַֽיְכַבְּס֖וּ שִׂמְלֹתָֽם׃ ‬
+
+‫ 15  וַיֹּ֙אמֶר֙ אֶל־הָעָ֔ם הֱי֥וּ נְכֹנִ֖ים לִשְׁלֹ֣שֶׁת יָמִ֑ים אַֽל־תִּגְּשׁ֖וּ אֶל־אִשָּֽׁה׃ ‬
+
+‫ 16  וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן כָּבֵד֙ עַל־הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כָּל־הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה׃ ‬
+
+‫ 17  וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת־הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן־הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית הָהָֽר׃ ‬
+
+‫ 18  וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל־הָהָ֖ר מְאֹֽד׃ ‬
+
+‫ 19  וַיְהִי֙ ק֣וֹל הַשּׁוֹפָ֔ר הוֹלֵ֖ךְ וְחָזֵ֣ק מְאֹ֑ד מֹשֶׁ֣ה יְדַבֵּ֔ר וְהָאֱלֹהִ֖ים יַעֲנֶ֥נּוּ בְקֽוֹל׃ ‬
+
+‫ 20  וַיֵּ֧רֶד יְהוָ֛ה עַל־הַ֥ר סִינַ֖י אֶל־רֹ֣אשׁ הָהָ֑ר וַיִּקְרָ֨א יְהוָ֧ה לְמֹשֶׁ֛ה אֶל־רֹ֥אשׁ הָהָ֖ר וַיַּ֥עַל מֹשֶֽׁה׃ ‬
+
+‫ 21  וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה רֵ֖ד הָעֵ֣ד בָּעָ֑ם פֶּן־יֶהֶרְס֤וּ אֶל־יְהוָה֙ לִרְא֔וֹת וְנָפַ֥ל מִמֶּ֖נּוּ רָֽב׃ ‬
+
+‫ 22  וְגַ֧ם הַכֹּהֲנִ֛ים הַנִּגָּשִׁ֥ים אֶל־יְהוָ֖ה יִתְקַדָּ֑שׁוּ פֶּן־יִפְרֹ֥ץ בָּהֶ֖ם יְהוָֽה׃ ‬
+
+‫ 23  וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־יְהוָ֔ה לֹא־יוּכַ֣ל הָעָ֔ם לַעֲלֹ֖ת אֶל־הַ֣ר סִינָ֑י כִּֽי־אַתָּ֞ה הַעֵדֹ֤תָה בָּ֙נוּ֙ לֵאמֹ֔ר הַגְבֵּ֥ל אֶת־הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃ ‬
+
+‫ 24  וַיֹּ֨אמֶר אֵלָ֤יו יְהוָה֙ לֶךְ־רֵ֔ד וְעָלִ֥יתָ אַתָּ֖ה וְאַהֲרֹ֣ן עִמָּ֑ךְ וְהַכֹּהֲנִ֣ים וְהָעָ֗ם אַל־יֽ͏ֶהֶרְס֛וּ לַעֲלֹ֥ת אֶל־יְהוָ֖ה פֶּן־יִפְרָץ־בָּֽם׃ ‬
+
+‫ 25  וַיֵּ֥רֶד מֹשֶׁ֖ה אֶל־הָעָ֑ם וַיֹּ֖אמֶר אֲלֵהֶֽם׃ ס ‬
+
+</span></p>
 
 ## Lesson Extras {-}
 
@@ -24254,7 +24732,22 @@ POTENTIAL LOOK-ALIKES
 
 ## Ruth Pursuit {-}        
 
+:::  {.box .map}
+YOUR QUEST
+
+Identify, parse, and translate the five Hiphil Verbs in Ruth 1.
+
+Make sure you can identify the diagnostic indicators of these Hiphil verbs.
+
+:::
+
+* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
+* [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
+
+### Ruth 1 {-}
+
 ::: {.infobox .sound}
+
 <figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -24268,18 +24761,34 @@ function setPlaySpeed2() {x.playbackRate = 2; x.play();}
 function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
 </script> </figure>
 :::
+<span class="he"><p align="right">
+‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
+</span></p>
 
-:::  {.box .map}
-YOUR QUEST
 
-Identify, parse, and translate the five Hiphil Verbs in Ruth 1.
 
-Make sure you can identify the diagnostic indicators of these Hiphil verbs.
 
-:::
-
-* [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
-* [Ruth Pursuit Answer Key #31](./images/31_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
 
 ## Claim your next Twelve Tribes Badge! {-}
@@ -24298,6 +24807,23 @@ Once you have completed all activities through this lesson, fill out the form be
 ## Hebrew Quest Study Passage: Exodus 20 {-}
 
 ::: {.infobox .sound}
+
+
+YOUR _HEBREW QUEST_!
+
+| | 
+|:- |:-  
+| *Read* | [Blank copy of Exodus 20](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
+| *Record* | Write a translation
+| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-34.php){target="_blank"}
+| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/20){target="_blank"}
+| *Reflect* | How is the Ruach HaKodesh speaking to you?
+| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+
+### Exodus 20 {-}
+
+::: {.infobox .sound}
 <figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0220.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
@@ -24312,16 +24838,59 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-YOUR _HEBREW QUEST_!
+<span class="he"><p align="right">
+‫ 1  וַיְדַבֵּ֣ר אֱלֹהִ֔ים אֵ֛ת כָּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹֽר׃ ס ‬
 
-| | 
-|:- |:-  
-| *Read* | [Blank copy of Exodus 20](https://docs.google.com/document/d/1GSOQ432ytSqqvBEBOU2jI55cAiVWqzW9nmC-HRGWJvs/copy){target="_blank"}
-| *Record* | Write a translation
-| *Review* | [Watch Izzy's _Hebrew Quest_ video (video opens in a new tab)](https://holylanguage.com/lesson-34.php){target="_blank"}
-| *Revise* | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Exodus/20){target="_blank"}
-| *Reflect* | How is the Ruach HaKodesh speaking to you?
-| *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+‫ 2  אָֽנֹכִ֖י֙ יְהוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃ ‬
+
+‫ 3  לֹֽ֣א יִהְיֶֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָ‍ֽ͏ַ֗י ‬
+
+‫ 4  לֹֽ֣א תֽ͏ַעֲשֶׂ֨ה־לְךָ֥֣ פֶ֣֙סֶל֙ ׀ וְכָל־תְּמוּנָ֡֔ה אֲשֶׁ֤֣ר בַּשָּׁמַ֣֙יִם֙ ׀ מִמַּ֡֔עַל וֽ͏ַאֲשֶׁ֥ר֩ בָּאָ֖֨רֶץ מִתָּ֑͏ַ֜חַת וַאֲשֶׁ֥֣ר בַּמַּ֖֣יִם ׀ מִתַּ֥֣חַת לָאָֽ֗רֶץ ‬
+
+‫ 5  לֹֽא־תִשְׁתַּחְוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תָעָבְדֵ֑ם֒ כִּ֣י אֽ͏ָנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל־בָּנִ֛ים עַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃ ‬
+
+‫ 6  וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַאֲלָפִ֑֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃ ס ‬
+
+‫ 7  לֹ֥א תִשָּׂ֛א אֶת־שֵֽׁם־יְהוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהוָ֔ה אֵ֛ת אֲשֶׁר־יִשָּׂ֥א אֶת־שְׁמ֖וֹ לַשָּֽׁוְא׃ פ ‬
+
+‫ 8  זָכ֛וֹר֩ אֶת־י֥֨וֹם הַשַּׁבָּ֖֜ת לְקַדְּשֽׁ֗וֹ ‬
+
+‫ 9  שֵׁ֤֣שֶׁת יָמִ֣ים֙ תּֽ͏ַעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כָּל־מְלַאכְתֶּֽךָ֒ ‬
+
+‫ 10 וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת ׀ לַיהוָ֣ה אֱלֹהֶ֑֗יךָ לֹֽ֣א־תַעֲשֶׂ֣֨ה כָל־מְלָאכָ֡֜ה אַתָּ֣ה ׀ וּבִנְךָֽ֣־וּ֠בִתֶּ֗ךָ עַבְדְּךָ֤֨ וַאֲמָֽתְךָ֜֙ וּבְהֶמְתֶּ֔֗ךָ וְגֵרְךָ֖֙ אֲשֶׁ֥֣ר בִּשְׁעָרֶֽ֔יךָ ‬
+
+‫ 11 כִּ֣י שֵֽׁשֶׁת־יָמִים֩ עָשָׂ֨ה יְהוָ֜ה אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֗רֶץ אֶת־הַיָּם֙ וְאֶת־כָּל־אֲשֶׁר־בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל־כֵּ֗ן בֵּרַ֧ךְ יְהוָ֛ה אֶת־י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ׃ ס ‬
+
+‫ 12 כַּבֵּ֥ד אֶת־אָבִ֖יךָ וְאֶת־אִמֶּ֑ךָ לְמַ֙עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃ ס ‬
+
+‫ 13 לֹ֥֖א תִּֿרְצָ֖͏ֽח׃ ס ‬
+
+‫ 14 לֹ֣֖א תִּֿנְאָ֑͏ֽף׃ ס ‬
+
+‫ 15 לֹ֣֖א תִּֿגְנֹֽ֔ב׃ ס ‬
+
+‫ 16 לֹֽא־תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃ ס ‬
+
+‫ 17 לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא־תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ׃ פ ‬
+
+‫ 18 וְכָל־הָעָם֩ רֹאִ֨ים אֶת־הַקּוֹלֹ֜ת וְאֶת־הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת־הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיּֽ͏ַעַמְד֖וּ מֵֽרָחֹֽק׃ ‬
+
+‫ 19 וַיֹּֽאמְרוּ֙ אֶל־מֹשֶׁ֔ה דַּבֵּר־אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל־יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן־נָמֽוּת׃ ‬
+
+‫ 20 וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־הָעָם֮ אַל־תִּירָאוּ֒ כִּ֗י לְבַֽעֲבוּר֙ נַסּ֣וֹת אֶתְכֶ֔ם בָּ֖א הָאֱלֹהִ֑ים וּבַעֲב֗וּר תִּהְיֶ֧ה יִרְאָת֛וֹ עַל־פְּנֵיכֶ֖ם לְבִלְתִּ֥י תֶחֱטָֽאוּ׃ ‬
+
+‫ 21 וַיַּעֲמֹ֥ד הָעָ֖ם מֵרָחֹ֑ק וּמֹשֶׁה֙ נִגַּ֣שׁ אֶל־הָֽעֲרָפֶ֔ל אֲשֶׁר־שָׁ֖ם הָאֱלֹהִֽים׃ פ ‬
+
+‫ 22 וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה כֹּ֥ה תֹאמַ֖ר אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל אַתֶּ֣ם רְאִיתֶ֔ם כִּ֚י מִן־הַשָּׁמַ֔יִם דִּבַּ֖רְתִּי עִמָּכֶֽם׃ ‬
+
+‫ 23 לֹ֥א תַעֲשׂ֖וּן אִתִּ֑י אֱלֹ֤הֵי כֶ֙סֶף֙ וֵאלֹהֵ֣י זָהָ֔ב לֹ֥א תַעֲשׂ֖וּ לָכֶֽם׃ ‬
+
+‫ 24 מִזְבַּ֣ח אֲדָמָה֮ תַּעֲשֶׂה־לִּי֒ וְזָבַחְתָּ֣ עָלָ֗יו אֶת־עֹלֹתֶ֙יךָ֙ וְאֶת־שְׁלָמֶ֔יךָ אֶת־צֹֽאנְךָ֖ וְאֶת־בְּקָרֶ֑ךָ בְּכָל־הַמָּקוֹם֙ אֲשֶׁ֣ר אַזְכִּ֣יר אֶת־שְׁמִ֔י אָב֥וֹא אֵלֶ֖יךָ וּבֵרַכְתִּֽיךָ׃ ‬
+
+‫ 25 וְאִם־מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה־לִּ֔י לֹֽא־תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַתְּחַֽלְלֶֽהָ׃ ‬
+
+‫ 26 וְלֹֽא־תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל־מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא־תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו׃ פ ‬
+</span></p>‪
 
 ## Lesson Extras {-}
 
