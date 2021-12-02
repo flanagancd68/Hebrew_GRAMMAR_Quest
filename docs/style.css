@@ -244,8 +244,10 @@ Added 11/12/2020
 
 .he	{
     font-family: Times, serif;
-    font-size: 170%
+    font-size: 150%;
+    direction: rtl;
     }
+
     
 
 .audio {

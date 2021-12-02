@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-11-30"
+#date: "2021-12-02"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -77,6 +77,7 @@ Placeholder
 ## Sephardic versus Seminary Pronunciation {#pronunciation}
 ## Activity: Anki {-}
 ## Activity: Ruth Pursuit {-}
+### Ruth 1 {-}
 ## Activity: Ruth Pursuit Translation Worksheet {-}
 ## Activity: Quest Quiz {-}
 ## Lesson Extras {-}
@@ -110,6 +111,7 @@ Placeholder
 ## Anki {-}
 ## Vowel Writing Worksheet {-}
 ## Ruth Pursuit {-}
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Claim your `Twelve Tribes Badge`! {- #twelve-tribes-badge-1}
 ## Lesson Extras {-}
@@ -187,6 +189,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Lesson Extras {-}
 
@@ -216,6 +219,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Claim your next `Twelve Tribes Badge`! {-}
 ## Lesson Extras {-}
@@ -1810,7 +1814,52 @@ Find the following miscellaneous words:
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
 * [Ruth Pursuit Answer Key #12](./images/12_Ruth_Pursuit_KEY.pdf){target="_blank"}
 
-## Honors Track: _Hebrew Quest_ Study Passage - Proverbs Studies #1-4 {-}
+### Ruth 1 {-}
+
+
+::: {.infobox .sound}
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRuth" controls controlsList="nodownload" src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudioRuth");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+<span class="he"><p align="right">
+‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
+</span></p>
+
+
+## Honors Track: Hebrew Quest Study Passage - Proverbs Studies #1-4 {-}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" 
@@ -1842,34 +1891,94 @@ function setPlaySpeed25() {
 This activity is where your Hebrew GRAMMAR Quest will come to life!
 :::
 
-Please review the description of the _Hebrew Quest_ Study Passage activity in the Introduction to Unit III if you haven't already done so.
+Please review the description of the _Hebrew Quest_ Study Passage activity in the Introduction to Unit III if you haven't already done so. As a reminder this is an optional track to graduate Hebrew GRAMMAR Quest "With Honors".
+
+YOUR _HEBREW QUEST_!
+
+::: {.box .stop}
+Important: read the passage and compose a translation on your own __BEFORE__ watching the _Hebrew Quest_ video!
+:::
+
 
 | | |
 |:- |:- |:- 
-| Read | Read through the passage on your own straight through one time - pick up as much as you can | [Blank copy of Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/copy){target="_blank"}
-| Record | Create a "first-draft" translation. highlight and look-up unfamiliar words | [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-| Review | Watch Izzy's _Hebrew Quest_ videos (video opens in a new tab) and assess your translation?  Revise your translation as needed | [Proverbs #1](https://holylanguage.com/proverbs-1.php){target="_blank"}
+| *Read* | Read through the passage on your own straight through one time | [Blank copy of Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/copy){target="_blank"}
+| *Record* | Create a "first-draft" translation. highlight and look-up unfamiliar words | [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+| *Review* | Watch Izzy's _Hebrew Quest_ videos (video opens in a new tab) and assess your translation?  Revise your translation as needed | [Proverbs #1](https://holylanguage.com/proverbs-1.php){target="_blank"}
 | | | [Proverbs #2](https://holylanguage.com/proverbs-2.php){target="_blank"}
 | | | [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
 | | | [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
-| Revise | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? |
-| Reflect | How did the Ruach HaKodesh speak to you? |
-
-YOUR HEBREW QUEST!
-
-1. BEFORE WATCHING THE VIDEO, read through the passage on your own straight through one time - pick up as much as you can. [Blank copy of Proverbs #1-4](https://docs.google.com/document/d/1r7-fkkTsioVcMIxxtw3AP5ukrK6QH-8QjtoTtsd_-4U/copy){target="_blank"}
-2. Now re-read the passage critically
-    1. Highlight any words you do not know and look them up in a [lexicon](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    2. Sketch out a translation - there is a blank line between each verse
-3. Now, using your marked-up copy of the passage, watch Izzy's _Hebrew Quest_ videos (video opens in a new tab)
-    1. [Proverbs #1](https://holylanguage.com/proverbs-1.php){target="_blank"}
-    1. [Proverbs #2](https://holylanguage.com/proverbs-2.php){target="_blank"}
-    1. [Proverbs #3](https://holylanguage.com/proverbs-3.php){target="_blank"}
-    1. [Proverbs #4](https://holylanguage.com/proverbs-4.php){target="_blank"}
-4. After the video, assess your translation.  How close was it?
-5. How did the Ruach HaKodesh speak to you through the passage?
+| *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs){target="_blank"}
+| *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
+| *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
+### Proverbs {-}
+
+
+
+<span class="he"><p align="right">
+מִשְׁלֵי שְׁלֹמֹה בֶן דָּוִד מֶלֶךְ יִשְׂרָאֵל 
+ (1:1)
+
+שְׁמַע בְּנִי מוּסַר אָבִיךָ וְאַל-תִּטֹּשׁ תּוֹרַת אִמֶּך כִּי לִוְיַת חֵן הֵם לְרֹאשֶׁךָ וַעֲנָקִים לְגַרְגְּרֹתֶך 
+ (1:8-9)
+
+.בְּנִי תּוֹרָתִי אַל-תִּשְׁכָּח וּמִצְו‍ֹתַי יִצֹּר לִבֶּךָ כִּי אֹרֶךְ יָמִים וּשְׁנוֹת חַיִּים    וְשָׁלוֹם יוֹסִיפוּ לָךְ  
+ (3:1-2)
+
+חֶסֶד וֶאֱמֶת אַל-יַעַזְבֻך. קָשְׁרֵם עַל-גַּרְגְּרוֹתֶיךָ כָּתְבֵם עַל-לוּחַ לִבֶּךָ. וּמְצָא-חֵן וְשֵׂכֶל-טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם.
+ (3:3-4)
+
+בְּטַח אֶל-יְהוָה בְּכָל-לִבֶּךָ וְאֶל-בִּינָתְךָ אַל-תִּשָּׁעֵן. בְּכָל-דְּרָכֶיךָ דָעֵהוּ וְהוּא יְיַשֵּׁר אֹרְחֹתֶיך
+ (3:5-6)
+
+מִשְׁלֵי שְׁלֹמֹה. בֵּן חָכָם יְשַׂמַּח-אָב וּבֵן כְּסִיל תּוּגַת אִמּוֹ
+ (10:1)
+
+ בְּרָכוֹת לְרֹאשׁ צַדִּיק וּפִי רְשָׁעִים יְכַסֶּה חָמָס
+ (10:6)
+
+זֵכֶר צַדִּיק לִבְרָכָה וְשֵׁם רְשָׁעִים יִרְקָב
+ (10:7)
+
+מְקוֹר חַיִּים פִּי צַדִּיק וּפִי רְשָׁעִים יְכַסֶּה חָמָס
+ (10:11)
+
+שִׂנְאָה תְּעֹרֵר מְדָנִים וְעַל כָּל-פְּשָׁעִים תְּכַסֶּה אַהֲבָה
+ (10:12)
+
+בְּרֹב דְּבָרִים לֹא יֶחְדַּל-פָּשַׁע וְחוֹשֵׂךְ שְׂפָתָיו מַשְׂכִּיל
+ (10:19)
+
+שִׂפְתֵי צַדִּיק יִרְעוּ רַבִּים וֶאֱוִילִים בַּחֲסַר-לֵב יָמוּתוּ
+ (10:21)
+
+בִּרְכַּת יְהוָה הִיא תַעֲשִׁיר וְלֹא-יוֹסִף עֶצֶב עִמָּהּ
+  (10:22)
+
+כִּשְׂחוֹק לִכְסִיל עֲשׂוֹת זִמָּה וְחָכְמָה לְאִישׁ תְּבוּנָה
+  (10:23)
+
+מְגוֹרַת רָשָׁע הִיא תְבוֹאֶנּוּ וְתַאֲוַת צַדִּיקִים יִתֵּן
+ (10:24)
+
+כַּעֲבוֹר סוּפָה וְאֵין רָשָׁע וְצַדִּיק יְסוֹד עוֹלָם
+ (10:25)
+
+בְּבִרְכַּת יְשָׁרִים תָּרוּם קָרֶת וּבְפִי רְשָׁעִים תֵּהָרֵס
+ (11:11)
+
+הוֹלֵךְ רָכִיל מְגַלֶּה-סּוֹד וְנֶאֱמַן-רוּחַ מְכַסֶּה דָבָר
+  (11:13)
+
+אֵשֶׁת-חֵן תִּתְמֹךְ כָּבוֹד וְעָרִיצִים יִתְמְכוּ-עֹשֶׁר
+ (11:16)
+
+ נֶזֶם זָהָב בְּאַף חֲזִיר אִשָּׁה יָפָה וְסָרַת טָעַם
+ (11:22)
+
+<span></p>
 
 ## Lesson Extras {-}
 
@@ -1919,7 +2028,7 @@ Placeholder
 ## Anki {-}
 ## Ruth Pursuit {-}        
 ## Claim your next `Twelve Tribes Badge`! {-}
-## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #5-7 {-}
+## Honors Track: Hebrew Quest Study Passage - Proverbs #5-7 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:13-Qal_Perfect_Strong.Rmd-->
@@ -1947,7 +2056,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}    
-## Honors Track: _Hebrew Quest_ Study Passage - Proverbs #8-10 {-}
+## Honors Track: Hebrew Quest Study Passage - Proverbs #8-10 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:14-Qal_Perfect_Weak.Rmd-->
@@ -1975,7 +2084,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #11-14 {-}
+## Honors Track: Hebrew Quest Study Passage: Proverbs #11-14 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:15-Qal_Imperfect_strong.Rmd-->
@@ -2009,8 +2118,8 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## Claim your next `Twelve Tribes Badge`! {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Proverbs #15-17 {-}
+## Claim your next Twelve Tribes Badge! {-}
+## Honors Track: Hebrew Quest Study Passage: Proverbs #15-17 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:16-Qal_Imperfect_Weak.Rmd-->
@@ -2039,7 +2148,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheet: Qal Vav-Consecutive Paradigms {-}
 ## Ruth Pursuit {-}   
-## Honors Track: _Hebrew Quest_ Study Passage: Genesis 1:1-5 {-}
+## Honors Track: Hebrew Quest Study Passage: Genesis 1:1-5 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:17-Vav_Consecutive.Rmd-->
@@ -2071,7 +2180,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheet: Qal Volitional Forms {-}
 ## Ruth Pursuit {-}   
-## Honors Track: _Hebrew Quest_ Study Passage: The Shema {-}
+## Honors Track: Hebrew Quest Study Passage: The Shema {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:18-Qal_Imperative_strong.Rmd-->
@@ -2094,7 +2203,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
 ## Claim your next Twelve Tribes Badge! {-}
-## Honors Track: _Hebrew Quest_ Study Passage:  Matthew 6 {-}
+## Honors Track: Hebrew Quest Study Passage:  Matthew 6 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:19-Pronominal_Suffix_Verbs.Rmd-->
@@ -2121,7 +2230,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## Honors Track: _Hebrew Quest_ Study Passage: Genesis 22:1-19 {-}
+## Honors Track: Hebrew Quest Study Passage: Genesis 22:1-19 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:20-Qal_Infinitive_Construct.Rmd-->
@@ -2143,7 +2252,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## Honors Track: _Hebrew Quest_ Study Passage: Aaronic/Priestly Blessing {-}
+## Honors Track: Hebrew Quest Study Passage: Aaronic/Priestly Blessing {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:21-Qal_Infinitive_Absolute.Rmd-->
@@ -2170,8 +2279,8 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Claim your next `Twelve Tribes Badge`! {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Matthew 13 {-}
+## Claim your next Twelve Tribes Badge! {-}
+## Honors Track: Hebrew Quest Study Passage: Matthew 13 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:22-Qal_Participle.Rmd-->
@@ -2196,7 +2305,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Ruth Pursuit Syntax Study {-}        
 ## Claim your Unit 3 Completion Certificate! {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Psalm 19 {-}
+## Honors Track: Hebrew Quest Study Passage: Psalm 19 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:23-Hebrew_Syntax.Rmd-->
@@ -2242,7 +2351,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Worksheet: Niphal Strong Paradigm {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Numbers 15 {-}
+## Hebrew Quest Study Passage: Numbers 15:37-41 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:24-Niphal_Strong.Rmd-->
@@ -2267,7 +2376,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
 ## Claim your next `Twelve Tribes Badge`! {-}
-## Honors Track: _Hebrew Quest_ Study Passage: John 1 {-}
+## Hebrew Quest Study Passage: John 1 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:25-Niphal_Weak.Rmd-->
@@ -2298,7 +2407,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheet: Piel Strong Paradigms {-}
 ## Ruth Pursuit Analysis {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Exodus 31 {-}
+## Hebrew Quest Study Passage: Exodus 31:12-17 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:26-Piel_Strong.Rmd-->
@@ -2322,7 +2431,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Honors Track: _Hebrew Quest_ Study Passage: Psalms 1 and 27 {-}
+## Hebrew Quest Study Passage: Psalms 1 and 27 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:27-Piel_Weak.Rmd-->
@@ -2349,7 +2458,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Ruth Pursuit Analysis {-}
 ## Claim your next `Twelve Tribes Badge`! {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Revelation 1 {-}
+## Hebrew Quest Study Passage: Revelation 1 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:28-Pual_Strong.Rmd-->
@@ -2366,7 +2475,7 @@ Placeholder
 ## Other Changes
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Psalms 145 {-}
+## Hebrew Quest Study Passage: Psalms 145 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:29-Pual_Weak.Rmd-->
@@ -2397,7 +2506,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit Analysis {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Exodus 19 {-}
+## Hebrew Quest Study Passage: Exodus 19 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:30-Hiphil-Strong.Rmd-->
@@ -2423,7 +2532,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
 ## Claim your next Twelve Tribes Badge! {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Exodus 20 {-}
+## Hebrew Quest Study Passage: Exodus 20 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:31-Hiphil-Weak.Rmd-->
@@ -2450,7 +2559,7 @@ Placeholder
 ## Hophal Strong Worksheet {-}
 ## Ruth Pursuit {-}
 ## Ruth Pursuit Analysis {-}
-## Honors Track: _Hebrew Quest_ Study Passage: 1 Samuel 17 {-}
+## Hebrew Quest Study Passage: 1 Samuel 17 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:32-Hophal_Strong.Rmd-->
@@ -2469,7 +2578,7 @@ Placeholder
 ## Top 10 Hophal Verbs
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Psalms 45 {-}
+## Hebrew Quest Study Passage: Psalms 45 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:33-Hophal_weak.Rmd-->
@@ -2496,8 +2605,8 @@ Placeholder
 ## Verses Warm-up {-}
 ## Hitpael Parsing Worksheet {-}
 ## Ruth Pursuit Analysis {-}
-## Claim your next `Twelve Tribes Badge`! {-}
-## Honors Track: _Hebrew Quest_ Study Passage: Leviticus 23 {-}
+## Claim your next Twelve Tribes Badge! {-}
+## Hebrew Quest Study Passage: Leviticus 23 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:34-Hitpael_Strong.Rmd-->
@@ -2519,7 +2628,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Honors Track: _Hebrew Quest_ Study Passage: 1 Kings 18 {-}
+## Hebrew Quest Study Passage: 1 Kings 18 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:35-Hitpael_Weak.Rmd-->
