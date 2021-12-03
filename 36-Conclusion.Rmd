@@ -21,7 +21,7 @@ We would like to take a moment and recap all that you have accomplished in His s
     * _What you have accomplished_: 570 of the most common Biblical Hebrew words committed to memory!
     * _Where you can go next_: Continue to grow your vocabulary, both by isolated word memorization, such as by learning the top 1000 (or more) Biblical Hebrew words and, of course, by continuing to read your Hebrew Bible.  For word memorization, there are modules on Memrise and Anki that are free (these are not affiliated with Holy Language Institute)
 * Bible Verses
-    * _What you have accomplished_: Over 500 Bible verses in Hebrew, including many grammatically challenging concepts
+    * _What you have accomplished_: Translated around 500 Bible verses in Hebrew (many more verses if you did the _Hebrew Quest_ Study Passages), including many grammatically challenging concepts
     * _Where you can go next_: 
         * Grab a Tanach and a study guide and dig in!
         * If you haven't already done so, check out Dr. Beckman's lecture on [How to prepare a passage](https://www.youtube.com/watch?v=5v8KvmEtZy0&t=2918s){target="_blank"}
@@ -59,6 +59,8 @@ Izzy Avraham and Chris Flanagan
 ## You did it!  Claim your Diploma! {-}
 
 Once all Anki cards are `Mature`, please complete the attached form to begin the Graduation process and earn your Hebrew GRAMMAR Quest Diploma!      
+
+
 
 <div class="containerLet">
 <iframe class ="responsive-iframe" src="https://forms.gle/eyX82mzkCjoh9oM56" frameborder="0"></iframe>
