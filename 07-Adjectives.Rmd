@@ -450,7 +450,7 @@ function x25() {
 </script></figure>
 :::
 
-* We've studied the fact that the <span class="he">ה ָ</span  is the Feminine Singular ending
+* We've studied the fact that the <span class="he">ה ָ</span>  is the Feminine Singular ending
 * We now need to refine this definition slightly: it is USUALLY the Feminine Singular ending
     * An ACCENTED <span class="he">ה ָ</span>  is the FS ending
     * However, an UNACCENTED <span class="he">ה ָ</span>  is known as a "directional ending"
@@ -546,11 +546,11 @@ Be sure to update your `Ruth Pursuit Translation Worksheet` with the findings fr
 
 ::: {.infobox .sound}
 
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
-var x = document.getElementById("myAudio");
+var x = document.getElementById("myAudioRUTH");
 function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
 function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
 function setPlaySpeed1() {x.playbackRate = 1; x.play();}
