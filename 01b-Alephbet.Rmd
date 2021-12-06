@@ -82,7 +82,7 @@ If you are eager to jump right in with Lesson 1, we understand.  We are also exc
 
 "Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you understand specific concepts before continuing.
 
-For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIMINARY` TASKS ON YOUR `COURSE CHECKLIST` AND ARE READY TO GO WITH `ANKI`!
+For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE READ THE `GETTING STARTED` SECTION IN THE INTRODUCTION, HAVE DOWNLOADED YOUR [`COURSE CHECKLIST`](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} AND ARE READY TO GO WITH `ANKI`!
 
 :::
 
@@ -131,7 +131,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
 ``` 
 
-Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.
+Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!^[A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.]
 
 
 ## The Hebrew Aleph-Bet {#consonants}
@@ -167,7 +167,7 @@ function x25() {
 include_graphics("images/alephbet.png")
 ```
 
-Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Lessons 2-11](https://holylanguage.com/letters.html){target="_blank"}.  
+Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Alephbet Lessons 1-11](https://holylanguage.com/letters.html){target="_blank"}.  
 
 * Hopefully, you have already watched these foundational _Hebrew Quest_ lessons; if not, click the link above!  
 * If you need a refresher on identifying each of the letters, there will be cards on the Aleph-Bet in your `Anki` deck for Lesson 1.
@@ -176,13 +176,13 @@ The points below and on the following pages will provide some foundations. This 
 
 * All letters you see in the picture of the Aleph-Bet above are classified as "consonants."
 
-* Whereas English has the vowel letters (A, E, I, O, U) as a core part of the Aleph-Bet, Hebrew treats vowels differently
+* Whereas English has the vowel letters (A, E, I, O, U) as a core part of the _Alpha_Bet, Hebrew treats vowels differently
 
 * א and ע are not vowels but silent consonants; in Sephardic pronunciation, they take on the pronunciation of their associated vowel (if there is one)
 
 * We'll talk about vowels in Lesson 2
 
-::: {.box .stop}
+::: {.box .caution}
 Have you completed _Hebrew Quest_ Lessons 1-11?
 
 If not, we encourage you to stop here and move over to _Hebrew Quest_ to complete the Alephbet lessons.
@@ -593,8 +593,8 @@ function x25() {
 knitr::include_graphics("images/vav.png")
 ```
 
-* There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and "real-world" Hebrew spoken in Israel.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
-    * Real-world Hebrew is based on Sephardic pronunciation^[There is also what is called Ashkenazi pronunciation, which is beyond the scope of this course.  It also has some different pronunciations.  Most notably, the letter ת is given an "s" sound at the end of a word, and "O" vowels are more prominent.  So שׁבּת (shabbat), would be pronounced "Shabbos" in Ashkenazi]
+* There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and "real-world" Hebrew spoken today in Israel.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
+    * Modern Hebrew, including modern pronunciation of the Tanakh, is based on Sephardic pronunciation^[There is also what is called Ashkenazi pronunciation, which is beyond the scope of this course.  It also has some different pronunciations.  Most notably, the letter ת is given an "s" sound at the end of a word, and "O" vowels are more prominent.  So שׁבּת (shabbat), would be pronounced "Shabbos" in Ashkenazi]
 * We've already talked about how only three of the Daghesh Lene letters need to "BucK-uP"
 * With "Seminary Hebrew," all six letters take on a soft pronunciation.
     * The <span class="he">ג</span> without the Daghesh Lene receives something like the GH in "aGHast." The <span class="he">ד</span> and <span class="he">ת</span> without the Daghesh Lene are closer to the English DH/TH like "this" 
@@ -680,7 +680,6 @@ function x25() {
 * Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
     * You may need to sign in with a Google account
     * You may wish to rename the document with the applicable lesson # as you will be reusing the blank document multiple times
-      * In fact, instead of downloading from the above link each time, we recommend you save a blank copy to your personal Google Drive, then select `File` then `Make a Copy` whenever you wish to begin a new `Ruth Pursuit`.
 * We strongly encourage you to go line by line through the passage and do not use the "Find" function in your word processor
     * Line by line will take longer, but you will learn more (even though you may think it's a waste of time because at this point you may not know much, if any, Hebrew.  Just go through the passage as best as you can; you may be surprised what sinks in!)
 
@@ -865,11 +864,12 @@ In other words after you have completed `Anki` so that all the lesson's cards ar
 * If you ever have issues with the video or form not loading, click the "View in new window" link that will appear below (or instead of) the embedded frame; this will open a new window in your web browser  
 :::
 
+[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
+
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 
 ## Lesson Extras {-}
 
@@ -899,6 +899,7 @@ function x25() {
 </script></figure>
 :::
 
+* [_Hebrew Quest_ Alephbet lessons (login required)](https://holylanguage.com/letters.html){target="_blank"}
 * [Dr. Beckman Lecture Video](http://youtu.be/edv-QEGJI3k){target="_blank"}
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target=“_blank”}

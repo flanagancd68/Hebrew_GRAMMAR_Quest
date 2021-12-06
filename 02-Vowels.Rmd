@@ -142,7 +142,13 @@ function x25() {
 :::
 
 
-View this 28:00 overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson^[As a reminder, you can speed up these videos by pressing the `gear` symbol, then adjusting the `Playback Speed`.].  You can disregard references to the "Hebrew Quest Student Manual" or "Essentials of Biblical Hebrew." Pertinent concepts have been incorporated into this Hebrew GRAMMAR Quest Guidebook. 
+View this 28:00 overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson^[As a reminder, you can speed up these videos by pressing the `gear` symbol, then adjusting the `Playback Speed`.].  
+
+::: {.box .caution}
+* As you view the _Hebrew Quest_ lectures, DISREGARD references to the "Hebrew Quest Student Manual" or "Essentials of Biblical Hebrew" 
+* Simply watch the lecture and soak it in
+* Pertinent concepts from these references have been incorporated into this Hebrew GRAMMAR Quest Guidebook
+:::
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
@@ -201,7 +207,7 @@ The table below lists the vowels that are not vowel letters.  This table MUST be
 
 * The letter בּ is provided as a placeholder
 * Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.]. 
-  * So, the first vowel example is "baw" not "awb."^[See discussion in Lesson 1 on the differences between academic pronunication and that which we might hear from a native speaker.  "Basics of Biblical Hebrew" labels the first vowel "Qamets" and pronounced either `qa-MAYTZ` or `QA-maytz`.  Others, including Dr. Beckman, spell the vowel as "Qamats" and pronounced `qa-MAHTZ` (or sometimes or `QA-mahtz`, which sounds like the English word `comets`). For whatever reason, the pronunciation of the names of the vowels is not standardized, nor is this a point to be overly concerned about.  For simplicity, students may choose to use Izzy's pronunciation in _Hebrew Quest_. See the Wikipedia articles for these vowels for additional historical background.]
+  * So, the first vowel example is "baw" not "awb."^[See discussion in Lesson 1 on the differences between academic pronunication and that which we might hear from a native speaker.  "Basics of Biblical Hebrew" labels the first vowel "Qamets" and pronounced either `qa-MAYTZ` or `QA-maytz`.  Others, including Dr. Beckman, spell the vowel as "Qamats" and pronounced `qa-MAHTZ` (or sometimes or `QA-mahtz`, which sounds like the English word `comets`). The short A, _Patach_ has similar variation (some say "PATH-ac", others, "Pa-TOCK"). For whatever reason, the pronunciation of the names of the vowels is not standardized, nor is this a point to be overly concerned about.  For simplicity, students may choose to use Izzy's pronunciation in _Hebrew Quest_. See Wikipedia articles for these vowels for additional historical background.]
 
 ```{r, out.width = "600pt", fig.align='center'}
 
@@ -286,7 +292,7 @@ function x25() {
 
 
 * The Sheva can be tricky to grasp at first since vocal and silent Sheva are written the same. They have two very different uses^[Many academic textbooks will use the term "Shewa" instead of "Sheva". Both words mean the same thing.].
-* Both are written as קְ
+* Both are written as <span class="he">קְ</span> (using the Qof as a placeholder letter)
   * Both types of a Sheva mark the END of a syllable
 * VOCAL Sheva is a REDUCED vowel but does NOT have a vowel Class
   *  Only non-gutturals can take a Vocal Sheva
@@ -390,11 +396,11 @@ function x25() {
 * Hireq Yod is pronounced like the i in mach<u>i</u>ne (compared to Hireq (Short I), which is pronounced like "b<u>i</u>tter)
 * The other vowel letters are pronounced like the corresponding vowel - Qamets Hei is pronounced like Qamets, and so forth
 * All vowel letters, except Seghol Hei, are LONG
-* Yod and Vav vowels - י,ו 
+* Yod and Vav vowels - <span class="he">י,ו</span> 
     * Not only are these Long vowels, they have a unique feature is that they are "immune" from "propretonic reduction"
     * Therefore they are called "Unchangeable long vowels" or sometimes "Irreducible long vowels"
     * We'll explain what this means in the next lesson
-* Hei Vowels - ה
+* Hei Vowels - <span class="he">ה</span>
     * Hei vowels can **ONLY** occur at the END of a word
     * Hei vowels are extremely common in Hebrew
     * The Hei vowels are Long (except for Seghol Hei) but they are not labeled as irreducible/unchangeable^[Strictly speaking, this point is irrelevant as a vowel at the end of a word would never reduce anyway. But, if you are ever asked "are the Hei vowels irreducible/unchangeable?", the answer is "no."]
@@ -449,7 +455,7 @@ knitr::include_graphics("images/defective.gif")
 * Holem-Vav can drop the Vav and contract to Holem, as in the example above
 * Hireq-Yod can drop the Yod and contract to Hireq
 * Shuruq can drop entirely and contract to Qibbuts - this sometimes catches students by surprise - see caution box below.
-* The Qamets-Hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the Qamets under the now-final letter.
+* The Qamets-Hei <span class="he">ה ָ  </span>sometimes drops the final<span class="he"> ה</span>, leaving just the Qamets under the now-final letter.
 
 ::: {.box .caution}
 An unchangeable long vowel written defectively is still an unchangeable long vowel
@@ -554,11 +560,11 @@ knitr::include_graphics("images/02.daghesh_forte.gif")
 
 * Notice the dot in the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
   * The dot is called a Dagesh FORTE - it is the Dagesh Lene's big brother
-  * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Dagesh Lene
+  * Since <span class="he">שׁ</span> is not a <span class="he">בגד כפת</span> letter, we know this *cannot* be a Dagesh Lene
 * The letter with the Dagesh Forte both ends one syllable and begins the next syllable - in fact, a way to think of the Daghesh Forte is to call it the "doubling Daghesh"
 * In <span class="he">הַשָּׁמַיִם:</span> is pronounced: `hash-sha-mayim`^[ `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!]
 * A similar word in English might be better = bet | ter
-    * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*^[The * means this is not a real Hebrew word, but we show it in this form for illustration.]
+    * If we were to transliterate better into Hebrew hypothetically,  it might look like: בֶּטֶּר*^[The * means this is not a real Hebrew word, but we show it in this form for illustration.]
 * Notice the syllable breaks in these words that have a Dagesh Forte:
 
 ```{r, out.width = "200pt", fig.align='center'}
@@ -635,9 +641,9 @@ function x25() {
 </script></figure>
 :::
 
-So how do you tell whether a Daghesh in a בגד כפת letter is Lene or Forte?
+So how do you tell whether a Daghesh in a <span class="he">בגד כפת</span> letter is Lene or Forte?
 
-::: {.infobox .light} 
+::: {.infobox .map} 
 A Dagesh is a Forte if, and only if, it's preceded by a vowel that is not a Sheva^[Remember we said in the introduction that content in "light" information boxes should usually be memorized.  You will definitely want to memorize the Dagesh Forte rule.]
 :::
 
@@ -680,7 +686,7 @@ function x25() {
 </script></figure>
 :::
 
-*   When a Vav has a Dagesh Forte, it looks like this וּ and, therefore, is identical to a Shureq וּ
+*   When a Vav has a Dagesh Forte, it looks like this <span class="he">וּ</span> and, therefore, is identical to a Shureq <span class="he">וּ</span>
 *   It's surprisingly easy to tell the difference
 *   A Shureq will _never_ have a separate vowel following or preceding
 *   If the preceding consonant has a vowel, the וּ is a Vav with a Dagesh - that's the rule we just learned
@@ -691,17 +697,22 @@ function x25() {
   * <span class="he">בָוּ</span> = Vav with Dagesh Forte ־ the Rule of Sheva:  preceding letter has a vowel 
   * The last example is hypothetical only; generally, a Vav with the Dagesh Forte would have both a preceding vowel/Sheva AND an additional vowel/Sheva
   
-::: {.box .info}
+::: {.box .map}
 
-When you see <span class="he">וּ</span>, it is usually a Shureq
+When you see <span class="he">וּ</span>, it is usually a Shureq, and at the beginning of a word, it will almost ALWAYS be a Shureq
 
 :::
+
+### Similarly, וֹ is usually the vowel Holem-Vav, but it could be a consonantal Vav with a Holem {-}
 
 * A similar situation happens with <span class="he">וֹ</span>
   * Consider the word, <span class="he">מִצְוֹת</span>
     * This is a consonantal Vav with a Holem, pronounced "vo"
-    * The previous consonant has a Sheva ending the syllable; the next syllable cannot start with a vowel
-    
+  * Look for a vowel or sheva in the previous letter
+    * if there is none, it's Holem Vav pronounced "o"; if there is, it's consonantal Vav with a Holem pronounced "vo"
+  * With <span class="he">מִצְוֹת</span>, the previous consonant has a Sheva ending the syllable
+    * Since the next syllable cannot start with a vowel, this has to be consonantal Vav with a Holem
+    * Not "mitzot", but "mitzVOT"
     
 ## Gutturals and Resh reject Dagesh Forte {#gutturals_reject_dagesh_forte}
 
@@ -827,7 +838,13 @@ function x25() {
   
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
 
-We can't stress enough how important the Anki activities are.  Anki is where your learning will take place. Try to do a little each day.
+
+::: {.box .light}
+* We can't stress enough how important the Anki activities are
+* The Hebrew GRAMMAR Quest Guidebook is where you will be _INTRODUCED_ to the material
+* `Anki` (and the other activities) is where you will _LEARN_ the material
+* Set aside time to work in `Anki` each day
+:::
 
 ## Vowel Writing Worksheet {-}
 
@@ -906,9 +923,8 @@ YOUR QUEST
 5. Identify three of the five SHORT vowels in Verse 1 (that are not part of a vowel letter)^[We haven't learned to spot Qamets Hatuf yet, and Qibbuts does not appear in this passage] (red)
 6. Identify the three REDUCED/HATEPH vowels, including Hateph Qamets Hatuf^[You should be able to make out the word that has the Hateph Qamets Hatuph].  They are in verses 2-4. (grey)
 7. One of the more common verbs in the Tanach is <span class="he">וַיֹּאמֶר</span>, which means "(and) he said."     
-  * Vav-Patach-**Yod**-Daghesh Forte --וַיּ to start a verb means "And he (did or was something)  
-    * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ, "and **S**he (did or was something).  
-    * Thus, <span class="he">וַתֹּאמֶר</span> means "and she said."  
+  * Vav-Patach-**Yod**-Daghesh Forte --וַיּ to start a verb (with no special ending on the verb) means "And he (did or was something)      * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ, "and **S**he (did or was something).^[This could also indicate a 2nd person subject.  We will address this in Lesson 13.]
+    * Thus in the context of Ruth 1, <span class="he">וַתֹּאמֶר</span> means "and she said."  
     * Challenge: Find the five instances of <span class="he">וַתֹּאמֶר</span> in Ruth Chapter 1^[In at least three of the cases, you should be able to figure out who is speaking.]  (yellow)  
 :::
 

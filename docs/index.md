@@ -1,6 +1,6 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-12-03"
+#date: "2021-12-06"
 cover-image: images/HGQ_book_cover.png
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
@@ -22,13 +22,13 @@ lof: no
 
 
 
-# Cover {.unnumbered}
-<div style="display:none"></div>
+# Preface {-}
+
 
 <img src="images/HGQ_book_cover.png" width="800pt" style="display: block; margin: auto;" />
 
 
-<small>*Updated*: 2021-12-03</small>
+<small>*Updated*: 2021-12-06</small>
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -69,13 +69,7 @@ On the next few pages, we will tell you a little about our program and give you 
 Let's get started!
 
 
-
-
-
-
-<!--chapter:end:index.Rmd-->
-
-# Quest Introduction {-}
+## Quest Introduction {-}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
@@ -110,13 +104,13 @@ Our Holy Language goals for a Hebrew grammar course are the following:
     * We approach learning Hebrew from a _devotional_ level, more than an academic one
     * We use grammar rules, paradigms, and memorization as a means to achieve this goal
     * The "final exam" should be whether you can understand the Bible, not whether you can conjugate a a particular Hebrew verb
-    * We do not prioritize writing or speaking in Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
-    * We are not addressing Modern Hebrew
+    * We do not prioritize writing or speaking in Hebrew, and we are not addressing Modern Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
 * Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
 * Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
     * This guidebook is designed to introduce you to the material, but only about 20% of learning (if that) comes from a passive activity such as reading.  This is why we have added audio narration to help with retention.
     * The activities such as Anki, is truly where you will LEARN the material - note the root word ACTIVE in the word "activities"
 * COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_, but does not replace it; **Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_**
+    * If you took a microscope to _Hebrew Quest_ lessons 13-15, Hebrew GRAMMAR Quest is the result!
     * See the Appendix FAQs for additional discussion on how _Hebrew Quest_ and Hebrew GRAMMAR Quest relate to one another
 * SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward for the ministry to develop, deliver, and maintain
 * FREE of charge for our students
@@ -124,8 +118,49 @@ Our Holy Language goals for a Hebrew grammar course are the following:
 
 We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course, all in a way that reflects the heart of the Holy Language Institute!  We believe that result is Hebrew GRAMMAR Quest!
 
+## The Fog {-}
 
-## Getting Started (IMPORTANT!) {-}
+The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
+
+
+Mounce states, "The fog means you will have read a chapter and think you understand it—and perhaps you do—but it will seem foggy. That’s okay. If living in the fog becomes discouraging, look two chapters back and you should understand that chapter clearly. In two more chapters the presently foggy chapter will be clear, assuming you keep studying."
+
+Here is an article on the subject you may find encouraging: [Conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  
+
+::: {.box .light}
+Keep pressing on!
+
+* Review a chapter, do the activities, then try the `Anki` flashcard work
+* If `Anki` is proving difficult, go back and review the chapter, or perhaps view the full-length Lecture or complete the additional worksheets provided by Dr. Beckman.  You can find a link to these in `Lesson Extras`
+
+:::
+
+## Other course information {-}
+
+These articles are contained in the Appendix.
+
+FAQs about the Course
+
+* [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
+* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
+* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
+* [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
+* [What are the required/optional course resources?](#optional_resources)
+* [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
+* [Why is it called "Hebrew GRAMMAR Quest"?](#whygrammarquest)
+
+FAQs about Anki
+
+* [How do I navigate within Anki?](#anki_navigate)
+* [How do I know which button to select on an Anki card?](#anki_buttons)
+* [How do I get help with Anki?](#anki_help)
+* [What is the `HGQ Custom Words` Deck?](#anki_custom_words)
+
+
+
+<!--chapter:end:index.Rmd-->
+
+# Getting Started (IMPORTANT!) {-}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -296,43 +331,6 @@ Anki Add-ons
 <p class="caption">(\#fig:unnamed-chunk-7)More Overview Stats</p>
 </div>
 
-## The Fog {-}
-
-The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
-
-
-Mounce states, "The fog means you will have read a chapter and think you understand it—and perhaps you do—but it will seem foggy. That’s okay. If living in the fog becomes discouraging, look two chapters back and you should understand that chapter clearly. In two more chapters the presently foggy chapter will be clear, assuming you keep studying."
-
-Here is an article on the subject you may find encouraging: [Conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  
-
-::: {.box .light}
-Keep pressing on!
-
-* Review a chapter, do the activities, then try the Anki work
-* If Anki is proving difficult, go back and review the chapter, or perhaps view the full-length Lecture or complete the additional worksheets provided by Dr. Beckman.  You can find a link to these in `Lesson Extras`
-
-:::
-
-## Other course information {-}
-
-These articles are contained in the Appendix.
-
-FAQs about the Course
-
-* [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
-* [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
-* [What if I haven't finished _Hebrew Quest_?](#finish_hq)
-* [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
-* [What are the required/optional course resources?](#optional_resources)
-* [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
-* [Why is it called "Hebrew GRAMMAR Quest"?](#whygrammarquest)
-
-FAQs about Anki
-
-* [How do I navigate within Anki?](#anki_navigate)
-* [How do I know which button to select on an Anki card?](#anki_buttons)
-* [How do I get help with Anki?](#anki_help)
-* [What is the `HGQ Custom Words` Deck?](#anki_custom_words)
 
 <!--chapter:end:00c-Anki.Rmd-->
 
@@ -470,7 +468,7 @@ If you are eager to jump right in with Lesson 1, we understand.  We are also exc
 
 "Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you understand specific concepts before continuing.
 
-For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIMINARY` TASKS ON YOUR `COURSE CHECKLIST` AND ARE READY TO GO WITH `ANKI`!
+For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE READ THE `GETTING STARTED` SECTION IN THE INTRODUCTION, HAVE DOWNLOADED YOUR [`COURSE CHECKLIST`](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} AND ARE READY TO GO WITH `ANKI`!
 
 :::
 
@@ -519,7 +517,7 @@ As you undertake this study, pray for this Grammar adventure to be fruitful.  Ma
 <p class="caption">(\#fig:unnamed-chunk-9)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
-Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.
+Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!^[A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.]
 
 
 ## The Hebrew Aleph-Bet {#consonants}
@@ -553,7 +551,7 @@ function x25() {
 
 <img src="images/alephbet.png" width="800pt" style="display: block; margin: auto;" />
 
-Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Lessons 2-11](https://holylanguage.com/letters.html){target="_blank"}.  
+Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Alephbet Lessons 1-11](https://holylanguage.com/letters.html){target="_blank"}.  
 
 * Hopefully, you have already watched these foundational _Hebrew Quest_ lessons; if not, click the link above!  
 * If you need a refresher on identifying each of the letters, there will be cards on the Aleph-Bet in your `Anki` deck for Lesson 1.
@@ -562,13 +560,13 @@ The points below and on the following pages will provide some foundations. This 
 
 * All letters you see in the picture of the Aleph-Bet above are classified as "consonants."
 
-* Whereas English has the vowel letters (A, E, I, O, U) as a core part of the Aleph-Bet, Hebrew treats vowels differently
+* Whereas English has the vowel letters (A, E, I, O, U) as a core part of the _Alpha_Bet, Hebrew treats vowels differently
 
 * א and ע are not vowels but silent consonants; in Sephardic pronunciation, they take on the pronunciation of their associated vowel (if there is one)
 
 * We'll talk about vowels in Lesson 2
 
-::: {.box .stop}
+::: {.box .caution}
 Have you completed _Hebrew Quest_ Lessons 1-11?
 
 If not, we encourage you to stop here and move over to _Hebrew Quest_ to complete the Alephbet lessons.
@@ -962,8 +960,8 @@ function x25() {
 
 <img src="images/vav.png" width="800pt" style="display: block; margin: auto;" />
 
-* There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and "real-world" Hebrew spoken in Israel.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
-    * Real-world Hebrew is based on Sephardic pronunciation^[There is also what is called Ashkenazi pronunciation, which is beyond the scope of this course.  It also has some different pronunciations.  Most notably, the letter ת is given an "s" sound at the end of a word, and "O" vowels are more prominent.  So שׁבּת (shabbat), would be pronounced "Shabbos" in Ashkenazi]
+* There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and "real-world" Hebrew spoken today in Israel.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
+    * Modern Hebrew, including modern pronunciation of the Tanakh, is based on Sephardic pronunciation^[There is also what is called Ashkenazi pronunciation, which is beyond the scope of this course.  It also has some different pronunciations.  Most notably, the letter ת is given an "s" sound at the end of a word, and "O" vowels are more prominent.  So שׁבּת (shabbat), would be pronounced "Shabbos" in Ashkenazi]
 * We've already talked about how only three of the Daghesh Lene letters need to "BucK-uP"
 * With "Seminary Hebrew," all six letters take on a soft pronunciation.
     * The <span class="he">ג</span> without the Daghesh Lene receives something like the GH in "aGHast." The <span class="he">ד</span> and <span class="he">ת</span> without the Daghesh Lene are closer to the English DH/TH like "this" 
@@ -1049,7 +1047,6 @@ function x25() {
 * Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
     * You may need to sign in with a Google account
     * You may wish to rename the document with the applicable lesson # as you will be reusing the blank document multiple times
-      * In fact, instead of downloading from the above link each time, we recommend you save a blank copy to your personal Google Drive, then select `File` then `Make a Copy` whenever you wish to begin a new `Ruth Pursuit`.
 * We strongly encourage you to go line by line through the passage and do not use the "Find" function in your word processor
     * Line by line will take longer, but you will learn more (even though you may think it's a waste of time because at this point you may not know much, if any, Hebrew.  Just go through the passage as best as you can; you may be surprised what sinks in!)
 
@@ -1234,11 +1231,12 @@ In other words after you have completed `Anki` so that all the lesson's cards ar
 * If you ever have issues with the video or form not loading, click the "View in new window" link that will appear below (or instead of) the embedded frame; this will open a new window in your web browser  
 :::
 
+[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
+
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 
 ## Lesson Extras {-}
 
@@ -1268,6 +1266,7 @@ function x25() {
 </script></figure>
 :::
 
+* [_Hebrew Quest_ Alephbet lessons (login required)](https://holylanguage.com/letters.html){target="_blank"}
 * [Dr. Beckman Lecture Video](http://youtu.be/edv-QEGJI3k){target="_blank"}
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target=“_blank”}
@@ -1420,7 +1419,13 @@ function x25() {
 :::
 
 
-View this 28:00 overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson^[As a reminder, you can speed up these videos by pressing the `gear` symbol, then adjusting the `Playback Speed`.].  You can disregard references to the "Hebrew Quest Student Manual" or "Essentials of Biblical Hebrew." Pertinent concepts have been incorporated into this Hebrew GRAMMAR Quest Guidebook. 
+View this 28:00 overview video from _Hebrew Quest_, then we will dig into the concepts in greater detail as we progress through the lesson^[As a reminder, you can speed up these videos by pressing the `gear` symbol, then adjusting the `Playback Speed`.].  
+
+::: {.box .caution}
+* As you view the _Hebrew Quest_ lectures, DISREGARD references to the "Hebrew Quest Student Manual" or "Essentials of Biblical Hebrew" 
+* Simply watch the lecture and soak it in
+* Pertinent concepts from these references have been incorporated into this Hebrew GRAMMAR Quest Guidebook
+:::
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
@@ -1479,7 +1484,7 @@ The table below lists the vowels that are not vowel letters.  This table MUST be
 
 * The letter בּ is provided as a placeholder
 * Say the vowel _after_ saying the associated consonant^[We will learn that Hebrew loves to break the rules.  In the next lesson, we will learn about an exception to the "vowel comes after" rule, called the *furtive patach*.]. 
-  * So, the first vowel example is "baw" not "awb."^[See discussion in Lesson 1 on the differences between academic pronunication and that which we might hear from a native speaker.  "Basics of Biblical Hebrew" labels the first vowel "Qamets" and pronounced either `qa-MAYTZ` or `QA-maytz`.  Others, including Dr. Beckman, spell the vowel as "Qamats" and pronounced `qa-MAHTZ` (or sometimes or `QA-mahtz`, which sounds like the English word `comets`). For whatever reason, the pronunciation of the names of the vowels is not standardized, nor is this a point to be overly concerned about.  For simplicity, students may choose to use Izzy's pronunciation in _Hebrew Quest_. See the Wikipedia articles for these vowels for additional historical background.]
+  * So, the first vowel example is "baw" not "awb."^[See discussion in Lesson 1 on the differences between academic pronunication and that which we might hear from a native speaker.  "Basics of Biblical Hebrew" labels the first vowel "Qamets" and pronounced either `qa-MAYTZ` or `QA-maytz`.  Others, including Dr. Beckman, spell the vowel as "Qamats" and pronounced `qa-MAHTZ` (or sometimes or `QA-mahtz`, which sounds like the English word `comets`). The short A, _Patach_ has similar variation (some say "PATH-ac", others, "Pa-TOCK"). For whatever reason, the pronunciation of the names of the vowels is not standardized, nor is this a point to be overly concerned about.  For simplicity, students may choose to use Izzy's pronunciation in _Hebrew Quest_. See Wikipedia articles for these vowels for additional historical background.]
 
 <img src="images/02.vowels_not_letters.png" width="600pt" style="display: block; margin: auto;" />
 
@@ -1561,7 +1566,7 @@ function x25() {
 
 
 * The Sheva can be tricky to grasp at first since vocal and silent Sheva are written the same. They have two very different uses^[Many academic textbooks will use the term "Shewa" instead of "Sheva". Both words mean the same thing.].
-* Both are written as קְ
+* Both are written as <span class="he">קְ</span> (using the Qof as a placeholder letter)
   * Both types of a Sheva mark the END of a syllable
 * VOCAL Sheva is a REDUCED vowel but does NOT have a vowel Class
   *  Only non-gutturals can take a Vocal Sheva
@@ -1662,11 +1667,11 @@ function x25() {
 * Hireq Yod is pronounced like the i in mach<u>i</u>ne (compared to Hireq (Short I), which is pronounced like "b<u>i</u>tter)
 * The other vowel letters are pronounced like the corresponding vowel - Qamets Hei is pronounced like Qamets, and so forth
 * All vowel letters, except Seghol Hei, are LONG
-* Yod and Vav vowels - י,ו 
+* Yod and Vav vowels - <span class="he">י,ו</span> 
     * Not only are these Long vowels, they have a unique feature is that they are "immune" from "propretonic reduction"
     * Therefore they are called "Unchangeable long vowels" or sometimes "Irreducible long vowels"
     * We'll explain what this means in the next lesson
-* Hei Vowels - ה
+* Hei Vowels - <span class="he">ה</span>
     * Hei vowels can **ONLY** occur at the END of a word
     * Hei vowels are extremely common in Hebrew
     * The Hei vowels are Long (except for Seghol Hei) but they are not labeled as irreducible/unchangeable^[Strictly speaking, this point is irrelevant as a vowel at the end of a word would never reduce anyway. But, if you are ever asked "are the Hei vowels irreducible/unchangeable?", the answer is "no."]
@@ -1718,7 +1723,7 @@ This is the word for "laws" showing both "plene" spelling and "defective" spelli
 * Holem-Vav can drop the Vav and contract to Holem, as in the example above
 * Hireq-Yod can drop the Yod and contract to Hireq
 * Shuruq can drop entirely and contract to Qibbuts - this sometimes catches students by surprise - see caution box below.
-* The Qamets-Hei <span class="he">ה ָ  </span>sometimes drops the final ה, leaving just the Qamets under the now-final letter.
+* The Qamets-Hei <span class="he">ה ָ  </span>sometimes drops the final<span class="he"> ה</span>, leaving just the Qamets under the now-final letter.
 
 ::: {.box .caution}
 An unchangeable long vowel written defectively is still an unchangeable long vowel
@@ -1820,11 +1825,11 @@ function x25() {
 
 * Notice the dot in the שּׁ in <span class="he">הַשָּׁמַיִם:</span>
   * The dot is called a Dagesh FORTE - it is the Dagesh Lene's big brother
-  * Since שׁ is not a בגד כפת letter, we know this *cannot* be a Dagesh Lene
+  * Since <span class="he">שׁ</span> is not a <span class="he">בגד כפת</span> letter, we know this *cannot* be a Dagesh Lene
 * The letter with the Dagesh Forte both ends one syllable and begins the next syllable - in fact, a way to think of the Daghesh Forte is to call it the "doubling Daghesh"
 * In <span class="he">הַשָּׁמַיִם:</span> is pronounced: `hash-sha-mayim`^[ `Mayim` is one syllable as we will learn in Lesson 3.  <span class="he">הַשָּׁמַיִם</span> means "the heavens."  From now on, we won't always provide a translation for every new word you encounter.  It's more important that you focus on the concepts.  You will have PLENTY of vocabulary work in Anki!]
 * A similar word in English might be better = bet | ter
-    * If we were to transliterate better into Hebrew hypothetically,  it might look like: בּטֶּר*^[The * means this is not a real Hebrew word, but we show it in this form for illustration.]
+    * If we were to transliterate better into Hebrew hypothetically,  it might look like: בֶּטֶּר*^[The * means this is not a real Hebrew word, but we show it in this form for illustration.]
 * Notice the syllable breaks in these words that have a Dagesh Forte:
 
 <img src="images/02.forte.png" width="200pt" style="display: block; margin: auto;" />
@@ -1898,9 +1903,9 @@ function x25() {
 </script></figure>
 :::
 
-So how do you tell whether a Daghesh in a בגד כפת letter is Lene or Forte?
+So how do you tell whether a Daghesh in a <span class="he">בגד כפת</span> letter is Lene or Forte?
 
-::: {.infobox .light} 
+::: {.infobox .map} 
 A Dagesh is a Forte if, and only if, it's preceded by a vowel that is not a Sheva^[Remember we said in the introduction that content in "light" information boxes should usually be memorized.  You will definitely want to memorize the Dagesh Forte rule.]
 :::
 
@@ -1943,7 +1948,7 @@ function x25() {
 </script></figure>
 :::
 
-*   When a Vav has a Dagesh Forte, it looks like this וּ and, therefore, is identical to a Shureq וּ
+*   When a Vav has a Dagesh Forte, it looks like this <span class="he">וּ</span> and, therefore, is identical to a Shureq <span class="he">וּ</span>
 *   It's surprisingly easy to tell the difference
 *   A Shureq will _never_ have a separate vowel following or preceding
 *   If the preceding consonant has a vowel, the וּ is a Vav with a Dagesh - that's the rule we just learned
@@ -1954,17 +1959,22 @@ function x25() {
   * <span class="he">בָוּ</span> = Vav with Dagesh Forte ־ the Rule of Sheva:  preceding letter has a vowel 
   * The last example is hypothetical only; generally, a Vav with the Dagesh Forte would have both a preceding vowel/Sheva AND an additional vowel/Sheva
   
-::: {.box .info}
+::: {.box .map}
 
-When you see <span class="he">וּ</span>, it is usually a Shureq
+When you see <span class="he">וּ</span>, it is usually a Shureq, and at the beginning of a word, it will almost ALWAYS be a Shureq
 
 :::
+
+### Similarly, וֹ is usually the vowel Holem-Vav, but it could be a consonantal Vav with a Holem {-}
 
 * A similar situation happens with <span class="he">וֹ</span>
   * Consider the word, <span class="he">מִצְוֹת</span>
     * This is a consonantal Vav with a Holem, pronounced "vo"
-    * The previous consonant has a Sheva ending the syllable; the next syllable cannot start with a vowel
-    
+  * Look for a vowel or sheva in the previous letter
+    * if there is none, it's Holem Vav pronounced "o"; if there is, it's consonantal Vav with a Holem pronounced "vo"
+  * With <span class="he">מִצְוֹת</span>, the previous consonant has a Sheva ending the syllable
+    * Since the next syllable cannot start with a vowel, this has to be consonantal Vav with a Holem
+    * Not "mitzot", but "mitzVOT"
     
 ## Gutturals and Resh reject Dagesh Forte {#gutturals_reject_dagesh_forte}
 
@@ -2090,7 +2100,13 @@ function x25() {
   
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
 
-We can't stress enough how important the Anki activities are.  Anki is where your learning will take place. Try to do a little each day.
+
+::: {.box .light}
+* We can't stress enough how important the Anki activities are
+* The Hebrew GRAMMAR Quest Guidebook is where you will be _INTRODUCED_ to the material
+* `Anki` (and the other activities) is where you will _LEARN_ the material
+* Set aside time to work in `Anki` each day
+:::
 
 ## Vowel Writing Worksheet {-}
 
@@ -2169,9 +2185,8 @@ YOUR QUEST
 5. Identify three of the five SHORT vowels in Verse 1 (that are not part of a vowel letter)^[We haven't learned to spot Qamets Hatuf yet, and Qibbuts does not appear in this passage] (red)
 6. Identify the three REDUCED/HATEPH vowels, including Hateph Qamets Hatuf^[You should be able to make out the word that has the Hateph Qamets Hatuph].  They are in verses 2-4. (grey)
 7. One of the more common verbs in the Tanach is <span class="he">וַיֹּאמֶר</span>, which means "(and) he said."     
-  * Vav-Patach-**Yod**-Daghesh Forte --וַיּ to start a verb means "And he (did or was something)  
-    * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ, "and **S**he (did or was something).  
-    * Thus, <span class="he">וַתֹּאמֶר</span> means "and she said."  
+  * Vav-Patach-**Yod**-Daghesh Forte --וַיּ to start a verb (with no special ending on the verb) means "And he (did or was something)      * If we change the second consonant from a Yod to a **Tav**, we get --וָתּ, "and **S**he (did or was something).^[This could also indicate a 2nd person subject.  We will address this in Lesson 13.]
+    * Thus in the context of Ruth 1, <span class="he">וַתֹּאמֶר</span> means "and she said."  
     * Challenge: Find the five instances of <span class="he">וַתֹּאמֶר</span> in Ruth Chapter 1^[In at least three of the cases, you should be able to figure out who is speaking.]  (yellow)  
 :::
 
@@ -3185,7 +3200,7 @@ function setPlaySpeed25() {
 :::
 
 ::: {.infobox .info} 
-Furtive Patach under final ח or ע is said BEFORE the guttural letter and is not a full vowel
+Furtive Patach under a WORD FINAL ח or ע is said BEFORE the guttural letter and is not a full vowel
 
 <img src="images/03.furtivepathach.png" width="100pt" style="display: block; margin: auto;" />
 :::
@@ -3249,6 +3264,7 @@ Quiescent Aleph is silent. It is neither a consonant nor a vowel
 * When you see an Aleph with no vowels, it is acting as a silent letter
     * English has all kinds of silent letters, like the 'p' in receipt - the Quiescent Aleph works the same way
     * In terms of syllabification, the Aleph is neither a vowel nor a consonant, so it doesn't count at all - it is just an extra letter
+    * We often encounter Quiscent Alephs in verbs, so we will have much more to say about the Quiescent Aleph when we get to Unit III
     
 ## Lesson Conclusion and Activities {-}
 
@@ -3316,20 +3332,17 @@ Then after watching these, go ahead and jump into `Anki`.
   * This is also our first lesson using the <u>Basics of Biblical Hebrew</u> study verses
   * With `Study Verses`, our goal is to incorporate the immersive learning aspects of _Hebrew Quest_
     * We want to expose you to Hebrew, even though you may not fully understand all the rules at this stage
-  * A `Study Verses Parsing/Translation Worksheet` is available in `Lesson Extras`
-    * After reviewing the `Vocab` for the Lesson, we encourage you to use the worksheet BEFORE attempting the work in Anki to skectch out a rough translation
-    * The translation may be quite difficult at first
     * We encourage you to use a Dictionary (such as [this one](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}) to help you when you come across unfamiliar words
     * Other dictionaries [are available here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     * To help with this, for Lessons 3-10, longer verses will be divided into multiple sections
-  * It may take you SEVERAL attempts before you can select `Good`
+  * It may take you SEVERAL attempts before you can select `Good` in Anki
   * Be patient and stick with it - you'll get it!
   * By the end of the course, you will learn close to 500 verses in Hebrew
   
 ::: {.box .info}
-* Your vocabulary and understanding will grow if you COPY each of the `study verses` by hand
+* Your vocabulary and understanding will grow if you COPY each of the `study verses` by hand, or at a minimum attempt to translte word for word
 * A PDF of the verses is contained in the `Lesson Extras` folder - note this is provided by the authors of _Basics of Biblical Hebrew_ and not Holy Language Institute
-* Note that not every verse in the Verse Warm-up activities will be included in the `Anki Study Verses` deck
+* Not every verse in the Verse Warm-up activities will be included in the `Anki Study Verses` deck
 
 :::
 
@@ -3552,8 +3565,15 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 * You must submit a screenshot showing that all cards are **MATURE**
   * No cards may be "New," "Young," "Suspended," or "Buried"
   * From the Anki manual, ["A mature card is one that has an interval of 21 days or greater."](https://docs.ankiweb.net/#/stats?id=types-of-cards){target="_blank"}
+  * In other words, you will not be able to submit for your Certificate immediately upon completion of Lesson 3; you will need a period of time for the cards to reach **Mature** status.
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
+
+<div class="figure" style="text-align: center">
+<img src="images/03.Anki_Mature.jpg" alt="Your Anki screenshot should look like this, showing all cards MATURE" width="400pt" />
+<p class="caption">(\#fig:unnamed-chunk-42)Your Anki screenshot should look like this, showing all cards MATURE</p>
+</div>
+
 
 [Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
 
@@ -3563,7 +3583,6 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/03_overheads_bw.pdf){target=“_blank”}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-03.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_03.pdf){target=“_blank”}
-  * [Lesson Study Verses Parsing/Translation Worksheet](https://docs.google.com/document/d/13VHZwN15rotMBSinZr4owySDoGTpKEaiMGd1bvk9G70/copy){target=“_blank”}
 * [Dr. Beckman additional practice video](http://youtu.be/icqgATyH9qQ){target=“_blank”}
 * Additional Drills/Worksheets
   * [Quiz a](https://hebrewsyntax.org/bbh2new/03_quiz_new.pdf){target=“_blank”}
@@ -3797,7 +3816,7 @@ Give thanks to God for His Word and ask that you never depart from His commands
 
 <div class="figure" style="text-align: center">
 <img src="images/04-Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596 (2).jpg" alt="Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-42)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-43)Capernaum and Mount of Beatitudes - suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -5156,7 +5175,7 @@ Give thanks to the Creator for the beauty and precision of His creation
 
 <div class="figure" style="text-align: center">
 <img src="images/05-Mount of Beatitudes hillside, tbs75359303 (2).jpg" alt="Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-43)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-44)Mount of Beatitudes hillside reflecting the beauty of the Galilee region. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Vav Lecture (from HQ Lesson 5)
@@ -6235,7 +6254,7 @@ The  <span class="he">בּ </span> in <span class="he">בְּיוֹם</span> is 
 
 <div class="figure" style="text-align: center">
 <img src="images/06-Nazareth Mount of Precipitation from west panorama, tb041003219.jpg" alt="Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-46)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-47)Mt. Precipice in Nazareth - suggested location of Luke 4:29 when the townsfolk took Yeshua 'up' the mountain, wanting to throw Him 'from' the cliff, 'down upon' the rocks, 'into' the valley below.  Again, He prevailed in His day of trouble.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -7081,7 +7100,7 @@ Offer a word of gratitude that HaShem has made you beautiful!
 
 <div class="figure" style="text-align: center">
 <img src="images/07-Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-50)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-51)Tabgha - suggested location of Yeshua's restoration (making beautiful) of Shimon Kefa (Peter) on the beach in John 21, following Peter's denial of Yeshua a few days earlier. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Adjectives Lecture
@@ -7294,7 +7313,7 @@ ATTRIBUTIVE MNEMONIC
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/07.4.m4a">
+src="./images/07.5.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -7735,7 +7754,7 @@ The first word in the passage above is an example of a "demonstrative pronoun". 
 
 <div class="figure" style="text-align: center">
 <img src="images/08-Sea of Galilee and Plain of Gennesaret panorama, tb03250771p.jpg" alt="Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-52)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-53)Sea of Galilee and Plain of Gennesaret. Yeshua likely walked this way through the valley on His way from Nazareth to Capernaum (a town on the coastline, roughly in the center of the picture above). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Independent Pronouns Lecture
@@ -8279,7 +8298,7 @@ If you can picture yourself hiking the trails of Israel,  Lessons 8, 9, and 10 m
 
 <div class="figure" style="text-align: center">
 <img src="images/08-manna-ko-hiking-en-gedi.jpg" alt="Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission." width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-53)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
+<p class="caption">(\#fig:unnamed-chunk-54)Hiking in Ein Gedi, Israel, 2013. Photo by Chris Flanagan. Used by permission.</p>
 </div>
 :::
 
@@ -8595,7 +8614,7 @@ In addition to offering up our petitions, let us be sure to hear God's questions
 
 <div class="figure" style="text-align: center">
 <img src="images/09-Banias waterfall, tb032704275.jpg" alt="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-54)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-55)Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Possessive Pronominal Suffixes Lecture
@@ -9558,7 +9577,7 @@ _All the utterances of my mouth are in righteousness (Proverbs 8:8)_
 
 <div class="figure" style="text-align: center">
 <img src="images/10-Capernaum synagogue interior, tb102702014.jpg" alt="Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-60)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-61)Capernaum synagogue. Although this structure was built after the time of Yeshua, archeologists are convinced the current building rests on the foundation of an earlier synagogue.  This  synagogue was the probable location where Yeshua taught in righteousness as recorded in Mark 1:21-28, Luke 4:31-37, and John 6:59. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -10300,7 +10319,7 @@ Give Him praise that you are among those counted as His talmidim (disciples)!
 
 <div class="figure" style="text-align: center">
 <img src="images/11-Tabgha from boat, tb011500051.jpg" alt="Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-62)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-63)Tabgha, the traditional location of the calling of the twelve disciples. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -11297,7 +11316,7 @@ Lessons 13-16 are critical!
 
 <div class="figure" style="text-align: center">
 <img src="images/11b.bethabara.JPG" alt="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013." width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-65)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
+<p class="caption">(\#fig:unnamed-chunk-66)Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013.</p>
 </div>
 
 
@@ -11528,7 +11547,7 @@ In these times, we must depend on God to sustain us.  It is times like these whe
 
 <div class="figure" style="text-align: center">
 <img src="images/13-Acacia tree in Red Canyon, tb030101203.jpg" alt="Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-66)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-67)Acacia tree in Red Canyon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -13068,7 +13087,7 @@ Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ
 
 <div class="figure" style="text-align: center">
 <img src="images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg" alt="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-69)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-70)Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14560,7 +14579,7 @@ Numbers 32 begins, "The Reubenites and Gadites, who had very large herds and flo
 
 <div class="figure" style="text-align: center">
 <img src="images/14_Cows of Bashan with Mount Hermon, tb032905276.jpg" alt="Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-80)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-81)Cows of Bashan with Mount Hermon. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -14864,7 +14883,7 @@ Below is a summary table showing the verb <span class="he">בָנָה</span> in 
 
 <div class="figure" style="text-align: center">
 <img src="images/14.3heiparadigm.png" alt="3-Hei Qal Perfect" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-81)3-Hei Qal Perfect</p>
+<p class="caption">(\#fig:unnamed-chunk-82)3-Hei Qal Perfect</p>
 </div>
 
 ::: {.box .info}
@@ -15430,7 +15449,7 @@ Let that sink in as you study Biblical Hebrew.
 
 <div class="figure" style="text-align: center">
 <img src="images/15.Ascent of Adummim Roman road remains, tb113006725.jpg" alt="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="600pt" />
-<p class="caption">(\#fig:unnamed-chunk-82)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-83)Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -16105,7 +16124,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 <div class="figure" style="text-align: center">
 <img src="images/16_Jezreel Valley from Mount Carmel panorama, tb032407526.jpg" alt="Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="900pt" />
-<p class="caption">(\#fig:unnamed-chunk-85)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-86)Jezreel Valley from Mount Carmel panorama. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -17022,7 +17041,7 @@ Like the dawning of a new day, after you complete this lesson, most of the verb 
 
 <div class="figure" style="text-align: center">
 <img src="images/17_Masada sunrise over Dead Sea, dg030401281.jpg" alt="Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-86)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-87)Masada sunrise over the Dead Sea. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Vav Consecutive Lecture (from Lesson 14)
@@ -17649,7 +17668,7 @@ The _Hebrew Quest_ Study Passage for this lesson is the Shema, from Deuteronomy 
 
 <div class="figure" style="text-align: center">
 <img src="images/18_Mezuzah near Western Wall, tb091306071.jpg" alt="Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-88)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-89)Mezuzah near Western Wall. Inside a Mezuzah is a small section of scripture, frequently Deuteronomy 6. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18383,7 +18402,7 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 <div class="figure" style="text-align: center">
 <img src="images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg" alt="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-89)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-90)Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -18754,7 +18773,7 @@ Ponder these things as you work through this Lesson and the study passage.
 
 <div class="figure" style="text-align: center">
 <img src="images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg" alt="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-90)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-91)Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitves Lecture
@@ -19332,7 +19351,7 @@ This is an excellent picture of what the LORD means when He says He will "keep" 
 
 <div class="figure" style="text-align: center">
 <img src="images/21_Ketef Hinnom with Gabriel Barkay, tb042705895.jpg" alt="Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-91)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-92)Ketef Hinnom with archeologist Gabriel Barkay. In 1979, Barkay's team found two tiny silver scrolls, inscribed with portions of the Priestly Blessing from Numbers 6 and apparently once used as amulets, in this burial chamber in Jerusalem. They contain what may be the oldest surviving texts from the Hebrew Bible, dating from the First Temple period, making the find one of the most significant Biblical discoveries ever made. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
@@ -19726,7 +19745,7 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 <div class="figure" style="text-align: center">
 <img src="images/22_Cove of the Sower from east, tb112000201.jpg" alt="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-92)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-93)Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 ## _Hebrew Quest_ Qal Participles Lecture
@@ -20036,7 +20055,7 @@ hfu4gjNo2K4?start=3737&end=4069&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 
 <div class="figure" style="text-align: center">
 <img src="images/22.9_qal_summary.png" alt="Qal Verb Summary from the _Hebrew Quest_ Student Manual" width="800pt" />
-<p class="caption">(\#fig:unnamed-chunk-94)Qal Verb Summary from the _Hebrew Quest_ Student Manual</p>
+<p class="caption">(\#fig:unnamed-chunk-95)Qal Verb Summary from the _Hebrew Quest_ Student Manual</p>
 </div>
 
 ## Worksheet: All Qal Paradigms {-}
@@ -20441,7 +20460,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 <div class="figure" style="text-align: center">
 <img src="images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-95)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-96)Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21120,7 +21139,7 @@ En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty p
 
 <div class="figure" style="text-align: center">
 <img src="./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg" alt="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-97)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-98)Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -21810,7 +21829,7 @@ We are called "Redeemed of Adonai."  Let that sink in.  Each new day offers us a
 
 <div class="figure" style="text-align: center">
 <img src="images/25.Sunrise over Mount of Olives, tb031605564.jpg" alt="Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-99)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-100)Sunrise over Mount of Olives. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22292,7 +22311,7 @@ We must practice the disciplines of worship, service, and study (and teaching if
 
 <div class="figure" style="text-align: center">
 <img src="./images/26_Man with arms upraised at Western Wall, tb092603064.jpg" alt="Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-100)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-101)Man with arms upraised at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -22986,7 +23005,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 <div class="figure" style="text-align: center">
 <img src="./images/27_Golden menorah for third temple, tb123199206.jpg" alt="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-102)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-103)Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -23517,7 +23536,7 @@ How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and 
 
 <div class="figure" style="text-align: center">
 <img src="images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg" alt="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-103)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-104)Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -23984,7 +24003,7 @@ As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an exce
 
 <div class="figure" style="text-align: center">
 <img src="images/29_Man with hands on sons for priestly blessing, tb092302202.jpg" alt="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-105)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-106)Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -24208,7 +24227,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 <div class="figure" style="text-align: center">
 <img src="images/30.Western Wall with chairs and snow, tb022503206.jpg" alt="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-106)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-107)Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -24769,7 +24788,7 @@ The _Hebrew Quest_ Study Passage for this lesson will continue with Exodus 20, t
 
 <div class="figure" style="text-align: center">
 <img src="images/31_Men touching Torah Scroll at Western Wall, tb092302203.jpg" alt="Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-108)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-109)Men touching Torah Scroll at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -25276,7 +25295,7 @@ HaShem had these details recorded for a reason. Through our study of Hebrew, we 
 
 <div class="figure" style="text-align: center">
 <img src="images/32-Elah brook with students picking smooth stones, tbs75039303.jpg" alt="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-109)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-110)Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -25803,7 +25822,7 @@ As people of God, we are sometimes faced with situations where we are tempted to
 
 <div class="figure" style="text-align: center">
 <img src="images/33.Zion Gate from south, tb010910185.jpg" alt="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-111)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-112)Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -26082,7 +26101,7 @@ Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 <div class="figure" style="text-align: center">
 <img src="images/34.Men praying at Western Wall, tb090705000.jpg" alt="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-112)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-113)Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -26564,7 +26583,7 @@ The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel
 
 <div class="figure" style="text-align: center">
 <img src="images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg" alt="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-114)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
+<p class="caption">(\#fig:unnamed-chunk-115)Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
 
@@ -27492,7 +27511,7 @@ You might want wait and see how you are doing with Hebrew GRAMMAR Quest through 
 
 <div class="figure" style="text-align: center">
 <img src="images/00.ankinavigate.png" alt="Settings" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-120)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-121)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -27549,7 +27568,7 @@ Several of the cards have silly mnemonics.  As we borrowed and reformatted the `
 
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_good.png" alt="Settings" width="700pt" />
-<p class="caption">(\#fig:unnamed-chunk-121)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-122)Settings</p>
 </div>
 
 ::: {.infobox .sound}
@@ -27699,7 +27718,7 @@ function x25() {
  
 <div class="figure" style="text-align: center">
 <img src="images/00.anki_custom.png" alt="Settings" width="300pt" />
-<p class="caption">(\#fig:unnamed-chunk-122)Settings</p>
+<p class="caption">(\#fig:unnamed-chunk-123)Settings</p>
 </div>
 
 * On the Get started page, you should have downloaded and installed a deck called `HGQ Custom Words`
@@ -27736,7 +27755,7 @@ function x25() {
 
 <div class="figure" style="text-align: center">
 <img src="images/cf.jpg" alt="Chris Flanagan" width="400pt" />
-<p class="caption">(\#fig:unnamed-chunk-123)Chris Flanagan</p>
+<p class="caption">(\#fig:unnamed-chunk-124)Chris Flanagan</p>
 </div>
 
 <!--chapter:end:65-abouttheauthor.Rmd-->

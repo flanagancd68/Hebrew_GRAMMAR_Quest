@@ -879,7 +879,7 @@ function setPlaySpeed25() {
 :::
 
 ::: {.infobox .info} 
-Furtive Patach under final ח or ע is said BEFORE the guttural letter and is not a full vowel
+Furtive Patach under a WORD FINAL ח or ע is said BEFORE the guttural letter and is not a full vowel
 
 ```{r, out.width = "100pt", fig.align='center'}
 knitr::include_graphics("images/03.furtivepathach.png")
@@ -947,6 +947,7 @@ knitr::include_graphics("images/03.quiescentaleph.png")
 * When you see an Aleph with no vowels, it is acting as a silent letter
     * English has all kinds of silent letters, like the 'p' in receipt - the Quiescent Aleph works the same way
     * In terms of syllabification, the Aleph is neither a vowel nor a consonant, so it doesn't count at all - it is just an extra letter
+    * We often encounter Quiscent Alephs in verbs, so we will have much more to say about the Quiescent Aleph when we get to Unit III
     
 ## Lesson Conclusion and Activities {-}
 
@@ -1014,20 +1015,17 @@ Then after watching these, go ahead and jump into `Anki`.
   * This is also our first lesson using the <u>Basics of Biblical Hebrew</u> study verses
   * With `Study Verses`, our goal is to incorporate the immersive learning aspects of _Hebrew Quest_
     * We want to expose you to Hebrew, even though you may not fully understand all the rules at this stage
-  * A `Study Verses Parsing/Translation Worksheet` is available in `Lesson Extras`
-    * After reviewing the `Vocab` for the Lesson, we encourage you to use the worksheet BEFORE attempting the work in Anki to skectch out a rough translation
-    * The translation may be quite difficult at first
     * We encourage you to use a Dictionary (such as [this one](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}) to help you when you come across unfamiliar words
     * Other dictionaries [are available here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
     * To help with this, for Lessons 3-10, longer verses will be divided into multiple sections
-  * It may take you SEVERAL attempts before you can select `Good`
+  * It may take you SEVERAL attempts before you can select `Good` in Anki
   * Be patient and stick with it - you'll get it!
   * By the end of the course, you will learn close to 500 verses in Hebrew
   
 ::: {.box .info}
-* Your vocabulary and understanding will grow if you COPY each of the `study verses` by hand
+* Your vocabulary and understanding will grow if you COPY each of the `study verses` by hand, or at a minimum attempt to translte word for word
 * A PDF of the verses is contained in the `Lesson Extras` folder - note this is provided by the authors of _Basics of Biblical Hebrew_ and not Holy Language Institute
-* Note that not every verse in the Verse Warm-up activities will be included in the `Anki Study Verses` deck
+* Not every verse in the Verse Warm-up activities will be included in the `Anki Study Verses` deck
 
 :::
 
@@ -1250,8 +1248,14 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 * You must submit a screenshot showing that all cards are **MATURE**
   * No cards may be "New," "Young," "Suspended," or "Buried"
   * From the Anki manual, ["A mature card is one that has an interval of 21 days or greater."](https://docs.ankiweb.net/#/stats?id=types-of-cards){target="_blank"}
+  * In other words, you will not be able to submit for your Certificate immediately upon completion of Lesson 3; you will need a period of time for the cards to reach **Mature** status.
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
+
+```{r, out.width = "400pt", fig.align='center', fig.cap="Your Anki screenshot should look like this, showing all cards MATURE"}
+knitr::include_graphics("images/03.Anki_Mature.jpg")
+```
+
 
 [Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
 
@@ -1261,7 +1265,6 @@ If you have completed **all activities** in Lessons 1, 2, and 3, you may claim t
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/03_overheads_bw.pdf){target=“_blank”}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-03.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_03.pdf){target=“_blank”}
-  * [Lesson Study Verses Parsing/Translation Worksheet](https://docs.google.com/document/d/13VHZwN15rotMBSinZr4owySDoGTpKEaiMGd1bvk9G70/copy){target=“_blank”}
 * [Dr. Beckman additional practice video](http://youtu.be/icqgATyH9qQ){target=“_blank”}
 * Additional Drills/Worksheets
   * [Quiz a](https://hebrewsyntax.org/bbh2new/03_quiz_new.pdf){target=“_blank”}
