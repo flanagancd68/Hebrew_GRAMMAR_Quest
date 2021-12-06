@@ -1,7 +1,9 @@
 ---
 title: "Hebrew GRAMMAR Quest"
 #date: "2021-12-06"
+#author: Holy Language Institute
 cover-image: images/HGQ_book_cover.png
+favicon: "images/favicon.ico"
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
 bibliography: [book.bib, packages.bib]
@@ -468,7 +470,10 @@ If you are eager to jump right in with Lesson 1, we understand.  We are also exc
 
 "Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you understand specific concepts before continuing.
 
-For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE READ THE `GETTING STARTED` SECTION IN THE INTRODUCTION, HAVE DOWNLOADED YOUR [`COURSE CHECKLIST`](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} AND ARE READY TO GO WITH `ANKI`!
+BEFORE CONTINUING, MAKE SURE YOU HAVE READ THE `GETTING STARTED` SECTION IN THE INTRODUCTION
+
+* Have you downloaded your [`COURSE CHECKLIST`](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"}? 
+* Are you ready to go with ARE READY TO GO WITH [ANKI](#anki_settings)!
 
 :::
 

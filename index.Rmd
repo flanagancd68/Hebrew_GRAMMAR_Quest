@@ -1,7 +1,9 @@
 ---
 title: "Hebrew GRAMMAR Quest"
 #date: "`r Sys.Date()`"
+#author: Holy Language Institute
 cover-image: images/HGQ_book_cover.png
+favicon: "images/favicon.ico"
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
 bibliography: [book.bib, packages.bib]
