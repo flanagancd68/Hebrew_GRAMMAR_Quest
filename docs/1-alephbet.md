@@ -1,7 +1,9 @@
 ---
 title: "Hebrew GRAMMAR Quest"
-#date: "2021-12-02"
+#date: "2021-12-06"
+#author: Holy Language Institute
 cover-image: images/HGQ_book_cover.png
+favicon: "images/favicon.ico"
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
 bibliography: [book.bib, packages.bib]
@@ -19,28 +21,28 @@ lof: no
 #mainfont: Ezra SIL
 ---
 
-# Cover {.unnumbered}
+# Preface {-}
 
 Placeholder
 
 
+## Quest Introduction {-}
+## The Fog {-}
+## Other course information {-}
 
 <!--chapter:end:index.Rmd-->
 
 
-# Quest Introduction {-}
+# Getting Started (IMPORTANT!) {-}
 
 Placeholder
 
 
-## Getting Started (IMPORTANT!) {-}
 ## Customize Anki Settings {- #anki_settings}
 ### Daily limits and New Cards {-}
 ### Lapses and Timer {-}
 ### Burying and Audio {-}
 ### Advanced {-}
-## The Fog {-}
-## Other course information {-}
 
 <!--chapter:end:00c-Anki.Rmd-->
 
@@ -144,7 +146,10 @@ If you are eager to jump right in with Lesson 1, we understand.  We are also exc
 
 "Equipment Check" is where we will pause before each lesson to make sure you have the right tools and supplies in your backpack before heading on the next phase of your Quest.  In future lessons, we will want to make sure you understand specific concepts before continuing.
 
-For Lesson 1, BEFORE CONTINUING, MAKE SURE YOU HAVE COMPLETED ALL OF THE `PRELIMINARY` TASKS ON YOUR `COURSE CHECKLIST` AND ARE READY TO GO WITH `ANKI`!
+BEFORE CONTINUING, MAKE SURE YOU HAVE READ THE `GETTING STARTED` SECTION IN THE INTRODUCTION
+
+* Have you downloaded your [`COURSE CHECKLIST`](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"}? 
+* Are you ready to go with ARE READY TO GO WITH [ANKI](#anki_settings)!
 
 :::
 
@@ -198,7 +203,7 @@ knitr::include_graphics("images/01_Cove of the Sower from top, tbs76029303.jpg")
 <p class="caption">(\#fig:unnamed-chunk-2)Cove of the Sower - suggested location where Yeshua proclaimed the words of Adonai to the crowd in Mark 4:1. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)</p>
 </div>
 
-Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!  A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.
+Note: acoustic tests performed at this location have confirmed that a person in a boat in the middle of the cove can _easily_ be heard without amplification by people sitting on these rocks several hundred feet up the embankment, and Yeshua didn't have to deal with road noise!^[A description of the acoustics study can be found in the following article: Crisler, B. "The Acoustics and Crowd Capacity of Natural Theaters in Palestine." Biblical Archaeologist, vol. 39, no. 4 (1976):128–41.]
 
 
 ## The Hebrew Aleph-Bet {#consonants}
@@ -237,7 +242,7 @@ include_graphics("images/alephbet.png")
 
 <img src="images/alephbet.png" width="800pt" style="display: block; margin: auto;" />
 
-Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Lessons 2-11](https://holylanguage.com/letters.html){target="_blank"}.  
+Almost every other grammar book would start with a lengthy description of each letter, how to write it, and how to pronounce it.  We omit this because this is (and much more!) covered in detail in [_Hebrew Quest_ Alephbet Lessons 1-11](https://holylanguage.com/letters.html){target="_blank"}.  
 
 * Hopefully, you have already watched these foundational _Hebrew Quest_ lessons; if not, click the link above!  
 * If you need a refresher on identifying each of the letters, there will be cards on the Aleph-Bet in your `Anki` deck for Lesson 1.
@@ -246,13 +251,13 @@ The points below and on the following pages will provide some foundations. This 
 
 * All letters you see in the picture of the Aleph-Bet above are classified as "consonants."
 
-* Whereas English has the vowel letters (A, E, I, O, U) as a core part of the Aleph-Bet, Hebrew treats vowels differently
+* Whereas English has the vowel letters (A, E, I, O, U) as a core part of the _Alpha_Bet, Hebrew treats vowels differently
 
 * א and ע are not vowels but silent consonants; in Sephardic pronunciation, they take on the pronunciation of their associated vowel (if there is one)
 
 * We'll talk about vowels in Lesson 2
 
-::: {.box .stop}
+::: {.box .caution}
 Have you completed _Hebrew Quest_ Lessons 1-11?
 
 If not, we encourage you to stop here and move over to _Hebrew Quest_ to complete the Alephbet lessons.
@@ -687,8 +692,8 @@ knitr::include_graphics("images/vav.png")
 
 <img src="images/vav.png" width="800pt" style="display: block; margin: auto;" />
 
-* There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and "real-world" Hebrew spoken in Israel.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
-    * Real-world Hebrew is based on Sephardic pronunciation^[There is also what is called Ashkenazi pronunciation, which is beyond the scope of this course.  It also has some different pronunciations.  Most notably, the letter ת is given an "s" sound at the end of a word, and "O" vowels are more prominent.  So שׁבּת (shabbat), would be pronounced "Shabbos" in Ashkenazi]
+* There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and "real-world" Hebrew spoken today in Israel.  Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
+    * Modern Hebrew, including modern pronunciation of the Tanakh, is based on Sephardic pronunciation^[There is also what is called Ashkenazi pronunciation, which is beyond the scope of this course.  It also has some different pronunciations.  Most notably, the letter ת is given an "s" sound at the end of a word, and "O" vowels are more prominent.  So שׁבּת (shabbat), would be pronounced "Shabbos" in Ashkenazi]
 * We've already talked about how only three of the Daghesh Lene letters need to "BucK-uP"
 * With "Seminary Hebrew," all six letters take on a soft pronunciation.
     * The <span class="he">ג</span> without the Daghesh Lene receives something like the GH in "aGHast." The <span class="he">ד</span> and <span class="he">ת</span> without the Daghesh Lene are closer to the English DH/TH like "this" 
@@ -774,7 +779,6 @@ function x25() {
 * Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
     * You may need to sign in with a Google account
     * You may wish to rename the document with the applicable lesson # as you will be reusing the blank document multiple times
-      * In fact, instead of downloading from the above link each time, we recommend you save a blank copy to your personal Google Drive, then select `File` then `Make a Copy` whenever you wish to begin a new `Ruth Pursuit`.
 * We strongly encourage you to go line by line through the passage and do not use the "Find" function in your word processor
     * Line by line will take longer, but you will learn more (even though you may think it's a waste of time because at this point you may not know much, if any, Hebrew.  Just go through the passage as best as you can; you may be surprised what sinks in!)
 
@@ -801,46 +805,69 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio2" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio2");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
 
 
 <span class="he"><p align="right">
-‫ 1     וַיְהִי בִּימֵי שְׁפֹט הַשֹּׁפְטִים וַיְהִי רָעָב בָּאָרֶץ וַיֵּלֶךְ אִישׁ מִבֵּית לֶחֶם יְהוּדָה לָגוּר בִּשְׂדֵי מוֹאָב הוּא וְאִשְׁתּוֹ וּשְׁנֵי בָנָיו׃ ‬
-‫ 2     וְשֵׁם הָאִישׁ אֱלִימֶלֶךְ וְשֵׁם אִשְׁתּוֹ נָעֳמִי וְשֵׁם שְׁנֵי־בָנָיו מַחְלוֹן וְכִלְיוֹן אֶפְרָתִים מִבֵּית לֶחֶם יְהוּדָה וַיָּבֹאוּ שְׂדֵי־מוֹאָב וַיִּהְיוּ־שָׁם׃ ‬
-‫ 3     וַיָּמָת אֱלִימֶלֶךְ אִישׁ נָעֳמִי וַתִּשָּׁאֵר הִיא וּשְׁנֵי בָנֶיהָ׃ ‬
-‫ 4     וַיִּשְׂאוּ לָהֶם נָשִׁים מֹאֲבִיּוֹת שֵׁם הָאַחַת עָרְפָּה וְשֵׁם הַשֵּׁנִית רוּת וַיֵּשְׁבוּ שָׁם כְּעֶשֶׂר שָׁנִים׃ ‬
-‫ 5     וַיָּמוּתוּ גַם־שְׁנֵיהֶם מַחְלוֹן וְכִלְיוֹן וַתִּשָּׁאֵר הָאִשָּׁה מִשְּׁנֵי יְלָדֶיהָ וּמֵאִישָׁהּ׃ ‬
-‫ 6     וַתָּקָם הִיא וְכַלֹּתֶיהָ וַתָּשָׁב מִשְּׂדֵי מוֹאָב כִּי שָׁמְעָה בִּשְׂדֵה מוֹאָב כִּי־פָקַד יְהוָה אֶת־עַמּוֹ לָתֵת לָהֶם לָחֶם׃ ‬
-‫ 7     וַתֵּצֵא מִן־הַמָּקוֹם אֲשֶׁר הָיְתָה־שָׁמָּה וּשְׁתֵּי כַלֹּתֶיהָ עִמָּהּ וַתֵּלַכְנָה בַדֶּרֶךְ לָשׁוּב אֶל־אֶרֶץ יְהוּדָה׃ ‬
-‫ 8     וַתֹּאמֶר נָעֳמִי לִשְׁתֵּי כַלֹּתֶיהָ לֵכְנָה שֹּׁבְנָה אִשָּׁה לְבֵית אִמָּהּ *יעשה **יַעַשׂ יְהוָה עִמָּכֶם חֶסֶד כַּאֲשֶׁר עֲשִׂיתֶם עִם־הַמֵּתִים וְעִמָּדִי׃ ‬
-‫ 9     יִתֵּן יְהוָה לָכֶם וּמְצֶאןָ מְנוּחָה אִשָּׁה בֵּית אִישָׁהּ וַתִּשַּׁק לָהֶן וַתִּשֶּׂאנָה קוֹלָן וַתִּבְכֶּינָה׃ ‬
-‫ 10    וַתֹּאמַרְנָה־לָּהּ כִּי־אִתָּךְ נָשׁוּב לְעַמֵּךְ׃ ‬
-‫ 11    וַתֹּאמֶר נָעֳמִי שֹׁבְנָה בְנֹתַי לָמָּה תֵלַכְנָה עִמִּי הַעוֹד־לִי בָנִים בְּמֵעַי וְהָיוּ לָכֶם לַאֲנָשִׁים׃ ‬
-‫ 12    שֹׁבְנָה בְנֹתַי לֵכְןָ כִּי זָקַנְתִּי מִהְיוֹת לְאִישׁ כִּי אָמַרְתִּי יֶשׁ־לִי תִקְוָה גַּם הָיִיתִי הַלַּיְלָה לְאִישׁ וְגַם יָלַדְתִּי בָנִים׃ ‬
-‫ 13    הֲלָהֵן תְּשַׂבֵּרְנָה עַד אֲשֶׁר יִגְדָּלוּ הֲלָהֵן תֵּעָגֵנָה לְבִלְתִּי הֱיוֹת לְאִישׁ אַל בְּנֹתַי כִּי־מַר־לִי מְאֹד מִכֶּם כִּי־יָצְאָה בִי יַד־יְהוָה׃ ‬
-‫ 14    וַתִּשֶּׂנָה קוֹלָן וַתִּבְכֶּינָה עוֹד וַתִּשַּׁק עָרְפָּה לַחֲמוֹתָהּ וְרוּת דָּבְקָה בָּהּ׃ ‬
-‫ 15    וַתֹּאמֶר הִנֵּה שָׁבָה יְבִמְתֵּךְ אֶל־עַמָּהּ וְאֶל־אֱלֹהֶיהָ שׁוּבִי אַחֲרֵי יְבִמְתֵּךְ׃ ‬
-‫ 16    וַתֹּאמֶר רוּת אַל־תִּפְגְּעִי־בִי לְעָזְבֵךְ לָשׁוּב מֵאַחֲרָיִךְ כִּי אֶל־אֲשֶׁר תֵּלְכִי אֵלֵךְ וּבַאֲשֶׁר תָּלִינִי אָלִין עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי׃ ‬
-‫ 17    בַּאֲשֶׁר תָּמוּתִי אָמוּת וְשָׁם אֶקָּבֵר כֹּה יַעֲשֶׂה יְהוָה לִי וְכֹה יֹסִיף כִּי הַמָּוֶת יַפְרִיד בֵּינִי וּבֵינֵךְ׃ ‬
-‫ 18    וַתֵּרֶא כִּי־מִתְאַמֶּצֶת הִיא לָלֶכֶת אִתָּהּ וַתֶּחְדַּל לְדַבֵּר אֵלֶיהָ׃ ‬
-‫ 19    וַתֵּלַכְנָה שְׁתֵּיהֶם עַד־בֹּאָנָה בֵּית לָחֶם וַיְהִי כְּבֹאָנָה בֵּית לֶחֶם וַתֵּהֹם כָּל־הָעִיר עֲלֵיהֶן וַתֹּאמַרְנָה הֲזֹאת נָעֳמִי׃ ‬
-‫ 20    וַתֹּאמֶר אֲלֵיהֶן אַל־תִּקְרֶאנָה לִי נָעֳמִי קְרֶאןָ לִי מָרָא כִּי־הֵמַר שַׁדַּי לִי מְאֹד׃ ‬
-‫ 21    אֲנִי מְלֵאָה הָלַכְתִּי וְרֵיקָם הֱשִׁיבַנִי יְהוָה לָמָּה תִקְרֶאנָה לִי נָעֳמִי וַיהוָה עָנָה בִי וְשַׁדַּי הֵרַע לִי׃ ‬
-‫ 22    וַתָּשָׁב נָעֳמִי וְרוּת הַמּוֹאֲבִיָּה כַלָּתָהּ עִמָּהּ הַשָּׁבָה מִשְּׂדֵי מוֹאָב וְהֵמָּה בָּאוּ בֵּית לֶחֶם בִּתְחִלַּת קְצִיר שְׂעֹרִים׃
+‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
+‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
+‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
+‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
+‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
+‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
+‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
+‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
+‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
+‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
+‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
+‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
+‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
+‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
+‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
+‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
+‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
+‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
+‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
+‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
+‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
+‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
+
+
+
+
+
+
 
 ## Activity: Ruth Pursuit Translation Worksheet {-}
 
@@ -932,11 +959,12 @@ In other words after you have completed `Anki` so that all the lesson's cards ar
 * If you ever have issues with the video or form not loading, click the "View in new window" link that will appear below (or instead of) the embedded frame; this will open a new window in your web browser  
 :::
 
+[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
+
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}
 
 ## Lesson Extras {-}
 
@@ -966,6 +994,7 @@ function x25() {
 </script></figure>
 :::
 
+* [_Hebrew Quest_ Alephbet lessons (login required)](https://holylanguage.com/letters.html){target="_blank"}
 * [Dr. Beckman Lecture Video](http://youtu.be/edv-QEGJI3k){target="_blank"}
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/01_overheads_bw.pdf){target="_blank"}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-01.pdf){target=“_blank”}
@@ -999,11 +1028,13 @@ Placeholder
 ## בגד כפת letters can take either a Dagesh Lene OR a Dagesh Forte
 ## The Easy Dagesh Forte Rule {#dagesh_forte_in_bgdkpt}
 ## וּ is usually Shureq, but could be Vav with a Dagesh Forte
+### Similarly, וֹ is usually the vowel Holem-Vav, but it could be a consonantal Vav with a Holem {-}
 ## Gutturals and Resh reject Dagesh Forte {#gutturals_reject_dagesh_forte}
 ## Lesson Conclusion and Activities {-}
 ## Anki {-}
 ## Vowel Writing Worksheet {-}
 ## Ruth Pursuit {-}
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Claim your `Twelve Tribes Badge`! {- #twelve-tribes-badge-1}
 ## Lesson Extras {-}
@@ -1035,6 +1066,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Request your `Unit 1 Completion Certificate`! {-}
 ## Lesson Extras {-}
@@ -1081,6 +1113,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Lesson Extras {-}
 
@@ -1110,6 +1143,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Claim your next `Twelve Tribes Badge`! {-}
 ## Lesson Extras {-}
@@ -1140,6 +1174,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Lesson Extras {-}
 
@@ -1165,8 +1200,9 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz {-}
-## Claim your next `Twelve Tribes Badge`! {-}
+## Claim your next Twelve Tribes Badge! {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:07-Adjectives.Rmd-->
@@ -1197,6 +1233,7 @@ Placeholder
 ## Anki {-}
 ## Worksheets: Pronouns {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Lesson Extras {-}
 
@@ -1229,6 +1266,7 @@ Placeholder
 ## Anki {-}
 ## Worksheets: Pronominal Suffixes {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz {-}
 ## Lesson Extras {-}
 
@@ -1254,6 +1292,7 @@ Placeholder
 ## Anki {-}
 ## Worksheets: Construct Identification {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Quest Quiz #10 {-}
 ## Claim your next `Twelve Tribes Badge`! {-}
 ## Lesson Extras {-}
@@ -1281,6 +1320,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Claim your Unit 2 Completion Certificate! {-}
 ## Lesson Extras {-}
 
@@ -1338,7 +1378,9 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Honors Track: Hebrew Quest Study Passage - Proverbs Studies #1-4 {-}
+### Proverbs Sessions 1-4 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:12-Verbs_Intro.Rmd-->
@@ -1377,8 +1419,10 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}        
-## Claim your next `Twelve Tribes Badge`! {-}
+### Ruth 1 {-}
+## Claim your next Twelve Tribes Badge! {-}
 ## Honors Track: Hebrew Quest Study Passage - Proverbs #5-7 {-}
+### Proverbs Sessions 5-7 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:13-Qal_Perfect_Strong.Rmd-->
@@ -1406,7 +1450,9 @@ Placeholder
 ## Verses Warm-up {-}
 ## Anki {-}
 ## Ruth Pursuit {-}    
+### Ruth 1 {-}
 ## Honors Track: Hebrew Quest Study Passage - Proverbs #8-10 {-}
+### Proverbs Sessions 8-10 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:14-Qal_Perfect_Weak.Rmd-->
@@ -1434,7 +1480,9 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
+### Ruth 1 {-}
 ## Honors Track: Hebrew Quest Study Passage: Proverbs #11-14 {-}
+### Proverbs Sessions 11-14 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:15-Qal_Imperfect_strong.Rmd-->
@@ -1468,8 +1516,10 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
+### Ruth 1 {-}
 ## Claim your next Twelve Tribes Badge! {-}
 ## Honors Track: Hebrew Quest Study Passage: Proverbs #15-17 {-}
+### Proverbs Sessions 15-17 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:16-Qal_Imperfect_Weak.Rmd-->
@@ -1498,7 +1548,9 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheet: Qal Vav-Consecutive Paradigms {-}
 ## Ruth Pursuit {-}   
-## Honors Track: Hebrew Quest Study Passage: Genesis 1:1-5 {-}
+### Ruth 1 {-}
+## Hebrew Quest Study Passage: Genesis 1:1-5 {-}
+### Genesis 1:-5 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:17-Vav_Consecutive.Rmd-->
@@ -1530,7 +1582,9 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheet: Qal Volitional Forms {-}
 ## Ruth Pursuit {-}   
-## Honors Track: Hebrew Quest Study Passage: The Shema {-}
+### Ruth 1 {-}
+## Hebrew Quest Study Passage: The Shema {-}
+### Deuteronomy 6:4-9 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:18-Qal_Imperative_strong.Rmd-->
@@ -1553,7 +1607,8 @@ Placeholder
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
 ## Claim your next Twelve Tribes Badge! {-}
-## Honors Track: Hebrew Quest Study Passage:  Matthew 6 {-}
+## Hebrew Quest Study Passage:  Matthew 6 {-}
+### Matthew 6 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:19-Pronominal_Suffix_Verbs.Rmd-->
@@ -1580,7 +1635,9 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## Honors Track: Hebrew Quest Study Passage: Genesis 22:1-19 {-}
+### Ruth 1 {-}
+## Hebrew Quest Study Passage: Genesis 22:1-19 {-}
+### Genesis 22:1-19 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:20-Qal_Infinitive_Construct.Rmd-->
@@ -1602,7 +1659,9 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}   
-## Honors Track: Hebrew Quest Study Passage: Aaronic/Priestly Blessing {-}
+### Ruth 1 {-}
+## Hebrew Quest Study Passage: Aaronic/Priestly Blessing {-}
+### Numbers 6:22-27 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:21-Qal_Infinitive_Absolute.Rmd-->
@@ -1629,8 +1688,10 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Claim your next Twelve Tribes Badge! {-}
-## Honors Track: Hebrew Quest Study Passage: Matthew 13 {-}
+## Hebrew Quest Study Passage: The Parables of the Master - Matthew 13 {-}
+### Matthew 13 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:22-Qal_Participle.Rmd-->
@@ -1654,8 +1715,10 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit Syntax Study {-}        
+### Ruth 1 {-}
 ## Claim your Unit 3 Completion Certificate! {-}
-## Honors Track: Hebrew Quest Study Passage: Psalm 19 {-}
+## Hebrew Quest Study Passage: Psalm 19 {-}
+### Psalms 19 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:23-Hebrew_Syntax.Rmd-->
@@ -1702,6 +1765,7 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheet: Niphal Strong Paradigm {-}
 ## Hebrew Quest Study Passage: Numbers 15:37-41 {-}
+### Numbers 15:37-41 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:24-Niphal_Strong.Rmd-->
@@ -1725,7 +1789,8 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Claim your next `Twelve Tribes Badge`! {-}
+### Ruth 1 {-}
+## Claim your next Twelve Tribes Badge! {-}
 ## Hebrew Quest Study Passage: John 1 {-}
 ## Lesson Extras {-}
 
@@ -1757,7 +1822,9 @@ Placeholder
 ## Verses Warm-up {-}
 ## Worksheet: Piel Strong Paradigms {-}
 ## Ruth Pursuit Analysis {-}
+### Ruth 1:1-6 {-}
 ## Hebrew Quest Study Passage: Exodus 31:12-17 {-}
+###  Exodus 31:12-17 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:26-Piel_Strong.Rmd-->
@@ -1781,7 +1848,10 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
-## Hebrew Quest Study Passage: Psalms 1 and 27 {-}
+### Ruth 1 {-}
+## Hebrew Quest Study Passages: Psalms 1 and 27 {-}
+### Psalms 1 {-}
+### Psalms 27 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:27-Piel_Weak.Rmd-->
@@ -1807,8 +1877,10 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit Analysis {-}
-## Claim your next `Twelve Tribes Badge`! {-}
+### Ruth 1:7-10 {-}
+## Claim your next Twelve Tribes Badge! {-}
 ## Hebrew Quest Study Passage: Revelation 1 {-}
+### Revelation 1 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:28-Pual_Strong.Rmd-->
@@ -1826,6 +1898,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Hebrew Quest Study Passage: Psalms 145 {-}
+### Psalms 145 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:29-Pual_Weak.Rmd-->
@@ -1856,7 +1929,9 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit Analysis {-}
+### Ruth 1:11-14 {-}
 ## Hebrew Quest Study Passage: Exodus 19 {-}
+### Exodus 19 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:30-Hiphil-Strong.Rmd-->
@@ -1881,8 +1956,10 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Claim your next Twelve Tribes Badge! {-}
 ## Hebrew Quest Study Passage: Exodus 20 {-}
+### Exodus 20 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:31-Hiphil-Weak.Rmd-->
@@ -1909,7 +1986,9 @@ Placeholder
 ## Hophal Strong Worksheet {-}
 ## Ruth Pursuit {-}
 ## Ruth Pursuit Analysis {-}
+### Ruth 1:15-19a {-}
 ## Hebrew Quest Study Passage: 1 Samuel 17 {-}
+### 1 Samuel 17 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:32-Hophal_Strong.Rmd-->
@@ -1929,6 +2008,7 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Hebrew Quest Study Passage: Psalms 45 {-}
+### Psalms 45 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:33-Hophal_weak.Rmd-->
@@ -1955,8 +2035,10 @@ Placeholder
 ## Verses Warm-up {-}
 ## Hitpael Parsing Worksheet {-}
 ## Ruth Pursuit Analysis {-}
+### Ruth 1:19b-22 {-}
 ## Claim your next Twelve Tribes Badge! {-}
 ## Hebrew Quest Study Passage: Leviticus 23 {-}
+### Leviticus 23 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:34-Hitpael_Strong.Rmd-->
@@ -1978,7 +2060,9 @@ Placeholder
 ## Word Warm-up {-}
 ## Verses Warm-up {-}
 ## Ruth Pursuit {-}        
+### Ruth 1 {-}
 ## Hebrew Quest Study Passage: 1 Kings 18 {-}
+### 1 Kings 18 {-}
 ## Lesson Extras {-}
 
 <!--chapter:end:35-Hitpael_Weak.Rmd-->

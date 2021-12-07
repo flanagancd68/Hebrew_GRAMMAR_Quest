@@ -1078,21 +1078,17 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -2201,21 +2197,17 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -3441,21 +3433,17 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -4948,21 +4936,17 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -6062,21 +6046,17 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -6922,21 +6902,17 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -7556,21 +7532,17 @@ Be sure to update your `Ruth Pursuit Translation Worksheet` with the findings fr
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -8396,21 +8368,17 @@ Identify each occurrence of the following:
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -9358,21 +9326,17 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -10106,21 +10070,17 @@ As always, words may have prefixes or suffixes.  Try to identify whether the con
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -10769,21 +10729,17 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
+::: {.box .sound}
+<figure>
+    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
+    <audio controls
+        src="./images/t2901.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 :::
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
