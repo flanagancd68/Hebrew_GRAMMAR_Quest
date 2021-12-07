@@ -27,12 +27,13 @@ function x25() {
 :::
 
 
-While this is a self-paced course with no formal instructor or teaching assistant, we want to provide a way for you to get help and ask a question should you get stuck. We request that before you submit a question, you read through the lesson a couple of times, then attempt to do the Anki cards for that lesson.  Sometimes by doing this, things will "click" on their own.  If you are still unclear, we are here!
+While this is a self-paced course with no formal instructor or teaching assistant, we want to provide a way for you to get help and ask a question should you get stuck. 
 
-Additionally, please do not hesitate to report any errors, omissions, or improvement opportunities^[General feedback on how much you love the course would be appreciated too!].  In fact, we'd rather hear about mistakes sooner rather than later! 
+* We request that before you submit a question, you read through the lesson a couple of times, then attempt to do the Anki cards for that lesson.  Sometimes by doing this, things will "click" on their own.  If you are still unclear, we are here!
+* Additionally, please do not hesitate to report any errors, omissions, or improvement opportunities^[General feedback on how much you love the course would be appreciated too!].  In fact, we'd rather hear about mistakes sooner rather than later! 
 
 ::: {.box .info}
-* In the form, please be sure to give us your email or text information if you desire a response, otherwise your feedback will be anonymous
+* If you desire a response, please be sure to give us your email or text information, otherwise your feedback will be anonymous
 * Note, we are staffed by volunteers, so please allow a few days for us to research and get back to you
 
 :::

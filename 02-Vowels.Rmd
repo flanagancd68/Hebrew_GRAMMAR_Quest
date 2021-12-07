@@ -41,13 +41,11 @@ Above, you see Genesis 1:9.  The black font shows the text with no vowels. This 
 ::: {.infobox .map}
 **LESSON ITINERARY**
 
-1. Memorize vowels that are not vowel letters
+1. Memorize vowels 
 1. Learn Vocal Sheva and Silent Sheva
-1. Memorize the vowel letters
 1. Meet "defective" and "plene" spelling 
 1. Meet Dagesh Lene's twin, Dagesh Forte
-1. Know the rule for a Dagesh Forte
-1. Know that the Gutturals and Resh reject Dagesh Forte
+
 ::: 
 
 ::: {.infobox .stop}
@@ -157,6 +155,7 @@ MlfwNNuWgto?start=0&end=1675&rel=0&showinfo=0autohide=1&autoplay=1" frameborder=
 
 [Click to open video in a new tab](https://youtu.be/MlfwNNuWgto){target="_blank"}
 
+::: {.box .sound}
 <figure>
     <figcaption>Audio from _Hebrew Quest_ Lesson 12 Vowels Lecture</figcaption>
     <audio
@@ -166,7 +165,7 @@ MlfwNNuWgto?start=0&end=1675&rel=0&showinfo=0autohide=1&autoplay=1" frameborder=
             <code>audio</code> element.
     </audio>
 </figure>
-
+:::
 * Start: 00:00
 * End: 27:55
 
@@ -358,7 +357,7 @@ knitr::include_graphics("images/02.vowels_letters.png")
 ```
 
 
-## Vowels that are letters: 
+## Vowels that are letters: discussion
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -601,10 +600,10 @@ function x25() {
 </script></figure>
 :::
 
-* Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a בגד כפת letter
-    * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word אַתָּה in the previous section
+* Any consonant (except for Gutturals and Resh) can take a Dagesh Forte, including a <span class="he">בגד כפת</span> letter
+    * The "Buck-up" letters will take the **hard** pronunciation regardless of a Dagesh Lene or Dagesh Forte - See the final word <span class="he">אַתָּה</span> in the previous section
 
-_Advanced tip:_ When you see a Dagesh Forte, it often means that another letter (most frequently נ) has disappeared^[Not entirely unlike the English apostrophe in words like _can't_. The grammatical term for this is "assimilation."].  We will talk more about this later in the course.
+_Advanced tip:_ When you see a Dagesh Forte, it often means that another letter (most frequently <span class="he">נ</span>) has disappeared^[Not entirely unlike the English apostrophe in words like _can't_. The grammatical term for this is "assimilation."].  We will talk more about this later in the course.
 
 ::: {.infobox .info}
 It's good to think of the Dagesh Forte as the "Doubling Dagesh" since it doubles the consonant and often changes a word's meaning.  
@@ -1026,12 +1025,12 @@ function x25() {
 </script></figure>
 :::
 
+[Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-[Open Quest Quiz #2 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeq_9Cy5IlAKDFy8nx9GNC3dfs5l5bJ_iX2FJ0Az7rPKXq5Jw/viewform){target="_blank"}
 
 ## Claim your `Twelve Tribes Badge`! {- #twelve-tribes-badge-1}
 
@@ -1064,6 +1063,8 @@ function x25() {
 If you have completed **all activities** in Lessons 1 and 2, congratulations!  You may claim the first of our "Twelve Tribes" badges.  These are a fun way to commemorate your progress.  After you complete the form and confirm you have done the required activites, you will receive an email with a virtual "badge" along with some thoughts about what each of the Twelve Tribes represents from a spiritual perspective.  Be sure you are keeping your Quest Activities Checklist up to date as you complete each lesson and activity.
 
 Use the form below to claim your Asher badge!
+
+[Open form in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform){target="_blank"}
 
 <div class="containerLet">
 <iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeFujHNSMAZ5ZjJbNsr7pFJnma5RGwG-7StAR1uvevGe_5zvg/viewform?embedded=true" frameborder="0"></iframe>

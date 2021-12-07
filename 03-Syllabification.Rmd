@@ -218,9 +218,9 @@ knitr::include_graphics("images/03.syllable.png")
 We see the two basic concepts at play in this simple word (pronounced "da-var" and means word, matter, thing):
 
 * The two syllables each begin with a consonant and have one vowel
-    * דָּ starts with the consonant Dalet and has one vowel, Qamets
+    * <span class="he">דָּ</span> starts with the consonant Dalet and has one vowel, Qamets
       * This is also an example of an "open" syllable - open syllables end with a _vowel_, not a consonant
-    * בָר starts with the consonant Bet and has one vowel, also a Qamets
+    * <span class="he">בָר</span> starts with the consonant Bet and has one vowel, also a Qamets
       * This is an example of a "closed" syllable - closed syllables end with a _consonant_, not a vowel 
 * If you need to know how many syllables are in a Hebrew word, count the vowels
     * Remember that vowel letters, such as the Hiriq-Yod, and Diphthongs we will see later in this lesson, count as a single vowel unit
@@ -275,7 +275,7 @@ function setPlaySpeed25() {
 ::: {.infobox .info}
 * Most frequently, Hebrew words are accented on the last syllable  
 * If not, then the accent will be on the next-to-last syllable^[Later in the course, we will learn about a mark called a Maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the Maqqef technically does not have an accent.]
-* Reduced vowels and Sheva never take an accent. If there is a word-final Sheva, the accent will be on the next-to-last syllable 
+* Reduced vowels never take an accent
 :::
 
 Unlike English, Biblical Hebrew words are never stressed anywhere else^[Modern Hebrew has words (mostly borrowed from other languages) that don't always follow this rule].
@@ -705,7 +705,7 @@ Closed | LONG | SHORT | SHORT
 PAUSAL FORMS
 
 * A notable exception to these preferences is called the "pausal form"
-  * This is where a short vowel can become long (for example קָטַל becomes קָטָל) if the word is located at a certain point in a sentence
+  * This is where a short vowel can become long (for example <span class="he">קָטַל</span> becomes <span class="he">קָטָל</span>) if the word is located at a certain point in a sentence
   * A rough approximation in English would be words concluding with a comma
 * Pausal Forms are generally an intermediate Hebrew topic, but it's good to be aware of when you encounter spellings that don't seem to mesh with the vowel/syllable table
 

@@ -151,18 +151,14 @@ To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one an
 * Either way, you can't go wrong!  The most important thing is to start and ultimately complete both.  Again, the _Hebrew Quest_ study passage track within Hebrew Grammar Quest will get you on your way to this lofty goal of completing both courses.
 
 
-::: {.box .map}
-Let's get started!
-:::
-
 Refer to the section on Anki and course setup to get your Hebrew GRAMMAR Quest outfitted properly.
 
 
 ## Why is the course called "Hebrew GRAMMAR Quest"? {- #whygrammarquest}
 
-* The word "GRAMMAR" in all caps emphasizes its distinctness from _Hebrew Quest_; yet by placing the word "GRAMMAR* in the middle of _Hebrew Quest_ is a nod to the course's roots and integration with the original _Hebrew Quest_
-  * And obviously the course is about Hebrew grammar as opposed to some other kind of grammar!
-* Calling the course a "Quest" means there is joy and reward in the journey as well as treasure once the mission is completed
+* **Hebrew** - the course is about _Hebrew_ grammar as opposed to some other kind of grammar!
+* **GRAMMAR** - The word "GRAMMAR", in all caps, emphasizes its distinctness from _Hebrew Quest_; yet placing the word "GRAMMAR* in the middle of _Hebrew Quest_ is a nod to the course's roots and integration with the original _Hebrew Quest_
+* **Quest**  - calling the course a "Quest" means there is joy and reward in the _journey_ as well as treasure once the mission is completed
 
   
 

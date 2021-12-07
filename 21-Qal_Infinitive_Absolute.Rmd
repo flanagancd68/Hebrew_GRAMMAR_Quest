@@ -72,8 +72,33 @@ knitr::include_graphics("images/21_Ketef Hinnom with Gabriel Barkay, tb042705895
 
 ## _Hebrew Quest_ Qal Infinitives Lecture
 
-As needed, re-review this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs.
 
+
+::: {.infobox .sound}
+<figure>As needed, re-review this 3-minute overview video from _Hebrew Quest_ on Hebrew Qal Infinitive Verbs. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/20.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
 
 <div class="container">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/
