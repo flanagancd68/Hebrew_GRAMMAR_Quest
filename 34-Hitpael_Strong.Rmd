@@ -1,7 +1,7 @@
 # The Hitpael Stem - Strong {.HT-s}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -46,7 +46,7 @@ Before continuing, make sure you understand the Piel stem, as the Hitpael stem i
 ##  First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34-7.Isaiah38.2.mp3">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.0.1-7.Isaiah38.2.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -71,7 +71,7 @@ Many of us may be physically removed from Jerusalem and the Western Wall.  Like 
 Why don't you stop what you're doing and pray towards Jerusalem right now?
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "75%", fig.align='center', fig.cap="Men Praying at Western Wall. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/34.Men praying at Western Wall, tb090705000.jpg")
 ``` 
@@ -79,7 +79,7 @@ knitr::include_graphics("images/34.Men praying at Western Wall, tb090705000.jpg"
 
 
 
-## Hitpael Verb Stem Table
+## Hitpael Verb Table
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.1.m4a">
@@ -108,7 +108,7 @@ Meanings:
     * Q - to be holy
     * D - to be sanctified
     * tD - to sanctify oneself
-        * Because this is the most common use, the parsing code is tD - t because a Hitpael preformative always contains ת, and D because like the Piel, $R_2$ takes a Doubling Daghesh Forte (if possible)
+        * Because this is the most common use, the parsing code is tD - t because a Hitpael preformative always contains ת, and D because like the Piel, $R_2$ takes a Doubling Dagesh Forte (if possible)
 * Reciprocal - <span class="he">ראה</span>
     * Q - to see
     * tD - to look at one another
@@ -137,7 +137,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-The Hitpael is the easiest stem to identify:
+> The Hitpael is the easiest stem to identify
 
 * All conjugations have a distinctive prefix:
     * <span class="he">הִתְקַטֵּל</span> - tDP3ms, tDM2ms, tD∞, or tDA
@@ -148,7 +148,7 @@ The Hitpael is the easiest stem to identify:
         
 Also:
 
-* $R_2$ takes Daghesh Forte
+* $R_2$ takes Dagesh Forte
 * $V_1$ is Patach
 * $V_S = \bar E[A] \sim \bar E$
     * tDP2ms and tDP1cs have $V_S = A$, otherwise it's very consistently $\bar E$
@@ -159,9 +159,36 @@ The preformative alone is sufficient to identify the Hitpael stem
 
 ## Hitpael Perfect Strong Paradigm
 
-* The standard Perfect sufformatives
+::: {.infobox .sound}
+<figure>Hitpael Perfect from _Hebrew Quest_<audio id="myAudio" controls controlsList="nodownload" src="./images/34.3-tD-perfect-strong.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+
+
+> "Signature" tD Prefix: <span class="he">הִתְ</span>
+> The Perfect, Imperative and Infinities are identical
+
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/34.tDM2ms.gif")
+``` 
+
 * $V_S =$ Patach in 2nd/1st person
-* "Signature" tD Prefix: <span class="he">הִתְ</span>
+* Rely on context and sufformatives to differentiate between the forms
+* Infinitives are rare, so the biggest challenge will be M3MS and M2MS
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -171,22 +198,36 @@ The preformative alone is sufficient to identify the Hitpael stem
 | 2fs | <span class="he">הִתְקַטַּלְתְּ</span> | 2fp | <span class="he">הִתְקַטַּלְתֶּן</span>
 | 1cs | <span class="he">הִתְקַטַּ֫לְתִּי</span> | 1cp | <span class="he">הִתְקַטַּ֫לְנוּ</span>
 
-<figure>
-    <figcaption>Hitpael Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/34-tD-perfect-strong.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 
 ## Hitpael Imerfect Strong Paradigm
 
+::: {.infobox .sound}
+<figure>Hitpael Imperfect from _Hebrew Quest_<audio id="myAudio" controls controlsList="nodownload" src="./images/34.4-tD-imperfect-strong.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+
 * The standard Imperfect preformatives and sufformatives
 * $V_S =$ Tsere unless reduced
 * "Signature" tD Prefix: <span class="he">יִתְ</span> (or the applicable Imperfect preformative)
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/34.tDI3ms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -198,41 +239,60 @@ The preformative alone is sufficient to identify the Hitpael stem
 
 * Note the standard Imperfect preformatives followed by a תְ
 
-<figure>
-    <figcaption>Hitpael Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/34-tD-imperfect-strong.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 ## Hitpael Imperative Strong Paradigm
+
+> "Signature" tD Prefix: <span class="he">הִתְ</span>
+> The Perfect, Imperative and Infinities are identical
+
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/34.tDM2ms.gif")
+``` 
+
+
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | 2ms | <span class="he">הִתְקַטֵּל</span> | 2mp | <span class="he">הִתְקַטְּלוּ</span>
 | 2fs | <span class="he">הִתְקַטְּלִי</span> | 2fp | <span class="he">הִתְקַטֵּ֫לְנָה</span>
 
+* Although these forms are identical to tDP3ms and the Infinitives, the infinitive forms are infrequent
+
 ## Hitpael Infinitives Strong Paradigm
 
+> "Signature" tD Prefix: <span class="he">הִתְ</span>
+> The Perfect, Imperative and Infinities are identical
+
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/34.tDM2ms.gif")
+``` 
 
 | Type | Paradigm 
 | :-  | :- 
 | ∞ | <span class="he">הִתְקַטֵּל</span>  
 | A | <span class="he">הִתְקַטֵּל</span>
 
-Although these forms are identical to tDP3ms and tDM2ms, the infinitive forms are infrequent.  The tDA only appears three times in the Hebrew Bible.
+* Although these forms are identical to tDP3ms and tDM2ms, the infinitive forms are infrequent.  The tDA only appears three times in the Hebrew Bible.
 
 ## Hitpael Participle Strong Paradigm
+
+> Note the <span class="he">מִתְ </span> prefix in every form, with the characteristic מ of the Participle.
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/34.tDPtms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | ms | <span class="he">מִתְקַטֵּל</span> | ms | <span class="he">מִתְקַטְּלִים</span>
 | fs | <span class="he">מִתְקַטֶּ֫לֶת</span> | fs | <span class="he">מִתְקַטְּלוֹת</span>
 
-Note the <span class="he">מִתְ </span> prefix in every form, with the characteristic מ of the Participle.
 
 ### Participle Prefixes in the Derived Stems {-}
 
@@ -248,7 +308,7 @@ Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 HITPAEL | <span class="he">מִתְ</span>
 
-## What to memorize: Hitpael
+## Hitpael What to memorize
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/34.8.m4a">
@@ -266,13 +326,13 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * "Signature" tD Prefix: <span class="he">הִתְ</span> (and so forth for the other conjugations)
-* $R_2$ takes Daghesh Forte
+* $R_2$ takes Dagesh Forte
 
 ## Stem Comparison Table
 
-* Here is the complete Stem Comparison Table listing $Pre$ and $V_S$ for each stem and the three major conjugations:
+> You can now complete your `Stem Comparison Worksheet`
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 library(knitr)
 include_graphics("images/34_stemcomp.png")
 ```
@@ -316,21 +376,9 @@ YOUR QUEST
 
 ### Ruth 1:19b-22 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.5.m4a">
+<span class="scc">Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.5.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
 
 <span class="he"><p align="right">
 
@@ -354,7 +402,7 @@ Once you have completed **all activities** through this lesson, fill out the for
 [Open Badge form in a new window](https://forms.gle/ejQEQDRGZJT1v8jE6){target="_blank"}
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="https://forms.gle/ejQEQDRGZJT1v8jE6" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScLo2kqkYgJuZGPruRS0j_OS7VMnBkp3o2cPFZ_xG7AkoGHOQ/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
@@ -374,22 +422,20 @@ YOUR _HEBREW QUEST_!
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
+<span class="scc">Hebrew Quest Leviticus 23 Part I Audio:<audio controls src="./images/34.Lev23A.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
+<span class="scc">Hebrew Quest Leviticus 23 Part II Audio:<audio controls src="./images/34.Lev23B.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
 ### Leviticus 23 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0323.m4a">
+<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0323.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ ‬

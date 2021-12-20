@@ -1,7 +1,7 @@
 # The Hophal Stem - Weak {.Hp-w}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.intro.m4a">
+<figure><audio id="myAudio" controls  src="./images/33.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -35,7 +35,7 @@ Before continuing, be sure you can identify Hophal Perfect, Imperfect, and Parti
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33-7.Isaiah24.12.mp3">
+<figure><audio id="myAudio" controls  src="./images/33.0.1-7.Isaiah24.12.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -55,7 +55,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 As people of God, we are sometimes faced with situations where we are tempted to ask, "How could He let this happen?" The people of Isaiah's time who witnessed the destruction of Jerusalem indeed had similar questions. Most of the time, we can not provide a satisfactory answer. The only right choice is to relinquish any notion that we can control the situation and, like Job, trust in Him no matter what the outcome.
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "75%", fig.align='center', fig.cap="Zion Gate from the south.  The pockmarks in the walls are remnants of the 1967 war to liberate the Old City.  This time, the gate was battered but held! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 ``` 
@@ -65,10 +65,10 @@ knitr::include_graphics("images/33.Zion Gate from south, tb010910185.jpg")
 
 
 
-## 1G and 3ה Verbs prefer Qamets Hatuf as $V_P$
+## Hophal 1G and 3ה Verbs prefer Qamets Hatuf as $V_P$
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.1.m4a">
+<figure><audio id="myAudio" controls  src="./images/33.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -89,10 +89,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 
 
-## 1נ assimilates as expected
+## Hophal 1נ assimilates as expected
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.2.m4a">
+<figure><audio id="myAudio" controls  src="./images/33.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -107,18 +107,18 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Since $V_1$ is a Sheva, 1נ assimilates just as it does with QI and NP
-* $R_2$ will take a Daghesh Forte, if allowed
+* $R_2$ will take a Dagesh Forte, if allowed
 * We saw this in the `Ruth Pursuit` of Lesson 32
     * <span class="he">הֻגֵּ֨ד הֻגַּ֜ד לִ֗י</span> - "it has thoroughly been declared to me"
         * The verb root is נגד - to tell
-        * The Daghesh Forte in the Gimmel represents the assimilated 1נ
+        * The Dagesh Forte in the Gimmel represents the assimilated 1נ
 
 
 
-## Geminate/Biconsonantal prefer Shureq as $V_P$
+## Hophal Geminate/Biconsonantal prefer Shureq as $V_P$
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/33.3.m4a">
+<figure><audio id="myAudio" controls  src="./images/33.3.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -133,7 +133,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * The medial letter of the biconsonantal verb is dropped
-* Only one geminate consonant is preserved - where possible, a Daghesh Forte will appear in the remaining consonant
+* Only one geminate consonant is preserved - where possible, a Dagesh Forte will appear in the remaining consonant
 * The Holem+Vav as connecting vowel in some forms of the Perfect is another indicator of the geminate verb
 
 ::: {.box .info}
@@ -190,22 +190,17 @@ YOUR HEBREW QUEST!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
+<span class="scc">Hebrew Quest Psalms 45 Audio:<audio controls src="./images/33.Psalms45.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
+
 ### Psalms 45 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2645.m4a">
+<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t2645.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
+
 
 <span class="he"><p align="right">
 

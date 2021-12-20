@@ -5,7 +5,7 @@
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.intro.m4a">
+        src="./images/04.0.0.intro.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -74,7 +74,7 @@ Before continuing, can you describe the following concepts?
 * The rules for Silent Sheva vs. Vocal Sheva
 :::
 
-Additionally, starting with this lesson, we will invoke the shorthand we've been learning in Anki (e.g. , MP = Masculine Plural, FS = Feminine singular).
+
 
 
 
@@ -85,7 +85,7 @@ Additionally, starting with this lesson, we will invoke the shorthand we've been
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.deu0405.mp3">
+        src="./images/04.0.1.deu0405.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -145,12 +145,14 @@ knitr::include_graphics("images/04-Capernaum and Mount of Beatitudes from Sea of
 
 ## _Hebrew Quest_ Grammatical Gender and Plural Endings Lecture
 
+<!-- Audio: CF Intro (old 04.1.m4a) replaced with Izzy audio 12/10/2021 -->
+
 ::: {.infobox .sound}
-<figure>
+<figure>Click to play the audio from the Hebrew Quest segment.
 <audio
         id="myAudio"
-        controls controlsList="nodownload"
-        src="./images/04.1.m4a">
+        controls
+        src="./images/04.1.1.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -199,15 +201,6 @@ yY3O8ByYNwI?start=0&end=637&rel=0&showinfo=0autohide=1&autoplay=1" frameborder="
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI){target="_blank"}
 
-<figure>
-    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Grammatical Gender and Plural Endings Lecture</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/04.1.1.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 * Start: 00:00
 * End: 10:37
@@ -262,7 +255,7 @@ function setPlaySpeed25() {
 
 * All Hebrew nouns have Gender and Number
 * Grammatical Gender
-    * The "gender" sometimes does, but usually does not, have anything to do with biological gender
+    * The "gender" sometimes does, but usually does not have anything to do with biological gender
     * <span class="he">סֵ֫פֶר</span> is masculine (M), while <span class="he">תּוֹרָה</span>  is feminine (F). There is nothing inherently masculine about books, nor is there anything feminine about laws or instructions
     * The gender of a noun never changes
 * Number
@@ -328,7 +321,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-::: {.box .map}
+::: {.box .info}
 The Lexical Form is the dictionary version of the word.
 :::
 
@@ -390,15 +383,18 @@ function setPlaySpeed25() {
 
 * When we take a base word and do something with it, such as change its gender or number, we call that _inflecting_ the word
     * For example, say you had the English word `mouse`.  The word `mice` would be inflecting `mouse` into its plural form
-    * In this course, you will NOT need to know how to inflect a word.  Reading the Hebrew Bible never requires this skill.
+    * In this course, inflecting is kept to a minimum.  
+    * Reading the Hebrew Bible never requires this skill^[Since inflecting can helpful when learning about verb forms, some of the Unit III `Ruth Pursuit` activities will involve a small amount of inflecting]
 * _Parsing_ is somewhat of the opposite concept where we take an inflected word and break it down into its base form to determine its meaning
     * For example, let's say you had the English word `mice`, you didn't know what it meant and needed to look it up.  
     * Let's further assume there was no dictionary entry for `mice` (Hebrew dictionaries often do not have separate entries for a word's plural forms).  
     * You would need to PARSE it = `Mice` is the plural form of `mouse.` In other words, `mice` is two or more of whatever a `mouse` is.
     * You could then look up `mouse` and be on your way
     * Reading the Hebrew Bible **does** require us to _parse_
-* When we parse a word, we identify the lexical form and the inflected person, gender, and number to understand what the word is communicating to us
-    * Or, if we don't know what it means, we have at least identified the lexical form so we can look it up in a dictionary
+
+> When we parse a word, we identify the lexical form and the inflected person, gender, and number to understand what the word is communicating to us
+
+* We also have identified the lexical form so we can look it up in a dictionary
 * Beginning with this lesson, you will see an `Anki` chapter called `Workbook`, which will have some activities like parsing
 
 ## Singular Noun Endings {#sing_noun_endings}
@@ -408,7 +404,7 @@ function setPlaySpeed25() {
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.4.m4a">
+        src="./images/04.5.correct.singular.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -448,9 +444,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-:::{.box .light}
-A noun's ending, or lack of one, indicates NUMBER and (usually) GENDER
-:::
+> A noun's ending, or lack of one, indicates NUMBER and (usually) GENDER
 
 * Masculine singular (MS)
     * MS are usually "endingless" 
@@ -458,25 +452,28 @@ A noun's ending, or lack of one, indicates NUMBER and (usually) GENDER
         * Usually the absence of a Feminine, Dual, or Plural ending is enough to let you know you are looking at an MS word
     * Occasionally an MS noun may end in (accented) <span class="he">ה ֶ֫  </span> - for example <span class="he">שָֹדֶה</span> means "field"
 * Feminine Singular (FS):
-    * <span class="he">תּוֹרָה</span> (the (accented) Qamets+Hei ending is most typical)
-    * Nouns that end in ($E$ $A$ $\bar A$ or $\hat U$)^[Remember this is shorthand for Tsere, Pathach, Qamets and Shurek respectively. When we say something like "Qamets+Hei, we mean a Qamets under the preceding consonant followed by ה] + <span class="he">ת</span> are _usually_ FS
+    * <span class="he">תּוֹרָה</span> (the (accented) <span class="he">ה ָ   </span> ending is most typical)
+    * Nouns that end in ($E, A, \bar A, or \ \hat U$)^[Remember this is shorthand for Tsere, Patach, Qamets and Shurek respectively. When we say something like "Qamets+Hei, we mean a Qamets under the preceding consonant followed by ה] + <span class="he">ת</span> (excluding the Feminine plural ending <span class="he">וֹת</span>) are _usually_ FS
         * <span class="he">בַּת</span> (daughter)
         * <span class="he">תִּפְאֶ֫רֶת</span>  (glory)
         * <span class="he">בְּרִית</span> (covenant)
         * <span class="he">מַלְכּוּת</span> (kingdom)
-        * Exception: <span class="he">ת</span> - <span class="he">תּוֹרוֹת</span> is FP (laws/teachings)
-    * <span class="he">אֶ֫רֶץ</span> (land - endingless, but feminine - less common)^[Not all endingless nouns are MS.  Some common words are endingless but are classified as FS: <span class="he">אֶ֫רֶץ</span> (land), <span class="he">עִיר</span> (city), and <span class="he">אֶ֫בֶן</span> (stone). When this occurs, most vocabulary lists will mark the word as "(F)".]
+    * Some feminine words are also endingless: <span class="he">אֶ֫רֶץ</span> (land)
+        * Other common words are FS endingless: 
+            * <span class="he">עִיר</span> (city), 
+            * <span class="he">אֶ֫בֶן</span> (stone)
+            * Many vocabulary lists will mark an endingless feminine word as "(F)"
         
 ::: {.box .caution}
-Some students fall into a habit of thinking every word-final ה is feminine.  
-
-* Remember <span class="he">ה ֶ֫</span>  is masculine
-* UNACCENTED Qamets+Hei is NOT the FS ending
-
-Also, while most endingless words are masculine, remember some are feminine
+Some students fall into a habit of thinking every word-final<span class="he"> ה </span>is feminine.  
 :::
 
-## Plural Noun Endings {#noun_pluralization}
+* <span class="he">ה ֶ֫  </span>  is masculine
+* UNACCENTED <span class="he">ה ָ   </span> is NOT the FS ending
+
+<!-- audio filenames are incorrect but audio is correct 12/16/21 -->
+
+## Plural Noun Endings ים ִ  and וֹת {#noun_pluralization}
 
 ::: {.infobox .sound}
 <figure>
@@ -538,6 +535,9 @@ function setPlaySpeed25() {
 * FP: <span class="he">וֹת</span>, e.g., **<span class="he">מְלָכוֹת</span>** (queens)
     * <span class="he">תּוֹרָה</span> becomes **<span class="he">תּוֹרוֹת</span>** 
 
+::: {.box .caution}
+When we get to verbs, we will find that <span class="he">וֹת</span> has other uses besides the FP ending
+:::
 
 ## Dual Noun Endings
 
@@ -590,7 +590,10 @@ function setPlaySpeed25() {
 * FD: <span class="he">יִם ַ </span>, e.g., <span class="he">יָדַ֫יִם</span> (two hands) or <span class="he">תַ֫יִם ָ</span> as in <span class="he">תּוֹרָתַ֫יִם</span> (two laws)
 
 ::: {.box .caution}
-Occasionally, we will see the defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>; the gender and number of the word will not change.
+CAUTIONARY NOTES:
+
+1. Occasionally, we will see the defective spelling of the plural and dual endings: <span class="he">סוּסִם תּוֹרֹת</span>; the gender and number of the word will not change.
+2. The dual ending is not necessarily used every time there are are exactly two units of the noun in question.  Most commonly, we see the dual ending for paired body parts.
 :::
 
 ## Special dual forms {#dual_forms}
@@ -640,13 +643,13 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Hebrew has three common words that have the unique dual ending 
-* These words are usually translated as singular
-    * <span class="he">שַׁמַ֫יִם</span> heaven, sky (sometimes "heavens")
-    * <span class="he">מִצְרַ֫יִם</span> Egypt
-    * <span class="he">מַ֫יִם</span> water (sometimes "waters")
+> Hebrew has three common words that have the unique dual ending; however, these words are usually translated as singular
 
-    * Additionaly, on a similar note, <span class="he">פָּנִים</span> has the MP ending but it is translated as the singular "face"
+* <span class="he">שַׁמַ֫יִם</span> heaven, sky (sometimes "heavens")
+* <span class="he">מִצְרַ֫יִם</span> Egypt
+* <span class="he">מַ֫יִם</span> water (sometimes "waters")
+
+* Additionaly, on a similar note, <span class="he">פָּנִים</span> has the MP ending but it is translated as the singular "face"
 
 
 ## Irregular Pluralization  {#irregular_pluralization}
@@ -696,11 +699,11 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Like any language, Hebrew has a handful of irregular nouns 
-* For example, you won't find <span class="he">נָשִׁים</span> in a dictionary; you need to know the singular form, <span class="he">אִשָּׁה</span>
+> Like any language, Hebrew has a handful of irregular nouns 
 
 ::: {.box .light} 
-Memorize these nine most common pairs^[You don't have to memorize them right this instant.  They will be in Anki!]:
+Memorize these common irregular pairs^[You don't have to memorize them right this instant.  They will be in Anki!]:
+:::
 
 | S   | Def      | P     | Def.      |
 |:-----|:----------|:-------|:-----------|
@@ -713,7 +716,6 @@ Memorize these nine most common pairs^[You don't have to memorize them right thi
 |<span class="he"> בֵּן</span>  | son      | **<span class="he">בָּנִים </span> **| sons      |
 |<span class="he"> יוֹם</span> | day      | **<span class="he">יָמִים </span>** | days       |
 |<span class="he">יָם</span> | sea      | **<span class="he">יַמִּים</span>** | seas      
-:::
 
 * The plural forms retain the gender of their singular noun
 * <span class="he">אָבוֹת</span> is still masculine,  and <span class="he">נָשִׁים</span> is still feminine, despite the plural endings.
@@ -766,22 +768,23 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> Many two-syllable words _accented on the penult syllable_ are classified as _Segholate_ nouns.  
+
 * Did you notice that the words <span class="he">דֶּ֫רֶךְ</span> and <span class="he">סֵ֫פֶר</span> have the accent is on the first syllable?
-* Many two-syllable words accented on the penult are classified as _Segholate_ nouns.  
-* They get this name because frequently, though not always, there are two Seghol vowels. <span class="he">נַ֫עַר</span>  (boy, youth) is a Segholate noun even though it doesn't have any Seghol vowels.
+* Frequently, though not always, there are two Seghol vowels. <span class="he">נַ֫עַר</span>  (boy, youth) is a Segholate noun even though it doesn't have any Seghol vowels.
 
 ::: {.box .info}
-PLURAL SEGHOLATE NOUN HINT
+PLURAL SEGHOLATE NOUN HINT: A plural word that has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending could a Segholate noun^[While Segholate nouns are pluralized this way, not every word plurazied this way is a Segholate noun. For example, <span class="he">דְּבָרִים</span> is not Segholate]
 
-A plural word that has Vocal Sheva/Hateph under the first consonant and Qamets under the second, with the normal MP or FP ending is probably a Segholate noun
+:::
 
 * <span class="he">מֶ֫לֶךְ</span> to **<span class="he">מְלָכִים</span>**
 * <span class="he">סֵ֫פֶר</span> to **<span class="he">סְפָרִים</span>**
 * <span class="he">נַ֫עַר</span> to **<span class="he">נְעָרִים</span>**
 
-:::
 
-## Geminate Words take a Daghesh Forte
+
+## Geminate Words take a Dagesh Forte when Pluralized
 
 ::: {.infobox .sound}
 <figure>
@@ -831,17 +834,17 @@ function setPlaySpeed25() {
 _Geminate_ (from the Latin for "twins") words appear to have two visible letters (which we call "biconsonantal").  At one point in history, the second consonant appeared twice.  Example <span class="he">עַם</span> (people) was once *<span class="he">עמם</span>.  The lexical form drops the extra consonant.
 
 ::: {.box .info}
-When we pluralize a Geminate word, the "twin" letter "reappears" but as a Daghesh Forte instead of a consonant.  So in our example,<span class="he"> עַם</span> becomes <span class="he">עַמִּים</span> (peoples).
+When we pluralize a Geminate word, the "twin" letter "reappears" but as a Dagesh Forte instead of a consonant.  So in our example,<span class="he"> עַם</span> becomes <span class="he">עַמִּים</span> (peoples).
 :::
 
 ::: {.box .light}
-* The reason we don't have a Daghesh Forte in עַם is that **a "word-final" letter (i.e. the last consonant of a word) ALWAYS rejects the Daghesh Forte when it has no vowel**
-* This is the second of three major scenarios where a Daghesh Forte is rejected
-    * we looked at the first scenario in Lesson 2 - Gutturals and Resh ALWAYS reject the Daghesh Forte
-    * There is one more rejection scenario that we will meet in Lesson 5
-    
+* The reason we don't have a Dagesh Forte in עַם is that **a "word-final" letter (i.e. the last consonant of a word) ALWAYS rejects the Dagesh Forte when it has no vowel**
 :::
 
+* This is the second of three major scenarios where a Dagesh Forte is rejected
+* We looked at the first scenario in Lesson 2 - Gutturals and Resh ALWAYS reject the Dagesh Forte
+* There is one more rejection scenario that we will meet in Lesson 5
+    
 ## Working back to the Lexical Form {#back_to_lexical_form}
 
 ::: {.infobox .sound}
@@ -890,7 +893,9 @@ function setPlaySpeed25() {
 :::
 
 * As we mentioned at the beginning of this lesson, to understand the Hebrew Bible, you WON'T need to know how to take a singular word and make it plural
-* You WILL need to know how to take a plural word and identify its singular counterpart
+
+> You WILL need to know how to take a plural word and identify its singular counterpart
+
 * Below is how to go from a plural noun to the singular, lexical form (assuming you didn't already know the singular Lexical Form):
     1. Remove the plural or dual ending
     2. Perhaps add a Feminine Singular ending (usually ה ָ ), or less frequently, ה ֶ for Masculine Singular
@@ -905,7 +910,7 @@ Of course, the more vocabulary words you know, the less you will need to mechani
 :::
 
 
-## Rule of Sheva I {#rules_sheva}
+## Rule of Sheva I: Introduction {#rules_sheva}
 
 ::: {.infobox .sound}
 <figure>
@@ -952,8 +957,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Hebrew does not allow two reduced vowels in a row to remain (or "stand")
-    * If you see two Sheva in a row in the text, the second one must be Silent
+> Hebrew does not allow two consecutive reduced vowels in a word to remain (or "stand")
+    
+* If you see two Sheva in a row in the text, the second one must be Silent
     * We remember the reduced vowels are _Vocal_ Sheva, Hateph Patach, Hateph Seghol, and Hateph Qamets Hatuf
     * _Silent_ Sheva is not a reduced vowel; it's not a vowel at all
 * Sometimes, according to grammar rules, we end up with a scenario where we would have two reduced vowels such as two Vocal Sheva, back to back - this is another conflict that must be resolved
@@ -969,14 +975,14 @@ If a word BEGINS with a short vowel followed by a reduced vowel, it may original
 
 We'll explain more in Rule of Sheva, part II.
 
-## Rule of Sheva II
+## Rule of Sheva II: No Gutturals
 
 ::: {.infobox .sound}
 <figure>
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.14new.m4a">
+        src="./images/04.14.ruleofsheva2.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -1016,42 +1022,191 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-Three common Rule of Sheva scenarios:
 
-1. No Gutturals - the two Vocal Sheva become **Hireq + Silent Sheva** 
+1. Two vocal Sheva (No Gutturals or Yod): - the two Vocal Sheva become **Hireq + Silent Sheva** 
     * In other words, say you're reading the Hebrew Bible and you see a word that has $I + :$.  
     * Your Hebrew grammar antenna should go up and you should wonder whether this was originally two vocal sheva
-2. Either consonant is a guttural -  **the first vowel becomes the corresponding short vowel of the Hateph vowel**
-3. When the second consonant is a Yod - the two reduced vowels and the consonant Yod in between "converts" to the vowel letter $\hat I$ (Hireq+yod)
+2. Two Reduced vowels (The _second) consonant is a Yod) - "converts" to the vowel letter $\hat I$ (Hireq+yod)
     * This is surprisingly frequent in Hebrew
     
 
 ::: {.box .light}
 RULE OF SHEVA
 
-Review this table - Anki will help you to commit these concepts to memory
+Review this table and the table on the next page - Anki will help you to commit these concepts to memory
+:::
 
 | Type | After Rule of Sheva | Before*^[When you see an asterisk in the context of a word form, it means this form is impossible.]
 | :-: | :-: | :-:
 | Strong | <span class="he">קִטְ</span>^[Hebrew Grammars have what are called "paradigm words" to represent any combination of consonants meeting the patter. קטל is a paradigm for any three strong (non-guttural) letters, עמד represents any guttural in the first position, and בחר represents any guttural in the second position.] | <span class="he">קְטְ</span>*
 | Yod | <span class="he">קִי</span> | <span class="he">קְיְ</span>*
-| Patach/Sheva | <span class="he">עַמְ</span> | <span class="he">עֲמְ</span>*
-| Seghol/Sheva | <span class="he">עֶמְ</span> | <span class="he">עֱמְ</span>*
-| Sheva/Patach | <span class="he">בַּחֲ</span> | <span class="he">בְּחֲ</span>*
-| Sheva/Seghol | <span class="he">בֶּחֱ</span> | <span class="he">בְּחֱ</span>*
 
 
+
+## Rule of Sheva III: Gutturals
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/04.15.ruleofsheva3.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
 :::
 
-NOTES
+* When either consonant is a guttural: **the first vowel becomes the corresponding short vowel of the Hateph vowel**
+
+| Type | After Rule of Sheva | Before
+| :-: | :-: | :-:
+| H.Patach/Sheva | <span class="he">עַמְ</span> | <span class="he">עֲמְ</span>*
+| H.Seghol/Sheva | <span class="he">עֶמְ</span> | <span class="he">עֱמְ</span>*
+| Sheva/H.Patach | <span class="he">בַּחֲ</span> | <span class="he">בְּחֲ</span>*
+| Sheva/H.Seghol | <span class="he">בֶּחֱ</span> | <span class="he">בְּחֱ</span>*
+
 
 * Note how the "After" form has the short vowel that corresponds to the reduced vowel of the "Before" form - we can consider this the "Hateph copy-cat rule" - take whatever the hateph vowel is and drop the hateph, leaving only the resulting short vowel
-* When a prefix is added to <span class="he">אלֹהִים</span> and the Tetragrammaton, the vowel changes are irregular:
-    * With <span class="he">אֱלֹהִים </span> the aleph becomes quiescent after a prefix:
-        * <span class="he">אֱלֹהִים + לְ = לֵאלֹהִים</span>
-    * With the Tetragrammaton, the prefixed letter with take a Patach, with nothing under the Yod:
-        *  <span class="he">בַיהוָה</span>
+
+## Rule of Sheva IV: Names of God 
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/04.16.ruleofsheva4.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+> When a prefix is added to <span class="he">אלֹהִים</span> and the Tetragrammaton, the vowel changes are irregular:
+
+```{r, out.width = "100%", fig.align='center'}
+knitr::include_graphics("images/04.16-elohim.gif")
+```
+
+* With <span class="he">אֱלֹהִים </span> the aleph becomes quiescent after a prefix:
+    * <span class="he">אֱלֹהִים + לְ = לֵאלֹהִים</span>
+* With the Tetragrammaton, the prefixed letter with take a Patach, with nothing under the Yod:
+    *  <span class="he">בַיהוָה</span>
+    * You can see an example of this in Ruth 1:21: <span class="he">וַֽיהוָה֙ </span>
     
+## Rule of Sheva V: Summary
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/04.17.ruleofsheva5.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
 
 ::: {.box .map}
 RULE OF SHEVA
@@ -1063,14 +1218,16 @@ RULE OF SHEVA
 :::
 
 
-## Lesson Conclusion {-}
+> In subsequent lessons, we will learn that many prefixes have a Sheva.  When such a prefix is followed by a consonant with a reduced vowel, we can expect to see the effects of the Rule of Sheva
+
+## Lesson 4 Conclusion
 
 ::: {.infobox .sound}
 <figure>
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.conclusion.m4a">
+        src="./images/04.18.conclusion.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -1115,7 +1272,7 @@ This lesson may have felt like you were "drinking from a firehose" as the saying
 
 Over time, Anki will help these concepts to "stick" - if you are struggling with Anki then, as we've said before, come back here to the guidebook and re-review the material.  If you feel you need a detailed, academic approach, [Dr. Beckman's course lectures](http://youtu.be/9LxaKsDifCo) are available on YouTube, but we would recommend to try Anki first.  You may be absorbing more than you think you are.
 
-Once you get the hang of them, we're confident you will find that Hebrew noun concepts are not that difficult to grasp.
+Once you get the hang of them, we're confident you will find that Hebrew noun concepts and the Rule of Sheva are not that difficult to grasp.
 
 ## Word Warm-up {-}
 
@@ -1141,7 +1298,7 @@ Once you get the hang of them, we're confident you will find that Hebrew noun co
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.anki.m4a">
+        src="./images/04.19.anki.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -1208,7 +1365,7 @@ function setPlaySpeed25() {
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/04.ruth.m4a">
+        src="./images/04.20.ruth.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -1252,13 +1409,18 @@ function setPlaySpeed25() {
 ::: {.box .map}
 YOUR QUEST
 
-1. Find one regular singular segholate noun in V1.  In this verse, there is also a segholate noun with a propositional prefix that we haven't studied yet; this world also takes on vowel changes, which we'll cover in a few lessons (yellow)
-2. Find all words that are regular masculine plural in the chapter (pink). Some words are prefixed with the definite article, which we will cover in the next lesson.  Also, find all regular Feminine plural nouns in the chapter (pink).  One of the words in verses 2-6 has a MP ending but is actually an irregular FP.  Highlight this word in (green).
+1. Find one regular singular segholate noun in V1. (yellow)   This word is repeated several times in Ruth 1.
+    * In this verse, there is also a segholate noun with a propositional prefix that we haven't studied yet; because of the prefix, this word also takes on vowel changes, which we'll cover in a few lessons
+2. Find all words that are regular masculine plural in the chapter (blue). 
+    * Some words are prefixed with the definite article הַ, which we will cover in the next lesson.  
+3. Find all regular Feminine plural nouns in the chapter (pink).  
+    * One of the words in verses 2-6 has a MP ending but is actually an irregular FP.
+    * There are two words in verses 12 and 13 that have the FP ending but are verbs not nouns.  At this stage of your Quest you are not expected to know the difference.  Identify them and then we'll discuss on the answer key.
     * Be sure to research any words you don't know. HLI has a [lexicon available here.](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
 3. <span class="he">כַלֹּתֶיהָ
-</span> is a word meaning her daughters-in-law (in verse 22, this word is in the singular).  It comes from a verb meaning "finish" or "end" (we'll let you ponder that!). Find all four examples of these feminine nouns, including one with the "and" prefix (grey)
+</span> is a word meaning her daughters-in-law (in verse 22, this word is in the singular).  It comes from a verb meani. Find all four examples of these feminine nouns, including one with the "and" prefix (grey)
 4. Find the vocabulary word <span class="he">עִיר</span>. In Ruth 1, it appears as <span class="he">הָעִיר</span>. In the next lesson, we will learn about the prefix ה
-(blue)
+(red)
 :::
 
 * [Blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
@@ -1266,16 +1428,10 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.box .sound}
-<figure>
-    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
-    <audio controls
-        src="./images/t2901.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-:::
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</div>
+
 
 
 <span class="he"><p align="right">
@@ -1337,8 +1493,7 @@ YOUR QUEST
 <div class="containerLet">
 <iframe 
     class="responsive-iframe"
-    src="https://forms.gle/2LCEgvmpHr5mqB5Z6">
-    </iframe>
+    src="https://docs.google.com/forms/d/e/1FAIpQLSd6Ttkgb5WCx2d8tXgRuyBy1ODjT953qJZUeCGOeaAc_DtBSw/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 ## Lesson Extras {-}
@@ -1349,8 +1504,8 @@ YOUR QUEST
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_04.pdf){target=“_blank”}
 * [Dr. Beckman additional practice video](http://youtu.be/xiwNrZaNtCg){target=“_blank”}
 * Additional Drills/Worksheets
-    * [a](https://hebrewsyntax.org/bbh2new/04_quiz_new.pdf){target=“_blank”}
-    * [b](https://hebrewsyntax.org/bbh2new/04_quiz_practice.pdf){target=“_blank”}
+    * [Quiz A](https://hebrewsyntax.org/bbh2new/04_quiz_new.pdf){target=“_blank”}
+    * [Quiz B](https://hebrewsyntax.org/bbh2new/04_quiz_practice.pdf){target=“_blank”}
 
 
 

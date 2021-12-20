@@ -1,17 +1,20 @@
 ---
 title: "Hebrew GRAMMAR Quest"
+#  ![](images/HGQ_book_cover.png){width=800pt}  
+#    Hebrew GRAMMAR Quest
 #date: "`r Sys.Date()`"
 #author: Holy Language Institute
-cover-image: images/HGQ_book_cover.png
+#cover-image: "images/HGQ_book_cover.png"
 favicon: "images/favicon.ico"
 site: bookdown::bookdown_site
 #documentclass: turabian-researchpaper
-bibliography: [book.bib, packages.bib]
-#biblio-style: APA-like
+bibliography: [book.bib]
+biblio-style: APA-like
+csl: chicago-fullnote-bibliography.csl
 link-citations: yes
 nocite: |
-    @rmarkdown2020, @bookdown2016, @stiles2013wsa, @pratico2007, @avraham2012, @beckman, @beckman2012, @delauro2009, @beckmana, @chisholm2006, @chisholm1998
-description: "A Hebrew Grammar guidebook for students of Holy Language Institute."
+    @rmarkdown2020, @bookdown2016, @pratico2007, @avraham2012, @beckman2012, @bolen2016, @delauro2009, @beckmana, @chisholm2006, @chisholm1998, @holladay1988, @warfield2007bobhg
+description: "Biblical Hebrew Grammar the Holy Language way"
 header-includes:
   - \usepackage{pdfpages}
 colorlinks: yes
@@ -29,19 +32,32 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-# Preface {-}
+# Welcome! {-}
 
 
-```{r, out.width = "800pt", fig.align='center'}
-knitr::include_graphics("images/HGQ_book_cover.png")
+```{r, out.width = "75%", fig.align='center'} 
+knitr::include_graphics("images/HGQ_book_cover.png") 
 ```
+
+
+> Introduction from Chris Flanagan
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+wxvw1KhsmfE?rel=0&showinfo=0&autohide=1&autoplay=0" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/wxvw1KhsmfE){target="_blank"}
 
 
 <small>*Updated*: `r Sys.Date()`</small>
 
+
+## Preface {-}
+
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.cover.m4a"> 
+src="./images/00.01cover.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -67,7 +83,7 @@ function x25() {
 
 Welcome to Hebrew GRAMMAR Quest, from Holy Language Institute. 
 
-The journey into the world of Biblical Hebrew grammar is a peek inside the mind of HaShem. By increased understanding of the Bible, we can better experience part of the culture of Bible authors such as Moses, David, and the prophets.  With some narratives, reading them in Hebrew almost places us right there in the middle of the action.  That's pretty cool!
+>The journey into the world of Biblical Hebrew grammar is a peek inside the mind of HaShem. By increased understanding of the Bible, we can better experience part of the culture of Bible authors such as Moses, David, and the prophets.  With some narratives, reading them in Hebrew almost places us right there in the middle of the action.  That's pretty cool!
 
 Most importantly, learning the original language draws us closer to Yeshua and the world to which He ministered.  
 
@@ -78,10 +94,12 @@ On the next few pages, we will tell you a little about our program and give you 
 Let's get started!
 
 
-## Quest Introduction {-}
+
+
+## What to Expect {-}
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.02howishgqdistinct.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
     x.playbackRate = 0.5;
@@ -104,55 +122,40 @@ function x25() {
 </script></figure>
 :::
 
-As we begin,  we wanted to let you know our purposes for our course, and what, we believe, makes our course distinct from the many other Hebrew learning options available.
+As we begin,  we wanted to let you know what to expect from Hebrew GRAMMAR Quest, and what makes our course distinct from the many other fine Hebrew learning options available.
 
-Our Holy Language goals for a Hebrew grammar course are the following:
+> Our goal with Hebrew GRAMMAR Quest is to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course, all in a way that reflects the heart of the Holy Language Institute!
+
+
+What you can expect from Hebrew GRAMMAR Quest:
 
 * Academically CHALLENGING, but with a LOW-STRESS level
-* Primary emphasis on READING and UNDERSTANDING God's Word
-    * We approach learning Hebrew from a _devotional_ level, more than an academic one
+* Yeshua-centered with a primary emphasis on READING and UNDERSTANDING God's Word
+    * We approach learning Biblical Hebrew from a _devotional_ level, more than an academic one
     * We use grammar rules, paradigms, and memorization as a means to achieve this goal
-    * The "final exam" should be whether you can understand the Bible, not whether you can conjugate a a particular Hebrew verb
-    * We do not prioritize writing or speaking in Hebrew, and we are not addressing Modern Hebrew^[We believe this course, in conjunction with **Hebrew Quest**, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding THAT course will be!. In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!]
-* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE Students' ACCOMPLISHMENTS in the course
-* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures
-    * This guidebook is designed to introduce you to the material, but only about 20% of learning (if that) comes from a passive activity such as reading.  This is why we have added audio narration to help with retention.
-    * The activities such as Anki, is truly where you will LEARN the material - note the root word ACTIVE in the word "activities"
-* COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_, but does not replace it; **Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_**
-    * If you took a microscope to _Hebrew Quest_ lessons 13-15, Hebrew GRAMMAR Quest is the result!
+* Self-paced for independent learning but with mechanisms to provide FEEDBACK, ENCOURAGEMENT, and ways to CELEBRATE your ACCOMPLISHMENTS in the course
+* Aligns with our [Holy Language LEARNING PHILOSOPHY](https://holylanguage.com/learning-philosophy.php): emphasize active forms of learning over copious amounts of textbook reading and long lectures.  You will complete various activities, including worksheets and Anki flashcards.
+* COMPLIMENTS and INTEGRATES WITH _Hebrew Quest_ 
+    * Hebrew GRAMMAR Quest is not a substitute for completing _Hebrew Quest_
+    * If you were to take a microscope to _Hebrew Quest_ lessons 13-15 (the grammar lessons), Hebrew GRAMMAR Quest is the result!
     * See the Appendix FAQs for additional discussion on how _Hebrew Quest_ and Hebrew GRAMMAR Quest relate to one another
-* SUSTAINABLE from a technical standpoint, meaning the course is inexpensive and straightforward for the ministry to develop, deliver, and maintain
-* FREE of charge for our students
-* Most importantly, the course must be YESHUA-CENTERED that approaches learning Hebrew grammar as a spiritual as well as an academic endeavor (which is also a big part of our Learning Philosophy)
-
-We are essentially trying to take the best attributes of a self-paced course and merge them with the best characteristics of a seminary-level Hebrew course, all in a way that reflects the heart of the Holy Language Institute!  We believe that result is Hebrew GRAMMAR Quest!
-
-## The Fog {-}
-
-The "Fog" is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
-
-
-Mounce states, "The fog means you will have read a chapter and think you understand it—and perhaps you do—but it will seem foggy. That’s okay. If living in the fog becomes discouraging, look two chapters back and you should understand that chapter clearly. In two more chapters the presently foggy chapter will be clear, assuming you keep studying."
-
-Here is an article on the subject you may find encouraging: [Conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  
 
 ::: {.box .light}
-Keep pressing on!
+The Hebrew GRAMMAR Quest Guidebook is where you will get _introduced_ to the material.  Anki (along with the other activities) is where you will ___LEARN___ the material
 
-* Review a chapter, do the activities, then try the `Anki` flashcard work
-* If `Anki` is proving difficult, go back and review the chapter, or perhaps view the full-length Lecture or complete the additional worksheets provided by Dr. Beckman.  You can find a link to these in `Lesson Extras`
-
+* As you work through this course, set aside time to review Anki on a DAILY basis^[Anki is an open source flashcard application. All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.]
 :::
 
-## Other course information {-}
+## More information {-}
 
-These articles are contained in the Appendix.
+These articles are contained in the "About This Course" appendix.
 
 FAQs about the Course
 
 * [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
 * [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
 * [What if I haven't finished _Hebrew Quest_?](#finish_hq)
+* [What can I do with the knowledge taught in Hebrew GRAMMAR Quest?](#whocanuse)
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
 * [What are the required/optional course resources?](#optional_resources)
 * [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
@@ -164,5 +167,6 @@ FAQs about Anki
 * [How do I know which button to select on an Anki card?](#anki_buttons)
 * [How do I get help with Anki?](#anki_help)
 * [What is the `HGQ Custom Words` Deck?](#anki_custom_words)
+
 
 

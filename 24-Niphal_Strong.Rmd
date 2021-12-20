@@ -1,7 +1,7 @@
 # The Niphal Stem - Strong
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.intro.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -37,14 +37,14 @@ LESSON ITINERARY
 EQUIPMENT CHECK
 
 * You must have all of the Qal strong verb paradigms committed to memory: Perfect, Imperfect, Imperative, Infinitive Construct, Infinitive Absolute, and Participle
-* Review the $V_S =$ nomenclature from the Unit 4 Introduction
-* Review the $Pre =$ nomenclature from the Unit 3 Introduction
+* Review the $V_S =$ nomenclature from the Unit IV Introduction
+* Review the $Pre =$ nomenclature from the Unit III Introduction
 :::
 
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24-8.1Chronicles 12.9.mp3">
+<figure><audio id="myAudio" controls  src="./images/24.0.1-8.1Chronicles 12.9.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -64,7 +64,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 En Gedi, pictured below, is a well-watered oasis in an otherwise dry and dusty part of Israel adjacent to the Dead Sea.  Similarly, our walk with Yeshua (and indeed, our study of Hebrew!) can sometimes leave us feeling dry and dehydrated.  Just as David had a retreat at En Gedi, we need to remain connected to our source of Living Water as we go through life's journeys.
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Ibex drinking from Nahal David at En Gedi.  En Gedi is the suggested location of the 'desert stronghold' referenced in 1 Chronicles. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("./images/24.Ibex drinking from Nahal David at En Gedi, tb100503600.jpg")
 ``` 
@@ -72,10 +72,10 @@ knitr::include_graphics("./images/24.Ibex drinking from Nahal David at En Gedi, 
 
 
 
-## Verb Stem Table
+## Verb Table
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.1.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -88,6 +88,8 @@ function setPlaySpeed2() {x.playbackRate = 2; x.play();}
 function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
 </script> </figure>
 :::
+
+> Niphal is simple action, passive or reflexive voice
 
 | |Active Voice| Passive Voice | Reflexive Voice
 |:- |:- |:- |:-
@@ -104,7 +106,7 @@ Cause an Action	| Hiphil | Hophal
 ## Niphal Meanings
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.2.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -118,7 +120,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Simple action with either a passive or reflexive voice
+> Niphal is usually equivalent to the english Passive voice, but not always
+
+* Most often, the Niphal is simple action with either a passive or reflexive voice
 * <span class="he">שָׁמַע </span>
     * Qal - He heard
     * Niphal - He was heard (passive), or he heard himself (reflexive)
@@ -126,47 +130,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * <span class="he">אמן</span> - Niphal - to be reliable, faithful, trustworthy
     * <span class="he">לחם</span> - Niphal - to fight, do battle with
 
-## Parsing Clues - _Pre_:  the נ prefix is added to EVERY conjugation
-
+## Parsing Clues - _Pre_:  נִק, יִקָּ, הִקָּ
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.3.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
-
-* Remember, we use the label $Pre$ for any diagnostic combination of word-initial consonants (prefix or root letters), vowels, and Dagesh Fortes (as applicable)
-    * ק is used as a placeholder to represent $R_1$ of any strong verb
-    * For the Imperfect forms, י represents any of the Imprefect preformatives (note that 1cs א often usually takes a different $V_P$)
-
-:::{.box .light}
-Memorize these three $Pre$ formulas and the conjugations in which they are used
-:::
-
-* NP, NPt, some NA: $Pre =$ <span class="he">נִקְ</span>        
-* NI: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
-* NM, N∞, some NA:$Pre=$ <span class="he">הִקָּ</span>
-
-::: {.box .info}      
-* The נ prefix is added to <u>every</u> form of <u>every</u> conjugation
-    * In the NP, NPt and in one form of the NA, the נ appears
-    * In the NI, NM, N∞, and the other form of the NA, the נ is _assimilated into a Daghesh Forte_ in $R_1$
-* Niphal Strong $V_P = I$ ALWAYS (except for NI1cs)
-
-:::
-
-## Parsing Clues - $V_S = A \sim \bar E(A)$
-
-::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.4.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.3.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -181,46 +147,35 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 ::: {.box .light}
-Memorize the $V_S$ formulas for each stem
+Memorize the $Pre$ and the $V_S$ for each stem, not the entire paradigm!
+:::
 
-* $V_S = A \sim \bar E(A)$
-* Left of $\sim$:
-    * NP = $A$
-        * Other stems will have a vowel in brackets, indicating a different $V_S$ for 1st and 2nd person
-    * NPt (and Pt for all derived stems) = the P3ms $V_S$, _lengthened if possible_
-        * Npt $V_S = \bar A$
-* Right of $\sim$:
-    *  NI/NM/N∞ = $\bar E$ 
-        * ($A$ for Feminine Plural forms)
-*  Absolute is not listed in the formula because for all derived stems, Absolute $V_S = \bar E$ (except $\hat O$ for QA and some NA)
+> <span class="he">נ</span> is always present in the Niphal, but sometimes it's present as a Dagesh Forte
+
+* Remember, we use the label $Pre$ for any diagnostic combination of word-initial consonants (prefix or root letters), vowels, and Dagesh Fortes (as applicable)
+    * <span class="he">ק</span> is used as a placeholder to represent $R_1$ of any strong verb
+    * For the Imperfect forms, י represents any of the Imprefect preformatives (note that 1cs א often usually takes a different $V_P$)
+
+:::{.box .light}
+Memorize these three $Pre$ formulas and the conjugations in which they are used
+:::
+
+* NP, NPt, some NA: $Pre =$ <span class="he">נִקְ</span>        
+* NI: $Pre =$ <span class="he">יִקָּ</span> - and so forth for the other Imperfect forms
+* NM, N∞, some NA:$Pre=$ <span class="he">הִקָּ</span>
+
+::: {.box .info}      
+* The <span class="he">נ</span> prefix is added to <u>every</u> form of <u>every</u> conjugation
+    * In the NP, NPt and in one form of the NA, the <span class="he">נ</span> appears
+    * In the NI, NM, N∞, and the other form of the NA, the <span class="he">נ</span> is _assimilated into a Dagesh Forte_ in $R_1$
+* Niphal Strong $V_P = I$ ALWAYS (except for NI1cs)
 
 :::
 
-* Perfect $V_S=A$, so NP3ms = <span class="he">נִקְטַל</span>
-* Imperfect/Imperative/∞ (except FP) $V_S= \bar E$, so <span class="he">יִקָּטֵל</span>
-* Imperfect/Imperative/∞ FP $V_S=(A)$, so <span class="he">תִּקָּטַ֫לְנָה</span>
-* Infinitive Absolute $V_S = \bar E$ (usually)
-    * In the QA, $V_S = \hat O$ - ALWAYS
-    * Some forms of Niphal also have $V_S = \hat O$ - <span class="he">וֹ</span>-  can be written defectively
-    * The Niphal absolute only occurs 37 times total
-* Niphal Participle $V_S =$ Lengthened P3ms
-    * If $V_S$ is already long, the Participle is the same as the Perfect 3ms
-    * Since the Niphal Perfect 3ms $V_S = A$, the Niphal Participle $V_S = \bar A$
-        * NP3ms = <span class="he">נִקְטַל</span>
-        * NptMS = <span class="he">נִקְטָל</span>
-    * $V_S$ does NOT reduce in the NPt, which distinguishes Np3fs from NPtfs
-        * <span class="he">נִקְטָלָה</span> is NPtfs because $V_S$ is long
-        * <span class="he">נִקְטְלָה</span> is NP3fs because $V_S$ is reduced
-    * Other stems reduce only if $V_S$ is $\bar E$ (Tsere)
-        * Qal Active, Piel and Hitpael
-    
-
-
-
-## Paradigm: Niphal Perfect Strong
+## Parsing Clues - $V_S = A \sim \bar E(A)$
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.6.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.4.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -234,16 +189,70 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+
+::: {.box .map}
+Memorize the $Pre$ and the $V_S$ for each stem, not the entire paradigm!
+:::
+
+> Niphal: $V_S = A \sim \bar E(A)$
+
+* Left of $\sim$:
+    * NP = $A$
+        * Other stems will have a vowel in brackets, indicating a different $V_S$ for 1st and 2nd person
+    * NPt (and Pt for all derived stems) = the P3ms $V_S$, _lengthened if possible_
+        * Npt $V_S = \bar A$
+* Right of $\sim$:
+    *  NI/NM/N∞ = $\bar E$ -  <span class="he">יִקָּטֵל</span>
+        * ($A$ for Feminine Plural forms - <span class="he">תִּקָּטַ֫לְנָה</span>)
+* Absolute is not listed in the formula because for all derived stems, Absolute $V_S = \bar E$ 
+    * Exceptions:
+    * $\hat O$ - always for QA; sometimes for NA - watch for defective spelling $\hat O \to \bar O$
+    * We don't need to worry about this because the Niphal absolute only occurs 37 times total
+* Participle is the Perfect $V_S$ lengthened: the Niphal Perfect $V_S=A$, so Niphal Participal $V_S = \bar A$
+    * NP3ms = <span class="he">נִקְטַל</span>
+    * NptMS = <span class="he">נִקְטָל</span>
+* The "sheva before a finite sufformative" rule does not affect the Participle because the participle is not a finite conjugation
+    * Thus $V_2$ does NOT reduce in the NPt, which distinguishes NP 3FS sufformative from the NPt FS ending
+    * <span class="he">נִקְטָלָה</span> is NPtfs because $V_2$ is long 
+    * <span class="he">נִקְטְלָה</span> is NP3fs because $V_2$ is reduced
+
+
+
+## Niphal Perfect Strong
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls  src="./images/24.6.0.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+
+> In the Perfect, the <span class="he">נ</span> of the Niphal is WRITTEN
+
+* $Pre$ - $V_P = I$ and $V_1 = \ :$
+* $V_S = A$ (unless reduced)
+
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/24.NP3ms.gif")
+``` 
+
 ::: {.box .stop}
-YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
+YOU SHOULD NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS!
+:::
 
 * The paradigms are presented so that you may see and hear each form
 * With your knowledge of the Qal paradigms, you should be able to write the non-Qal paradigms from principles listed in the previous sections
-:::
-
-* In the Perfect, the נ of the Niphal is WRITTEN
-* $Pre$ - $V_P = I$ and $V_1 = \ :$
-* $V_S = A$ (unless reduced)
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -253,21 +262,20 @@ YOU DO NOT NEED TO MEMORIZE THE NON-QAL PARADIGMS
 | 2fs | <span class="he">נִקְטַלְתְּ</span> | 2fp | <span class="he">נִקְטַלְתֶּן</span>
 | 1cs | <span class="he">נִקְטַ֫לְתִּי</span> | 1cp | <span class="he">נִקְטַ֫לְנוּ</span>
 
-<figure>
-    <figcaption>Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+<div class="scc">Niphal Perfect Strong from _Hebrew Quest_ Chapter 15
     <audio
-        controls controlsList="nodownload"
-        src="./images/24.Niphal_Perfect.mp3">
+        controls 
+        src="./images/24.6.1.Niphal_Perfect.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
+</div>
 
 
-## Paradigm: Niphal Imperfect Strong
+## Niphal Imperfect Strong
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.7.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.7.0.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -281,11 +289,21 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* In the Imperfect, the נ of the Niphal is ASSIMILATED
-* $Pre$ - $V_P = I$, Dagesh Forte in $R_1$, and $V_1 = \bar A$ = <span class="he">יִקָּ</span>
-* $V_S = \bar E$ (unless reduced)
+> In the Imperfect, the <span class="he">נ</span> of the Niphal is ASSIMILATED
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/24.NI3ms.gif")
+``` 
+
+* $Pre =$ <span class="he">יִקָּ</span>
+    * $V_P = I$, Dagesh Forte in $R_1$, and $V_1 = \bar A$
+    * As with the Qal Imperfect, the <span class="he">ִי</span> is a placeholder for any Imperfect Preformative
+    * Therefore, $Pre =$ <span class="he">אִקָּ</span> for the NI1cs
+* $V_S = \bar E[A]$ 
     * For FP forms, $V_S = A$
-* Occasionally, we will see $Pre =$ <span class="he">אִקָּ</span> for the NI1cs
+    * $\bar E$ everywhere else
+    * Can be displaced by Sheva
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -295,20 +313,19 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 2fs | <span class="he">תִּקָּטְלִי</span> | 2fp | <span class="he">תִּקָּטַ֫לְנָה</span>
 | 1cs | <span class="he">אֶקָּטֵל</span> | 1cp | <span class="he">נִקָּטֵל</span>
 
-<figure>
-    <figcaption>Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
+<div class="scc">Imperfect Strong from _Hebrew Quest_ Chapter 15
     <audio
-        controls controlsList="nodownload"
-        src="./images/24.Niphal Imperfect.mp3">
+        controls 
+        src="./images/24.7.1.Niphal Imperfect.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
+</div>
 
-## Paradigm: Niphal Imperative Strong
+## Niphal Imperative Strong
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.8.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.8.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -322,8 +339,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* In the Imperative, the נ of the Niphal is ASSIMILATED
+> The Niphal Imperative is rare: 118x in the entire Bible
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/24.NInfCons.gif")
+``` 
+
 * You can tell an Imperative from an Imperfect by the <span class="he">הִ</span>, which is not an Imperfect preformative
+* In the Imperative, the <span class="he">נ</span> of the Niphal is ASSIMILATED
 * $Pre$ - $V_P = I$, Dagesh Forte in $R_1$, and $V_1 = \bar A$ = <span class="he">הִקָּ</span>
 * $V_S = \bar E$ (unless reduced)
     * For 2FP form, $V_S = A$
@@ -333,8 +357,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 2ms | <span class="he">הִקָּטֵל</span> | 2mp | <span class="he">הִקָּֽטְלוּ</span>
 | 2fs | <span class="he">הִקָּֽטְלִי</span> | 2fp | <span class="he">הִקָּטַ֫לְנָה</span>
 
-* The translation value of the Niphal Imperative will often lose the passive nuance as in הִשָּׁמֶר לְךָ פֶּן־תִּשְׁכַּח אֶת־יְהוָה “take heed to yourself lest you forget the Lord” (Deut 6:12).
-* Frequently, the 2ms Imperative appears with an ה ָ ending
+* The translation value of the Niphal Imperative will often lose the passive nuance as in <span class="he">הִשָּׁמֶר לְךָ פֶּן־תִּשְׁכַּח אֶת־יְהוָה</span> “take heed to yourself lest you forget the Lord” (Deut 6:12).
+* Frequently, the 2ms Imperative appears with an <span class="he"> ה ָ  </span> ending
 
 ::: {.box .caution}
 ADVANCE NOTICE
@@ -342,10 +366,10 @@ ADVANCE NOTICE
 Hiphil Perfect verbs also have $Pre =$ <span class="he">הִקְ</span>, but Hiphil non-Perfect verbs have $Pre =$ <span class="he">הַקְ</span>. As long as you can distinguish a perfect from a non-perfect form, the <span class="he">הִ</span> prefix will pose little difficulty.
 :::
 
-## Paradigm: Niphal Infinitives Strong
+## Niphal Infinitives Strong
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.9.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.9.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -359,9 +383,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* In one form of the Infinitive Absolute, the נ of the Niphal is WRITTEN
-* In the other form of the Infinitive Absolute, the נ of the Niphal is ASSIMILATED
-* The Niphal Infinitive Construct is identical to the NM2ms
+> Niphal Infinitives are also infrequent (NA only 37x)
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/24.NInfCons.gif")
+``` 
+
+* In the Infinitive Construct and one form of the Infinitive Absolute, the <span class="he">נ</span> of the Niphal is WRITTEN
+* In the other form of the Infinitive Absolute, the <span class="he">נ</span> of the Niphal is ASSIMILATED
 
 | Type | Paradigm 
 | :-  | :- 
@@ -375,12 +405,13 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * In the QA, $V_S = \hat O$ - ALWAYS
 * Some forms of Niphal also have $V_S = \hat O$
-    * $\hat O$ <span class="he">וֹ</span> can be written defectively.
+    * $\hat O$ <span class="he">וֹ</span> can be written defectively
+    * Given the infrequency of NA, do not be overly concerned with this anomaly
 
-## Paradigm: Niphal Participle Strong
+## Niphal Participle Strong
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.10.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.10.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -394,7 +425,12 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* In the Participle, the נ of the Niphal is WRITTEN
+> In the Participle, the <span class="he">נ</span> of the Niphal is WRITTEN
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/24.NPtms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -418,7 +454,7 @@ Three Exceptions:
 ## Participle Prefixes in the Derived Stems
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.11.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.11.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -432,7 +468,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-All of the Participles besides Qal have a distinctive prefix.  Being able to identify this prefix will make identifying the various Participle stems straightforward.
+> All of the Participles besides Qal have a distinctive prefix.  Being able to identify this prefix will make identifying the various Participle stems straightforward.
 
 Stem | Prefix 
 :- | :-: 
@@ -448,7 +484,7 @@ Hithpael | מִתְ
 ## Forms with Identical Spelling
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.12.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.12.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -466,10 +502,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * NI2ms and N∞ - <span class="he">הִקָּטֵל</span>
 * As one form is finite and the other is non-finite, the context should immediately resolve any potential ambiguity
 
-## Easily Confused Forms
+## Niphal Easily Confused Forms
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.13.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.13.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -487,10 +523,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * <span class="he">נִקְטֹל</span> - QI1cp (only biconsonantal forms would ever take a holem stem vowel (defective of Holem Vav) in the Niphal )
 * <span class="he">נִקְטָל</span> - NPtms
 
-## What to memorize for Niphal 
+## Niphal What to memorize
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.5.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.14.0.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -512,11 +548,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * $V_{S} = A \sim \bar E(A)$
 
 
-
 ## Niphal Parsing Examples
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.14.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.14.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -531,10 +566,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 ::: {.box .info}
-* In this section, we will disect words taken from the lesson's study verses, and identify the parsing code for the word (Stem, conjugation, PGN)
-* If you desire additional guided practice with parsing, Dr. Beckman usually has several pages of words that he parses in his videos.
-* Our lesson numbers correspond with his - so if you are looking for Lesson 24 practice, you can visit [his _Basics of Biblical Hebrew_ resources page](https://hebrewsyntax.org/bbh2new/) and click the video for chapter 24.  His parsing activities are usually toward the end of his lecture.  See "Lesson Extras" section.
+* In this section, we will dissect words taken from the lesson's study verses, and identify the parsing code for the word (Stem, conjugation, PGN)
 :::
+
+* If you desire additional guided practice with parsing, Dr. Beckman usually has several pages of words that he parses in his videos. See the "Lesson Extras" section.
 
 * Word: <span class="he">נִכְרָֽת</span>
     * Context: <span class="he"> וְזֶ֖רַע רְשָׁעִ֣ים נִכְרָֽת</span>
@@ -569,7 +604,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ## Stem Comparison Table
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.15.m4a">
+<figure><audio id="myAudio" controls  src="./images/24.15.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -583,14 +618,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* We can now update our Stem Comparison table to include Niphal
+> It's now time to update your `Stem Comparison Worksheet` for Niphal
+
 * Take note of the $Pre$ patterns in red and the $V_S$ in blue
     * When you are able work your way back to the $Pre$   pattern of the Strong verb, it means you will correctly identify the stem and conjugation most of the time
     * The last column indicates the  $V_S$ pattern for perfects on the left, and imperfects on the right
         * Remember, FP imperfect forms take $A$ (Patach) in the Niphal, the Pt $V_S$ is the lengthened P3ms and the A $V_S$ is usually $\bar E$ (Tsere)
 
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 library(knitr)
 include_graphics("images/24_stemcomp.png")
 ```
@@ -638,22 +674,17 @@ YOUR _HEBREW QUEST_!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
+<span class="scc">Hebrew Quest Numbers 15 Audio:<audio controls src="./images/24.Numbers15.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
+
 ### Numbers 15:37-41 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0415.m4a">
+<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0415.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
+
 
 <span class="he"><p align="right">
 ‬

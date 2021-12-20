@@ -1,7 +1,7 @@
 # Qal Imperfect - Strong {.QI-s}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -45,7 +45,7 @@ Before continuing, can you describe the Qal Perfect Strong Paradigm from memory?
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15-02-Job.mp3">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.0.1-02-Job.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -68,7 +68,7 @@ There's a story of a small child who was beginning to understand the implication
 Let that sink in as you study Biblical Hebrew.
 
 
-```{r, out.width = "600pt", fig.align='center', fig.cap="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Ascent of Adummim Roman road remains. This was the main route from Jericho to Jerusalem in antiquity. It was notoriously treacherous, both in terms of physical exertion, rising 3500 feet in just 15 miles, as well as in terms of physical safety. This latter aspect provided the geographical context of Yeshua's story of the Good Samaritan in Luke 17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/15.Ascent of Adummim Roman road remains, tb113006725.jpg")
 ``` 
@@ -78,7 +78,7 @@ knitr::include_graphics("images/15.Ascent of Adummim Roman road remains, tb11300
 
 
 ::: {.infobox .sound}
-<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls 
 src="./images/15.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
@@ -133,20 +133,18 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* The Imperfect has many potential translations
+> The Imperfect has many potential translations: start with simple future ("he will") or volitional - ("he should")
+
 * If you don't have any context then translate Imperfect as future
 * In context, watch to see whether the imperfect verb begins a clause as this is a clue
 * When the Imperfect does not begin a clause: future, "I will run", or imperfective, "I am running" or "I was running"
-* When the Imperfect begins a clause and does not have a Vav Consecutive prefix, the use is what is called _modal_.  We'll study modal forms in Lesson 18.
+* When the Imperfect begins a clause and does not have a Vav Consecutive prefix, the use is what is called _volitional_. "I should go" is a modal mood. We'll study volitional forms in Lesson 18.
 * An imperfect verb _with_ the Vav Consuctive changes the verb's aspect to Perfect.  We'll study this in Lesson 17
 * When the imperfect is preceded by <span class="he">לֹא</span> or <span class="he">אַל</span> it is a negative command
     * We'll have more to say about this towards the end of the lesson
     * Positive commands take a different form, called the _Imperative_, which we will also study in Lesson 18
     
-::: {.box .map}
-For now, translate the Imperfect as the English Future tense
-:::
-    
+
 
 ## The Imperfect Always has a Preformative
 
@@ -165,15 +163,19 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> Imperfect preformatives are an easy way to distinguish a Perfect verb from an Imperfect verb
+
 * All stems have the same set of preformatives
-* The Imperfect is called the **Prefix Conjugation**
 * <span class="he">י</span> for 3ms, 3mp
 * <span class="he">א</span> for 1cs
 * <span class="he">נ</span> for 1cp
 * <span class="he">תּ</span> for everywhere else (3fs ,3fp, 2ms, 2fs, 2mp, 2fp)
 
+::: {.box .map}
+In our shorthand code, when we say $Pre =$ <span class="he">יִקְ</span>, the <span class="he">י</span> is a placeholder for any of the above Imperfect Preformatives.
+:::
 
-## Qal Imperfect Vowels
+## QI Preformative Vowel = $E$ for 1cs and $I$ everywhere else
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.4.m4a">
@@ -190,7 +192,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ ($Pre$) combination
+> Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ ($Pre$) combination
 
 * All QI strong verbs except 1cs begin with Hireq+Silent Shewa
     *  <span class="he">ְ יִ</span> for 3ms, 3mp
@@ -201,25 +203,29 @@ Qal Imperfect strong verbs have a diagnostic $V_P$ + $V_1$ ($Pre$) combination
     * <span class="he">יִ</span> represents any of the Imperfect preformatives with a Hireq or <span class="he">אֶ</span>
     * <span class="he">קְ</span> represents any strong letter in $R_1$ with a Silent Sheva
 
-::: {.box .info}
-The Imperfect Preformative vowels behave as if they were from the Rule of Sheva
+## The Preformative vowels follow the Rule of Sheva
+
+Notice how the preformative vowels follow the Rule of Sheva^[According to Dr. Beckman, they did not exactly originate by the Rule of Sheva, but looking at it this way proves to be quite helpful.]
 
 ```{r, out.width = "400pt", fig.align='center'}
 
 knitr::include_graphics("images/15-rule-of-sheva.png")
 ``` 
+
+> This will be useful information when $R_1$ is a guttural
+
+::: {.box .map}
+Review of $Pre$
+
+* As a reminder, $Pre$ is a combination of prefix, preformatives, initial vowels and Daghesh marks as indicated that are diagnostic of a given stem and conjugation.
+* For the QP Strong, $Pre =$ <span class="he">קָ</span>
+* For the QI Strong, $Pre =$ <span class="he">יִקְ</span>
 :::
 
-::: {.box .caution}
-* As a reminder, when you see $Pre$ in the special font, this is not the same as the form's prefix and it is not the same as the form's preformative.  
-* $Pre$ is a combination of prefix, preformatives, initial vowels and Daghesh marks as indicated that are diagnostic of a given stem and conjugation.
-* For the QP, $Pre =$ <span class="he">קָ</span>
-* For the QI, $Pre =$ <span class="he">יִקְ</span>
-:::
+## QI Strong $V_S = \bar O$
 
-* Lastly, for the QI, $V_S = \bar O$
 * With this we can begin to build our $V_S$ formula we introduced at the very end of lesson 12
-* Qal Formula: $V_S = A \sim \bar O$
+* Qal $V_S$ Formula: $$V_S = A \sim \bar O$$
     * Perfect = Patach
     * Imperfect = Holem
 
@@ -240,6 +246,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> The combination of imperfect preformatives and sufformatives makes identifying Imperfect conjugations relatively straightforward
+
 * Of the singular forms, only 2fs has a sufformative
     * It is <span class="he">י ִ</span>
     * The <span class="he">ְ תִּ</span> preformative with the <span class="he">י ִ</span> sufformative is diagnostic of the QI2fs
@@ -248,16 +256,14 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * Occasionally, there may be what is called a Paragogic Nun, as in <span class="he">וּן</span>^[ The ן sometimes causes the Shuruk to shorten to a Qubbuts. In other words, you may see <span class="he">יִקְטְלוּ</span> or <span class="he">יִקְטְלוּן</span> or <span class="he">יִקְטְלֻן</span>.  All three words are QI3mp]
 * You will be able to tell 2mp from 3mp by the preformative
 * 2fp/3fp sufformative - <span class="he">נָה</span>
-
-::: {.box .caution}
-QI2fp/QI3fp and QI3fs/QI2ms forms are identical
-
-* The context will determine whether the verb is being used in the 3rd person or the 2nd person
-* The feminine plural forms are relatively infrequent
-:::
-
 * There are no "heavy sufformatives" in the Imperfect
 * The last point is to remember that the Imperfect is a Finite verb, so a Sheva prefers to go before a finite verb sufformative
+
+## QI2fp/QI3fp and QI3fs/QI2ms forms are identical
+
+* The context will determine whether the verb is being used in the 3rd person (an "it" or a "she") or the 2nd person ("you")
+    * The 3fs forms often refer to a non-human feminine subject (i.e. the Torah, fire, earth, etc.)
+* The feminine plural forms are relatively infrequent
 
 
 > Now we're ready to put all this together and learn the Qal Imperfect Strong Paradigm, the same way we built the Qal Perfect Strong Paradigm!
@@ -298,32 +304,17 @@ knitr::include_graphics("images/15.Qal_imperfect_Strong.png")
 
 
 
-## Qal Imperfect Strong Paradigm Audio
+## Memorize the Qal Imperfect Strong Paradigm 
 
-Repeat the paradigm until you have it memorized!  This will help you with the worksheet activity.
+> Qal Imperfect $Pre =$ <span class="he">יִקְ</span> and $V_S = \bar O$
 
-<figure>
-    <figcaption>Qal Imperfect Strong (Singular) read by Izzy</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/15.QIsingularIzzy.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+```{r, out.width = "800pt", fig.align='center'}
 
-<figure>
-    <figcaption>Qal Imperfect Strong (Plural) read by Izzy</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/15.QIpluralIzzy.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+knitr::include_graphics("images/15.QI3ms.gif")
+``` 
 
-| Sing | Paradigm | Plural | Paradigm
-| :-  | :- | :-  | :-
+| Sing | QI | Plural | QI
+| :-  | -: | :-  | -:
 | 3ms | <span class="he">יִקְטֹל</span>  | 3mp | <span class="he">יִקְטְלוּ</span> 
 | 3fs | <span class="he">תִּקְטֹל</span> | 3fp | <span class="he">תִּקְטֹ֫לְנָה</span> 
 | 2ms | <span class="he">תִּקְטֹל</span> | 2mp | <span class="he">תִּקְטְלוּ</span>
@@ -331,10 +322,15 @@ Repeat the paradigm until you have it memorized!  This will help you with the wo
 | 1cs | <span class="he">אֶקְטֹל</span> | 1cp | <span class="he">נִקְטֹל</span>
 
 
+<div class=”scc”>Qal Imperfect Strong (Singular) read by Izzy<audio controls src="./images/15.7.1.QIsingularIzzy.mp3">Your browser does not support the <code>audio</code> element.</audio></div>
+
+
+<div class=”scc”>Qal Imperfect Strong (Plural) read by Izzy<audio controls src="./images/15.7.1.QIpluralIzzy.mp3">Your browser does not support the <code>audio</code> element.</audio></div>
+
 
 ## Worksheet: Qal Imperfect Strong Paradigm {-}
 
-As with Lesson 13, we want you to pause here and do the [Qal Imperfect Strong Paradigm](./images/15_qal_imperfect_strong_paradigm.pdf){target="_blank"}.
+As with Lesson 13, we want you to pause here and do the [Qal Imperfect Strong Paradigm worksheet](./images/15_qal_imperfect_strong_paradigm.pdf){target="_blank"}.
 
 > Complete the paradigm until you can do it from memory at least once, then return here and continue in the guidebook.
 
@@ -398,6 +394,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+>As with the Qal Perfect, there are some general deviations from the QI strong paradigm that occur
+
 * All stative verbs have $V_S = A$  (QI strong paradigm $V_S = O$)
     * This is true in all PGN except where $V_S$ has been replaced by a Sheva (in step 3 of the workflow)
     * <span class="he">יִגְדַּל</span> = he/it will be great or let him/it be great
@@ -436,7 +434,48 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * In this circumstance, the people were listening to FALSE prophets
     * The specific circumstance of listening to false prophets is what Jeremiah is prohibiting
 
-## Qal Imperfect Strong Conclusion {-}
+## Qal Imperfect Strong: What to Memorize
+
+> $Pre =$ <span class="he">קָ</span> and $V_S = \bar O$   
+
+```{r, out.width = "100%", fig.align='center'}
+
+knitr::include_graphics("images/15.QI_paradigm.gif")
+``` 
+
+* Just as with the QP strong paradigm, we will need to have the Qal Imperfect Strong Verb Paradigm memorized "like a robot" before proceeding to Lesson 16
+* Imperfect Preformatives
+    * <span class="he">י</span> for 3ms, 3mp
+    * <span class="he">א</span> for 1cs
+    * <span class="he">נ</span> for 1cp
+    * <span class="he">תּ</span> for everywhere else (3fs ,3fp, 2ms, 2fs, 2mp, 2fp)
+    * We can summarize this by saying $Pre =$ <span class="he">קָ</span>
+        * Exceptions:
+            * 2mp/2fp have $V_1=\bar A$ displaced by a Sheva as required by propretonic reduction
+            * $V_1$ will be reduced if there is a pronominal suffix as required by propretonic reduction - Lesson 19
+        * The QI $Pre$ _acts_ as if it is the result of the Rule of Sheva 
+* Imperfect sufformatives
+    * 2FS: <span class="he">י ִ</span>
+    * 3MP/2MP: <span class="he">וּ</span>
+    * 3MS/2MS: <span class="he">נָה</span>
+* $V_S = \bar O$   
+    * Exceptions: 
+        * 3MP/2MP have $V_S$ displaced by a Sheva as required by finite sufformatives
+        * Stative verbs may cause other $V_S$ changes
+
+
+## Stem Comparison Worksheet
+
+> Since we now know the $V_S$ for both Perfect and Imperfect, use this information to update your `Stem Comparison Worksheet` (QI3ms and Qal $V_S$ columns) if you haven't already done so 
+
+$V_S = A \sim \bar O$
+
+* $A$ in the Qal Perfect
+* $\bar O$ in the Imperfect
+
+
+
+## Lesson 15 Conclusion 
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/15.11.m4a">
@@ -453,16 +492,29 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 ::: 
 
-* The Qal Imperfect is a critically important form in the Bible, so way to go for getting through this lesson
+* The Qal Imperfect is a critically important form in the Bible
 * As we said in the intro to Lesson 14, weak verbs are much more common than strong verbs; this is true for Imperfect as well as perfect
-* The authors of _Basics of Biblical Hebrew_ believe Lesson 16 is the high water mark of the course
+
+> Lesson 16 is the high water mark of the course
+
 * Once you master the material in the next lesson, many students find that the rest of the course fits together nicely
 * We mention this now in Lesson 15, because the diligent work you do between now, this very moment, and the moment you start Lesson 16 will set you up for maximum success in the remainder of the course
-* Be sure you have mastered the Qal Imperfect paradigm, both in terms of speaking it and writing it
+* Be sure you have mastered the Qal Imperfect paradigm, both in terms of speaking it and writing it - know it "Like a Robot"^[This is Dr. Van Pelt's way of saying we must have automatic recall of this concept; hard-wired and programmed like a robot!]
     * We know we've said that speaking and writing are not our focus with this course, but here we are making an exception
     * Listening and repeating Izzy's audio several times, completing the worksheet a few more times, and of course doing all of the Anki work and activities, will serve you very well as we had into lesson 16.
 
->Keep up the fantastic work! You're doing great!
+
+| Sing | QI | Plural | QI
+| :-  | -: | :-  | -:
+| 3ms | <span class="he">יִקְטֹל</span>  | 3mp | <span class="he">יִקְטְלוּ</span> 
+| 3fs | <span class="he">תִּקְטֹל</span> | 3fp | <span class="he">תִּקְטֹ֫לְנָה</span> 
+| 2ms | <span class="he">תִּקְטֹל</span> | 2mp | <span class="he">תִּקְטְלוּ</span>
+| 2fs | <span class="he">תִּקְטְלִי</span> | 2fp | <span class="he">תִּקְטֹ֫לְנָה</span>
+| 1cs | <span class="he">אֶקְטֹל</span> | 1cp | <span class="he">נִקְטֹל</span>
+
+::: {.box .map}
+Keep up the fantastic work! You're doing great!  In fact, take a moment to pause and reflect how far you have come in your knowledge of Hebrew since starting the Quest!
+:::
 
 ## Word Warm-up {-}
 
@@ -486,7 +538,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ::: {.box .map} 
 YOUR QUEST
 
-Identify and translate the Qal Verbs below.  
+Inflect and translate the Qal Verbs below, then identify in Ruth 1.
 
 * היה QP1cs
 * גדל QI3mp
@@ -498,50 +550,57 @@ Identify and translate the Qal Verbs below.
 
 ### Ruth 1 {-}
 
-
-::: {.infobox .sound}
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRuth" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRuth");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
 
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
 ‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
 ‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
 ‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
 ‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
 ‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
 ‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
 ‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
 ‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
 ‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
 ‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
 ‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
 ‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
 ‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
 ‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
 ‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
 ‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
 ‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
 ‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
 ‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
 ‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
-
-
-
 
 ## Honors Track: Hebrew Quest Study Passage: Proverbs #11-14 {-}
 
@@ -560,6 +619,17 @@ YOUR _HEBREW QUEST_:
 | *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
 | *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
+<span class="scc">Hebrew Quest Proverbs 11 Audio:<audio controls src="./images/15.Proverbs11.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+<span class="scc">Hebrew Quest Proverbs 12 Audio:<audio controls src="./images/15.Proverbs12.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+<span class="scc">Hebrew Quest Proverbs 13 Audio:<audio controls src="./images/15.Proverbs13.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+<span class="scc">Hebrew Quest Proverbs 14 Audio:<audio controls src="./images/15.Proverbs14.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ### Proverbs Sessions 11-14 {-}
 

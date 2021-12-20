@@ -2,7 +2,7 @@
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.intro.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.0.0.intro.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -64,7 +64,7 @@ Before continuing, make sure you understand the $R_n$ and the $V_n$ nomenclature
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.08.2chr3421.mp3">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.0.1.2chr3421.mp3">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -110,7 +110,7 @@ Every day, and frequently throughout each day, we have two choices.  We can keep
 Let us strive to have it be told of all of us, <span class="he">שָׁמְרוּ אֶת־דְּבַר יְהוָה </span>, "they KEPT the word of Adonai."
 
 
-```{r, out.width = "600pt", fig.align='center', fig.cap="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Mt Gerezim, Shechem, Mt. Ebal from east.  In Deuteronomy 11, Moses instructs that when Israel enters the land, she is to read the blessings from Mt. Gerezim and the curses from not following His word from Mt. Ebal. Today, Shechem is also known as the Arab city of Nablus. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/13.Mount Gerizim, Shechem, Mount Ebal from east, tb070507660.jpg")
 ``` 
@@ -122,7 +122,7 @@ knitr::include_graphics("images/13.Mount Gerizim, Shechem, Mount Ebal from east,
 
 
 ::: {.infobox .sound}
-<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls  
 src="./images/13.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
@@ -196,7 +196,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-| |Active Voice| Passive Voice | Reflexive Voice
+> Qal is active voice, simple action
+
+| |Active | Passive  | Reflexive 
 |:- |:- |:- |:-
 Simple Action	| __QAL__ | Niphal | (Niphal)
 Cause a State	| Piel | Pual | Hitpael
@@ -243,8 +245,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* In translating, we will most often use the simple English past tense
-    * For example, "she studied"
+>In translating the Qal Perfect, we will most often use the simple English past tense
+
+* For example, "she studied"
 * It is commonly taught that the Hebrew perfect is equivalent to the English past tense
     * This is a generality; it is often true, but it is not always true
     * Other translations may be appropriate depending on the context
@@ -299,9 +302,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> Preformatives and Sufformatives are unique verbal beginnings and endings that indicate person, gender, and number
 
 * In Lesson 12, we introduced the concept of preformatives and sufformatives
-* These are unique verbal beginnings and endings that indicate person, gender, and number
 * The Perfect has a set of "perfect sufformatives"
     * Only the 3ms does not have a perfect sufformative
     * We will learn the sufformatives for the remaining PGN forms in the next section
@@ -316,7 +319,7 @@ A verb with no preformative, and a perfect sufformative will be diagnostic of a 
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.5.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.5.0.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -349,23 +352,26 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* As Izzy said in the opening video segment, the perfect sufformatives are related to the pronominal suffixes, which in turn are related to the personal pronouns in many cases
+> The perfect sufformatives are related to the pronominal suffixes (Lesson 9), which in turn are related to the independent personal pronouns (Lesson 8) in many cases
+
 * The table below shows the perfect sufformatives in the middle column  
 * Note how the 1st person, 2nd person, and 3fs forms are similar to the respective pronominal suffix
+    * For 2nd person, note how the <span class="he">כ</span> has become a <span class="he">תּ</span>
 * 2MP and 2FP are called "Heavy Sufformatives" because, as we will learn, they draw the accent
 
 
-```{r, out.width = "700pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 
 knitr::include_graphics("images/13_perfect sufformatives.png")
 ``` 
 
+<!-- Renumbered 13.6 12/18/21 -->
 
-## Steps to Build a Qal Perfect Verb {-}
+## Seven Steps to Build a Qal Perfect Verb 
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.steps.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.5.1.steps.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -397,24 +403,31 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
+
+> We want to learn the Qal Strong paradigms inside and out so we can learn to spot deviations in weak verbs and in other verb stems
+
+
 1. Add perfect sufformative
 2. Put a Sheva before the sufformative
-3. Add a Daghesh Lene to <span class="he">ת</span> , since it is a <span class="he">בגד כפת</span> letter, when it follows a Sheva
+3. Add a Dagesh Lene to <span class="he">ת</span> , since it is a <span class="he">בגד כפת</span> letter, when it follows a Sheva
 4. \(V_S = A\) (Patach) in the Qal Perfect Strong paradigm
 5. Accent $V_S$, if possible
 6. $V _1 = \bar A$ in the Qal Perfect Strong Paradigm
 7. Optionally, add a Metheg mark to denote $\bar A$ (Qamets) from $O$ (Qamets Hatuf)
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 
 knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
 ``` 
+
+
+<!-- Renumbered 13.7 12/18/21 -->
 
 ## Step 1: Add the Perfect Sufformatives
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.6.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.7.0.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -447,9 +460,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> Good news!  These "Perfect Sufformatives" remain the same throughout all seven stems
+
 * The table below lists the perfect sufformatives
-    * Stand-alone
-    * Affixed to the <span class="he">קטל</span> paradigm verb
 * Note 3ms does not have a perfect sufformative but all the other forms do
 * Since 3mp and 3fp are the same in the Perfect, we simply say "3cp" - Third-person, common, plural
 
@@ -458,21 +471,9 @@ function setPlaySpeed25() {
 knitr::include_graphics("images/13.qptable.png")
 ``` 
 
-::: {.box .map}
-GOOD NEWS
 
-As you continue with your Hebrew GRAMMAR Quest into Unit 4, you will learn these sufformatives REMAIN THE SAME throughout all seven Perfect conjugations.
-:::
 
-<figure>
-    <figcaption>Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/13.Qal_perfect.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+<div class="scc">Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_ and note the sufformatives added to קטל<audio controls src="./images/13.7.1.Qal_perfect.mp3">Your browser does not support the <code>audio</code> element.</audio></div>
 
 ## Step 2: Put a Sheva before the Finite Sufformative
 
@@ -511,6 +512,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> In 3FS and 3CP, this rule causes a Sheva to displace the expected Patach in $V_2$ (step 4)
 
 * This is a general rule that results in a Sheva under $R_3$ or $R_2$
 * This only applies to finite verbs (Perfect, Imperfect, Volitional)
@@ -536,7 +538,7 @@ The Sheva is rejected in the following circumstances:
 The Sheva may either be silent or vocal, depending on the rules we learned in Lesson 3
 :::
 
-## Step 3: Add Daghesh Lene to תּ
+## Step 3: Add Dagesh Lene to תּ
 
 ::: {.infobox .sound}
 <figure>
@@ -573,8 +575,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Whenever there is a  <span class="he">בגד כפת</span> letter following a Sheva, that letter will usually take a Daghesh Lene
-* Because of Step 2, when we added the sheva, we must add a Daghesh Lene to the sufformatives that have a <span class="he">ת</span>
+> Whenever there is a  <span class="he">בגד כפת</span> letter following a Sheva, that letter will usually take a Dagesh Lene
+
+* Because of Step 2, when we added the sheva, we must add a Dagesh Lene to the sufformatives that have a <span class="he">ת</span>
 * Look again at our table of sufformatives and note the 2nd person forms as well as 1CS
 ```{r, out.width = "700pt", fig.align='center'}
 
@@ -585,7 +588,7 @@ knitr::include_graphics("images/13.qptable.png")
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.9.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.9.0.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -618,11 +621,13 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> Note the exception in 3FS and 3CP that we mentioned in Step 2
+
 * For QP, $V_2$ _prefers_ Patach 
 * For strong verbs, $V_S = V_2$
     * So we could either say "$V_S$ for Qal Perfect Strong equals Patach"
     * Or we could use formula shorthand and say, "Qal $V_S = A$", since "A" is our shorthand for a short A vowel, i.e., Patach
-* In 3cp and 3fs, the Sheva of the perfect sufformative goes in $V_2$
+* In 3FS and 3CP, the Sheva of the perfect sufformative goes in $V_2$ and displaces the Patach
 
 ```{r, out.width = "700pt", fig.align='center'}
 
@@ -637,7 +642,9 @@ EXCEPTIONS
 
 :::
     
-## Looking ahead: each stem will have a specific $V_S$ Formula {-}
+<!-- Renumbered 12/18/21 -->
+
+## Looking ahead: each stem will have a specific $V_S$ Formula 
 
 ::: {.infobox .sound}
 <figure>
@@ -674,12 +681,13 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> Different conjugations may have different Stem Vowels.  There are formulas we will use to help us remember.
 
 * As we progress through the verbs, each major stem will end up with a formula that looks something like this: 
 
 $$V_{S} =  Î[A] \sim  Î(Ē)$$
 
-* This is probably complete gibberish to you right now!
+* This is the Hiphil formula and is probably complete gibberish to you right now!
 * As we get into Unit 4, this formula (in combination with the $Pre$ pattern) will save you hours of paradigm memorization of the derived stems
 * You will only need to memorize the Qal paradigms, then apply this formula to the other stems
 * So let's start to build this formula for the Qal:
@@ -688,6 +696,8 @@ $$V_{S} = A \sim$$
 
 * In the formula, $A$ refers to Patach
 * This formula is telling you that the Stem Vowel of the Perfect Conjugation _prefers_ Patach
+    * P3FS and P3CP will be exceptions in all stems
+    * Pronominal suffixes (Lesson 19) will also cause deviations
 * The _Imperfect_ Stem Vowel will be to the right of the $\sim$ mark - we'll address this in Lesson 15
 
             
@@ -727,17 +737,16 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
-* As we introduced in Lesson 12, verbs that have "person" designation are called Finite verbs
-    * Perfect, Imperfect, Imperative, Cohortative, Jussive are FINITE
-    * Infinitive Construct, Infinitive Absolute, Participle are NON-FINITE because they do not have "person"
+> As we introduced in Lesson 12, verbs that have "person" designation are called Finite verbs
+
+* Perfect, Imperfect, Imperative, Cohortative, Jussive are FINITE
+* Infinitive Construct, Infinitive Absolute, Participle are NON-FINITE because they do not have "person"
 * The $V_S$ is accented in Finite verbs, when possible
-    * As we said in the previous lesson, $V_S$ usually = $V_2$ 
-        * In <span class="he">קָטַל</span> $V_S = A$ (Patach)
-    * If $R_2$ is a vowel letter, then $V_S$ = $V_1$
-        * In <span class="he">קוּם</span> $V_S = \hat U$ (Shuruq)
-    * If $R_2$ disappears, then $V_S$ = $V_1$ 
-        * In <span class="he">קָם</span> $V_S = \bar A$ (Qamets)
-* Take a look at this table again and note where the accent lands:
+    * As we said in the previous lesson, $V_S$ usually = $V_2$^[Exceptions, particulalry with biconsonantal/hollow verbs will be discussed in the weak verb sections)] 
+* Take a look at this table again and note where the accent lands
+* Exceptions:
+    * 3FS and 3CP - a Sheva/reduced vowel is NEVER accented
+    * 2MS and 2FP - The "heavy sufformatives" will draw the accent like a magnet
 
 ```{r, out.width = "500pt", fig.align='center'}
 
@@ -765,7 +774,7 @@ EXCEPTIONS
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/13.11.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/13.11.0.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -798,6 +807,8 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> The Qamets is wonderfully consistent in the Qal Perfect!
+
 * There are other characteristics of the Qal perfect paradigm that will help us when we read the Bible
 * $V_1 = \bar A$ (Qamets) almost always
 * Exception: as we learned way back in this course, an unaccented long vowel in an open propretonic syllable will undergo propretonic reduction
@@ -806,6 +817,7 @@ function setPlaySpeed25() {
 * Study the chart below showing $V_1$
     * The vertical line in 3FS and 3CP is called a "metheg" and is used to distinguish $\bar A$ (Qamets) from $O$ (Qamets Hatuf) when followed by a Sheva
     * Note 2MP and 2FP have undergone propretonic reduction and have $ə$ (Vocal Sheva) instead of $\bar A$
+    * When we get to Lesson 19 (Pronominal Suffixes), the Qamets will similarly reduce
     
 ```{r, out.width = "700pt", fig.align='center'}
 
@@ -813,7 +825,6 @@ knitr::include_graphics("images/13.qptablev1.png")
 ``` 
 
 ## Looking ahead: Each Stem and Conjugation will have a diagnostic $Pre =$ Formula {-}
-
 
 
 ::: {.infobox .sound}
@@ -851,21 +862,22 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> HGQ SHORTHAND: $Pre$ = Strong Form Diagnostic Word-initial Sequence
 
-* HGQ SHORTHAND: $Pre$ = Strong Form Diagnostic Word-initial Sequence
-* Each of the stems/conjugations has a distinctive combination of consonants, vowels, and occasionally Daghesh Forte marks the first one or two syllables of a given verb
+* Each of the stems/conjugations has a distinctive combination of consonants, vowels, and occasionally Dagesh Forte marks the first one or two syllables of a given verb
 * This serves to make the strong form of the verb easy to differentiate from the other stems
 * We will call this diagnostic sequence "$Pre$"
     * Saying "diagnostic word-initial sequence of consonants and vowels" would get tiresome!
-* For Qal Perfect (QP), $Pre =$ <span class="he">קָ</span>
-    * <span class="he">ק</span> represents any strong letter as $R_1$ in a strong verb
-    * This means the distinctive word-initial sequence of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
+
     
 ::: {.box .map}
 * Qal Perfect Strong $Pre =$ <span class="he">קָ</span>
-* In other words, when a strong verb has no prefix/preformative, $R_1$ is any strong letter, AND $V_1 = \bar A$ (Qamets), it is nearly always a Qal Perfect conjugation
-* We will discuss weak letter deviations and how to work our way back to the strong verb paradigm in the next lesson
 :::
+* <span class="he">ק</span> represents any strong letter as $R_1$ in a strong verb
+* This means the distinctive word-initial sequence of a <u>Q</u>al <u>P</u>erfect verb is no prefix/preformative and a Qamets in $V_1$
+* In other words, when a strong verb has no prefix/preformative, $R_1$ is any strong letter and $V_1 = \bar A$ (Qamets) it is nearly always a Qal Perfect conjugation
+    * Thanks to propretonic reduction, the Qamets reduces to Vocal Sheva in 2MP/3MP
+    * We will discuss weak letter deviations and how to work our way back to the strong verb paradigm in the next lesson
 
 ## Step 7: OPTIONAL - Add a Metheg mark to $V_1$ 3FS and 3CP 
 
@@ -904,10 +916,11 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* _Basics of Biblical Hebrew_ teaches students to use the Metheg mark so we'll present it here
+> This is optional
+
 * The Metheg can denote that the vowel is Qamets followed by a vocal Sheva and not Qamets Hatuf followed by a Silent Sheva
 * Look again at our table and note the vertical line next to the Qamets at 3FS and 3CP
-```{r, out.width = "700pt", fig.align='center'}
+```{r, out.width = "500pt", fig.align='center'}
 
 knitr::include_graphics("images/13.qptablev1.png")
 ``` 
@@ -955,12 +968,13 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Understanding how we build the paradigm will prepare you to identify verbs in the Bible
+> Understanding how we build the paradigm will prepare you to identify verbs in the Bible
+
 * It will also prepare you to spot when deviations occur in weak verbs
 * Study the graphic and the steps below carefully
 * It may be confusing at first, but over time, it will begin to make sense
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "100%", fig.align='center'}
 
 knitr::include_graphics("images/13.Qal_Perfect_Strong.gif")
 ``` 
@@ -1019,6 +1033,12 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> Qal Perfect $Pre =$ <span class="he">קָ</span> and $V_S = A$
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/13.QP3ms.gif")
+``` 
 
 * Below is the complete paradigm.  Be sure to listen to Izzy read the forms with the paradigm verb, קטל and take note of pronunciation and accents.  
     * 3FS and 3CP forms are, strictly speaking, Vocal Sheva not Silent Sheva
@@ -1027,7 +1047,7 @@ function setPlaySpeed25() {
 * Repeat this several times until you have the forms memorized
 
 
-| Sing | Paradigm | Plural | Paradigm
+| Sing | QP | Plural | QP
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">קָטַל</span>  | 3cp | <span class="he">קָטְלוּ</span> 
 | 3fs | <span class="he">קָטְלָה</span> | 
@@ -1035,16 +1055,7 @@ function setPlaySpeed25() {
 | 2fs | <span class="he">קָטַ֫לְתְּ</span> | 2fp | <span class="he">קְטַלְתֶּן</span>
 | 1cs | <span class="he">קָטַ֫לְתִּי</span> | 1cp | <span class="he">קָטַ֫לנוּ</span>
 
-<figure>
-    <figcaption>Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/13.Qal_perfect.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
+<div class="scc">Listen to the Qal Perfect Strong Paradigm from _Hebrew Quest_<audio controls src="./images/13.7.1.Qal_perfect.mp3">Your browser does not support the <code>audio</code> element.</audio></div>
 
 
 ## Worksheet: Qal Perfect Strong Paradigm {-}
@@ -1094,7 +1105,10 @@ function setPlaySpeed25() {
 * Doing the worksheet now will maximize your learning time
 * In other words, the material that follows in this lesson will make more sense to you if you have the paradigm in your short-term memory
 
+
 ## Qal Perfect Strong Examples
+
+
 ::: {.infobox .sound}
 <figure>
 <audio id="myAudio" controls controlsList="nodownload" src="./images/13.15.m4a">
@@ -1135,37 +1149,44 @@ function setPlaySpeed25() {
     * <span class="he">י</span> is an extremely common preformative consonant (but we haven't learned any preformatives yet)
     * This is why we also spend time on vocabulary - in this case, we will learn to recognize <span class="he">ידע</span> as a three-letter root
     * We remember that for the Qal Perfect, the $Pre$ combination <span class="he">קָ</span> (where <span class="he">ק</span> is $R_1$ of any strong verb)
-    * In <span class="he">יָדַ֥ע</span> , the $Pre$ combination is <span class="he">שָׁ</span>, so that fits Qal Perfect!
-    * This word has no sufformative, which indicated 3MS
+    * In <span class="he">יָדַ֥ע</span> , the $Pre$ combination is <span class="he">יָ</span>, so that fits Qal Perfect!
+    * This word has no sufformative, which indicates 3MS
     * Based on this alone, we are almost assured this is QP3MS 
         * The lack of a preformative and a sufformative *could* be other Qal conjugations
-            * The other conjugations will have different vowels
-            * $V_1 = \bar A$ is diagnostic of Qal Perfect
-        * Let's look for an additional confirmation
+        * The other conjugations will have different vowels
+        * $V_1 = \bar A$ is diagnostic of Qal Perfect
+    * Let's look for an additional confirmation
     * Qal Perfect, the $V_S = A$  
     * In <span class="he">יָדַ֥ע</span>, $V_S = A$ (<span class="he">דַ</span>) so we have another match
         * This is another indicator of Qal stem, Perfect conjugation (QP)
     * This combination of (lack of) preformatives, (lack of) sufformatives, and vowels can only be Qal Perfect 3MS (QP3ms) - he knows
     * As we said in the introduction to Unit 3, you will start to see the cantillation marks in words and passages
         * If you don't recognize a dot, dash, or line as a vowel, assume it is a cantillation mark
+
+---
+
+
 * <span class="he">שָׁמְר֤וּ</span>
     * $Pre =$ <span class="he">קָ</span> is diagnostic of Qal stem
     * <span class="he">שָׁמְר֤וּ</span> has <span class="he">שָׁ</span>
-    * <span class="he">וּ</span> perfect sufformative = $P3cp$ conjugation
-    * In <span class="he">שָׁמְר֤וּ</span>, $V_2 = ə$
-        * We're typically expecting $V_S = A$ in the Qal
-        * We know one of our rules is that the Perfect sufformative is preceded by a Sheva, but in the P3cp (and P3fs), the Sheva of the sufformative displaces $V_2$
+        * That matches!  $R_1= $ a strong consonant and $V_1 = \bar A$ 
+    * We're typically expecting $V_2/V_S = A$ in the Qal.  
+        * The Sheva is a clue that there might be an exception to a rule: 
+        * In <span class="he">שָׁמְר֤וּ</span>, $V_2 = ə$
+        * We know one of our rules is that the Perfect sufformative is preceded by a Sheva, but in the P3cp (and P3fs), the Sheva of the sufformative displaces the Patach $V_2$
+* <span class="he">וּ</span> perfect sufformative = $P3cp$ conjugation
     * If we know our vocab, we also understand that the Lexical form is <span class="he">שָׁמַר</span>.
     * <span class="he">שָׁמְר֤וּ</span> is Qal Perfect 3cp (QP3cp) - they guarded/observed/kept/watched over
+* As with <span class="he">זָכָ֑רְתְּ</span>, there are times where $V_S \not = A$ in the Qal Perfect
+    * Stative verbs may have a different $V_S$, as we will discuss in a future section
+    * Spelling variants may occur over the many hundreds of years the Tanach was written<small>^[<small>This is not unlike seeing "olde" or even "auld" on an English document from a few hundred years ago.  We know they both mean "old"</small>]</small>
+    * If there is nothing otherwise to suggest that you are not looking at a Qal verb, go with a Qal translation unless/until proven otherwise
 
 ::: {.box .map}
 NAVIGATION TIP
 
-* As we will learn in Unit 4, when there are no other signs of a different stem, we can default to Qal; this is because Qal is the most common stem
-* As with <span class="he">זָכָ֑רְתְּ</span>, there are times where $V_2= \bar A$ or $V_2 = A$
-    * These are often spelling variants that occur over the many hundreds of years the Tanach was written<small>^[<small>This is not unlike seeing "olde" or even "auld" on an English document from a few hundred years ago.  We know they both mean "old"</small>]</small>
-    * If there is nothing otherwise to suggest that you are not looking at a Qal verb, go with a Qal translation unless/until proven otherwise
 
+As we will learn in Unit 4, when there are no other signs of a different stem, we can default to Qal; this is because Qal is the most common stem
 :::
 
 ## Weak Verbs are Deviations from the Strong Verb Paradigm
@@ -1206,17 +1227,15 @@ function setPlaySpeed25() {
 :::
 
 
-* As we talked about in Lesson 12, what makes a verb "weak" versus "strong" is when one or more letters cause a deviation from the strong verb paradigm
+> What makes a verb "weak" versus "strong" is when one or more letters cause a deviation from the strong verb paradigm; in most cases, you already know the behaviors of "weak" letters!  
+
 * While the bulk of the discussion on weak verbs will be in Lesson 14, there are three weak forms we will introduce in this lesson: 
     * Words where $R_3$ = <span class="he">נ</span>, which we abbreviate as  or sometimes "3נ" (pronounced as, "third nun")
     * Words where $R_3$ = <span class="he">ת</span>, are "3ת"
 * Additionally, there is a class called "Stative verbs" that describe a state of being as opposed to an action
     * In Hebrew, stative verbs are not necessarily considers "weak" unless they have a weak letter
     * Nonetheless, in the Qal stem, since stative verbs have $V_2 \not = A$, they do represent deviations from the strong verb paradigm; as such, they warrant additional discussion
-
-> As we said in the last lesson, in most cases, you already know the behaviors of "weak" letters!  
-
-While "stative" verbs may be a new concept, we have already discussed the tendency of <span class="he">ת</span> and <span class="he">נ</span> to assimilate under certain circumstances.  This is what happens when we encounter 3ת and 3נ verbs.
+    * While "stative" verbs may be a new concept, we have already discussed the tendency of <span class="he">ת</span> and <span class="he">נ</span> to assimilate under certain circumstances.  This is what happens when we encounter 3ת and 3נ verbs.
 
 ## 3נ and 3ת Verbs
 ::: {.infobox .sound}
@@ -1254,14 +1273,15 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> A Dagesh Forte is your clue that something is different
 
 * We mentioned above how a Sheva will be placed before a Finite sufformative (if possible)
 * When <span class="he">ת</span> and <span class="he">נ</span> have a Silent Sheva, each may assimilate depending on the letter that follows
-    * In other words, the verb will lose $R_3$ and a Daghesh Forte will be placed into the first letter of the sufformative
+    * In other words, the verb will lose $R_3$ and a Dagesh Forte will be placed into the first letter of the sufformative
     * An $R_3$ of <span class="he">ת</span> with a Silent Sheva will only assimilate when the sufformative begins with ת
         * Not <span class="he">כָּרַ֫תְתָּ</span>*<small>^[<small>Remember, the * means the Hebrew word is an impossibility, but is shown for illustrative purposes</small>]</small> but <span class="he">כָּרַ֫תָּ</span>
         * Not <span class="he">כְּרַתְתֶּם</span>*, but <span class="he">כְּרַתֶּ֫ם</span>
-        * IMPORTANT: Note how the Daghesh in the <span class="he">ת</span> shifts from a Lene to a Forte (because the Daghesh is now preceded by a vowel that is not a Sheva)
+        * IMPORTANT: Note how the Dagesh in the <span class="he">ת</span> shifts from a Lene to a Forte (because the Dagesh is now preceded by a vowel that is not a Sheva)
             * This is your cue that something has changed, usually that a letter is missing
             * In theory, the root could be either <span class="he">כרן</span> or <span class="he">כרת</span>, but you already know <span class="he">כרת</span> from your vocabulary work (and there is no verb root <span class="he">כרן</span>)
     * An $R_3$ of <span class="he">נ</span> with a Silent Sheva will tend to assimilate to either <span class="he">נ</span> or <span class="he">ת</span>
@@ -1306,21 +1326,74 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Stative verbs describe a state of being, such as "wise", "old", or even "dead"
-* The $V_S$ may change in some forms
-    * There is what is called a "Patach Stative" that prefers $V_S$ of (wait for it...) Patach
-        * Since Qal Perfect _already_ prefers a $V_S$ of Patach, there is no visible change
-        * Patach Stative has a different $V_S$ in the Imperfect conjugation
-        * <span class="he">גָּדַ֫ל</span>, "he is great" is an example - this word maintains the Perfect Strong paradigm all the way through
-    * Tsere Stative has $V_S$ of Tsere in the P3ms ONLY
-        * <span class="he">כָּבֵ֫ד</span> = "he is honored"
-        * All other PGN follow the Perfect Strong
-    * Holem Stative has $V_S$ of Holem in P3ms, P2ms, and P1cp
-        * Holem Statives are relatively rare and do not even appear in the Bible as P2fs or any of the plural forms other than P1cp
-        * <span class="he">יַכֹ֫ל</span> = "he is able to" or "he can"
-        * <span class="he">קָטֹ֫נְתִּי</span> = "I am small"
-            * Note the <span class="he">נְ</span> DOES NOT assimilate - Hebrew likes to keep you guessing!
+> Stative verbs describe a state of being, such as "wise", "old", or even "dead"
 
+* The $V_S$ may change in some forms
+* There is what is called a "Patach Stative" that prefers $V_S$ of (wait for it...) Patach
+    * Since Qal Perfect _already_ prefers a $V_S$ of Patach, there is no visible change
+    * Patach Stative has a different $V_S$ in the Imperfect conjugation
+    * <span class="he">גָּדַ֫ל</span>, "he is great" is an example - this word maintains the Perfect Strong paradigm all the way through
+* Tsere Stative has $V_S$ of Tsere in the P3ms ONLY
+    * <span class="he">כָּבֵ֫ד</span> = "he is honored"
+    * All other PGN follow the Perfect Strong
+* Holem Stative has $V_S$ of Holem in P3ms, P2ms, and P1cp
+    * Holem Statives are relatively rare and do not even appear in the Bible as P2fs or any of the plural forms other than P1cp
+    * <span class="he">יַכֹ֫ל</span> = "he is able to" or "he can"
+    * <span class="he">קָטֹ֫נְתִּי</span> = "I am small"
+        * Note the <span class="he">נְ</span> DOES NOT assimilate - Hebrew likes to keep you guessing!
+
+## Qal Perfect Strong: What to Memorize
+
+> You will need to have the Qal Perfect Strong Verb Paradigm memorized "like a robot" before proceeding to Lesson 14
+
+```{r, out.width = "100%", fig.align='center'}
+
+knitr::include_graphics("images/13.QP_paradigm.gif")
+``` 
+
+13.QP_paradigm.gif
+
+* For Qal Perfect strong verbs:
+    * No preformative
+    * Perfect sufformative (except 3ms)
+    * $Pre =$ <span class="he">קָ</span>
+        * Exception:
+            * 2mp/2fp have $V_1=\bar A$ displaced by a Sheva as required by propretonic reduction
+            * $V_1$ will be reduced if there is a pronominal suffix as required by propretonic reduction - Lesson 19
+
+    * $V_S = A$   
+        * Exceptions: 
+            * 3fs/3cp have $V_S=A$ displaced by a Sheva as required by finite sufformatives
+            * Stative verbs may cause other $V_S$ changes
+    
+
+| Sing | QP | Plural | QP
+| :-  | :- | :-  | :-
+| 3ms | <span class="he">קָטַל</span>  | 3cp | <span class="he">קָטְלוּ</span> 
+| 3fs | <span class="he">קָטְלָה</span> | 
+| 2ms | <span class="he">קָטַ֫לְתָּ</span> | 2mp | <span class="he">קְטַלְתֶּם</span>
+| 2fs | <span class="he">קָטַ֫לְתְּ</span> | 2fp | <span class="he">קְטַלְתֶּן</span>
+| 1cs | <span class="he">קָטַ֫לְתִּי</span> | 1cp | <span class="he">קָטַ֫לנוּ</span>
+
+## Worksheet: Stem Comparisons {-}
+
+> You now have enough information to begin the [`Stem Comparison Worksheet`](images/StemComparisonWorksheet.pdf){target="_blank"}!
+
+* You will use this sheet throughout the rest of the course
+* In the rows you can see the seven Hebrew Stems
+* In the columns are selected 3ms conjugations
+* In the gray boxes, use the $Pre$ and $V_S$ formulas to mark the paradigm verb of the given conjugations 
+    * For example, in the QP3ms cell, you would mark the vowels for <span class="he">קָטַל</span>
+        * we recommend marking the $Pre$ prefixes, preformatives, and vowels (as applicable) in RED and the $V_S$ vowels in BLUE for easy visibility
+* In the last column row, you will eventually enter the $V_S$ Formula for each Stem.  For now, enter $A$ to the left of the $\sim$ character
+
+## Lesson 13 Conclusion
+
+* You might find yourself a bit tired after this strenuous hike!
+* As we've been saying, just soak in as much as you can, then test yourself with `Anki`
+* If any the concepts aren't "clicking" after doing the activities, then come back here and review the lesson points
+* If you find you need a more thorough walk-through of how to build a Qal Perfect verb, check out Dr. Beckman's YouTube lecture in `Lesson Extras`
+* The better you know the concepts in Lessons 13-16, the easier the rest of the Quest will be!
 
 ## Word Warm-up {-}
 
@@ -1352,20 +1425,21 @@ function setPlaySpeed25() {
         * When you encounter a "weak" verb, such as <span class="he">מָלְאָ֥ה</span>, which is 3א, or <span class="he">יָדָ֔עוּ</span>, which is 3עח (A ח or ע as $R_3$), try to see what changes occur (based on what you already know about Gutturals)
 * `Lesson 13 D. Study Verses`
 
+> Unless there is something unique to point out, we will omit the Anki section from the Hebrew GRAMMAR Quest Guidebook going forward. You know the drill!  Be sure to do the four Anki levels after each Lesson.
 
 ## Ruth Pursuit {-}        
 
 ::: {.box .map} 
 YOUR QUEST:
 
-1. Identify and translate the following Qal Perfect Strong Verbs:
+1. Inflect^[Generally we don't emphasize inflecting activities.  In this case, it will be good practice for you to implement the concepts discussed in this lesson.  You are also at the stage in your Quest where we don't want to simply provide you the word to search in Ruth 1.  Like Izzy said at the very beginning of _Hebrew Quest_  it's better to teach you to fish, than give you a fish!] and translate the following Qal Perfect Strong Verbs, then locate them in Ruth 1
     * פקד QP3ms (yellow)
     * זקן QP1cs (green)
         * What is unique about this verb?
     * ילד QP1cs (gray)
     * דבק QP3fs (blue)
         * Hint: See [page 65 of this dictionary](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}
-2. Identify and translate מלא FS (adjective)(pink)
+2. Inflect and translate מלא as a FS adjective, then locate in Ruth 1(pink)
 
 :::
 
@@ -1375,50 +1449,57 @@ YOUR QUEST:
 
 ### Ruth 1 {-}
 
-
-::: {.infobox .sound}
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRuth" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRuth");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
 
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
 ‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
 ‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
 ‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
 ‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
 ‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
 ‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
 ‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
 ‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
 ‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
 ‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
 ‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
 ‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
 ‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
 ‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
 ‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
 ‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
 ‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
 ‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
 ‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
 ‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
-
-
-
 
 ## Claim your next Twelve Tribes Badge! {-}
 
@@ -1429,7 +1510,7 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 [Open Badge form in a new window](https://forms.gle/ywRYeNmuKkK441Pj9){target="_blank"}
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="https://forms.gle/ywRYeNmuKkK441Pj9" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfd2i5jVkXbXRsX32HKbX5k3XOZAAriT2AL_4PLQsW8gRwiog/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 ## Honors Track: Hebrew Quest Study Passage - Proverbs #5-7 {-}
@@ -1446,6 +1527,16 @@ YOUR _HEBREW QUEST_:
 | *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/12){target="_blank"}
 | *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
 | *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
+
+<div class="scc">Hebrew Quest Proverbs 5 Audio:<audio controls src="./images/13.Proverbs05.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
+<div class="scc">Hebrew Quest Proverbs 6 Audio:<audio controls src="./images/13.Proverbs06.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
+<div class="scc">Hebrew Quest Proverbs 7 Audio:<audio controls src="./images/13.Proverbs07.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
 
 ### Proverbs Sessions 5-7 {-}
 

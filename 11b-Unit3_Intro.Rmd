@@ -7,7 +7,7 @@
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.unit3intro.m4a">
+        src="./images/12.0.0.0.unit3intro.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -47,24 +47,20 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-CONGRATULATIONS ON FINISHING THE FIRST TWO UNITS OF HEBREW GRAMMMAR QUEST!
+> CONGRATULATIONS ON FINISHING THE FIRST TWO UNITS OF HEBREW GRAMMAR QUEST!
 
-* Unit 3 represents a pivot point in this course
+* Unit III represents a pivot point in this course
 * From now through the end of the course, we will focus on verbs
-* In Unit 3 we will be spending our time learning what is called the Qal verb stem in depth
-* Then in Unit 4 we will learn the six so-called "derived" stems
+* In Unit III we will be spending our time learning what is called the Qal verb stem in depth
+* Then in Unit IV we will learn the six so-called "derived" stems
 
-
-::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 1)](./images/HGQ_Anki_Unit3_V01.0.apkg){target="_blank"} if you haven't already done so
-:::
 
 We wanted to let you know of some changes:
 
 
 1. Vowel Shorthand
 2. $Pre$ = a diagnostic word-initial combination
-3. Changes to Hebrew GRAMMAR Quest for Units 3 and 4
+3. Changes to Hebrew GRAMMAR Quest for Units III and IV
     1. No more quizzes!
     2. Study Verses
         * Cantillation marks added to study verses
@@ -74,6 +70,10 @@ We wanted to let you know of some changes:
 
 The next few pages will describe these changes in greater detail.
 
+## Unit III Anki Deck {-}
+::: {.box .light}
+Remember to download [Hebrew GRAMMAR Quest Unit III Anki Deck (version 1)](./images/HGQ_Anki_Unit3_V01.0.apkg){target="_blank"} if you haven't already done so
+:::
 
 ## Vowel Transliteration/Shorthand {-}
 
@@ -82,7 +82,7 @@ The next few pages will describe these changes in greater detail.
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.unit3transliteration.m4a">
+        src="./images/12.0.0.1.unit3transliteration.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -124,15 +124,13 @@ function setPlaySpeed25() {
 
 We will begin to use the vowel transliteration introduced in Lesson 2
 
-::: {.box .info}
 
 * Short Vowels (no marking): $A$ for Patach, $E$ for Seghol, $I$, Hireq, $O$ for Qamets Hatuf, and $U$, Qibbuts
 * Long Vowels that are not letters (bar): $\bar A$ for Qamets, $\bar E$ for Tsere, and $\bar O$ for Holem
-* Reduced Vowels (breve): $\breve A$ for Hateph Patach, $\breve E$ for Hateph Seghol, $\breve O$ = Hateph Qamets Hatuf
-* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod^[Formal shorthand for Seghol+Yod is also $\hat E$ but for this course, we will only use $\hat E$ for Tsere+Yod since it is more common.], $\hat I$ = Hireq+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
-* Additionally, we have the ending Qamets+Hei = $\hat A$^[Qamets+Hei is not technically an "unchangeable long vowel", but, since as a vowel it can only occur at the end of a word, it will never reduce.], Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva (as well as the Hateph vowels) has a "hurried" pronunciation, like the _a_ in _amuse_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation or transliteration value.]
+* Unchangeable Long Vowels (hat): $\hat E$ = Tsere+Yod, $\hat I$ = Hireq+Yod; $\hat O$ = Holem+Vav, and $\hat U$ = Shureq
+* Additionally, we have Vocal Sheva = $ə$, and $:$ for Silent Sheva^[Vocal Sheva (as well as the Hateph vowels) has a "hurried" pronunciation, like the _a_ in _amuse_. ə is the [international character for this sound](https://en.wikipedia.org/wiki/Mid_central_vowel){target="_blank"}. Silent Sheva has no pronunciation or transliteration value.]
 
-:::
+
 
 ## $Pre$ = Diagnostic Word-initial Combinations {-}
 
@@ -141,7 +139,7 @@ We will begin to use the vowel transliteration introduced in Lesson 2
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.unit3pre.m4a">
+        src="./images/12.0.0.2.unit3pre.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -181,23 +179,25 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* A Hebrew strong verb conjugation, regardless of the stem, can usually be identified based on its initial combination of consonants, vowels, and from time-to-time, the presence of a Daghesh Forte
+* A Hebrew strong verb conjugation, regardless of the stem, can usually be identified based on its initial combination of consonants, vowels, and from time-to-time, the presence of a Dagesh Forte
 * For example, in Lesson 15, we will learn the "Imperfect Preformatives" (we'll describe what a preformative is a little later)
     * The 3ms and 3mp strong forms will always have:
         * Preformative consonant = Yod
         * $V_P = I$ (Hireq), and
         * $V_1 = \ :$ (Silent Sheva)
-    * We can further shorten this by saying $Pre =$ <span class="he">יִקְ</span>, where ק represents $R_1$ of any strong verb
-    * $Pre$ is not simply the verb's prefix or preformative, but the entire word-initial combination of preformatives, vowels, and possibly a Dagesh that can help us identify and translate a specific verb form
+    * We can further shorten this by saying $Pre =$ <span class="he">יִקְ</span>,
+        * <span class="he">י</span> represents any Imperfect Preformative
+        * <span class="he">ק</span> represents $R_1$ of any strong verb
+    * $Pre$ is the word-initial combination of preformatives, vowels, and possibly a Dagesh that can help us identify and translate a specific verb form
 
-## Changes for Unit 3: No more quizzes! {-}
+## Changes for Unit III: No more quizzes! {-}
 
 ::: {.infobox .sound}
 <figure>
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.unit3quiz.m4a">
+        src="./images/12.0.0.3.unit3quiz.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -237,19 +237,20 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* The quizzes in Units 1 and 2 provided a checkpoint before proceeding to the next lesson
+* The quizzes in Units I and II provided a checkpoint before proceeding to the next lesson
     * We wanted to make sure you had the essential components of the lesson
 * At this stage of the course, we can dispense with the quizzes and leave it up to your judgment as to whether you are ready to proceed with the next lesson
 * The overload workload is steadily increasing, and of course, the Anki reviews are growing (so be sure to keep up with daily reviews!)
+* If you would like additional practice work, including quizzes, check out the `Lesson Extras`
 
-## Changes for Unit 3: Changes to `Anki Study Verses` and Cantilation Marks {-}
+## Changes for Unit III: Changes to `Anki Study Verses` and Cantilation Marks {-}
 
 ::: {.infobox .sound}
 <figure>
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.unit3verses.m4a">
+        src="./images/12.0.0.4.unit3verses.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -289,20 +290,16 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* In Unit 2, we split longer verses into two sections; starting with Unit 3, we're going to take it up a notch and have you review the entire study verse in one answer
-* For Unit 3, we are also adding Cantillation Marks added to Study Verses
-* Back in Lesson 2, we also referenced additional marking called cantillation marks
-* These are the marks in addition to vowels and consonants we sometimes see in Hebrew
+* In Unit II, we split longer verses into two sections; starting with Unit III, we're going to take it up a notch and have you review the entire study verse in one answer
+* For Unit III, we are also adding Cantillation Marks added to Study Verses
+    * These are the marks in addition to vowels and consonants we sometimes see in Hebrew
     * Here is the example we looked at from Genesis:
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "100%", fig.align='center'}
 library(knitr)
 include_graphics("images/02.Gen0109.png")
 ```
 
-* Up until now, we have been using a simple accent mark whenever a Hebrew word has an accent on the second to last syllable
-    * For example, <span class="he">נֶ֫גֶב</span>
-    * While the Lessons and other materials will continue to use these simple accents, from now on, we will graduate to using the full set of Hebrew accents in our Study Verses and Workbook exercises
 * Why do this?
     * When you read from a Tanach, you are much more likely to encounter the complete set of Hebrew accent marks
     * Becoming more comfortable with the Hebrew Bible includes having a basic familiarity with these additional marks
@@ -315,7 +312,10 @@ include_graphics("images/02.Gen0109.png")
         * Remember, a primary Hebrew accent can ONLY be on the LAST or SECOND-TO-LAST syllable
 * The vertical line | that can appear between two words can be ignored
 * When in doubt, listen to Izzy's audio carefully as he reads each verse to determine where the accent goes
-* In `Lesson Extras` we are including blank worksheets, without English translation, where you can practice parsing and working on your own translation before attempting the `Anki` modules
+* Trying to read with these marks can be visually distracting and overwhelming at first
+    * With practice, you will get used to them
+    * Cantillation marks are part of the rich tradition of Biblical Hebrew passed down to us from many centuries ago
+
 
 ::: {.box .caution}
 Many cantillation marks look like a vowel in the wrong place
@@ -324,31 +324,41 @@ Many cantillation marks look like a vowel in the wrong place
 * You already know your vowels, so don't let these marks trick you!
 :::
 
-::: {.box .info}
-Trying to read with these marks can be visually distracting and overwhelming at first. With practice, you will get used to them.  Cantillation marks are part of the rich tradition of Biblical Hebrew passed down to us from many centuries ago.
 
-:::
 
-::: {.box .caution}
-Pausal Forms
+### Pausal Forms {-}
 
+```{r, out.width = "100%", fig.align='center'}
+library(knitr)
+include_graphics("images/11.50_marks_pausal_forms.jpg")
+```
+
+* The above marks are called "major accents"
+    * The Silluq looks like a Metheg but isn't; it is found at the end of a verse
+    * The athnach divides a verse in half
+    * the zaqueph qatan divides a half-verse
+    * In some respects, they are similar to the English period, semi-colon, or comma
+        * In fact, when translating, we will usually want to put a period or comma whenever we see one of these accents
 * In Lesson 3, we briefly mentioned "pausal forms"
-* Pausal forms may change the spelling
+* The above accents may cause Pausal forms, and Pausal Forms may change the spelling
     * A Patach, Seghol, or sheva may change to Qamets
         * Example קָטַל becomes קָטָל
-    * A sheva may changed to a Seghol in the 2ms pronominal suffix (Lesson 19)
+    * A sheva may change to a Seghol in the 2ms pronominal suffix (Lesson 19)
         * סוּסְךָ to סוּסֶ֫ךָ
     * Words that are normally accented on the ultima may undergo an accent shift to the penultima with resulting vowel change, for example אֲנִי can become אָ֫נִי
+
+::: {.box .caution}
+If you see an unexpected vowel, especially a Qamets, look for one of these accents.  You may have encountered a pausal form.
 :::
 
-## Changes for Unit 3: Optional Honors Track: _Hebrew Quest_ Study Passages {-}
+## Changes for Unit III: Optional Honors Track: _Hebrew Quest_ Study Passages {-}
 
 ::: {.infobox .sound}
 <figure>
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.unit3studypassages.m4a">
+        src="./images/12.0.0.5.unit3studypassages.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -399,8 +409,8 @@ function setPlaySpeed25() {
 * We will start off slowly with the verses from the Proverbs study
 * Then we will go in _Hebrew Quest_ order, beginning with Genesis 1 (_Hebrew Quest_ Lesson 17) through 1 Kings 18 (_Hebrew Quest_ Lesson 40)
 * Here is what we want you to do in these Study Passages activities:
-    1. Download or print the applicable study passage document
-    2. Read the passage straight through to gain an overview
+    1. Download the applicable study passage document
+    2. Read and listen the passage straight through to gain an overview
     3. Read again, but this time, compose a translation
         1. First, see how much you can do without a reference
         2. Then, look up any words you don't know in a lexicon
@@ -410,6 +420,7 @@ function setPlaySpeed25() {
         * How did you do?  Can you see how much you are learning?
         * For Tanach passages, [this website](https://scholarsgateway.com/search/WLC-KJV%201611-ESV/Genesis/1:1-5) has information on parts of speech and PGN information when you hover over a word^[As Hebrew is not the official original language of the Apostolic Writings ([or is it?](), there is no equivalent for the Gospel or Revelation passages.)]
     5. Ask what the Spirit of Holiness, the Ruach HaKodesh, is teaching you
+    6. As desired, complete _Hebrew Quest Memrise_(https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"} - this is entirely optional
 
 ## Lessons 13-16 are critical! {-}
 
@@ -418,7 +429,7 @@ function setPlaySpeed25() {
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.unit3critical.m4a">
+        src="./images/12.0.0.6.unit3critical.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -458,9 +469,8 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-::: {.box .caution}
-Lessons 13-16 are critical!
-:::
+> Lessons 13-16 are critical!
+
 
 ```{r, out.width = "400pt", fig.align='center', fig.cap="Jordan River High Water Sign. The sign says 'Level of the Jordan.'  Photo by Chris Flanagan, taken 2/12/2013."}
 
@@ -478,14 +488,14 @@ knitr::include_graphics("images/11b.bethabara.JPG")
 * Take your time - as Izzy says, "slow and steady wins your Hebrew verbal race!", but keep pushing forward
 * We can do this! This is all part of learning God's Holy Language!
 
-## _Hebrew Quest_ Verb Summary Lecture {-}
+## Hebrew Quest Verb Summary Lecture {-}
 
 ::: {.infobox .sound}
 <figure>
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.unit3summary.m4a">
+        src="./images/12.0.0.7.unit3summary.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -533,15 +543,14 @@ Although this three-minute _Hebrew Quest_ lecture comes at the very end of Izzy'
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=3343){target="_blank"}
 
-<figure>
-    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Summary Lecture</figcaption>
+<div class="scc">Audio from _Hebrew Quest_ Lesson 15 Verb Summary Lecture
     <audio
         controls controlsList="nodownload"
-        src="./images/12.unit3HQsummary.m4a">
+        src="./images/12.0.0.8.unit3HQsummary.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
+</div>
 
 Start: 55:43  
 End:  58:32

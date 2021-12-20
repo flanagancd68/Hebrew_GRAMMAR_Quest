@@ -1,7 +1,7 @@
 # The Piel Stem - Weak {.D-w}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.intro.m4a">
+<figure><audio id="myAudio" controls  src="./images/27.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -33,7 +33,7 @@ Before continuing, be sure you are familiar with the diagnostics of the Piel str
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27-16.Psalms100.4.mp3">
+<figure><audio id="myAudio" controls  src="./images/27.0.1-16.Psalms100.4.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -65,7 +65,7 @@ You are nearing the end of your journey! Keep focusing on Him!  Make sure each d
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Golden menorah for The Third Temple in Jerusalem. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("./images/27_Golden menorah for third temple, tb123199206.jpg")
 ``` 
@@ -76,7 +76,7 @@ knitr::include_graphics("./images/27_Golden menorah for third temple, tb12319920
 ## Third Guttural (all variants)
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.1.m4a">
+<figure><audio id="myAudio" controls  src="./images/27.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -90,11 +90,13 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-::: {.box .light}
+
 * All third guttural verbs will change the Stem Vowel
-* In the Piel, we can determine the Stem by the $Pre$ and sufformatives, so we can effectively ignore what happens to the $V_S$
+
+> In the Piel, we can determine the Stem by the $Pre$ and sufformatives, so we can effectively ignore what happens to the $V_S$
+
 * You do not need to memorize the $V_S$ formulas below; just understand that the vowels change with these weak letters
-:::
+
 
 * Strong - $V_S = \bar E[A] \sim \bar E$
 * 3-ע/ח - $V_S = A \sim A$
@@ -110,12 +112,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
 | Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
 
-
-
-## 2-Guttural Reject Sheva
+## Piel 2-Guttural Reject Sheva
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.2.m4a">
+<figure><audio id="myAudio" controls  src="./images/27.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -129,16 +129,17 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Going way back to the very first lessons of Hebrew GRAMMAR Course, we studied the different behavior of Gutturals and Resh
+> Going way back to the very first lessons of Hebrew GRAMMAR Course, we studied the different behavior of Gutturals and Resh
+
 * 2-G verbs will take Hateph vowel instead of Vocal Sheva
 * Whenever you see a Hateph vowel, substitute a Sheva to get back to the Strong paradigm
     * DP3cp - <span class="he">קִטְּלוּ</span> (strong) is <span class="he">נִחֲלוּ</span> 
     * Review Lesson 26 Paradigms for the forms where $V_2 = ə$
 
-## 2G/2ר Reject Dagesh Forte
+## Piel 2G/2ר Reject Dagesh Forte
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.3.m4a">
+<figure><audio id="myAudio" controls  src="./images/27.3.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -152,14 +153,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> 2-ר/א will almost always have Compensatory Lengthening to Tsere in Perfect and Qamets in Imperfect
+
 * As we learned in Lesson 26, the Dagesh Forte in $R_2$ is a key distinctive of the Piel (as well as the Pual and Hitpael) stems
-* 2-G and 2-ר will reject that Dagesh Forte
-    * 2-ר/א will almost always have Compensatory Lengthening
-        * DP2ms, Not <span class="he">בִרַּ֫כְתָּ</span>*, but <span class="he">בֶרַ֫כְתָּ</span> (Hireq + Daghesh lengthens to Tsere and no Daghesh)
-        * DI3ms, Not <span class="he">תְּבַרֵּךְ</span>*, but <span class="he">תְּבָרֵךְ</span> (Patach + Daghesh lengthens to Qamets and no Daghesh) 
-    * 2-ה/ח/ע usually do NOT have compensatory lengthening in Piel
-        * DP3cp - Not <span class="he">נִחֲּמוּ</span>*, but <span class="he">נִחֲמוּ</span>
-        * Often $V_2$ changes, but do not be concerned about this; the Diagnostic Piel $Pre$ (minus the Dagesh Forte) is still intact
+* 2-G and 2-ר will reject that Dagesh Forte and almost always have Compensatory Lengthening
+    * DP2ms, Not <span class="he">בִרַּ֫כְתָּ</span>*, but <span class="he">בֶרַ֫כְתָּ</span> (Hireq + Dagesh lengthens to Tsere and no Dagesh)
+    * DI3ms, Not <span class="he">תְּבַרֵּךְ</span>*, but <span class="he">תְּבָרֵךְ</span> (Patach + Dagesh lengthens to Qamets and no Dagesh) 
+* 2-ה/ח/ע usually do NOT have compensatory lengthening in Piel
+    * DP3cp - Not <span class="he">נִחֲּמוּ</span>*, but <span class="he">נִחֲמוּ</span>
+    * Often $V_2$ changes, but do not be concerned about this; the Diagnostic Piel $Pre$ (minus the Dagesh Forte) is still intact
 
 ::: {.box .caution}  
 Most Piel verbs exhibit either Compensatory Lengthening, or Virtual Doubling (i.e., either all one or all the other).
@@ -167,10 +169,10 @@ Most Piel verbs exhibit either Compensatory Lengthening, or Virtual Doubling (i.
 However, some verbs may exhibit either pattern.
 :::
 
-## 1נ
+## Piel 1נ
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.4.m4a">
+<figure><audio id="myAudio" controls  src="./images/27.4.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -183,6 +185,9 @@ function setPlaySpeed2() {x.playbackRate = 2; x.play();}
 function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
 </script> </figure>
 :::
+
+> The $Pre$ of a 1-nun Piel Perfect verb CAN BE identical to the $Pre$ of a Niphal Perfect verb <span class="he">נְקּ</span>
+
 
 * As we know, what makes a 1-nun verb weak is the tendency to assimilate when the nun has a Sheva
 * $V_1$ is NEVER a Sheva in the Piel^[To "connect the dots", if $V_2$ MUST be a Dagesh Forte, than $V_1$ MUST be a vowel that is not a Sheva.] so 1-Nuns are actually strong in the Piel (meaning there are no spelling changes compared to the Piel Strong Verb Paradigms)
@@ -199,10 +204,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 The good news is that the P3ms $V_S$ are not the same in Piel ($\bar E$) and Niphal ($A$), so the far more common P3ms forms can be differentiated.
 :::
 
-## Biconsonantal and Geminate: the Polel minor stem
+## Piel Biconsonantal and Geminate: the Polel minor stem
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.5.m4a">
+<figure><audio id="myAudio" controls  src="./images/27.5.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -239,14 +244,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-
-
-
-
-## What to Memorize for Piel Weak
+## Piel Weak What to Memorize
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/27.6.m4a">
+<figure><audio id="myAudio" controls  src="./images/27.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -293,7 +294,7 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
     * Result: DI2mp - Finish!
 
 * Word: <span class="he">כִּלּוּ</span>
-    * Use the same detective work as כַּלּוֹ above, only the Hireq+Daghesh now takes us down a Piel Perfect trail
+    * Use the same detective work as כַּלּוֹ above, only the Hireq+Dagesh now takes us down a Piel Perfect trail
     * Result: DP3cp
 
 * Word: <span class="he">שֵׁרְתוּ </span>
@@ -347,7 +348,7 @@ For most weak verbs, the strong diagnostics of the Piel are retained:
 
 Identify, parse, and translate the two Piel verbs in Ruth 1
 
-Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Daghesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
+Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 = I \sim A$ and a Dagesh Forte in $R_2$ that does not represent an assimilated letter in a non-Piel form.
 :::
 
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
@@ -355,21 +356,11 @@ Make sure you can identify the Piel forms by their diagnostic indicators: $V_1 =
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRuth" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRuth");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -417,8 +408,6 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
-
-
 ## Hebrew Quest Study Passages: Psalms 1 and 27 {-}
 
 YOUR _HEBREW QUEST_!
@@ -433,24 +422,20 @@ YOUR _HEBREW QUEST_!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
+<span class="scc">Hebrew Quest Psalms 1 Audio:<audio controls src="./images/27.Psalms1.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
+<span class="scc">Hebrew Quest Psalms 27 Audio:<audio controls src="./images/27.Psalms27.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
 
 
 ### Psalms 1 {-}
 
-::: {.infobox .sound}
-<figure>Psalms 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2601.m4a">
+<span class="scc">Psalms 1 read by Abraham Shmuelof:<audio controls src="./images/t2601.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
+
 
 <span class="he"><p align="right">
 ‬
@@ -470,20 +455,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ### Psalms 27 {-}
 
-::: {.infobox .sound}
-<figure>Psalms 27 read by Abraham Shmuelof:<audio id="myAudio2" controls controlsList="nodownload" src="./images/t2627.m4a">
+<span class="scc">Psalms 27 read by Abraham Shmuelof:<audio controls src="./images/t2627.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio2");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
+
 
 <span class="he"><p align="right">
 ‫ 1   לְדָוִ֨ד ׀ יְהוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי מִמִּ֣י אִירָ֑א יְהוָ֥ה מָֽעוֹז־חַ֝יַּ֗י מִמִּ֥י אֶפְחָֽד׃ ‬

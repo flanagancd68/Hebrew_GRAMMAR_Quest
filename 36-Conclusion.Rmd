@@ -1,4 +1,4 @@
-# Conclusion {-}
+# Conclusion and GRADUATION {-}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/36.intro.m4a">
@@ -17,31 +17,41 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 We would like to take a moment and recap all that you have accomplished in His strength.  Each section will also have tips and references on where you can go next.^[Of note, for Chapter 36, the _Basics of Biblical Hebrew_ textbook discusses several historical and textual matters regarding the Masoretic text and the _Biblia Hebraica Stuttgartensia_, often abbreviated BHS. While interesting, we believe most of this information is beyond what the majority of Holy Language students want or need. We are going to conclude our course with a celebration and recommendations for next steps. If you are interested in the BHS topic, a link to Dr. Beckman's lecture video is included in the `Lesson Extras` section.]
 
-* Vocabulary
-    * _What you have accomplished_: 570 of the most common Biblical Hebrew words committed to memory!
-    * _Where you can go next_: Continue to grow your vocabulary, both by isolated word memorization, such as by learning the top 1000 (or more) Biblical Hebrew words and, of course, by continuing to read your Hebrew Bible.  For word memorization, there are modules on Memrise and Anki that are free (these are not affiliated with Holy Language Institute)
-* Bible Verses
-    * _What you have accomplished_: Translated around 500 Bible verses in Hebrew (many more verses if you did the _Hebrew Quest_ Study Passages), including many grammatically challenging concepts
-    * _Where you can go next_: 
+> Vocabulary 
+
+* _What you have accomplished_: 570 of the most common Biblical Hebrew words committed to memory!
+* _Where you can go next_: Continue to grow your vocabulary, both by isolated word memorization, such as by learning the top 1000 (or more) Biblical Hebrew words and, of course, by continuing to read your Hebrew Bible.  For word memorization, there are modules on Memrise and Anki that are free (these are not affiliated with Holy Language Institute)
+
+> Bible Verses
+
+* _What you have accomplished_: Translated around 500 Bible verses in Hebrew (many more verses if you did the _Hebrew Quest_ Study Passages), including many grammatically challenging concepts
+* _Where you can go next_: 
         * Grab a Tanach and a study guide and dig in!
         * If you haven't already done so, check out Dr. Beckman's lecture on [How to prepare a passage](https://www.youtube.com/watch?v=5v8KvmEtZy0&t=2918s){target="_blank"}
-* Hebrew Quest Study Passages ("Honors" track)
-    * _What you have accomplished_: You have studied 20 distinct passages, most of which were full chapters of the Hebrew Bible or passages from the Delitsch Hebrew New Testament.  You have also completed the 17-lesson "Premium Proverbs" study.
-    * _Where you can go next_:
-        * Complete _Hebrew Quest_ if you have not already done so!
-        * After _Hebrew Quest_, review Izzy's [Hebrew Verses](https://holylanguage.com/verses.html) studies.  Hebrew Verses picks up where Hebrew Quest left off.
-* Ruth Pursuit
-    * _What you have accomplished_: You have skimmed, if not read entirely through, Ruth Chapter one at least 30 times.  The `Ruth Pursuit Analysis` was your introduction to intermediate Hebrew, where you took the first-year grammar concepts and applied them to a passage of Scripture to compose your own translation.
-    * _Where you can go next_: INTERMEDIATE HEBREW!
-        * You can review [Dr. Beckman's Notes on Ruth](./images/00_Ruth_notes.pdf){target="_blank"}
+
+
+> Ruth Pursuit
+
+* _What you have accomplished_: You have skimmed, if not read entirely through, Ruth Chapter one at least 30 times.  The `Ruth Pursuit Analysis` was your introduction to intermediate Hebrew, where you took the first-year grammar concepts and applied them to a passage of Scripture to compose your own translation.
+* _Where you can go next_: INTERMEDIATE HEBREW!
+    * You can review [Dr. Beckman's Notes on Ruth](./images/00_Ruth_notes.pdf){target="_blank"}
     * We can recommend two Intermediate Hebrew books:
         * [A Workbook for Intermediate Hebrew](https://www.amazon.com/gp/product/0825423902/&tag=holylanginst-20){target="_blank"}, by Robert B. Chisholm, Jr., which contains a verse by verse expositional grammar study through the books of Ruth and Jonah
         * The same author has [From Exegesis to Exposition: A Practical Guide to Using Biblical Hebrew](https://www.amazon.com/gp/product/B009UOG4N4/&tag=holylanginst-20){target="_blank"}
 
+> Hebrew Quest Study Passages ("Honors" track) 
 
-### Overall Next steps {-}
+* _What you have accomplished_: You have studied 20 distinct passages, most of which were full chapters of the Hebrew Bible or passages from the Delitsch Hebrew New Testament.  You have also completed the 17-lesson "Premium Proverbs" study.
+* _Where you can go next_:
+
+
+
+* After _Hebrew Quest_, review Izzy's [Hebrew Verses](https://holylanguage.com/verses.html) studies.  Hebrew Verses picks up where Hebrew Quest left off.
+
+> Overall Next steps
 
 * Praise HaShem for the work He is doing in you
+* Complete _Hebrew Quest_ if you have not already done so!
 * Continue with Intermediate Hebrew
 * Volunteer with Holy Language Institute
 * Help someone else learn Hebrew - "pay it forward"
@@ -53,6 +63,8 @@ Izzy Avraham and Chris Flanagan
 
 ## Lesson Extras {-}
 
+In his concluding lesson, Dr. Beckman reviews Hebrew Bibles, major accents and pausal forms, and discusses how to prepare a passage.
+
 * [Dr. Beckman Lecture Video](http://youtu.be/5v8KvmEtZy0){target=“_blank”}
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/36_overheads_bw4.pdf){target=“_blank”}
 
@@ -60,8 +72,11 @@ Izzy Avraham and Chris Flanagan
 
 Once all Anki cards are `Mature`, please complete the attached form to begin the Graduation process and earn your Hebrew GRAMMAR Quest Diploma!      
 
-
-
-<div class="containerLet">
-<iframe class ="responsive-iframe" src="https://forms.gle/eyX82mzkCjoh9oM56" frameborder="0"></iframe>
+[Please open and submit the Graduation Diploma Request form in new window](https://docs.google.com/forms/d/e/1FAIpQLSe3Rfq_rl7XdwFK_pPAJocMbeCRzB8BH5pjwhBA-MUBaF9xdg/viewform){target="_blank"}
 </div>
+
+### Well done! {-}
+
+```{r, out.width = "800pt", fig.align='center'}
+knitr::include_graphics("images/HGQ_book_cover.png")
+```

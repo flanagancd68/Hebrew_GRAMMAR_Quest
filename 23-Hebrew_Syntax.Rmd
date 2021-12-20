@@ -1,7 +1,7 @@
 # Hebrew Syntax {.Syntax}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.intro.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -40,7 +40,7 @@ Before continuing, make sure you have an understanding of the Qal conjugations. 
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.07Ex1811.mp3">
+<figure><audio id="myAudio" controls  src="./images/23.0.1.Ex1811.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -67,7 +67,7 @@ This lesson will provide some overarching tips on interpretation and translation
 
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Statue of Elijah on Mount Carmel. This statue is at the traditional location of Elijah's showdown between our God and the priests of Baal.  At this location, our God proved He was greater than Baal! Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/23..Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg")
 ``` 
@@ -77,7 +77,7 @@ knitr::include_graphics("images/23..Muhraqa statue of Elijah on Mount Carmel, tb
 ## Clause versus Sentence
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.1.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -105,7 +105,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ## Word Order
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.2.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.2.0.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -122,16 +122,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 Normal Hebrew word order is Verb - Subject - Object.  We can abbreviate this V-S-O (of course, in Hebrew, this goes from right-to-left).
 
 * <span class="he">וַיִּזְכֹּר אֱלֹהִים אֶת־נֹחַ </span>  
-    * <figure><figcaption>_And God Remembered Noah (Gen 8:1)_</figcaption> <audio controls controlsList="nodownload" src="./images/23gen0801.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">_And God Remembered Noah (Gen 8:1)_ <audio controls  src="./images/23.2.1.gen0801.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
 * <span class="he">וַיַּחֲלֹם יוֹסֵף חֲלוֹם</span>
-    * <figure><figcaption>_And (Then) Joseph dreamed a dream (Gen 37:5)_</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen3705.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">_And (Then) Joseph dreamed a dream (Gen 37:5)_ <audio controls  src="./images/23.2.2.Gen3705.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
 * <span class="he">וַיִּקְרָא מֹשֶׁה אֶל־כָּל־יִשְׂרָאֵל</span>
-    * <figure><figcaption>_Then (and) Moses summoned all Israel (Deut 5:1)_</figcaption> <audio controls controlsList="nodownload" src="./images/23Deuteronomy0501.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">_Then (and) Moses summoned all Israel (Deut 5:1)_ <audio controls  src="./images/23.2.3.Deuteronomy0501.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     
 Since we say that V-S-O is the "normal" word order, whenever we encounter a clause that is **NOT** V-S-O, we want to take note as to what is going on.  Below is an example of S-V-O used to emphasize the subject, Adonai.
 
 * <span class="he">*יְהוָה* יִמְלֹךְ לְעֹלָם וָעֶד</span>
-     * <figure><figcaption>*Adonai* shall reign forever and ever (Ex 15:18)</figcaption> <audio controls controlsList="nodownload" src="./images/23Ex1518.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>   
+     * <div class="scc">*Adonai* shall reign forever and ever (Ex 15:18) <audio controls  src="./images/23.2.4.Ex1518.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>   
  
 Hebrew also can have O-V-S, particularly in poetry.   
 
@@ -142,7 +142,7 @@ English standard word order is S-V-O, so this is the way we would translate rega
 ## Syntax of the Perfect
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.3.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.3.0.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -158,11 +158,11 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 The Perfect _without_ the <span class="he">ו</span> consecutive is **NOT NORMALLY** the first word in a clause
 
 * <span class="he">אַחַר הַדְּבָרִים הָאֵלֶּה *הָיָה* דְבַר־יְהוָה אֶל־אַבְרָם</span>
-    * <figure><figcaption>After these things, the word of the LORD _CAME_ to Abram (Gen 15:1)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen1501.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">After these things, the word of the LORD _CAME_ to Abram (Gen 15:1) <audio controls  src="./images/23.3.1.Gen1501.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
 * <span class="he">וְהִנֵּה *נָפְלוּ* אֲבוֹתֵינוּ בֶּחָרֶב</span>
-    * <figure><figcaption>For behold, our fathers _FELL_ by the sword (2 Chr 29:9)</figcaption> <audio controls controlsList="nodownload" src="./images/232chr2909.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">For behold, our fathers _FELL_ by the sword (2 Chr 29:9) <audio controls  src="./images/23.3.2.2chr2909.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
 * <span class="he">בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ׃</span>
-    * <figure><figcaption>In the beginning God _CREATED_ the heavens and the earth (Gen 1:1)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen0101.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>  
+    * <div class="scc">In the beginning God _CREATED_ the heavens and the earth (Gen 1:1) <audio controls  src="./images/23.3.3.Gen0101.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>  
     
 However, the Perfect _WITH_ the <span class="he">ו</span> consecutive is **ALWAYS** the first word in a clause
 
@@ -178,7 +178,7 @@ As we remember from Lesson 17, the Perfect conjugation with the Vav is usually t
 ## Syntax of the Imperfect
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.4.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.4.0.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -196,19 +196,19 @@ Like the Perfect, the Imperfect _without_ the <span class="he">ו</span> consecu
 
 
 * <span class="he">יְהוָה *יִמְלֹךְ* לְעֹלָם וָעֶד</span>
-    * <figure><figcaption>Adonai _shall reign_ forever and ever (Ex 15:18)</figcaption> <audio controls controlsList="nodownload" src="./images/23Ex1518.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>  
+    * <div class="scc">Adonai _shall reign_ forever and ever (Ex 15:18) <audio controls  src="./images/23.4.1.Ex1518.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>  
        
 The consecutive Imperfect is the first word in a clause.  This is the most common form in Hebrew narrative.
 
 * <span class="he">*וַיֹּאמֶר* הַנָּחָשׁ אֶל־הָאִשָּׁה</span>
-    * <figure><figcaption>The serpent _said_ to the woman (Gen 3:4)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen0304.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>  
+    * <div class="scc">The serpent _said_ to the woman (Gen 3:4) <audio controls  src="./images/23Gen0304.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>  
     
 A volitional imperfect (Cohortative and Jussive, each without the Vav consecutive) is usually the first word in the clause.
 
 * <span class="he">*נַעֲשֶׂה* אָדָם בְּצַלְמֵנוּ </span>
-    * <figure><figcaption>_Let us make_ man in our image (Gen 1:26)</figcaption> 
-    <!-- <audio controls controlsList="nodownload" src="./images/23Gen0126.mp3"> Your browser does not support the <code>audio</code> element.</audio> -->
-    </figure>
+    * <div class="scc">_Let us make_ man in our image (Gen 1:26) 
+    <!-- <audio controls  src="./images/23Gen0126.mp3"> Your browser does not support the <code>audio</code> element.</audio> -->
+    </div>
 
 ::: {.box .info}
 Note without understanding the significance of word placement, these words all follow the Imperfect paradigm.  The key to accurate translation is word order and whether or not there is the <span class="he">ו</span> consecutive prefix.
@@ -217,7 +217,7 @@ Note without understanding the significance of word placement, these words all f
 ## Syntax of the Volitional
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.5.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.5.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -234,23 +234,23 @@ Hebrew likes to link multiple verbs together. Word order can be a big clue in tr
 
 * Multiple Imperatives (M+M) in succession:
     * <span class="he">*עֲלֵה* *וּקְבֹר* אֶת־אָבִיךָ</span>
-    * <figure><figcaption>_Go up_ and bury your father (Gen 50:6)</figcaption> 
-    <!-- <audio controls controlsList="nodownload" src="./images/23Gen5006.mp3"> Your browser does not support the <code>audio</code> element.</audio> -->
+    * <div class="scc">_Go up_ and bury your father (Gen 50:6) 
+    <!-- <audio controls  src="./images/23Gen5006.mp3"> Your browser does not support the <code>audio</code> element.</audio> -->
     </figure>
         * This verse would be sequential - go up and (then you can) bury your father
         * The context may indicate a consequential translation - do this **so that** something else will happen
 * An Imperative followed by Perfect with Vav Consecutive (M + Pwc)
     * <span class="he">*לֵךְ* *וְאָמַרְתָּ* אֶל־עַבְדִּי</span>
-    * <figure><figcaption>_Go and say_ to my servant (2 Sam 7:5)
+    * <div class="scc">_Go and say_ to my servant (2 Sam 7:5)
     * The perfect verb acts as if it were a second imperative ("Go and say", not "go and you will say")
 * Imperative followed by an Imperfect or Cohortative (M+I or M+C) to create a purpose or result. "So that..."
     * <span class="he"> *רְדוּ*־שָׁמָּה *וְשִׁבְרוּ*־לָנוּ מִשָּׁם *וְנִחְיֶה* </span>
-    * <figure><figcaption>_Go down_ there and *buy grain* for us from there _so that we might live_ (Gen 42:2)
+    * <div class="scc">_Go down_ there and *buy grain* for us from there _so that we might live_ (Gen 42:2)
 
 ## Conditional Phrases
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.6.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -267,7 +267,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 A conditional phrase is made up of two clauses.  You might want to think of this as an "if-then" statement.  The first gives the "if" condition, and the second states the "then" consequence if the condition is met^[The technical term for the first statement is the _protasis_, and the second statement is called the _apodosis_.] 
 
 * <span class="he">וַיֹּאמֶר אֵלֶיהָ בָּרָק *אִם*־תֵּלְכִי עִמִּי *וְהָלָכְתִּי* *וְאִם*־לֹא תֵלְכִי עִמִּי לֹא אֵלֵךְ</span>
-    * <figure><figcaption>Then Barak said to her, "*If* you will go with me, *then I will go*; but *if* you will not go with me, (*then*) I will not go." (Judg 4:8)</figcaption> <audio controls controlsList="nodownload" src="./images/23Judg0408.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">Then Barak said to her, "*If* you will go with me, *then I will go*; but *if* you will not go with me, (*then*) I will not go." (Judg 4:8) <audio controls  src="./images/23Judg0408.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
 
     
 ::: {.box .info}
@@ -280,7 +280,7 @@ A conditional phrase is made up of two clauses.  You might want to think of this
 ## Disjunctive Vav
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.7.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.7.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -300,23 +300,23 @@ When a Vav is prefixed to a non-verb, it is called a _DISjunctive_ Vav.  As the 
 
 * Parenthetical use: <span class="he">וְהֵם</span>
     * <span class="he">*וְהֵם* לֹא יָדְעוּ כִּי שֹׁמֵעַ יוֹסֵף כִּי הַמֵּלִיץ בֵּינֹתָם</span>
-    * <figure><figcaption>_(Now) They_ did not know, however, that Joseph understood, for there was an interpreter between them (Gen 42:23)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen4223.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">_(Now) They_ did not know, however, that Joseph understood, for there was an interpreter between them (Gen 42:23) <audio controls  src="./images/23Gen4223.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     * A parenthetical comment to explain why Joseph's brothers believed they could speak freely
 
 * Circumstantial use: <span class="he">וְאֵין</span>
     * <span class="he">וַיְהִי כְּהַיּוֹם הַזֶּה וַיָּבֹא הַבַּיְתָה לַעֲשׂוֹת מְלַאכְתּוֹ *וְאֵין* אִישׁ מֵאַנְשֵׁי הַבַּיִת שָׁם בַּבָּיִת</span>
-    * <figure><figcaption>Now it happened one day that he went into the house to do his work, *and none* of the men of the household was there inside (Gen 39:11)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen3911.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">Now it happened one day that he went into the house to do his work, *and none* of the men of the household was there inside (Gen 39:11) <audio controls  src="./images/23Gen3911.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     * Here we have a break in the narrative, in this case, to provide vital information to set up the circumstances of the attempted seduction and subsequent imprisonment of Joseph
 
 * Contrastive use: <span class="he">וְאֶל</span>
     * <span class="he">וַיִּשַׁע יְהוָה אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ׃  *וְאֶל*־קַיִן וְאֶל־מִנְחָתוֹ לֹא שָׁעָה</span>
-    * <figure><figcaption>And Adonai had regard for Abel and for his offering; *but for* Cain and for his offering He had no regard (Gen 4:4b-5a)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen040405.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">And Adonai had regard for Abel and for his offering; *but for* Cain and for his offering He had no regard (Gen 4:4b-5a) <audio controls  src="./images/23Gen040405.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     * Often translated "but"
     * This contrasts Adonai's reponse to the two men's offerings
 
 * Introductory use: <span class="he">וְהַנָּחָשׁ</span>
     * <span class="he">*וְהַנָּחָשׁ* הָיָה עָרוּם מִכֹּל חַיַּת הַשָּׂדֶה אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים</span>
-    * <figure><figcaption>_Now the serpent_ was more crafty than any beast of the field which the LORD God had made (Gen 3:1)</figcaption> <audio controls controlsList="nodownload" src="./images/23Gen0301.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">_Now the serpent_ was more crafty than any beast of the field which the LORD God had made (Gen 3:1) <audio controls  src="./images/23Gen0301.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     * A new theme or idea; sometimes an entirely new narrative
     * In this example, we move from the creation narrative to the temptation narrative
     
@@ -329,7 +329,7 @@ As you read, when you see a ו attached to a non-verb, pay attention!  The autho
 
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/23.8.m4a">
+<figure><audio id="myAudio" controls  src="./images/23.8.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -344,16 +344,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * <span class="he">*עַתָּה* יָדַעְתִּי כִּי־יְרֵא אֱלֹהִים אַתָּה</span>
-    * <figure><figcaption>_Now_ I know that you fear God (Gen 22:12)</figcaption> <audio controls controlsList="nodownload" src="./images/23gen2212.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">_Now_ I know that you fear God (Gen 22:12) <audio controls  src="./images/23gen2212.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     * Adverb of Time: <span class="he">עַתָּה</span>
 * <span class="he">*וַיָּשֶׂם* שָׁם אֶת־הָאָדָם אֲשֶׁר יָצָר</span>
-    * <figure><figcaption>*and there *He placed the man whom He had formed (Gen 2:8)</figcaption> <audio controls controlsList="nodownload" src="./images/23gen0208.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">*and there *He placed the man whom He had formed (Gen 2:8) <audio controls  src="./images/23gen0208.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     * Adverb of Place: <span class="he">שָׁם</span>
 * <span class="he">עֵינַי *תָּמִיד* אֶל־יְהוָה</span>
-    * <figure><figcaption>My eyes are *continually* toward the LORD (Ps 25:15)</figcaption> <audio controls controlsList="nodownload" src="./images/23psa2515.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">My eyes are *continually* toward the LORD (Ps 25:15) <audio controls  src="./images/23psa2515.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     * Adverb of Degree: <span class="he">תָּמִיד</span>
 * <span class="he">וַיָּבֹא אֲלֵיהֶם יְהוֹשֻׁעַ *פִּתְאֹם*</span>
-    * <figure><figcaption>So Joshua came upon them *suddenly* (Josh 10:9)</figcaption> <audio controls controlsList="nodownload" src="./images/23Josh1009.mp3"> Your browser does not support the <code>audio</code> element.</audio></figure>
+    * <div class="scc">So Joshua came upon them *suddenly* (Josh 10:9) <audio controls  src="./images/23Josh1009.mp3"> Your browser does not support the <code>audio</code> element.</audio></div>
     * Adverb of Manner: <span class="he">פִּתְאֹם</span>
 
 ::: {.box .info}
@@ -388,6 +388,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ::: {.box .map} 
 
 There is no formal quest for this lesson but consider the following points based on the material in Lesson 23^[These concepts are contained in the book, [_A Workbook for Intermediate Hebrew: Grammar, Exegesis, and Commentary on Jonah and Ruth_](https://www.amazon.com/gp/product/0825423902/&tag=holylanginst-20), by Robert B. Chisolm] :
+:::
 
 * Note the Disjunctive Vav in Ruth 1:2.  Note how the main narrative does not continue but pauses to let us know the names of the people involved.  This is providing supplemental background information. 
 * The Conjunctive Vav in Ruth 1:7 serves to begin a more detailed, focused narrative account of Naomi's return
@@ -400,54 +401,60 @@ There is no formal quest for this lesson but consider the following points based
     * Also, note in 1:21 the Disjunctive Vav clauses, "And Adonai" followed by "And Shaddai."  Chisholm notes that the use may be "semi-poetic": "Adonai has testified about me; Shaddai has afflicted me"^[ibid. p. 133].
 * Finally, the Iwc in 1:22 begins a summarizing, concluding statement bringing the "first act" of the drama to a close.
 
-:::
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
+
+
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
 ‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
 ‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
 ‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
 ‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
 ‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
 ‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
 ‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
 ‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
 ‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
 ‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
 ‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
 ‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
 ‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
 ‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
 ‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
 ‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
 ‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
 ‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
 ‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
 ‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
-
-
-
-
-
 
 ## Claim your Unit 3 Completion Certificate! {-}
 
@@ -456,7 +463,7 @@ If you have completed **all activities** in Lessons 1-23, you may claim the thir
 [Open Certificate form in a new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
 
 <div class="containerLet">
-<iframe class ="responsive-iframe" src="https://forms.gle/hkHMebEtNi61waidA" frameborder="0"></iframe>
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScdEsX4EGwUy6EtlZsqJK49W1kfZCu0eyBD-fcJOVbzr5750w/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 ## Hebrew Quest Study Passage: Psalm 19 {-}
@@ -473,22 +480,15 @@ YOUR _HEBREW QUEST_!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
+<div class="scc">Hebrew Quest Psalms 19 Audio:<audio controls src="./images/23.Psalms19.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
+
 ### Psalms 19 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2619.m4a">
+<div class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t2619.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
 
 <span class="he"><p align="right">
 

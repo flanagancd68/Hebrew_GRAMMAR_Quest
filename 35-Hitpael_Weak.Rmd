@@ -1,7 +1,7 @@
 # The Hitpael Stem - Weak {.Ht-w}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -38,7 +38,7 @@ Before continuing, be sure you can identify the Hitpael preformatives in all con
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35-4.Micah1.4.mp3">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.0.1-4.Micah1.4.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -62,7 +62,7 @@ Our prayer at Holy Language Institute is that you have drawn closer to HaShem th
 The Hebrew Quest Study Passage for this Lesson is Elijah's story on Mount Carmel in 1 Kings 18. HaShem did precisely that. May we always be reminded that we do all things through Yeshua, who gives us strength.
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Muhraqa statue of Elijah on Mount Carmel (1 Kings 18). Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb011400103.jpg")
 ``` 
@@ -70,7 +70,7 @@ knitr::include_graphics("images/35.Muhraqa statue of Elijah on Mount Carmel, tb0
 
 
 
-## $R_2$ can lose Daghesh Forte
+## Hitpael $R_2$ can lose Dagesh Forte
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.1.m4a">
@@ -88,15 +88,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * By now, you are very familiar with this concept
-* The Hitpael verb MAY lose the Daghesh Forte if  $R_2$ is SQiN eM LeVY consonant with a Sheva
-* The Hitpael verb WILL lose the Daghesh Forte if $R_2$ is Guttural or Resh
+* The Hitpael verb MAY lose the Dagesh Forte if  $R_2$ is SQiN eM LeVY consonant with a Sheva
+* The Hitpael verb WILL lose the Dagesh Forte if $R_2$ is Guttural or Resh
     * With ע, ה,  and ח there is usually no compensatory lengthening
     * With א and ר $V_1$ will lengthen from Patach to Qamets
         * <span class="he">הִתְבָּרֵךְ</span> tDP3ms of ברך, "he blessed himself"
 * Review the Piel lessons if you need a refresher on any of these concepts.
 
 
-## Transposition of ת and $R_1$ when $R_1$ is sibilant
+## Hitpael Transposition of ת and $R_1$ when $R_1$ is sibilant
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.2.m4a">
@@ -126,7 +126,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * <span class="he">הִשְׂתַּכֵּר</span> - he earned wages for (hired) himself^[BBH mentions that there are three times n the Bible when $R_1$ = <span class="he">צ</span>, not only will the <span class="he">ת</span> switch places, it will change to <span class="he">ט</span>.]
 
 
-## Preformative תְ assimilates when $R_1$ is ז ד ט ת,
+## Hitpael Preformative תְ assimilates when $R_1$ is ז ד ט ת,
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/35.3.m4a">
@@ -143,8 +143,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* If $R_1$ is ז ד ט ת (i.e., the "dental" letters) the ת of the Hithpael preformative will assimilate into $R_1$ and remain as a Daghesh Forte
-* This can present a potential ambiguity with Niphal; however, note $V_1$ is _QAMETS_ in Niphal compared to _PATACH_ in Hitpael, and $R_2$ will have a Daghesh Forte in Hitpael:
+* If $R_1$ is ז ד ט ת (i.e., the "dental" letters) the ת of the Hithpael preformative will assimilate into $R_1$ and remain as a Dagesh Forte
+* This can present a potential ambiguity with Niphal; however, note $V_1$ is _QAMETS_ in Niphal compared to _PATACH_ in Hitpael, and $R_2$ will have a Dagesh Forte in Hitpael:
     * <span class="he">הִדַּבֵּר</span> - tDP3ms
     * <span class="he">הִדָּבֵר</span> -NM2ms 
 
@@ -193,7 +193,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* There is one verb that is so important it gets it's own stem
+> There is one verb that is so important it gets it's own stem
+
 * The verb is <span class="he">חָוָה </span>, and the stem's name is Hishtapel
 *  <span class="he">חָוָה </span> occurs 173 times in the Bible, only in Hishtapel
 *  <span class="he">חוה</span> means: to prostrate oneself in worship (as to God, or another deity) or submission (as to a king)
@@ -222,7 +223,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 7. <span class="he">הלל</span> - (D) to praise, sing hallelujah; (tD) boast (23x)
 8. <span class="he">טהר</span> - (Q) to be clean, be pure; (tD) purify or cleanse oneself (20x)
 9. <span class="he">יחשֹ</span> - (tD) to be enrolled in a genealogical list; (tD∞ as noun) genealogy (20x)
-10 <span class="he">אבל</span> - (Q) to mourn, lament; (tD) observe mourning rites (19x)
+10. <span class="he">אבל</span> - (Q) to mourn, lament; (tD) observe mourning rites (19x)
 
 
 
@@ -248,20 +249,6 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Ruth Pursuit {-}        
 
-::: {.infobox .sound}
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
 
 ::: {.box .map}
 YOUR QUEST
@@ -274,21 +261,11 @@ Identify the lone Hitpael verb in Ruth 1 (which you may have already done in a p
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -336,7 +313,6 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
-
 ## Hebrew Quest Study Passage: 1 Kings 18 {-}
 
 
@@ -352,22 +328,16 @@ YOUR _HEBREW QUEST_!
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
 
+<span class="scc">Hebrew Quest 1 Kings 18 Audio:<audio controls src="./images/35.1Kings18.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
 ### 1 Kings 18 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t09a18.mp3">
+<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t09a18.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
+
 
 <span class="he"><p align="right">
 

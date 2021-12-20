@@ -1,7 +1,7 @@
 # Qal Infinitive Construct {.Qinfinitive}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -15,7 +15,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-Infinitive constructs are verbal nouns.
+> Infinitive constructs are verbal nouns.
 
 There is a unique aspect that makes identifying and parsing the ∞^[If you ever have a need to generate the infinity symbol on a desktop computer, ∞, make sure the `Num Lock` is on (and use the numbers on the keypad layout, not the ones on the top row), hold down the `Alt` key and type `236`, then let go of the `Alt` key. On a phone, you can often type `infinity` and the ∞ symbol will appear.] super easy (but you'll have to read on!)
 
@@ -32,7 +32,7 @@ __LESSON ITINERARY__
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20-6.Deut 8.6.mp3">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.0.1-6.Deut 8.6.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -58,12 +58,12 @@ Ponder these things as you work through this Lesson and the study passage.
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Western Wall plaza and Dome of the Rock with snow.  The Temple Mount,  specifically the rock enshrined by Islam's Dome of the Rock, is the traditional location of Abraham's near-sacrifice of Isaac described in Genesis 22.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/20_Western Wall plaza and Dome of the Rock with snow, tb022503204.jpg")
 ``` 
 
-## _Hebrew Quest_ Qal Infinitves Lecture
+## _Hebrew Quest_ Qal Infinitives Lecture
 
 
 ::: {.infobox .sound}
@@ -124,9 +124,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> The Infinitives do NOT inflect for person, number, or gender
+
 * Infinitive Construct - Parsing Code: ∞
 * Infinitive Absolute (Lesson 21) - Parsing Code: A
-* The Infinitives do NOT inflect for person, number, or gender
 * Parsing is straightforward - Stem + Conjugation
     * Q∞
     * QA (Lesson 21)
@@ -153,15 +154,49 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* For most verbs: <span class="he">קְטֹל</span>
-    * 1G reduces as expected: <span class="he">אֱמֹר</span>
-    * 3ח/ע can take a furtive patach, which is ignored when parsing: <span class="he">שְׁלֹחַ</span>
+> For the Q∞, $Pre =$ <span class="he">קְ</span>, and $V_S=\bar O$, just like QM2ms
+
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/18.QM2ms.gif")
+``` 
+
+* 1G reduces as expected: <span class="he">אֱמֹר</span>
+* 3ח/ע can take a furtive patach, which is ignored when parsing: <span class="he">שְׁלֹחַ</span>
 
 ::: {.box .info}
 "uh-oh" is the sound a Q∞ (or QM2ms) strong verb makes
 :::
 
-## 3ה Endings
+<!-- Section moved from 20.7 to new 20.4 11/2021 -->
+
+## Q∞ often is identical to QM2ms
+
+::: {.infobox .sound}
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.4.0.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> As one is finite and the other is non-finite, the context should be obvious as to whether one person is giving a command to another person
+
+* Some verbs that lose the Imperfect $V_S = O$ in the QM, RETAIN $V_S = O$ in the Q∞
+* 3ה verbs have different word-final ה vowels as mentioned previously
+* Volitional verbs sometimes followed by <span=class="he">נָה</span>; if you see this appended to the verb, it's not a Q∞
+
+<!-- Section changed from 20.4 to new 20.5 and so forth 11/2021 -->
+
+## Q∞ 3ה Endings
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.4.m4a">
@@ -179,9 +214,12 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * As expected, when a 3ה verb has no sufformative, a vowel is added
-* For the ∞, this ending is <span class="he">וֹת</span>
-    * The <span class="he">וֹת</span> remains when a pronominal suffix is added
-    * Note: in this use, <span class="he">וֹת</span> is not the FP ending - it would be incorrect to say "Q∞fp." ∞ verbs are never inflected for person, gender, or number
+
+> For the ∞, this ending is <span class="he">וֹת</span>
+
+* The <span class="he">וֹת</span> remains when a pronominal suffix is added
+    * Note: in this use, <span class="he">וֹת</span> is not the FP ending - 
+    * It would be incorrect to say *"Q∞fp." ∞ verbs are never inflected for person, gender, or number
 * Remember, ∞ verbs never inflect, so there will never be a sufformative; in other words, all 3ה ∞ verbs will have the <span class="he">וֹת</span> ending
 * We can continue building our 3ה ending table:
 
@@ -192,8 +230,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | M | <span class="he">בְּנֵה</span> | Tsere+Hei
 | ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
 
-::: {.box .light}
-Memorize the 3ה endings as they will make parsing easier
+
+::: {.box .map}
+Update the 3ה ∞ cell of your `Stem Comparison Worksheet` now!
 :::
 
 ::: {.box .caution}
@@ -203,7 +242,7 @@ LOOK-ALIKE WORDS
 * <span class="he">בְּנוֹת</span> is reduced and means "to build, building"
 :::
 
-## 1י and 1נ Spelling
+## Q∞ 1י and 1נ Spelling
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.5.m4a">
@@ -220,9 +259,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Usually, but not always, drop the 1-yod/nun
-* When dropped, add a final <span class="he">ת</span>, and change the vowels so that it looks like a Segholate noun
+> The ∞ usually, but not always, drops the 1-yod/nun
 
+* When dropped, add a final <span class="he">ת</span>, and change the vowels so that it looks like a Segholate noun
 * <span class="he">הלך</span> as always thinks it's a 1-yod
 
 | Root | Keep | Drop
@@ -238,7 +277,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 Memorize <span class="he">תֵּת</span> as Q∞ of <span class="he">נתן</span>
 :::
 
-## Biconsonantal
+## Q∞ Biconsonantal
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.6.m4a">
@@ -255,35 +294,18 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* An easy one, as long as you've memorized your vocab!
-* The Q∞ of biconsonantal verbs is simply the lexical form
-    * <span class="he">שׁוּב</span>
-    * <span class="he">מוּת</span>
-    * <span class="he">בּוֹא</span>
-    * <span class="he">בּוֹשׁ</span>
-    * <span class="he">דִּין</span>
-    * <span class="he">בִּין</span>
 
-## Q∞ often is identical to QM2ms
+> The Q∞ of biconsonantal verbs is simply the lexical form
 
-::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/20.7.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+* <span class="he">שׁוּב</span>
+* <span class="he">מוּת</span>
+* <span class="he">בּוֹא</span>
+* <span class="he">בּוֹשׁ</span>
+* <span class="he">דִּין</span>
+* <span class="he">בִּין</span>
 
-* As one is finite and the other is non-finite, the context should be obvious as to whether one person is giving a command to another person
-* Some verbs that lose the Imperfect $V_S = O$ in the QM, RETAIN $V_S = O$ in the Q∞
-* 3ה verbs have different word-final ה vowels as mentioned previously
+<!-- Old Section 20.7 moved to new 20.4 11/2021 -->
+
 
 ## ∞ take Type 1 Pronominal Suffixes
 
@@ -302,10 +324,11 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Q∞ and QM2ms with pronominal suffix are usually the same
+> Q∞ and QM2ms with pronominal suffix are usually the same
+
 * Both shift vowels with $V_1 \ = O$ (Qamets Hatuf) when there is a pronominal suffix
 * Nun-type suffixes ONLY occur with imperfects and imperatives
-
+* Context is the key
 
 | No suffix | With Suffix
 | :- | :-
@@ -340,14 +363,13 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> This is the best news in the entire lesson! Identifying and parsing the ∞ is usually straightforward.
+
 * There are 6595 ∞ in the Bible
     * Only 896 (13.6%) do _not_ have a prefixed preposition
     * 68% have <span class="he">ל</span>
-
-::: {.box .info}
-Since only ∞ and Participle can have a prefixed preposition, identifying and parsing the ∞ is usually easy!
-:::
-
+* Finite verbs and QA NEVER take a prefixed preposition
+* Participles can but they have different spelling
 
 ## Meaning of ∞
 
@@ -366,14 +388,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Often used as a verbal noun - "to hear" or "hearing"
-    * In English, "to hear", "to speak", or "to be" are examples of "infinitive" verbs.
+> Often used as a verbal noun - "to hear" or "hearing"
+
+* In English, "to hear", "to speak", or "to be" are examples of "infinitive" verbs.
 * ∞ plus prefix <span class="he">ל</span> 
-    * Try "to x" or "by x-ing"
-    * Sometimes indicates purpose or result: IN ORDER TO SEE the nakedness of the land = <span class="he">לִרְאוֹת</span> 
-    * Something imminent: The sun was ABOUT TO SET = <span class="he">לָבוֹא</span>
-    * Verbal noun: It is good TO PRAISE Adonai = <span class="he">לְהֹדוֹת</span>
-    * Verbal Noun: Obey BY WALKING in His ways = <span class="he">לָלֶכֶת</span>
+    * Try "to x", "x-ing", or "by x-ing" (where x is the verb in question)
+    * It is good TO PRAISE Adonai = <span class="he">לְהֹדוֹת</span>
+    * Obey BY WALKING in His ways = <span class="he">לָלֶכֶת</span>
+* Sometimes indicates purpose or result: IN ORDER TO SEE the nakedness of the land = <span class="he">לִרְאוֹת</span> 
+* Something imminent: The sun was ABOUT TO SET = <span class="he">לָבוֹא</span>
 * ∞ plus prefix <span class="he">ב</span> or <span class="he">כ</span> is often temporal
     * Often included with <span class="he">וַיְהִי</span> or <span class="he">וְהָיָה</span>
     * Past time: WHEN Israel DWELT = <span class="he">וַיְהִי בִּשְׁכֹּן יִשְֹרָאֵל</span>
@@ -396,8 +419,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> <span class="he">בִּלְתִּי </span> and <span class="he">לְבִלְתִּי</span> are used to negate an infinitive
+
 * The negative particles <span class="he">אַל </span> and <span class="he">לֹא </span> are not used to negate the ∞
-* <span class="he">בִּלְתִּי </span> and <span class="he">לְבִלְתִּי</span> are used
 * There is no difference in meaning between the two words, but <span class="he">לְבִלְתִּי</span>  is more frequent
 * Not to do all my commandments (Lev 26:15) = <span class="he">לְבִלְתִּי עֲשׂוֹת אֶת־כָּל־מִצְוֺתַי</span>
 
@@ -425,10 +449,12 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ::: {.box .map} 
 YOUR QUEST
 
-1. Identify, parse, and translate the eleven Q∞
-    * Identify pronominal suffixes in the parsing when present
-    * All but two of these have prepositional prefixes
-2. Identify the Lesson 20 vocabulary word that negates an Infinitive (blue)
+Identify, parse, and translate the eleven Q∞
+
+* Identify the three pronominal suffixes in the parsing when present (hint^[these all occur after verse 15])
+* One of these is negated (hint^[look for one of the negating terms discussed in this lesson])
+* All but two of these (excluding the negated form) have prepositional prefixes (hint^[verses 1 and 19])
+
 :::
 
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
@@ -436,50 +462,57 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-
-::: {.infobox .sound}
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRuth" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRuth");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
 
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
 ‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
 ‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
 ‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
 ‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
 ‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
 ‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
 ‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
 ‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
 ‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
 ‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
 ‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
 ‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
 ‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
 ‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
 ‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
 ‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
 ‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
 ‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
 ‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
 ‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
-
-
-
 
 ## Hebrew Quest Study Passage: Genesis 22:1-19 {-}
 
@@ -496,23 +529,16 @@ YOUR _HEBREW QUEST_!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
+<span class="scc">Hebrew Quest Genesis 22 Audio:<audio controls src="./images/20.Genesis22.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
 
 ### Genesis 22:1-19 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0122.m4a">
+<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0122.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
+
 
 <span class="he"><p align="right">
 

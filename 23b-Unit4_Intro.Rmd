@@ -3,7 +3,7 @@
 # Introduction to Unit IV {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.0.0.0.Unit4.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -18,21 +18,21 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 ::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 1)](./images/HGQ_Anki_Unit4_V01.0.apkg){target="_blank"} if you haven't already done so
+Remember to download [Hebrew GRAMMAR Quest Unit IV Anki Deck (version 1)](./images/HGQ_Anki_Unit4_V01.0.apkg){target="_blank"} if you haven't already done so
 :::
 
 Congratulations!  You now have the hardest work of a first-year Hebrew grammar course behind you.  From here on out, we will be studying the six major derived Hebrew Verb stems Niphal, Piel, Pual, Hiphil, Hophal, and Hitpael.
 
-The reason we spent so much time on the Qal stem is not only because it's the most frequently occurring stem, but everything from this point forward is based on what you learned in Unit 3.  This means, for the most part, the lessons that follow will be shorter and much more methodical.
+The reason we spent so much time on the Qal stem is not only because it's the most frequently occurring stem, but everything from this point forward is based on what you learned in Unit III.  This means, for the most part, the lessons that follow will be shorter and much more methodical.
 
-If you remember our introduction to Unit 3, we drew the comparison to a math formula.  If we know $a^2 + b^2 = c^2$, we do not need to memorize the dimensions of every triangle (assuming that were possible).  Instead, we can take the metaphorical triangle in front of us and use the formula to get what we need.  In Unit 3, you learned all the formulas.  All Unit 4 is going to do is present you with triangles of different sizes.  
+If you remember our introduction to Unit III, we drew the comparison to a math formula.  If we know $a^2 + b^2 = c^2$, we do not need to memorize the dimensions of every triangle (assuming that were possible).  Instead, we can take the metaphorical triangle in front of us and use the formula to get what we need.  In Unit III, you learned all the formulas.  Unit IV will merely present you with "triangles" of different sizes.  
 
 Summaries of each of the derived stems will consist of the overall diagnostic features.  It is THESE features that should be memorized, not the numerous paradigms.
 
-## Structure of Unit 4: Lessons 24-35 {-}
+## Structure of Unit IV: Lessons 24-35 {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.structure.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.0.0.1.Unit4.structure.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -46,13 +46,12 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* You will note that 12 lessons remain in the course
-    * Lesson 36 is a wrap-up
-* Each of the six derived stems will have two lessons: 
+> 12 lessons remain in the course (Lesson 36 is a wrap-up); two for each of the six derived stems
+
 * The first (even number) will cover the "Strong" Verb paradigm
     * The meaning of the stem
     * The spelling of the stem
-        * Word-initial Prefix/Preformative combinations
+        * $Pre$ sequence - the word-initial Prefix/Preformative and $V_1$ vowel combinations
         * $V_S$ formulas to help you "diagnose" the stem when you encounter it in the Bible
     * Complete forms of each conjugation using the קטל paradigm verb
         * The Perfect and Imperfect forms will have the Audio from Chapter 15 of _Hebrew Quest_
@@ -60,15 +59,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
         * Each lesson will have a worksheet for you to practice the paradigm
         * As we have said, __identification of patterns is more important than memorization of paradigms__
 * The second (odd number) will address weak verb deviations
-    * The b-side will cover spelling changes  caused by the behaviors of gutturals and other weak letters, Geminate verbs, Biconsonantal verbs, and other irregular verbs
+    * The "b-side" will cover spelling changes  caused by the behaviors of gutturals and other weak letters, Geminate verbs, Biconsonantal verbs, and other irregular verbs
     * Most of the time, you will already know the concepts
         * For example, in some forms of the Niphal Strong paradigm, $R_1$ takes a Dagesh Forte
         * You already know that if $R_1$ is a guttural or Resh, $R_1$ will reject the Dagesh Forte and often (but not always), there will be Compensatory Lengthening
         
+
 ## Ruth Pursuits {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.ruth.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.0.0.2.Unit4.ruth.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -82,7 +82,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-There are only a handful of non-Qal verbs in Ruth 1, so you will only see the `Ruth Pursuit` activities in the following Lessons:
+> There are only a handful of non-Qal verbs in Ruth 1
+
+You will only see the `Ruth Pursuit` activities in the following Lessons:
 
 * Lesson 25 - Niphal
 * Lesson 27 - Piel
@@ -102,7 +104,7 @@ In Lesson 26, we will start to do a `Ruth Pursuit Analysis`.
 ## Stem Vowel Pattern Nomenclature {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/Unit4.stem.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/24.0.0.3.Unit4.stem.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -116,8 +118,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* The derived stems tend to be much more consistent with their application of stem vowels
-* We will use the code we introduced at the end of Unit 3 to memorize the stem vowels for non-Qal Strong verbs - our thanks to Dr. Beckman for this innovation in Hebrew learning
+> The derived stems tend to be much more consistent with their application of stem vowels
+
+* We will use the code we introduced at the end of Unit III to memorize the stem vowels for non-Qal Strong verbs - our thanks to Dr. Beckman for this innovation in Hebrew learning
 * For example, the stem vowel code for Niphal is 
 
 $$V_{S} = A \sim \bar E (A)$$
@@ -141,4 +144,8 @@ $$V_{S} = A \sim \bar E (A)$$
 knitr::include_graphics("images/23b.stemvowelformula.png")
 ``` 
 
+
+::: {.box .map}
+After each stem, complete the applicable column on your `Stem Comparison Worksheet`
+:::
         

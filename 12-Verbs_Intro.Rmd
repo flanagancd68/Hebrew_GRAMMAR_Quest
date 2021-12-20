@@ -5,7 +5,7 @@
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/12.intro.m4a">
+        src="./images/12.0.0.intro.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -83,7 +83,7 @@ Have you read the `Introduction to Unit III`?
 <audio
         id="myAudio"
         controls controlsList="nodownload"
- src="./images/12.04.1ki1904.mp3">
+ src="./images/12.0.1.1ki1904.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -146,8 +146,8 @@ knitr::include_graphics("images/13-Acacia tree in Red Canyon, tb030101203.jpg")
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" 
-src="./images/12.1.m4a"> 
+<audio id="myAudio" controls 
+src="./images/12.1.1.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function setPlaySpeed05() { 
@@ -180,14 +180,7 @@ hfu4gjNo2K4?start=2344&end=2846&rel=0&showinfo=0&autohide=1&autoplay=1" framebor
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hfu4gjNo2K4?start=2344){target="_blank"}
-<figure>
-    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Introduction Lecture</figcaption>
-    <audio
-        controls src="./images/12.1.1.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
     
 Start: 39:04
 End: 47:26
@@ -247,16 +240,16 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> <span class="he">קטל</span> is meant to represent the three-letter root of _ANY_ "strong" verb^[we'll discuss strong and weak verbs later in this Lesson].
+> The actual translation of <span class="he">קטל</span> is not material for our purposes
+
 * As Izzy mentions in the video we just watched, Hebrew grammars for the past several centuries have used the verb <span class="he">קטל</span> as what is called the "paradigm verb"
-* <span class="he">קטל</span> is meant to represent _ANY_ "strong" verb (we'll discuss strong and weak verbs later in this Lesson)
 * What makes <span class="he">קטל</span> awkward is the word means "to kill"
-* As we go through this course, remember that the actual translation of <span class="he">קטל</span> is not material to our purposes
-* In this respect, it is similar to a math formula
+* Think of <span class="he">קטל</span> as being like a math formula
     * In $a^2 + b^2 = c^2$, the letters "a", "b", and "c" have no direct, literal meaning
     * In the Pythagorean formula above, "a", "b", and "c" are meant to represent the lengths of the three sides of a right triangle
-* We encourage you to think of <span class="he">קטל</span> the same way
-    * The letters <span class="he">.ק.ט.ל</span> are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
-    * Also, like Izzy says, we can always think of <span class="he">קטל</span> as "killing" sin, bad habits, or things that can interfere in our relationship with the Holy One
+    * In the same way, the letters <span class="he">.ק.ט.ל</span> are just variable or placeholder letters that are part of a formula with a larger purpose than the direct, literal meaning
+* Also, like Izzy says, we can always think of <span class="he">קטל</span> as "killing" sin, bad habits, or things that can interfere in our relationship with the Holy One
     
 ## The Verbal Root
 
@@ -305,8 +298,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* A _Root_ is the set of consonants on which a verb (and often nouns) are based
-* The majority of verbs have three _root consonants_ from which the other words are derived.
+> A _Root_ is the set of consonants on which a verb (and often nouns) are based
+
+* The majority of verbs have three _root consonants_ from which the other words are derived
 * Consider the root <span class="he">מלך</span>; the graphic below lists just a few of the nouns and verbs that derive from this single root
 
 ```{r, out.width = "700pt", fig.align='center'}
@@ -364,11 +358,11 @@ function setPlaySpeed25() {
 * Back in Lesson 4, we discussed the difference between "inflecting" and "parsing"
 * Inflecting is when we take a verb root such as <span class="he">מלך</span> and transform it by adding vowels, prefixes or suffixes to generate a specific form with a unique meaning
     * For example, if you were told to inflect <span class="he">מלך</span> into Qal Perfect first-person, common singular (QP1cs), you would provide "<span class="he">מָלַכְתִּי</span>"
-* As we said back in Lesson 4, no part of reading the Hebrew Bible requires you to inflect
+* As we said back in Lesson 4, no part of reading the Hebrew Bible requires you to inflect, so we keep inflecting activities to a minimum
 * Parsing can be thought of as going in the reverse direction
     * Say you encounter a verb such as "<span class="he">מָלַכְתִּי</span>"
     * In time, you will be able to determine that <span class="he">מָלַכְתִּי</span> is the QP1cs form of <span class="he">מלך</span>, and means "I ruled" or "I was king"
-* To accurately translate the Hebrew you read in Scripture, you **will** be doing a lot of parsing
+* To accurately translate the Hebrew you read in Scripture, we **will** be doing a lot of parsing
 
 ## Person, Gender, Number
 
@@ -417,17 +411,17 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* The inflected person, gender, and number refer to the _subject_ of the verb
-    * Pronominal suffixes are used to denote the object of the verb.  We will study these in Lesson 19
+> The inflected person, gender, and number refer to the _subject_ of the verb^[There is one exception. Pronominal suffixes are used to denote the object of the verb.  We will study these in Lesson 19]
+
 * Person, Gender, and Number for verbs are the same as for nouns
-    * Gender
-        * Male, female, or common
-        * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e., there is not a masculine form of "I" and a separate feminine form of "I")
-    * Person
-        * 1st person is the speaker - "I/we sat"
-        * 2nd person is the person being spoken to - "you sat"
-        * 3rd person is anyone (or any_thing_) else - "he/she/it/they sat"
-    * Number is either singular or plural - there are no dual verb forms
+* Gender
+    * Male, female, or common
+    * "Common" gender is for verb forms that could be either M or F; In Hebrew, as in English, the words for "I" and "we" are Common (i.e., there is not a masculine form of "I" and a separate feminine form of "I")
+* Person
+    * 1st person is the speaker - "I/we sat"
+    * 2nd person is the person being spoken to - "you sat"
+    * 3rd person is anyone (or any_thing_) else - "he/she/it/they sat"
+* Number is either singular or plural - there are no dual verb forms
     
 ::: {.box .info}
 When parsing, it is standard to use parsing code "3ms" to mean "third person, masculine, singular."
@@ -480,13 +474,19 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-*  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$^[Older Hebrew grammars, including "Essentials of Biblical Hebrew" available in the holylanguage.com resource library, refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb <span class="he">פעל</span>. ].
+>  As a convention, many Hebrew grammars label the three root letters $R_1$, $R_2$, and $R_3$^[Older Hebrew grammars, including "Essentials of Biblical Hebrew" may refer to these as "Pe", "Ayin" and "Lamed" positions, from the verb <span class="he">פעל</span>. ]
+
 * For the verb <span class="he">מָלַכְתִּי</span> (I was king):
     * The _root_ is <span class="he">מלך</span> (no vowels)
         * $R_1$ = <span class="he">מ</span>
         * $R_2$ = <span class="he">ל</span>
         * $R_3$ = <span class="he">ך / כ</span>
-
+* For our paradigm verb, <span class="he">קָטַל</span>
+    * The _root_ is <span class="he">קטל</span> (no vowels)
+        * $R_1$ = <span class="he">ק</span>
+        * $R_2$ = <span class="he">ט</span>
+        * $R_3$ = <span class="he">ל</span>
+        
 ## Lexical Form for Verbs
 
 ::: {.infobox .sound}
@@ -534,9 +534,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Also important to know is the _Lexical Form_ 
-* The _lexical form_ is how you would locate the word in a dictionary
-* As Izzy discussed in the introductory video, the lexical/dictionary form for verbs is almost always the Qal Perfect 3rd Person Masculine Singular.
+> The _lexical form_ is how you would locate the word in a dictionary
+
+* As Izzy discussed in the introductory video, the lexical/dictionary form for verbs is almost always the Qal Perfect 3rd Person Masculine Singular^[Biconsonantal verbs are exceptions]
 * For the verb <span class="he">מָלַכְתִּי</span> (I was king):
     * The _root_ is <span class="he">מלך</span> (no vowels)
     * The _lexical form_ is <span class="he">מָלַךְ</span> (take the _root_ and inflect it as QP3ms form)
@@ -588,29 +588,28 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* While many dictionaries would consider "preformative" synonymous with "prefix" and "sufformative" synonymous with "suffix", Hebrew grammars often use the terms "preformative" and "sufformative" exclusively for verbs
+> Hebrew grammars often use the terms "preformative" and "sufformative" exclusively for verbs, and they are distinct from "prefixes" and "suffixes"
+
 * A verbal _preformative_ (if any) goes before $R_1$ and a _sufformative_ (if any) goes after $R_3$
     * A sufformative can also be referred to as an _afformative_ 
 * Any _prefix_ such as the interrogative particle, or (commonly) the conjunction vav, goes _before_ the preformative, or before $R_1$ if there is no preformative
 * Any _suffix_, such as a pronominal suffix, goes _after_ any sufformative, or the final root consonant
-* For the verb <span class="he">קָטַ֫לְתִּי</span>
-    * The sufformative is <span class="he">תִּי</span> 
-    * There is no preformative 
-    * There is no prefix or suffix
-* For the verb <span class="he">יִקְטְלוּ</span>
-    * The preformative is <span class="he">יִ </span>
-    * The sufformative is <span class="he"> וּ</span>
-    * There is no prefix or suffix
-* For the verb <span class="he">יִקְטְל֫וּהָ</span>
-    * The preformative is <span class="he">יִ</span>
-    * The sufformative is <span class="he">וּ</span>
-    * The pronominal suffix is <span class="he">הָ</span>
-* The **root** for all three words is <span class="he">מלך</span>, or sometimes styled <span class="he">מ.ל.ך.</span>
-* The **lexical form** for all three is <span class="he">מָלַך</span>, which in this case, is the QP3ms of מלך
+
+| | <span class="he">קָטַ֫לְתִּי</span>  | <span class="he">וַיִּקְטְלוּ</span> |<span class="he">יִקְטְלוּנוּ</span>
+| :- | -: | -: | -:
+| Prefix | None | <span class="he">וַ</span> | None
+| Preformative | None | <span class="he">יִ </span> | <span class="he">יִ </span>
+| Sufformative | <span class="he">תִּי</span> | <span class="he"> וּ</span>| <span class="he"> וּ</span> | 
+| Suffix | None | None | <span class="he">נוּ</span>
+| Parsing code | QP1cs | QIwc3mp | QI3mp + 1cp
+| Meaning | I killed | And they killed^[This is a special feature of the Imperfect Waw (Vav) Consecutive, Iwc; the Imperfect verb is given a Perfect meaning. See Lesson 17] | They will kill us
+
+* The **root** for all three words is <span class="he">קטל</span>^[Some grammars style the root as: <span class="he">.ק.ט.ל</span>]
+* The **lexical form** for all three is <span class="he">קָטַל</span>, which in this case, is the QP3ms of <span class="he">קטל</span>
 
 ::: {.box .map}
 
-On your quest to translate verbs, identifying preformatives and sufformatives on verbs is the key to accurate parsing.
+On your quest to translate verbs, identifying preformatives and sufformatives in order to identify the root is the key to accurate parsing.
 
 :::
 
@@ -661,8 +660,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Identifying a verbal vowel's position is necessary to determine the Verbal Root and the Stem
-* Similar to our shorthand for the root consonants, we use $V_P$ (the vowel with the prefix or preformative immediately before $R_1$), $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the _stem_ vowel
+> Identifying a verbal vowel's position is necessary to determine the Verbal Root and the Stem
+
+* We use $V_P$ (a vowel with preformative immediately before $R_1$), $V_1$ and $V_2$ - the vowels with $R_1$ and $R_2$, and $V_S$, which is what is called the _stem_ vowel
     * The $V_S$ vowel is usually the same as the $V_2$ vowel, but can be the $V_1$ vowel in certain situations
     * The vowel associated with $R_3$ turns out to be less important, so we do not need to identify this
 * For the verb <span class="he">יִקְטְל֫וּהָ</span>
@@ -682,7 +682,7 @@ function setPlaySpeed25() {
 <figure>
 <audio
         id="myAudio"
-        controls controlsList="nodownload"
+        controls 
         src="./images/12.10.m4a">
             Your browser does not support the
             <code>audio</code> element.
@@ -730,21 +730,21 @@ View this 8-minute overview video from _Hebrew Quest_ where Izzy summarizes the 
 </div>
 
 [Click to open video in a new tab](https://youtu.be/hWmwyosdP-s?t=827){target="_blank"}
-<figure>
-    <figcaption>Audio from _Hebrew Quest_ Lesson 15 Verb Stems Lecture</figcaption>
+
+<div class="scc">Audio from _Hebrew Quest_ Lesson 15 Verb Stems Lecture:
     <audio
         controls src="./images/12.10.1.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
+</div>
 
 Start: 13:47  
 End: 21:08
 
 In English, using the verb "To Love":
 
-| |Active Voice| Passive Voice | Reflexive Voice
+| |Active | Passive  | Reflexive 
 |:- |:- |:- |:-
 Simple Action	| To Love | To Be Loved | To Love Oneself
 Cause a State	| To Love Passionately | To Be Loved Passionately | To Cause Oneself To Be Loved Passionately
@@ -798,69 +798,31 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* The verb __stem__ affects the meaning of the verb itself
-* At a basic level, the stem provides the _type of action_ (simple, causative, intensive) and the _voice_ (active or passive)
-* The _Qal_ stem is the basic or simple verb stem.  All other stems are derived from Qal
+> The verb __stem__ indicates the meaning of the verb itself and guides our translation
 
-1. _Qal_ - Active (versus passive) voice and a simple type of action (without nuance) - “he broke the vase”
-    * Parsing code: Q
-2. _Niphal_ - Passive or reflexive voice with a simple action - “the vase was broken”
-    * Interestingly in English, many translations of Niphal verbs are still active voice
-    * For example, a fair translation of "he was seen" might be "he appeared"
-    * Parsing code: N
-3. _Piel_ - Active/Cause a state (or intensive^[Whether Piel is "intensive" is a matter of debate among Hebrew scholars.] - “he shattered the vase”
-    * Parsing code: D (the Piel paradigm has a Daghesh Forte in $R_2$ - the D stands for "doubling Daghesh")
-4. _Pual_ - Passive/Cause a state (or intensive) - “the vase was shattered”
-    * Parsing code: Dp (passive of the Piel (D))
-5. _Hiphil_ - Active/Cause an action - “he caused the vase to be broken”
-    * Parsing code: H
-6. _Hophal_ - Passive/Cause an action - “the vase was caused to be broken”
-    * Parsing code: Hp (passive of the Hiphil (H))
-7. _Hitpael_ - Reflexive/Cause a state (or intensive) - “he caused himself to be holy"
-    * Parsing code: tD (very similar to Piel (D) and has a ת in every preformative form)
+* At a basic level, the stem provides the _type of action_ and the _voice_ 
+    * The table provides a good starting place, but it is not the "final word" on verb stems^[In particular, it has often been thought that Piel indicates an "intensive" action. Modern scholarship has cast some doubt on this. "Causing a state", perhaps iteratively (doing something over and over, which might be a form of intensity) appears to be more precise description of Piel, and is preferred by scholars such as Dr. Beckman.]
+    * Note that Hebrew verbs can have any one of several nuanced meanings depending on the context
+    * We will discuss these nuances as we introduce each stem
 
-We'll explain the "Parsing codes" in a few sections 
-
-
-
-## The Seven Stems: Summary Table
-
-::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" 
-src="./images/12.12.m4a"> 
-Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play();} 
-</script></figure>
-:::
-
-* There is scholarly debate about the table below
-* Hebrew verbs can have any one of several nuanced meanings depending on the context
-* The table provides a good starting place, but it is not the "final word" on verb stems
-* We will discuss these nuances as we introduce each stem
-    
-| |Active Voice| Passive Voice | Reflexive Voice
+| |Active | Passive  | Reflexive 
 |:- |:- |:- |:-
-Simple Action	| Qal | Niphal | (Niphal)
-Cause a State	| Piel | Pual | Hitpael
-Cause an Action	|Hiphil | Hophal
+Simple Action	| QAL-Q | Niphal-N | (Niphal)
+Cause a State	| Piel-D | Pual-Dp | Hitpael-tD
+Cause an Action	|Hiphil-H | Hophal-Hp
+
+
+* The _QAL_ stem is the basic or simple verb stem.  All other stems are derived from Qal
+* The Parsing Code for the Qal is "Q". we'll explain the "Parsing codes" in a few sections 
+* Now review the table from the previous section once again to see how the verb stems relate to translations
+
+| |Active | Passive  | Reflexive 
+|:- |:- |:- |:-
+Simple Action	| To Love | To Be Loved | To Love Oneself
+Cause a State	| To Love Passionately | To Be Loved Passionately | To Cause Oneself To Be Loved Passionately
+Cause an Action	| To Cause to Love | To Be Caused to Love
+
+<!-- 12.12 combined with 12.11 12/2021 -->
 
 
 ## Conjugation Introduction
@@ -890,12 +852,13 @@ function setPlaySpeed25() {
      x.play();} 
 </script></figure>
 :::
-* While the stem provides the overall meaning, the _conjugation_ provides additional descriptive information needed for translation
+> While the stem provides the overall meaning, the _conjugation_ provides additional descriptive information needed for translation
+
 * Strictly speaking, Hebrew does not have past, present, future, tense, as with English
     * Instead, the easiest way of thinking about it is that Hebrew has complete vs. incomplete action
     * Perfect is completed action
     * Imperfect is incomplete action
-* Like English, Hebrew also has command (called Imperative), Volitional (called Cohortative and Jussive), Infinitive, and Participle conjugations
+* Like English, Hebrew also has Imperative (Volitional), Infinitive, and Participle conjugations
 
 
 ## The Eight Basic Conjugations
@@ -928,7 +891,7 @@ function setPlaySpeed25() {
 
 ::: {.box .map}
 * At this stage of your quest, you are getting hit with a lot of new concept and terms
-* Remember the lesson points are where you get introduced to the material; the activities are where you will learn the material
+* Remember the lesson points are where you get INTRODUCED to the material; the activities are where you will LEARN the material
 * Be patient and soak it in
 :::
 
@@ -960,10 +923,7 @@ function setPlaySpeed25() {
 
 Vav prefix
 
-* Some grammars identify three other forms, each with a Vav prefix, as additional conjugations/tenses:
-    * Perfect + Vav
-    * Imperfect + Vav
-    * Imperfect Vav Consecutive 
+* Some grammars identify other forms, each with a Vav prefix, as additional conjugations/tenses, such as the "Perfect + Vav" and the "Imperfect Vav Consecutive" (sometimes called "Vav Conversive")
 * We will discuss these forms further in Lesson 17
 
 :::
@@ -996,10 +956,10 @@ function setPlaySpeed25() {
 </script></figure>
 :::
 
-* _FINITE_ verbs have "person"
-    * Perfect, Imperfect, Imperative, Cohortative, Jussive
-* _NON-FINITE_ verbs do NOT have "person"
-    * Infinitive Construct, Infinitive Absolute, and Participle
+> _FINITE_ verbs have "person" -  _NON-FINITE_ verbs do NOT have "person"
+
+* Perfect, Imperfect, Imperative, Cohortative, Jussive are FINITE conjugations
+* Infinitive Construct, Infinitive Absolute, and Participle are NON-FINITE conjugations
     * Only Participles have Gender and Number
 
 
@@ -1148,8 +1108,9 @@ function setPlaySpeed25() {
 </script></figure>
 :::
 
-* Weak verbs will have one or more weak letters that result in some deviation from the **strong verb paradigm**
-    * For example the first video by Izzy, he mentioned how the <span class="he">נ</span> in <span class="he">נתן</span> can disappear in certain forms
+> Weak verbs will have one or more weak letters that result in some deviation from the strong verb paradigm
+
+* For example the "Verbs Introduction" video by Izzy, he mentioned how the <span class="he">נ</span> in <span class="he">נתן</span> can disappear in certain forms
     * This is because <span class="he">נ</span> is a weak letter
     * In Units I and II, we have already learned unique characteristics of many weak letters
         * Gutturals reject Vocal Sheva and Dagesh Forte (there may or may not be compensatory lengthening)
@@ -1191,20 +1152,23 @@ function setPlaySpeed25() {
 </script></figure>
 :::
 
-* We classify weak verbs by their problem letter
-    * **3נ**, "third Nun," means that $R_3$ is <span class="he">נ</span>, as in <span class="he">זקן</span>
-    * **3ת**, "third Tav," means that $R_3$ is <span class="he">ת</span>, as in <span class="he">ברת</span>
-    * **1G**, "first guttural," means that $R_1$ is a guttural, as in <span class="he">אמר</span>
-    * **2G**, "second guttural," means that $R_2$ is a guttural, as in <span class="he">בחר</span>
-    * We can't simply say "3G" for any $R_3$ guttural because it turns out that <span class="he">א</span> and <span class="he">ה</span> each behave differently
-        * **3עח**, "third Chet/Ayin," means that $R_3$ is <span class="he">ע</span> or <span class="he">ח</span>, as in <span class="he">מנע</span> <span class="he">לקח</span>
-        * **3א**, "third Aleph," means that $R_3$ is <span class="he">א</span>, as in <span class="he">מצא</span>
-        * **3ה**, "third Hei," means that $R_3$ is the vowel Qamets+Hei, as in <span class="he">בנה</span>
-    * **Geminate** - $R_2$ = $R_3$ <span class="he">סבב</span>
-    * **Biconsonantal** (also called Hollow) - $R_2$ is a vowel letter <span class="he">בוֹא</span> <span class="he">שִֹים</span> <span class="he">קוּם</span>
-        * Biconsonantal verbs are the exception to Lexical form = QP3ms - we'll discuss in Section 14.13
-    * **Doubly Weak** is any combination of two (or three) weak letters, as in <span class="he">עַלָה</span>, which is a combination of **1G** and **3ה**
-        * It is possible for all three root consonants to be weak, but we still call this class "Doubly Weak" (not "triply weak")
+> We classify weak verbs by their problem letter
+ 
+* **3נ**, "third Nun," means that $R_3$ is <span class="he">נ</span>, as in <span class="he">זקן</span>
+* **3ת**, "third Tav," means that $R_3$ is <span class="he">ת</span>, as in <span class="he">ברת</span>
+* **1G**, "first guttural," means that $R_1$ is a guttural, as in <span class="he">אמר</span>
+* **2G**, "second guttural," means that $R_2$ is a guttural, as in <span class="he">בחר</span>
+* We can't simply say "3G" for any $R_3$ guttural because it turns out that <span class="he">א</span> and <span class="he">ה</span> each behave differently
+    * Early in the course, we mentioned <span class="he">ר</span> is our "sometimes" guttural because it rejects the Dagesh Forte but accepts Vocal Sheva
+    * Verbs with $R_1$ or $R_2$ of <span class="he">ר</span> will be included in 1G or 2G weak verbs when that Stem requires a Dagesh Forte
+* **3עח**, "third Chet/Ayin," means that $R_3$ is <span class="he">ע</span> or <span class="he">ח</span>, as in <span class="he">מנע</span> <span class="he">לקח</span>
+* **3א**, "third Aleph," means that $R_3$ is <span class="he">א</span>, as in <span class="he">מצא</span>
+* **3ה**, "third Hei," means that $R_3$ is the vowel Qamets+Hei, as in <span class="he">בנה</span>
+* **Geminate** - $R_2$ = $R_3$ <span class="he">סבב</span>
+* **Biconsonantal** (also called Hollow) - $R_2$ is a vowel letter <span class="he">בוֹא</span> <span class="he">שִֹים</span> <span class="he">קוּם</span>
+    * Biconsonantal verbs are the exception to Lexical form = QP3ms
+* **Doubly Weak** is any combination of two (or three) weak letters, as in <span class="he">עַלָה</span>, which is a combination of **1G** and **3ה**
+    * It is possible for all three root consonants to be weak, but we still call this class "Doubly Weak" (not "triply weak")
     
 
 ## Weak Verbs Are Usually Predictable
@@ -1292,7 +1256,7 @@ function setPlaySpeed25() {
 Don't be afraid of math!  Math will be your partner in learning Hebrew verbs!
 :::
 
-## Introduction to Stem Comparison Table
+## Lesson 12 Conclusion
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" 
@@ -1320,8 +1284,15 @@ function setPlaySpeed25() {
 </script></figure>
 :::
 
-* As we move through the course, we will build a table to compare verb stems
-* At the end of the course, your table will look like this:
+* This was a lot of information to be sure
+    * For the most part, this was simply the introduction - "student, meet Hebrew Verb"
+    * As we said earlier, just absorb as much as you can for now
+    * You will get to know each other much better in the subsequent lessons
+
+> As we move through the course, we will complete a worksheet to compare verb stems
+
+* By the end of the course, your table will look similar to this
+
 
 ```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
@@ -1329,6 +1300,7 @@ include_graphics("images/34_stemcomp.png")
 ```
 
 * The marks in RED are the distinctive $Pre$ patterns for the strong verbs in that stem/conjugation
+    * Notice how each $Pre$ is unique!  This is your key to unlocking Hebrew Verbs!
 * The vowels in BLUE and the "formula" in the last column are the $V_S$ patterns for that stem/conjugation
     * You can note that for the Qal stem, the perfect has a stem vowel of Patach, this is represented by the $A$ on the left side of the $V_S$ formula
     * The imperfect has a stem vowel of Holem.  The is the $\bar O$ on the right side
@@ -1339,6 +1311,7 @@ include_graphics("images/34_stemcomp.png")
 
 That's enough for this introduction to Hebrew verbs.  Let's get to the exercises!
 
+Again, we strongly encourage you to undertake the "Honors Track" portion of Hebrew GRAMMAR Quest: The _Hebrew Quest_ study passages!
 :::
 
 
@@ -1391,54 +1364,63 @@ Find the following miscellaneous words:
 
 ### Ruth 1 {-}
 
-
-::: {.infobox .sound}
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRuth" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRuth");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
 
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
 ‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
 ‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
 ‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
 ‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
 ‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
 ‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
 ‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
 ‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
 ‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
 ‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
 ‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
 ‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
 ‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
 ‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
 ‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
 ‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
 ‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
 ‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
 ‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
 ‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
-
 
 ## Honors Track: Hebrew Quest Study Passage - Proverbs Studies #1-4 {-}
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" 
-src="./images/12.hqsp.m4a"> 
+src="./images/12.24.hqsp.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button><button onclick="setPlaySpeed05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function setPlaySpeed05() { 
@@ -1487,6 +1469,18 @@ Important: read the passage and compose a translation on your own __BEFORE__ wat
 | *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
 | *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
 
+<span class="scc">Hebrew Quest Proverbs 1 Audio:<audio controls src="./images/12.Proverbs1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</span>
+
+<span class="scc">Hebrew Quest Proverbs 2 Audio:<audio controls controlsList="nodownload" src="./images/12.Proverbs2.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+<span class="scc">Hebrew Quest Proverbs 3 Audio:<audio controls  src="./images/12.Proverbs3.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+<span class="scc">Hebrew Quest Proverbs 4 Audio:<audio controls src="./images/12.Proverbs4.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ### Proverbs Sessions 1-4 {-}
 
@@ -1502,7 +1496,7 @@ Important: read the passage and compose a translation on your own __BEFORE__ wat
 .בְּנִי תּוֹרָתִי אַל-תִּשְׁכָּח וּמִצְו‍ֹתַי יִצֹּר לִבֶּךָ כִּי אֹרֶךְ יָמִים וּשְׁנוֹת חַיִּים    וְשָׁלוֹם יוֹסִיפוּ לָךְ  
  (3:1-2)
 
-חֶסֶד וֶאֱמֶת אַל-יַעַזְבֻך. קָשְׁרֵם עַל-גַּרְגְּרוֹתֶיךָ כָּתְבֵם עַל-לוּחַ לִבֶּךָ. וּמְצָא-חֵן וְשֵׂכֶל-טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם.
+חֶסֶד וֶאֱמֶת אַל-יַעַזְבֻךָ. קָשְׁרֵם עַל-גַּרְגְּרוֹתֶיךָ כָּתְבֵם עַל-לוּחַ לִבֶּךָ. וּמְצָא-חֵן וְשֵׂכֶל-טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם.
  (3:3-4)
 
 בְּטַח אֶל-יְהוָה בְּכָל-לִבֶּךָ וְאֶל-בִּינָתְךָ אַל-תִּשָּׁעֵן. בְּכָל-דְּרָכֶיךָ דָעֵהוּ וְהוּא יְיַשֵּׁר אֹרְחֹתֶיך
@@ -1561,7 +1555,6 @@ Important: read the passage and compose a translation on your own __BEFORE__ wat
 * [Dr. Beckman Lecture Notes](https://hebrewsyntax.org/bbh2new/12_overheads_bw.pdf){target="_blank"}
 * [BBH Lesson Summary](http://hebrew.billmounce.com/BasicsBiblicalHebrew-12.pdf){target=“_blank”}
 * [BBH Study Verses PDF](http://hebrew.billmounce.com/Biblical_examples_12.pdf){target=“_blank”}
-    * [Lesson Study Verses Parsing/Translation Worksheet](https://docs.google.com/document/d/1NTcFPigxid8nZUUBmfWjttf2azn0Yg-JfQAD33jbuoU/copy){target="_blank"}
 * Additional Drills/Worksheets 
     * [Quiz a](https://hebrewsyntax.org/bbh2new/12_quiz_new.pdf){target="_blank"}
     * [Quiz b](https://hebrewsyntax.org/bbh2new/12_quiz_practice.pdf){target="_blank"}

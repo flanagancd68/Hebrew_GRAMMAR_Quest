@@ -2,7 +2,7 @@
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.getstarted.m4a"> 
+src="./images/00.10getstarted.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -29,29 +29,23 @@ function x25() {
 
 ::: {.box .stop}
 You may be tempted to skip over this section so you can get right into Lesson 1.  RESIST this urge!
+:::
 
 * If you were going on a strenuous hike, at some point you would have to make sure you had the right shoes!
 * Consider this section as your trip to the store to get the right equipment _before_ you begin your quest!
-:::
 
-::: {.box .light}
-The Hebrew GRAMMAR Quest Guidebook is where you will get _introduced_ to the material.  Anki (along with the other activities) is where you will ___LEARN___ the material
+### Getting Started Step-by-step {-}
 
-* As you work through this course, set aside time to review Anki on a DAILY basis
-  * If one wants to build strength and endurance, it's essential to use the right machines
-  * Anki is a free^[All platforms are free, except for the iOS app, which costs $25. The developers use the proceeds to fund future development.  Most reviews say the cost is worth it if you have Apple devices and use Anki regularly.] flashcard application that helps you build both Hebrew strength and Hebrew endurance!
-
-:::
-
-The table below shows the steps necessary to get properly fitted before you begin your quest.  They should take about 10 or 15 minutes depending on your internet speed.  Please do these steps from a desktop computer (not a mobile device) for best results.
+The table below shows the steps necessary to get properly fitted before you begin your quest.  Getting set-up should take about 10 or 15 minutes.
 
 ::: {.box .caution}
 Failure to follow these steps could lead to Anki frustration!
+
+Please do these steps from a desktop computer (not a mobile device) for best results.
 :::
 
 
-
-| Step | Comments | Link to How-to Video
+| Step | Comments | How-to Video link
 | :-- | :-- | :--
 |1. If needed, get a Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course. Creating a Google account is free. | [YouTube: Step 1](https://youtu.be/MvDQTpuFKgI){target="_blank"}
 |2. Copy the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} to your personal Google Drive Folder | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`! | [YouTube: Step 2](https://youtu.be/Aby8Th13hHU){target="_blank"}
@@ -59,7 +53,8 @@ Failure to follow these steps could lead to Anki frustration!
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](https://youtu.be/lBKbLFw3Ouo){target="_blank"}
 5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | On the website, click the `Download` button, then select the tab with your operating system^[The Anki version numbers will change with the passage of time.  Unless instructed otherwise, download the current version of the Anki desktop program on their website].  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}
 6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone. After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
-|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now.  Then you can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit. | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} | 
+|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now. | You can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit | For those new to Anki, here is an [Anki Orientation deck](./images/Hebrew Grammar Quest_Intro_deck.apkg){target="_blank"}.  You may delete this deck when finished.
+| | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 1)](./images/HGQ_Anki_Unit3_V01.0.apkg){target="_blank"} |
 | | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 1)](./images/HGQ_Anki_Unit4_V01.0.apkg){target="_blank"} |
@@ -70,13 +65,15 @@ Failure to follow these steps could lead to Anki frustration!
 10. To use an `Anki` _mobile_ app, click on `Sync` and click `download from Ankiweb` | Should you go back and forth between mobile and desktop, make sure you `Sync` each time | [YouTube: Step 10](https://youtu.be/rfKKzKX-CNg){target="_blank"}
 11. Know that you can [get help or give feedback](#get_help) |
 12. As desired, read the [About this Course FAQs](#about_this_course) in the appendix |
- 
+13. Optional: you might want a three-ring binder to store your course materials | The course features several handwritten worksheets and activities which you will print out and complete.  A few of the worksheets are designed to be completed over a series of lessons.  You may wish to save the hard-copies in a binder |
+
+
 
 ## Customize Anki Settings {- #anki_settings}
 
 ::: {.infobox .sound}
-<figure> Note: this is the audio from the step 7 "how to" video on the previous page: <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.ankisettings.mp3"> 
+<figure> Note: this is the audio from the step 7 "how to" video on the previous page: <audio id="myAudio" controls
+src="./images/00.11ankisettings.mp3"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -98,6 +95,7 @@ function x25() {
     x.playbackRate = 2.5;
      x.play(); } 
 </script></figure>
+
 :::
 
 ::: {.box .info}
@@ -160,9 +158,50 @@ Anki Add-ons
 * Another useful add-on is [More Overview Stats](https://ankiweb.net/shared/info/738807903)
   * This displays your `Young` vs `Mature` cards on the deck's dashboard - see picture ^[1st column is number of cards.  2nd column is percentage of cards.  3rd column is percentage of cards excluding `Suspended` cards (for the `Unit Certificate` your screenshot must reflect 0 suspended cards).]
   * Add-on number: `738807903`
+* You will need to restart `Anki` for the add-ons to take effect
 :::
 
 ```{r, out.width = "500pt", fig.align='center', fig.cap="More Overview Stats"}
 knitr::include_graphics("images/00.anki_more_stats.png")
 ```
+
+## Hebrew GRAMMAR Quest Checklist {-}
+
+> The Hebrew GRAMMAR Quest Checklist^[The checklist is a Google sheets file that you copied to your personal Drive during the Getting Started set-up.  If you haven't already done so, save a copy of the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} to your personal Google Drive Folder now!] is your coach to help keep you on track to finished the Quest!
+
+
+The file contains the following tabs:
+
+| Tab | Description | Instructions
+| :- | :- | :- 
+| Getting Started | Same information as the Getting Started Step-by-step page | Check off each step as you complete it
+| 1. Foundations | Contains the activities for Unit I: Lessons 1-3 | Check off each step as you complete it
+| 2. Nouns, etc | Checklist for Unit II activities (Lessons 4-11)
+| 3. Qal    | Checklist for Unit III activities (Lessons 12-23)
+| 4. Derived | Checklist for Unit IV activities (Lessons 23-35)
+| Certificate Instructions | The Anki requirements for the `12 Tribes Badges` and the `Unit Completion Certificates` are different | To request your certificate, follow the instructions to upload a screenshot showing all Anki cards are `Mature`
+| Ruth 1 Translation | In Unit IV, you will begin to compose your own paraphrase translation of Ruth chapter 1.  You will use the `Ruth Pursuit Translation Worksheet` to assist you. | As you complete each `Ruth Pursuit`, locate each identified word in column C and write your translation in column D.  The answer keys will contain notes and other information, so you may want to make a note of the lesson # in column E and any personal notes in column F.  In column H, there is also the Hebrew text of Ruth 1
+| Badges | This is an electronic "sticker book" to collect your `12 Tribes Badges`.  As you finish every two or three lessons, there will be a form to submit for a badge. | When you receive the badge via email, download the badge and copy the image.  Select the applicable square on the Badges tab, and Paste the image.
+
+
+
+## Navigating through the "Fog" {-}
+
+Before we get started, we wanted to share this concept of the "Fog."  This is a term coined by Dr. Bill Mounce, author of _Basics of Biblical Greek_.  
+
+> "Fog" describes the feeling that you aren't making any progress in learning a Biblical language when you actually are making TREMENDOUS progress!
+
+Mounce states, "The fog means you will have read a chapter and think you understand it—and perhaps you do—but it will seem foggy. That’s okay. If living in the fog becomes discouraging, look two chapters back and you should understand that chapter clearly. In two more chapters the presently foggy chapter will be clear, assuming you keep studying."
+
+At times, you can expect Foggy conditions on your quest.  Here is an article on the subject you may find encouraging: [Conquering the Fog](./images/00_Fog_Article.pdf){target="_blank"}.  
+
+::: {.box .light}
+Navigating the Fog
+
+* Review a chapter, do the activities, then try the `Anki` flashcard work
+* If `Anki` is proving difficult, go back and review the chapter then try Anki again
+* Take a break and get some fresh air
+* If you find you need more detail, you can check out the full-length lectures and the additional quizzes/worksheets provided by Dr. Beckman.  You can find a link to these on the `Lesson Extras` pages at the end of each chapter
+
+:::
 

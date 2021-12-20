@@ -1,7 +1,7 @@
 # The Hophal Stem - Strong {.Hp-s}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -34,7 +34,7 @@ Before continuing, make sure you understand the meaning of the Hiphil stem
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32-8.1Samuel 25.15.mp3">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.0.1-8.1Samuel 25.15.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -57,12 +57,10 @@ The _Hebrew Quest_ Study Passage for this lesson is David and Goliath from 1st S
 HaShem had these details recorded for a reason. Through our study of Hebrew, we can connect with these great stories in a more intimate way.  Praise Him for that!
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Elah brook with students picking smooth stones. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/32-Elah brook with students picking smooth stones, tbs75039303.jpg")
 ``` 
-
-
 
 
 ## Hophal Verb Stem Table
@@ -170,9 +168,28 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Hophal Perfect Strong Paradigm
 
-* The standard Perfect sufformatives
-* $V_S = A$
-* $V_P$ is variable between Qibbuts and Qamets Hatuf.  Only the O-class is listed below and in the audio. 
+::: {.infobox .sound}
+<figure>Hophal Perfect from _Hebrew Quest_<audio id="myAudio" controls controlsList="nodownload" src="./images/32.4-Hp-perfect-strong.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> $V_S = A$
+> $V_P$ is variable between Qibbuts and Qamets Hatuf.  Only the O-class is listed below and in the audio. 
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/32.HpP3ms.gif")
+``` 
 
 
 | Sing | Paradigm | Plural | Paradigm
@@ -183,22 +200,33 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 2fs | <span class="he">הָקְטַלְתְּ</span> | 2fp | </span><span class="he">
 | 1cs | <span class="he">הָקְטַ֫לְתִּי</span> | 1cp | <span class="he">הָקְטַ֫לְנוּ</span>
 
-<figure>
-    <figcaption>Hophal Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/32-Hp-perfect-strong.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 
 ## Hophal Imperfect Strong Paradigm
 
-* The standard Imperfect preformatives and sufformatives
-* $V_S = A$
-* $V_P$ is variable between Qibbuts and Qamets Hatuf.  Only the O-class is listed below and in the audio. 
+::: {.infobox .sound}
+<figure>Hophal Imperfect from _Hebrew Quest_<audio id="myAudio" controls controlsList="nodownload" src="./images/32.5-Hp-imperfect-strong.mp3">
+Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> $V_S = A$
+> $V_P$ is variable between Qibbuts and Qamets Hatuf.  Only the O-class is listed below and in the audio. 
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/32.HpI3ms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -208,23 +236,18 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 2fs | <span class="he">תָּקְטְלִי</span> | 2fp | <span class="he">תָּקְטַ֫לְנָה</span>
 | 1cs | <span class="he">אָקְטַל</span> | 1cp | <span class="he">נָקְטַל</span>
 
-<figure>
-    <figcaption>Hophal Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/32-Hp-imperfect-strong.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
 
 
 ## Hophal Participle Strong Paradigm
 
-* The standard Participle prefix (מ)
-* The standard $V_S = \bar A$ - lengthening of P3ms
-* The standard inflectional endings of the Participle
-* Again, both Qibbuts and Qamets Hatuf are used interchangeably
+> The standard Participle prefix (מ)
+> The standard $V_S = \bar A$ - lengthening of P3ms
+> Again, both Qibbuts and Qamets Hatuf are used interchangeably
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/32.HpPtms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -246,7 +269,7 @@ HOPHAL (o-class) | ָ<span class="he">מ</span>
 Hitpael | מִתְ
 
 
-## What to memorize: Hophal
+## Hophal What to memorize
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/32.7.m4a">
@@ -267,14 +290,16 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * Think "Houûphal"
 * $V_S$ is almost always Patach
     * There is expected lengthening to Qamets in the Participle
-    * The rare Infinitive Absolute has the expected Tsere (see `Ruth Pursuit` below)
+    * The rare Infinitive Absolute has the expected Tsere (see this lesson's `Ruth Pursuit`)
 
 ## Stem Comparison Table
 
-* Here is the Stem Comparison Table showing the stems we have studied thus far
+> Update your `Stem Comparison Worksheet` for the Hophal row
+
+* $U$ is shown for variety but you can write either $V_P = O$ or $V_P = U$   
 
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 library(knitr)
 include_graphics("images/32_stemcomp.png")
 ```
@@ -311,7 +336,7 @@ There are no Hophal verbs in Ruth 1, so there will be no `Ruth Pursuit` for Less
     * <span class="he"> וַיַּ֤עַן בֹּ֙עַז֙ וַיֹּ֣אמֶר לָ֔הּ הֻגֵּ֨ד הֻגַּ֜ד לִ֗י כֹּ֤ל אֲשֶׁר־עָשִׂית֙ אֶת־חֲמוֹתֵ֔ךְ אַחֲרֵ֖י מ֣וֹת אִישֵׁ֑ךְ וַתַּֽעַזְבִ֞י אָּבִ֣יךְ וְאִמֵּ֗ךְ וְאֶ֙רֶץ֙ מֽוֹלַדְתֵּ֔ךְ וַתֵּ֣לְכִ֔י אֶל־עַ֕ם אֲשֶׁ֥ר לֹא־יָדַ֖עַתְּ תְּמ֥וֹל שִׁלְשֽׁוֹם׃</span>
     * There are only six HpA forms in all of the Hebrew Bible (and some sources say there are only five).  One of those forms is in Ruth 2:11.  Note how $V_S$ is Tsere for the HpA verb, and how $V_S$ is Qamets in the HpP3ms verb that follows.
     * The verb root is נגד
-    * The Daghesh Forte in the Gimmel represents the assimilated 1נ
+    * The Dagesh Forte in the Gimmel represents the assimilated 1נ
 * Dr. Beckman explains, "Infinitive Absolutes typically underscore the certainty of something. But in this past tense context where Boaz uses the word <span class="he">כֹּל</span>, it seems more likely that he is referring to the completeness of the report that he has received."^[Beckman. "Notes on Ruth" p. 27.  https://hebrewsyntax.org/bbh2new/00_Ruth_notes.pdf ]
 
 
@@ -380,22 +405,20 @@ YOUR _HEBREW QUEST_!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
+<div class="scc">Hebrew Quest 1 Samuel 17 Part I Audio:<audio controls src="./images/32.1Samuel17A.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
+
+<div class="scc">Hebrew Quest 1 Samuel 17 Part II Audio:<audio controls src="./images/32.1Samuel17B.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
+
 ### 1 Samuel 17 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t08a17.m4a">
+<div class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t08a17.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
 
 <span class="he"><p align="right">
 

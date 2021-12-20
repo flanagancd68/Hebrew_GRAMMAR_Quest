@@ -5,7 +5,7 @@
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/10.intro.m4a">
+        src="./images/10.0.0.intro.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -82,7 +82,7 @@ Before continuing, can you describe the following concepts?
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/10.09.pro0808.mp3">
+        src="./images/10.0.1.pro0808.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -190,30 +190,29 @@ The first important thing to know about a Hebrew construct chain is this:
 
 > The very last noun in the chain is said to be in the "absolute state".  All words in the chain before the absolute noun are said to be in "construct state."
 
-* Back to <span class="he">בֵּית לֶחֶם</span>, "house of bread" 
-    * "bread" would be in the absolute state
-    * "house of" is in the construct state
-    * The entire phrase would be called a "construct chain"  
-        * A construct chain has one and only one absolute noun and one or more construct nouns
-
-::: {.box .caution}
-The purpose of the chain is to describe the **first** _noun_ in the chain.  
-
-* It might be reasonable to think that the chain would be describing the noun in the absolute state, but that is not the case
-* In <span class="he">בֵּית לֶחֶם</span>, we are describing the house, not the bread  
-* A chain describes the first (true) NOUN in the chain, not necessarily the first word in the chain, which may be an adjective acting as a noun
-* If there were a substantival adjective as the first word, e.g., "wise of heart", the chain is describing "heart," not "wise"
-
-:::
-
+* <span class="he">בֵּית לֶחֶם</span>, "house of bread" 
+    * "bread" would be in the *absolute* state
+    * "house of" is in the *construct* state
+    * The entire phrase would be called a "*construct chain*"  
+* A construct chain has one and only one absolute noun and one or more construct nouns
 * In English, we would typically add the word "of" after each word in the construct state.  
     * We could say "the king's son" or the "son of the king," and both would mean the same thing
     * Translating a construct word as "of" is a _starting point_ and not a hard-and-fast requirement
 * Just like we may add `'s`, Hebrew has different spelling for nouns in construct
-    * The absolute noun is the "normal" spelling and meaning
+* The absolute noun is the "normal" spelling and meaning
 
 
-## What makes a construct chain different?
+## A Construct Chain describes the FIRST noun in the chain
+
+
+> The purpose of the chain is to describe the first _noun_ in the chain, but not necessarily the first _word_ in the chain
+
+* After the the previous discussion, it might be reasonable to think that the construct chain would be describing the noun in the absolute state, but that is not usually the case
+* In <span class="he">בֵּית לֶחֶם</span>, we are describing the house, not the bread  
+* If there were a substantival adjective as the first word, e.g., "wise of heart", the chain is describing "heart," not "wise"
+
+
+## Words in Construct will not have the Article or any adjectives
 
 ::: {.infobox .sound}
 <figure>
@@ -250,18 +249,19 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* What makes a Hebrew construct chain different is that nothing else comes between the words of the chain
-    * In English, we could add an adjective like "the servant of the _wicked_ son of the king"
-    * In Hebrew, any adjectives must come after the whole chain
-        * A literal translation would look like: "servant of son of the king the wicked"    
-        * To resolve, we would need to go back and determine which word the adjective modifies by matching the gender and number
+>  Nothing else can come between words in construct - this can pose translation challenges
+
+* In English, we could add an adjective like "the servant of the _wicked_ son of the king"
+* In Hebrew, any adjectives must come after the whole chain
+    * A literal translation would look like: "servant of son of the king the wicked"
+    * To resolve, we would need to go back and determine which word the adjective modifies by matching the gender and number
 * In the example of "servant of son of the king the wicked" there is ambiguity
     * Without more context, it is impossible to determine which of the three men is the wicked one
-    * Translating is more straightforward when the nouns in the construct chain are of a mixed number or gender
+* Translating is more straightforward when the nouns in the construct chain are of a mixed number or gender
     * For example: "the wife of David the strong the smart, the beautiful"
-        * If "strong" and "beautiful" were FS, then we know they are referring to David's wife
-        * If "smart" was MS, we know it is referring to David
-        * The sentence translation would be clear: "The strong and beautiful wife of smart David"
+    * If "strong" and "beautiful" were FS, then we know they are referring to David's wife
+    * If "smart" was MS, we know it is referring to David
+    * The sentence translation would be clear: "The strong and beautiful wife of smart David"
 
 ## Review: what makes a word definite 
 
@@ -300,20 +300,18 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-::: {.box .caution}
-Nouns in construct state NEVER take the article.
-:::
 
-Construct Chains have strict rules regarding definiteness, so now would be a good time to refresh our list of what makes a noun definite in light of this lesson and Lesson 9.
+> Construct chains have strict rules regarding definitess - nouns in construct state NEVER take the article.  
+> If the ABSOLUTE Noun is definite, all words in the chain are definite.
+
 
 A word is definite if it:
 
-* Has the article - <span class="he">הַמֶּלֶךְ</span>
-* Has a pronominal suffix - <span class="he">מַלְכִּי</span>
-* Is a proper noun - <span class="he">דָּוִיד</span>
+* Has the article - <span class="he">הַמֶּלֶךְ</span> (Lesson 5)
+* Has a pronominal suffix - <span class="he">מַלְכִּי</span> (Lesson 9)
+* Is a proper noun - <span class="he">דָּוִיד</span> (Lesson 4)
 * Is in a construct chain where the last, absolute, word is definite - <span class="he">בֶּן הַמֶּלֶךְ</span> = THE son of the king
 
-Even though a noun in construct may not have the definite article, it is deemed definite when the last word (the absolute noun) is definite.  We explain more on the next page.
 
 ## The Absolute noun establishes the definiteness of a chain
 
@@ -352,11 +350,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-:::{.box .light}
-A construct chain is either entirely definite or entirely indefinite
-
-A construct chain will never mix definite and indefinite nouns
-:::
+> A construct chain is either entirely definite or entirely indefinite - aconstruct chain will never mix definite and indefinite nouns
 
 * It is the last, absolute, word that defines whether the chain is definite or indefinite
     * <span class="he">בֶּן הַמֶּלֶךְ</span> = the son of the king
@@ -417,9 +411,9 @@ The following are characteristics of nouns in the construct state:
 * Two nouns connected by maqqef is a construct chain
     * <span class="he">כְּבוֹד־יְהוָה</span> = The glory of the LORD
 
-::: {.box .light}
-Long vowel, not accented, not a vowel letter = absolute
-:::
+
+> If the word has an unaccented long vowel (except a vowel letter) it is Absolute^[Strictly, this is not true 100% of the time, but it is close enough for our purposes]
+
 
 ## Identifying Construct state by Noun Endings
 
@@ -459,7 +453,11 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> A word-final Tsere+Yod is diagnostic of Plural and Dual construct forms
+
+
 * Nouns in construct often sometimes (but will not always) change endings
+    * Other nouns may not change endings, but will exhibit a loss of long vowels, as discussed in the previous section
 * The table below shows the Absolute ending and then the difference in the Construct form
 
 ```{r, out.width = "300pt", fig.align='center'}
@@ -467,14 +465,12 @@ library(knitr)
 knitr::include_graphics("images/10_construct_endings.png")
 ```
 
-Other nouns may not change endings but will exhibit a loss of long vowels, as discussed in the previous section
+* Example Proverbs 1:1 - <span class="he">מִ֭שְׁלֵי שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃ </span>
+    * _Proverbs of_ Solomon: Tsere+Yod ending (compare <span class="he">מָשָׁל</span>)
+    * _Son of_ David: No special ending, but loss of long vowels (compare to <span class="he">בֵּן</span>), and joined by Maqqef
+    * _King of_ Israel: No change (compare to <span class="he">מֶלֶךְ</span>)
 
-::: {.box .light}
-Word-final Tsere+Yod is diagnostic of Plural and Dual construct forms
-:::
-
-
-## Construct Chain Conclusion {-}
+## Lesson 10 Conclusion 
 
 ::: {.infobox .sound}
 <figure>
@@ -515,16 +511,16 @@ function setPlaySpeed25() {
 * All words, except for the last, are in the "construct state"
     * No article or pronominal suffix
     * Long vowels are limited
-        * ("Long vowel, not a vowel letter = Absolute" - Dr. Beckman)
+        * ("Unaccented Long vowel that is not a vowel letter = Absolute" - Dr. Beckman)
     * No diphthong
     * Review ending changes chart
         * Tsere+yod is a very common ending for a masculine plural construct noun
     * A reduced vowel in the penult is usually construct - <span class="he">נְבִיא</span>
     * Noun with Maqqef is construct - <span class="he">בֶּן־</span>
 
-There are four extremely common constructs in the Bible, so we must be able to recognize them.  These will be reviewed in `Anki`.
+> There are four extremely common constructs in the Bible, so we must be able to recognize them.  These will be reviewed in `Anki`.
 
-* <span class="he">כָּל־</span> - all of
+* <span class="he">כָּל־</span> = all of
 * <span class="he">אֲבִי־</span> = father of
 * <span class="he">אֲחִי־</span> = brother of
 * <span class="he">אֵ֫שֶׁת־</span> = wife of
@@ -661,16 +657,9 @@ As always, words may have prefixes or suffixes.  Try to identify whether the con
 
 ### Ruth 1 {-}
 
-::: {.box .sound}
-<figure>
-    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
-    <audio controls
-        src="./images/t2901.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-:::
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</div>
 
 
 <span class="he"><p align="right">
@@ -728,7 +717,7 @@ As always, words may have prefixes or suffixes.  Try to identify whether the con
 ## Quest Quiz #10 {-}
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://forms.gle/ST6XfCvKRXHRfxfVA" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfbg9tHrq4s_aUkbii3RNBW4eBn-g_lVBkjIAoBMFEmxwrXAw/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
@@ -742,7 +731,7 @@ When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` 
 <!-- Tribe Badge 4 = gad -->
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="https://forms.gle/7X1tmBcU5WtGT46A7" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfQN__POt8uRnfPCRkaMILJgh7-cXMWbGna1GavqC4j0aQ5rw/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 [Open Badge form in a new window](https://forms.gle/7X1tmBcU5WtGT46A7){target="_blank"}

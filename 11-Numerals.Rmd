@@ -2,7 +2,7 @@
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/11.intro.m4a">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/11.0.0.intro.m4a">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -69,7 +69,7 @@ Before continuing, can you describe the following concepts?
 
 ::: {.infobox .sound}
 <figure>
-<audio id="myAudio" controls controlsList="nodownload" src="./images/11.jos0402.mp3">
+<audio id="myAudio" controls controlsList="nodownload" src="./images/11.0.1.jos0402.mp3">
             Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -191,8 +191,8 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* You will not see "1", "200", or "969", either in modern symbols or in Rabbinic characters (using the Aleph-bet) in the Hebrew text
-* Numerals will always be spelled out as words
+> Numerals will always be spelled out as words
+
 * Example: 
   * <span class="he">כָּל־יְמֵי מְתוּשֶׁלַח **תֵּשַׁע וְשִׁשִּׁים שָׁנָה וּתְשַׁע**</span>
   * "all the days of Methuselah (were) **nine and sixty years (i.e., 960) and nine (i.e., 969)**."
@@ -234,10 +234,9 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-::: {.box .info}
-This section is presented for information only  
 
-:::
+> This section is presented for information only
+
 
 * You may come across a system of counting that uses numerical values for each of the Hebrew letters
   * א ב ג ד ה ו ז ח ט represent 1-9
@@ -294,8 +293,9 @@ function setPlaySpeed25() {
 :::
 
 
+> In Hebrew, Ordinal Numbers are attributive adjectives
+
 * Ordinal numbers denote order.  first, second, third
-* In Hebrew, these are attributive adjectives
 * They follow the noun and match in gender, number, and definiteness (Attributive Always After, Always Agree)
     * <span class="he">יוֹם רִאשׁוֹן</span> or <span class="he">הַיּוֹם הָרִאשׁוֹן</span> = first day or the first day
 * Ordinal numbers end in Hireq-Yod (M) or Hireq-Yod_Tav (F)
@@ -349,23 +349,26 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* The numeral one is an attributive adjective - it follows its noun and agrees in gender, number, and definiteness
-    * As we mentioned previously, it is sometimes used as an indefinite article
-    * <span class="he">אִישׁ אֶחָד</span> = one man = a man
-* Two through Ten are nouns
-    * They have both masculine and feminine forms
-    * They have absolute and construct forms
-* Higher numbers are nouns with no specific gender
+> The numeral one is an attributive adjective - it follows its noun and agrees in gender, number, and definiteness
+    
+* As we mentioned previously, it is sometimes used as an indefinite article
+* <span class="he">אִישׁ אֶחָד</span> = one man = a man
+
+> Two through Ten are nouns
+    
+* They have both masculine and feminine forms
+* They have absolute and construct forms
+* Higher numbers >10 are nouns with no specific gender
 
 
-### Digits 1 and 2 match the gender of the noun {-}
+> Digits 1 and 2 match the gender of the noun
 
 For example:
 
 * <span class="he">בֵּן אֶחָד</span> = one son
 * <span class="he">בַּת אַחַת</span> = one daughter
 
-### Digits 3-10 take the opposite gender of the noun {-}
+> Digits 3-10 take the opposite gender of the noun
 
 Additionally, they are "singular" even though the noun is plural.  
 
@@ -429,7 +432,7 @@ function setPlaySpeed25() {
 * 200 is <span class="he">מָאתַיִם</span>, the plural of 100
 * 300 is <span class="he">שְׁלֹשׁ מֵאוֹת</span> ("three one hundred" and so forth up to 1000)
     
-## Lesson 11 Conclusion {-}
+## Lesson 11 Conclusion 
 
 ::: {.infobox .sound}
 <figure>
@@ -471,13 +474,10 @@ function setPlaySpeed25() {
 * For Hebrew GRAMMAR Quest, it is sufficient for you to learn the Ordinals 1-10, and the Cardinals 1-10, then 20-100 by 10s, and 1000
 * There is no quiz and no Anki `Workbook` section for this lesson
 
-::: {.box .map}
+> You are at an exciting point in the course.  In the next lesson, we get into Hebrew Verbs, where your understanding of Hebrew Scripture will start to move into high gear!
 
-You are at an exciting point in the course.  In the next lesson, we get into Hebrew Verbs, where your understanding of Hebrew Scripture will start to move into high gear!
 
-:::
-
-### Anki {-}
+## Anki {-}
 * `Lesson 11 A. Vocab` 
     * The vocab work will be a little bit longer than in a usual lesson.  
     * We will have the typical set of words from <u>Basics of Biblical Hebrew</u>
@@ -559,16 +559,9 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.box .sound}
-<figure>
-    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
-    <audio controls
-        src="./images/t2901.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-:::
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</div>
 
 
 <span class="he"><p align="right">
@@ -630,6 +623,9 @@ If you have completed **all activities** in Lessons 1-11, you may claim the seco
     * No cards may be "New," "Young," "Suspended," or "Buried"
 * See the `Hebrew Grammar Quest Checklist` for additional information
 :::
+<div class="containerLtr">
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScdEsX4EGwUy6EtlZsqJK49W1kfZCu0eyBD-fcJOVbzr5750w/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 [Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
 

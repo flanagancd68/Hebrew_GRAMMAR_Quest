@@ -5,6 +5,7 @@ FAQs about the Course
 * [Why is Holy Language Institute offering a Hebrew grammar course?](#why_grammar)
 * [How does this grammar course relate to _Hebrew Quest_?](#hgq_and_hq)
 * [What if I haven't finished _Hebrew Quest_?](#finish_hq)
+* [What can I do with the knowledge taught in Hebrew GRAMMAR Quest?](#whocanuse)
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
 * [What are the required/optional course resources?](#optional_resources)
 * [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
@@ -22,7 +23,7 @@ FAQs about Anki
 
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.whyhebrewgrammar.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/61.01.whyhebrewgrammar.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
     x.playbackRate = 0.5;
@@ -66,7 +67,7 @@ See the next section to learn how Hebrew GRAMMAR Quest is distinct.
 ## What is the Relationship to _Hebrew Quest_? {- #hgq_and_hq}
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/00.relationtohq.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+<figure> <audio id="myAudio" controls controlsList="nodownload" src="./images/61.02.relationtohq.m4a"> Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
     x.playbackRate = 0.5;
@@ -110,7 +111,7 @@ knitr::include_graphics("images/i.hq_hgq.png")
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.hqprerequisite.m4a"> 
+src="./images/61.03.hqprerequisite.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -153,6 +154,12 @@ To say it differently, _Hebrew Quest_ and Hebrew GRAMMAR Quest complement one an
 
 Refer to the section on Anki and course setup to get your Hebrew GRAMMAR Quest outfitted properly.
 
+## What can I do with the knowledge taught in Hebrew GRAMMAR Quest? {- #whocanuse}
+
+* We believe this course, in conjunction with __Hebrew Quest__, would prepare a pastor or lay-teacher of a small-group, or traditional Christian or Messianic congregation to have a basic understanding of the Hebrew text in order to exegete and communicate beginning and intermediate level Hebrew/Hebraic concepts to a lay audience.  
+* Even so, we are not presenting this as a substitute for seminary-level Hebrew for those who are seeking (or whose vocational position requires) more of a formal instructional approach. 
+* With all this said, the more of THIS course and _Hebrew Quest_ you complete, the more rewarding and enriching any future formal Hebrew coursework will be!. 
+* In any case, ***our prayer is that this course, along with Hebrew Quest, will give new life to Hebrew application in that person's teaching ministry***.  This book's compiler can testify to this!
 
 ## Why is the course called "Hebrew GRAMMAR Quest"? {- #whygrammarquest}
 
@@ -166,7 +173,7 @@ Refer to the section on Anki and course setup to get your Hebrew GRAMMAR Quest o
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.navigate.m4a"> 
+src="./images/61.04.navigate.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -274,7 +281,7 @@ knitr::include_graphics("images/checklist.png")
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.typicallesson.m4a"> 
+src="./images/61.05.typicallesson.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -354,7 +361,7 @@ include_graphics("images/lexicon.jpg")
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.resources.m4a"> 
+src="./images/61.06.resources.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -381,7 +388,7 @@ function x25() {
 REQUIRED: 
 
 * Other than being a subscriber to Holy Language Institute, you will not need to purchase or obtain anything for this course (unless you want to)
-* You will need a computer with internet access, a free Google account to open and complete documents and exercises, the free Anki desktop software to do the flashcard activities, and a pen or a pencil to complete writing worksheets
+* You will need a computer with internet access, a free Google account to open and complete documents and exercises, the free Anki desktop software to do the flashcard activities, a printer and a pen or a pencil to complete writing worksheets
 
 OPTIONAL:
 
@@ -417,7 +424,7 @@ knitr::include_graphics("images/00.ankinavigate.png")
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.ankinavigate.m4a"> 
+src="./images/61.11.ankinavigate.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -473,7 +480,7 @@ knitr::include_graphics("images/00.anki_good.png")
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_good.m4a"> 
+src="./images/61.12.anki_good.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -529,7 +536,7 @@ Be patient with yourself.  It may take you _many_ tries in the early going befor
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_help.m4a"> 
+src="./images/61.13.anki_help.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -591,7 +598,7 @@ function x25() {
 
 ::: {.infobox .sound}
 <figure> Note: this is the audio from the YouTube video: <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/00.anki_cust_words.mp3"> 
+src="./images/61.14.anki_cust_words.mp3"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -616,7 +623,7 @@ function x25() {
 :::
 
  
-```{r, out.width = "300pt", fig.align='center', fig.cap="Settings"}
+```{r, out.width = "500pt", fig.align='center', fig.cap="Settings"}
 knitr::include_graphics("images/00.anki_custom.png")
 ```
 
@@ -632,10 +639,15 @@ knitr::include_graphics("images/00.anki_custom.png")
   7. Select/highlight the English text then click the `Cloze` button: `[...]`
   8. Add any notes you want in the remaining fields, including any hints or mnemonics that will help you remember the word
   9. Click `Add`
-* The video link walks through these steps:  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
 
 
 ::: {.box .info}
 * We will learn the "parsing code" shown in the image in Unit 3
 * [This site](https://scholarsgateway.com/search/WLC-ESV/Exodus/16:25) is extremely helpful with identifying parts of speech in the Tanach.
 :::
+
+The video link walks through these steps:  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}:
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/jp8rhufAMU?&showinfo=0&autohide=1&autoplay=0" frameborder="0"></iframe>
+</div>

@@ -1,7 +1,7 @@
 # The Hiphil Stem - Strong {.H-s}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.intro.m4a">
+<figure><audio id="myAudio" controls  src="./images/30.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -16,7 +16,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-There are approximately 10,000 occurrences of the Hiphil stem in the Bible. The Hiphil stem has the nuance of causing an action, entering into a state, or declaring a state.  Activities for this lesson include identifying Hiphil verbs in Ruth chapter one and, for those doing the _Hebrew Quest_ Study Passage track, reading verse by verse through Exodus 19.
+> There are approximately 10,000 occurrences of the Hiphil stem in the Bible,  
+
+The Hiphil stem has the nuance of causing an action, entering into a state, or declaring a state.  Activities for this lesson include identifying Hiphil verbs in Ruth chapter one and, for those doing the _Hebrew Quest_ Study Passage track, reading verse by verse through Exodus 19.
 
 
 ::: {.box .map}
@@ -32,7 +34,7 @@ LESSON ITINERARY
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload"  src="./images/30-10.Isaiah1.18.mp3">
+<figure><audio id="myAudio" controls   src="./images/30.0.1-10.Isaiah1.18.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -55,7 +57,7 @@ This is a famous memory verse for traditional Jews and Christians/Believers in M
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Western Wall with Chairs and Snow. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/30.Western Wall with chairs and snow, tb022503206.jpg")
 ``` 
@@ -64,10 +66,10 @@ knitr::include_graphics("images/30.Western Wall with chairs and snow, tb02250320
 
 
 
-## Verb Stem Table: Hiphil
+## Verb Table: Hiphil
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.1.m4a">
+<figure><audio id="myAudio" controls  src="./images/30.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -111,7 +113,7 @@ Parsing Code: H (_H_iphil)
 ## Hiphil tip: Think "hIphil-hAphil"
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.2.m4a">
+<figure><audio id="myAudio" controls  src="./images/30.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -126,7 +128,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Preformatives
-    * Hiphil verbs have preformative ה
+    * Hiphil verbs have preformative <span class="he">ה</span>
     * Imperfects and Participles have the usual preformatives
 * $V_P$
     * Remember "Hiphil-Haphil" (like "Piel-Pael")
@@ -144,10 +146,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * Exceptions are when $R_1$ is a weak consonant - we will study these scenarios in Lesson 31
 :::
 
-## Hiphil $V_S = Î[A] \sim Î(Ē)$
+## Hiphil $V_S = Î[A] \sim Î(Ē)$ 
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.3.m4a">
+<figure><audio id="myAudio" controls  src="./images/30.3.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -180,7 +182,7 @@ Note when $V_S = \hat I$, it may be written defectively as Hireq.  It never redu
 ## Don’t confuse Hiphil <span class="he">ְ הִ</span> with Niphal Imperative Preformative  <span class="he">ָּּ הִ</span>
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.4.m4a">
+<figure><audio id="myAudio" controls  src="./images/30.4.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -195,15 +197,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Hiphil  - <span class="he">הִקְטִיל</span>
-    * No Daghesh Forte in $R_1$
+    * No Dagesh Forte in $R_1$
 * Niphal - <span class="he">הִקָּטֵל</span>
-    * Daghesh Forte in $R_1$
+    * Dagesh Forte in $R_1$
     * $V_1$ = Qamets
 
 ## Don't confuse Hiphil Imperfect  <span class="he">ְ יַ</span> with Qal Imperfect  <span class="he">ְ יִ</span>
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.5.m4a">
+<figure><audio id="myAudio" controls  src="./images/30.5.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -231,9 +233,28 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Hiphil Perfect Strong Paradigm
 
-As with the other stems, we list these paradigms to aid in your recognition of these forms.  It is not necessary to memorize these like you had to do with the Qal paradigms.
+::: {.infobox .sound}
+<figure>Hiphil Perfect Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls src="./images/30.6.hiphil_perfect_paradigm.mp3">Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
 
-Note $V_P = I$
+
+> Think "hIphil-hAphil": hIphil in the Perfect
+> $V_P = I$
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/30.HP3ms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -243,22 +264,37 @@ Note $V_P = I$
 | 2fs | <span class="he">הִקְטַלְתְּ</span> | 2fp | <span class="he">הִקְטַלְתֶּן</span>
 | 1cs | <span class="he">הִקְטַ֫לְתִּי</span> | 1cp | <span class="he">הִקְטַ֫לְנוּ</span>
 
-<figure>
-    <figcaption>Hiphil Perfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/30.hiphil_perfect_paradigm.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+As with the other stems, we list these paradigms to aid in your recognition of these forms.  It is not necessary to memorize these like you had to do with the Qal paradigms.
+
+
 
 
 
 
 ## Hiphil Imperfect Strong Paradigm
 
-Note $V_P = A$
+
+::: {.infobox .sound}
+<figure>Hiphil Imperfect Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls src="./images/30.7.hiphil_imperfect_paradigm.mp3">Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> Think "hIphil-hAphil": hAphil in the Imperfect forms
+> $V_P = A$
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/30.HI3ms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -268,19 +304,32 @@ Note $V_P = A$
 | 2fs | <span class="he">תַּקְטִ֫ילִי</span> | 2fp | <span class="he">תַּקְטֵ֫לְנָה</span>
 | 1cs | <span class="he">אַקְטִיל</span> | 1cp | <span class="he">נַקְטִיל</span>
 
-<figure>
-    <figcaption>Hiphil Imperfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/30.hiphil_imperfect_paradigm.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 ## Hiphil Imperative Strong Paradigm
 
-Note $V_P = A$
+::: {.infobox .sound}
+<figure>Hiphil Imperative Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls src="./images/30.8.hiphil_imperative_paradigm.mp3">Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> Think "hIphil-hAphil": hAphil in the Imperfect forms
+> $V_P = A$ always
+> $V_S = \hat I$ in 2fs/2mp and $\bar E$ in 2ms/2fp
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/30.HM2ms.gif")
+``` 
 
 
 | Sing | Paradigm | Plural | Paradigm
@@ -288,33 +337,40 @@ Note $V_P = A$
 | 2ms | <span class="he">הַקְטֵל</span> | 2mp | <span class="he">הַקְטִ֫ילוּ</span>
 | 2fs | <span class="he">הַקְטִ֫ילִי</span> | 2fp | <span class="he">הַקְטֵ֫לְנָה</span>
 
-<figure>
-    <figcaption>Hiphil Perfect Strong Paradigm from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/30.hiphil_imperative_paradigm.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 
 
 ## Hiphil Infinitives Strong
 
-Note $V_P = A$
+> $V_S$ will distinguish the two Infinitive forms.  HA has a Tsere.
+> HM2ms and HA are identical (the context will distinguish)
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/30.HInfCon.gif")
+``` 
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/30.HM2ms.gif")
+``` 
 
 | Type | Paradigm 
 | :-  | :- 
 | ∞ | <span class="he">הַקְטִיל</span>  
 | A | <span class="he">הַקְטֵל</span>
 
-* $V_S$ will distinguish the two Infinitive forms.  HA has a Tsere.
-* Note that HM2ms and HA are identical (the context will distinguish)
+
 
 ## Hiphil Participle Strong Paradigm
 
-Note $V_P = A$
+
+> Note again, the מ prefix, which characterizes the Participle in the Piel, Pual, Hiphil, and Hophal stems
+> $V_S$ = Hireq+Yod throughout (except for one of the FS forms)
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/30.HPtms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -322,8 +378,6 @@ Note $V_P = A$
 | fs | <span class="he">מַקְטֶ֫לֶת</span> or <span class="he">מַקְטִילָה</span> | fp | <span class="he">מַקְטִילוֹת</span>
 
 
-* Mote again, the מ prefix, which characterizes the Participle in the Piel, Pual, Hiphil, and Hophal stems
-* $V_S$ = Hireq+Yod throughout (except for one of the FS forms)
 
 ### Participle Prefixes in the Derived Stems {-}
 
@@ -338,10 +392,10 @@ Hophal (o-class) | ָמ
 Hithpael | תִמְ
 
 
-## What to Memorize: Hiphil
+## Hiphil What to Memorize
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/30.11.m4a">
+<figure><audio id="myAudio" controls  src="./images/30.11.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -362,15 +416,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * <span class="he">יַקְ</span> - (etc.) HI
     * <span class="he">הַקְ</span> - HM/H∞/HA
     * <span class="he">מַקְ</span> - HPt
-* $V_S = Î[A] \sim Î(Ē)$
-    * It's essential to memorize the $V_S$ formula for each derived stem for those times when we can't rely on the $Pre$ combination
+* memorize the $V_S$ formula for each derived stem for those times when we can't rely on the $Pre$ combination: $V_S = Î[A] \sim Î(Ē)$
     
-## Stem Comparison Table
+    
+## Stem Comparison Worksheet
 
-* Here is the Stem Comparison Table showing the stems we have studied thus far
+> Update your `Stem Comparison Worksheet` for the Hiphil row
 
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 library(knitr)
 include_graphics("images/30_stemcomp.png")
 ```
@@ -419,21 +473,9 @@ YOUR QUEST
 
 ### Ruth 1:11-14 {-}
 
-::: {.infobox .sound}
+<div class="scc">Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls  src="./images/t2901.3.m4a">
+Your browser does not support the <code>audio</code> element.</audio></div>
 
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.3.m4a">
-Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
 <span class="he"><p align="right">
 
 ‫ 11   וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
@@ -466,22 +508,17 @@ YOUR _HEBREW QUEST_!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
+<span class="scc">Hebrew Quest Exodus 19 Audio:<audio controls src="./images/30.Exodus19.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
+
 ### Exodus 19 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t0219.m4a">
+<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0219.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+ </span>
+
 
 <span class="he"><p align="right">
 ‬

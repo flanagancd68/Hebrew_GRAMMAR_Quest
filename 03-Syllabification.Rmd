@@ -5,7 +5,7 @@
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/03.intro.m4a">
+        src="./images/03.0.0.intro.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -74,18 +74,6 @@ Before continuing, can you describe the following concepts?
 * The difference between a Dagesh Forte and a Dagesh Lene
 :::
 
-Lesson 3 and Lesson 16 are the two most content-heavy lessons in this course.  For that reason, you must have your alephbet and vowels (including the vowel types) memorized.
-
-Assuming you've checked your equipment as directed above, and everything is in tip-top shape for your Lesson 3 adventure, then you're ready to begin. Take your time.  Work through the written material, then do a little Anki work and see if it starts to click. 
-
-If Anki is not making sense, then come back here and re-read the material again. Then go back to Anki.  If you find yourself getting frustrated, take a break, and come back to it later.  Continue to work through "the fog" that we talked about in the introduction
-
-You absolutely must have the concepts from this lesson hard-wired before you continue to Lesson 4.  The good news is that once you get this lesson down, the ones that follow will be relatively straightforward.
-
-In addition to all of these new concepts, the authors have also seen fit to introduce a full set of vocabulary words AND study verses beginning with Lesson 3.  So the overall workload will increase, starting with this lesson (but so will your knowledge of Hebrew!)
-
-We're praying for you in advance as we tackle this section!  Now, go climb the mountain!
-
 
 
 ## First Thought {-}
@@ -94,7 +82,7 @@ We're praying for you in advance as we tackle this section!  Now, go climb the m
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/03.Ps3202.mp3">
+        src="./images/03.0.1.Ps3202.mp3">
             Your browser does not support the
             <code>audio</code> element.
 </audio>
@@ -147,12 +135,72 @@ function setPlaySpeed25() {
 
 *How blessed is the man to whom the LORD does not impute iniquity  (Psalms 32:2)*
 
-Thank God for his blessings and meditate upon them.
+Thank God for his blessings and meditate upon them.  Is there iniquity for which you need to be cleansed of right now?  If so, that takes priority over studying!
 
 ```{r, out.width = "600pt", fig.align='center', fig.cap="Mount of Beatitudes and Sea of Galilee - suggested location of Yeshua's eight blessings in Matthew 5:3-12. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/03-Mount of Beatitudes and Sea of Galilee, tbs75369303 (2).jpg")
 ``` 
+
+## Before we Begin {-}
+
+::: {.infobox .sound}
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/03.0.2.beforewebegin.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+> The authors of Basics of Biblical Hebrew say that Lesson 3 and Lesson 16 are the two most content-heavy lessons in this course.  
+
+For that reason, you must have your alephbet and vowels (including the vowel types) memorized.
+
+Assuming you've checked your equipment as directed above, and everything is in tip-top shape for your Lesson 3 adventure, then you're ready to begin. Take your time.  Work through the written material, then do a little Anki work and see if it starts to click. 
+If Anki is not making sense, then come back here and re-read the material again. Then go back to Anki.  If you find yourself getting frustrated, take a break, and come back to it later.  Continue to work through "the fog" that we talked about in the introduction.
+
+You absolutely must have the concepts from this lesson hard-wired before you continue to Lesson 4.  The good news is that once you get this lesson down, the ones that follow will be relatively straightforward.
+
+In addition to all of these new concepts, the authors have also seen fit to introduce a full set of vocabulary words AND study verses beginning with Lesson 3.  So the overall workload will increase, starting with this lesson (but so will your knowledge of Hebrew!)
+
+We're praying for you in advance as we tackle this section!  Now, go climb the mountain!
+
 
 ## Hebrew Syllables {#syllables}
 
@@ -210,7 +258,7 @@ There are two basic concepts when it comes to Hebrew Syllables:
 
 :::
 
-```{r, out.width = "200pt", fig.align='center'}
+```{r, fig.align='center'}
 
 knitr::include_graphics("images/03.syllable.png")
 ```
@@ -280,7 +328,7 @@ function setPlaySpeed25() {
 
 Unlike English, Biblical Hebrew words are never stressed anywhere else^[Modern Hebrew has words (mostly borrowed from other languages) that don't always follow this rule].
 
-```{r, out.width = "500pt", fig.align='center'}
+```{r, fig.align='center'}
 
 knitr::include_graphics("images/03.accent_stress.png")
 ```
@@ -336,6 +384,10 @@ function setPlaySpeed25() {
 </script> 
 :::
 
+```{r, fig.align='center'}
+knitr::include_graphics("images/03.pretonic.png")
+```
+
 * We will encounter these specific terms for a syllable's position respective to the word's accent
 * Let's use the plural of <span class="he">דָּבָר</span> to illustrate: <span class="he">דְּ ׀ בָ ׀ רִים</span>
     * The **Propretonic** syllable is two (or more) steps away from the accent = <span class="he">דְּ</span>
@@ -343,6 +395,10 @@ function setPlaySpeed25() {
         * This vowel shortening of the propretonic syllable is called _Propretonic Reduction_ and is extremely common in Hebrew
      * The **Pretonic** Syllable is the syllable immediately before the accented syllable = <span class="he">בָ</span>
     * The **Tonic** syllable is the one with the accent =<span class="he"> רִים</span>^[If there is a syllable AFTER the accented syllable, technically it is called "Posttonic," but you will not encounter this term for the remainder of this course.]
+
+::: {.box .light}
+You will encounter the term "unaccented syllable".  This refers to any syllable other than the Tonic syllable.
+:::
     
 ## Ultima, Penultima, and Antepenultima syllables
 
@@ -374,8 +430,6 @@ function setPlaySpeed1() {
     x.playbackRate = 1;
      x.play();
 }
-
-
 function setPlaySpeed15() { 
     x.playbackRate = 1.5;
      x.play();
@@ -391,7 +445,9 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-
+```{r, fig.align='center'}
+knitr::include_graphics("images/03.penult.png")
+```
 Since the accent is not always in a fixed location, we sometimes will use other words that describe a syllable's position irrespective of the accent. 
 
   * _ultima_ = the last syllable
@@ -444,7 +500,7 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
+> Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
 
 <large>A Sheva is SILENT when the previous vowel is short</large>
 
@@ -473,6 +529,7 @@ THREE SILENT SHEVA CLUES
 
 :::
 
+> All consonants, including Gutturals can take a SILENT Sheva 
 
 ## Rules for Vocal Sheva {#v_sheva}
 
@@ -521,7 +578,7 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
+> Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
 
 <large>A Sheva is VOCAL when the initial Sheva in a word</large>
 
@@ -560,6 +617,7 @@ FOUR VOCAL SHEVA CLUES
 4. After an unaccented long vowel  
 :::
 
+> Gutturals reject VOCAL Sheva; they take Hateph vowels instead
 
 
 
@@ -611,11 +669,12 @@ function setPlaySpeed25() {
 :::
 
 
-```{r, out.width = "500pt", fig.align='center'}
+```{r, out.width = "400pt", fig.align='center'}
 knitr::include_graphics("images/03.diphthong.png")
 ```
 
-* The diphthong is a single vowel unit, which means it is only one syllable
+> The diphthong is a single vowel unit, which means it is only one syllable
+
 * We do not pronounce the word on the right above as "BUY-it," but monosyllabic, more like "BITE"^[With this said, "buy-it" makes a handy mnemonic for remembering this word means 'house' - when you see a nice house you want to "buy it." There are several look-alike words.]
 * The word on the left is not "sh-MAY-im," but it sounds more like "sh-MIME"
 
@@ -681,15 +740,13 @@ function setPlaySpeed25() {
 :::
 
 
-::: {.box .light}
-Memorize this table:
+> Memorize this table:
+
 
 Syllable | Tonic | Pretonic | Propretonic
 | :--: | :--: | :--: | :--:
 Open  |  SHORT | LONG | REDUCED
 Closed | LONG | SHORT | SHORT
-
-:::
 
 * Tonic syllables PREFER the listed vowels but can take any type
 * Pretonic syllable REQUIRE the listed vowels
@@ -711,54 +768,8 @@ PAUSAL FORMS
 
 :::
 
-## Qamets Hatuf, Furtive Patach, Quiescent Aleph {#misc_vowels}
 
-::: {.infobox .sound}
-<audio
-        id="myAudio"
-        controls controlsList="nodownload"
-        src="./images/03.9.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button>
-<button onclick="setPlaySpeed2()" type="button">2x</button>
-<button onclick="setPlaySpeed15()" type="button">1.5x</button>
-<button onclick="setPlaySpeed1()" type="button">1x</button>
-<button onclick="setPlaySpeed075()" type="button">.75x</button>
-<button onclick="setPlaySpeed05()" type="button">.5x</button>
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-
-
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-:::
-
-The next three sections will examine these special situations
+<!-- former 3.9 deleted 12/10/2021 -->
 
 ## Qamets Hatuf
 
@@ -805,16 +816,16 @@ function setPlaySpeed25() {
 </script> 
 :::
 
+The next three sections will examine special vowel and syllable situations.
 
-::: {.infobox .light} 
-Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable
 
-```{r, out.width = "200pt", fig.align='center'}
+> Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable
+
+```{r, out.width = "400pt", fig.align='center'}
 knitr::include_graphics("images/03.qametshatuf.png")
 ```
-:::
 
-* Metheg mark
+* A Metheg mark _sometimes_ indicates a Qamets
   * There are many instances where the vowel could be a short Qamets-Hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable
   * When this ambiguity occurs, some printings will print a small vertical line called a Meteg בָּֽ.^[Unfortunately, many Tanachs DO not differentiate.]  The Meteg tells you the vowel is the **long, a-class**
   
@@ -823,9 +834,9 @@ knitr::include_graphics("images/03.meteg.png")
 ```
 
 ::: {.box .info}
-QAMETS OR QAMETS HATUF  
+QAMETS OR QAMETS HATUF?  
 
-* The A-class is FAR more prevalent
+* Know that the A-class Qamets is FAR more prevalent
 * Nouns such as <span class="he">חָכְמָה</span> that have the pattern (Qamets mark)+Sheva+Qamets+Hei _TEND_ to be O-class
 * You may know a word from your vocabulary that has a Holem, such as <span class="he">כֹל</span>
   * When you encounter that same word in its shortened form, <span class="he">כָל־</span>, the vowel will be shortened O-class
@@ -878,18 +889,17 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-::: {.infobox .info} 
-Furtive Patach under a WORD FINAL ח or ע is said BEFORE the guttural letter and is not a full vowel
+> Furtive Patach under a WORD FINAL ח or ע is said BEFORE the guttural letter and is not a full vowel.
 
-```{r, out.width = "100pt", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.furtivepathach.png")
 ```
-:::
+
 
 The Furtive Patach is a significant exception to just about everything else we've discussed related to vowels and syllabification:
 
-  * The vowel is pronounced *before* the guttural - so the above word is **Ruach**, not "rucha"
-  * The Furtive Patach is not a full vowel and is not counted in syllabification 
+* The vowel is pronounced *before* the guttural - so the above word is **Ruach**, not "rucha"
+* The Furtive Patach is not a full vowel and is not counted in syllabification 
 
 ## Quiescent Aleph
 
@@ -936,26 +946,26 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-::: {.infobox .info} 
+>
 Quiescent Aleph is silent. It is neither a consonant nor a vowel
 
-```{r, out.width = "100pt", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 knitr::include_graphics("images/03.quiescentaleph.png")
 ```
-:::
+
 
 * When you see an Aleph with no vowels, it is acting as a silent letter
-    * English has all kinds of silent letters, like the 'p' in receipt - the Quiescent Aleph works the same way
-    * In terms of syllabification, the Aleph is neither a vowel nor a consonant, so it doesn't count at all - it is just an extra letter
-    * We often encounter Quiscent Alephs in verbs, so we will have much more to say about the Quiescent Aleph when we get to Unit III
+* English has silent letters also, like the 'p' in receipt - the Quiescent Aleph works the same way
+* In terms of syllabification, the Aleph is neither a vowel nor a consonant, so it doesn't count at all - it is just an extra letter
+* We often encounter Quiscent Alephs in verbs, so we will have much more to say about the Quiescent Aleph when we get to Unit III
     
-## Lesson Conclusion and Activities {-}
+## Lesson 3 Conclusion
 
 ::: {.infobox .sound}
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/03.conclusion.m4a">
+        src="./images/03.13.conclusion.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -994,11 +1004,13 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-Congratulations on getting this far! We realize that there are a lot of heavy concepts you face in this Lesson.
+Congratulations on getting this far!  We realize that there are a lot of new, and perhaps tedious, concepts in this Lesson.  Some may be asking why we need to know all of this.
 
-Some of you may try to read this lesson then do the Anki work (perhaps repeated a few times), and you still aren't getting it.  The Fog isn't clearing.  If this is the case, and you want a more in-depth lecture covering this material, we recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){target="_blank"}
+> Understanding accents and vowel and syllable preferences helps to unlock God's Word
 
-For this lesson, we introduce two new activities that correspond with the official launch of `Vocabulary` and `Study Verses` you will see in `Anki`.
+On top of the lesson content itself, we also are introducing two new activities that correspond with the official launch of `Vocabulary` and `Study Verses` you will see in `Anki`.
+
+We understand if after reading this lesson then doing the Anki work (perhaps repeated a few times), you still aren't getting it.  The Fog isn't clearing.  This is completely normal.  Keep at it, or take a break and resume later.  If you want a more in-depth lecture covering this material, we recommend [Dr. John Beckman's hour-long YouTube Lecture on lesson 3](https://www.youtube.com/watch?v=AY7KAsD4fZg&feature=youtu.be){target="_blank"}.
 
 ### Introduction to Video Warm-ups {-}
 
@@ -1009,25 +1021,6 @@ For this lesson, we introduce two new activities that correspond with the offici
 
 Then after watching these, go ahead and jump into `Anki`.
 
-* `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list
-* `Lesson 03 B. Grammar` - This module will reinforce and expand on the major points of this lesson
-* `Lesson 03 C. Study Verses`
-  * This is also our first lesson using the <u>Basics of Biblical Hebrew</u> study verses
-  * With `Study Verses`, our goal is to incorporate the immersive learning aspects of _Hebrew Quest_
-    * We want to expose you to Hebrew, even though you may not fully understand all the rules at this stage
-    * We encourage you to use a Dictionary (such as [this one](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}) to help you when you come across unfamiliar words
-    * Other dictionaries [are available here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
-    * To help with this, for Lessons 3-10, longer verses will be divided into multiple sections
-  * It may take you SEVERAL attempts before you can select `Good` in Anki
-  * Be patient and stick with it - you'll get it!
-  * By the end of the course, you will learn close to 500 verses in Hebrew
-  
-::: {.box .info}
-* Your vocabulary and understanding will grow if you COPY each of the `study verses` by hand, or at a minimum attempt to translte word for word
-* A PDF of the verses is contained in the `Lesson Extras` folder - note this is provided by the authors of _Basics of Biblical Hebrew_ and not Holy Language Institute
-* Not every verse in the Verse Warm-up activities will be included in the `Anki Study Verses` deck
-
-:::
 
 ## Word Warm-up {-}
 
@@ -1039,7 +1032,7 @@ Then after watching these, go ahead and jump into `Anki`.
 
 ## Verses Warm-up {-}
 
-* Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses.  The most extraordinary journey begins with a single step.  You are now about to take that step!
+* Over the entire 35-lesson course, you will learn to translate almost 500 Hebrew Verses^[Not every verse in the Verse Warm-up activities will be included in the `Anki Study Verses` deck].  The most extraordinary journey begins with a single step.  You are now about to take that step!  
 
 <div class="container">
 <iframe class ="responsive-iframe"  src="https://www.youtube.com/embed/9IkIvWPArlA" frameborder="0"></iframe>
@@ -1055,14 +1048,33 @@ For additional practice, you may consider copying each Study Verse by hand in a 
 * Writing by hand would engage another of your senses in the learning process
 * You could also record any insights HaShem may impart to you as you are learning His Holy Language
 :::
+
+## Anki {-}
+
+
+* `Lesson 03 A. Vocab` - This is our first lesson with the <u>Basics of Biblical Hebrew</u> vocabulary list
+* `Lesson 03 B. Grammar` - This module will reinforce and expand on the major points of this lesson
+* `Lesson 03 C. Study Verses`
+  * This is also our first lesson using the <u>Basics of Biblical Hebrew</u> study verses
+  * With `Study Verses`, our goal is to incorporate the immersive learning aspects of _Hebrew Quest_
+    * We want to expose you to Hebrew, even though you may not fully understand all the rules at this stage
+    * We encourage you to use a Dictionary (such as [this one](https://holylanguage.com/resources/Pocket-Hebrew-Dictionary-Feyerabend.pdf){target="_blank"}) to help you when you come across unfamiliar words
+    * Other dictionaries [are available here](https://holylanguage.com/resources-dictionaries.php){target="_blank"}
+    * To help with this, for Lessons 3-10, longer verses will be divided into multiple sections
+  * It may take you SEVERAL attempts before you can select `Good` in Anki
+  * Be patient and stick with it - you'll get it!
+  * By the end of the course, you will learn close to 500 verses in Hebrew
   
+
+
+
 ## Ruth Pursuit {-}
 
 ::: {.infobox .sound}
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/03.ruth.m4a">
+        src="./images/03.14.ruth.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -1104,11 +1116,11 @@ function setPlaySpeed25() {
 ::: {.box .map}
 YOUR QUEST  
 
-1. Identify all Tetragrammaton examples, which we pronounce "Adonai" when we encounter it in Scripture.  There are six instances of the Name. Also, <span class="he">שַׁדַּי</span> is another name for God.  It means "Almighty."  Find two examples of this name. (Blue)
+1. Identify the seven Tetragrammaton examples, which we pronounce "Adonai" or "HaShem" when we encounter it in Scripture.   Also, <span class="he">שַׁדַּי</span> is another name for God.  It means "Almighty."  Find two examples of this name. (Blue)
 2. In verse 16, highlight, <span class="he">"עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי"</span> in green. This is the famous verse, "your people (will be) my people, and your God, my God."  One of your vocabulary words is <span class="he">אֱלֹהִים</span>. In the last two words of what you just highlighted, you can still see the core portion of <span class="he">אֱלֹהִים</span> present.  Begin to notice how Hebrew uses different suffixes to denote "your" and "my."
 3. In verse 1, find one Sheva that begins a word and one Sheva that concludes a word. (Yellow). Which one is a silent Sheva, and which one is the vocal Sheva?
 4. Find the Quiescent Aleph in verse 1 (pink)
-5. Find the Hebrew words for Elimelech, Machlon, Chilion, and Judah in verses 1-7. Chilion has the prefix "וְ" which means "and." (gray)
+5. Find the Hebrew words for Elimelech, Machlon, Chilion, and Judah in verses 1-7. Chilion has the prefix "וְ" which means "and." These names appear two times each. (grey)
 6. For personal reflection, open an English translation side-by-side with your Hebrew version of Ruth 1.  Note how the foreigner Ruth uses both <span class="he">אֱלֹהִים</span> and the Tetragrammaton in verses 16 and 17, respectively.  Why do you think this might be? Would you say the names are used interchangeably, or do you think there is a deeper purpose?  May we always seek HIM, just as you have done in this activity!
 
 :::
@@ -1119,16 +1131,10 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.box .sound}
-<figure>
-    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
-    <audio controls
-        src="./images/t2901.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-:::
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</div>
+
 
 
 <span class="he"><p align="right">
@@ -1192,13 +1198,13 @@ YOUR QUEST
 [Open Quest Quiz #3 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSfCy3m3L8z1a5EjEMtEBVWjoci-JvWfYzUVEIpnQHIgGwvu1g/viewform){target="_blank"}
 
 
-## Request your `Unit 1 Completion Certificate`! {-}
+## Request your Unit 1 Completion Certificate! {-}
 
 ::: {.infobox .sound}
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/03.certificate.m4a">
+        src="./images/03.15.certificate.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -1237,23 +1243,26 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-If you have completed **all activities** in Lessons 1, 2, and 3, you may claim the first of our `Unit Completion Certificates`.
+If you have completed **all activities** in Lessons 1, 2, and 3, and your Unit 1 Anki cards are all `Mature`, you may claim the first of our `Unit Completion Certificates`.
 
-::: {.box .caution}
-* Note that the Anki Requirement for the `Unit Completion Certificate` is different from the `12 Tribes Badges` requirement.
-* You must submit a screenshot showing that all cards are **MATURE**
-  * No cards may be "New," "Young," "Suspended," or "Buried"
-  * From the Anki manual, ["A mature card is one that has an interval of 21 days or greater."](https://docs.ankiweb.net/#/stats?id=types-of-cards){target="_blank"}
-  * In other words, you will not be able to submit for your Certificate immediately upon completion of Lesson 3; you will need a period of time for the cards to reach **Mature** status.
-* See the `Hebrew Grammar Quest Checklist` for additional information
+::: {.box .stop}
+* Note that the Anki requirement for the `Unit Completion Certificate` is different from the `12 Tribes Badges` requirement. 
+* For the Certificate, you must submit a screenshot showing that all cards are `Mature`
+* It can take [21 days or greater."](https://docs.ankiweb.net/#/stats?id=types-of-cards){target="_blank"} for a card to be `Mature`
 :::
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Your Anki screenshot should look like this, showing all cards MATURE"}
+* In other words, you will not be able to submit for your Certificate immediately upon completion of Lesson 3; you will need a period of time for the cards to reach **Mature** status^[See the `Hebrew Grammar Quest Checklist` for additional information].
+
+```{r, out.width = "200pt", fig.align='center', fig.cap="Your Anki screenshot should look like this, showing all cards MATURE"}
 knitr::include_graphics("images/03.Anki_Mature.jpg")
 ```
 
 
-[Please open and submit the Unit Completion Certificate Request form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
+[Open form in new window](https://forms.gle/hkHMebEtNi61waidA){target="_blank"}
+
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScdEsX4EGwUy6EtlZsqJK49W1kfZCu0eyBD-fcJOVbzr5750w/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 ## Lesson Extras {-}
 

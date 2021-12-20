@@ -1,7 +1,7 @@
 # The Pual Stem - Weak {.Dp-w}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/29.intro.m4a">
+<figure><audio id="myAudio" controls  src="./images/29.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -27,7 +27,7 @@ Enjoy this very brief lesson!
 ::: {.box .map}
 __LESSON ITINERARY__
 
-2-gutturals/ר reject the Daghesh Forte _sometimes_ resulting in Compensatory Lengthening of Qibbuts to Holem.
+2-gutturals/ר reject the Dagesh Forte _sometimes_ resulting in Compensatory Lengthening of Qibbuts to Holem.
 :::
 
 ::: {.box .stop}
@@ -43,7 +43,7 @@ Before continuing, can you describe the following concepts?
 
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/29-3.Psalms112.2.mp3">
+<figure><audio id="myAudio" controls  src="./images/29.0.1-3.Psalms112.2.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -64,7 +64,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 As we are approaching the conclusion of the Hebrew GRAMMAR Quest course, an excellent question to start asking yourself is, "what next?" Or, as Yeshua might ask, what are you going to do with this "light" you have been given?  How can you enrich the lives of your family, friends, and other people in your circle of influence?  How can your descendants (whoever that might be in your situation) be blessed by your greater knowledge of Hebrew?
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Man with his hands on his sons for the priestly blessing. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/29_Man with hands on sons for priestly blessing, tb092302202.jpg")
 ``` 
@@ -72,10 +72,10 @@ knitr::include_graphics("images/29_Man with hands on sons for priestly blessing,
 
 
 
-## 2-Gutturals/ר Reject Dagesh Forte
+## Pual 2-Gutturals/ר Reject Dagesh Forte
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/29.1.m4a">
+<figure><audio id="myAudio" controls  src="./images/29.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -97,10 +97,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * Because the Qal stem is much more frequent than the Pual, a correct first guess whenever $V_1 = \bar O$ is Qal Participle.  If you notice that $R_2$ is a guttural, you may need to do some more detective work
 
 
-## Other Changes
+## Pual Weak Other Changes
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/29.2.m4a">
+<figure><audio id="myAudio" controls  src="./images/29.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -121,7 +121,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * Biconsonantal- In every respect, these are spelled the same as Pual strong except for Polel $V_S = \bar E$ vs Pual $V_S = A$; still $V_1 = U$
 
 
-
+> Because of the relative infrequency of the Pual, you need not be overly concerned with these anomalies
 
 ## Word Warm-up {-}
 
@@ -156,22 +156,17 @@ YOUR _HEBREW QUEST_!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
+<span class="scc">Hebrew Quest Psalms 145 Audio:<audio controls src="./images/29.Psalms145.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
+
 ### Psalms 145 {-}
 
-::: {.infobox .sound}
-<figure>Click to hear the passage read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t26e5.m4a">
+<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t26e5.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</span>
+
 
 <span class="he"><p align="right">
 ‫ 1  תְּהִלָּ֗ה לְדָ֫וִ֥ד אֲרוֹמִמְךָ֣ אֱלוֹהַ֣י הַמֶּ֑לֶךְ וַאֲבָרֲכָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃ ‬

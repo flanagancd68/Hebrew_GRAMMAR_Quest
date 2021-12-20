@@ -1,7 +1,7 @@
 # Qal Imperfect - Weak {.QI-w}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -29,7 +29,10 @@ Recall the primary diagnostic indicators of the Qal Imperfect Strong:
         * $Pre \ =$ <span class="he">נִקְ</span>, and 
         * $Pre \ =$ <span class="he">אֶקְ</span>
 2. The Imperfect sufformatives
-3. $V_S = \bar O$ (less important)
+    * 2FS: <span class="he">י ִ</span>
+    * 3MP/2MP: <span class="he">וּ</span>
+    * 3MS/2MS: <span class="he">נָה</span>
+3. $V_S = \bar O$ 
 
 Take your time through this lesson.  Accuracy is significantly more important than speed!
 
@@ -50,7 +53,7 @@ The Qal Imperfect Strong Paradigm must be memorized.
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16-06-Mal.mp3">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.0.1-06-Mal.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -79,7 +82,7 @@ knitr::include_graphics("images/16_Jezreel Valley from Mount Carmel panorama, tb
 
 
 
-## 2G 
+## QI 2G 
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.1.m4a">
@@ -96,13 +99,11 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 ::: 
 
+> 2G verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained
+
 * When $V_2$ reduces, it will be a Hateph Vowel instead of Vocal Sheva
 * Gutturals prefer Patach
     * When NOT reduced, $V_S = A$ instead of the strong QI $V_S = \bar O$ 
-
-::: {.box .light}
-Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained
-:::
 
 |  | 2G | Strong | 
 | :-  | :- | :-  
@@ -111,7 +112,7 @@ Although $V_S = A$, 2G verbs are easily recognized as Qal Imperfect since the QI
 
 
 
-## 3חע
+## QI 3חע
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.2.m4a">
@@ -128,19 +129,15 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Prefer $V_S = A$
+> 3חע verbs are prefer $V_S = A$, but are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained  
 
-::: {.box .light}
-
-Although $V_S = A$, 3חע verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained  
-:::
 
 |  | 3חע | Strong | 
 | :-  | :- | :-  
 | 3ms  | <span class="he">יִשְׁלַח</span> | <span class="he">יִקְטֹל</span>
 | 3mp  |  <span class="he">יִשְׁלְחוּ</span>| <span class="he">יִקְטְלוּ</span>
 
-## 3א  
+## QI 3א  
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.3.m4a">
@@ -157,21 +154,20 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> 3א verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained
+
 * While 3חע prefer $V_S = A$, 3א prefer $V_S = \bar A$ primarily
 * 3/2fp
     * Will see $V_S = E$, or sometimes $V_S = \bar E$
     * 3א quiesces with Silent Sheva (and sometimes with vocal)
 
-::: {.box .light}
-Although $V_S$ can vary, 3א verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained  
-:::
 
 |  | 3א | Strong 
 | :-  | :- | :-  
 | 3ms | <span class="he">יִמְצָא</span> | <span class="he">יִקְטֹל</span>  
 | 3fp/2fp | <span class="he">תִּמְצֶ֫אנָה </span> | <span class="he">תִּקְטֹ֫לְנָה<span class="he">
 
-## 3ה 
+## QI 3ה 
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.4.m4a">
@@ -188,6 +184,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+
+> 3ה verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained  
+
+
 ::: {.box .caution}
 Remember: 3ה verbs do not have $R_3$
 :::
@@ -202,21 +202,15 @@ Remember: 3ה verbs do not have $R_3$
     * Perfect - HIREQ+YOD- <span class="he">בְּנִיתֶם</span> - QP2mp
     * Imperfect - SEGHOL+YOD - <span class="he">תִּבְנֶ֫ינָה</span> - QI(3/2)fp 
     
-
-::: {.box .light}
-
-Despite the endings, 3ה verbs are easily recognized as Qal Imperfect since the QI diagnostic $Pre \ =$ <span class="he">יִקְ</span> is retained  
-:::
-
-
-
 |  | 3ה | Strong | Notes
 | :-  | :- | :-  | :-
 | QI3ms | <span class="he">יִבְנֶה</span> | <span class="he">יִקְטֹל</span>  | Seghol+Hei
 | QI3mp | <span class="he">יִבְנוּ</span> | <span class="he">יִקְטְלוּ</span> | Sufformative Replaces
 | QI(3/2)fp | <span class="he">תִּבְנֶ֫ינָה</span> | <span class="he">תִּקְטֹ֫לְנָה</span> | Seghol+Yod
 
-## 3ה ending comparison table
+
+
+## QI 3ה ending comparison table
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.5.m4a">
@@ -233,23 +227,24 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-The table below shows a comparison of 3ה verbs when there is no sufformative.
+> * 3ה Verbs are frequent, so we will want to memorize these rules and endings
+
+* The table below shows a comparison of 3ה verbs when there is no sufformative.
+* They are consistent throughout all stems; e.g., I3ms 3ה verbs end in (Seghol+Hei) in all seven stems
 
 | Conj | Hebrew | Vowel
 | :- | :- | :-
 | P | <span class="he">בָּנָה</span> | Qamets+Hei
 | I | <span class="he">יִבְנֶה</span> | Seghol+Hei
 
-::: {.box .light}
-3ה ENDINGS
 
-* 3ה Verbs are frequent, so we will want to memorize these rules and endings
-* They are consistent throughout all stems; e.g., I3ms 3ה verbs end in (Seghol+Hei) in all seven stems
+::: {.box .map}
+Update the 3ה I3ms cell of your `Stem Comparison Worksheet` now!
 
+(Don't forget to add the applicable Imperfect Preformative to _<span class="he">בנ</span>)
 :::
 
-
-## 1G
+## QI 1G
 
 
 ::: {.infobox .sound}
@@ -267,8 +262,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Remember the Rule of Sheva that prevents two contiguous Vocal Sheva/Hateph Vowels
-    * NOT <span class="he">יְקְ</span>, BUT <span class="he">יִקְ</span>
+> The QI $Pre$ _acts_ as if it is the result of the Rule of Sheva - this will be a handy tidbit to keep in mind with 1G verbs
+
+* The Rule of Sheva prevents two contiguous Vocal Sheva/Hateph Vowels
+    * NOT *<span class="he">יְקְ</span>, BUT <span class="he">יִקְ</span>
     * Whenever we see the $Pre \ =$ <span class="he">ְ יִ</span> of the Qal Imperfect, think "Rule of Sheva"^[Historically the QI $Pre$ did not come the Rule of Sheva, however pretending that it did makes it easy to recognize QI 1G verbs.]
 * The 1G will reject the Vocal Shewa in favor of a Hateph Vowel
 * Then we can think of it as if the Imperfect "originally" wanted $V_P$ and $V_1$ to both be vocal sheva or a hateph vowel if a guttural; however, this is not allowable by the Rule of Sheva
@@ -288,7 +285,7 @@ To identify QI from a 1G verb, apply the Rule of Sheva
 | 3ms | <span class="he">יַחֲלֹף</span> | <span class="he">יֶחֱזַק</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יַחַלְפוּ</span> | <span class="he">יֶחֶזְקוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-## 1א "Angry Baker"
+## QI 1א "Angry Baker"
 
 
 ::: {.infobox .sound}
@@ -305,6 +302,8 @@ function setPlaySpeed2() {x.playbackRate = 2; x.play();}
 function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
 </script> </figure>
 :::
+
+> Although there are only six "Angry Baker" verbs, they are among the most common in the Bible
 
 * There is a special class of  1א verbs that are irregular ONLY in the QI
 * They are given the mnemonic "angry baker":
@@ -331,7 +330,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * When prefixed with the Vav Consecutive (Lesson 17), the penult is usually accented (<span class="he">וַיֹּ֣אמֶר</span> is not va-yo-MER, but va-YO-mer)
 :::
 
-## Geminate
+## QI Geminate
 
 
 ::: {.infobox .sound}
@@ -349,20 +348,20 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> Geminates and Biconsonantals can be tricky, but they are relatively infrequent - the best course is to build vocabularly knowledge and use the preformatives and sufformatives to identify
 
-* $V_P = \bar A$ as in: <span class="he">יָ</span>
-* Geminate Lose $R_2$ - Dagesh Forte in remaining twin letter (unless word-final or guttural letter)
+* The most frequent Geminate verbs are included as Hebrew GRAMMAR Quest vocabulary
+* Note the attributes below but do not become overly concerned with them:
+    * $V_P = \bar A$ as in: <span class="he">יָ</span>
+    * Geminate Lose $R_2$ - Dagesh Forte in remaining twin letter (unless word-final or guttural letter)
     * In alternate forms, the Dagesh appears in $R_1$ and $V_P = I$ (see table below)
-* There is also a Geminate form (let's call it "Type 2") that takes $V_P = \bar E$ 
-* $V_S$ and Accent shift to $V_1$
-* There will be a connecting vowel before a sufformative that starts with a consonant
+    * There is also a Geminate form (let's call it "Type 2") that takes $V_P = \bar E$ 
+    * $V_S$ and Accent shift to $V_1$
+* The most notable feature is that there will be a connecting vowel before a sufformative that starts with a consonant
     * QP2fp - <span class="he">סַבּוֹתֶן</span>
     * QI2fp - <span class="he">תְּסֻבֶּ֫ינָה</span>
 * Otherwise, the Imperfect Preformatives/Sufformatives remain
 
-::: {.box .info}
-Recognizing the Imperfect preformatives/sufformatives and Geminate vocabulary knowledge will help you recognize QI for Geminate verbs
-:::
 
 |  | Gem | Gem (alt) | Gem T2 | Strong 
 | :-  | :- | :-  | :- | :-
@@ -370,7 +369,7 @@ Recognizing the Imperfect preformatives/sufformatives and Geminate vocabulary kn
 | 3mp | <span class="he">יָסֹ֫בּוּ</span> | <span class="he">יִסֹּּבּוּ</span>  |  <span class="he">יֵתַ֫מּוּ</span> | <span class="he">יִקְטְלוּ</span>
 
 
-## Biconsonantal
+## QI Biconsonantal
 
 
 ::: {.infobox .sound}
@@ -388,31 +387,21 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-
+> Biconsonantals are somewhat easier than geminates to identify in the QI as they retain the Lexical Vowel, take $V_P = \bar A$, and carry the usual Imperfect preformative/sufformatives
 
 * $V_P = \bar A$, as in: <span class="he">יָ</span>
 * $V_S$ and accent move to $R_1$
 * The Lexical Vowel REMAINS, though sometimes it is defective
-    * <span class="he">יָקוּם</span>
-    * <span class="he">יָקֻם</span>
-
-::: {.box .info}
-The retention of the Lexical Vowel, $V_P = \bar A$ and the Imperfect preformative/sufformative will indicate QI of a Biconsonantal verb
-:::
+    * Plene: <span class="he">יָקוּם</span>
+    * Defective: <span class="he">יָקֻם</span>
 
 |  | קוּם | Strong 
 | :-  | :- | :-  
 | 3ms | <span class="he">יָקוּם</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יָק֫וּמוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-::: {.box .info}
-Biconsonantal and Geminate Verbs
 
-* Focus more on acquiring vocabulary, and less on the many variations within each stem/conjugation
-* Once you can recognize the verbal root, you can use your knowledge of preformatives/sufformatives to infer the conjugation from context
-:::
-
-## 1י
+## QI 1י
 
 
 ::: {.infobox .sound}
@@ -431,23 +420,19 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-* ALWAYS drops <span class="he">י</span> when it is $R_1$
-    * $V_P =\bar E$ or $V_P = \hat I$ (Hireq+Yod) - not the consonant Yod but the vowel letter
-    * $V_S = \bar E$ or $V_S = A$
-    * See examples
+> 1י ALWAYS drops consonantal <span class="he">י</span> when it is $R_1$
 
-| | To return ישׁב | To iInherit ירשׁ | Strong
+* $V_P =\bar E$ or $V_P = \hat I$ (Hireq+Yod) - not the consonant Yod but the vowel letter
+* $V_S = \bar E$ or $V_S = A$
+* See examples
+
+| | To return ישׁב | To Inherit ירשׁ | Strong
 | :-  | :- | :-  | :-
 | 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יִירַשׁ</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יִירְשׁוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-::: {.box .info}
-* When $V_P = \hat I$, you can visualize the remnants of the QI Strong $Pre$ as well as the 1st yod
-* When $V_P = \bar E$, you will need to recognize the Imperfect pre/sufformatives and your knowledge of vocabulary^[Also, you could imagine one of the dots of the Tsere representing the dropped Yod - turn it into a Yod and you have $\hat I$, which is a more normal-looking QI $Pre$.  If you "see" this and it helps, great!  If you don't, forget about it and don't let it confuse you!]
-:::
 
-
-## הלך behaves as 1י
+## QI הלך behaves as 1י
 
 
 ::: {.infobox .sound}
@@ -466,7 +451,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-* <span class="he">הלך</span> is an irregular verb that acts like 1י in the Qal Imperfect
+> <span class="he">הלך</span> is an irregular verb that acts like 1י in the Qal Imperfect
+
 * The <span class="he">ה</span> drops and $V_P = \bar E$
 * $V_S = E$ (Tsere) except for the FP forms where it is $A$ (Patach)
 
@@ -475,8 +461,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 3ms | <span class="he">יֵשֵׁב</span> | <span class="he">יֵלֵךְ</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יֵלְכוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-## יכל takes $V_P = \hat U$ in the QI
-
+## QI יכל takes $V_P = \hat U$ 
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.12.m4a">
@@ -493,6 +478,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> This is a common verb
 
 | | ישׁב | To be able יכל | Strong
 | :-  | :- | :-  | :-
@@ -500,7 +486,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 3mp | <span class="he">יֵשְׁבוּ</span> | <span class="he">יוּכְלוּ</span> | <span class="he">יִקְטְלוּ</span>
 
 
-## 1נ Assimilates with Silent Sheva
+## QI 1נ Assimilates with Silent Sheva
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.13.m4a">
@@ -517,20 +503,19 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+>To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="he">נְ</span>
+
+
 * If guttural or Resh after the <span class="he">נ</span>, the <span class="he">נ</span> usually remains
 * Dagesh Forte in $R_2$ when <span class="he">נ</span> assimilates
     * SQiN eM LeVY + Sheva may drop the Dagesh
-
-::: {.box .info}
-To get back to QI Strong paradigm, remove the Dagesh Forte and add <span class="he">נְ</span>
-:::
 
 |  | 1נ | Strong 
 | :-  | :- | :-  
 | 3ms | <span class="he">יִפֹּל</span> | <span class="he">יִקְטֹל</span>
 | 3mp | <span class="he">יִפְּלוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-## לקח behaves as 1נ
+## QI לקח behaves as 1נ
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/16.14.m4a">
@@ -547,7 +532,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Just as <span class="he">הלך</span> thinks it's 1י, the verb <span class="he">לקח</span> thinks it's 1נ
+> Just as <span class="he">הלך</span> thinks it's 1י, the verb <span class="he">לקח</span> thinks it's 1נ
+
 * Note $R_2 =$ <span class="he">ק</span> is SQiN eM LeVY
 
 | | 1נ | To take לקח | Strong
@@ -555,7 +541,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 3ms | <span class="he">יִפֹּל</span> | <span class="he">יִקַּח</span> | <span class="he">יִקְטֹל</span>
 | 3mp | <span class="he">יִפְּלוּ</span> | <span class="he">יִקְחוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-## Doubly Weak
+## QI Doubly Weak
 
 
 ::: {.infobox .sound}
@@ -573,8 +559,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* As with the Qal Perfect, there is nothing overly complex about Imperfect Doubly Weak Verbs
-* Simply address the changes caused by each weak letter, then and work your way back to the strong form
+> As with the Qal Perfect, there is nothing overly complex about Imperfect Doubly Weak Verbs; simply address the changes caused by each weak letter, then and work your way back to the strong form
+
 * Note <span class="he">עשֹה</span> to do/make, in the table below
     * 1G affects $V_P$ and $V_1$
     * 3ה affects $V_2$
@@ -584,7 +570,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 3ms | <span class="he">יִבְנֶה</span> | <span class="he">יַעֲשֶֹה</span> | <span class="he">יַחֲלֹף</span>  
 | 3mp | <span class="he">יִבְנוּ</span> | <span class="he">יַעֲשֹוּ</span> | <span class="he">יַחַלְפוּ</span>
 
-## נתן is 1נ and 3נ
+## QI נתן is 1נ and 3נ
 
 
 ::: {.infobox .sound}
@@ -602,14 +588,14 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+
+> <span class="he">נתן</span> is also extremely frequent
+
 * 1n assimilates as usual
 * 3n assimilates as usual
 * The result is only ONE root letter!  
     * But fortunately, this only occurs in QIfp forms
     
-::: {.box .caution}
-<span class="he">נתן</span> is extremely common, so we must study and understand these changes
-:::
 
 | | 1נ | To give נתן | Strong
 | :-  | :- | :-  | :-
@@ -618,7 +604,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 3fp | <span class="he">תִּפֹּ֫לְנָה</span> | <span class="he">תִּתֵּ֫נָּה</span> | <span class="he">תִּקְטֹ֫לְנָה</span>
 
 
-## ראה vs. ירא
+## QI ראה vs. ירא
 
 
 ::: {.infobox .sound}
@@ -636,6 +622,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> $V_P = \hat I$ is <span class="he">ירא</span>, not <span class="he">ראה</span>
+
+* These verbs can end up looking a lot like each other
 * <span class="he">ירא</span> is 1-yod and 3-aleph
     * $V_P = \hat I$ like 1י
     * 3א quiesces with Sheva (FP forms)
@@ -647,11 +636,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 3ms | <span class="he">יִרְאֶה</span> | <span class="he">יִירָא</span> | <span class="he">יִקְטֹל</span>  
 | 3mp | <span class="he">יִרְאוּ</span> | <span class="he">יִירְאוּ</span> | <span class="he">יִקְטְלוּ</span>
 
-::: {.box .light}
-$V_P = \hat I$ is <span class="he">ירא</span>, not <span class="he">ראה</span>
-:::
 
-## Qal Imperfect Weak Summary {-}
+## Lesson 16 Conclusion
 
 
 ::: {.infobox .sound}
@@ -706,7 +692,7 @@ Apart from a few irregular changes, the Qal Imperfect is relatively easy to reco
 ::: {.box .map} 
 YOUR QUEST
 
-Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar words.  (Hint: most of these verbs come from Ruth's famous oath of loyalty.)
+Inflect and translate the Qal Verbs below. Be sure to look up any unfamiliar words.  Then identify in Ruth 1.  (Hint: most of these verbs come from Ruth's famous oath of loyalty.)
 
 * נתן QI3ms
 * שׁוּב QI1cp
@@ -729,51 +715,57 @@ Identify and translate the Qal Verbs below. Be sure to look up any unfamiliar wo
 
 ### Ruth 1 {-}
 
-
-::: {.infobox .sound}
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRuth" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRuth");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
 
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
 ‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
 ‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
 ‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
 ‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
 ‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
 ‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
 ‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
 ‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
 ‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
 ‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
 ‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
 ‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
 ‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
 ‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
 ‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
 ‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
 ‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
 ‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
 ‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
 ‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
-
-
-
-
 
 ## Claim your next Twelve Tribes Badge! {-}
 
@@ -784,7 +776,7 @@ Once you have completed **all activities** through this lesson, you can fill out
 [Open Badge form in a new window](https://forms.gle/y2JPkZAxVGEsmACr6){target="_blank"}
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="https://forms.gle/y2JPkZAxVGEsmACr6" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSe6Ej-coO_sNrQK4EpyVEsDsr11ksCaEhrHQMJW2xrQ3Fk2Iw/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
@@ -804,6 +796,16 @@ YOUR _HEBREW QUEST_!
 | *Revise* | After watching the video, revise your translation as needed. Are there any concepts you need to review or any words to add to your `Custom Words` deck? | You may wish to check your parsing and translation [here](https://scholarsgateway.com/search/WLC-ESV/Proverbs/22){target="_blank"}
 | *Reflect* | How did the Ruach HaKodesh speak to you? | Reflect on the passage and insights gained from reading Scripture in the original Hebrew.  How can you apply it to your life?
 | *Reinforce* | If you are desiring to complete _Hebrew Quest_ along with Hebrew GRAMMAR Quest, consider doing the Memrise modules, which are required for _Hebrew Quest_ graduation. There is additional information on Memrise [here](https://holylanguage.com/memrise.html){target="_blank"} | Optional-  [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
+
+<div class="scc">Hebrew Quest Proverbs 15 Audio:<audio controls src="./images/16.Proverbs15.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
+<div class="scc">Hebrew Quest Proverbs 16 Audio:<audio controls src="./images/16.Proverbs16.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
+<div class="scc">Hebrew Quest Proverbs 17 Audio:<audio controls src="./images/16.Proverbs17.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </div>
+
 
 ### Proverbs Sessions 15-17 {-}
 

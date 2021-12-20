@@ -1,7 +1,7 @@
 # Qal Participle and Qal Summary {.QPt}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -16,7 +16,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 
-Participles are verbal adjectives.  For Hebrew, this means:
+> Participles are verbal adjectives.  For Hebrew, this means:
 
 * Participles inflect like adjectives: MS, FS, MP, and FP
 * Participles are used like adjectives: attributively, predicatively, and substantively
@@ -45,7 +45,7 @@ As needed, review [Lesson 7 on Adjectives](#adjectives) prior to beginning Lesso
 ##  First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22-10.Psalms 9.11.mp3">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.0.1-10.Psalms 9.11.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -72,7 +72,7 @@ It's become a cliche for Bible teachers to ask, "which of the four soils are you
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Cove of the Sower from the east. This is the suggested location of Yeshua's teaching we call 'The Parable of the Sower' (Matthew 13). This region's acoustic properties have been analyzed.  Scientists found that a person could be in a boat a few feet from the shore and easily be heard without amplification by ‘large crowds’ scattered several hundred feet up the embankment.  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/22_Cove of the Sower from east, tb112000201.jpg")
 ``` 
@@ -135,18 +135,18 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Participles are non-finite because they do not have 1st, 2nd, or 3rd person
-* Since Participles are adjectives, the DO inflect for gender and number
-    * They use the same adjectival endings we learned many lessons ago: MS, FS, MP, FP
-    * They are used as adjectives
-        * Attributive: I saw running water
-            * Match the noun in gender, number, and definiteness
-            * Attributive Always After (the noun), Article Always Agrees (with definiteness of noun)
-        * Predicative: The water is running
-            * Matches the subject in gender and number, but not definiteness
-            * Predicate dePrived of the Article, Perhaps Precedes (the noun)
-        * Substantival: running is good exercise
-            * Has the gender and number of the noun it is replacing
+> Participles are non-finite because they do not have 1st, 2nd, or 3rd person, but unlke infinitives they DO inflect for gender and number (just like adjectives)
+
+* They use the same adjectival endings we learned many lessons ago: MS, FS, MP, FP
+* They are used as adjectives
+* Attributive: I saw running water
+    * Match the noun in gender, number, and definiteness
+    * Attributive Always After (the noun), Article Always Agrees (with definiteness of noun)
+* Predicative: The water is running
+    * Matches the subject in gender and number, but not definiteness
+    * Predicate dePrived of the Article, Perhaps Precedes (the noun)
+* Substantival: running is good exercise
+    * Has the gender and number of the noun it is replacing
 
 ::: {.box .info}
 Review [Lesson 7](#adjectives) if you need a review on adjectives
@@ -169,7 +169,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* The Qal (and only the Qal) stem has both active and passive particles
+> The Qal (and only the Qal) stem has both active and passive particles
+
 * Active: 
     * Parsing code QPtms - Qal Participle masculine singular (no need to say "active")
     * "He who blesses"
@@ -178,7 +179,6 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * "Blessed are you"
 
 ## Qal Participle Spelling
-
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" src="./images/22.4.m4a">
@@ -194,22 +194,25 @@ function setPlaySpeed2() {x.playbackRate = 2; x.play();}
 function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
 </script> </figure>
 :::
-* Participles use adjective endings and can appear in Absolute or Construct forms
-* Active
-    * $V_1 = \bar O$ defective: Holem (more common than plene Holem+Vav)
-      * Every form except biconsonantal (which has $V_1 = \bar A$ (Qamets))
-    * $V_2$ 
-      * Usually $\bar E$ for Masculine singular: <span class="he">קֹטֵל</span>
-      * Reduces before adjective endings
-        * MP - <span class="he">קֹטְלִים</span>
-        * FP - <span class="he">קֹטְלוֹת</span>
-    * Two Feminine Singular variations
-      * Seghol+Tav - <span class="he">קֹטֶ֫לֶת</span> - MORE COMMON
-      * Qamets+Hei - <span class="he">קֹטְלָה</span> - Less common
-* Passive: 
-    * Every QPp as $V_2 = \hat U$ plene: Shureq (more common than defective Qibbuts)
-    * Since $V_2 = \hat U$ it can't reduce; therefore $V_1$ will reduce before adjective endings
-    * No FS "T" form
+
+> Participles use adjective endings and can appear in Absolute or Construct forms
+> Active: $Pre =$ <span class="he">קֹ</span> and $V_S = \bar E$
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/22.QPtms.gif")
+``` 
+    
+* $V_1 = \bar O$ defective: Holem (more common than plene Holem+Vav)
+  * Every form except biconsonantal (which has $V_1 = \bar A$ (Qamets))
+* $V_2$ 
+  * Usually $\bar E$ for Masculine singular: <span class="he">קֹטֵל</span>
+  * Reduces before adjective endings
+    * MP - <span class="he">קֹטְלִים</span>
+    * FP - <span class="he">קֹטְלוֹת</span>
+* Two Feminine Singular variations
+  * Seghol+Tav ("T-form") - <span class="he">קֹטֶ֫לֶת</span> - MORE COMMON
+  * Qamets+Hei - <span class="he">קֹטְלָה</span> - Less common
 
 | |Abs | Con
 | :- | :- | :-
@@ -217,7 +220,11 @@ QPtMS | <span class="he">קֹטֵל</span> | <span class="he">קֹטֵל</span>
 QPtFS | <span class="he">קֹטֶ֫לֶת</span> or <span class="he">קֹטְלָה</span> | <span class="he">קֹטְלַת</span>
 QPtMP | <span class="he">קֹטְלִים</span> | <span class="he">קֹטְלֵי</span>
 QPtFp | <span class="he">קֹטְלוֹת</span> | <span class="he">קֹטְלוֹת</span>
-| | |
+
+* Passive: 
+    * Every QPp as $V_2 = \hat U$ plene: Shureq (more common than defective Qibbuts)
+    * Since $V_2 = \hat U$ it can't reduce; therefore $V_1$ will reduce before adjective endings
+
 QPpMS | <span class="he">קָטוּל</span> | <span class="he">קְטוּל</span> 
 QPpFS | <span class="he">קְטוּלָה</span> | <span class="he">קְטוַּת</span> 
 QPpMP | <span class="he">קְטוּלִים</span> | <span class="he">קְטוּלֵי</span> 
@@ -240,8 +247,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* Like any adjective, the conjunction, the definite article, the interrogative particle, and prepositions can be added to Participles
-    * Infinitive constructs and participles are the only verb conjugations that can take a prefixed preposition
+> Like any adjective, the conjunction, the definite article, the interrogative particle, and prepositions can be added to Participles
+
+* Infinitive constructs and participles are the only verb conjugations that can take a prefixed preposition
 * Type 1 pronominal suffixes may be added to singular participles
 * Type 2 pronominal suffixes may be added to plural participles
 
@@ -288,10 +296,12 @@ function setPlaySpeed2() {x.playbackRate = 2; x.play();}
 function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
 </script> </figure>
 :::
-* The "third" ה drops in all forms of the Qpt
-  * In the MS, it is replaced by Seghol+Hei - <span class="he">בֹּנֶה</span>
-    * Although the final vowel is shared with the Imperfect, the Pt will never have an imperfect preformative
-    * Thus, there is little risk of confusing a 3ה Imperfect with a 3ה Participle
+
+> The "third" ה drops in all forms of the Qpt
+
+* In the MS, it is replaced by Seghol+Hei - <span class="he">בֹּנֶה</span>
+  * Although the final vowel is shared with the Imperfect, the Pt will never have an imperfect preformative
+  * Thus, there is little risk of confusing a 3ה Imperfect with a 3ה Participle
   * In the FS, it is replaced by $\hat A$ (Qamets+Hei) - <span class="he">בֹּנָה</span> (the Tsere+Tav form $\nexists$))
   * There is no vowel letter ה ִ in the plural forms
 * The Yod reappears as $R_3$ in all forms of the QPp (and the non "T" form of QPtFS)
@@ -308,6 +318,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | ∞ | <span class="he">בְּנוֹת</span> | Holem+Vav Tav
 | A | <span class="he">בָנֹה</span> or <span class="he">בָנוֹ</span> | Holem+Hei or Holem+Vav
 | Pt | <span class="he">בֹּנֶה</span> | Seghol+Hei
+
+> Complete the 3ה/PTms row of your `Stem Comparison Worksheet` now, if you haven't already done so~
 
 ::: {.box .map}
 MEMORIZE THE 3ה ENDINGS
@@ -334,13 +346,17 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 * Now that we have concluded our discussion on the Qal stem, take a moment to review this table.
 * It currently shows the Perfect 3ms, the Imperfect 3ms, and the Participle ms strong verb forms for the Qal stem
+  * Your `Stem Comparison Worksheet` has additional columns for Imperatives and Infinitives
   * We will add the additional stems as we work through Unit 4
 * Take note of the $Pre$ patterns in red and the $V_S$ in blue
     * When you are able work your way back to the $Pre$ pattern of the Strong verb, it means you will correctly identify the stem and conjugation most of the time
 * The last column indicates the $V_S$ pattern for perfects on the left, and Imperfects/Imperatives/Infinitives on the right.
 
+> Complete the Qal row of your `Stem Comparison Worksheet` now if you haven't already done so  (Qal Active Participle only)
 
-```{r, out.width = "600pt", fig.align='center'}
+
+
+```{r, out.width = "800pt", fig.align='center'}
 library(knitr)
 include_graphics("images/22_stemcomp.png")
 ```
@@ -392,7 +408,7 @@ include_graphics("images/22.9_qal_summary.png")
 
 ## Worksheet: All Qal Paradigms {-}
 
-The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the קטל paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
+The attached worksheet has all of the Qal strong forms we have studied in Lessons 13-22. Side 1 has placeholders, while side 2 has the <span class="he">קטל</span> paradigm verb.  Complete either side of the worksheet until you can complete one entire column without looking at the answer column on the right.  
 
 [All Qal paradigms worksheet](./images/22_qal_paradigms_strong_verbs.pdf){target="_blank"}
 
@@ -432,21 +448,11 @@ Identify the one Participle in Ruth 1.  You might recall that we discussed this 
 
 ### Ruth 1 {-}
 
-::: {.infobox .sound}
-
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudioRUTH" controls controlsList="nodownload" src="./images/t2901.m4a">
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudioRUTH");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+</div>
+
+
 
 <span class="he"><p align="right">
 ‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
@@ -494,12 +500,6 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
-
-
-
-
-
-
 ## Claim your next Twelve Tribes Badge! {-}
 
 <!-- Lesson 22 Tribe Badge 8 = LEVI -->
@@ -509,7 +509,7 @@ Once you have completed all activities through this lesson, complete the form be
 [Open Badge form in a new window](https://forms.gle/ncXmf7QRuoYCL3hz8){target="_blank"}
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="https://forms.gle/ncXmf7QRuoYCL3hz8" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSej54P4ifqTGSJRndyEMUaJ-vYELHnBz4z0kzaDJMlMYhYN5g/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
@@ -528,6 +528,14 @@ YOUR _HEBREW QUEST_!
 | *Revise* | Refine your translation
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
+
+<span class="scc">Hebrew Quest Matthew 13 Part I Audio:<audio controls src="./images/22.Matthew13A.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
+<span class="scc">Hebrew Quest Matthew 13 Part II Audio:<audio controls src="./images/22.Matthew13B.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
 
 ### Matthew 13 {-}
 

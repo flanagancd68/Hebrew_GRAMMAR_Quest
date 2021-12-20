@@ -1,7 +1,7 @@
 # The Pual Stem - Strong {.Dp-s}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.intro.m4a">
+<figure><audio id="myAudio" controls  src="./images/28.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -41,7 +41,7 @@ Before continuing, be sure you can describe the diagnostics of the Piel Strong P
 ## First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28-1.Proverbs16.6.mp3">
+<figure><audio id="myAudio" controls  src="./images/28.0.1-1.Proverbs16.6.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -63,17 +63,17 @@ This verse is interesting.  Our traditional beliefs would probably be closer to 
 
 How can you apply Proverbs 16:6 today?  How do you think our lovingkindness and truth can cover (כפר) our sins? 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Megiddo Pass aerial from the northeast.  This area was highly strategic throughout antiquity. Whoever held it could control all movement in the region.  Pharaoh Thutmose III once remarked, 'taking Megiddo is like taking 1000 cities.' This is also the suggested location of the staging area for the so-called 'Battle of Armageddon' described in the Book of Revelation. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/28_Megiddo pass aerial from northeast, tbs1201400113.jpg")
 ``` 
 
 
 
-## Pual Verb Stem Table
+## Pual Verb Table
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.1.m4a">
+<figure><audio id="myAudio" controls  src="./images/28.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -111,7 +111,7 @@ The Pual is the Passive of the Piel, or sometimes, the passive of the Qal
 ## Parsing Clues - $V_1 = U$ - ALWAYS for strong verbs
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.2.m4a">
+<figure><audio id="myAudio" controls  src="./images/28.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -127,7 +127,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 * The Pual is very consistent, making it easily recognizable
     * $V_1 = U$ - ALWAYS for strong verbs
-* The Pual retains the Daghesh Forte in $R_2$
+* The Pual retains the Dagesh Forte in $R_2$
 * $V_S = A$ - ALWAYS for strong verbs (unless reduced by the Sheva of the Perfect Sufformative)
     * I.e. $V_S = A \sim A$
     * Pt lengthens as expected: $V_S = \bar A$
@@ -143,55 +143,83 @@ The Qibbuts under the first root consonant distinguishes the Pual Form
 
 ## Pual Perfect Paradigm
 
-Qibbuts in $V_1$ always
+::: {.infobox .sound}
+<figure>Pual Perfect Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls src="./images/28.3.pual_perfect.mp3">Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> Qibbuts in $V_1$ always
+> Dp because "D"oubling Dagesh in $R_2$ and "p"assive of Piel
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/28.DpP3ms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 3ms | <span class="he">קֻטַּל</span>  | 3cp | <span class="he">קֻטְּלוּ</span> 
-| 3fs | <span class="he">קֻטְּלָה</span> | 
-| 2ms | <span class="he">קִֻטַּ֫לְתָּ</span> | 2mp | <span class="he">קֻטַּלְתֶּם</span>
-| 2fs | <span class="he">קֻטַּלְתְּ</span> | 2fp | <span class="he">קֻטַּלְתֶּן</span>
-| 1cs | <span class="he">קֻטַּ֫לְתִּי</span> | 1cp | <span class="he">קֻטַּ֫לְנוּ</span>
+| DpP3ms | <span class="he">קֻטַּל</span>  | 3cp | <span class="he">קֻטְּלוּ</span> 
+| DpP3fs | <span class="he">קֻטְּלָה</span> | 
+| DpP2ms | <span class="he">קִֻטַּ֫לְתָּ</span> | 2mp | <span class="he">קֻטַּלְתֶּם</span>
+| DpP2fs | <span class="he">קֻטַּלְתְּ</span> | 2fp | <span class="he">קֻטַּלְתֶּן</span>
+| DpP1cs | <span class="he">קֻטַּ֫לְתִּי</span> | 1cp | <span class="he">קֻטַּ֫לְנוּ</span>
 
-<figure>
-    <figcaption>Perfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/28_pual_perfect.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 
 ## Pual Imperfect Paradigm
 
-* Qibbuts in $V_1 = U$ always
-* If there is a preformative, $V_P = \ :$ always (Hateph Patach in 1cs)
+::: {.infobox .sound}
+<figure>Pual Imperfect Strong from _Hebrew Quest_ Chapter 15<audio id="myAudio" controls src="./images/28.4.pual_imperfect.mp3">Your browser does not support the <code>audio</code> element.</audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
+function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
+function setPlaySpeed1() {x.playbackRate = 1; x.play();}
+function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
+function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
+function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
+</script> </figure>
+:::
+
+> $V_1 = U$ (Qibbuts) always
+> $V_P = \ :$ always (Hateph Patach in 1cs)
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/28.DpI3ms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
-| 3ms | <span class="he">יְקֻטַּל</span>  | 3mp | <span class="he">יְקֻטְּלוּ</span> 
-| 3fs | <span class="he">תְּקֻטַּל</span> | 3fp | <span class="he">תְּקֻטַּ֫לְנָה</span>
-| 2ms | <span class="he">תְּקֻטַּל</span> | 2mp | <span class="he">תְּקֻטְּלוּ</span>
-| 2fs | <span class="he">תְּקֻטְּלִי</span> | 2fp | <span class="he">תְּקֻטַּ֫לְנָה</span>
-| 1cs | <span class="he">אֲקֻטַּל</span> | 1cp | <span class="he">נְקֻטַּל</span>
+| DpI3ms | <span class="he">יְקֻטַּל</span>  | 3mp | <span class="he">יְקֻטְּלוּ</span> 
+| DpI3fs | <span class="he">תְּקֻטַּל</span> | 3fp | <span class="he">תְּקֻטַּ֫לְנָה</span>
+| DpI2ms | <span class="he">תְּקֻטַּל</span> | 2mp | <span class="he">תְּקֻטְּלוּ</span>
+| DpI2fs | <span class="he">תְּקֻטְּלִי</span> | 2fp | <span class="he">תְּקֻטַּ֫לְנָה</span>
+| DpI1cs | <span class="he">אֲקֻטַּל</span> | 1cp | <span class="he">נְקֻטַּל</span>
 
-<figure>
-    <figcaption>Imperfect Strong from _Hebrew Quest_ Chapter 15</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/28_pual_imperfect.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 
 ## Pual Participle Paradigm
 
-* Qibbuts in $V_1$ always
-* Mem+Sheva מְ prefix always
+> Qibbuts in $V_1$ always
+> Mem+Sheva מְ prefix always
+
+```{r, out.width = "800pt", fig.align='center'}
+
+knitr::include_graphics("images/28.DpPtms.gif")
+``` 
 
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
@@ -212,10 +240,10 @@ Hophal (u-class) | מֻ
 Hophal (o-class) | ָמ
 Hithpael | תִמְ
 
-## Pual: what to memorize
+## Pual What to memorize
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/28.6.m4a">
+<figure><audio id="myAudio" controls  src="./images/28.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -235,12 +263,14 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 * $V_P = \ :$
 * $V_1 = U$
 * $V_S = A$
-* Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
+* Qibbuts ($R_1$)+Dagesh+Patach is diagnostic of Pual
 * Like Piel, beware when $R_2$ is guttural, Resh, or SQiN eM LeVY
+
+> Pual verbs are extremely infrequent
 
 ## Pual Parsing Examples
 
-* Qibbuts ($R_1$)+Daghesh+Patach is diagnostic of Pual
+* Qibbuts ($R_1$)+Dagesh+Patach is diagnostic of Pual
 
 * Word: <span class="he">גִּדְּלוּ</span>
     * Result: DP3cp
@@ -250,10 +280,10 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 ## Stem Comparison Table
 
-* Here is the Stem Comparison Table showing the stems we have studied thus far
+> Update your `Stem Comparison Worksheet` for the Pual row
 
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 library(knitr)
 include_graphics("images/28_stemcomp.png")
 ```
@@ -304,21 +334,10 @@ YOUR QUEST
 
 ### Ruth 1:7-10 {-}
 
-::: {.infobox .sound}
 
-<figure>Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls controlsList="nodownload" src="./images/t2901.2.m4a">
+<span class="scc">Click to hear Ruth 1 read by Abraham Shmuelof:<audio id="myAudio" controls  src="./images/t2901.2.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { x.playbackRate = 0.5; x.play();}
-function setPlaySpeed075() {x.playbackRate = 0.75; x.play();} 
-function setPlaySpeed1() {x.playbackRate = 1; x.play();}
-function setPlaySpeed15() {x.playbackRate = 1.5; x.play();} 
-function setPlaySpeed2() {x.playbackRate = 2; x.play();} 
-function setPlaySpeed25() {x.playbackRate = 2.5;x.play();} 
-</script> </figure>
-:::
+ </span>
 
 <span class="he"><p align="right">
 ‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
@@ -347,7 +366,7 @@ Once you have completed all activities through this lesson, fill out the form be
 
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="https://forms.gle/QC5VgJExb9R89Yde8" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSet5ED7ciDFa3TY0g8dQ84BU1jjA8zEJV5o1p7j23T1_6tWnA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
@@ -364,6 +383,11 @@ YOUR _HEBREW QUEST_!
 | *Revise* | Refine your translation using any reliable English Bible version
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
+
+<span class="scc">Hebrew Quest Revelation 1 Audio:<audio controls src="./images/28.Revelation1.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
+
 
 ### Revelation 1 {-}
 

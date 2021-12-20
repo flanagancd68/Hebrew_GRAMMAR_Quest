@@ -2,7 +2,7 @@
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.intro.m4a"> 
+src="./images/06.0.0.intro.m4a"> 
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -59,7 +59,7 @@ Prepositions are a lot of fun because of what they communicate to us.  So let's 
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.ps7702.mp3">
+src="./images/06.0.1.ps7702.mp3">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -103,8 +103,8 @@ knitr::include_graphics("images/06-Nazareth Mount of Precipitation from west pan
 ## _Hebrew Quest_ Prepositions Lecture
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.1.m4a">
+<figure>Audio from _Hebrew Quest_ Lesson 13 Prepositions Lecture <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.1.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -136,15 +136,7 @@ yY3O8ByYNwI?start=1839&end=2303
 &rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
 </div>
 
-<figure>
-    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Prepositions Lecture</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/06.1.1.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=1839){target="_blank"}
 
@@ -179,7 +171,7 @@ function x25() {
      x.play(); } 
 </script></figure>
 :::
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "800pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/06.nun-assimilation.gif")
 ```
@@ -187,21 +179,21 @@ knitr::include_graphics("images/06.nun-assimilation.gif")
 * Nun is considered a "weak letter" 
 * One aspect of weak letters is that they disappear from a word under specific scenarios
 * One such scenario is when the nun appears with a SILENT Sheva <span class="he">נְ</span> (or no vowel at all)
-* When then nun drops, whenever possible, it will be replaced with a Dagesh Forte
+
+> When then nun drops, whenever possible, it will be replaced with a Dagesh Forte
+
 * The technical term for this is called "assimilation"
     * So grammarians say, "the  <span class="he">נ </span> has assimilated into a Dagesh Forte"
 * To get back to the original/lexical form, we would substitute the Dagesh Forte for the Nun+Sheva
 
 ::: {.box .light}
-ASSIMILATED NUN
-
 A Dagesh Forte frequently indicates an assimilated <span class="he"> נ</span>
 :::
+> When the Dagesh Forte is rejected, we have lost our big clue that a letter like  <span class="he">נ</span> has gone missing
 
-* When the Dagesh Forte is rejected, we have lost our big clue that a letter like  <span class="he">נ</span> has gone missing
-    * We've said before that the Daghesh Forte is our friend; it alerts us that something unusual is going on
-    * When the Daghesh Forte is rejected, we run the risk of missing out on something the language is trying to tell us
-    * Occasionally, but not always, we will have Compensatory Lengthening to help us out
+* We've said before that the Dagesh Forte is our friend; it alerts us that something unusual is going on
+* When the Dagesh Forte is rejected, we run the risk of missing out on something the language is trying to tell us
+* Occasionally, but not always, we will have Compensatory Lengthening to help us out
 
 
 ## Independent and Maqqef prepositions 
@@ -233,25 +225,30 @@ function x25() {
 :::
 
 * There are three different types of Hebrew prepositions: independent, Maqqef, and inseparable
-* An _independent preposition_ is a separate word with a space before it and after it
-    * The preposition comes first, followed by its object (just like English). E.g.,  <span class="he">תַּחַת אֹתוֹ</span> (under it)
+
+> An _independent preposition_ is a separate word with a space before it and after it
+
+* The preposition comes first, followed by its object (just like English). E.g.,  <span class="he">תַּחַת אֹתוֹ</span> (under it)
+
+> In a _Maqqef preposition_, the Maqqef connects a preposition to its object
+
+* Again, the preposition comes first:  <span class="he">עַל־מֶלֶךְ</span>
+    * English prepositions are NOT written this way; we would never see "on-a-king."
+    * One notable aspect about the Maqqef is that the first word (to the left of the Maqqef) loses its accent
+    * As a result, the vowel that loses its accent may change
 * _Maqqef_ is a mark like the English hyphen
     * The two marks are nearly identical in meaning and appearance
         * the Hebrew Maqqef is raised:  <span class="he">א־בּ</span> 
         * the English hyphen is midline: a-b  
-    * Like the hyphen used to join two English words, the Maqqef lets us know that two Hebrew words are closely connected grammatically
-* In a _Maqqef preposition_, the Maqqef connects a preposition to its object
-    * Again, the preposition comes first:  <span class="he">עַל־מֶלֶךְ</span>
-        * English prepositions are NOT written this way; we would never see "on-a-king."
-    * One notable aspect about the Maqqef is that the first word (to the left of the Maqqef) loses its accent
-        * As a result, the vowel that loses its accent may change
-    
+    * Like the hyphen used to join two English words, the Maqqef lets us know that two Hebrew words are closely connected grammatically    
+
 ::: {.box .info}
 The same preposition may be written both with and without the Maqqef
+:::
 
 * The meaning does not change
 * <span class="he">עַל מֶלֶךְ</span> means the same as <span class="he">עַל־מֶלֶךְ</span>
-:::
+
 
 ## Inseparable prepositions
 
@@ -282,26 +279,26 @@ function x25() {
 :::
 
 * Like <span class="he">וְ</span> for the word "and," an inseparable preposition is a one-letter prefix affixed to its object
-* Three Hebrew prepositions are **ALWAYS** inseparable
-    * <span class="he">בְּ</span> - in, at, with, by, against
-        * <span class="he">בְּמֶ֫לֶךְ</span> -  With a king
-    * <span class="he">כְּ</span> - as, like, according to
-        * <span class="he">כְּמֶ֫לֶךְ</span> - Like a king
-    * <span class="he">לְ</span> - to, toward, for
-        * <span class="he">לְמֶ֫לֶךְ</span> - To/towards a king
+
+> Three Hebrew prepositions are **ALWAYS** inseparable
+
+* <span class="he">בְּ</span> - in, at, with, by, against
+    * <span class="he">בְּמֶ֫לֶךְ</span> -  With a king
+* <span class="he">כְּ</span> - as, like, according to
+    * <span class="he">כְּמֶ֫לֶךְ</span> - Like a king
+* <span class="he">לְ</span> - to, toward, for
+    * <span class="he">לְמֶ֫לֶךְ</span> - To/towards a king
 
 ::: {.box .info}
-
-* A mnemonic to remember these three inseparable prepositions is "BucKLe"
-* The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning"
-
+A mnemonic to remember these three inseparable prepositions is "BucKLe"
 :::
 
+* The first word of the Bible contains an inseparable preposition: <span class="he">בְּרֵאשִׁית</span> = "In (the) beginning"
 * In the lexical form of these prepositions, there is a Vocal Sheva vowel under the "buckle" consonant
-* If there is a Sheva or Hateph vowel in the next letter, the Rule of Sheva come into play (see Lesson 4)
+* If there is a Sheva or Hateph vowel in the next letter, that indicates the Rule of Sheva came into play (see Lesson 4)
     * Before another Vocal Sheva, the preposition usually takes a Hireq
     * Before a Guttural with a Hateph vowel, the preposition takes the corresponding short vowel
-    * Note the names of God again receive special treatment: <span class="he">לֵאלֹהִים</span> and <span class="he">לַיהוָה</span>
+    * As we mentioned in Lesson 4, the names of God again receive special treatment: <span class="he">לֵאלֹהִים</span> and <span class="he">לַיהוָה</span>
 
 
 * Finally, the  <span class="he">ב</span> and  <span class="he">כ</span> when they are the first letter of a word (as they usually will be), will take a Dagehsh Lene giving them the "hard" pronunciation
@@ -315,8 +312,8 @@ function x25() {
 ## _Hebrew Quest_ Preposition with Definite Article Lecture
 
 ::: {.infobox .sound}
-<figure> <audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.5.m4a">
+<figure> Audio from _Hebrew Quest_ Lesson 13 Preposition with Definite Article Lecture<audio id="myAudio" controls controlsList="nodownload" 
+src="./images/06.5.1.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -350,15 +347,7 @@ yY3O8ByYNwI?start=2303&end=2460
 
 [Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=2303){target="_blank"}
 
-<figure>
-    <figcaption>Audio from _Hebrew Quest_ Lesson 13 Preposition with Definite Article Lecture</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/06.5.1.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 Start: 38:23
 End: 41:00
 
@@ -400,7 +389,8 @@ knitr::include_graphics("images/06.preposition_article.png")
 ```
 
 
-* On reason we spend so much time talking about the Dagesh Forte is that it is an extremely useful clue as to what is going on within a word
+> On reason we spend so much time talking about the Dagesh Forte is that it is an extremely useful clue as to what is going on within a word
+
 * When a letter rejects the Dagesh Forte, this clue is gone
 * Below is how we can tell whether there is the article with a preposition in the absence of a Dagesh
 
@@ -448,7 +438,7 @@ function x25() {
     * Both examples above literally mean "from gold" 
 * Note the spelling of the inseparable preposition:
 
-```{r, out.width = "100pt", fig.align='center'}
+```{r, out.width = "200pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/06.preposition_min.jpg")
 ```
@@ -490,7 +480,7 @@ function x25() {
 </script></figure>
 :::
 
-Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is ALWAYS RETAINED with <span class="he">מִן</span>
+> Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is ALWAYS RETAINED with <span class="he">מִן</span>
 
 * <span class="he">מֵהָאָ֫רֶץ</span> = from the land.
 
@@ -523,7 +513,8 @@ function x25() {
 </script></figure>
 :::
 
-* <span class="he">מִן</span> occurs 7,592 times in the Bible, and can have multiple meanings
+> <span class="he">מִן</span> occurs 7,592 times in the Bible, and can have multiple meanings
+
 * The most direct purpose is "from" - <span class="he">מֵהָאָ֫רֶץ</span> from the land
 * <span class="he">מִן</span> can also have comparative (think "bigger") and superlative (think "biggest") meanings depending on the context
     * <span class="he">טוֹבָה חָכְמָה מִזָּהָב</span> = wisdom is better *than* gold 
@@ -593,8 +584,7 @@ We see the DDO twice in the first verse of the Bible:
 
 ::: {.infobox .sound}
 <figure><audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.11.m4a">
-Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+src="./images/06.11.m4a">Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
     x.playbackRate = 0.5;
@@ -627,19 +617,29 @@ function x25() {
 </div>
 
 [Click to open video in a new tab](https://youtu.be/sQKorif_GBk?t=732){target="_blank"}
-<figure>
-    <figcaption>Audio from _Hebrew Quest_ Lesson 17 Discussion of Genesis 1:1</figcaption>
-    <audio
-        controls controlsList="nodownload"
-        src="./images/06.11.1.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
+
+<div class="scc">_Hebrew Quest_ Genesis 1:1 discussion:<audio controls src="./images/06.11.1.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</div>
+
+
 Start: 12:12
 End: 46:55
 
-## Conclusion {-}
+### Genesis 1:1 {-}
+
+
+<div class="scc">Genesis 1:1 read by Abraham Shmuelof:<audio controls src="./images/06.12.t010101.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</div>
+
+
+<span class="he"><p align="right">
+‫ 1  ׃1   בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃‬
+</span></p>
+
+## Lesson 6 Conclusion 
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -678,7 +678,7 @@ A list of the most common prepositions is availble in the `BBH Lesson Summary` w
 
 :::
 
-### Anki {-}
+## Anki {-}
 
 * `Lesson 06 A. Vocab`
 * `Lesson 06 B. Grammar`
@@ -767,16 +767,9 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-::: {.box .sound}
-<figure>
-    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
-    <audio controls
-        src="./images/t2901.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-:::
+<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</div>
 
 
 <span class="he"><p align="right">

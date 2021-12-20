@@ -155,10 +155,11 @@ footnote  {
 
 /**
 Added 10/28/2020 
+
 */
 
 .title {
-    visibility: hidden;
+    display: none;
 }
 
 /**
@@ -255,10 +256,11 @@ Added 11/12/2020
   border: 1px solid var(--line);
   border-width: 1px 0;
   background: var(--blockbackground);
+  width: 85%;
   padding: 5px;
 }
 .audio audio {
-  width: 100%;
+  width: 85%;
   display: block;
   flex: 8;
 }
@@ -297,4 +299,47 @@ Added 11/12/2020
   text-decoration: none;
   display: inline-block;
   font-size: 8px;
+}
+
+/* added 12/9/21 for speed control scc = speed control container, which didn't work but I like the look of the box/*/
+
+
+.scc {
+  max-width: 30em;
+  display: block;
+  padding: 10px;
+  font-family: Sans-serif;
+  border: 2px solid darkgrey;
+  background: #f5f5f5 5px center/3em no-repeat;
+  border-radius: 10px;
+}
+.scc audio {
+  width: 100%;
+  display: block;
+}
+.scc div {
+  display: flex;
+  padding: .5em 0;
+  gap: 5px;
+}
+.scc label {
+  flex: 1
+}
+.scc input[type="range"] {
+  flex: 5
+}
+.scc span {
+  flex: 1;
+  text-align: center;
+  
+  /* The next two rules make the horizontal line go straight across in top navbar 12/16/21 */
+
+.summary > li:first-child {
+    height: 50px;
+    padding-top: 10px;
+    border-bottom: 1px solid rgba(0,0,0,.07);
+}
+
+.book .book-summary ul.summary li.divider {
+    height: 0px;
 }

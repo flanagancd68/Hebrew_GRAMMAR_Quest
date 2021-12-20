@@ -1,10 +1,9 @@
 bookdown::gitbook:
-#bookdown::tufte_html_book:
-  includes: 
+#bookdown::bs4_book
+  includes:
     in_body:  scripts.js
   keep_md: yes
   css: style.css
-  pandoc_args: [ "--csl", "turabian-author-date.csl" ]
   split_by: section+number
   citation_package: none
   config:
@@ -13,12 +12,12 @@ bookdown::gitbook:
         <li><a href="./">Hebrew GRAMMAR Quest</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://holylanguage.com/index.html" target="blank">Holylanguage.com home page</a></li>
       collapse: section
       scroll_highlight: yes
     toc_depth: 1
     toolbar:
       position: fixed
-   # edit :
     #download: ["pdf", "epub"]
     search: yes
     fontsettings:
@@ -26,14 +25,9 @@ bookdown::gitbook:
       family: sans
       size: 2
     sharing:
-      # facebook: no
-      # github: no
-      # twitter: no
-      # linkedin: no
-      # weibo: no
-      # instapaper: no
-      # vk: no
     info: yes
+
+    
 # bookdown::pdf_book:
 #   includes:
 #     in_header: preamble.tex
@@ -42,6 +36,11 @@ bookdown::gitbook:
 #   
 #   keep_tex: yes
 # bookdown::epub_book:
+#   toc: false
+#   toc_depth: 3
+#   cover_image: "images/HGQ_book_cover.png"
+#   stylesheet: style.css
+  
 #  pandoc_args: [ "--csl", "turabian-author-date.csl" ]
 # bookdown::word_document2:
 #     toc: true

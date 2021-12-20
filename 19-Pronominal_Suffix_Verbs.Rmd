@@ -1,7 +1,7 @@
 # Pronominal Suffixes {.VerbSuffix}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.intro.m4a">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.0.0.intro.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -45,7 +45,7 @@ Before continuing, be sure you understand Type 1 pronominal suffixes from Lesson
 ##  First Thought {-}
 
 ::: {.infobox .sound}
-<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19-14.Psalms 17.6.mp3">
+<figure><audio id="myAudio" controls controlsList="nodownload" src="./images/19.0.1-14.Psalms 17.6.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 <button onclick="setPlaySpeed25()" type="button">2.5x</button> <button onclick="setPlaySpeed2()" type="button">2x</button> <button onclick="setPlaySpeed15()" type="button">1.5x</button> <button onclick="setPlaySpeed1()" type="button">1x</button> <button onclick="setPlaySpeed075()" type="button">.75x</button> <button onclick="setPlaySpeed05()" type="button">.5x</button> 
 <script>
@@ -80,7 +80,7 @@ Meditate on that as you work through this lesson, and as you study the "Avinu" i
 
 
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "800pt", fig.align='center', fig.cap="Mount of Beatitudes path through an olive grove. This vicinity is the suggested location of Yeshua's teachings we call 'the Sermon on the Mount' (Matthew 5-7).  Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/19_Mount of Beatitudes path through olive grove, tb032805784.jpg")
 ``` 
@@ -146,11 +146,12 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
+> A pronominal suffix provides the OBJECT of the verb:  <span class="he">אֲכָלוֹ</span> = He ate IT (QP3ms + 3ms)
+
 * We learned in Lesson 9 that Hebrew has a Definite Direct Object marker <span class="he">אֵת</span> that takes pronominal suffixes
     *  For example, <span class="he">אֹתִי</span>, is "me" and <span class="he">אֹתְךָ</span> is "you (ms)"
-* Hebrew also attaches pronominal suffixes to verbs
+* Biblical Hebrew also attaches pronominal suffixes to verbs
 * We already learned that the PGN of the verb indicates the subject: <span class="he">אָכַל </span> = HE ate (QP3ms)
-* A pronominal suffix provides the OBJECT of the verb:  <span class="he">אֲכָלוֹ</span> = He ate IT (QP3ms + 3ms)
 
 
 ## Verbs use Type 1 Suffixes
@@ -170,7 +171,8 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-* This is good news as you will be able to recognize the suffix immediately (provided you remember them from Lesson 9!).
+> This is good news as you will be able to recognize the suffix immediately (provided you remember them from Lesson 9!).
+
 * The 1cp pronominal suffix is <span class="he">נוּ</span>, which, unfortunately, is the same as the P1cp sufformative
 * The preceding vowel/Sheva can help in most cases:
     * _IF_ SHEVA, _THEN_ the <span class="he">נוּ</span> is the is P1cp sufformative
@@ -221,6 +223,24 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 2mp | <span class="he">קְטַלְתֶּם</span> | <span class="he">קְטַלְתּ֫וּ</span>
 | 1cp | <span class="he">קָטַ֫לְנוּ</span> | <span class="he">קְטַלְנ֫וּ</span>
 
+## QP with Suffix Examples
+
+| Hebrew | English | Comments
+| -: | :- | :-
+| <span class="he">קְטָלַ֫תְהוּ</span> | she killed him | the Qamets+Hei sufformative is replaced with <vowel> + Tav
+| <span class="he">קְטַלְתָּ֫הוּ</span> | you killed him | when suffixes are added to 2ms, the sufformative is <span class="he">תּ</span>
+| <span class="he">קְטַלְתִּיו</span> | I killed him | $\hat I$ is often defective $I$ before pronominal suffix
+| <span class="he">קְטָל֫וּהוּ</span> | they killed him | $\hat U$ is often defective $U$ before pronominal suffix
+| <span class="he">קְטַלְנ֫וּהוּ</span> | we killed him | $\hat U$ is often defective $U$ before pronominal suffix
+
+See if you can translate these verbs (answers in footnotes):
+
+* <span class="he">דְרַשְׁנֻ֫הוּ</span> ^[we sought him - the P1cp preserves the spelling of the perfect sufformative, but it may be spelled defectively]
+* <span class="he">יְדַעְתּוֹ</span> ^[you knew him - the Tav with a Dagesh (preceeded by a Sheva) is an indicator of 2ms with a suffix]
+* <span class="he">יְדָעוּם</span> ^[they knew them - the 3CP preserves the perfect sufformative, but it may be spelled defectively]
+
+
+
 ## QI Vowel Changes 
 
 ::: {.infobox .sound}
@@ -239,9 +259,9 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * Imperfect $V_S$ reduces before a pronominal suffix, EXCEPT:
-    * IF the original $V_S = A$, THEN instead of reducing, $A$ _lengthens_ to $\bar A$
+    * IF the original $V_S = A$ (weak verbs), THEN instead of reducing, $A$ _lengthens_ to $\bar A$
+    * With a 2ms pronominal suffix, $V_S = \bar O$ does not reduce, but _shortens_ to $O$
 * QI3fp/QI2fp - $\nexists$
-
 
 |  | QI | QI + Pron.*
 | :- | :- | :-
@@ -255,10 +275,43 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 | 1cp | <span class="he">נִקְטֹל</span> | <span class="he">נִקְטְל</span>
 
 ::: {.box .caution}
-* Uncommonly, you may see a Daghesh Forte or a נ added to the 3ms suffix in the Imperfect as well as the Imperative
+* Uncommonly, you may see a Dagesh Forte or a נ added to the 3ms suffix in the Imperfect as well as the Imperative
 * The spelling could make it a challenge to distinguish between 3ms and 1cp suffixes 
 * The context should make it obvious
 :::
+
+## QI with Suffix Examples
+
+
+
+| Hebrew | English | Comments
+| -: | :- | :-
+| <span class="he">יִקְטְלֵ֫הוּ</span> | he will kill him | Stem vowel usually reduces (if it hasn't already) $V_S=O \to ə$
+| <span class="he">יִקְטְלוּנוּ</span> | they will kill us | $V_S=O \to ə$
+| <span class="he">יִקְטָלְךָ</span> | he will kill you | $V_S =\bar O \to O$, the MP imperfect Sufformative may be written defectively
+| <span class="he">יִשְׁלָחֲךָ</span> | He will send you | $V_S = A \to \bar A$ 
+
+
+::: {.box .caution}
+These three verbs occur frequently with a pronominal suffix and can be difficult to identify
+:::
+
+| Hebrew | English | Comments
+| -: | :- | :-
+| <span class="he">וַיִּתְּנֵם</span> | and he gave them | 
+| <span class="he">וַיִּקָּחֶ֫הָ</span> | and he took her/it | 
+| <span class="he">יְשִׂימְךָ</span> | he will place you | 
+
+
+
+See if you can translate these verbs (answers in footnotes)
+
+* <span class="he">וַיִּקְבְּרֻהוּ</span>^[And they buried him - Stem vowel reduction]
+* <span class="he">יִשְׁמָרְךָ</span>^[he will observe you - Qamets Hatuf with 2ms suffix, unless original $V_S = A$]
+* <span class="he">יִשְׁמָעֲךָ</span>^[He will hear you - Qamets when original $V_S = A$]
+
+
+
 
 ## QM Vowel Changes
 
@@ -279,7 +332,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 :::
 
 * QM2ms is Qamets Hatuf + Silent Sheva
-* QM2fs/QM2fp - $\nexists$
+* QM2fs/QM2fp - $\nexists$^[There are only eight M2fs in the entire Bible, all in the Hiphil stem]
 
 |  | QM | QM + Pron.*
 | :- | :- | :-
@@ -300,6 +353,25 @@ Imperative/Perfect Ambiguity when normal Imperative $V_S = A$
 As always, we encourage you not to be overly concerned with these infrequent exceptions.  They are just some additional things to be aware of if, as you're reading, things aren't making sense.
 
 :::
+
+## QM with Suffix Examples
+
+
+
+| Hebrew | English | Comments
+| -: | :- | :-
+| <span class="he">שָׁמְרֵם</span> | (you MS) observe them! | $V_1 = O$
+| <span class="he">דִּרְשׁוּנִי</span> | (you MP) seek me! | As with the Imperfect, the MP sufformative may be written defectively
+| <span class="he">שְׁמָעֵנִי</span> | (you MS) hear me! | As with the Imperfect, Imperatives with $V_S = A \to \bar A$
+
+
+See if you can translate these verbs (answers in footnotes)
+
+* <span class="he">שָׁפְטֵנִי</span>^[(you MS) judge me!]
+* <span class="he">תִּפְשׂוּם</span>^[(you MP) seize them!]
+* <span class="he">גְּאָלָהּ</span>^[you MS redeem it/her (fs)]
+
+
 
 ## Word Warm-up {-}
 
@@ -335,7 +407,7 @@ Once you have completed __all activities__ through this lesson, you are eligible
 [Open Badge form in a new window](https://forms.gle/4Q8STELkBPRy6mEw8){target="_blank"}
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="https://forms.gle/4Q8STELkBPRy6mEw8" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeszF_GBLtzlPsbdBD-S5Q44EqMgGcVgZ5ExL7lMyzx6vF3bA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
@@ -351,6 +423,10 @@ Once you have completed __all activities__ through this lesson, you are eligible
 | *Revise* | Refine your translation using any reliable English Bible version
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional- continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank"}
+
+<span class="scc">Hebrew Quest Matthew 6 Audio<audio controls src="./images/19.Matthew6.m4a">
+Your browser does not support the <code>audio</code> element.</audio> </span>
+
 
 ### Matthew 6 {-}
 

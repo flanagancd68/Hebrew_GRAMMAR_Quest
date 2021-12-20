@@ -5,7 +5,7 @@
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/09.intro.m4a">
+        src="./images/09.0.0.intro.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -80,7 +80,7 @@ Before continuing, can you describe the following concepts?
 <audio
         id="myAudio"
         controls controlsList="nodownload"
-        src="./images/09.gen4327.mp3">
+        src="./images/09.0.1.gen4327.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -130,7 +130,7 @@ In addition to offering up our petitions, let us be sure to hear God's questions
 
 *****
 
-```{r, out.width = "400pt", fig.align='center', fig.cap="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
+```{r, out.width = "600pt", fig.align='center', fig.cap="Banias waterfall. Region of Caesarea Philippi where Yeshua asked his talmidim a fundamental question, 'who do YOU say that I am?'. With our choices, we have the opportunity to answer this same question practically every moment of every day. See Matthew 16:13-17. Courtesy of the [Pictorial Library of Bible Lands](https://www.bibleplaces.com)"}
 
 knitr::include_graphics("images/09-Banias waterfall, tb032704275.jpg")
 ``` 
@@ -264,6 +264,8 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+> Pronominal suffixes are always "object" or "possessive" pronouns (e.g., me, my, her, him, them, theirs)
+
 Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 6, we learned about one-letter preposition prefixes to words.  Pronominal suffixes work similarly. The difference is these go on the back of words instead of the front.
 
 * On a noun, a pronominal suffix indicates the one who owns or is related to the noun:  His books / her houses / their house / our father
@@ -277,15 +279,7 @@ Hebrew has another type of pronoun in addition to stand-alone words.  In Lesson 
 
 Pronominal suffixes have *gender*, *number*, and *person*.
 
-::: {.box .info}
-* Independent personal pronouns were always "subject" pronouns (e.g., I, she, he, it, and they)
-* Pronominal suffixes are always "object" or "possessive" pronouns (e.g., me, my, her, him, them, theirs)
-:::
 
-::: {.box .caution}
-* "You" can be an ambiguous term in English, not only with number and gender but also, "you" can be either a subject or object
-* Hebrew has distinct ways of saying 2MS, 2FS, 2MP, and 2FP, as well as different forms for subject and object
-:::
 
 ## Type 1 and Type 2 Suffixes
 
@@ -322,15 +316,15 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-* Hebrew has two distinct groups of Pronominal suffixes
-* **Type 1** suffixes go on **SINGULAR** nouns<small>^[<small>As with most grammar rules, there are exceptions. For now, stick with these definitions of Type 1 and Type 2.</small>]</small>
-    * Keep in mind there are both plural and singular Type 1 suffixes for use on singular nouns
+> Hebrew has two distinct groups of Pronominal suffixes.   
+> Type 1 suffixes go on SINGULAR nouns
+> Type 2 suffixes go on PLURAL nouns
+
+* Keep in mind there are both plural and singular Type 1 suffixes for use on singular nouns^[As with most grammar rules, there are exceptions. For now, stick with these definitions of Type 1 and Type 2.] 
     * Multiple people can have ownership of a single object
     * In English, we would say "his house" and "their house"
-* **Type 2** suffixes go on **PLURAL** nouns
-    * Similar to above, there are both singular and plural type 2 suffixes for use on plural nouns
+* There are both singular and plural type 2 suffixes for use on plural nouns
     * "his houses" as well as "their houses"
-* The type of suffix on a preposition means nothing in terms of translation; each preposition will only take one class or the other
 
 ## Singular Suffixes
 
@@ -366,16 +360,19 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
-* While Type 1 and Type 2 suffixes have key differences, there are also some commonalities with both types' singular suffixes.
+
+> While Type 1 and Type 2 suffixes have key differences, there are also some commonalities with both types' singular suffixes.
+
 * Below are the singular suffixes
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/09.ps_sing_tbl.png")
 ```
 
+
 * 1CS end with <span class="he">י</span>
-* 2MS/2FS end with <span class="he">ך</span>
+* 2MS/2FS end with <span class="he">ך</span>    
 * Not all 3M/3F have <span class="he">ה</span>, but every <span class="he">ה</span> is 3M/3F
 
 ## Plural Suffixes
@@ -414,10 +411,11 @@ function setPlaySpeed25() {
 :::
 Below are the plural suffixes:
 
-```{r, out.width = "400pt", fig.align='center'}
+```{r, out.width = "600pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/09.ps_plrl_tbl.png")
 ```
+
 
 * 1CP ends with <span class="he">נוּ</span>
 * 2MP/2FP have <span class="he">כ</span>
@@ -459,12 +457,11 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
-Look at the chart below with the two types side-by-side.
 
-::: {.box .light}
-Type 2 **always** contains `vowel + yod`, but **not** `hiriq + yod`  
-Type 1 **never** contains yod, *unless* it's `hiriq+yod`
-:::
+
+>Type 2 ALWAYS contains `(vowel) + yod`, but NEVER `hiriq + yod`  
+>Type 1 NEVER contains yod, *unless* it's `hiriq+yod`
+
 
 * This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
 * When you encounter a word with a suffix, always start by asking, "is there a `vowel + yod`, that is not `hiriq + yod`?"
@@ -472,7 +469,7 @@ Type 1 **never** contains yod, *unless* it's `hiriq+yod`
     * And if `Tsere + Yod` then both the noun and the person are plural
 
 
-```{r, out.width = "600pt", fig.align='center'}
+```{r, out.width = "80%", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/09.ps_both_tbl.png")
 ```
@@ -512,7 +509,10 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
-Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  A noun is more likely to be unfamiliar to you than a preposition, so we'll focus on nouns.  Below is a procedure you may follow that should help with this.  The steps for a Type 1 suffix are on this page, and the steps for Type 2 are in the next section.
+
+> Part of learning to read Biblical Hebrew is assembling a set of skills that make it easier to navigate when you encounter an unfamiliar word in the Text.  
+
+A noun is more likely to be unfamiliar to you than a preposition, so we'll focus on nouns.  Below is a procedure you may follow that should help with this.  The steps for a Type 1 suffix are on this page, and the steps for Type 2 are in the next section.
 
 1. Remove the pronominal suffix
     * With <span class="he">שִׁיר</span>, we are done at step 1
@@ -624,7 +624,8 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
-Two of the prepositions we studied in Lesson 6 undergo some irregular changes you will encounter as you read the Bible.
+
+> Two of the prepositions we studied in Lesson 6 undergo some irregular changes you will encounter as you read the Bible.
 
 * <span class="he">כְּ</span> (like, as) and <span class="he">מִן</span> (from, etc.) often insert an extra <span class="he">מוֹ</span> or <span class="he">מּ</span> in some forms
     * Like you (2MS): <span class="he">כָּמ֫וֹךָ</span>
@@ -637,7 +638,7 @@ Two of the prepositions we studied in Lesson 6 undergo some irregular changes yo
 The rule still applies:
 
 ::: {.box .light}  
-* Type 2 suffixes **always** contain with vowel + yod, but **not** hireq + yod
+* Type 2 suffixes **always** contain with vowel + yod, but **never** hireq + yod
 * Type 1 suffixes **never** contain vowel + yod **unless** it's hireq + yod
 :::
 
@@ -677,12 +678,16 @@ function setPlaySpeed25() {
 </figure>
 :::
 * As we learned previously, <span class="he">אֵת</span> can mean either the DDO or the preposition "with".  They are spelled the same way, and either form can take a pronominal suffix.
-* <span class="he">אֵת</span> with a regular Type 1 pronominal suffix is the DDO when the <span class="he">א</span> has a vowel-marked as <span class="he">אֹ</span> or <span class="he">אֶ</span>
-    * 3MS: <span class="he">אֹתוֹ</span>
-    * 2FP: <span class="he">אֶתְכֶן</span>
-* When then author intends to communicate the preposition with, as in "with him", the <span class="he">א</span> will take a Hireq in all forms
-    * With me (1CS): <span class="he">אִתִּי</span>
-    * With them (3FP): <span class="he">אִתָּן</span>
+
+> For the DDO with a regular Type 1 pronominal suffix, the <span class="he">א</span> will take $\bar O$-Holem or $E$-Seghol
+    
+* DDO him (3MS): <span class="he">אֹתוֹ</span>
+* DDO you/you all (2FP): <span class="he">אֶתְכֶן</span>
+
+> For the preposition with, as in "with him", the <span class="he">א</span> will take $I$-Hireq in all forms
+    
+* With me (1CS): <span class="he">אִתִּי</span>
+* With them (3FP): <span class="he">אִתָּן</span>
 
 ## Look-alike words: עִם, "with", or עַם "people" 
 
@@ -718,15 +723,17 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
-These two words frequently take pronouns.  It could be easy to get them confused.  The trick is to pay close attention to the vowel under the <span class="he">ע</span>.
 
-* <span class="he">עִם</span> , with, will always have `Ayin+Hireq`, whereas <span class="he">עַם</span>, people, will always have Ayin+Patach
-    * With Me (1CS): <span class="he">עִמִּי</span>
-    * My People (1CS): <span class="he">עַמִּי</span>
-    * With them (3MP):  <span class="he">עִמָּם</span>
-    * Their people (3MP):  <span class="he">עַמָּם</span>
+These two words frequently take pronouns.  It could be easy to get them confused.  As with <span class="he">את</span>, the trick is to pay close attention to the vowel under the <span class="he">ע</span>.
 
-## Look-alike words: אֵל "God", or אֶל, "to"
+> <span class="he">עִם</span>, WITH, will always have $I$-Hireq, whereas <span class="he">עַם</span>, PEOPLE, will always have $A$-Patach
+    
+* With Me (1CS): <span class="he">עִמִּי</span>
+* My People (1CS): <span class="he">עַמִּי</span>
+* With them (3MP):  <span class="he">עִמָּם</span>
+* Their people (3MP):  <span class="he">עַמָּם</span>
+
+## Look-alike words: אֵל, אֱלֹהִ֑ים, "God", or אֶל, "to"
 
 ::: {.infobox .sound}
 <figure>
@@ -761,12 +768,16 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-This one is _slightly_ easier.  
 
-* <span class="he">אֵלִי</span>, my God is the only form of <span class="he">אֵל</span> that appears with a pronominal suffix in the Bible
-* to me (1CS) is: <span class="he">אֶלַי</span> - Patach under the <span class="he">ל</span>
+> Memorize <span class="he">אֵלִי</span> as "my God" ($I$-Hireq under the <span class="he">ל</span>), and <span class="he">אֶלַי</span> as "to me" ($A$-Patach under the <span class="he">ל</span>)
 
-Although <span class="he">אֵל</span> may not appear with a suffix apart from this one time, <span class="he">אֱלֹהִ֑ים</span> can, and in the Torah, frequently does take suffixes.   The words below are close but not equivalent.
+* <span class="he">אֵלִי</span> is the only form of <span class="he">אֵל</span> that appears with a pronominal suffix in the Bible
+
+---
+
+> <span class="he">אֱלֹהִ֑ים</span> retains the $O$-Holem over the <span class="he">ל</span>
+
+* Although <span class="he">אֵל</span> may not appear with a suffix apart from this one time, <span class="he">אֱלֹהִ֑ים</span> can, and in the Torah, frequently does take suffixes.   The words below are close but not equivalent.
 
 * <span class="he">אֱלֹהֶ֑יךָ</span>  = your God (See Deuteronomy 6:5)
 * <span class="he">אֵלֶ֫יךָ</span> = to you (2MS)
@@ -870,32 +881,28 @@ YOUR QUEST
     * voice
 3. Identify words with pronominal suffixes affixed to the following prepositions (pink)
     * between
-    * with
+    * with or the DDO
     * in
     * to
     * about
-4. Identify the vocabulary word for "food" or "bread" that is NOT part of a city's name (blue)
+4. Identify the vocabulary word for "food" or "bread" that is NOT part of a city's name. See footnote for hint (only if you need to!)^[spelled as <span class="he">לָהֶם</span>.] (blue)
 
-> You may see other words with pronominal suffixes.  These are verbs that we will cover in Lesson 19.
+> You may see other words with pronominal suffixes.  Typically, these are verbs that we will cover in Lessons 19-21.
 
 :::
 
 
 * [Blank copy of Ruth 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
-* [Ruth Pursuit Answer Key #09](./images/09_Ruth_Pursuit_KEY.pdf){target="_blank"}<small>^[<small>Note: Many English Bibles contain a footnote at Ruth 1:20 that Naomi means "pleasant"; however, the precise etymology of Naomi's name is unclear.  While her name appears to have a Type 1 1CS suffix, since it is a proper name, we are not including it in our answer key.</small>]</small>
+* [Ruth Pursuit Answer Key #09](./images/09_Ruth_Pursuit_KEY.pdf){target="_blank"}^[Note: Many English Bibles contain a footnote at Ruth 1:20 that Naomi means "pleasant"; however, the precise etymology of Naomi's name is unclear.  While her name appears to have a Type 1 1CS suffix, since it is a proper name, we are not including it in our answer key.]
 
 ### Ruth 1 {-}
 
-::: {.box .sound}
-<figure>
-    <figcaption>Click to hear Ruth 1 read by Abraham Shmuelof:</figcaption>
-    <audio controls
+<div class="scc">Click to hear Ruth 1 read by Abraham Shmuelof:<audio controls
         src="./images/t2901.m4a">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-</figure>
-:::
+</div>
 
 
 <span class="he"><p align="right">
@@ -949,7 +956,7 @@ YOUR QUEST
 ## Quest Quiz {-}
 
 <div class="containerLtr">
-<iframe class="responsive-iframe" src="https://forms.gle/7Jgs8W2vi6XKTukG6" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScqXqWFXhKEtASg30CQkbkbFlpmlVMbbntNoMqXTF_O2Y-rSA/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 [Open Quest Quiz #9 in a new window](https://forms.gle/7Jgs8W2vi6XKTukG6){target="_blank"}
