@@ -323,6 +323,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 
 knitr::include_graphics("images/26.DM2ms.gif")
 ``` 
+
 | Sing | Paradigm | Plural | Paradigm
 | :-  | :- | :-  | :-
 | DM2ms | <span class="he">קַטֵּל</span> | 2mp | <span class="he">קַטְּלוּ</span>
@@ -664,7 +665,11 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ###  Exodus 31:12-17 {-}
 
-<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0231.m4a">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<span class="scc"><audio controls src="./images/t0231.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </span>
 
@@ -684,6 +689,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 17   בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי־שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙ אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ׃ ס ‬
 
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 

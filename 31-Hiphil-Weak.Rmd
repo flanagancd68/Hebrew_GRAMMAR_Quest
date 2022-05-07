@@ -355,10 +355,13 @@ Make sure you can identify the diagnostic indicators of these Hiphil verbs.
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -407,18 +410,23 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
-## Claim your next Twelve Tribes Badge! {-}
+
+</div>
+
+
+
+
+## Claim your SIMEON Twelve Tribes Badge! {-}
 
 <!-- Lesson 31 Tribe Badge 11 = SIMEON -->
 
 Once you have completed all activities through this lesson, fill out the form below to receive your next `12 Tribes Badge`.
 
-[Open Badge form in a new window](https://forms.gle/gD1doxWveXuijHUF6){target="_blank"}
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSf0vV9u9iW9ift2hv-VduXobBptaosi4pKKsyHWcffnWeyfQw/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
 </div>
-
 
 ## Hebrew Quest Study Passage: Exodus 20 {-}
 
@@ -439,8 +447,12 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ### Exodus 20 {-}
 
-::: {.infobox .sound}
-<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0220.m4a">
+
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<span class="scc"><audio controls src="./images/t0220.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </span>
 
@@ -497,7 +509,9 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 25 וְאִם־מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה־לִּ֔י לֹֽא־תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַתְּחַֽלְלֶֽהָ׃ ‬
 
 ‫ 26 וְלֹֽא־תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל־מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא־תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו׃ פ ‬
+
 </span></p>‪
+</div>
 
 ## Lesson Extras {-}
 

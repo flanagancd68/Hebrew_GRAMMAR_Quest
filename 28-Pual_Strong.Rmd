@@ -356,17 +356,16 @@ Your browser does not support the <code>audio</code> element.</audio>
 
 
 
-## Claim your next Twelve Tribes Badge! {-}
+## Claim your REUBEN Twelve Tribes Badge! {-}
 
 <!-- Lesson 28 Tribe Badge 10 = Reuben -->
 
 Once you have completed all activities through this lesson, fill out the form below to receive your next Badge.
 
-[Open Badge form in a new window](https://forms.gle/QC5VgJExb9R89Yde8){target="_blank"}
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSet5ED7ciDFa3TY0g8dQ84BU1jjA8zEJV5o1p7j23T1_6tWnA/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
@@ -384,12 +383,17 @@ YOUR _HEBREW QUEST_!
 | *Reflect* | How is the Ruach HaKodesh speaking to you?
 | *Reinforce* | Optional - continue [Memrise](https://app.memrise.com/course/5406435/hebrew-quest-lessons-1-to-40/){target="_blank}
 
-<span class="scc">Hebrew Quest Revelation 1 Audio:<audio controls src="./images/28.Revelation1.m4a">
-Your browser does not support the <code>audio</code> element.</audio> </span>
+<span class="scc">Hebrew Quest Revelation 1 Part 1 (1-8):<audio controls src="./images/28A.Revelation1.m4a">
+Your browser does not support the <code>audio</code> element.</audio></span>
 
-
+<span class="scc">Hebrew Quest Revelation 1 Part 2 (9-20):<audio controls src="./images/28B.Revelation1.m4a">
+Your browser does not support the <code>audio</code> element.</audio></span>
 
 ### Revelation 1 {-}
+
+> Click the "Show" button for the full text of the Study Passage
+
+<div class="fold">
 
 <span class="he"><p align="right">
 חֲזוֹן יֵשׁוּעַ הַמָּשִׁיחַ אֲשֶׁר נָתַן־לוֹ הָאֱלֹהִים לְהַרְאוֹת אֶת־עֲבָדָיו אֵת אֲשֶׁר־יִהְיֶה בִּמְהֵרָה וְהוּא הוֹדִיעַ בְּשָׁלְחוֹ בְּיַד־מַלְאָכוֹ לְעַבְדּוֹ לְיוֹחָנָן׃
@@ -472,7 +476,7 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 20
  
 </span></p> 
-
+</div>
 
 
 

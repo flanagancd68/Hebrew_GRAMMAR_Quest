@@ -466,14 +466,38 @@ function setPlaySpeed25() {
 * This simple rule, plus the tips on the previous pages about patterns in gender and number, should make it easier to identify the pronominal suffix.
 * When you encounter a word with a suffix, always start by asking, "is there a `vowel + yod`, that is not `hiriq + yod`?"
 * If yes, then we have a Type 2 suffix, which indicates the noun is plural
-    * And if `Tsere + Yod` then both the noun and the person are plural
+    * And if `Tsere + Yod` then both the noun and the pronoun are plural
 
 
 ```{r, out.width = "80%", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/09.ps_both_tbl.png")
 ```
+<!-- Note: added 12/27/21 -->
 
+::: {.box .caution}
+Monosyllabic singular nouns, such as <span class="he">אָח </span> can also add $\hat I$ to *all* Type 1 suffixes
+:::
+
+* For example, <span class="he">אָחִי</span>, "my brother", <span class="he">אָחִ֫יהוּ </span> "his brother", and <span class="he">אֲחִיהֶם</span> "their brother"
+* The above rules still apply: 
+    * Type 2 ALWAYS contains `(vowel) + yod`, but NEVER `Hireq + yod`  
+    * Type 1 NEVER contains yod, *unless* it's `Hireq+yod`
+
+
+
+## Suffixes on Feminine Nouns
+
+> When a feminine singular noun ending in <span class="he"> ה ָ  </span> receives a pronominal suffix, the <span class="he"> ה </span> is replaced by <span class="he">ת</span>.
+
+* "His Torah" would be <span class="he">תּוֹרָתוֹ</span>
+    * This is known as the "FS T-form"
+* Unlike Masculine plural nouns, which drop the MP ending, feminine plural nouns retain the FP ending
+    * "His Torahs" would be <span class="he">תּוֹרוֹתָיו</span>
+    
+::: {.box .info}
+In other words, if you see a <span class="he">ת</span> immediately before a type 1 or type 2 suffix on a noun, the noun is feminine
+:::
 
 ## Identifying the Lexical Form with Type 1
 
@@ -631,15 +655,8 @@ function setPlaySpeed25() {
     * Like you (2MS): <span class="he">כָּמ֫וֹךָ</span>
     * From you (2MS): <span class="he">מִמְּךָ</span>
 
-* <span class="he">אָח</span> adds a hireq + yod before all type 1 suffixes
-    * My brother (1CS): <span class="he">אָחִי</span>
-    * Our Brother (1CP): <span class="he">אָחִינוּ</span>
-    
-The rule still applies:
-
-::: {.box .light}  
-* Type 2 suffixes **always** contain with vowel + yod, but **never** hireq + yod
-* Type 1 suffixes **never** contain vowel + yod **unless** it's hireq + yod
+::: {.box .caution}
+Some prepositions take Type 1, while others take Type 2, but, with a preposition, the meaning is the same with either suffix type
 :::
 
 
@@ -897,11 +914,12 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-<div class="scc">Click to hear Ruth 1 read by Abraham Shmuelof:<audio controls
-        src="./images/t2901.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
 </div>
 
 
@@ -950,6 +968,10 @@ YOUR QUEST
 
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
+
+
+</div>
+
 
 
 

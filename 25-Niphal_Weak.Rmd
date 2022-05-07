@@ -379,10 +379,13 @@ By now, if you have been completing your `Ruth Pursuit` table along with each le
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -431,19 +434,23 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
-## Claim your next Twelve Tribes Badge! {-}
+
+</div>
+
+
+
+
+## Claim your NAFTALI Twelve Tribes Badge! {-}
 
 <!-- Lesson 25 Tribe Badge 9 = Naftali -->
 
 Once you have completed all activities through this lesson, complete the form below to receive your next badge!
 
-[Open Badge form in a new window](https://forms.gle/ScmbVPvSFGLW9P9p8){target="_blank"}
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
-
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSd9hoaaTJs2nDWJF_5sainmqFTzbDY_iEdXFrf6WfaakdF1CQ/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
 </div>
-
 
 ## Hebrew Quest Study Passage: John 1 {-}
 
@@ -464,6 +471,10 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 
 ### John 1 {-}
+
+> Click the "Show" button for the full text of the Study Passage
+
+<div class="fold">
 
 <span class="he"><p align="right">
 
@@ -540,6 +551,7 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
  
  
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 

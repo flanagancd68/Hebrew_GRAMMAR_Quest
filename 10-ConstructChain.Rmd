@@ -184,6 +184,11 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+```{r, fig.align='center', fig.cap="A simple Construct Chain"}
+
+knitr::include_graphics("images/10.construct_chain1.gif")
+```
+
 A construct chain consists of at least two nouns linked together.  
 
 The first important thing to know about a Hebrew construct chain is this:
@@ -204,12 +209,60 @@ The first important thing to know about a Hebrew construct chain is this:
 
 ## A Construct Chain describes the FIRST noun in the chain
 
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/10.2.1.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+```{r, fig.align='center', fig.cap="A construct chain describes the first NOUN in the chain."}
+knitr::include_graphics("images/10.construct_chain2.gif")
+```
 
 > The purpose of the chain is to describe the first _noun_ in the chain, but not necessarily the first _word_ in the chain
 
 * After the the previous discussion, it might be reasonable to think that the construct chain would be describing the noun in the absolute state, but that is not usually the case
 * In <span class="he">בֵּית לֶחֶם</span>, we are describing the house, not the bread  
-* If there were a substantival adjective as the first word, e.g., "wise of heart", the chain is describing "heart," not "wise"
+* If there were a substantival adjective as the first word, e.g., <span class="he">חַכְמֵי־לֵב</span>, "wise of heart", the chain is describing "heart," not "wise"
 
 
 ## Words in Construct will not have the Article or any adjectives
@@ -249,19 +302,42 @@ function setPlaySpeed25() {
 </figure>
 :::
 
->  Nothing else can come between words in construct - this can pose translation challenges
+
+
+>  Nothing else can come between words in construct - this can pose translation challenges so watch word endings carefully
 
 * In English, we could add an adjective like "the servant of the _wicked_ son of the king"
 * In Hebrew, any adjectives must come after the whole chain
     * A literal translation would look like: "servant of son of the king the wicked"
     * To resolve, we would need to go back and determine which word the adjective modifies by matching the gender and number
-* In the example of "servant of son of the king the wicked" there is ambiguity
-    * Without more context, it is impossible to determine which of the three men is the wicked one
-* Translating is more straightforward when the nouns in the construct chain are of a mixed number or gender
+* Translating is straightforward when the nouns in the construct chain are of a mixed number or gender
     * For example: "the wife of David the strong the smart, the beautiful"
     * If "strong" and "beautiful" were FS, then we know they are referring to David's wife
     * If "smart" was MS, we know it is referring to David
     * The sentence translation would be clear: "The strong and beautiful wife of smart David"
+    * See examples below using "good", "king" and "land".  Note how the gender and number of the adjective tells us which noun it is modifying
+
+```{r, fig.align='center', fig.cap="In many cases, the gender and number of a trailing adjective can indicate which word it modifies"}
+knitr::include_graphics("images/10.construct_chain3a.gif")
+```
+::: {.box .caution}
+* When an adjective has the same gender and number as two or more nouns in the construct chain, there is potential ambugity as to which word the adjective is modifying
+* We must rely on context
+:::
+
+
+* In the example of "servant of son of the king the wicked" there is ambiguity^[We will discuss definiteness of construct words in an upcoming section.]
+    * All nouns are masculine singular, so the adjective is masculine singular
+    * See example animation below
+        * Note that this is a hypothetical example used to illustrate the potential ambiguity
+        * Most of the time, translating a construct chain with an adjective is straightforward 
+            * Often there is no ambiguity
+            * When there is, the context of the passage would indicate which man was the wicked one
+
+```{r, fig.align='center', fig.cap="Because adjectives do not appear next to construct nouns, it can sometimes be a challenge to determine which word the adjective modifies."}
+knitr::include_graphics("images/10.construct_chain3c.gif")
+```
+
 
 ## Review: what makes a word definite 
 
@@ -350,6 +426,10 @@ function setPlaySpeed25() {
 </figure>
 :::
 
+```{r, fig.align='center', fig.cap="The definiteness of the construct noun will match the definiteness of the absolute noun."}
+knitr::include_graphics("images/10.construct_chain5.gif")
+```
+
 > A construct chain is either entirely definite or entirely indefinite - aconstruct chain will never mix definite and indefinite nouns
 
 * It is the last, absolute, word that defines whether the chain is definite or indefinite
@@ -396,26 +476,35 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
+```{r, fig.align='center', fig.cap="Proverbs 1:1"}
+knitr::include_graphics("images/10.construct_chain7.gif")
+```
 
-The following are characteristics of nouns in the construct state:
+> The following are characteristics of nouns in the construct state:
 
 * Never an article
 * Never a pronominal suffix
 * Never an unaccented long vowel unless it is a vowel letter 
-    * We will see Tsere-yod and Holem-Vav
-    * We will not see Holem, Qamets, or Tsere
-    * We will see _accented_ long vowels in the penult^[That is the next to last syllable position.] - <span class="he">סֵ֫פֶר</span>
+    * We will often see Tsere-yod and Holem-Vav
+    * We will not typically see unaccented Holem, Qamets, or Tsere
+        * We will see _accented_ long vowels in the penult^[That is the next to last syllable position.] - <span class="he">סֵ֫פֶר</span>
 * No diphthong (will see Tsere+Yod or Holem-Vav)
 * May have a reduced vowel in the penult
 * Noun endings may change (next page)
 * Two nouns connected by maqqef is a construct chain
     * <span class="he">כְּבוֹד־יְהוָה</span> = The glory of the LORD
+* When there are no spelling changes, we must rely on context
+* There are three construct chains in Proverbs 1:1
+    * <span class="he">מִשְׁלֵי שְׁלֹמֹה בֶן־דָּוִד מֶלֶךְ יִשְׂרָאֵל</span>
+    * Context tells us that the last two words should not be "King Israel" but "King OF Israel" (a construct chain)
+    
 
+::: {.box .map}
+A good rule of thumb is: "Unaccented long vowel, not a vowel letter, not construct"
 
-> If the word has an unaccented long vowel (except a vowel letter) it is Absolute^[Strictly, this is not true 100% of the time, but it is close enough for our purposes]
+:::
 
-
-## Identifying Construct state by Noun Endings
+## Construct state Noun Endings
 
 
 ::: {.infobox .sound}
@@ -456,19 +545,24 @@ function setPlaySpeed25() {
 > A word-final Tsere+Yod is diagnostic of Plural and Dual construct forms
 
 
-* Nouns in construct often sometimes (but will not always) change endings
-    * Other nouns may not change endings, but will exhibit a loss of long vowels, as discussed in the previous section
-* The table below shows the Absolute ending and then the difference in the Construct form
+* As we mentioned in the previous section, a construct word may be indistinguishable from its absolute counterpart
+* Other times, construct words will exhibit a loss of long vowels, as we discussed previously
+* Frequently, however, a word in a construct state will have a different ending, which is good news as it makes the construct chain easier to identify
+* The table below shows the absolute ending and then the difference in the construct form
 
 ```{r, out.width = "300pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/10_construct_endings.png")
 ```
 
-* Example Proverbs 1:1 - <span class="he">מִ֭שְׁלֵי שְׁלֹמֹ֣ה בֶן־דָּוִ֑ד מֶ֝֗לֶךְ יִשְׂרָאֵֽל׃ </span>
+* Note again, the example Proverbs 1:1 which contains three construct chains:
     * _Proverbs of_ Solomon: Tsere+Yod ending (compare <span class="he">מָשָׁל</span>)
     * _Son of_ David: No special ending, but loss of long vowels (compare to <span class="he">בֵּן</span>), and joined by Maqqef
     * _King of_ Israel: No change (compare to <span class="he">מֶלֶךְ</span>)
+
+```{r, fig.align='center', fig.cap="Proverbs 1:1"}
+knitr::include_graphics("images/10.construct_chain7.gif")
+```
 
 ## Lesson 10 Conclusion 
 
@@ -657,6 +751,68 @@ As always, words may have prefixes or suffixes.  Try to identify whether the con
 
 ### Ruth 1 {-}
 
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
+Your browser does not support the <code>audio</code> element.</audio>
+</div>
+
+
+<span class="he"><p align="right">
+‫ 1   וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃ ‬
+
+‫ 2   וְשֵׁ֣ם הָאִ֣ישׁ אֱ‍ֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו ׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃ ‬
+
+‫ 3   וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃ ‬
+
+‫ 4   וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָֽאַחַת֙ עָרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃ ‬
+
+‫ 5   וַיָּמ֥וּתוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃ ‬
+
+‫ 6   וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃ ‬
+
+‫ 7   וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָיְתָה־שָׁ֔מָּה וּשְׁתֵּ֥י כַלֹּתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃ ‬
+
+‫ 8   וַתֹּ֤אמֶר נָעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ *יעשה **יַ֣עַשׂ יְהוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃ ‬
+
+‫ 9   יִתֵּ֤ן יְהוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃ ‬
+
+‫ 10  וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃ ‬
+
+‫ 11  וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃ ‬
+
+‫ 12  שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃ ‬
+
+‫ 13  הֲלָהֵ֣ן ׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהוָֽה׃ ‬
+
+‫ 14  וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עָרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃ ‬
+
+‫ 15  וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃ ‬
+
+‫ 16  וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃ ‬
+
+‫ 17  בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃ ‬
+
+‫ 18  וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃ ‬
+
+‫ 19  וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃ ‬
+
+‫ 20  וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃ ‬
+
+‫ 21  אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃ ‬
+
+‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
+</span></p>
+
+
+</div>
+
+
+
+
+
 <div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
@@ -723,18 +879,18 @@ Your browser does not support the <code>audio</code> element.</audio>
 
 [Open Quest Quiz #10 in a new window](https://forms.gle/ST6XfCvKRXHRfxfVA){target="_blank"}
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## Claim your GAD Twelve Tribes Badge! {-}
 
 
 When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` through Lesson 10, complete the certification below, and your badge will be on its way!
 
 <!-- Tribe Badge 4 = gad -->
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfQN__POt8uRnfPCRkaMILJgh7-cXMWbGna1GavqC4j0aQ5rw/viewform?embedded=true" frameborder="0"></iframe>
-</div>
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
-[Open Badge form in a new window](https://forms.gle/7X1tmBcU5WtGT46A7){target="_blank"}
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
+</div>
 
 ## Lesson Extras {-}
 

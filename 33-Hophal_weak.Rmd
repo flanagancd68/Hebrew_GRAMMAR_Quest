@@ -30,6 +30,15 @@ Most of the Hopal verbs in the Bible are weak.  As with all the forms, we start 
 
 Before continuing, be sure you can identify Hophal Perfect, Imperfect, and Participle Strong verbs
 
+Parse the following:
+
+* <span class="he">הָקְטַ֫לְתָּ</span> 
+    * <div class="fold">HpP2ms</div>
+* <span class="he">הִקְטַ֫לְתָּ</span>
+    * <span class="fold">HP2ms</span>
+* <span class="he">הִקָּֽטְלוּ</span>
+    * <span class="fold">NM2mp</span>
+    
 :::
 
 ## First Thought {-}
@@ -197,7 +206,11 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ### Psalms 45 {-}
 
-<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t2645.m4a">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<span class="scc"><audio controls src="./images/t2645.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </span>
 
@@ -241,6 +254,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 18  אַזְכִּ֣ירָה שִׁ֭מְךָ בְּכָל־דֹּ֣ר וָדֹ֑ר עַל־כֵּ֥ן עַמִּ֥ים יְ֝הוֹדֻ֗ךָ לְעֹלָ֥ם וָעֶֽד׃ ‬
 
 </span></p>
+</div>
 
 
 ## Lesson Extras {-}

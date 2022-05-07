@@ -8,7 +8,7 @@ FAQs about the Course
 * [What can I do with the knowledge taught in Hebrew GRAMMAR Quest?](#whocanuse)
 * [What is a typical Hebrew GRAMMAR Quest lesson?](#typical_lesson)
 * [What are the required/optional course resources?](#optional_resources)
-* [How do I use and navigate the Hebrew GRAMMAR Quest guidebook?](#navigating)
+* [How do I use and navigate the Hebrew GRAMMAR Quest website?](#navigating)
 * [Why is it called "Hebrew GRAMMAR Quest"?](#whygrammarquest)
 
 
@@ -90,14 +90,16 @@ function x25() {
 </script></figure>
 :::
 
-We've said that Hebrew GRAMMAR Quest does not replace _Hebrew Quest_.  Instead, we believe Hebrew GRAMMAR Quest supports and extends _Hebrew Quest_.  In fact, one way to think of Hebrew GRAMMAR Quest could be as "Hebrew Quest: Extended Edition"!  
-
-Suppose you were to take a hypothetical microscope and inspect Lessons 13-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Nouns, Pronouns, Verbs, and other grammar topics.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
-
 ```{r, out.width = "800pt", fig.align='center'}
 
 knitr::include_graphics("images/i.hq_hgq.png")
 ``` 
+
+We've said that Hebrew GRAMMAR Quest does not replace _Hebrew Quest_.  Instead, we believe Hebrew GRAMMAR Quest supports and extends _Hebrew Quest_.  In fact, one way to think of Hebrew GRAMMAR Quest could be as "Hebrew Quest: Extended Edition"!  
+
+Suppose you were to take a hypothetical microscope and inspect Lessons 12-15 of _Hebrew Quest_. These are the lessons where Izzy reviews Vowels, Nouns, Pronouns, Verbs, and other grammar topics.  Under that microscope, <u>Hebrew GRAMMAR Quest</u> is what you would see. 
+
+
 
 * Hebrew GRAMMAR Quest will start with a brief review of the Aleph-bet and the vowels we learned in _Hebrew Quest_ Lessons 1-12
 * Then we begin our deep dive into core grammar topics touched upon in _Hebrew Quest_ Lessons 13-15
@@ -164,12 +166,12 @@ Refer to the section on Anki and course setup to get your Hebrew GRAMMAR Quest o
 ## Why is the course called "Hebrew GRAMMAR Quest"? {- #whygrammarquest}
 
 * **Hebrew** - the course is about _Hebrew_ grammar as opposed to some other kind of grammar!
-* **GRAMMAR** - The word "GRAMMAR", in all caps, emphasizes its distinctness from _Hebrew Quest_; yet placing the word "GRAMMAR* in the middle of _Hebrew Quest_ is a nod to the course's roots and integration with the original _Hebrew Quest_
+* **GRAMMAR** - The word "GRAMMAR", in all caps, emphasizes its distinctness from _Hebrew Quest_; yet placing the word "GRAMMAR" in the middle of _Hebrew Quest_ is a nod to the course's roots and integration with the original _Hebrew Quest_
 * **Quest**  - calling the course a "Quest" means there is joy and reward in the _journey_ as well as treasure once the mission is completed
 
   
 
-## Navigating the Hebrew GRAMMAR Quest guidebook {- #navigating}
+## Navigating the Hebrew GRAMMAR Quest website {- #navigating}
 
 ::: {.infobox .sound}
 <figure> <audio id="myAudio" controls controlsList="nodownload" 
@@ -212,7 +214,7 @@ These do the following tasks:
 * the little `i` shows you available keyboard shortcuts
 
 
-There are several ways to navigate from page to page within this guidebook:
+There are several ways to navigate from page to page within this website:
 
 * Use the left-navigation sidebar (type `s` to reveal/hide)
 * Click the left or right arrow on each page to go forward or back
@@ -221,7 +223,7 @@ There are several ways to navigate from page to page within this guidebook:
 
 ### Information Boxes {-}
 
-As you work though the Hebrew GRAMMAR Quest guidebook, you will notice several different information boxes uses to call out various topics.
+As you work though Hebrew GRAMMAR Quest, you will notice several different information boxes uses to call out various topics.
 
 ::: {.infobox .map}
 QUEST BOX
@@ -308,7 +310,7 @@ function x25() {
 In this course, you won't just read; you will DO!  This course is going to be jam-packed with activities. Below is what a typical lesson will contain^[We are following the same chapter organization as the textbook <u>Basics of Biblical Hebrew</u>, while extensively leveraging supplemental materials created by Dr. John Beckman, which he has generously made available for free to the Hebrew learning community.  See the [Course Structure](#what_to_expect) and our [Acknowledgments](#acknowledgments) pages for additional information.]:
 
 ::: {.box .caution}
-A general comment about the guidebook
+A general comment about Hebrew GRAMMAR Quest
 
 * At times, you may feel like information is being shot at you from a firehose and nothing is sinking in
 * Often, this is just how it is when learning a new language
@@ -324,7 +326,7 @@ A general comment about the guidebook
   READING | 
 Lesson Itinerary | Introduction and the lesson's learning objectives | <1
 Equipment Check|Things you must have in your backpack before proceeding with the next phase of your journey | <1
-First Thought |A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
+First Thought | A Bible verse from the lesson in Hebrew, audio from Izzy, and a brief devotional | 5
 Lesson Points | The main grammar concepts. Our goal is to give you just enough information to get started in `Anki`.  You can easily identify the Lesson Points as they will be the numbered sections in each lesson. 1.1, 1.2, etc.  Following each lesson, there will be a `BBH Lesson Summary` available from the `Lesson Extras` pages | 15-45
  ACTIVITIES|
  `Word and Verse Warm-ups`|Starting with Lesson 3, these are brief "stretching" exercises before doing the `Anki` workouts, narrated by Izzy! | 5-10
@@ -646,8 +648,10 @@ knitr::include_graphics("images/00.anki_custom.png")
 * [This site](https://scholarsgateway.com/search/WLC-ESV/Exodus/16:25) is extremely helpful with identifying parts of speech in the Tanach.
 :::
 
-The video link walks through these steps:  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}:
+The video link walks through these steps:  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=jp8rhufAMU){target="_blank"}:
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/jp8rhufAMU?&showinfo=0&autohide=1&autoplay=0" frameborder="0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/
+jp8rhufAMU?rel=0&showinfo=0&autohide=1&autoplay=0" frameborder="0"></iframe>
 </div>
+

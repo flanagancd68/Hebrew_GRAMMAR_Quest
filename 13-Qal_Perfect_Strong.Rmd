@@ -1099,7 +1099,7 @@ function setPlaySpeed25() {
 * We are going to go a little out of order
 * Typically, we save all of the activities for the end of the lesson, but here, we want you to pause and complete the [Qal Perfect Strong Paradigm](./images/13_qal_perfect_strong_paradigm.pdf){target="_blank"}.
 
-> Complete the paradigm from memory at least once, then return here and continue in the guidebook.
+> Complete the paradigm from memory at least once, then return here to continue with the lesson
 
 * We know you're tempted to keep on clicking to read the pages that follow.  Resist!
 * Doing the worksheet now will maximize your learning time
@@ -1425,7 +1425,7 @@ knitr::include_graphics("images/13.QP_paradigm.gif")
         * When you encounter a "weak" verb, such as <span class="he">מָלְאָ֥ה</span>, which is 3א, or <span class="he">יָדָ֔עוּ</span>, which is 3עח (A ח or ע as $R_3$), try to see what changes occur (based on what you already know about Gutturals)
 * `Lesson 13 D. Study Verses`
 
-> Unless there is something unique to point out, we will omit the Anki section from the Hebrew GRAMMAR Quest Guidebook going forward. You know the drill!  Be sure to do the four Anki levels after each Lesson.
+> Unless there is something unique to point out, we will no longer call out the Anki sections going forward. You know the drill!  Be sure to do the four Anki levels after each Lesson.
 
 ## Ruth Pursuit {-}        
 
@@ -1449,10 +1449,13 @@ YOUR QUEST:
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -1501,16 +1504,22 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
-## Claim your next Twelve Tribes Badge! {-}
+
+</div>
+
+
+
+
+## Claim your ISSACHAR Twelve Tribes Badge! {-}
 
 <!-- Lesson 13 Tribe Badge 5 = Issachar -->
 
 When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` up to and including this lesson, complete the certification below, and your badge will be on its way!
 
-[Open Badge form in a new window](https://forms.gle/ywRYeNmuKkK441Pj9){target="_blank"}
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSfd2i5jVkXbXRsX32HKbX5k3XOZAAriT2AL_4PLQsW8gRwiog/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 ## Honors Track: Hebrew Quest Study Passage - Proverbs #5-7 {-}
@@ -1539,6 +1548,11 @@ Your browser does not support the <code>audio</code> element.</audio> </div>
 
 
 ### Proverbs Sessions 5-7 {-}
+
+
+> Click the "Show" button for the full text of the Study Passages
+
+<div class="fold">
 
 <span class="he"><p align="right">
 
@@ -1612,6 +1626,7 @@ Your browser does not support the <code>audio</code> element.</audio> </div>
 (15:23)
 
 </span></p>
+</div>
 
 
 ## Lesson Extras {-}

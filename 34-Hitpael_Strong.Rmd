@@ -41,6 +41,15 @@ EQUIPMENT CHECK
 
 Before continuing, make sure you understand the Piel stem, as the Hitpael stem is closely related
 
+Parse the following:
+
+* <span class="he">קִטַּלְתֶּם </span> 
+    * <div class="fold">DP2mp</div>
+* <span class="he">קְטַלְתֶּם </span>
+    * <span class="fold">QP2mp</span>
+* <span class="he">קַטְּלוּ</span>
+    * <span class="fold">DM2mp</span>
+    
 :::
 
 ##  First Thought {-}
@@ -393,16 +402,16 @@ Your browser does not support the <code>audio</code> element.</audio>
 
 
 
-## Claim your next Twelve Tribes Badge! {-}
+## Claim your ZEBULUN Twelve Tribes Badge! {-}
 
 <!-- Lesson 34 Tribe Badge 12 = ZEBULUN -->
 
-Once you have completed **all activities** through this lesson, fill out the form below, and receive your next badge!
+Once you have completed **all activities** through this lesson, fill out the form below, and receive your next badge!  You are nearly finished with Hebrew GRAMMAR Quest!  Way to go!
 
-[Open Badge form in a new window](https://forms.gle/ejQEQDRGZJT1v8jE6){target="_blank"}
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScLo2kqkYgJuZGPruRS0j_OS7VMnBkp3o2cPFZ_xG7AkoGHOQ/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 
@@ -432,7 +441,11 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ### Leviticus 23 {-}
 
-<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0323.m4a">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<span class="scc"><audio controls src="./images/t0323.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </span>
 
@@ -525,7 +538,9 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 43  לְמַעַן֮ יֵדְע֣וּ דֹרֹֽתֵיכֶם֒ כִּ֣י בַסֻּכּ֗וֹת הוֹשַׁ֙בְתִּי֙ אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּהוֹצִיאִ֥י אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃ ‬
 
 ‫ 44  וַיְדַבֵּ֣ר מֹשֶׁ֔ה אֶת־מֹעֲדֵ֖י יְהוָ֑ה אֶל־בְּנֵ֖י יִשְׂרָאֵֽל׃ פ 
+
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 

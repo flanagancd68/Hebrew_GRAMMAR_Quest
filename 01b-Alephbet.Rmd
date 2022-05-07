@@ -86,7 +86,7 @@ If you are eager to jump right in with Lesson 1, we understand.  We are also exc
 BEFORE CONTINUING, MAKE SURE YOU HAVE READ THE `GETTING STARTED` SECTION IN THE INTRODUCTION
 
 * Have you downloaded your [`COURSE CHECKLIST`](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"}? 
-* Are you ready to go with ARE READY TO GO WITH [ANKI](#anki_settings)!
+* Are you ready to go with [ANKI](#anki_settings)?
 
 :::
 
@@ -118,6 +118,7 @@ function x25() {
 :::
 
 ::: {.box .light}
+* Use the "First Thought" as a brief meditation to remind us drawing closer to Him is why we are studying Hebrew
 * Listen to the verse in Hebrew
 * Practice speaking until you can pronounce just like Izzy 
   * You can slow the audio down if needed
@@ -167,7 +168,7 @@ function x25() {
 :::
 
 
-```{r, fig.align='center'}
+```{r, fig.align='center', fig.cap="The 22 Consonants of the Hebrew Aleph-Bet"}
 include_graphics("images/alephbet.png")
 ```
 
@@ -222,13 +223,17 @@ function x25() {
 
 >Click in the Sound Box above to sing along!
 
+```{r, out.width = "50%", fig.align='center', fig.cap="Memorize the Hebrew Aleph-Bet"}
+knitr::include_graphics("images/01.2-alephbet.png")
+```
+
+
+
 Dr. John Walton of Wheaton College composed a tune to help us memorize the Aleph-bet^[Unfortunately, YouTube won't let us embed this video on this page].Hebrew is read from RIGHT to LEFT.
 
 [Open Aleph-Bet video in new tab](https://www.youtube.com/watch?v=hIEB8bpJZhY&feature=youtu.be){target="_blank"}
 
-```{r, out.width = "60%", fig.align='center'}
-knitr::include_graphics("images/01.2-alephbet.png")
-```
+
 
 ## Hebrew is written and read from RIGHT-to-LEFT {#right_to_left}
 
@@ -258,12 +263,13 @@ function x25() {
 </script></figure>
 :::
 
+```{r, fig.align='center', fig.cap="Right to left"}
+knitr::include_graphics("images/01.right_to_left.gif")
+```
+
+
 >When reading Hebrew, always start at the "back of the book" and go from RIGHT to LEFT
 
-
-```{r, fig.align='center'}
-include_graphics("images/right_to_left.png")
-```
 
 
 Note the front of a Hebrew book is the back of an English one:
@@ -311,7 +317,7 @@ function x25() {
 </script></figure>
 :::
 
-```{r, fig.align='center'}
+```{r, fig.align='center',, fig.cap="The Kimnepatz Letters"}
 knitr::include_graphics("images/kimnepatz.gif")
 ```
 
@@ -406,7 +412,7 @@ function x25() {
 </script></figure>
 :::
 
-```{r, fig.align='center'}
+```{r, fig.align='center', fig.cap="The Begad Kephat Letters"}
 knitr::include_graphics("images/bdgkpt.gif")
 ```
 
@@ -471,7 +477,7 @@ function x25() {
 </script></figure>
 :::
 
-```{r, fig.align='center'}
+```{r, fig.align='center', fig.cap="The Guttural Letters, and Resh, the sometimes-Guttural"}
 knitr::include_graphics("images/gutturals.gif")
 ```
 
@@ -480,7 +486,7 @@ knitr::include_graphics("images/gutturals.gif")
 * There are four proper gutturals^[In modern linguistics, these are called `glottals`]: Aleph, Hei, Chet, and Ayin (in red above)
 * The letter Resh <span class="he">ר</span> (in orange above) is not formally a Guttural; but since it can’t decide whether to behave or not, sometimes we include Resh with the other Gutturals
 * We like to say that the gutturals (and sometimes Resh) will be our trouble-makers because they tend not to play nice with the other Hebrew rules! 
-    * The good news is the behavior of the Gutturals and Resh is entirely predictable
+    * The good news is the behavior of the Gutturals and Resh is usually predictable
     * We will learn this over the next few lessons (and indeed, the rest of the course) 
 * For now, memorize the group of four guttural consonants in red and Resh, the sometimes-guttural-like letter in orange.
 
@@ -517,7 +523,7 @@ function x25() {
 </script></figure>
 :::
 
-```{r, fig.align='center'}
+```{r, fig.align='center', fig.cap="The SQiN eM LeVY Letters"}
 knitr::include_graphics("images/01_sqinemlevy_gif.gif")
 ```
 
@@ -564,9 +570,15 @@ function x25() {
 </script></figure>
 :::
 
+```{r, fig.align='center', fig.cap="The Look-alike Letters"}
+knitr::include_graphics("images/01.look_alike.gif")
+```
+
+01.look_alike.gif
+
 >Hebrew has many letters that can look similar, especially to someone just learning the Aleph-bet
 
-* For example <span class="he">נ</span>, <span class="he">ג</span> and <span class="he">כ</span>; <span class="he">ס</span> and <span class="he">ם</span>; or <span class="he">ר</span>, <span class="he">ד</span>, and <span class="he">ך</span>
+
 * The `Anki` deck will give you practice on distinguishing these.
 * Also, in Hebrew Quest, when Izzy reviewed the Aleph-Bet in lessons 2-11, he talked about each letter’s "twin" and how to spot the difference 
 * So again, if you haven't watched those lessons or if it has been a while, we encourage you to revisit those [letter lessons](https://holylanguage.com/letters.html). 
@@ -604,14 +616,14 @@ function x25() {
 </script></figure>
 :::
 
-```{r, fig.align='center'}
+```{r, fig.align='center', fig.cap="Pronunciation Differences"}
 knitr::include_graphics("images/vav.png")
 ```
 
->There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and "real-world" Hebrew spoken today in Israel.  
+>There are some notable differences between what we might call academic or "seminary^["Seminary Hebrew" is a term borrowed from Dr. John Beckman. We don't say "Seminary Hebrew" to be disrespectful; we only mean to differentiate between the two pronunciation types.]" Hebrew and Sephardic Hebrew spoken today in Israel.  
 
 * Academic/Seminary pronunciation is in red above, while Sephardic pronunciation is in blue.
-* Modern Hebrew, including modern pronunciation of the Tanakh, is based on Sephardic pronunciation^[There is also what is called Ashkenazi pronunciation, which is beyond the scope of this course.  It also has some different pronunciations.  Most notably, the letter ת is given an "s" sound at the end of a word, and "O" vowels are more prominent.  So שׁבּת (shabbat), would be pronounced "Shabbos" in Ashkenazi.]
+* Modern pronunciation of the Tanakh, is based on Sephardic pronunciation; _Hebrew Quest_ follows Sephardic pronunciation^[There is also what is called Ashkenazi pronunciation, which is beyond the scope of this course.  It also has some different pronunciations.  Most notably, the letter ת is given an "s" sound at the end of a word, and "O" vowels are more prominent.  So שׁבּת (shabbat), would be pronounced "Shabbos" in Ashkenazi.]
 * Consonants
   * With "Seminary Hebrew," all six <span class="he">בגד כפת</span> letters take on a soft pronunciation, not just the three "BucK uP" letters
     * The <span class="he">ג</span> without the Dagesh Lene would receive something like the GH in "aGHast." The <span class="he">ד</span> and <span class="he">ת</span> without the Dagesh Lene are closer to the English DH/TH like "this" 
@@ -663,7 +675,7 @@ function x25() {
 :::
 
 
-Now we'll move into the Activities.  This is where you take what you learned above and put it into practice using `Anki`^[See the `Anki and Course Setup` section in the `Introduction` for more information on Anki and to download the Hebrew GRAMMAR Quest Anki decks.].  
+Now we'll move into the Activities.  This is where you take what you learned above and put it into practice using `Anki`^[See the `Anki and Course Setup` section in the `Getting Started` section for more information on Anki.  Click [here](#decks) to download the Hebrew GRAMMAR Quest Anki decks.].  
 
 ## Anki {-}
 
@@ -672,6 +684,19 @@ Now we'll move into the Activities.  This is where you take what you learned abo
 * `Lesson 01 C. Study Verses` - we won't be working on any Study Verses just yet, but we will learn some grammar shorthand that we will use when we get to Lesson 3.
 
 Access Anki using your mobile app, desktop version, or [the web-based version (login may be required)](https://ankiweb.net/decks/){target="_blank"}
+
+::: {.box .info}
+
+* When you are first learning, we recommend you start with `Lesson 01 A. Vocab`, then when you are finished move on to `Lesson 01 B. Grammar`, and so on
+* When all cards in each of the individual modules are out of the Learning stage, then we suggest you review all of `Lesson 01` together
+* When you have finished all three Lessons in Unit I, then you may review `1. Lessons 1-3` together
+
+:::
+
+```{r, out.width='50%', fig.align='center', fig.cap="Click the +/- button to show/hide Anki levels"}
+knitr::include_graphics("images/01.anki_levels.gif")
+```
+
 
 Make sure you have followed all of the Getting Started instructions.  We have additional information on `Anki` in the appendices:
 
@@ -712,8 +737,7 @@ function x25() {
 * You can do this activity online using Google Docs or download/print and use physical highlighters.
 * Click the link to open a [blank copy of Ruth Chapter 1](https://docs.google.com/document/d/1bcT1J-fcVmD1Zn5Jk2nj0560tEddcgtbYZLkwaVVuyE/copy){target="_blank"}
     * You may need to sign in with a Google account
-    * You may wish to rename the document with the applicable lesson # as you will be reusing the blank document multiple times
-* We strongly encourage you to go line by line through the passage and do not use the "Find" function in your word processor
+* We strongly encourage you to go line by line through the passage (versus using the "Find" function in your word processor)
     * Line by line will take longer, but you will learn more^[Do not get discouraged if at this point you don't understand what you are reading. Just go through the passage line by line with each Ruth Pursuit lesson as best as you can; you may be surprised what sinks in!]
 
 ::: {.box .map} 
@@ -740,7 +764,11 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
 
@@ -792,7 +820,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 </span></p>
 
 
-
+</div>
 
 
 
@@ -879,11 +907,11 @@ Here is our first `Quest Quiz`.  Remember to treat this as a self-assessment.  I
 
 > Most of the time, you will want the `Quest Quiz` to be your very last activity in a given lesson.  
 
-* In other words after you have completed `Anki` so that all the lesson's cards are, at a minimum, in the `Young` stage, and all the other activities, come back here to your guidebook and attempt the `Quest Quiz` to make sure you are ready to move on to the next lesson.
+* In other words after you have completed `Anki` so that all the lesson's cards are, at a minimum, in the `Young` stage, and all the other activities, come back here and attempt the `Quest Quiz` to make sure you are ready to move on to the next lesson.
 
 
 
-[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}^[Most of the time, videos, quizzes, and other feedback forms will be embedded directly into the Hebrew GRAMMAR Quest Guidebook. If you ever have issues with the video or form not loading, click the "View in new window" link that will appear below (or instead of) the embedded frame; this will open a new window in your web browser]
+[Open Quest Quiz #1 in a new window](https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform){target="_blank"}^[Most of the time, videos, quizzes, and other feedback forms will be embedded directly into Hebrew GRAMMAR Quest. If you ever have issues with the video or form not loading, click the "View in new window" link that will appear below (or instead of) the embedded frame; this will open a new window in your web browser]
 
 <div class="containerLet">
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeqHcE8PvfkOYbTu51cNO8sf-ln6CEnRrcTBUxM0EaeojSSsA/viewform?embedded=true" frameborder="0"></iframe>

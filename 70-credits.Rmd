@@ -70,5 +70,8 @@ All honor and glory to Yeshua, our Lord. <span class="he"> שֵׁם יְהוָה
 
 | Date | Lesson | Comment
 | :- | :- | :-
+| 2021-12-31 | Anki | Change Anki deck versioning from sequential to date-based. Created a dedicated [Anki deck download page](#decks) to facilitate future updates and reduce the potential for conflicting links. Updated Checklist pages in book and spreadsheet.
+| | 9 | Added lines re: FS and monosyllabic nouns
+| | Various | Misc. other minor corrections
 | 2021-12-14 | N/A | Initial release
 

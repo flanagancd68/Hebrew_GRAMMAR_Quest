@@ -33,6 +33,15 @@ In this lesson, we will briefly look at the spelling changes of the Hitpael weak
 
 Before continuing, be sure you can identify the Hitpael preformatives in all conjugations.
 
+Parse the following:
+
+* <span class="he">יִתְקַטֵּל </span> 
+    * <div class="fold">tDI3ms</div>
+* <span class="he">מִתְקַטֵּל </span>
+    * <span class="fold">tDPtms</span>
+* <span class="he">הִתְקַטֵּל </span>
+    * <span class="fold">tDP3ms, tDM2ms, tD∞, or tDA</span>
+
 :::
 
 ## First Thought {-}
@@ -261,10 +270,13 @@ Identify the lone Hitpael verb in Ruth 1 (which you may have already done in a p
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -313,6 +325,12 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
+
+</div>
+
+
+
+
 ## Hebrew Quest Study Passage: 1 Kings 18 {-}
 
 
@@ -334,7 +352,11 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ### 1 Kings 18 {-}
 
-<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t09a18.mp3">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<span class="scc"><audio controls src="./images/t09a18.mp3">
 Your browser does not support the <code>audio</code> element.</audio>
 </span>
 
@@ -434,6 +456,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 46  וְיַד־יְהוָ֗ה הָֽיְתָה֙ אֶל־אֵ֣לִיָּ֔הוּ וַיְשַׁנֵּ֖ס מָתְנָ֑יו וַיָּ֙רָץ֙ לִפְנֵ֣י אַחְאָ֔ב עַד־בֹּאֲכָ֖ה יִזְרְעֶֽאלָה׃ ‬
 
 </span></p>
+</div>
 
 
 ## Lesson Extras {-}

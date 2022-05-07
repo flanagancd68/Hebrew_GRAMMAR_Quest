@@ -355,8 +355,7 @@ End: 41:00
 ## The Article and Inseparable Prepositions
 
 ::: {.infobox .sound}
-<figure> <figcaption>Audio from _Hebrew Quest_ Lesson 13 Preposition with Definite Article Lecture</figcaption><audio id="myAudio" controls controlsList="nodownload" 
-src="./images/06.6.m4a">
+<figure><audio id="myAudio" controls src="./images/06.6.m4a">
 Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
 var x = document.getElementById("myAudio");
 function x05() { 
@@ -438,12 +437,13 @@ function x25() {
     * Both examples above literally mean "from gold" 
 * Note the spelling of the inseparable preposition:
 
-```{r, out.width = "200pt", fig.align='center'}
+```{r, fig.align='center'}
 library(knitr)
-knitr::include_graphics("images/06.preposition_min.jpg")
+knitr::include_graphics("images/06.min2.gif")
 ```
 
 * When we see `Mem+Hireq+Dagesh`, we know it is <span class="he">מִן</span> written as an inseparable preposition
+    * The <span class="he">נ</span> has "assimilated" into the Dagesh Forte
 * As we know by now, the Gutturals and Resh reject the Dagesh Forte:
     * <span class="he">א ע ה ר</span> have compensatory lengthening, so the Hireq becomes Tsere
     * <span class="he">ח</span> has virtual doubling, which as we remember means "virtually no doubling" in that the vowel under the <span class="he">מ</span> remains a Hireq
@@ -481,6 +481,13 @@ function x25() {
 :::
 
 > Unlike the regular "BucKLe" inseparable prepositions, the <span class="he">ה</span> of the article is ALWAYS RETAINED with <span class="he">מִן</span>
+
+```{r, fig.align='center'}
+
+knitr::include_graphics("images/06.min.gif")
+```
+
+
 
 * <span class="he">מֵהָאָ֫רֶץ</span> = from the land.
 
@@ -750,7 +757,7 @@ YOUR QUEST
 
 1. Highlight the following words that begin with the inseparable prepositions and provide a definition (Yellow)
     * <span class="he">בָּאָרֶץ</span>
-    * <span class="he">בַדֶּרֶךְ</span>     
+    * <span class="he">בַדֶּרֶךְ</span>     ^[Note there is no Dagesh Lene in the ב.  rea the passage in context and see if you can determine why?]
     * <span class="he">לְבֵית</span>
     * <span class="he">לִי</span>     
 2. Find examples of מִן (there is one Maqqef and the rest are inseparable) - translate the Maqqef phrase (look up the object of the מִן preposition in a lexicon if needed) (Green)
@@ -767,7 +774,11 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
 
@@ -819,7 +830,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 </span></p>
 
 
-
+</div>
 
 
 

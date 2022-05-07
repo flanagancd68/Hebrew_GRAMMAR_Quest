@@ -17,17 +17,19 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 </script> </figure>
 :::
 
-::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit IV Anki Deck (version 1)](./images/HGQ_Anki_Unit4_V01.0.apkg){target="_blank"} if you haven't already done so
-:::
+
 
 Congratulations!  You now have the hardest work of a first-year Hebrew grammar course behind you.  From here on out, we will be studying the six major derived Hebrew Verb stems Niphal, Piel, Pual, Hiphil, Hophal, and Hitpael.
 
-The reason we spent so much time on the Qal stem is not only because it's the most frequently occurring stem, but everything from this point forward is based on what you learned in Unit III.  This means, for the most part, the lessons that follow will be shorter and much more methodical.
+> The reason we spent so much time on the Qal stem is not only because it's the most frequently occurring stem, but everything from this point forward is based on what you learned in Unit III.  This means, for the most part, the lessons that follow will be shorter and much more methodical.
 
 If you remember our introduction to Unit III, we drew the comparison to a math formula.  If we know $a^2 + b^2 = c^2$, we do not need to memorize the dimensions of every triangle (assuming that were possible).  Instead, we can take the metaphorical triangle in front of us and use the formula to get what we need.  In Unit III, you learned all the formulas.  Unit IV will merely present you with "triangles" of different sizes.  
 
 Summaries of each of the derived stems will consist of the overall diagnostic features.  It is THESE features that should be memorized, not the numerous paradigms.
+
+::: {.box .map}
+Now is the time to download the current [Unit IV Anki deck](#decks){target="_blank"} if you haven't already done so!
+:::
 
 ## Structure of Unit IV: Lessons 24-35 {-}
 
@@ -91,7 +93,7 @@ You will only see the `Ruth Pursuit` activities in the following Lessons:
 * Lesson 31 - Hiphil
 * Lesson 35 - Hitpael
 
-In Lesson 26, we will start to do a `Ruth Pursuit Analysis`.  
+> In Lesson 26, we will start to do a `Ruth Pursuit Analysis`.  
 
 * Here, we will start to use your `Ruth Pursuit Translation Worksheet` and your knowledge of grammar rules to begin to compose a paraphrase
 * We will take a few verses at a time

@@ -29,6 +29,24 @@ EQUIPMENT CHECK
 
 Before continuing, make sure you understand the meaning of the Hiphil stem
 
+
+List at least two meanings of the Hiphil stem:
+
+<div class="fold">
+
+Hiphil Meanings:
+
+* Cause an action - to cause to eat, i.e., to feed
+* Enter into a state - to grow old
+* Declare a state - to declare guilty
+* Sometimes simple, unnuanced action like the Qal
+
+> The Hophal is usually the passive of these 
+
+* To be fed
+* To be declared guilty
+
+</div>
 :::
 
 ## First Thought {-}
@@ -415,7 +433,11 @@ Your browser does not support the <code>audio</code> element.</audio> </div>
 
 ### 1 Samuel 17 {-}
 
-<div class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t08a17.m4a">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<span class="scc"><audio controls src="./images/t08a17.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
 
@@ -540,6 +562,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 58  וַיֹּ֤אמֶר אֵלָיו֙ שָׁא֔וּל בֶּן־מִ֥י אַתָּ֖ה הַנָּ֑עַר וַיֹּ֣אמֶר דָּוִ֔ד בֶּֽן־עַבְדְּךָ֥ יִשַׁ֖י בֵּ֥ית הַלַּחְמִֽי׃ 
 
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 

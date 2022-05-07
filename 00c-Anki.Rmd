@@ -49,16 +49,10 @@ Please do these steps from a desktop computer (not a mobile device) for best res
 | :-- | :-- | :--
 |1. If needed, get a Google Account [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&dsh=S-1425209384%3A1610207553422339&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp){target="_blank"} | You will need a Google account to complete many of the activities in this course.  Alternatively, you may wish to create an additional account exclusively for this course. Creating a Google account is free. | [YouTube: Step 1](https://youtu.be/MvDQTpuFKgI){target="_blank"}
 |2. Copy the [course checklist](https://docs.google.com/spreadsheets/d/1t0C7JlygyUqgF_aQWbhq7h3s_VDn0VuvISJn5mp-LdE/copy){target="_blank"} to your personal Google Drive Folder | This is for you to keep track of your progress in this course. Be sure to update it as you complete each lesson, which will help you stay on track to earn `Badges`, Unit completion `Certificates`, and ultimately, `Graduation`! | [YouTube: Step 2](https://youtu.be/Aby8Th13hHU){target="_blank"}
-3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"} | This enables Hebrew font in Anki cards. After downloading, extract the zip file to a location of your choice. Then double-click on `SILEOT.ttf`, which should give you the option to install the font. | [YouTube: Step 3](https://youtu.be/Dt-DVA0ekxQ){target="_blank"}
+3.  Download and install the [free Ezra SIL font](https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip ){target="_blank"}. Note: Chromebook users may not be able to install custom fonts.  Make sure "Google Noto (Serif Hebrew)" is installed. | This enables Hebrew font in Anki cards. After downloading, extract the zip file to a location of your choice. Then double-click on `SILEOT.ttf`, which should give you the option to install the font. | [YouTube: Step 3](https://youtu.be/Dt-DVA0ekxQ){target="_blank"}
 4. [Sign up for a free Ankiweb account here](https://ankiweb.net/account/register){target="_blank"} | This allows you to backup and sync your data to the cloud and mobile devices | [YouTube: Step 4](https://youtu.be/lBKbLFw3Ouo){target="_blank"}
-5. [Download and Install the Anki Program (Mac/PC/Linux)](https://apps.ankiweb.net/){target="_blank"} | On the website, click the `Download` button, then select the tab with your operating system^[The Anki version numbers will change with the passage of time.  Unless instructed otherwise, download the current version of the Anki desktop program on their website].  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}
-6. Download the Hebrew GRAMMAR Quest Anki Decks | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone. After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}
-|Note: You can download and install all decks now or, you may wish to start with just `Unit 1` and `Custom Words` for now. | You can load the remaining decks as you begin each new Hebrew GRAMMAR Quest unit | For those new to Anki, here is an [Anki Orientation deck](./images/Hebrew Grammar Quest_Intro_deck.apkg){target="_blank"}.  You may delete this deck when finished.
-| | [Hebrew GRAMMAR Quest Unit 1 Anki Deck (version 1)](./images/HGQ_Anki_Unit1_V01.0.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Unit 2 Anki Deck (version 1)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Unit 3 Anki Deck (version 1)](./images/HGQ_Anki_Unit3_V01.0.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Unit 4 Anki Deck (version 1)](./images/HGQ_Anki_Unit4_V01.0.apkg){target="_blank"} |
-| | [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"} | Note: You only need to install this deck once.  [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
+5. [Download and Install the Anki Program (Mac/PC/Linux/Android)](https://apps.ankiweb.net/){target="_blank"}.  | On the website, click the `Download` button, then select the tab with your operating system.  | [YouTube: Step 5](https://youtu.be/J0R0bvSkz7g){target="_blank"}^[The Anki version numbers displayed in the video will change with the passage of time.  Download the current version of the Anki desktop program on their website]
+6. [Download the Hebrew GRAMMAR Quest Anki Decks](#decks){target="_blank"} | These decks are the backbone of the course.  Research shows using a tool like `Anki` is far more effective than reading or exams alone. After downloading, double-click to load into Anki| [YouTube: Step 6 (Preferred Method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}^[Since recording the video, we have relocated our HGQ Anki deck download links to a [dedicated page](#decks)]
 7. Tweak a few Anki settings (see next section) | Anki is driven by an algorithm that we can customize for maximum effectiveness | [YouTube: Step 7](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 8.  Sync to Ankiweb - in Anki, click on `Sync` (enter Ankiweb credentials) - `upload to Ankiweb` if asked. | Sync creates a version of the deck in the cloud | Click the `Sync` button as shown in other videos
 9. As desired, download the Anki app to your phone or tablet: [Android app](https://play.google.com/store/apps/details?id=com.ichi2.anki){target="_blank"} or [iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4){target="_blank"} | See footnote #1. A [web version](https://ankiweb.net/account/login){target="_blank"} is also available for mobile devices | [YouTube: Step 9 Anki mobile app](https://youtu.be/bfeTC4RZ-Vc){target="_blank"}
@@ -101,7 +95,7 @@ function x25() {
 ::: {.box .info}
 These settings will optimize your Anki experience.  
 
-The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
+The Windows platform is shown, but Mac/Linux/ChromeOS/mobile process to change settings is very similar.
 
 [YouTube video showing these steps](https://youtu.be/4fwPZUEOKuY){target="_blank"}
 :::
@@ -110,14 +104,14 @@ The Windows platform is shown, but Mac/Linux/mobile settings are very similar.
     1. In Anki, click `File`, then `Switch Profile`  
     2. Select `User 1`, then `Rename` and type your name
 2. To change learning settings, click the gear button next to "Hebrew Grammar Quest", then click `Options`
-```{r, out.width = "250pt", fig.align='center', fig.cap="Anki Deck Options"}
+```{r, out.width = "80%", fig.align='center', fig.cap="Anki Deck Options"}
 knitr::include_graphics("images/00.anki_options.png")
 ```
 3. Make sure your settings match the images below:
 
 ### Daily limits and New Cards {-}
 
-```{r, out.width = "700pt", fig.align='center', fig.cap="Daily Limits and New Cards"}
+```{r, out.width = "80%", fig.align='center', fig.cap="Daily Limits and New Cards"}
 knitr::include_graphics("images/00.ankisettings01.png")
 ```
 
@@ -128,14 +122,14 @@ Notes^[NEW CARDS/DAY: You are welcome to enter any number you wish, but lower nu
 
 Note^[`Show answer timer` is optional.]
 
-```{r, out.width = "700pt", fig.align='center', fig.cap="Lapses and Timer"}
+```{r, out.width = "80%", fig.align='center', fig.cap="Lapses and Timer"}
 knitr::include_graphics("images/00.ankisettings02.png")
 ```
 
 
 ### Burying and Audio {-}
 
-```{r, out.width = "700pt", fig.align='center', fig.cap="Burying and Audio"}
+```{r, out.width = "80%", fig.align='center', fig.cap="Burying and Audio"}
 knitr::include_graphics("images/00.ankisettings03.png")
 ```
 
@@ -144,7 +138,7 @@ Notes^[Cards that have multiple answers are called `siblings`.  Turning the sibl
 
 ### Advanced {-}
  
-```{r, out.width = "700pt", fig.align='center', fig.cap="Advanced"}
+```{r, out.width = "80%", fig.align='center', fig.cap="Advanced"}
 knitr::include_graphics("images/00.ankisettings04.png")
 ```
 
@@ -161,7 +155,7 @@ Anki Add-ons
 * You will need to restart `Anki` for the add-ons to take effect
 :::
 
-```{r, out.width = "500pt", fig.align='center', fig.cap="More Overview Stats"}
+```{r, out.width = "80%", fig.align='center', fig.cap="More Overview Stats"}
 knitr::include_graphics("images/00.anki_more_stats.png")
 ```
 

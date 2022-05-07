@@ -1,0 +1,25 @@
+# Anki Decks-2022.01 {- #decks}
+
+> This page will have links to the current versions of the Anki decks; check periodically for updates
+
+* From time to time, we will clarify certain points, correct typographical errors, or add cards we believe will enhance learning
+* The date in the page title will let you know the most current version
+* Updating is recommended but not required
+* To update, simply download the current deck and double-click to install (or `File`, `Import` within Anki)
+    * Your previous progress will be preserved^[Anki is programmed so deck updates do not delete anything.]
+    * Added cards will show up as "new" in Anki
+* Note: We recommend you download each unit's deck as you are beginning that particular unit.  
+* In other words, if you are at the beginning of Hebrew GRAMMAR Quest, start with just `Unit 1` and `Custom Words` for now.  
+* Then you can return to this page to load each subsequent deck as you begin each new Hebrew GRAMMAR Quest unit  
+
+
+| Deck | Comments 
+| :-- | :-- 
+|  [Hebrew GRAMMAR Quest Unit I (2022.01)](./images/HGQ_1_2022.01.apkg){target="_blank"} | Switched to calendar (YYYY.MM) versioning.  Minor updates from V1.0 to add clarity, etc.
+|  [Hebrew GRAMMAR Quest Unit II (2022.02)](./images/HGQ_2_2022.02.apkg){target="_blank"} | Switched to calendar versioning.  Correct typos in Lesson 4.
+|  [Hebrew GRAMMAR Quest Unit III (2022.01)](./images/HGQ_3_2022.01.apkg){target="_blank"} | Switched to calendar versioning.  Minor updates from V1.0.
+|  [Hebrew GRAMMAR Quest Unit IV (2022.01)](./images/HGQ_4_2022.01.apkg){target="_blank"} | Switched to calendar versioning.  No changes from V1.0.
+| [Anki Orientation deck](./images/HGQ_Intro_2022.01.apkg){target="_blank"}.  | This deck is for those new to Anki. You may delete this deck when finished.  No changes from V1.0.
+|  [Hebrew GRAMMAR Quest Custom Words](./images/HGQ_Anki_Custom.apkg){target="_blank"}  | You only need to install this deck once.  It will never be updated. See [YouTube: About Custom Words Deck](https://www.youtube.com/watch?v=7jp8rhufAMU){target="_blank"}
+
+For video walk-throughs of the loading and updating prosess see [YouTube: Load HGQ Anki Decks (preferred method)](https://youtu.be/fsYuzGcLuV8){target="_blank"} or [Alternate Mobile-only Method](https://youtu.be/Q1Iz1LYgIOM){target="_blank"}

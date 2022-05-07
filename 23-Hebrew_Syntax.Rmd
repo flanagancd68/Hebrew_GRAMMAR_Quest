@@ -73,6 +73,44 @@ knitr::include_graphics("images/23..Muhraqa statue of Elijah on Mount Carmel, tb
 ``` 
 
 
+## _Hebrew Quest_ Syntax Lecture
+
+::: {.infobox .sound}
+<figure>Click to play the audio from the Hebrew Quest segment. <audio id="myAudio" controls controlsList="nodownload" 
+src="./images/23.0.m4a">
+Your browser does not support the <code>audio</code> element.</audio><button onclick="x25()" type="button">2.5x</button><button onclick="x2()" type="button">2x</button><button onclick="x15()" type="button">1.5x</button><button onclick="x1()" type="button">1x</button><button onclick="x075()" type="button">.75x</button><button onclick="x05()" type="button">.5x</button><script>
+var x = document.getElementById("myAudio");
+function x05() { 
+    x.playbackRate = 0.5;
+    x.play();}
+function x075() { 
+    x.playbackRate = 0.75;
+    x.play();} 
+function x1() { 
+    x.playbackRate = 1;
+     x.play();}
+function x15() { 
+    x.playbackRate = 1.5;
+     x.play();} 
+function x2() { 
+    x.playbackRate = 2;
+     x.play();} 
+function x25() { 
+    x.playbackRate = 2.5;
+     x.play(); } 
+</script></figure>
+:::
+View this 3-minute overview video from _Hebrew Quest_ on Hebrew Syntax.
+
+<div class="container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/yY3O8ByYNwI?start=2979&end=3130
+&rel=0&showinfo=0&autohide=1&autoplay=1" frameborder="0"></iframe>
+</div>
+
+[Click to open video in a new tab](https://youtu.be/yY3O8ByYNwI?t=2979){target="_blank"}
+
+Start: 27:55  
+End:  45:10
 
 ## Clause versus Sentence
 
@@ -404,10 +442,13 @@ There is no formal quest for this lesson but consider the following points based
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -456,6 +497,12 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
+
+</div>
+
+
+
+
 ## Claim your Unit 3 Completion Certificate! {-}
 
 If you have completed **all activities** in Lessons 1-23, you may claim the third `Unit Completion Certificate`.
@@ -486,7 +533,11 @@ Your browser does not support the <code>audio</code> element.</audio> </div>
 
 ### Psalms 19 {-}
 
-<div class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t2619.m4a">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<div class="scc"><audio controls src="./images/t2619.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
 
@@ -523,6 +574,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 15  יִֽהְי֥וּ לְרָצ֨וֹן ׀ אִמְרֵי־פִ֡י וְהֶגְי֣וֹן לִבִּ֣י לְפָנֶ֑יךָ יְ֝הוָ֗ה צוּרִ֥י וְגֹאֲלִֽי׃ ‬
 
 </span></p>
+</div>
 
 
 ## Lesson Extras {-}

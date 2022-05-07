@@ -70,9 +70,8 @@ We wanted to let you know of some changes:
 
 The next few pages will describe these changes in greater detail.
 
-## Unit III Anki Deck {-}
-::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit III Anki Deck (version 1)](./images/HGQ_Anki_Unit3_V01.0.apkg){target="_blank"} if you haven't already done so
+::: {.box .map}
+Now is the time to download the current [Unit III Anki deck](#decks){target="_blank"} if you haven't already done so!
 :::
 
 ## Vowel Transliteration/Shorthand {-}

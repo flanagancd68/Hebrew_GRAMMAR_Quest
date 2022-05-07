@@ -163,7 +163,11 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ### Psalms 145 {-}
 
-<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t26e5.m4a">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<span class="scc"><audio controls src="./images/t26e5.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </span>
 
@@ -213,6 +217,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 
 
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 

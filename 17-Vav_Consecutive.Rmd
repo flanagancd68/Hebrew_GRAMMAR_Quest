@@ -489,10 +489,13 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -541,6 +544,12 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
+
+</div>
+
+
+
+
 ## Hebrew Quest Study Passage: Genesis 1:1-5 {-}
 
 With this lesson, we move away from the selected verses in Proverbs to lengthier study passages.
@@ -578,7 +587,12 @@ Your browser does not support the <code>audio</code> element.</audio>
 
 ### Genesis 1:-5 {-}
 
-<div class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0101.m4a">
+
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc"><audio controls src="./images/t0101.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
  </div>
 
@@ -596,6 +610,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 5     וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד׃ פ ‬
 
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 

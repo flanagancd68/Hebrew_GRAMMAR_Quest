@@ -56,10 +56,8 @@ function setPlaySpeed25() {
 * Now in Unit II, we will use those building blocks from Unit I to form nouns, prepositions, and adjectives
 * In Units III and IV, we will transition to verbs
 
-## Unit II Anki Deck {-}
-
-::: {.box .light}
-Remember to download [Hebrew GRAMMAR Quest Unit II Anki Deck (version 1)](./images/HGQ_Anki_Unit2_V01.0.apkg){target="_blank"} if you haven't already done so
+::: {.box .map}
+Now is the time to download the current [Unit II Anki deck](#decks){target="_blank"} if you haven't already done so!
 :::
 
 ## Changes for Unit II {-}
@@ -110,13 +108,13 @@ function setPlaySpeed25() {
 </figure>
 :::
 * _Hebrew Quest_ Videos
-    * If you recall from the Introduction, we described Hebrew GRAMMAR Quest, Lessons 4-35 as the expanded edition of the original _Hebrew Quest_ grammar overview lessons (13-15) - you are now about to embark on that expanded edition!
+    * If you recall from the Introduction, we described Hebrew GRAMMAR Quest, Lessons 4-35 as the expanded edition of the original _Hebrew Quest_ core grammar lessons (13-15) - you are now about to embark on that expanded edition!
     * For Unit II, each lesson will have one (sometimes more than one) clip from the grammar lessons of _Hebrew Quest_
     * You can ignore any references Izzy makes to the "Hebrew Quest Student Manual" or the "Essentials of Biblical Hebrew" book
     * As we talked about in the Lesson 3`Word Warm-up` video, you can speed up or slow down the video speed by clicking the gear icon, then changing the `Playback Speed`
 * `Anki` Workbook modules
     * Many grammar textbooks have accompanying workbooks that give students additional practice
-    * While it is reasonable to think of `Anki` as one giant workbook, beginning with Unit 2 we are adding in a `workbook` chapter where we will begin to dissect words or short passages
+    * While it is reasonable to think of `Anki` as one giant workbook, beginning with Unit II we are adding in a `workbook` chapter where we will begin to dissect words or short passages
     * Our goal is to `parse` and `translate`
         * `Parsing` is identifying the gender, number, person (if applicable), and the lexical form
         * `Translating` is identifying the word's meaning

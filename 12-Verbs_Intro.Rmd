@@ -1364,10 +1364,13 @@ Find the following miscellaneous words:
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -1415,6 +1418,12 @@ Your browser does not support the <code>audio</code> element.</audio>
 
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
+
+
+</div>
+
+
+
 
 ## Honors Track: Hebrew Quest Study Passage - Proverbs Studies #1-4 {-}
 
@@ -1485,12 +1494,15 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 ### Proverbs Sessions 1-4 {-}
 
 
+> Click the "Show" button for the full text of the Study Passages
+
+<div class="fold">
 
 <span class="he"><p align="right">
 מִשְׁלֵי שְׁלֹמֹה בֶן דָּוִד מֶלֶךְ יִשְׂרָאֵל 
  (1:1)
 
-שְׁמַע בְּנִי מוּסַר אָבִיךָ וְאַל-תִּטֹּשׁ תּוֹרַת אִמֶּך כִּי לִוְיַת חֵן הֵם לְרֹאשֶׁךָ וַעֲנָקִים לְגַרְגְּרֹתֶך 
+שְׁמַע בְּנִי מוּסַר אָבִיךָ וְאַל-תִּטֹּשׁ תּוֹרַת אִמֶּך כִּי לִוְיַת חֵן הֵם לְרֹאשֶׁךָ וַעֲנָקִים לְגַרְגְּרֹתֶךָ
  (1:8-9)
 
 .בְּנִי תּוֹרָתִי אַל-תִּשְׁכָּח וּמִצְו‍ֹתַי יִצֹּר לִבֶּךָ כִּי אֹרֶךְ יָמִים וּשְׁנוֹת חַיִּים    וְשָׁלוֹם יוֹסִיפוּ לָךְ  
@@ -1499,7 +1511,7 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 חֶסֶד וֶאֱמֶת אַל-יַעַזְבֻךָ. קָשְׁרֵם עַל-גַּרְגְּרוֹתֶיךָ כָּתְבֵם עַל-לוּחַ לִבֶּךָ. וּמְצָא-חֵן וְשֵׂכֶל-טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם.
  (3:3-4)
 
-בְּטַח אֶל-יְהוָה בְּכָל-לִבֶּךָ וְאֶל-בִּינָתְךָ אַל-תִּשָּׁעֵן. בְּכָל-דְּרָכֶיךָ דָעֵהוּ וְהוּא יְיַשֵּׁר אֹרְחֹתֶיך
+בְּטַח אֶל-יְהוָה בְּכָל-לִבֶּךָ וְאֶל-בִּינָתְךָ אַל-תִּשָּׁעֵן. בְּכָל-דְּרָכֶיךָ דָעֵהוּ וְהוּא יְיַשֵּׁר אֹרְחֹתֶיךָ
  (3:5-6)
 
 מִשְׁלֵי שְׁלֹמֹה. בֵּן חָכָם יְשַׂמַּח-אָב וּבֵן כְּסִיל תּוּגַת אִמּוֹ
@@ -1548,6 +1560,7 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
  (11:22)
 
 <span></p>
+</div>
 
 ## Lesson Extras {-}
 

@@ -70,10 +70,23 @@ What we call "Hebrew grammar" is truly an exciting journey into the system of sp
 Before continuing, can you describe the following concepts?
 
 * The vowels that are not letters, including their type (long, short, reduced) and class (a, e, i, o, u)
+  * What is the Long A - $\bar A$ vowel?
+    * <div class="fold">Qamets: <span class="he">קָ</span></div>
+  * What is the Short E - $E$ vowel?
+    * <div class="fold">Seghol: <span class="he">קֶ</span></div>
+  * What is the Short A - $A$ vowel?
+    * <div class="fold">Patach: <span class="he">קַ</span></div>
 * The vowels that are letters, including which are the "irreducible long" type
+  * What is the Long A - $\hat A$ vowel letter not using י?
+    * <div class="fold">Qamets Hei: <span class="he">קָה</span></div>
+  * What is the Long E - $\hat E$ vowel letter not using ה?
+    * <div class="fold">Tsere Yod: <span class="he">קֵי</span></div>
+  * What is the Long O - $\hat O$ vowel letter not using ה?
+    * <div class="fold">Holem Vav: <span class="he">קוֹ</span></div>
 * The difference between a Dagesh Forte and a Dagesh Lene
+  *  What is the Dagesh Forte Rule?
+    * <div class="fold">A Dagesh is a Forte if, and only if, it is preceded by a vowel that is not a Sheva</div>
 :::
-
 
 
 ## First Thought {-}
@@ -249,6 +262,11 @@ function setPlaySpeed25() {
 </script> 
 :::
 
+```{r, fig.align='center', fig.cap="Open and Closed Syllables"}
+
+knitr::include_graphics("images/03.syllable.gif")
+```
+
 There are two basic concepts when it comes to Hebrew Syllables:
 
 ::: {.infobox .light}
@@ -258,10 +276,7 @@ There are two basic concepts when it comes to Hebrew Syllables:
 
 :::
 
-```{r, fig.align='center'}
 
-knitr::include_graphics("images/03.syllable.png")
-```
 
 We see the two basic concepts at play in this simple word (pronounced "da-var" and means word, matter, thing):
 
@@ -320,22 +335,25 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-::: {.infobox .info}
-* Most frequently, Hebrew words are accented on the last syllable  
-* If not, then the accent will be on the next-to-last syllable^[Later in the course, we will learn about a mark called a Maqqef, which is like a hyphen in English.  In Hebrew, the word to the right of the Maqqef technically does not have an accent.]
-* Reduced vowels never take an accent
-:::
+```{r, fig.align='center', fig.cap="Words are only accented on the last or next-to-last syllable"}
 
-Unlike English, Biblical Hebrew words are never stressed anywhere else^[Modern Hebrew has words (mostly borrowed from other languages) that don't always follow this rule].
-
-```{r, fig.align='center'}
-
-knitr::include_graphics("images/03.accent_stress.png")
+knitr::include_graphics("images/03.accent_stress.gif")
 ```
 
-* The word on the left is stressed on the last syllable
-* The word on the right (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
-    * Whenever the accent is NOT on the final syllable, you may see a mark over the syllable to be stressed^[Hebrew also has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.]
+
+
+> Biblical Hebrew words either accented on the last syllable or, less frequently, on the next-to-last syllable; never anywhere else^[Modern Hebrew has words (mostly borrowed from other languages) that don't always follow this rule].
+
+
+* In the graphic above, דָּבָר is stressed on the last syllable
+* סֵפֶר (pronounced "SAY-pher" and means book, scroll, or document) is stressed on the next to last syllable
+    * Whenever the accent is NOT on the final syllable, you _may_ see a mark over the syllable to be stressed^[Hebrew also has a very elaborate system of [cantillation marks](https://en.wikipedia.org/wiki/Hebrew_cantillation){target="_blank"} that also serve to indicate where the accent of the word is. are used for chanting and singing.  A study of these marks is beyond the scope of this book.]
+* The last two examples would be pronounced yuh-sim-CHA and uh-vad-TA-ni
+  * These are verbs with pronominal suffixes that we will stuy in Lesson 19
+    
+::: {.infobox .map}
+Sheva/Reduced vowels NEVER take an accent
+:::
 
 ## Tonic, Pretonic, and Propretonic Syllables
 
@@ -384,8 +402,8 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-```{r, fig.align='center'}
-knitr::include_graphics("images/03.pretonic.png")
+```{r, fig.align='center', fig.cap="Syllable positions relative to accent"}
+knitr::include_graphics("images/03.pretonic.gif")
 ```
 
 * We will encounter these specific terms for a syllable's position respective to the word's accent
@@ -445,12 +463,12 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-```{r, fig.align='center'}
-knitr::include_graphics("images/03.penult.png")
+```{r, fig.align='center', fig.cap="Syllable positions irrespective to accent"}
+knitr::include_graphics("images/03.penult.gif")
 ```
-Since the accent is not always in a fixed location, we sometimes will use other words that describe a syllable's position irrespective of the accent. 
+Since the accent is not always in a fixed location, we sometimes use other words that describe a syllable's position irrespective of the accent. 
 
-  * _ultima_ = the last syllable
+  * _ultima_ = the last syllable, regardless of whether it is accented
   * _penultima_ = the next-to-last syllable - this is also called the "penult" syllable
   * _antepenultima_ = the syllable(s) before the _penultima/penult_
 
@@ -500,28 +518,14 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-> Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva:
-
-<large>A Sheva is SILENT when the previous vowel is short</large>
-
-```{r, out.width = "200pt", fig.align='center'}
-knitr::include_graphics("images/03.sheva-shortvowel.png")
+```{r, fig.align='center', fig.cap="Syllable positions irrespective to accent"}
+knitr::include_graphics("images/03.silent_sheva.gif")
 ```
+> Learn the three rules for differentiating a SILENT Sheva from a Vocal Sheva
 
-<large>A Sheva is SILENT when the first of two consecutive Shevas _within a word_</large>
-
-```{r, out.width = "200pt", fig.align='center'}
-knitr::include_graphics("images/03.sheva-firstoftwo.png")
-```
-
-<large>A Sheva is SILENT when at the end of a word</large>
-
-```{r, out.width = "200pt", fig.align='center'}
-knitr::include_graphics("images/03.sheva-endofword.png")
-```
 
 ::: {.box .map}  
-THREE SILENT SHEVA CLUES  
+A Sheva is SILENT when:  
 
 1. The previous vowel is short
 2. First of two consecutive Sheva in the MIDDLE of a word, __OR__
@@ -578,34 +582,11 @@ function setPlaySpeed25() {
 </script> 
 :::
 
+```{r, fig.align='center', fig.cap="Syllable positions irrespective to accent"}
+knitr::include_graphics("images/03.vocal_sheva.gif")
+```
+
 > Learn the four rules for differentiating a VOCAL Sheva from a Silent Sheva
-
-<large>A Sheva is VOCAL when the initial Sheva in a word</large>
-
-```{r, out.width = "300pt", fig.align='center'}
-knitr::include_graphics("images/03.sheva-initialvocal.png")
-```
-
-<large>A Sheva is VOCAL when the second of two consecutive Shevas _within a word_^[A Sheva at the **end** of a word is **always silent**, even when it is the second of two consecutive Shevas.]</large>
-
-```{r, out.width = "200pt", fig.align='center'}
-knitr::include_graphics("images/03.sheva-secondoftwovocal.png")
-```
-
-
-<large>A Sheva is VOCAL when under a Dagesh Forte</large>
-
-```{r, out.width = "200pt", fig.align='center'}
-knitr::include_graphics("images/03.sheva-fortevocal.png")
-```
-
-<large>A Sheva is VOCAL after an unaccented long vowel</large>
-
-```{r, out.width = "200pt", fig.align='center'}
-knitr::include_graphics("images/03.sheva-unaccentedlongvocal.png")
-```
-
-This one may seem random, but it is relatively common with _long_ vowels in a propretonic position^[These vowels often but do not always reduce. Unchangeable long vowels will never reduce.]  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.
 
 
 ::: {.box .map}  
@@ -614,7 +595,7 @@ FOUR VOCAL SHEVA CLUES
 1. Word-initial Sheva
 2. SECOND of two Sheva within a word
 3. Under a consonant with a _Dagesh Forte_, __OR__
-4. After an unaccented long vowel  
+4. After an unaccented long vowel^[This one may seem random, but it is relatively common with _long_ vowels in a propretonic position. These vowels often but do not always reduce. Unchangeable long vowels will never reduce.  The word above is not kōṯ-vim but kō-ṯᵉ-vîm.]  
 :::
 
 > Gutturals reject VOCAL Sheva; they take Hateph vowels instead
@@ -651,8 +632,6 @@ function setPlaySpeed1() {
     x.playbackRate = 1;
      x.play();
 }
-
-
 function setPlaySpeed15() { 
     x.playbackRate = 1.5;
      x.play();
@@ -669,25 +648,19 @@ function setPlaySpeed25() {
 :::
 
 
-```{r, out.width = "400pt", fig.align='center'}
-knitr::include_graphics("images/03.diphthong.png")
+```{r, fig.align='center'}
+knitr::include_graphics("images/03.diphthong.gif")
 ```
 
 > The diphthong is a single vowel unit, which means it is only one syllable
 
-* We do not pronounce the word on the right above as "BUY-it," but monosyllabic, more like "BITE"^[With this said, "buy-it" makes a handy mnemonic for remembering this word means 'house' - when you see a nice house you want to "buy it." There are several look-alike words.]
-* The word on the left is not "sh-MAY-im," but it sounds more like "sh-MIME"
+* The first word is not "sh-MAY-im," but it sounds more like "sh-MIME"
+* We do not pronounce the second word as "BUY-it," but monosyllabic, more like "BITE"^[With this said, "buy-it" makes a handy mnemonic for remembering this word means 'house' - when you see a nice house you want to "buy it." There are several look-alike words.]
+* 
 
 ::: {.box .light}
 Remember "Accent+Patach+Yod+Hireq" as the main Hebrew Diphthong:  <span class="he">יִ ַ֫</span>
 :::
-
-Qamets-Yod-Vav is another Diphthong that you'll see in Lesson 9.  It's the pronoun suffix ending for "his" or "him."
-
-* <span class="he">אֵלָיו</span> (to him) pronounced eLAV
-* <span class="he">פָּנָיו</span> (his face) pronounced paNAV
-
-There is scholarly disagreement as to whether (vowel)+Yod are vowel letters or diphthongs.  <u>Basics of Biblical Hebrew</u> treats them as vowel letters.
 
 
 
@@ -742,11 +715,14 @@ function setPlaySpeed25() {
 
 > Memorize this table:
 
+<div style="overflow-x:auto;">
 
 Syllable | Tonic | Pretonic | Propretonic
 | :--: | :--: | :--: | :--:
-Open  |  SHORT | LONG | REDUCED
-Closed | LONG | SHORT | SHORT
+**Open**  |  SHORT | LONG | REDUCED
+**Closed** | LONG | SHORT | SHORT
+
+</div>
 
 * Tonic syllables PREFER the listed vowels but can take any type
 * Pretonic syllable REQUIRE the listed vowels
@@ -816,32 +792,31 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-The next three sections will examine special vowel and syllable situations.
-
-
-> Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable
-
 ```{r, out.width = "400pt", fig.align='center'}
 knitr::include_graphics("images/03.qametshatuf.png")
 ```
 
-* A Metheg mark _sometimes_ indicates a Qamets
-  * There are many instances where the vowel could be a short Qamets-Hatuf vowel in a closed syllable, or the long Qamets, A-class vowel in an open syllable
-  * When this ambiguity occurs, some printings will print a small vertical line called a Meteg בָּֽ.^[Unfortunately, many Tanachs DO not differentiate.]  The Meteg tells you the vowel is the **long, a-class**
+::: {.box .map}
+QAMETS OR QAMETS HATUF?  
+
+* The A-class Qamets is FAR more prevalent - when in doubt, assume Qamets
+* Qamets Hatuf ONLY occurs in a Closed AND Unaccented syllable
+:::
+
+* A Qamets symbol followed by a Daghesh Forte or Sheva symbol represents a potential ambiguity
+  * The vowel could be a short Qamets-Hatuf vowel in a closed syllable, 
+  * Or the vowel could be the long Qamets, A-class vowel in an open syllable
+* When this ambiguity occurs, some printings will print a small vertical line called a Meteg בָּֽ.^[Unfortunately, many Tanachs DO not differentiate.]  The Meteg tells you the vowel is the **long, a-class**
   
 ```{r, out.width = "100pt", fig.align='center'}
 knitr::include_graphics("images/03.meteg.png")
 ```
 
-::: {.box .info}
-QAMETS OR QAMETS HATUF?  
 
-* Know that the A-class Qamets is FAR more prevalent
 * Nouns such as <span class="he">חָכְמָה</span> that have the pattern (Qamets mark)+Sheva+Qamets+Hei _TEND_ to be O-class
 * You may know a word from your vocabulary that has a Holem, such as <span class="he">כֹל</span>
-  * When you encounter that same word in its shortened form, <span class="he">כָל־</span>, the vowel will be shortened O-class
+  * When you encounter that same word in its shortened form, <span class="he">כָל־</span>, the vowel will be shortened O-class^
   * This is usually the Construct form, which we will study in Lesson 10
-:::
 
 
 ## Furtive Patach
@@ -889,17 +864,17 @@ function setPlaySpeed25() {
 </script> 
 :::
 
-> Furtive Patach under a WORD FINAL ח or ע is said BEFORE the guttural letter and is not a full vowel.
-
-```{r, out.width = "200pt", fig.align='center'}
-knitr::include_graphics("images/03.furtivepathach.png")
+```{r, fig.align='center'}
+knitr::include_graphics("images/03.furtivepathach.gif")
 ```
 
+> Furtive Patach under a WORD FINAL ח or ע is said BEFORE the guttural letter and is not a full vowel.
 
 The Furtive Patach is a significant exception to just about everything else we've discussed related to vowels and syllabification:
 
-* The vowel is pronounced *before* the guttural - so the above word is **Ruach**, not "rucha"
 * The Furtive Patach is not a full vowel and is not counted in syllabification 
+* The graphic above is Mathew 1:1 from the Delitsch Hebrew version - note the furtive Patachs under the Ayin in Yeshua and the Chet 
+* The vowel is pronounced *before* the guttural - "Yeshua Hamashiach", and not "Yeshua HaMashi_cha_"
 
 ## Quiescent Aleph
 
@@ -1065,8 +1040,13 @@ For additional practice, you may consider copying each Study Verse by hand in a 
   * Be patient and stick with it - you'll get it!
   * By the end of the course, you will learn close to 500 verses in Hebrew
   
+::: {.box .map}
+To expedite studying on the Anki Desktop version, keep your left thumb on the `Spacebar` for when you know the answer and your left small finger on the `1` key for when you forget.
 
-
+* On the question side of a card, `Spacebar` (or `Enter`) reveals the answer
+* On the answer side, `Spacebar`, `Enter` or `3` marks the question as "GOOD", and  `1` marks the question as "AGAIN"^[`2` and `4` mark the question as "HARD" or "EASY" respectively.  Hovering your mouse over a button will generally show the shortcut key, if there is one.]
+* Also, to study a specific deck, hit the `/` key from the main screen and use the arrows or type the name of a deck to filter
+:::
 
 ## Ruth Pursuit {-}
 
@@ -1131,10 +1111,13 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -1184,7 +1167,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 </span></p>
 
 
-
+</div>
 
 
 

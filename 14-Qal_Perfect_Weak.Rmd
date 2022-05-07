@@ -227,7 +227,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
     * NOT <span class="he">עְמַדְתֶּם</span>*, BUT <span class="he">עֲמַדְתֶּם</span>
     * Otherwise, $V_1 = \bar A$ as is diagnostic of the QP conjugation
 * 2G - affects QP3fs, QP2fs, QP3cp
-    * NOT <span class="he">בָּחְרוּ</span>*, BUT <span class="he">בָּהֲרוּ</span>
+    * NOT <span class="he">בָּחְרוּ</span>*, BUT <span class="he">בָּחֲרוּ</span>
     * In 2G, $V_1 = \bar A$ (unless reduced in 2mp/2fp) as is diagnostic of the QP conjugation
 
 ::: {.box .light}
@@ -777,10 +777,13 @@ Inflect and translate the Qal Perfect Weak Verbs below, then identify in Ruth 1 
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -829,6 +832,12 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
+
+</div>
+
+
+
+
 ## Honors Track: Hebrew Quest Study Passage - Proverbs #8-10 {-}
 
 YOUR _HEBREW QUEST_:
@@ -860,6 +869,9 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 ### Proverbs Sessions 8-10 {-}
 
 
+> Click the "Show" button for the full text of the Study Passages
+
+<div class="fold">
 
 <span class="he"><p align="right">
 עֹכֵר בֵּיתוֹ בּוֹצֵעַ בָּצַע וְשׂוֹנֵא מַתָּנֹת יִחְיֶה
@@ -933,6 +945,9 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 מָצָא אִשָּׁה מָצָא טוֹב וַיָּפֶק רָצוֹן מֵיְהוָה
 (18:22)
 </span></p>
+
+</div>
+
 ## Lesson Extras {-}
 
 * [Dr. Beckman Lecture Video](http://youtu.be/ssee8-uHw_s){target=“_blank”}

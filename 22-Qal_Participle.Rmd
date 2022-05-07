@@ -448,10 +448,13 @@ Identify the one Participle in Ruth 1.  You might recall that we discussed this 
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -500,18 +503,23 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
-## Claim your next Twelve Tribes Badge! {-}
+
+</div>
+
+
+
+
+## Claim your LEVI Twelve Tribes Badge! {-}
 
 <!-- Lesson 22 Tribe Badge 8 = LEVI -->
 
 Once you have completed all activities through this lesson, complete the form below to receive your next badge!
 
-[Open Badge form in a new window](https://forms.gle/ncXmf7QRuoYCL3hz8){target="_blank"}
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSej54P4ifqTGSJRndyEMUaJ-vYELHnBz4z0kzaDJMlMYhYN5g/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
 </div>
-
 
 
 ## Hebrew Quest Study Passage: The Parables of the Master - Matthew 13 {-}
@@ -538,6 +546,11 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 
 ### Matthew 13 {-}
+
+> Click the "Show" button for the full text of the Study Passage
+
+<div class="fold">
+
 
 <span class="he"><p align="right">
 
@@ -711,7 +724,7 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 52
  
 </span></p>
-
+</div>
 
 
 

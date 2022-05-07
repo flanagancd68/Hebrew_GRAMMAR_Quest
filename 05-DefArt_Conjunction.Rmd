@@ -73,6 +73,7 @@ Before continuing, can you describe the following concepts?
 * The "rule of Sheva," including what happens in different combinations of two contiguous reduced vowels
 * How vowels can shift when the number of syllables changes
 * The masculine and feminine plural endings
+    * <div class="fold">MP:  ים ִ  FP: וֹת </fold>
 
 :::
 
@@ -382,7 +383,7 @@ function setPlaySpeed25() {
 </figure>
 :::
 
-```{r, out.width = "150pt", fig.align='center'}
+```{r, out.width = "75pt", fig.align='center'}
 library(knitr)
 knitr::include_graphics("images/05.vav_conjunction.png")
 ```
@@ -400,10 +401,12 @@ knitr::include_graphics("images/05.vav_conjunction.png")
 How to tell the difference between the conjunction and words that start with <span class="he">ו</span>?
 
 * **A Vav or Shureq as the first letter of a word is ALMOST ALWAYS the conjunction Vav.**
+
+:::
+
 * Only 10 words start with Vav, and only two occur more than once
     * <span class="he">וָו</span> means "hook," and  <span class="he">וָוִים</span> means "hooks - occurs 13 times in Exodus 26-38, talking about the hooks for the Tabernacle
     * <span class="he">וַשְׁתִּי</span> - Queen Vashti - it appears only in the book of Esther
-:::
 
 ## Loss of Dagesh Forte {#loss_Dagesh_forte}
 
@@ -483,7 +486,7 @@ SQiN eM LeVY Rule
 
 
 
-## Compensatory Lengthening
+## Compensatory Lengthening and Virtual Doubling
 
 ::: {.infobox .sound}
 <figure>
@@ -717,9 +720,9 @@ function setPlaySpeed25() {
 </script> 
 </figure>
 :::
-```{r, out.width = "150pt", fig.align='center'}
+```{r, fig.align='center'}
 library(knitr)
-include_graphics("images/05.def_art.png")
+include_graphics("images/05.article.gif")
 ```
 
 > The usual form is Hei with a Patach and a Dagesh Forte in the next letter ("Hei+Patach+Dagesh")^[By definition, the Dagesh is a Forte as it comes after a vowel that is not a Sheva.]
@@ -731,8 +734,8 @@ include_graphics("images/05.def_art.png")
         * Before a <span class="he">ח </span>or another <span class="he">ה</span> (see <span class="he">הֶ </span> note below)
     * Compensatory Lengthening
         * Becomes <span class="he">הָ</span> (no Dagesh Forte and the Patach lengthens to Qamets):
-        * Before <span class="he">א ע ר or הָ֫ </span>
-    * Becomes <span class="he">הֶ</span> (no Dagesh Forte and a Seghol instead of a Patach) before accented or unaccented <span class="he">חָ</span>, or unaccented <span class="he">הָ</span> or <span class="he">עָ</span>
+        * Before <span class="he">א ע ר or הָ֫ </span> - See example from Genesis 1:2
+    * Becomes <span class="he">הֶ</span> (no Dagesh Forte and a Seghol instead of a Patach) before accented or unaccented <span class="he">חָ</span>, or unaccented <span class="he">הָ</span> or <span class="he">עָ</span> - see example from Genesis 22:2
 
 ::: {.box .info}
 * The goal is not to memorize the alternate forms as much as recognize that they exist
@@ -740,58 +743,6 @@ include_graphics("images/05.def_art.png")
 :::
 
 
-## Hebrew Indefiniteness {#indefiniteness}
-
-::: {.infobox .sound}
-<figure>
-<audio
-        id="myAudio"
-        controls controlsList="nodownload"
-        src="./images/05.10.m4a">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-<button onclick="setPlaySpeed25()" type="button">2.5x</button>
-<button onclick="setPlaySpeed2()" type="button">2x</button>
-<button onclick="setPlaySpeed15()" type="button">1.5x</button>
-<button onclick="setPlaySpeed1()" type="button">1x</button>
-<button onclick="setPlaySpeed075()" type="button">.75x</button>
-<button onclick="setPlaySpeed05()" type="button">.5x</button>
-<script>
-var x = document.getElementById("myAudio");
-function setPlaySpeed05() { 
-    x.playbackRate = 0.5;
-    x.play();
-}
-function setPlaySpeed075() { 
-    x.playbackRate = 0.75;
-    x.play();
-} 
-function setPlaySpeed1() { 
-    x.playbackRate = 1;
-     x.play();
-}
-function setPlaySpeed15() { 
-    x.playbackRate = 1.5;
-     x.play();
-} 
-function setPlaySpeed2() { 
-    x.playbackRate = 2;
-     x.play();
-} 
-function setPlaySpeed25() { 
-    x.playbackRate = 2.5;
-     x.play(); 
-} 
-</script> 
-</figure>
-:::
-
-> A word without the Article is indefinite
-
-
-* Hebrew (and Greek) lacks an indefinite article 
-* Occasionally you will see "one" (<span class="he">אַחַת אֶהַד</span>) to indicate indefiniteness
 
 ## Other Hebrew Definiteness {#definiteness}
 
@@ -859,6 +810,61 @@ function setPlaySpeed25() {
 * Hebrew would literally be, "book of sister of the king", but all words in the chain are understood to be definite
 * We will discuss construct chains in Lesson 10
 
+
+<!-- switched 5.10 and 5.11 12/25/2021 -->
+
+## Hebrew Indefiniteness {#indefiniteness}
+
+::: {.infobox .sound}
+<figure>
+<audio
+        id="myAudio"
+        controls controlsList="nodownload"
+        src="./images/05.10.m4a">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<button onclick="setPlaySpeed25()" type="button">2.5x</button>
+<button onclick="setPlaySpeed2()" type="button">2x</button>
+<button onclick="setPlaySpeed15()" type="button">1.5x</button>
+<button onclick="setPlaySpeed1()" type="button">1x</button>
+<button onclick="setPlaySpeed075()" type="button">.75x</button>
+<button onclick="setPlaySpeed05()" type="button">.5x</button>
+<script>
+var x = document.getElementById("myAudio");
+function setPlaySpeed05() { 
+    x.playbackRate = 0.5;
+    x.play();
+}
+function setPlaySpeed075() { 
+    x.playbackRate = 0.75;
+    x.play();
+} 
+function setPlaySpeed1() { 
+    x.playbackRate = 1;
+     x.play();
+}
+function setPlaySpeed15() { 
+    x.playbackRate = 1.5;
+     x.play();
+} 
+function setPlaySpeed2() { 
+    x.playbackRate = 2;
+     x.play();
+} 
+function setPlaySpeed25() { 
+    x.playbackRate = 2.5;
+     x.play(); 
+} 
+</script> 
+</figure>
+:::
+
+
+* Hebrew (like Greek) lacks an indefinite article 
+* There are four circumstances that make a word definite - otherwise, the word is indefinite
+* Occasionally you will see "one" (<span class="he">אַחַת אֶהַד</span>) to indicate indefiniteness
+
 ## Lesson 5 Conclusion
 
 ::: {.infobox .sound}
@@ -911,7 +917,7 @@ You may be noticing how each new lesson builds upon the previous ones. If someth
 
 As far as activities, we have the warm-up videos, Anki, the Ruth Pursuit, and the Quest Quiz. When you finish all of that, we have our second `Twelve Tribes Badge` you can claim.
 
-Take your time and let these oncepts in this chapter sink in.  You're about half-way through the "non-verbs" portion of the course.  Lessons 6-10 will be continuing to build out sentences with prepositions, adjectives, and pronouns.  Then we'll take a little bit of a break with numbers in Lesson 11 before moving on to Unit 3 and Hebrew verbs.
+Take your time and let these oncepts in this chapter sink in.  You're about half-way through the "non-verbs" portion of the course.  Lessons 6-10 will be continuing to build out sentences with prepositions, adjectives, and pronouns.  Then we'll take a little bit of a break with numbers in Lesson 11 before moving on to Unit III and Hebrew verbs.
 
 Keep with it; you're doing great!
 
@@ -1011,7 +1017,11 @@ YOUR QUEST
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
 
@@ -1063,7 +1073,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 </span></p>
 
 
-
+</div>
 
 
 
@@ -1076,18 +1086,15 @@ Your browser does not support the <code>audio</code> element.</audio>
 <iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSc-PREmjGXSzCh1l2qenbHEHJlGV35voeamfxuAcc_JB_2j5A/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
-## Claim your next `Twelve Tribes Badge`! {-}
+## Claim your BENJAMIN Twelve Tribes Badge! {-}
 
 
 When you have completed all activities on your `Hebrew GRAMMAR Quest Checklist` through lesson 5, complete the certification below, and your badge will be on its way!
 
-<!-- Tribe Badge 2 = Benjamin -->
-
-[Open form in a new window](https://docs.google.com/forms/d/e/1FAIpQLSdUEWHBbR9iuUrUMSJ76Fucn0qyqIPxILQpfh3Ss6Hmz8bPZA/viewform){target="_blank"}
-
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
 <div class="containerLet">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSdUEWHBbR9iuUrUMSJ76Fucn0qyqIPxILQpfh3Ss6Hmz8bPZA/viewform?embedded=true" frameborder="0"></iframe>
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
 </div>
 
 ## Lesson Extras {-}

@@ -320,10 +320,13 @@ YOUR QUEST:
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -373,6 +376,11 @@ Your browser does not support the <code>audio</code> element.</audio>
 </span></p>
 
 
+</div>
+
+
+
+
 ## Hebrew Quest Study Passage: Aaronic/Priestly Blessing {-}
 
 ::: {.infobox .sound}
@@ -406,7 +414,11 @@ YOUR _HEBREW QUEST_!
 
 ### Numbers 6:22-27 {-}
 
-<div class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0406.m4a">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc"><audio controls src="./images/t0406.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
 
@@ -428,6 +440,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 27   וְשָׂמ֥וּ אֶת־שְׁמִ֖י עַל־בְּנֵ֣י יִשְׂרָאֵ֑ל וַאֲנִ֖י אֲבָרֲכֵֽם׃ פ ‬
 
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 

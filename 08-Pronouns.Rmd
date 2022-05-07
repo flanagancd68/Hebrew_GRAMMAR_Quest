@@ -213,6 +213,13 @@ function x25() {
 </script></figure>
 :::
 
+```{r, fig.align='center'}
+library(knitr)
+include_graphics("images/08.pronouns.gif")
+```
+
+
+
 * All 1st person pronouns begin with <span class="he">אנ</span> 
 * All 2 begin with accented <span class="he">אַתּ֫</span> - note the Dagesh Forte
 * All 3 begin with accented <span class="he">ה֫</span>
@@ -292,12 +299,17 @@ function x25() {
 </script></figure>
 :::
 
+```{r, fig.align='center'}
+
+knitr::include_graphics("images/08.relative_pro.gif")
+```
+
+
 > Hebrew has one general-purpose relative pronoun that can refer to people (who) or things (that or which), subjectively (who) or objectively (whom)
 
 * <span class="he">אֲשֶׁר</span> is a vocabulary word for this lesson
 * This word does not inflect/the spelling never changes
-* <span class="he">אֵלֶּה הַדְּבָרִים *אֲשֶׁר* דִּבֶּר מֹשֶׁה</span>
-    * _These are the words *that* Moses spoke (Deuteronomy 1:1)_
+* These are the words *that* Moses spoke (Deuteronomy 1:1)
 
 
 
@@ -449,7 +461,7 @@ function x25() {
 
 * Below are potential sources of ambiguity:
     * 1st word of a clause before <span class="he">חָ֫,חָ, הָ, עָ</span>   = both are <span class="he">הֶ</span>
-    * 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = both are <span class="he">הַ</span>
+    * 1st word of a clause before <span class="he">ה, ח</span> without Qamets or SQiN eM LeVY with Sheva = all are <span class="he">הַ</span>
     * In these situations we will need to let context determine whether a question is being asked
 * With lots of reading practice, this will get easier
 
@@ -579,14 +591,22 @@ function x25() {
 </script></figure>
 :::
 
-> Demonstratives act as adjectives or as pronouns
+> Demonstratives act as adjectives or as pronouns - demonstrative pronouns behave similar to predicate adjectives
+
+```{r, fig.align='center'}
+
+knitr::include_graphics("images/08.demonstrative_pro.gif")
+```
+
 
 * As we saw in the example <span class="he">הוּא הָאִישׁ</span>, a demonstrative pronoun takes the place of a noun as the subject of a clause<small>^[<small>When <span class="he">הוּא הָאִישׁ</span> means "he is the man", the personal pronoun "he" is the subject</small>]</small>
-* The behavior of the demonstrative pronoun is a lot like the Predicative Adjective use:     * Always comes before the noun (Pronoun Perpetually Precedes)
+* The behavior of the demonstrative pronoun is a lot like the Predicative Adjective use:     
+    * Always comes before the noun (Pronoun Perpetually Precedes)^[In this respect, the word orer matches our English translation. <span class="he">זֹאת הַמַּלְכָּה</span> = "This (is) the queen."  Remember the _predicate_ adjective can be before or after the noun it is modifying.]
     * Does NOT have the article (Pronoun dePrived of article)
     * Matches Gender and Number
         * <span class="he">זֹאת הַמַּלְכָּה</span>  = this is the queen (FS)
         * <span class="he">זֶה הַמֶּ֫לֶךְ</span> = this is the king (MS)
+* *These are the words *that Moses spoke (Deuteronomy 1:1)
 
 ::: {.box .info}
 DEMONSTRATIVE PRONOUN MNEMONIC
@@ -626,6 +646,11 @@ function x25() {
 
 > A demonstrative adjective modifies a noun just as an attributive adjective does
 
+```{r, fig.align='center'}
+
+knitr::include_graphics("images/08.demonstrative_adj.gif")
+```
+
 * The behavior is a lot like the Attributive Adjective use: 
     * Always comes after the noun (Dem Adjective Always After)
     * Always has the Article (Dem. Adjective Always Article)
@@ -633,6 +658,8 @@ function x25() {
     * Always matches in Gender and Number
     * <span class="he">הָאִשָּׁה הַזֹּאת</span> = this woman (FS)
     * <span class="he">הָאֲנָשִׁים הָהֵם</span>  = those men (MP)
+    * Whenever we see literally "the words, the these" or "the woman, the this", we can know "these" and "this" are functioning as demonstrative adjectives.
+    * "and Moses spoke _these words_" (Deuteronomy 31:1)
 
 ::: {.box .info}
 DEMONSTRATIVE ADJECTIVE MNEMONIC
@@ -775,10 +802,13 @@ Identify each occurrence of the following:
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -826,6 +856,10 @@ Your browser does not support the <code>audio</code> element.</audio>
 
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
+
+
+</div>
+
 
 
 

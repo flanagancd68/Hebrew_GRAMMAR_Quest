@@ -515,7 +515,11 @@ Your browser does not support the <code>audio</code> element.</audio> </span>
 
 ### Exodus 19 {-}
 
-<span class="scc">Click to hear the passage read by Abraham Shmuelof:<audio controls src="./images/t0219.m4a">
+> Click the "Show" button for the full text of the Study Passage along with audio read by Abraham Shmuelof
+
+<div class="fold">
+
+<span class="scc"><audio controls src="./images/t0219.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
  </span>
 
@@ -573,6 +577,7 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 25  וַיֵּ֥רֶד מֹשֶׁ֖ה אֶל־הָעָ֑ם וַיֹּ֖אמֶר אֲלֵהֶֽם׃ ס ‬
 
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 

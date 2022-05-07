@@ -423,7 +423,7 @@ function setPlaySpeed25() {x.playbackRate = 2.5;x.play();}
 > 1י ALWAYS drops consonantal <span class="he">י</span> when it is $R_1$
 
 * $V_P =\bar E$ or $V_P = \hat I$ (Hireq+Yod) - not the consonant Yod but the vowel letter
-* $V_S = \bar E$ or $V_S = A$
+* $V_S = \bar E$ (or $V_S = A$ if stative)
 * See examples
 
 | | To return ישׁב | To Inherit ירשׁ | Strong
@@ -715,10 +715,13 @@ Inflect and translate the Qal Verbs below. Be sure to look up any unfamiliar wor
 
 ### Ruth 1 {-}
 
-<div class="scc">Ruth 1 read by Abraham Shmuelof:<audio controls src="./images/t2901.m4a">
+> Click the "Show" button for the full text of Ruth 1 along with audio read by Abraham Shmuelof.
+
+<div class="fold">
+
+<div class="scc">Ruth 1 Audio<audio controls src="./images/t2901.m4a">
 Your browser does not support the <code>audio</code> element.</audio>
 </div>
-
 
 
 <span class="he"><p align="right">
@@ -767,18 +770,23 @@ Your browser does not support the <code>audio</code> element.</audio>
 ‫ 22  וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃ ‬
 </span></p>
 
-## Claim your next Twelve Tribes Badge! {-}
+
+</div>
+
+
+
+
+## Claim your JOSEPH Twelve Tribes Badge! {-}
 
 <!-- Lesson 16 Tribe Badge 6 = Joseph -->
 
 Once you have completed **all activities** through this lesson, you can fill out the form below and receive your next badge!
 
-[Open Badge form in a new window](https://forms.gle/y2JPkZAxVGEsmACr6){target="_blank"}
+[Open Badge form in a new window](https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform){target="_blank"}
 
-<div class="containerLtr">
-<iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSe6Ej-coO_sNrQK4EpyVEsDsr11ksCaEhrHQMJW2xrQ3Fk2Iw/viewform?embedded=true" frameborder="0"></iframe>
+<div class="containerLet">
+<iframe class ="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLScsBNKVdLba7RS1EC3bDB-7nO8n1JSwPDskNLSMIhDMcIVt6Q/viewform?embedded=true" frameborder="0"></iframe>
 </div>
-
 
 
 ## Honors Track: Hebrew Quest Study Passage: Proverbs #15-17 {-}
@@ -809,6 +817,10 @@ Your browser does not support the <code>audio</code> element.</audio> </div>
 
 ### Proverbs Sessions 15-17 {-}
 
+
+> Click the "Show" button for the full text of the Study Passages
+
+<div class="fold">
 
 <span class="he"><p align="right">
 
@@ -900,6 +912,7 @@ Your browser does not support the <code>audio</code> element.</audio> </div>
 (Proverbs 29:18)
 
 </span></p>
+</div>
 
 ## Lesson Extras {-}
 
